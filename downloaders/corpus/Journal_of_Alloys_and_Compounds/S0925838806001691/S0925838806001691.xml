@@ -1,0 +1,1183 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838806001691</prism:url><dc:identifier>doi:10.1016/j.jallcom.2006.02.010</dc:identifier><eid>1-s2.0-S0925838806001691</eid><prism:doi>10.1016/j.jallcom.2006.02.010</prism:doi><pii>S0925-8388(06)00169-1</pii><dc:title>A study on lattice parameters of martensite in Ni–Ti–Ta shape memory alloys </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>426</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>144</prism:startingpage><prism:endingpage>147</prism:endingpage><prism:pagerange>144-147</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2006-12-21</prism:coverdate><prism:coverdisplaydate>21 December 2006</prism:coverdisplaydate><prism:copyright>Copyright © 2006 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Gong, Changwei</dc:creator><dc:creator>Guo, Fenfang</dc:creator><dc:creator>Yang, Dazhi</dc:creator><dc:description>
+                  The lattice parameters of B19′ martensite in Ni–Ti–Ta shape memory alloys are analyzed by means of the X-ray diffraction (XRD), the selected area diffraction patterns (SADPs) of transmission electron microscopy (TEM) and the multiphase Rietveld methods. Experimental results indicate that when the Ni content is constant, the lattice parameters a and c, monoclinic angle β and unit cell volume V increase, while lattice parameter b decreases with increasing Ta content; when the Ta content is constant, the lattice parameters a and c, monoclinic angle β and unit cell volume V increase, while lattice parameter b decreases with increasing Ni content. With the unit cell volume V increased, the R factor and the aberration of unit cell increase.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Ni–Ti–Ta shape memory alloys</dcterms:subject><dcterms:subject>Martensitic transformation</dcterms:subject><dcterms:subject>Lattice parameters</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838806001691" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838806001691" rel="scidir"/></coredata><objects><object category="thumbnail" height="17" mimetype="image/gif" multimediatype="GIF image file" ref="si4" size="261" type="ALTIMG" width="53">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806001691-si4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="17" mimetype="image/gif" multimediatype="GIF image file" ref="si3" size="275" type="ALTIMG" width="53">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806001691-si3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="17" mimetype="image/gif" multimediatype="GIF image file" ref="si2" size="261" type="ALTIMG" width="53">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806001691-si2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="17" mimetype="image/gif" multimediatype="GIF image file" ref="si1" size="275" type="ALTIMG" width="53">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806001691-si1.gif?httpAccept=%2A%2F%2A</object><object category="standard" height="747" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="148942" type="IMAGE-DOWNSAMPLED" width="748">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806001691-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="2230" type="IMAGE-THUMBNAIL" width="93">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806001691-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="255" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="12691" type="IMAGE-DOWNSAMPLED" width="354">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806001691-gr2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="90" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="2526" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806001691-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="663" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="62443" type="IMAGE-DOWNSAMPLED" width="368">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806001691-gr4.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="1275" type="IMAGE-THUMBNAIL" width="52">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806001691-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="480" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="9935" type="IMAGE-DOWNSAMPLED" width="311">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806001691-gr1.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="1073" type="IMAGE-THUMBNAIL" width="60">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806001691-gr1.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>33751211840</scopus-id><scopus-eid>2-s2.0-33751211840</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/33751211840" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20060323">2006-03-23</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20060323">2006-03-23</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-03-29T07:36:02</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838806001691</xocs:eid>
+<xocs:pii-formatted>S0925-8388(06)00169-1</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838806001691</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2006.02.010</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838806X02645</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.326594-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20061221</xocs:date-search-begin>
+<xocs:year-nav>2006</xocs:year-nav>
+<xocs:indexeddate epoch="1143072000">2006-03-23T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body mmlmath affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>426</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>426</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 426, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>26</xocs:sort-order>
+<xocs:first-fp>144</xocs:first-fp>
+<xocs:last-lp>147</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>144</xocs:first-page>
+<xocs:last-page>147</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20061221</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>21 December 2006</xocs:cover-date-text>
+<xocs:cover-date-start>2006-12-21</xocs:cover-date-start>
+<xocs:cover-date-year>2006</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Metallurgy</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2006 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>ASTUDYLATTICEPARAMETERSMARTENSITEINNITITASHAPEMEMORYALLOYS</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>GONG</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>C</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental procedure</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>CUSCHIERI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1991</xocs:ref-pub-year>
+<xocs:ref-first-fp>179</xocs:ref-first-fp>
+<xocs:ref-last-lp>181</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>DUERIG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>149</xocs:ref-first-fp>
+<xocs:ref-last-lp>160</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>DUERIG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>235</xocs:ref-first-fp>
+<xocs:ref-last-lp>246</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>GERBER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1980</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>EVALUATIONBIOMATERIALS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>MA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>534</xocs:ref-first-fp>
+<xocs:ref-last-lp>536</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>MA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>179</xocs:ref-first-fp>
+<xocs:ref-last-lp>182</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>GONG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2006</xocs:ref-pub-year>
+<xocs:ref-first-fp>183</xocs:ref-first-fp>
+<xocs:ref-last-lp>187</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8"></xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>RIETVELD</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1969</xocs:ref-pub-year>
+<xocs:ref-first-fp>65</xocs:ref-first-fp>
+<xocs:ref-last-lp>71</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>VILLARS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1991</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>PEARSONSHANDBOOKCRYSTALLOGRAPHICDATAFORINTERMETALLICPHASES</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>KUDOH</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1985</xocs:ref-pub-year>
+<xocs:ref-first-fp>2045</xocs:ref-first-fp>
+<xocs:ref-last-lp>2056</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>GONGX2006X144</xocs:refkey3>
+<xocs:refkey4lp>GONGX2006X144X147</xocs:refkey4lp>
+<xocs:refkey4ai>GONGX2006X144XC</xocs:refkey4ai>
+<xocs:refkey5>GONGX2006X144X147XC</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(06)00169-1</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838806001691</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838806001691</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2006.02.010</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-08T03:53:20.130199-04:00</xocs:timestamp>
+<xocs:cover-date-start>2006-12-21</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838806001691-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806001691/MAIN/application/pdf/b5539e1ce37afec169cf94c0c0b1077b/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806001691/MAIN/application/pdf/b5539e1ce37afec169cf94c0c0b1077b/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>446256</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838806001691-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806001691/PREVIEW/image/png/a5d7a62994bdbff30b605af3af57fd5c/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806001691/PREVIEW/image/png/a5d7a62994bdbff30b605af3af57fd5c/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>64133</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806001691-si4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806001691/STRIPIN/image/gif/aa8f969e24e7ee4e21ad746eaa1af37f/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806001691/STRIPIN/image/gif/aa8f969e24e7ee4e21ad746eaa1af37f/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si4</xocs:file-basename>
+<xocs:filename>si4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>261</xocs:filesize>
+<xocs:pixel-height>17</xocs:pixel-height>
+<xocs:pixel-width>53</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806001691-si3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806001691/STRIPIN/image/gif/7acf424a99f859b1dec4ac627c17c4b1/si3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806001691/STRIPIN/image/gif/7acf424a99f859b1dec4ac627c17c4b1/si3.gif</xocs:ucs-locator>
+<xocs:file-basename>si3</xocs:file-basename>
+<xocs:filename>si3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>275</xocs:filesize>
+<xocs:pixel-height>17</xocs:pixel-height>
+<xocs:pixel-width>53</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806001691-si2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806001691/STRIPIN/image/gif/aa8f969e24e7ee4e21ad746eaa1af37f/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806001691/STRIPIN/image/gif/aa8f969e24e7ee4e21ad746eaa1af37f/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si2</xocs:file-basename>
+<xocs:filename>si2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>261</xocs:filesize>
+<xocs:pixel-height>17</xocs:pixel-height>
+<xocs:pixel-width>53</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806001691-si1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806001691/STRIPIN/image/gif/7acf424a99f859b1dec4ac627c17c4b1/si3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806001691/STRIPIN/image/gif/7acf424a99f859b1dec4ac627c17c4b1/si3.gif</xocs:ucs-locator>
+<xocs:file-basename>si1</xocs:file-basename>
+<xocs:filename>si1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>275</xocs:filesize>
+<xocs:pixel-height>17</xocs:pixel-height>
+<xocs:pixel-width>53</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806001691-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806001691/gr3/DOWNSAMPLED/image/jpeg/239f17acfe2f429d859acd273c41e3ef/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806001691/gr3/DOWNSAMPLED/image/jpeg/239f17acfe2f429d859acd273c41e3ef/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>148942</xocs:filesize>
+<xocs:pixel-height>747</xocs:pixel-height>
+<xocs:pixel-width>748</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806001691-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806001691/gr3/THUMBNAIL/image/gif/dae52c9322af9ad17a6de6c0f58cac76/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806001691/gr3/THUMBNAIL/image/gif/dae52c9322af9ad17a6de6c0f58cac76/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2230</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>93</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806001691-gr2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806001691/gr2/DOWNSAMPLED/image/gif/cbf220b67993a689063f7a9f18a2a543/gr2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806001691/gr2/DOWNSAMPLED/image/gif/cbf220b67993a689063f7a9f18a2a543/gr2.gif</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>12691</xocs:filesize>
+<xocs:pixel-height>255</xocs:pixel-height>
+<xocs:pixel-width>354</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806001691-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806001691/gr2/THUMBNAIL/image/gif/62dcb3f5d336121430cf4563b621a52f/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806001691/gr2/THUMBNAIL/image/gif/62dcb3f5d336121430cf4563b621a52f/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2526</xocs:filesize>
+<xocs:pixel-height>90</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806001691-gr4.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806001691/gr4/DOWNSAMPLED/image/jpeg/5df3c2bc6241e7e395cb8ad77084027f/gr4.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806001691/gr4/DOWNSAMPLED/image/jpeg/5df3c2bc6241e7e395cb8ad77084027f/gr4.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>62443</xocs:filesize>
+<xocs:pixel-height>663</xocs:pixel-height>
+<xocs:pixel-width>368</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806001691-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806001691/gr4/THUMBNAIL/image/gif/fc51df7afe141bb9af8862f32d171093/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806001691/gr4/THUMBNAIL/image/gif/fc51df7afe141bb9af8862f32d171093/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1275</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>52</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806001691-gr1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806001691/gr1/DOWNSAMPLED/image/gif/0608422d5994dbbdf15f3392ad05575c/gr1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806001691/gr1/DOWNSAMPLED/image/gif/0608422d5994dbbdf15f3392ad05575c/gr1.gif</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>9935</xocs:filesize>
+<xocs:pixel-height>480</xocs:pixel-height>
+<xocs:pixel-width>311</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806001691-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806001691/gr1/THUMBNAIL/image/gif/0fb79eacd8b1d6718fcb103cb2151979/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806001691/gr1/THUMBNAIL/image/gif/0fb79eacd8b1d6718fcb103cb2151979/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1073</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>60</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>13655</aid>
+<ce:pii>S0925-8388(06)00169-1</ce:pii>
+<ce:doi>10.1016/j.jallcom.2006.02.010</ce:doi>
+<ce:copyright type="full-transfer" year="2006">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">DSC curves of Ni<ce:inf loc="post">50</ce:inf>Ti<ce:inf loc="post">47</ce:inf>Ta<ce:inf loc="post">3</ce:inf>, Ni<ce:inf loc="post">50</ce:inf>Ti<ce:inf loc="post">45</ce:inf>Ta<ce:inf loc="post">5</ce:inf> and Ni<ce:inf loc="post">49</ce:inf>Ti<ce:inf loc="post">46</ce:inf>Ta<ce:inf loc="post">5</ce:inf> alloys.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRD patterns of the solution-treated Ni<ce:inf loc="post">50</ce:inf>Ti<ce:inf loc="post">47</ce:inf>Ta<ce:inf loc="post">3</ce:inf>, Ni<ce:inf loc="post">50</ce:inf>Ti<ce:inf loc="post">45</ce:inf>Ta<ce:inf loc="post">5</ce:inf> and Ni<ce:inf loc="post">49</ce:inf>Ti<ce:inf loc="post">46</ce:inf>Ta<ce:inf loc="post">5</ce:inf> alloys.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">(a) TEM bright-field image of the solution-treated Ni<ce:inf loc="post">50</ce:inf>Ti<ce:inf loc="post">45</ce:inf>Ta<ce:inf loc="post">5</ce:inf> alloy. SADP of (a) with: (b) [1<ce:hsp sp="0.25"></ce:hsp>0<ce:hsp sp="0.25"></ce:hsp>0]<ce:inf loc="post">M</ce:inf> zone axis and (c) [0<ce:hsp sp="0.25"></ce:hsp>1<ce:hsp sp="0.25"></ce:hsp>0]<ce:inf loc="post">M</ce:inf> zone axis.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Results of the Rietveld refinement for <ce:italic>P</ce:italic>2<ce:inf loc="post">1</ce:inf>/<ce:italic>m</ce:italic> model. Observed diffraction profile and calculated one for (a) Ni<ce:inf loc="post">50</ce:inf>Ti<ce:inf loc="post">47</ce:inf>Ta<ce:inf loc="post">3</ce:inf>, (b) Ni<ce:inf loc="post">50</ce:inf>Ti<ce:inf loc="post">45</ce:inf>Ta<ce:inf loc="post">5</ce:inf> and (c) Ni<ce:inf loc="post">49</ce:inf>Ti<ce:inf loc="post">46</ce:inf>Ta<ce:inf loc="post">5</ce:inf> alloys, respectively. In each figure, the lower curve stands for the deviations between observed and calculated intensities.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:table colsep="0" frame="topbot" id="tbl1" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Transformation temperatures for solution-treated Ni–Ti–Ta alloys</ce:simple-para>
+</ce:caption>
+<tgroup cols="7">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<colspec colname="col5"></colspec>
+<colspec colname="col6"></colspec>
+<colspec colname="col7"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Alloy</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>M</italic>
+<inf loc="post">f</inf> (°C)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>M</italic>
+<sup loc="post">*</sup> (°C)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>M</italic>
+<inf loc="post">s</inf> (°C)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>A</italic>
+<inf loc="post">s</inf> (°C)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>A</italic>
+<sup loc="post">*</sup> (°C)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>A</italic>
+<inf loc="post">f</inf> (°C)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ni<inf loc="post">50</inf>Ti<inf loc="post">47</inf>Ta<inf loc="post">3</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">41</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">53</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">58</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">90</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">101</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">106</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ni<inf loc="post">50</inf>Ti<inf loc="post">45</inf>Ta<inf loc="post">5</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">31</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">40</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">44</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">76</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">93</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">99</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ni<inf loc="post">49</inf>Ti<inf loc="post">46</inf>Ta<inf loc="post">5</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">41</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">50</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">55</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">77</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">84</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">100</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl2" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">The lattice parameters and unit cell volume of B19′ martensite in Ni–Ti–Ta alloys</ce:simple-para>
+</ce:caption>
+<tgroup cols="6">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<colspec colname="col5"></colspec>
+<colspec colname="col6"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Alloy</entry>
+<entry align="left" nameend="col6" namest="col2" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Parameter</entry>
+</row>
+<row>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>a</italic> (nm)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>b</italic> (nm)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>c</italic> (nm)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>β</italic> (°)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>V</italic> (nm<sup loc="post">3</sup>)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" nameend="col6" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">By XRD profile</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Ni<inf loc="post">50</inf>Ti<inf loc="post">47</inf>Ta<inf loc="post">3</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.2907</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.4115</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.4665</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">98.49</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.05521</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Ni<inf loc="post">50</inf>Ti<inf loc="post">45</inf>Ta<inf loc="post">5</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.2926</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.4105</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.4666</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">98.51</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.05543</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Ni<inf loc="post">49</inf>Ti<inf loc="post">46</inf>Ta<inf loc="post">5</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.2922</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.4099</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.4676</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">98.67</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.05537</entry>
+</row>
+<row>
+<entry align="left" nameend="col6" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<vsp sp="0.5"></vsp>
+</entry>
+</row>
+<row>
+<entry align="left" nameend="col6" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">By Rietveld method</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Ni<inf loc="post">50</inf>Ti<inf loc="post">47</inf>Ta<inf loc="post">3</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.2910</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.4111</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.4669</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">98.36</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.05526</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Ni<inf loc="post">50</inf>Ti<inf loc="post">45</inf>Ta<inf loc="post">5</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.2922</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.4110</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.4684</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">98.58</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.05562</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Ni<inf loc="post">49</inf>Ti<inf loc="post">46</inf>Ta<inf loc="post">5</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.2920</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.4108</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.4690</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">98.75</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.05560</entry>
+</row>
+<row>
+<entry align="left" nameend="col6" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<vsp sp="0.5"></vsp>
+</entry>
+</row>
+<row>
+<entry align="left" nameend="col6" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">By SADP of TEM</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Ni<inf loc="post">50</inf>Ti<inf loc="post">45</inf>Ta<inf loc="post">5</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.2920</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.4112</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.4681</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">99.51</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.05543</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl3" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">
+<ce:italic>R</ce:italic> factors for three Ni–Ti–Ta alloys</ce:simple-para>
+</ce:caption>
+<tgroup cols="3">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Alloys</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>R</italic>
+<inf loc="post">p</inf> (%)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>R</italic>
+<inf loc="post">wp</inf> (%)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ni<inf loc="post">50</inf>Ti<inf loc="post">47</inf>Ta<inf loc="post">3</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">13.76</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">17.15</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ni<inf loc="post">50</inf>Ti<inf loc="post">45</inf>Ta<inf loc="post">5</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">16.61</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">21.92</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ni<inf loc="post">49</inf>Ti<inf loc="post">46</inf>Ta<inf loc="post">5</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">15.54</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">21.83</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+</ce:floats>
+<ce:title>A study on lattice parameters of martensite in Ni–Ti–Ta shape memory alloys</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>Changwei</ce:given-name>
+<ce:surname>Gong</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="cor1">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Fenfang</ce:given-name>
+<ce:surname>Guo</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Dazhi</ce:given-name>
+<ce:surname>Yang</ce:surname>
+<ce:cross-ref refid="aff3">
+<ce:sup loc="post">c</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation id="aff1">
+<ce:label>a</ce:label>
+<ce:textfn>School of Materials Science and Engineering, Taiyuan University of Science and Technology, Taiyuan 030024, PR China</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff2">
+<ce:label>b</ce:label>
+<ce:textfn>Section of Measurement, Fenxi Machinery Plant, Taiyuan 030027, PR China</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff3">
+<ce:label>c</ce:label>
+<ce:textfn>School of Materials Science and Engineering, Dalian University of Technology, Dalian 76023, PR China</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>⁎</ce:label>
+<ce:text>Corresponding author. Tel.: +86 351 6585265.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="23" month="1" year="2006"></ce:date-received>
+<ce:date-revised day="5" month="2" year="2006"></ce:date-revised>
+<ce:date-accepted day="6" month="2" year="2006"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">The lattice parameters of B19′ martensite in Ni–Ti–Ta shape memory alloys are analyzed by means of the X-ray diffraction (XRD), the selected area diffraction patterns (SADPs) of transmission electron microscopy (TEM) and the multiphase Rietveld methods. Experimental results indicate that when the Ni content is constant, the lattice parameters <ce:italic>a</ce:italic> and <ce:italic>c</ce:italic>, monoclinic angle <ce:italic>β</ce:italic> and unit cell volume <ce:italic>V</ce:italic> increase, while lattice parameter <ce:italic>b</ce:italic> decreases with increasing Ta content; when the Ta content is constant, the lattice parameters <ce:italic>a</ce:italic> and <ce:italic>c</ce:italic>, monoclinic angle <ce:italic>β</ce:italic> and unit cell volume <ce:italic>V</ce:italic> increase, while lattice parameter <ce:italic>b</ce:italic> decreases with increasing Ni content. With the unit cell volume <ce:italic>V</ce:italic> increased, the <ce:italic>R</ce:italic> factor and the aberration of unit cell increase.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Ni–Ti–Ta shape memory alloys</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Martensitic transformation</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Lattice parameters</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">The Ni–Ti shape memory alloys (SMAs), as implanted materials, are currently a topic of notable interest in the medicine field because of unique shape memory effect (SME) and superelasticity (SE) <ce:cross-refs refid="bib1 bib2 bib3">[1–3]</ce:cross-refs>. The high nickel content of Ni–Ti could cause toxicity <ce:cross-ref refid="bib4">[4]</ce:cross-ref>; thus, more investigations are needed to use them widely in the medicine field. Recently, the Ni–Ti alloys have been used in the interventional operation. It is very difficult to detect the very small implantable devices or tools that are made of NiTi alloys due to low X-ray visibility. It is absolutely necessarily to improve the X-ray visibility.</ce:para>
+<ce:para view="all">The third element Ta addition can increase X-ray visibility <ce:cross-refs refid="bib5 bib6">[5,6]</ce:cross-refs>. The transformation temperatures of Ni–Ti–Ta alloys are less sensitive to the Ni content <ce:cross-ref refid="bib5">[5]</ce:cross-ref>. Due to these features, it is attractive to biomedical application for the Ni–Ti–Ta alloys. The phase transformation behaviors, the effects of thermo-mechanical treatments and precipitated second phase particles in Ni–Ti–Ta SMAs have been studied <ce:cross-refs refid="bib7 bib8">[7,8]</ce:cross-refs>. As we know, the third element addition can influence the mechanical properties of binary Ni–Ti alloy, which is relative to its crystal structures, but the lattice parameters of B19′ martensite changing with Ta content in these alloys have not yet been reported. In this study, the effects of Ta content on lattice parameters of martensite in Ni–Ti–Ta SMAs are investigated using the X-ray diffraction (XRD), the selected area diffraction patterns (SADPs) of transmission electron microscopy (TEM) and the multiphase Rietveld methods.</ce:para>
+</ce:section>
+<ce:section role="materials-methods" view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental procedure</ce:section-title>
+<ce:para view="all">The Ni<ce:inf loc="post">50</ce:inf>Ti<ce:inf loc="post">47</ce:inf>Ta<ce:inf loc="post">3</ce:inf>, Ni<ce:inf loc="post">50</ce:inf>Ti<ce:inf loc="post">45</ce:inf>Ta<ce:inf loc="post">5</ce:inf> and Ni<ce:inf loc="post">49</ce:inf>Ti<ce:inf loc="post">46</ce:inf>Ta<ce:inf loc="post">5</ce:inf> (at.%) alloys were melted in a high frequency vacuum induced furnace. To improve the metallurgy quality, the master alloy Ni<ce:inf loc="post">50.8</ce:inf>Ti<ce:inf loc="post">49.2</ce:inf> (at.%) was used. At the same time, 99.8<ce:hsp sp="0.25"></ce:hsp>wt% Ta plate, 99.5<ce:hsp sp="0.25"></ce:hsp>wt% electrolytic Ni plate and 99.7<ce:hsp sp="0.25"></ce:hsp>wt% sponge Ti were used as raw materials. A pure titanium block was also used and melted before melting the alloys as an oxygen getter. The mass loss during the melting was negligibly small. The as-melted blocks were homogenized, forged and then hot drawn to 8<ce:hsp sp="0.25"></ce:hsp>mm in diameter. The rods were cut into several plates with a low speed diamond saw and annealed for 1<ce:hsp sp="0.25"></ce:hsp>h at 850<ce:hsp sp="0.25"></ce:hsp>°C and then quenched into water. The acquired specimens were polished for differential scanning calorimetry (DSC), XRD and TEM examinations.</ce:para>
+<ce:para view="all">The phase transformation temperatures were measured using a Mettler Toledo DSC822<ce:sup loc="post">e</ce:sup> DSC with a heating/cooling rate of 5<ce:hsp sp="0.25"></ce:hsp>K/min. The temperature range of measurements is from 0 to 80<ce:hsp sp="0.25"></ce:hsp>°C. X-ray diffraction measurements were performed in step scan mode with a step interval of 0.02° using a Cu Kα radiation (<ce:italic>λ</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>0.114060<ce:hsp sp="0.25"></ce:hsp>nm) at room temperature. X-ray diffraction patterns were analyzed and refined by means of the multiphase Rietveld method <ce:cross-ref refid="bib9">[9]</ce:cross-ref>. In this paper, we did not refine atom-positional, thermal and site-occupancy parameters, and only refine the parameters for the background, lattice, instrumental geometrical–optical features, specimen aberrations and specimen reflection profile broadening agents such as crystallite size and microstrain. Multiple phases may also be refined simultaneously and comparative analysis of the separate overall scale factors for the phases offers what is probably the most reliable current method for quantitative phase analysis. Specimens for the TEM observation were prepared by jet electron polishing with a solution of one-part HNO<ce:inf loc="post">3</ce:inf> and three-parts CH<ce:inf loc="post">3</ce:inf>OH at around −30<ce:hsp sp="0.25"></ce:hsp>°C. TEM observations were carried out on a Philips Tecnai G<ce:sup loc="post">2</ce:sup> 20 electron microscopy operated at 200<ce:hsp sp="0.25"></ce:hsp>kV, using FEI double-tilt specimen stage. The images were recorded using CCD slow-scan camera and then analyzed by the Digital Micrograph software.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:para view="all">
+<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor> shows the experimental results of DSC measurements for the solution-treated Ni<ce:inf loc="post">50</ce:inf>Ti<ce:inf loc="post">47</ce:inf>Ta<ce:inf loc="post">3</ce:inf>, Ni<ce:inf loc="post">50</ce:inf>Ti<ce:inf loc="post">45</ce:inf>Ta<ce:inf loc="post">5</ce:inf> and Ni<ce:inf loc="post">49</ce:inf>Ti<ce:inf loc="post">46</ce:inf>Ta<ce:inf loc="post">5</ce:inf> alloys on both heating and cooling cycles. The peak temperatures <ce:italic>M</ce:italic>
+<ce:sup loc="post">*</ce:sup> and <ce:italic>A</ce:italic>
+<ce:sup loc="post">*</ce:sup> (including forward martensitic transformation start temperatures (<ce:italic>M</ce:italic>
+<ce:inf loc="post">s</ce:inf>), forward martensitic transformation finish temperatures (<ce:italic>M</ce:italic>
+<ce:inf loc="post">f</ce:inf>), reverse martensitic transformation start temperatures (<ce:italic>A</ce:italic>
+<ce:inf loc="post">s</ce:inf>) and reverse martensitic transformation finish temperatures (<ce:italic>A</ce:italic>
+<ce:inf loc="post">f</ce:inf>)) appearing in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref> are listed in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+<ce:float-anchor refid="tbl1"></ce:float-anchor> for the three alloys. It can be seen from <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref> that the transformations of these alloys are characterized as one-stage B2<ce:hsp sp="0.25"></ce:hsp>↔<ce:hsp sp="0.25"></ce:hsp>B19′ transformation.</ce:para>
+<ce:para view="all">In the Ni–Ti–Ta alloys, a great number of second phase particles are seen around the grain boundary with (Ti, Ta)<ce:inf loc="post">2</ce:inf>Ni and β-Ta phases <ce:cross-ref refid="bib7">[7]</ce:cross-ref>. The β-Ta phase is a soft phase. <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor> shows the XRD patterns for the three Ni–Ti–Ta alloys. The lattice parameters of the B19′ martensite are calculated by three methods: (1) comparing these results with those of the B19′ martensite in the Ni<ce:inf loc="post">50</ce:inf>Ti<ce:inf loc="post">50</ce:inf> alloy <ce:cross-ref refid="bib10">[10]</ce:cross-ref>, from the principal peaks of <mml:math altimg="si1.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mtext>M</mml:mtext>
+</mml:msub>
+</mml:mrow>
+</mml:math>, (0<ce:hsp sp="0.25"></ce:hsp>0<ce:hsp sp="0.25"></ce:hsp>2)<ce:inf loc="post">M</ce:inf>, <mml:math altimg="si2.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mtext>M</mml:mtext>
+</mml:msub>
+</mml:mrow>
+</mml:math>, (0<ce:hsp sp="0.25"></ce:hsp>2<ce:hsp sp="0.25"></ce:hsp>0)<ce:inf loc="post">M</ce:inf>, (1<ce:hsp sp="0.25"></ce:hsp>1<ce:hsp sp="0.25"></ce:hsp>1)<ce:inf loc="post">M</ce:inf> and (0<ce:hsp sp="0.25"></ce:hsp>2<ce:hsp sp="0.25"></ce:hsp>2)<ce:inf loc="post">M</ce:inf> shown in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>; (2) refining and analyzing the X-ray diffraction results by the multiphase Rietveld method; (3) analyzing the electron diffracting patterns. <ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>
+<ce:float-anchor refid="tbl2"></ce:float-anchor> lists the calculated lattice parameters <ce:italic>a</ce:italic>, <ce:italic>b</ce:italic>, <ce:italic>c</ce:italic>, <ce:italic>β</ce:italic> and the unit cell volume <ce:italic>V</ce:italic> of the B19′ martensite, where <ce:italic>a</ce:italic>, <ce:italic>b</ce:italic> and <ce:italic>c</ce:italic> are lattice constants and <ce:italic>β</ce:italic> is the monoclinic angle of the B19′ martensite. From <ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>, it can be seen when the Ni content is constant, the lattice parameters <ce:italic>a</ce:italic> and <ce:italic>c</ce:italic>, monoclinic angle <ce:italic>β</ce:italic> and unit cell volume <ce:italic>V</ce:italic> increase while lattice parameter <ce:italic>b</ce:italic> decreases with increasing Ta content; when the Ta content is constant, the lattice parameters <ce:italic>a</ce:italic> and <ce:italic>c</ce:italic>, monoclinic angle <ce:italic>β</ce:italic> and unit cell volume <ce:italic>V</ce:italic> increase while lattice parameter <ce:italic>b</ce:italic> decreases with increasing Ni content. It is found that the volume of β-Ta phase particles in Ni<ce:inf loc="post">49</ce:inf>Ti<ce:inf loc="post">46</ce:inf>Ta<ce:inf loc="post">5</ce:inf> alloy is more than that of Ni<ce:inf loc="post">50</ce:inf>Ti<ce:inf loc="post">45</ce:inf>Ta<ce:inf loc="post">5</ce:inf> alloy <ce:cross-ref refid="bib7">[7]</ce:cross-ref>. Thus, the amount of Ta atoms in the solid solution of the NiTi matrix of Ni<ce:inf loc="post">50</ce:inf>Ti<ce:inf loc="post">45</ce:inf>Ta<ce:inf loc="post">5</ce:inf> alloy is more than that of Ni<ce:inf loc="post">49</ce:inf>Ti<ce:inf loc="post">46</ce:inf>Ta<ce:inf loc="post">5</ce:inf> alloy. The Ta atom radius of Ta (0.149<ce:hsp sp="0.25"></ce:hsp>nm) is larger than Ti (0.147<ce:hsp sp="0.25"></ce:hsp>nm) and Ni (0.124<ce:hsp sp="0.25"></ce:hsp>nm). The change of lattice parameters is consistent with that of volume of β-Ta phase particles.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>(a)<ce:float-anchor refid="fig3"></ce:float-anchor> shows the TEM bright field image of martensite in solution-treated Ni<ce:inf loc="post">50</ce:inf>Ti<ce:inf loc="post">45</ce:inf>Ta<ce:inf loc="post">5</ce:inf> alloy. <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>(b and c) is the corresponding selected area electron diffraction pattern along [1<ce:hsp sp="0.25"></ce:hsp>0<ce:hsp sp="0.25"></ce:hsp>0]<ce:inf loc="post">M</ce:inf> and [0<ce:hsp sp="0.25"></ce:hsp>1<ce:hsp sp="0.25"></ce:hsp>0]<ce:inf loc="post">M</ce:inf> directions. From <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>(b and c), one can calculate the lattice parameters and the results are shown in <ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>. <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>(a–c)<ce:float-anchor refid="fig4"></ce:float-anchor> shows the results of the multiphase Rietveld analysis method of three solution-treated Ni–Ti–Ta alloys. In the upper curves of <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>(a), the dashed lines indicate the observed XRD data of <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref> and the solid lines indicate the pattern calculated by the multiphase Rietveld analysis method using the B19′ martensitic structure model (monoclinic, the space group <ce:italic>P</ce:italic>2<ce:inf loc="post">1</ce:inf>/<ce:italic>m</ce:italic>
+<ce:cross-ref refid="bib11">[11]</ce:cross-ref>). The differences between the observed and calculated values are shown in the lower curves of <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>(a). <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>(a) indicates that the curve fitting of calculated peaks to observed ones, such as <mml:math altimg="si3.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mtext>M</mml:mtext>
+</mml:msub>
+</mml:mrow>
+</mml:math>, (0<ce:hsp sp="0.25"></ce:hsp>0<ce:hsp sp="0.25"></ce:hsp>2)<ce:inf loc="post">M</ce:inf>, <mml:math altimg="si4.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mtext>M</mml:mtext>
+</mml:msub>
+</mml:mrow>
+</mml:math>, (0<ce:hsp sp="0.25"></ce:hsp>2<ce:hsp sp="0.25"></ce:hsp>0)<ce:inf loc="post">M</ce:inf>, (1<ce:hsp sp="0.25"></ce:hsp>1<ce:hsp sp="0.25"></ce:hsp>1)<ce:inf loc="post">M</ce:inf> and (0<ce:hsp sp="0.25"></ce:hsp>2<ce:hsp sp="0.25"></ce:hsp>2)<ce:inf loc="post">M</ce:inf> of <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>, is rather good. The final reliability, <ce:italic>R</ce:italic> factors, <ce:italic>R</ce:italic>
+<ce:inf loc="post">p</ce:inf> and <ce:italic>R</ce:italic>
+<ce:inf loc="post">wp</ce:inf> for the three Ni–Ti–Ta alloys, are listed in <ce:cross-ref refid="tbl3">Table 3</ce:cross-ref>
+<ce:float-anchor refid="tbl3"></ce:float-anchor>. The subscripts ‘wp’ and ‘p’ mean weighed pattern and pattern, respectively. Because the atom-positional, thermal and site-occupancy parameters are not refined, the values of <ce:italic>R</ce:italic>
+<ce:inf loc="post">p</ce:inf> and <ce:italic>R</ce:italic>
+<ce:inf loc="post">wp</ce:inf> are rather high. From <ce:cross-ref refid="tbl3">Table 3</ce:cross-ref>, it can be seen when the Ni content is constant, <ce:italic>R</ce:italic> factor increases with increasing Ta content; when the Ta content is constant, the <ce:italic>R</ce:italic> factor increases with increasing Ni content. The lower the <ce:italic>R</ce:italic> factor is, the better the curve fitting of calculated peaks to observed ones for the B19′ martensite. It is suggested that more Ta addition cause more aberration of unit cell for the B19′ martensite. A further study on the structure change for more Ta addition Ni–Ti–Ta alloy is being conducted now.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusion</ce:section-title>
+<ce:para view="all">
+<ce:list>
+<ce:list-item>
+<ce:label>1.</ce:label>
+<ce:para view="all">The phase transformations of Ni–Ti–Ta shape memory alloys are characterized as one-stage B2<ce:hsp sp="0.25"></ce:hsp>↔<ce:hsp sp="0.25"></ce:hsp>B19′ transformation.</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>2.</ce:label>
+<ce:para view="all">The lattice parameters of martensite in Ni–Ti–Ta alloys are analyzed by means of the XRD, the SADPs of TEM and the Rietveld methods. The results show that when the Ni content is constant, the lattice parameters <ce:italic>a</ce:italic> and <ce:italic>c</ce:italic>, monoclinic angle <ce:italic>β</ce:italic> and unit cell volume <ce:italic>V</ce:italic> increase, while lattice parameter <ce:italic>b</ce:italic> decreases with increasing Ta content; when the Ta content is constant, the lattice parameters <ce:italic>a</ce:italic> and <ce:italic>c</ce:italic>, monoclinic angle <ce:italic>β</ce:italic> and unit cell volume <ce:italic>V</ce:italic> increase, while lattice parameter <ce:italic>b</ce:italic> decreases with increasing Ni content. With the unit cell volume <ce:italic>V</ce:italic> increased, the <ce:italic>R</ce:italic> factor and the aberration of unit cell increase.</ce:para>
+</ce:list-item>
+</ce:list>
+</ce:para>
+</ce:section>
+</ce:sections>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Cuschieri</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Surg. Endosc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>5</sb:volume-nr>
+</sb:series>
+<sb:date>1991</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>179</sb:first-page>
+<sb:last-page>181</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Duerig</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Pelton</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>StÖckel</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>273–275</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>149</sb:first-page>
+<sb:last-page>160</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.W.</ce:given-name>
+<ce:surname>Duerig</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.E.</ce:given-name>
+<ce:surname>Tolomeo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Wholey</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Minim. Invasive Ther. Allied Technol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>9</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>235</sb:first-page>
+<sb:last-page>246</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Gerber</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.M.</ce:given-name>
+<ce:surname>Perren</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.D.</ce:given-name>
+<ce:surname>Winter</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.L.</ce:given-name>
+<ce:surname>Leray</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>de Groot</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Evaluation of Biomaterials</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1980</sb:date>
+<sb:publisher>
+<sb:name>Wiley</sb:name>
+<sb:location>New York</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+<sb:comment>pp. 307–310</sb:comment>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.L.</ce:given-name>
+<ce:surname>Ma</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.N.</ce:given-name>
+<ce:surname>Liu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.P.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Xue</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Sci. Technol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>16</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>534</sb:first-page>
+<sb:last-page>536</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.L.</ce:given-name>
+<ce:surname>Ma</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.H.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Pu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Forum</sb:maintitle>
+</sb:title>
+<sb:volume-nr>327–328</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>179</sb:first-page>
+<sb:last-page>182</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.W.</ce:given-name>
+<ce:surname>Gong</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.N.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.Z.</ce:given-name>
+<ce:surname>Yang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Chem. Phys.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>96</sb:volume-nr>
+</sb:series>
+<sb:date>2006</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>183</sb:first-page>
+<sb:last-page>187</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<ce:other-ref>
+<ce:textref>C.W. Gong, Y.N. Wang, D.Z. Yang, J. Alloys Compd., in press.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.M.</ce:given-name>
+<ce:surname>Rietveld</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Appl. Cryst.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>2</sb:volume-nr>
+</sb:series>
+<sb:date>1969</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>65</sb:first-page>
+<sb:last-page>71</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Villars</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.D.</ce:given-name>
+<ce:surname>Calvert</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Pearson's Handbook of Crystallographic Data for Intermetallic Phases</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1991</sb:date>
+<sb:publisher>
+<sb:name>ASM International</sb:name>
+<sb:location>Materials Park, OH</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+<sb:comment>p. 4714</sb:comment>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Kudoh</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Tokonami</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Miyazaki</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Otsuka</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Metall.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>33</sb:volume-nr>
+</sb:series>
+<sb:date>1985</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2045</sb:first-page>
+<sb:last-page>2056</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

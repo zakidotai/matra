@@ -1,0 +1,1406 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838804015105</prism:url><dc:identifier>doi:10.1016/j.jallcom.2004.11.046</dc:identifier><eid>1-s2.0-S0925838804015105</eid><prism:doi>10.1016/j.jallcom.2004.11.046</prism:doi><pii>S0925-8388(04)01510-5</pii><dc:title>Structural evolution of the Ti–Si–C system during mechanical alloying </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>395</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>88</prism:startingpage><prism:endingpage>92</prism:endingpage><prism:pagerange>88-92</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2005-05-31</prism:coverdate><prism:coverdisplaydate>31 May 2005</prism:coverdisplaydate><prism:copyright>Copyright © 2004 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Lu, C.J.</dc:creator><dc:creator>Li, Z.Q.</dc:creator><dc:description>
+                  Investigation on the structural evolution for the Ti–Si–C system during mechanical alloying (MA) using a planetary ball mill was systematically performed under identical milling conditions. Experimental results on different powder mixtures were examined and compared. Two kinds of mechanically induced chemical reactions were observed in the Ti–Si–C system, which depends on the composition of the ball-milled mixtures. Gradual reaction was observed in both the Ti50C50 and Si50C50 mixtures, and TiC and SiC as the resultants were obtained, respectively. The reaction of Ti50Si50 mixture during MA was also a gradual reaction, but the resultants are crystalline Ti5Si3 and an amorphous phase. The TiC–SiC composites, however, were synthesized by mechanically alloying the Ti25Si25C50 powder mixture through a mechanically induced self-sustaining reaction (MSR) under the same milling conditions as those of Ti50C50, Si50C50 and Ti50Si50 mixtures. So the MSR process might be applied to synthesize TiC–SiC composites. The structural evolution processes and thermodynamics of the reactions are discussed.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Mechanical alloying (MA)</dcterms:subject><dcterms:subject>Mechanically induced self-sustaining reaction (MSR)</dcterms:subject><dcterms:subject>TiC–SiC composites</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838804015105" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838804015105" rel="scidir"/></coredata><objects><object category="standard" height="371" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr5" size="65083" type="IMAGE-DOWNSAMPLED" width="268">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804015105-gr5.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="2722" type="IMAGE-THUMBNAIL" width="67">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804015105-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="291" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="10345" type="IMAGE-DOWNSAMPLED" width="376">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804015105-gr6.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="1843" type="IMAGE-THUMBNAIL" width="121">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804015105-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="318" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="5986" type="IMAGE-DOWNSAMPLED" width="375">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804015105-gr2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="1124" type="IMAGE-THUMBNAIL" width="110">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804015105-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="291" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="8702" type="IMAGE-DOWNSAMPLED" width="375">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804015105-gr1.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="1623" type="IMAGE-THUMBNAIL" width="120">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804015105-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="290" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="9850" type="IMAGE-DOWNSAMPLED" width="375">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804015105-gr4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="1757" type="IMAGE-THUMBNAIL" width="121">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804015105-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="287" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="7150" type="IMAGE-DOWNSAMPLED" width="375">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804015105-gr3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="1459" type="IMAGE-THUMBNAIL" width="122">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804015105-gr3.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>18144420064</scopus-id><scopus-eid>2-s2.0-18144420064</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/18144420064" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20050107">2005-01-07</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20050107">2005-01-07</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-04-19T04:56:56</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838804015105</xocs:eid>
+<xocs:pii-formatted>S0925-8388(04)01510-5</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838804015105</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2004.11.046</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838805X01980</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.346355-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20050531</xocs:date-search-begin>
+<xocs:year-nav>2005</xocs:year-nav>
+<xocs:indexeddate epoch="1105056000">2005-01-07T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>395</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>395</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 395, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>18</xocs:sort-order>
+<xocs:first-fp>88</xocs:first-fp>
+<xocs:last-lp>92</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>88</xocs:first-page>
+<xocs:last-page>92</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20050531</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>31 May 2005</xocs:cover-date-text>
+<xocs:cover-date-start>2005-05-31</xocs:cover-date-start>
+<xocs:cover-date-year>2005</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Metallurgy</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2004 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>STRUCTURALEVOLUTIONTISICSYSTEMDURINGMECHANICALALLOYING</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>LU</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>C</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental results and discussion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>WEI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>571</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>AN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>93</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>1401</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>1157</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>JIANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1989</xocs:ref-pub-year>
+<xocs:ref-first-fp>401</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>5569</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>PRADHAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>166</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>WILKES</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>47</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>201</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>CHATTERJEE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>372</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>PARK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1994</xocs:ref-pub-year>
+<xocs:ref-first-fp>1291</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>ATZMON</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1990</xocs:ref-pub-year>
+<xocs:ref-first-fp>487</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13">
+<xocs:ref-normalized-surname>TAKACS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>641</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1994</xocs:ref-pub-year>
+<xocs:ref-first-fp>2666</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15">
+<xocs:ref-normalized-surname>CALOS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>268</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib16">
+<xocs:ref-normalized-surname>YE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>1910</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib17">
+<xocs:ref-normalized-surname>TAKACS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>394</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib18">
+<xocs:ref-normalized-surname>BAKHSHAI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>371</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib19">
+<xocs:ref-normalized-surname>DEKEIJSER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1982</xocs:ref-pub-year>
+<xocs:ref-first-fp>308</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib20">
+<xocs:ref-normalized-surname>MUNIR</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1989</xocs:ref-pub-year>
+<xocs:ref-first-fp>277</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib21">
+<xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>241</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib22">
+<xocs:ref-normalized-surname>YEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>266</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>LUX2005X88</xocs:refkey3>
+<xocs:refkey4lp>LUX2005X88X92</xocs:refkey4lp>
+<xocs:refkey4ai>LUX2005X88XC</xocs:refkey4ai>
+<xocs:refkey5>LUX2005X88X92XC</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(04)01510-5</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838804015105</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838804015105</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2004.11.046</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-10T20:44:49.120206-04:00</xocs:timestamp>
+<xocs:cover-date-start>2005-05-31</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838804015105-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804015105/MAIN/application/pdf/44c700e6ea58cd03f33274449f6936c1/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804015105/MAIN/application/pdf/44c700e6ea58cd03f33274449f6936c1/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>181566</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838804015105-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804015105/PREVIEW/image/png/7aad9344774674d1e7cdc3ba9cd16544/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804015105/PREVIEW/image/png/7aad9344774674d1e7cdc3ba9cd16544/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>62258</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804015105-gr5.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804015105/gr5/DOWNSAMPLED/image/jpeg/1467ee3c26e6d7b6a0bbda1ac6529303/gr5.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804015105/gr5/DOWNSAMPLED/image/jpeg/1467ee3c26e6d7b6a0bbda1ac6529303/gr5.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>65083</xocs:filesize>
+<xocs:pixel-height>371</xocs:pixel-height>
+<xocs:pixel-width>268</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804015105-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804015105/gr5/THUMBNAIL/image/gif/0f9cc7b483794e32dddf5411f2f70ef9/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804015105/gr5/THUMBNAIL/image/gif/0f9cc7b483794e32dddf5411f2f70ef9/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2722</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>67</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804015105-gr6.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804015105/gr6/DOWNSAMPLED/image/gif/06347ad9f3b41fccc4a8020e3b839018/gr6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804015105/gr6/DOWNSAMPLED/image/gif/06347ad9f3b41fccc4a8020e3b839018/gr6.gif</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>10345</xocs:filesize>
+<xocs:pixel-height>291</xocs:pixel-height>
+<xocs:pixel-width>376</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804015105-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804015105/gr6/THUMBNAIL/image/gif/0fc0231a73574bdaea4351b479ef144c/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804015105/gr6/THUMBNAIL/image/gif/0fc0231a73574bdaea4351b479ef144c/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1843</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>121</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804015105-gr2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804015105/gr2/DOWNSAMPLED/image/gif/115947818a06e4f7a92eb389cad6f4bb/gr2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804015105/gr2/DOWNSAMPLED/image/gif/115947818a06e4f7a92eb389cad6f4bb/gr2.gif</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>5986</xocs:filesize>
+<xocs:pixel-height>318</xocs:pixel-height>
+<xocs:pixel-width>375</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804015105-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804015105/gr2/THUMBNAIL/image/gif/2252d86e4f5de5536fd9d844b70ff249/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804015105/gr2/THUMBNAIL/image/gif/2252d86e4f5de5536fd9d844b70ff249/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1124</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>110</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804015105-gr1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804015105/gr1/DOWNSAMPLED/image/gif/b9fccdbc23f3ee3ddf486abee6e376b8/gr1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804015105/gr1/DOWNSAMPLED/image/gif/b9fccdbc23f3ee3ddf486abee6e376b8/gr1.gif</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>8702</xocs:filesize>
+<xocs:pixel-height>291</xocs:pixel-height>
+<xocs:pixel-width>375</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804015105-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804015105/gr1/THUMBNAIL/image/gif/023d937b60216ce85f0111adc0c8276c/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804015105/gr1/THUMBNAIL/image/gif/023d937b60216ce85f0111adc0c8276c/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1623</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>120</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804015105-gr4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804015105/gr4/DOWNSAMPLED/image/gif/254ff10af4aee8ee9136ae14b46cd97f/gr4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804015105/gr4/DOWNSAMPLED/image/gif/254ff10af4aee8ee9136ae14b46cd97f/gr4.gif</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>9850</xocs:filesize>
+<xocs:pixel-height>290</xocs:pixel-height>
+<xocs:pixel-width>375</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804015105-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804015105/gr4/THUMBNAIL/image/gif/1d3176097681bbd8ad7b662bf6cc91ce/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804015105/gr4/THUMBNAIL/image/gif/1d3176097681bbd8ad7b662bf6cc91ce/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1757</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>121</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804015105-gr3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804015105/gr3/DOWNSAMPLED/image/gif/32072f3d539e7a239e070e24a270017f/gr3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804015105/gr3/DOWNSAMPLED/image/gif/32072f3d539e7a239e070e24a270017f/gr3.gif</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>7150</xocs:filesize>
+<xocs:pixel-height>287</xocs:pixel-height>
+<xocs:pixel-width>375</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804015105-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804015105/gr3/THUMBNAIL/image/gif/ff4098cf62e8066dc461405a6b23a09c/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804015105/gr3/THUMBNAIL/image/gif/ff4098cf62e8066dc461405a6b23a09c/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1459</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>122</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>11888</aid>
+<ce:pii>S0925-8388(04)01510-5</ce:pii>
+<ce:doi>10.1016/j.jallcom.2004.11.046</ce:doi>
+<ce:copyright type="full-transfer" year="2004">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRD patterns taken from the Si<ce:inf loc="post">50</ce:inf>C<ce:inf loc="post">50</ce:inf> mixture milled for different hours. The main diffraction peaks of C, Si and SiC are marked on the diffractograms, and Fe comes from the milling media: (a) 5<ce:hsp sp="0.25"></ce:hsp>h; (b) 72<ce:hsp sp="0.25"></ce:hsp>h; (c) 120<ce:hsp sp="0.25"></ce:hsp>h; (d) 180<ce:hsp sp="0.25"></ce:hsp>h.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">FTIR spectra taken from Si<ce:inf loc="post">50</ce:inf>C<ce:inf loc="post">50</ce:inf> samples milled for different hours: (a) 0<ce:hsp sp="0.25"></ce:hsp>h; (b) 72<ce:hsp sp="0.25"></ce:hsp>h; (c) 180<ce:hsp sp="0.25"></ce:hsp>h.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRD patterns taken from Ti<ce:inf loc="post">50</ce:inf>C<ce:inf loc="post">50</ce:inf> mixture milled for 72<ce:hsp sp="0.25"></ce:hsp>h (a) and 103<ce:hsp sp="0.25"></ce:hsp>h (b). The main diffraction peaks of Ti and TiC are marked on the diffractograms.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRD patterns taken from Ti<ce:inf loc="post">25</ce:inf>Si<ce:inf loc="post">25</ce:inf>C<ce:inf loc="post">50</ce:inf> mixture milled for different hours. The main diffraction peaks of Ti, Si, TiC and SiC are marked in the diagraph. (a) 72<ce:hsp sp="0.25"></ce:hsp>h; (b) 98<ce:hsp sp="0.25"></ce:hsp>h; (c) 103<ce:hsp sp="0.25"></ce:hsp>h; (d) 120<ce:hsp sp="0.25"></ce:hsp>h, and then annealed at 950<ce:hsp sp="0.25"></ce:hsp>°C for 1<ce:hsp sp="0.25"></ce:hsp>h.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">SEM micrographs of Ti<ce:inf loc="post">25</ce:inf>Si<ce:inf loc="post">25</ce:inf>C<ce:inf loc="post">50</ce:inf> mixture taken from the samples milled for different hours: (a) 98<ce:hsp sp="0.25"></ce:hsp>h; (b) 103<ce:hsp sp="0.25"></ce:hsp>h.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRD patterns taken from Ti<ce:inf loc="post">50</ce:inf>Si<ce:inf loc="post">50</ce:inf> mixture milled for different hours. The main diffraction peaks of Ti, Si and Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> are marked on the diffractograms. (a) 9<ce:hsp sp="0.25"></ce:hsp>h; (b) 48<ce:hsp sp="0.25"></ce:hsp>h; (c) 70<ce:hsp sp="0.25"></ce:hsp>h.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+<ce:table colsep="0" frame="topbot" id="tbl1" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">The reaction heat and the ratio of heat capacity to the room temperature heat capacity for the investigated systems</ce:simple-para>
+</ce:caption>
+<tgroup cols="3">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Composition</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Reaction heat, Δ<italic>H</italic> (kJ/mol)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Reaction heat/RT heat capacity, Δ<italic>H</italic>/<italic>C</italic>
+<inf loc="post">
+<italic>p</italic>
+</inf> (K)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">TiC</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">−185</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">5400</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">SiC</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">−72</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2700</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">5</inf>Si<inf loc="post">3</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">−579</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">3100</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">TiSi</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">−129</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">TiSi<inf loc="post">2</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">−134</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+</ce:floats>
+<ce:title>Structural evolution of the Ti–Si–C system during mechanical alloying</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>C.J.</ce:given-name>
+<ce:surname>Lu</ce:surname>
+</ce:author>
+<ce:author>
+<ce:given-name>Z.Q.</ce:given-name>
+<ce:surname>Li</ce:surname>
+<ce:cross-ref refid="cor1">*</ce:cross-ref>
+</ce:author>
+<ce:affiliation>
+<ce:textfn>Department of Materials Science and Engineering, Zhejiang University, Hangzhou 310027, PR China</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>*</ce:label>
+<ce:text>Corresponding author. Fax: +86 571 87951411.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="1" month="11" year="2004"></ce:date-received>
+<ce:date-revised day="22" month="11" year="2004"></ce:date-revised>
+<ce:date-accepted day="23" month="11" year="2004"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">Investigation on the structural evolution for the Ti–Si–C system during mechanical alloying (MA) using a planetary ball mill was systematically performed under identical milling conditions. Experimental results on different powder mixtures were examined and compared. Two kinds of mechanically induced chemical reactions were observed in the Ti–Si–C system, which depends on the composition of the ball-milled mixtures. Gradual reaction was observed in both the Ti<ce:inf loc="post">50</ce:inf>C<ce:inf loc="post">50</ce:inf> and Si<ce:inf loc="post">50</ce:inf>C<ce:inf loc="post">50</ce:inf> mixtures, and TiC and SiC as the resultants were obtained, respectively. The reaction of Ti<ce:inf loc="post">50</ce:inf>Si<ce:inf loc="post">50</ce:inf> mixture during MA was also a gradual reaction, but the resultants are crystalline Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> and an amorphous phase. The TiC–SiC composites, however, were synthesized by mechanically alloying the Ti<ce:inf loc="post">25</ce:inf>Si<ce:inf loc="post">25</ce:inf>C<ce:inf loc="post">50</ce:inf> powder mixture through a mechanically induced self-sustaining reaction (MSR) under the same milling conditions as those of Ti<ce:inf loc="post">50</ce:inf>C<ce:inf loc="post">50</ce:inf>, Si<ce:inf loc="post">50</ce:inf>C<ce:inf loc="post">50</ce:inf> and Ti<ce:inf loc="post">50</ce:inf>Si<ce:inf loc="post">50</ce:inf> mixtures. So the MSR process might be applied to synthesize TiC–SiC composites. The structural evolution processes and thermodynamics of the reactions are discussed.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Mechanical alloying (MA)</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Mechanically induced self-sustaining reaction (MSR)</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>TiC–SiC composites</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Single-phase ceramics like TiC or SiC are of practical importance due to its high melting point, good thermal stability, and high erosion resistance. The low fracture toughness, however, is a well-known impediment to its applications as structural components. In order to increase the toughness of such ceramics, composites such as TiC–SiC, have been investigated <ce:cross-refs refid="bib1 bib2 bib3 bib4 bib5 bib6">[1–6]</ce:cross-refs>.</ce:para>
+<ce:para view="all">Mechanical alloying (MA) is a powerful technique for synthesizing a variety of materials, such as compounds <ce:cross-ref refid="bib7">[7]</ce:cross-ref>, metastable solid solutions <ce:cross-ref refid="bib8">[8]</ce:cross-ref>, amorphous alloys <ce:cross-ref refid="bib9">[9]</ce:cross-ref>, nanocrystalline materials <ce:cross-ref refid="bib10">[10]</ce:cross-ref> and so forth. Two kinds of reaction mechanism for MA have been commonly accepted: one is a gradual reaction through elemental diffusion, and the other is a self-sustaining reaction ignited after a certain period of activation time. The mechanically induced self-sustaining reaction (MSR) was usually observed in highly exothermic systems, such as Ti–B <ce:cross-ref refid="bib11">[11]</ce:cross-ref>, Ni–Al <ce:cross-ref refid="bib12">[12]</ce:cross-ref>, Mo–Si <ce:cross-ref refid="bib13">[13]</ce:cross-ref>. However, MA process is so complex that it is difficult to predict the precise reaction route and final products from starting materials. Many factors such as milling dynamics and experimental conditions have a strong influence on the final products. For example, TiC may be obtained by self-sustaining reaction using a high energy SPEX 8000<ce:hsp sp="0.25"></ce:hsp>ml mixer mill <ce:cross-refs refid="bib14 bib15">[14,15]</ce:cross-refs>, and be also obtained by continuous structural evolution using a planetary ball mill <ce:cross-ref refid="bib16">[16]</ce:cross-ref>. A self-sustaining reaction was initiated by ball milling binary Sn<ce:inf loc="post">50</ce:inf>S<ce:inf loc="post">50</ce:inf> and Zn<ce:inf loc="post">50</ce:inf>S<ce:inf loc="post">50</ce:inf> powder mixtures, but the reaction in ternary Sn<ce:inf loc="post">25</ce:inf>Zn<ce:inf loc="post">25</ce:inf>S<ce:inf loc="post">50</ce:inf> system was a gradual reaction under identical milling conditions <ce:cross-refs refid="bib17 bib18">[17,18]</ce:cross-refs>. The present work is mainly concerned with the structural evolution for Ti–Si–C system during MA using a planetary ball mill. The experimental results reveal that the reaction process for the Ti–Si–C system is just contrary to that of the Sn–Zn–S system.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental</ce:section-title>
+<ce:para view="all">To decrease the oxide layer on silicon powder, fresh silicon obtained by ball milling silicon wafers of 99.9% purity powder was applied as one of the raw materials for MA. Commercial silicon powder with a purity of 99.9% and an average particle size of 75<ce:hsp sp="0.25"></ce:hsp>μm was also used for comparison. Titanium and graphite powders with purities of 99.5 and 99.95%, and average particle sizes of 75 and 100<ce:hsp sp="0.25"></ce:hsp>μm, respectively, were used as the starting materials. Four typical compositions of Ti<ce:inf loc="post">50</ce:inf>C<ce:inf loc="post">50</ce:inf>, Si<ce:inf loc="post">50</ce:inf>C<ce:inf loc="post">50</ce:inf>, Ti<ce:inf loc="post">50</ce:inf>Si<ce:inf loc="post">50</ce:inf>, and Ti<ce:inf loc="post">25</ce:inf>Si<ce:inf loc="post">25</ce:inf>C<ce:inf loc="post">50</ce:inf> were ball milled using a QM-SB type planetary ball mill with stainless steel vacuum vials and milling balls at a rotation rate of 300<ce:hsp sp="0.25"></ce:hsp>rpm. The powder-to-ball mass ratio was about 1:20. The vials were filled with argon to protect powders from oxidation during MA. Samples milled for predetermined hours without interruption were characterized by means of X-ray diffractometry (XRD), scanning electron microscopy (SEM) and fourier transform infrared (FTIR) spectroscopy. Some samples were annealed at 950<ce:hsp sp="0.25"></ce:hsp>°C for 1<ce:hsp sp="0.25"></ce:hsp>h in flowing argon. XRD patterns were taken using a Rigaku D/max 2550PC X-ray diffractometer with Cu Kα radiation, the SEM observation was carried out using a SIRION scanning electron microscope and FTIR spectra were obtained using a Nicolet AVATAR 360 spectroscope.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Experimental results and discussion</ce:section-title>
+<ce:para view="all">The brittle Si wafers can be easily milled into small particles at the initial stage of milling, and the particle size was about 1<ce:hsp sp="0.25"></ce:hsp>μm after 5<ce:hsp sp="0.25"></ce:hsp>h of milling, which means that Si wafers may be used as a raw material for MA. In order to investigate the effect of different Si powders on MA, both the Si powder made from wafers and the commercial Si powder were separately ball milled with graphite powder under identical conditions. Experimental results show that the MA products obtained from different Si powders were nearly the same. Hereafter the Si powder used for sample preparation was all from ball-milled Si wafers. <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor> shows the XRD patterns taken from the as-milled Si<ce:inf loc="post">50</ce:inf>C<ce:inf loc="post">50</ce:inf> powders at different milling hours. The intensity of the silicon peaks decreased gradually with increasing milling hours, accompanied by broadening of the full width at half maximums (FWHMs) of the silicon peaks. The intensity of the C peaks, however, decreased obviously with increasing milling hours till they disappear at about 20<ce:hsp sp="0.25"></ce:hsp>h of milling. The silicon carbide was not observed in the XRD pattern. This phenomenon was also observed during MA of C and W. To explore the reason why the C peaks disappeared at the early stage of MA, a similar experiment was carried out by ball milling a mixture of W and MoS<ce:inf loc="post">2</ce:inf>. Both graphite and MoS<ce:inf loc="post">2</ce:inf> belong to the hexagonal system with a layered structure, and can be easily cleaved along (0<ce:hsp sp="0.25"></ce:hsp>0<ce:hsp sp="0.25"></ce:hsp>1) planes. Since the atomic scattering factors of Mo and S are much larger than that of C, the (0<ce:hsp sp="0.25"></ce:hsp>0<ce:hsp sp="0.25"></ce:hsp>2) peak of MoS<ce:inf loc="post">2</ce:inf> is still visible when the mixture of W and MoS<ce:inf loc="post">2</ce:inf> has been ball milled even for 72<ce:hsp sp="0.25"></ce:hsp>h. The thickness of MoS<ce:inf loc="post">2</ce:inf> flakes measured from FWHM by a single line method <ce:cross-ref refid="bib19">[19]</ce:cross-ref> is about 2<ce:hsp sp="0.25"></ce:hsp>nm, which means the MoS<ce:inf loc="post">2</ce:inf> flakes are composed of several atomic layers. It is suggested from this experimental result that the vanishing of the C peaks in the XRD patterns is mainly due to its low atomic scattering factor and small particle size. <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor> shows the FTIR spectra taken from Si<ce:inf loc="post">50</ce:inf>C<ce:inf loc="post">50</ce:inf> samples after different milling hours. Curves 2a and 2b were obtained from the raw Si<ce:inf loc="post">50</ce:inf>C<ce:inf loc="post">50</ce:inf> mixture and the 72<ce:hsp sp="0.25"></ce:hsp>h-milled sample, respectively. The small difference between curve 2a and 2b indicates the structural evolution of Si and C before the formation of SiC, which might be related with the gradual reaction between C and Si.</ce:para>
+<ce:para view="all">After having been ball milled for about 100<ce:hsp sp="0.25"></ce:hsp>h, the SiC phase with considerably broadened peaks was detected in the XRD pattern and the Si peaks were still observed at the same time. When the mixture was ball milled for 180<ce:hsp sp="0.25"></ce:hsp>h, the reaction between C and Si completed and only the SiC peaks with big FWHMs were observed, which means that fine SiC particles were obtained. Curve c in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref> was obtained from the 180<ce:hsp sp="0.25"></ce:hsp>h-milled sample, and the peak at about 873<ce:hsp sp="0.25"></ce:hsp>cm<ce:sup loc="post">−1</ce:sup> in curve c is assigned to the Si<ce:glyph name="sbnd"></ce:glyph>C bonds, which also confirms the formation of the SiC phase. The experimental results testify that the formation of SiC from ball milling Si and C is a gradual reaction.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor> shows the XRD patterns taken from mixed Ti<ce:inf loc="post">50</ce:inf>C<ce:inf loc="post">50</ce:inf> powders at different milling times. It is very clear from <ce:cross-refs refid="fig1 fig3">Figs. 1 and 3</ce:cross-refs> that TiC is more easily obtained by ball milling a mixture of Ti and C powders than SiC by ball milling a mixture of Si and C powders under the same milling conditions. A small amount of TiC was produced after 72<ce:hsp sp="0.25"></ce:hsp>h of milling, but SiC was not observed at the same milling time. The amount of TiC increased with increasing milling time, and finally all the Ti and C powders transformed into TiC, which implied that the structural evolution in the Ti<ce:inf loc="post">50</ce:inf>C<ce:inf loc="post">50</ce:inf> system is also a continuous reaction. Similar processes have also been observed by other authors with a planetary ball mill <ce:cross-ref refid="bib16">[16]</ce:cross-ref>.</ce:para>
+<ce:para view="all">MA of a Ti<ce:inf loc="post">25</ce:inf>Si<ce:inf loc="post">25</ce:inf>C<ce:inf loc="post">50</ce:inf> mixture was also performed under the same milling conditions. The XRD patterns taken from the samples milled for different hours are shown in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor>. A small amount of TiC and a trace of crystalline Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> were observed when the Ti<ce:inf loc="post">25</ce:inf>Si<ce:inf loc="post">25</ce:inf>C<ce:inf loc="post">50</ce:inf> mixture was ball milled for 72<ce:hsp sp="0.25"></ce:hsp>h. The XRD peak widths of Si and Ti increased with increasing milling time till 98<ce:hsp sp="0.25"></ce:hsp>h. The average grain sizes of Si and Ti for the 98<ce:hsp sp="0.25"></ce:hsp>h-milled sample were about 30 and 60<ce:hsp sp="0.25"></ce:hsp>nm, respectively. After having been milled a little longer, see pattern c in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>, nearly all the Si and Ti peaks disappeared and TiC and SiC peaks appeared with small FWHMs, which means that the reaction completed in a short period during milling was a self-sustaining reaction. Further milling only led to a broadening of the diffraction peaks of TiC and SiC. When the 120<ce:hsp sp="0.25"></ce:hsp>h as-milled sample was annealed at 950<ce:hsp sp="0.25"></ce:hsp>°C for 1<ce:hsp sp="0.25"></ce:hsp>h, the diffraction pattern, including peak positions and FWHMs, had no observable variation. This suggests that the well mixed TiC and SiC particles hampered grain growth, from which practical applications might benefit.</ce:para>
+<ce:para view="all">Generally, the particle size of an inorganic material decreases with increasing milling time. SEM observation revealed that the particle size of the Ti<ce:inf loc="post">25</ce:inf>Si<ce:inf loc="post">25</ce:inf>C<ce:inf loc="post">50</ce:inf> system had an unusual growth, which was accompanied by the formation of TiC and SiC. <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="fig5"></ce:float-anchor>a and b show the SEM images of the ball milled Ti<ce:inf loc="post">25</ce:inf>Si<ce:inf loc="post">25</ce:inf>C<ce:inf loc="post">50</ce:inf> mixture before and after the formation of TiC and SiC. The particles of the 98<ce:hsp sp="0.25"></ce:hsp>h-milled sample had an irregular shape and an average size of about 100<ce:hsp sp="0.25"></ce:hsp>nm, but the particles of the 103<ce:hsp sp="0.25"></ce:hsp>h-milled sample had a rounded shape and an average particle size of about 200<ce:hsp sp="0.25"></ce:hsp>nm. SEM and XRD both reveal that the formation of TiC and SiC during MA of a Ti<ce:inf loc="post">25</ce:inf>Si<ce:inf loc="post">25</ce:inf>C<ce:inf loc="post">50</ce:inf> mixture was a MSR process, and the released heat caused the particles to grow.</ce:para>
+<ce:para view="all">Munir and Anselmi-Tamburini <ce:cross-ref refid="bib20">[20]</ce:cross-ref> proposed a Δ<ce:italic>H</ce:italic>/<ce:italic>C</ce:italic>
+<ce:inf loc="post">
+<ce:italic>p</ce:italic>
+</ce:inf> criterion to decide whether or not a self-sustaining reaction might occur, where Δ<ce:italic>H</ce:italic> and <ce:italic>C</ce:italic>
+<ce:inf loc="post">
+<ce:italic>p</ce:italic>
+</ce:inf> are the reaction heat and the room temperature heat capacity of the resultant compound. According to his proposal, a self-sustaining reaction can propagate without additional energy from any exterior source when Δ<ce:italic>H</ce:italic>/<ce:italic>C</ce:italic>
+<ce:inf loc="post">
+<ce:italic>p</ce:italic>
+</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>&gt;<ce:hsp sp="0.25"></ce:hsp>2000<ce:hsp sp="0.25"></ce:hsp>K. The Δ<ce:italic>H</ce:italic>/<ce:italic>C</ce:italic>
+<ce:inf loc="post">
+<ce:italic>p</ce:italic>
+</ce:inf> for both the Ti<ce:inf loc="post">50</ce:inf>C<ce:inf loc="post">50</ce:inf> and Si<ce:inf loc="post">50</ce:inf>C<ce:inf loc="post">50</ce:inf> systems are larger than 2000<ce:hsp sp="0.25"></ce:hsp>K, see <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+<ce:float-anchor refid="tbl1"></ce:float-anchor>, but no self-sustaining reactions occurred during ball milling in our experiments. However, a combustion reaction of Ti<ce:inf loc="post">50</ce:inf>C<ce:inf loc="post">50</ce:inf> powders during milling with a SPEX mill was reported <ce:cross-refs refid="bib14 bib15">[14,15]</ce:cross-refs>. The magnitude of impact energy given to the particles at collision in a planetary ball mill is much lower than that in a SPEX mill. The ignition of MSR process requires hot spots to initiate the MSR reaction. So the impact energy in the planetary ball mill was not high enough to generate plentiful hot spots for the Ti<ce:inf loc="post">50</ce:inf>C<ce:inf loc="post">50</ce:inf> system. The heat formation of SiC is −73<ce:hsp sp="0.25"></ce:hsp>kJ/mol, much less than that of TiC, so ignition did not happen either in a planetary ball mill. Thus only a gradual reaction was achieved for the Si<ce:inf loc="post">50</ce:inf>C<ce:inf loc="post">50</ce:inf> mixture. However, it is interesting to note that the TiC–SiC composites is obtained abruptly in the planetary ball mill during milling of the Ti<ce:inf loc="post">25</ce:inf>Si<ce:inf loc="post">25</ce:inf>C<ce:inf loc="post">50</ce:inf> mixture. So both the milling dynamics and the reaction between Ti and Si during ball milling should be responsible for the MSR reaction. To explore the reaction between Ti and Si during ball milling, a Ti<ce:inf loc="post">50</ce:inf>Si<ce:inf loc="post">50</ce:inf> mixture was ball milled under identical conditions. A trace of Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> was observed in the 48<ce:hsp sp="0.25"></ce:hsp>h-milled sample, see <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="fig6"></ce:float-anchor>. The heat formation of Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> is −579<ce:hsp sp="0.25"></ce:hsp>kJ/mol, much larger than those of the other phases, see <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>, which serves as a driving force for the reaction between Ti and Si. An amorphous phase was obtained for the 70<ce:hsp sp="0.25"></ce:hsp>h-milled sample due to its lower Gibbs free energy than that of Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>
+<ce:cross-ref refid="bib21">[21]</ce:cross-ref>.</ce:para>
+<ce:para view="all">The reaction between Ti and Si is highly exothermic, so the Si in the Ti<ce:inf loc="post">25</ce:inf>Si<ce:inf loc="post">25</ce:inf>C<ce:inf loc="post">50</ce:inf> mixture suppressed the formation of TiC. The reaction between Ti and Si was the main reaction at the early stage of ball milling the Ti<ce:inf loc="post">25</ce:inf>Si<ce:inf loc="post">25</ce:inf>C<ce:inf loc="post">50</ce:inf> mixture, and Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> was formed. But Ti and Si powders were surrounded by fine graphite powder in the well-mixed Ti<ce:inf loc="post">25</ce:inf>Si<ce:inf loc="post">25</ce:inf>C<ce:inf loc="post">50</ce:inf> sample; the reaction probability between Ti and Si decreased. The graphite restrained not only the contact between the Ti and Si particles but also the formation of an amorphous phase. So the reaction between Ti and Si occurred only in a micro-zone and a certain amount of heat was released during the formation of Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>. Besides, it is known from the variation of the FWHMs that the grain size decreased more rapidly in the Ti<ce:inf loc="post">25</ce:inf>Si<ce:inf loc="post">25</ce:inf>C<ce:inf loc="post">50</ce:inf> mixture than that in the Ti<ce:inf loc="post">50</ce:inf>C<ce:inf loc="post">50</ce:inf> and Si<ce:inf loc="post">50</ce:inf>C<ce:inf loc="post">50</ce:inf> mixtures, so as to ignite the reaction more easily at the interfaces of the Ti<ce:inf loc="post">25</ce:inf>Si<ce:inf loc="post">25</ce:inf>C<ce:inf loc="post">50</ce:inf> mixture. When the grain size reached a critical level, the reaction was ignited locally at the interface of Ti and Si, which served as hot spots. Much more heat should be released while SiC and TiC were formed, and the process escalated into MSR and completed within a short period.</ce:para>
+<ce:para view="all">It should be noted that the ignition time in our experiment is about 100<ce:hsp sp="0.25"></ce:hsp>h, but the reported ignition time was generally several hours <ce:cross-refs refid="bib13 bib14 bib22">[13,14,22]</ce:cross-refs>. The long ignition time in our case could be attributed to the planetary ball mill employed here, whose impact energy was not high enough, and to the relatively low exothermic reaction of the system. Another reason might be that the 500<ce:hsp sp="0.25"></ce:hsp>ml vial is so large for a small amount of specimen that the heat was strongly dissipated. So much longer activation time was needed to ignite the reaction in our case.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">Ti<ce:inf loc="post">50</ce:inf>C<ce:inf loc="post">50</ce:inf>, Si<ce:inf loc="post">50</ce:inf>C<ce:inf loc="post">50</ce:inf>, Ti<ce:inf loc="post">50</ce:inf>Si<ce:inf loc="post">50</ce:inf> and Ti<ce:inf loc="post">25</ce:inf>Si<ce:inf loc="post">25</ce:inf>C<ce:inf loc="post">50</ce:inf> composed of elemental powders of Ti, Si and graphite were ball milled with a planetary ball-mill. The structural evolution of the Ti–Si–C system during MA was systematically studied under identical ball milling conditions. Experimental results reveal that the chemical reactions between Ti and C, Si and C are a gradual process, and complete longer than 100<ce:hsp sp="0.25"></ce:hsp>h. Since the reaction heat of TiC is higher than that of SiC, TiC is more easily formed than SiC. Crystalline Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> and an amorphous phase were produced by ball milling a Ti<ce:inf loc="post">50</ce:inf>Si<ce:inf loc="post">50</ce:inf> mixture. The TiC–SiC composites, however, were synthesized by mechanically alloying the Ti<ce:inf loc="post">25</ce:inf>Si<ce:inf loc="post">25</ce:inf>C<ce:inf loc="post">50</ce:inf> mixture through a mechanically induced self-sustaining reaction under the same milling conditions as those of Ti<ce:inf loc="post">50</ce:inf>C<ce:inf loc="post">50</ce:inf>, Si<ce:inf loc="post">50</ce:inf>C<ce:inf loc="post">50</ce:inf> and Ti<ce:inf loc="post">50</ce:inf>Si<ce:inf loc="post">50</ce:inf> mixtures. The formation of Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> plays a key role for the abrupt synthesis of TiC and SiC in the Ti–Si–C ternary system. It suggests that the MSR might be used to synthesize TiC–SiC composites.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgements</ce:section-title>
+<ce:para view="all">This work was supported by the National Nature Science Foundation of China and the Zhejiang Provincial Foundation for Measurement and Test.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.C.</ce:given-name>
+<ce:surname>Wei</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.F.</ce:given-name>
+<ce:surname>Becher</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>67</sb:volume-nr>
+</sb:series>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>571</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.-G.</ce:given-name>
+<ce:surname>An</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.-W.</ce:given-name>
+<ce:surname>Kim</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.-G.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Euro. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>21</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>93</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>L.J.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Jiang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.D.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Lett.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>58</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1401</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>L.J.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Jiang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.D.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.Q.</ce:given-name>
+<ce:surname>Bai</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>87</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1157</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.L.</ce:given-name>
+<ce:surname>Jiang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.H.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.L.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.T.</ce:given-name>
+<ce:surname>Ma</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>109</sb:volume-nr>
+</sb:series>
+<sb:date>1989</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>401</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.-W.</ce:given-name>
+<ce:surname>Kim</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.-G.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.-I.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>35</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>5569</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.K.</ce:given-name>
+<ce:surname>Pradhan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.K.</ce:given-name>
+<ce:surname>Shee</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Chanda</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Bose</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>De</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Chem. Phys.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>68</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>166</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.M.J.</ce:given-name>
+<ce:surname>Wilkes</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.S.</ce:given-name>
+<ce:surname>Goodwin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.M.</ce:given-name>
+<ce:surname>Ward-Close</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Bagnall</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Steeds</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Lett.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>27</sb:volume-nr>
+</sb:series>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>47</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.H.</ce:given-name>
+<ce:surname>Kisi</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>248</sb:volume-nr>
+</sb:series>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>201</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Chatterjee</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.P.</ce:given-name>
+<ce:surname>Sen Gupta</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Appl. Surf. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>182</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>372</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.H.</ce:given-name>
+<ce:surname>Park</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Hashimoto</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Abe</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Watanabe</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>181–182</sb:volume-nr>
+</sb:series>
+<sb:date>1994</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1291</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Atzmon</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Phys. Rev. Lett.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>64</sb:volume-nr>
+</sb:series>
+<sb:date>1990</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>487</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Takacs</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.</ce:given-name>
+<ce:surname>Soika</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Baláž</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Solid State Ionics</sb:maintitle>
+</sb:title>
+<sb:volume-nr>141–142</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>641</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Z.G.</ce:given-name>
+<ce:surname>Liu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.T.</ce:given-name>
+<ce:surname>Guo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.L.</ce:given-name>
+<ce:surname>Ye</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.S.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.Q.</ce:given-name>
+<ce:surname>Hu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>65</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>21</sb:issue-nr>
+<sb:date>1994</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2666</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>N.J.</ce:given-name>
+<ce:surname>Calos</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.S.</ce:given-name>
+<ce:surname>Forrester</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.B.</ce:given-name>
+<ce:surname>Schaffer</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Solid State Chem.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>158</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>268</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib16">
+<ce:label>[16]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>L.L.</ce:given-name>
+<ce:surname>Ye</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.G.</ce:given-name>
+<ce:surname>Liu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.X.</ce:given-name>
+<ce:surname>Quan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.Q.</ce:given-name>
+<ce:surname>Hu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Appl. Phys.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>80</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>3</sb:issue-nr>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1910</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib17">
+<ce:label>[17]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Takacs</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.A.</ce:given-name>
+<ce:surname>Susol</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Solid State Chem.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>121</sb:volume-nr>
+</sb:series>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>394</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib18">
+<ce:label>[18]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Bakhshai</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.</ce:given-name>
+<ce:surname>Soika</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.A.</ce:given-name>
+<ce:surname>Susol</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Takacs</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Solid State Chem.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>153</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>371</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib19">
+<ce:label>[19]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Th.H.</ce:given-name>
+<ce:surname>de Keijser</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.I.</ce:given-name>
+<ce:surname>Langford</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.J.</ce:given-name>
+<ce:surname>Mittemeijer</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.B.P.</ce:given-name>
+<ce:surname>Vogels</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Appl. Cryst.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>15</sb:volume-nr>
+</sb:series>
+<sb:date>1982</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>308</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib20">
+<ce:label>[20]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Z.A.</ce:given-name>
+<ce:surname>Munir</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>U.</ce:given-name>
+<ce:surname>Anselmi-Tamburini</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Rep.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>3</sb:volume-nr>
+</sb:series>
+<sb:date>1989</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>277</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib21">
+<ce:label>[21]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.Y.</ce:given-name>
+<ce:surname>Yang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.S.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Wei</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Physica B</sb:maintitle>
+</sb:title>
+<sb:volume-nr>279</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>241</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib22">
+<ce:label>[22]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>B.K.</ce:given-name>
+<ce:surname>Yen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>268</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>266</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

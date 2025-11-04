@@ -1,0 +1,2438 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838805008364</prism:url><dc:identifier>doi:10.1016/j.jallcom.2005.02.078</dc:identifier><eid>1-s2.0-S0925838805008364</eid><prism:doi>10.1016/j.jallcom.2005.02.078</prism:doi><pii>S0925-8388(05)00836-4</pii><dc:title>Regularities of hydrogen interaction with multicomponent Ti(Zr)–Mn–V Laves phase alloys </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>404</prism:volume><prism:startingpage>384</prism:startingpage><prism:endingpage>387</prism:endingpage><prism:pagerange>384-387</prism:pagerange><dc:format>text/xml</dc:format><prism:coverdate>2005-12-08</prism:coverdate><prism:coverdisplaydate>8 December 2005</prism:coverdisplaydate><prism:copyright>Copyright © 2005 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><prism:issuename>Proceedings of the 9th International Symposium on Metal-Hydrogen Systems, Fundamentals and Applications (MH2004)</prism:issuename><dc:creator>Mitrokhin, S.V.</dc:creator><dc:description>
+                  Titanium- and zirconium-based multicomponent Laves phases deriving from binary TiMn2 and ZrMn2 compounds are one of perspective groups of hydrogen-absorbing alloys for use in various hydrogen storage and energy conversion devices. Extensive systematic study of hydrogen sorption properties of nonstoichiometric alloys of Ti(Zr)–Mn–V system was performed in this work. Results of X-ray, neutron diffraction and PC-isotherm investigations are presented. Some useful regularities were found, which can be useful in prediction of hydrogen sorption properties of ternary alloys.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Hydrogen storage materials</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838805008364" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838805008364" rel="scidir"/></coredata><objects><object category="thumbnail" height="12" mimetype="image/gif" multimediatype="GIF image file" ref="si9" size="287" type="ALTIMG" width="62">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si9.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="5" mimetype="image/gif" multimediatype="GIF image file" ref="si8" size="99" type="ALTIMG" width="7">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si8.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="13" mimetype="image/gif" multimediatype="GIF image file" ref="si7" size="288" type="ALTIMG" width="69">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si7.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="11" mimetype="image/gif" multimediatype="GIF image file" ref="si68" size="304" type="ALTIMG" width="73">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si68.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si67" size="367" type="ALTIMG" width="88">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si67.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si66" size="367" type="ALTIMG" width="89">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si66.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="11" mimetype="image/gif" multimediatype="GIF image file" ref="si65" size="294" type="ALTIMG" width="73">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si65.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si64" size="363" type="ALTIMG" width="88">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si64.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si63" size="379" type="ALTIMG" width="89">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si63.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si62" size="412" type="ALTIMG" width="90">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si62.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si61" size="401" type="ALTIMG" width="90">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si61.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="11" mimetype="image/gif" multimediatype="GIF image file" ref="si60" size="148" type="ALTIMG" width="18">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si60.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="11" mimetype="image/gif" multimediatype="GIF image file" ref="si6" size="305" type="ALTIMG" width="71">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si6.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="7" mimetype="image/gif" multimediatype="GIF image file" ref="si59" size="112" type="ALTIMG" width="10">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si59.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="12" mimetype="image/gif" multimediatype="GIF image file" ref="si58" size="135" type="ALTIMG" width="10">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si58.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si57" size="409" type="ALTIMG" width="89">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si57.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si56" size="409" type="ALTIMG" width="90">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si56.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si55" size="408" type="ALTIMG" width="89">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si55.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si54" size="404" type="ALTIMG" width="90">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si54.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="9" mimetype="image/gif" multimediatype="GIF image file" ref="si53" size="114" type="ALTIMG" width="8">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si53.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="11" mimetype="image/gif" multimediatype="GIF image file" ref="si52" size="148" type="ALTIMG" width="18">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si52.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="7" mimetype="image/gif" multimediatype="GIF image file" ref="si51" size="112" type="ALTIMG" width="10">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si51.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="12" mimetype="image/gif" multimediatype="GIF image file" ref="si50" size="137" type="ALTIMG" width="10">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si50.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="82" mimetype="image/gif" multimediatype="GIF image file" ref="si5" size="2088" type="ALTIMG" width="281">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si5.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si49" size="414" type="ALTIMG" width="89">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si49.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si48" size="415" type="ALTIMG" width="90">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si48.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si47" size="389" type="ALTIMG" width="90">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si47.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si46" size="409" type="ALTIMG" width="89">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si46.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si45" size="406" type="ALTIMG" width="90">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si45.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si44" size="426" type="ALTIMG" width="90">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si44.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="9" mimetype="image/gif" multimediatype="GIF image file" ref="si43" size="114" type="ALTIMG" width="8">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si43.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="10" mimetype="image/gif" multimediatype="GIF image file" ref="si42" size="119" type="ALTIMG" width="10">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si42.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="7" mimetype="image/gif" multimediatype="GIF image file" ref="si41" size="112" type="ALTIMG" width="10">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si41.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="12" mimetype="image/gif" multimediatype="GIF image file" ref="si40" size="114" type="ALTIMG" width="6">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si40.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="8" mimetype="image/gif" multimediatype="GIF image file" ref="si4" size="198" type="ALTIMG" width="35">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si39" size="418" type="ALTIMG" width="90">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si39.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si38" size="410" type="ALTIMG" width="90">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si38.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="11" mimetype="image/gif" multimediatype="GIF image file" ref="si37" size="148" type="ALTIMG" width="18">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si37.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="7" mimetype="image/gif" multimediatype="GIF image file" ref="si36" size="112" type="ALTIMG" width="10">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si36.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="12" mimetype="image/gif" multimediatype="GIF image file" ref="si35" size="135" type="ALTIMG" width="10">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si35.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="8" mimetype="image/gif" multimediatype="GIF image file" ref="si34" size="124" type="ALTIMG" width="10">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si34.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si33" size="413" type="ALTIMG" width="89">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si33.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si32" size="400" type="ALTIMG" width="89">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si32.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="9" mimetype="image/gif" multimediatype="GIF image file" ref="si31" size="114" type="ALTIMG" width="8">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si31.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="15" mimetype="image/gif" multimediatype="GIF image file" ref="si30" size="134" type="ALTIMG" width="11">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si30.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="14" mimetype="image/gif" multimediatype="GIF image file" ref="si3" size="211" type="ALTIMG" width="27">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="14" mimetype="image/gif" multimediatype="GIF image file" ref="si29" size="178" type="ALTIMG" width="21">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si29.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si28" size="414" type="ALTIMG" width="90">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si28.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si27" size="413" type="ALTIMG" width="90">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si27.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si26" size="422" type="ALTIMG" width="90">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si26.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="11" mimetype="image/gif" multimediatype="GIF image file" ref="si25" size="148" type="ALTIMG" width="18">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si25.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="7" mimetype="image/gif" multimediatype="GIF image file" ref="si24" size="112" type="ALTIMG" width="10">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si24.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="12" mimetype="image/gif" multimediatype="GIF image file" ref="si23" size="135" type="ALTIMG" width="10">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si23.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="8" mimetype="image/gif" multimediatype="GIF image file" ref="si22" size="124" type="ALTIMG" width="10">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si22.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si21" size="404" type="ALTIMG" width="89">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si21.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si20" size="417" type="ALTIMG" width="89">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si20.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="14" mimetype="image/gif" multimediatype="GIF image file" ref="si2" size="222" type="ALTIMG" width="42">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si19" size="408" type="ALTIMG" width="89">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si19.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="9" mimetype="image/gif" multimediatype="GIF image file" ref="si18" size="114" type="ALTIMG" width="8">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si18.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="15" mimetype="image/gif" multimediatype="GIF image file" ref="si17" size="134" type="ALTIMG" width="11">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si17.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si16" size="380" type="ALTIMG" width="88">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si16.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si15" size="365" type="ALTIMG" width="89">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si15.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si14" size="373" type="ALTIMG" width="88">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si14.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si13" size="369" type="ALTIMG" width="89">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si13.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si12" size="372" type="ALTIMG" width="88">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si12.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si11" size="378" type="ALTIMG" width="89">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si11.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="5" mimetype="image/gif" multimediatype="GIF image file" ref="si10" size="99" type="ALTIMG" width="7">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si10.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="15" mimetype="image/gif" multimediatype="GIF image file" ref="si1" size="445" type="ALTIMG" width="103">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-si1.gif?httpAccept=%2A%2F%2A</object><object category="standard" height="192" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="4918" type="IMAGE-DOWNSAMPLED" width="354">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-gr6.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="68" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="1185" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="332" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="7249" type="IMAGE-DOWNSAMPLED" width="270">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-gr1.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="1379" type="IMAGE-THUMBNAIL" width="76">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="246" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="3458" type="IMAGE-DOWNSAMPLED" width="334">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-gr4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="92" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="987" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="224" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="4985" type="IMAGE-DOWNSAMPLED" width="363">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-gr7.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="77" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="1139" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-gr7.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="323" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="14572" type="IMAGE-DOWNSAMPLED" width="357">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-gr3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="2290" type="IMAGE-THUMBNAIL" width="103">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="243" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="3565" type="IMAGE-DOWNSAMPLED" width="332">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-gr5.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="92" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="1026" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="376" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="4759" type="IMAGE-DOWNSAMPLED" width="280">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-gr2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="833" type="IMAGE-THUMBNAIL" width="69">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008364-gr2.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>28044471813</scopus-id><scopus-eid>2-s2.0-28044471813</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/28044471813" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20050721">2005-07-21</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20050721">2005-07-21</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-04-17T10:08:11</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838805008364</xocs:eid>
+<xocs:pii-formatted>S0925-8388(05)00836-4</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805008364</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2005.02.078</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838805X02468</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.349087-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20051208</xocs:date-search-begin>
+<xocs:year-nav>2005</xocs:year-nav>
+<xocs:indexeddate epoch="1121904000">2005-07-21T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confdate confeditor confloc contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings suppl vol vol volfirst volissue webpdf webpdfpagecount figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>404</xocs:vol-first>
+<xocs:vol-last>406</xocs:vol-last>
+<xocs:volume-list>
+<xocs:volume>404</xocs:volume>
+<xocs:volume>405</xocs:volume>
+<xocs:volume>406</xocs:volume>
+</xocs:volume-list>
+<xocs:suppl>C</xocs:suppl>
+<xocs:vol-iss-suppl-text>Volumes 404–406</xocs:vol-iss-suppl-text>
+<xocs:sort-order>89</xocs:sort-order>
+<xocs:first-fp>384</xocs:first-fp>
+<xocs:last-lp>387</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>384</xocs:first-page>
+<xocs:last-page>387</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20051208</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>8 December 2005</xocs:cover-date-text>
+<xocs:cover-date-start>2005-12-08</xocs:cover-date-start>
+<xocs:cover-date-year>2005</xocs:cover-date-year>
+<xocs:title-editors-groups>
+<xocs:title-editors-group>
+<ce:title>Proceedings of the 9th International Symposium on Metal-Hydrogen Systems, Fundamentals and Applications (MH2004)</ce:title>
+<xocs:conference-info>
+<xocs:full-name>The International Symposium on Metal-Hydrogen Systems, Fundamentals and Applications, MH2004</xocs:full-name>
+<xocs:venue>Cracow, Poland</xocs:venue>
+<xocs:conference-date-text>5–10 September 2004</xocs:conference-date-text>
+<xocs:date-range>
+<xocs:start-date>20040905</xocs:start-date>
+<xocs:end-date>20040910</xocs:end-date>
+</xocs:date-range>
+</xocs:conference-info>
+<ce:editors>
+<ce:author-group>
+<ce:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Figiel</ce:surname>
+</ce:author>
+</ce:author-group>
+<ce:author-group>
+<ce:author>
+<ce:given-name>O.J.</ce:given-name>
+<ce:surname>Zogal</ce:surname>
+</ce:author>
+</ce:author-group>
+<ce:author-group>
+<ce:author>
+<ce:given-name>V.</ce:given-name>
+<ce:surname>Yartys</ce:surname>
+</ce:author>
+</ce:author-group>
+</ce:editors>
+</xocs:title-editors-group>
+</xocs:title-editors-groups>
+<xocs:hub-sec>
+<xocs:hub-sec-title>8. New absorbers, properties, phenomena</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2005 Published by Elsevier B.V.</xocs:copyright-line>
+<xocs:normalized-article-title>REGULARITIESHYDROGENINTERACTIONMULTICOMPONENTTIZRMNVLAVESPHASEALLOYS</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>MITROKHIN</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>S</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>FRIAUF</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1927</xocs:ref-pub-year>
+<xocs:ref-first-fp>3107</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>LAVES</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1935</xocs:ref-pub-year>
+<xocs:ref-first-fp>645</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>TESLYUK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1969</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>METALLICCOMPOUNDSLAVESPHASESTRUCTURES</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>YAMASHITO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1977</xocs:ref-pub-year>
+<xocs:ref-first-fp>148</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>NISHIMIYA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1986</xocs:ref-pub-year>
+<xocs:ref-first-fp>1025</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>FRUCHART</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1984</xocs:ref-pub-year>
+<xocs:ref-first-fp>307</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>POURARIAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1983</xocs:ref-pub-year>
+<xocs:ref-first-fp>223</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8"></xocs:ref-info>
+<xocs:ref-info refid="bib9"></xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>OESTERREICHER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1978</xocs:ref-pub-year>
+<xocs:ref-first-fp>83</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>MITROKHINX2005X384</xocs:refkey3>
+<xocs:refkey4lp>MITROKHINX2005X384X387</xocs:refkey4lp>
+<xocs:refkey4ai>MITROKHINX2005X384XS</xocs:refkey4ai>
+<xocs:refkey5>MITROKHINX2005X384X387XS</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(05)00836-4</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805008364</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838805008364</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2005.02.078</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-10T16:24:48.97565-04:00</xocs:timestamp>
+<xocs:cover-date-start>2005-12-08</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/MAIN/application/pdf/669ada1db6b497571687e2606a687f08/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/MAIN/application/pdf/669ada1db6b497571687e2606a687f08/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>130910</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/PREVIEW/image/png/9cbfd8b9e4d523d6522d1befd42ae371/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/PREVIEW/image/png/9cbfd8b9e4d523d6522d1befd42ae371/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>52790</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si9.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/a4756cab1cfeb4943f095543e7a1b432/si9.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/a4756cab1cfeb4943f095543e7a1b432/si9.gif</xocs:ucs-locator>
+<xocs:file-basename>si9</xocs:file-basename>
+<xocs:filename>si9.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>287</xocs:filesize>
+<xocs:pixel-height>12</xocs:pixel-height>
+<xocs:pixel-width>62</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si8.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/fea9e810ab9fd9e2bee15bae6fc1ddfa/si10.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/fea9e810ab9fd9e2bee15bae6fc1ddfa/si10.gif</xocs:ucs-locator>
+<xocs:file-basename>si8</xocs:file-basename>
+<xocs:filename>si8.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>99</xocs:filesize>
+<xocs:pixel-height>5</xocs:pixel-height>
+<xocs:pixel-width>7</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si7.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/29b4ef3baed614d5b75f5e790f541f5c/si7.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/29b4ef3baed614d5b75f5e790f541f5c/si7.gif</xocs:ucs-locator>
+<xocs:file-basename>si7</xocs:file-basename>
+<xocs:filename>si7.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>288</xocs:filesize>
+<xocs:pixel-height>13</xocs:pixel-height>
+<xocs:pixel-width>69</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si68.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/4667936423c232aa3f55e5aab3b6c69a/si68.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/4667936423c232aa3f55e5aab3b6c69a/si68.gif</xocs:ucs-locator>
+<xocs:file-basename>si68</xocs:file-basename>
+<xocs:filename>si68.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>304</xocs:filesize>
+<xocs:pixel-height>11</xocs:pixel-height>
+<xocs:pixel-width>73</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si67.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/370d0a90b8f60efcebf98d47ae30e5cd/si67.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/370d0a90b8f60efcebf98d47ae30e5cd/si67.gif</xocs:ucs-locator>
+<xocs:file-basename>si67</xocs:file-basename>
+<xocs:filename>si67.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>367</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>88</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si66.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/e2a9d9d6ad09fe337f4fb35365149b8f/si66.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/e2a9d9d6ad09fe337f4fb35365149b8f/si66.gif</xocs:ucs-locator>
+<xocs:file-basename>si66</xocs:file-basename>
+<xocs:filename>si66.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>367</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>89</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si65.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/33debb4dee408a4d9b6f78ccc654d3c2/si65.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/33debb4dee408a4d9b6f78ccc654d3c2/si65.gif</xocs:ucs-locator>
+<xocs:file-basename>si65</xocs:file-basename>
+<xocs:filename>si65.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>294</xocs:filesize>
+<xocs:pixel-height>11</xocs:pixel-height>
+<xocs:pixel-width>73</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si64.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/77c8f65459e856c79f64bb4fab3a43a5/si64.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/77c8f65459e856c79f64bb4fab3a43a5/si64.gif</xocs:ucs-locator>
+<xocs:file-basename>si64</xocs:file-basename>
+<xocs:filename>si64.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>363</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>88</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si63.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/4ce76158b3bb5a0cb3f2cbca6a7190a8/si63.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/4ce76158b3bb5a0cb3f2cbca6a7190a8/si63.gif</xocs:ucs-locator>
+<xocs:file-basename>si63</xocs:file-basename>
+<xocs:filename>si63.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>379</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>89</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si62.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/cd265c6337b719466d6dba7ac12174a4/si62.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/cd265c6337b719466d6dba7ac12174a4/si62.gif</xocs:ucs-locator>
+<xocs:file-basename>si62</xocs:file-basename>
+<xocs:filename>si62.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>412</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>90</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si61.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/fccddc61c17460bfccd992f8daaf65cf/si61.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/fccddc61c17460bfccd992f8daaf65cf/si61.gif</xocs:ucs-locator>
+<xocs:file-basename>si61</xocs:file-basename>
+<xocs:filename>si61.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>401</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>90</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si60.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/dbda7913926aabe45fd7cafb6936648e/si25.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/dbda7913926aabe45fd7cafb6936648e/si25.gif</xocs:ucs-locator>
+<xocs:file-basename>si60</xocs:file-basename>
+<xocs:filename>si60.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>148</xocs:filesize>
+<xocs:pixel-height>11</xocs:pixel-height>
+<xocs:pixel-width>18</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si6.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/9f8ce99328d973f4fcd95b29a292cadb/si6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/9f8ce99328d973f4fcd95b29a292cadb/si6.gif</xocs:ucs-locator>
+<xocs:file-basename>si6</xocs:file-basename>
+<xocs:filename>si6.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>305</xocs:filesize>
+<xocs:pixel-height>11</xocs:pixel-height>
+<xocs:pixel-width>71</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si59.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/7e3c70e19c0cadcd275f7f746570bb81/si36.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/7e3c70e19c0cadcd275f7f746570bb81/si36.gif</xocs:ucs-locator>
+<xocs:file-basename>si59</xocs:file-basename>
+<xocs:filename>si59.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>112</xocs:filesize>
+<xocs:pixel-height>7</xocs:pixel-height>
+<xocs:pixel-width>10</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si58.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/475054fd4ec02a0a71162a42d4bf55e8/si35.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/475054fd4ec02a0a71162a42d4bf55e8/si35.gif</xocs:ucs-locator>
+<xocs:file-basename>si58</xocs:file-basename>
+<xocs:filename>si58.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>135</xocs:filesize>
+<xocs:pixel-height>12</xocs:pixel-height>
+<xocs:pixel-width>10</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si57.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/e5b638bad415267c90ea369fc7a8d30e/si57.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/e5b638bad415267c90ea369fc7a8d30e/si57.gif</xocs:ucs-locator>
+<xocs:file-basename>si57</xocs:file-basename>
+<xocs:filename>si57.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>409</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>89</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si56.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/8968796ea34b7db0e02c602762fc27fb/si56.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/8968796ea34b7db0e02c602762fc27fb/si56.gif</xocs:ucs-locator>
+<xocs:file-basename>si56</xocs:file-basename>
+<xocs:filename>si56.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>409</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>90</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si55.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/c61c5694542309098bf1eb175865d658/si55.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/c61c5694542309098bf1eb175865d658/si55.gif</xocs:ucs-locator>
+<xocs:file-basename>si55</xocs:file-basename>
+<xocs:filename>si55.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>408</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>89</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si54.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/796032b8d3a904cca654a6b2ba4bea3b/si54.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/796032b8d3a904cca654a6b2ba4bea3b/si54.gif</xocs:ucs-locator>
+<xocs:file-basename>si54</xocs:file-basename>
+<xocs:filename>si54.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>404</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>90</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si53.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/f34c502b278179a1c7693400f87b565d/si43.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/f34c502b278179a1c7693400f87b565d/si43.gif</xocs:ucs-locator>
+<xocs:file-basename>si53</xocs:file-basename>
+<xocs:filename>si53.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>114</xocs:filesize>
+<xocs:pixel-height>9</xocs:pixel-height>
+<xocs:pixel-width>8</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si52.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/dbda7913926aabe45fd7cafb6936648e/si25.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/dbda7913926aabe45fd7cafb6936648e/si25.gif</xocs:ucs-locator>
+<xocs:file-basename>si52</xocs:file-basename>
+<xocs:filename>si52.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>148</xocs:filesize>
+<xocs:pixel-height>11</xocs:pixel-height>
+<xocs:pixel-width>18</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si51.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/7e3c70e19c0cadcd275f7f746570bb81/si36.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/7e3c70e19c0cadcd275f7f746570bb81/si36.gif</xocs:ucs-locator>
+<xocs:file-basename>si51</xocs:file-basename>
+<xocs:filename>si51.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>112</xocs:filesize>
+<xocs:pixel-height>7</xocs:pixel-height>
+<xocs:pixel-width>10</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si50.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/24fd6bb02bf5209e638164ca824c1d63/si50.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/24fd6bb02bf5209e638164ca824c1d63/si50.gif</xocs:ucs-locator>
+<xocs:file-basename>si50</xocs:file-basename>
+<xocs:filename>si50.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>137</xocs:filesize>
+<xocs:pixel-height>12</xocs:pixel-height>
+<xocs:pixel-width>10</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si5.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/fedba0c937c62960b0bc11741fb729a9/si5.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/fedba0c937c62960b0bc11741fb729a9/si5.gif</xocs:ucs-locator>
+<xocs:file-basename>si5</xocs:file-basename>
+<xocs:filename>si5.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>2088</xocs:filesize>
+<xocs:pixel-height>82</xocs:pixel-height>
+<xocs:pixel-width>281</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si49.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/3b2850752b9b4a8898b4acb9b0a28ce0/si49.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/3b2850752b9b4a8898b4acb9b0a28ce0/si49.gif</xocs:ucs-locator>
+<xocs:file-basename>si49</xocs:file-basename>
+<xocs:filename>si49.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>414</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>89</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si48.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/250e968d19304191452ff20267f4497b/si48.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/250e968d19304191452ff20267f4497b/si48.gif</xocs:ucs-locator>
+<xocs:file-basename>si48</xocs:file-basename>
+<xocs:filename>si48.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>415</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>90</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si47.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/f09b4e8e974050b3414d0afa1e99cc78/si47.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/f09b4e8e974050b3414d0afa1e99cc78/si47.gif</xocs:ucs-locator>
+<xocs:file-basename>si47</xocs:file-basename>
+<xocs:filename>si47.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>389</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>90</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si46.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/43491b33d80256e6d47107020971f83d/si46.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/43491b33d80256e6d47107020971f83d/si46.gif</xocs:ucs-locator>
+<xocs:file-basename>si46</xocs:file-basename>
+<xocs:filename>si46.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>409</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>89</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si45.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/94a6675fb121efb7556852d218a35341/si45.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/94a6675fb121efb7556852d218a35341/si45.gif</xocs:ucs-locator>
+<xocs:file-basename>si45</xocs:file-basename>
+<xocs:filename>si45.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>406</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>90</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si44.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/9948d80325b4120175bc2d04d72876a9/si44.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/9948d80325b4120175bc2d04d72876a9/si44.gif</xocs:ucs-locator>
+<xocs:file-basename>si44</xocs:file-basename>
+<xocs:filename>si44.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>426</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>90</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si43.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/f34c502b278179a1c7693400f87b565d/si43.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/f34c502b278179a1c7693400f87b565d/si43.gif</xocs:ucs-locator>
+<xocs:file-basename>si43</xocs:file-basename>
+<xocs:filename>si43.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>114</xocs:filesize>
+<xocs:pixel-height>9</xocs:pixel-height>
+<xocs:pixel-width>8</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si42.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/1914bacec4b51eaaf59661b0e84c902b/si42.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/1914bacec4b51eaaf59661b0e84c902b/si42.gif</xocs:ucs-locator>
+<xocs:file-basename>si42</xocs:file-basename>
+<xocs:filename>si42.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>119</xocs:filesize>
+<xocs:pixel-height>10</xocs:pixel-height>
+<xocs:pixel-width>10</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si41.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/7e3c70e19c0cadcd275f7f746570bb81/si36.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/7e3c70e19c0cadcd275f7f746570bb81/si36.gif</xocs:ucs-locator>
+<xocs:file-basename>si41</xocs:file-basename>
+<xocs:filename>si41.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>112</xocs:filesize>
+<xocs:pixel-height>7</xocs:pixel-height>
+<xocs:pixel-width>10</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si40.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/51c2f28704f0fb75a83063b426c98586/si40.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/51c2f28704f0fb75a83063b426c98586/si40.gif</xocs:ucs-locator>
+<xocs:file-basename>si40</xocs:file-basename>
+<xocs:filename>si40.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>114</xocs:filesize>
+<xocs:pixel-height>12</xocs:pixel-height>
+<xocs:pixel-width>6</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/8fedc0df7a62b99e7a953317ca5f3231/si4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/8fedc0df7a62b99e7a953317ca5f3231/si4.gif</xocs:ucs-locator>
+<xocs:file-basename>si4</xocs:file-basename>
+<xocs:filename>si4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>198</xocs:filesize>
+<xocs:pixel-height>8</xocs:pixel-height>
+<xocs:pixel-width>35</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si39.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/8668610b48e569907db4a1ffd61c8237/si39.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/8668610b48e569907db4a1ffd61c8237/si39.gif</xocs:ucs-locator>
+<xocs:file-basename>si39</xocs:file-basename>
+<xocs:filename>si39.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>418</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>90</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si38.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/b6b85c8fe8e30d289d22799aee0fd953/si38.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/b6b85c8fe8e30d289d22799aee0fd953/si38.gif</xocs:ucs-locator>
+<xocs:file-basename>si38</xocs:file-basename>
+<xocs:filename>si38.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>410</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>90</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si37.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/dbda7913926aabe45fd7cafb6936648e/si25.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/dbda7913926aabe45fd7cafb6936648e/si25.gif</xocs:ucs-locator>
+<xocs:file-basename>si37</xocs:file-basename>
+<xocs:filename>si37.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>148</xocs:filesize>
+<xocs:pixel-height>11</xocs:pixel-height>
+<xocs:pixel-width>18</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si36.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/7e3c70e19c0cadcd275f7f746570bb81/si36.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/7e3c70e19c0cadcd275f7f746570bb81/si36.gif</xocs:ucs-locator>
+<xocs:file-basename>si36</xocs:file-basename>
+<xocs:filename>si36.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>112</xocs:filesize>
+<xocs:pixel-height>7</xocs:pixel-height>
+<xocs:pixel-width>10</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si35.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/475054fd4ec02a0a71162a42d4bf55e8/si35.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/475054fd4ec02a0a71162a42d4bf55e8/si35.gif</xocs:ucs-locator>
+<xocs:file-basename>si35</xocs:file-basename>
+<xocs:filename>si35.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>135</xocs:filesize>
+<xocs:pixel-height>12</xocs:pixel-height>
+<xocs:pixel-width>10</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si34.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/75ee3d59391658d19c8a440e82ade830/si34.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/75ee3d59391658d19c8a440e82ade830/si34.gif</xocs:ucs-locator>
+<xocs:file-basename>si34</xocs:file-basename>
+<xocs:filename>si34.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>124</xocs:filesize>
+<xocs:pixel-height>8</xocs:pixel-height>
+<xocs:pixel-width>10</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si33.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/c0de86bc3a27c4a62bf70f97a0e428b8/si33.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/c0de86bc3a27c4a62bf70f97a0e428b8/si33.gif</xocs:ucs-locator>
+<xocs:file-basename>si33</xocs:file-basename>
+<xocs:filename>si33.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>413</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>89</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si32.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/1f3de7ae0bc5f2ebe839a30807881c6e/si32.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/1f3de7ae0bc5f2ebe839a30807881c6e/si32.gif</xocs:ucs-locator>
+<xocs:file-basename>si32</xocs:file-basename>
+<xocs:filename>si32.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>400</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>89</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si31.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/f34c502b278179a1c7693400f87b565d/si43.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/f34c502b278179a1c7693400f87b565d/si43.gif</xocs:ucs-locator>
+<xocs:file-basename>si31</xocs:file-basename>
+<xocs:filename>si31.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>114</xocs:filesize>
+<xocs:pixel-height>9</xocs:pixel-height>
+<xocs:pixel-width>8</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si30.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/e38308107a52f64d59bc27f6b756ac26/si17.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/e38308107a52f64d59bc27f6b756ac26/si17.gif</xocs:ucs-locator>
+<xocs:file-basename>si30</xocs:file-basename>
+<xocs:filename>si30.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>134</xocs:filesize>
+<xocs:pixel-height>15</xocs:pixel-height>
+<xocs:pixel-width>11</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/17fa606358eab420923cac65c92a2739/si3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/17fa606358eab420923cac65c92a2739/si3.gif</xocs:ucs-locator>
+<xocs:file-basename>si3</xocs:file-basename>
+<xocs:filename>si3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>211</xocs:filesize>
+<xocs:pixel-height>14</xocs:pixel-height>
+<xocs:pixel-width>27</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si29.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/a5cbab62f820b15ea9b491a5ba31dd7a/si29.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/a5cbab62f820b15ea9b491a5ba31dd7a/si29.gif</xocs:ucs-locator>
+<xocs:file-basename>si29</xocs:file-basename>
+<xocs:filename>si29.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>178</xocs:filesize>
+<xocs:pixel-height>14</xocs:pixel-height>
+<xocs:pixel-width>21</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si28.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/03f3f7fa3cee4f263e5d706c62e2efc9/si28.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/03f3f7fa3cee4f263e5d706c62e2efc9/si28.gif</xocs:ucs-locator>
+<xocs:file-basename>si28</xocs:file-basename>
+<xocs:filename>si28.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>414</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>90</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si27.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/018d115610149bc91da323e87c545f9d/si27.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/018d115610149bc91da323e87c545f9d/si27.gif</xocs:ucs-locator>
+<xocs:file-basename>si27</xocs:file-basename>
+<xocs:filename>si27.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>413</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>90</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si26.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/1ce45f9b49106b3a7cf20542e003614d/si26.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/1ce45f9b49106b3a7cf20542e003614d/si26.gif</xocs:ucs-locator>
+<xocs:file-basename>si26</xocs:file-basename>
+<xocs:filename>si26.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>422</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>90</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si25.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/dbda7913926aabe45fd7cafb6936648e/si25.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/dbda7913926aabe45fd7cafb6936648e/si25.gif</xocs:ucs-locator>
+<xocs:file-basename>si25</xocs:file-basename>
+<xocs:filename>si25.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>148</xocs:filesize>
+<xocs:pixel-height>11</xocs:pixel-height>
+<xocs:pixel-width>18</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si24.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/7e3c70e19c0cadcd275f7f746570bb81/si36.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/7e3c70e19c0cadcd275f7f746570bb81/si36.gif</xocs:ucs-locator>
+<xocs:file-basename>si24</xocs:file-basename>
+<xocs:filename>si24.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>112</xocs:filesize>
+<xocs:pixel-height>7</xocs:pixel-height>
+<xocs:pixel-width>10</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si23.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/475054fd4ec02a0a71162a42d4bf55e8/si35.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/475054fd4ec02a0a71162a42d4bf55e8/si35.gif</xocs:ucs-locator>
+<xocs:file-basename>si23</xocs:file-basename>
+<xocs:filename>si23.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>135</xocs:filesize>
+<xocs:pixel-height>12</xocs:pixel-height>
+<xocs:pixel-width>10</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si22.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/75ee3d59391658d19c8a440e82ade830/si34.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/75ee3d59391658d19c8a440e82ade830/si34.gif</xocs:ucs-locator>
+<xocs:file-basename>si22</xocs:file-basename>
+<xocs:filename>si22.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>124</xocs:filesize>
+<xocs:pixel-height>8</xocs:pixel-height>
+<xocs:pixel-width>10</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si21.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/a1456683aa428af2cba66cadbaa7c1b1/si21.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/a1456683aa428af2cba66cadbaa7c1b1/si21.gif</xocs:ucs-locator>
+<xocs:file-basename>si21</xocs:file-basename>
+<xocs:filename>si21.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>404</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>89</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si20.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/eb511590ab2a6034d2b81dd81f86c07e/si20.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/eb511590ab2a6034d2b81dd81f86c07e/si20.gif</xocs:ucs-locator>
+<xocs:file-basename>si20</xocs:file-basename>
+<xocs:filename>si20.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>417</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>89</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/b508f69561f468a23617d9d28a7193e3/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/b508f69561f468a23617d9d28a7193e3/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si2</xocs:file-basename>
+<xocs:filename>si2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>222</xocs:filesize>
+<xocs:pixel-height>14</xocs:pixel-height>
+<xocs:pixel-width>42</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si19.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/5eb2ef4ef228ce21734e4f108761d73b/si19.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/5eb2ef4ef228ce21734e4f108761d73b/si19.gif</xocs:ucs-locator>
+<xocs:file-basename>si19</xocs:file-basename>
+<xocs:filename>si19.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>408</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>89</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si18.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/f34c502b278179a1c7693400f87b565d/si43.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/f34c502b278179a1c7693400f87b565d/si43.gif</xocs:ucs-locator>
+<xocs:file-basename>si18</xocs:file-basename>
+<xocs:filename>si18.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>114</xocs:filesize>
+<xocs:pixel-height>9</xocs:pixel-height>
+<xocs:pixel-width>8</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si17.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/e38308107a52f64d59bc27f6b756ac26/si17.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/e38308107a52f64d59bc27f6b756ac26/si17.gif</xocs:ucs-locator>
+<xocs:file-basename>si17</xocs:file-basename>
+<xocs:filename>si17.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>134</xocs:filesize>
+<xocs:pixel-height>15</xocs:pixel-height>
+<xocs:pixel-width>11</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si16.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/6dc79ebbcbbb16abba83334010c6ac2c/si16.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/6dc79ebbcbbb16abba83334010c6ac2c/si16.gif</xocs:ucs-locator>
+<xocs:file-basename>si16</xocs:file-basename>
+<xocs:filename>si16.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>380</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>88</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si15.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/3214344ea1824c87d5e4ac8a16f1464c/si15.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/3214344ea1824c87d5e4ac8a16f1464c/si15.gif</xocs:ucs-locator>
+<xocs:file-basename>si15</xocs:file-basename>
+<xocs:filename>si15.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>365</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>89</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si14.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/a5f94d3eee2bef35ad118bbe7a8e2e70/si14.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/a5f94d3eee2bef35ad118bbe7a8e2e70/si14.gif</xocs:ucs-locator>
+<xocs:file-basename>si14</xocs:file-basename>
+<xocs:filename>si14.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>373</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>88</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si13.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/249daf69ec245ff585f9325a25c1796b/si13.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/249daf69ec245ff585f9325a25c1796b/si13.gif</xocs:ucs-locator>
+<xocs:file-basename>si13</xocs:file-basename>
+<xocs:filename>si13.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>369</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>89</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si12.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/aa335dabeaafe3825a0c34611c56e126/si12.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/aa335dabeaafe3825a0c34611c56e126/si12.gif</xocs:ucs-locator>
+<xocs:file-basename>si12</xocs:file-basename>
+<xocs:filename>si12.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>372</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>88</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si11.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/97642968654e535dae07b69de70eae23/si11.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/97642968654e535dae07b69de70eae23/si11.gif</xocs:ucs-locator>
+<xocs:file-basename>si11</xocs:file-basename>
+<xocs:filename>si11.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>378</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>89</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si10.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/fea9e810ab9fd9e2bee15bae6fc1ddfa/si10.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/fea9e810ab9fd9e2bee15bae6fc1ddfa/si10.gif</xocs:ucs-locator>
+<xocs:file-basename>si10</xocs:file-basename>
+<xocs:filename>si10.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>99</xocs:filesize>
+<xocs:pixel-height>5</xocs:pixel-height>
+<xocs:pixel-width>7</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-si1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/STRIPIN/image/gif/f910efdb8e905f10a8541ce8ad34e7e9/si1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/STRIPIN/image/gif/f910efdb8e905f10a8541ce8ad34e7e9/si1.gif</xocs:ucs-locator>
+<xocs:file-basename>si1</xocs:file-basename>
+<xocs:filename>si1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>445</xocs:filesize>
+<xocs:pixel-height>15</xocs:pixel-height>
+<xocs:pixel-width>103</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-gr6.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/gr6/DOWNSAMPLED/image/gif/004b7e22b0142c0074ae69c7bfa6c76e/gr6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/gr6/DOWNSAMPLED/image/gif/004b7e22b0142c0074ae69c7bfa6c76e/gr6.gif</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>4918</xocs:filesize>
+<xocs:pixel-height>192</xocs:pixel-height>
+<xocs:pixel-width>354</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/gr6/THUMBNAIL/image/gif/d2dbca38ea0ed9c1914610e9b0cca3bb/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/gr6/THUMBNAIL/image/gif/d2dbca38ea0ed9c1914610e9b0cca3bb/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1185</xocs:filesize>
+<xocs:pixel-height>68</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-gr1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/gr1/DOWNSAMPLED/image/gif/b88df8fed5055b1676f8f2bc6f6f6a23/gr1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/gr1/DOWNSAMPLED/image/gif/b88df8fed5055b1676f8f2bc6f6f6a23/gr1.gif</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>7249</xocs:filesize>
+<xocs:pixel-height>332</xocs:pixel-height>
+<xocs:pixel-width>270</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/gr1/THUMBNAIL/image/gif/9c597d1e3c317c2cb024098e353dc677/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/gr1/THUMBNAIL/image/gif/9c597d1e3c317c2cb024098e353dc677/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1379</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>76</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-gr4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/gr4/DOWNSAMPLED/image/gif/17f8836239b2e403ba6987fa8e552a6c/gr4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/gr4/DOWNSAMPLED/image/gif/17f8836239b2e403ba6987fa8e552a6c/gr4.gif</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>3458</xocs:filesize>
+<xocs:pixel-height>246</xocs:pixel-height>
+<xocs:pixel-width>334</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/gr4/THUMBNAIL/image/gif/673aed4d8470457ac675d035a57fc202/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/gr4/THUMBNAIL/image/gif/673aed4d8470457ac675d035a57fc202/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>987</xocs:filesize>
+<xocs:pixel-height>92</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-gr7.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/gr7/DOWNSAMPLED/image/gif/7ab19c288cd1d0199846fbee72e8466f/gr7.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/gr7/DOWNSAMPLED/image/gif/7ab19c288cd1d0199846fbee72e8466f/gr7.gif</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>4985</xocs:filesize>
+<xocs:pixel-height>224</xocs:pixel-height>
+<xocs:pixel-width>363</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-gr7.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/gr7/THUMBNAIL/image/gif/522ccb7ba99603a34e38a2a0334266e2/gr7.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/gr7/THUMBNAIL/image/gif/522ccb7ba99603a34e38a2a0334266e2/gr7.sml</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1139</xocs:filesize>
+<xocs:pixel-height>77</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-gr3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/gr3/DOWNSAMPLED/image/gif/b3ac86a8b2d24edef4770f0d88d61da6/gr3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/gr3/DOWNSAMPLED/image/gif/b3ac86a8b2d24edef4770f0d88d61da6/gr3.gif</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>14572</xocs:filesize>
+<xocs:pixel-height>323</xocs:pixel-height>
+<xocs:pixel-width>357</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/gr3/THUMBNAIL/image/gif/57526f979713db6a2e346dc316761ae3/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/gr3/THUMBNAIL/image/gif/57526f979713db6a2e346dc316761ae3/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2290</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>103</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-gr5.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/gr5/DOWNSAMPLED/image/gif/1d68e6d5af6b9c794175dfb1956342f1/gr5.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/gr5/DOWNSAMPLED/image/gif/1d68e6d5af6b9c794175dfb1956342f1/gr5.gif</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>3565</xocs:filesize>
+<xocs:pixel-height>243</xocs:pixel-height>
+<xocs:pixel-width>332</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/gr5/THUMBNAIL/image/gif/f9269ed412103ea61f0ea82665748812/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/gr5/THUMBNAIL/image/gif/f9269ed412103ea61f0ea82665748812/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1026</xocs:filesize>
+<xocs:pixel-height>92</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-gr2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/gr2/DOWNSAMPLED/image/gif/ba355aecb9e5f130e403de7dc3a63d4f/gr2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/gr2/DOWNSAMPLED/image/gif/ba355aecb9e5f130e403de7dc3a63d4f/gr2.gif</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>4759</xocs:filesize>
+<xocs:pixel-height>376</xocs:pixel-height>
+<xocs:pixel-width>280</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008364-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008364/gr2/THUMBNAIL/image/gif/b7b561f0f6b9fb8bfe298a318fe3544f/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008364/gr2/THUMBNAIL/image/gif/b7b561f0f6b9fb8bfe298a318fe3544f/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>833</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>69</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>12633</aid>
+<ce:pii>S0925-8388(05)00836-4</ce:pii>
+<ce:doi>10.1016/j.jallcom.2005.02.078</ce:doi>
+<ce:copyright type="unknown" year="2005"></ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Desorption isotherms for TiMn<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf>–H<ce:inf loc="post">2</ce:inf>systems at 20 <mml:math altimg="si8.gif" overflow="scroll">
+<mml:mo>°</mml:mo>
+</mml:math> C (<mml:math altimg="si9.gif" overflow="scroll">
+<mml:mi>x</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.75</mml:mn>
+</mml:math>(A); 1.0 (B); 1.25 (C); 1.5 (D); 1.75 (E) and 2.0 (F)).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Desorption isotherms for ZrMn<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf>–H<ce:inf loc="post">2</ce:inf> systems at 50 <mml:math altimg="si10.gif" overflow="scroll">
+<mml:mo>°</mml:mo>
+</mml:math> C.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">State diagram for Ti(Zr)–Mn–V system.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Dependence of equilibrium desorption pressure vs. vanadium content in Ti(Zr)–Mn–V alloys.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Dependence of equilibrium desorption pressure vs. manganese content in Ti(Zr)–Mn–V alloys.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Dependence of equilibrium desorption pressure vs. elementary cell volume.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+<ce:figure id="fig7">
+<ce:label>Fig. 7</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Dependence of desorption enthalpy vs. elementary cell volume.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr7"></ce:link>
+</ce:figure>
+<ce:table colsep="0" frame="topbot" id="tbl1" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Structure parameters of initial alloys</ce:simple-para>
+</ce:caption>
+<tgroup cols="4">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<thead valign="top">
+<row rowsep="1">
+<entry align="left" colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Method</entry>
+<entry align="left" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">X-ray</entry>
+<entry align="left" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">TOFND</entry>
+<entry align="left" colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">TOFND</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Alloy</entry>
+<entry align="left" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">TiMn<inf loc="post">1.5</inf>V<inf loc="post">0.5</inf>
+</entry>
+<entry align="left" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">0.9</inf>Zr<inf loc="post">0.1</inf>(Mn<inf loc="post">0.75</inf>V<inf loc="post">0.15</inf>T<inf loc="post">0.1</inf>)<inf loc="post">2</inf>
+</entry>
+<entry align="left" colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">0.9</inf>Zr<inf loc="post">0.1</inf>(Mn<inf loc="post">0.58</inf>V<inf loc="post">0.35</inf>Ti<inf loc="post">0.07</inf>)<inf loc="post">2</inf>
+</entry>
+</row>
+<row>
+<entry align="left" colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Cell parameters (Å)</entry>
+<entry align="left" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si11.gif" overflow="scroll">
+<mml:mi>a</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>4.894</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>
+<mml:math altimg="si12.gif" overflow="scroll">
+<mml:mi>c</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>8.020</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mn>5</mml:mn>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>
+</entry>
+<entry align="left" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si13.gif" overflow="scroll">
+<mml:mi>a</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>4.906</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>
+<mml:math altimg="si14.gif" overflow="scroll">
+<mml:mi>c</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>8.062</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mn>5</mml:mn>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>
+</entry>
+<entry align="left" colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si15.gif" overflow="scroll">
+<mml:mi>a</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>4.915</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>
+<mml:math altimg="si16.gif" overflow="scroll">
+<mml:mi>c</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>8.085</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mn>6</mml:mn>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>
+</entry>
+</row>
+<row>
+<entry align="left" colsep="0" nameend="col4" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">A-component</entry>
+</row>
+<row>
+<entry align="left" colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>4(<mml:math altimg="si17.gif" overflow="scroll">
+<mml:mi>f</mml:mi>
+</mml:math>) (1/3, 2/3, <mml:math altimg="si18.gif" overflow="scroll">
+<mml:mi>z</mml:mi>
+</mml:math>)</entry>
+<entry align="left" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si19.gif" overflow="scroll">
+<mml:mi>z</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.064</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mn>4</mml:mn>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>Ti</entry>
+<entry align="left" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si20.gif" overflow="scroll">
+<mml:mi>z</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.059</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math> 0.88(1)Ti:0.12(1)Zr</entry>
+<entry align="left" colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si21.gif" overflow="scroll">
+<mml:mi>z</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.057</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math> 0.87(2)Ti:0.13(1)Zr</entry>
+</row>
+<row>
+<entry align="left" colsep="0" nameend="col4" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">B-component</entry>
+</row>
+<row>
+<entry align="left" colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>2(<mml:math altimg="si22.gif" overflow="scroll">
+<mml:mi>a</mml:mi>
+</mml:math>) (0, 0, 0)</entry>
+<entry align="left" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">0.60(2)Mn:0.4(2)V</entry>
+<entry align="left" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">0.39(1)Mn:0.61(1)V</entry>
+<entry align="left" colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">0.73(1)V:0.27(1)Ti</entry>
+</row>
+<row>
+<entry align="left" colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>6(<mml:math altimg="si23.gif" overflow="scroll">
+<mml:mi>h</mml:mi>
+</mml:math>) (<mml:math altimg="si24.gif" overflow="scroll">
+<mml:mi>x</mml:mi>
+</mml:math>, <mml:math altimg="si25.gif" overflow="scroll">
+<mml:mn>2</mml:mn>
+<mml:mi>x</mml:mi>
+</mml:math>, 1/4)</entry>
+<entry align="left" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si26.gif" overflow="scroll">
+<mml:mi>x</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.829</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mn>6</mml:mn>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math> 0.79(2)Mn:0.21(2)V</entry>
+<entry align="left" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si27.gif" overflow="scroll">
+<mml:mi>x</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.827</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math> 0.85Mn:0.15Ti</entry>
+<entry align="left" colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si28.gif" overflow="scroll">
+<mml:mi>x</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.827</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mn>4</mml:mn>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math> 0.81(2)Mn:0.19(1)V</entry>
+</row>
+<row>
+<entry align="left" colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si29.gif" overflow="scroll">
+<mml:msub>
+<mml:mrow>
+<mml:mi>R</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>w</mml:mtext>
+</mml:mrow>
+</mml:msub>
+</mml:math>
+</entry>
+<entry align="left" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">1.1</entry>
+<entry align="left" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">6.2</entry>
+<entry align="left" colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">5.6</entry>
+</row>
+<row>
+<entry align="left" colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Refined composition</entry>
+<entry align="left" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">TiMn<inf loc="post">1.48</inf>V<inf loc="post">0.52</inf>
+</entry>
+<entry align="left" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">0.88</inf>Zr<inf loc="post">0.12</inf>(Mn<inf loc="post">0.74</inf>V<inf loc="post">0.15</inf>Ti<inf loc="post">0.11</inf>)<inf loc="post">2</inf>
+</entry>
+<entry align="left" colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">0.87</inf>Zr<inf loc="post">0.13</inf>(Mn<inf loc="post">0.61</inf>V<inf loc="post">0.32</inf>Ti<inf loc="post">0.07</inf>)<inf loc="post">2</inf>
+</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl2" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Structural parameters for Ti<ce:inf loc="post">0.9</ce:inf>Zr<ce:inf loc="post">0.1</ce:inf>Mn<ce:inf loc="post">1.5</ce:inf>V<ce:inf loc="post">0.3</ce:inf>Ti<ce:inf loc="post">0.2</ce:inf>D<ce:inf loc="post">2.8</ce:inf>
+</ce:simple-para>
+</ce:caption>
+<tgroup cols="8">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<colspec colname="col5"></colspec>
+<colspec colname="col6"></colspec>
+<colspec colname="col7"></colspec>
+<colspec colname="col8"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Atoms</entry>
+<entry align="left" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">Atom positions</entry>
+<entry align="left" colsep="0" nameend="col8" namest="col3" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Crystal parameters at different temperature</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" colsep="0" nameend="col5" namest="col3" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">295 K</entry>
+<entry align="left" colsep="0" nameend="col8" namest="col6" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">17 K</entry>
+</row>
+<row rowsep="1">
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">Coordinates</entry>
+<entry align="left" colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">Occupancy</entry>
+<entry align="left" colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>B</italic>(Å<sup loc="post">2</sup>)</entry>
+<entry align="left" colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">Coordinates</entry>
+<entry align="left" colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">Occupancy</entry>
+<entry align="left" colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>B</italic> (Å<sup loc="post">2</sup>)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Ti:Zr</entry>
+<entry align="left" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">4(<mml:math altimg="si30.gif" overflow="scroll">
+<mml:mi>f</mml:mi>
+</mml:math>) 1/3, 2/3, <mml:math altimg="si31.gif" overflow="scroll">
+<mml:mi>z</mml:mi>
+</mml:math>
+</entry>
+<entry align="left" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si32.gif" overflow="scroll">
+<mml:mi>z</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.072</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>
+</entry>
+<entry align="left" colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">0.88(1):0.12(1)</entry>
+<entry align="left" colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">1.5</entry>
+<entry align="left" colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si33.gif" overflow="scroll">
+<mml:mi>z</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.058</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>
+</entry>
+<entry align="left" colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">0.89(2):0.11(1)</entry>
+<entry align="left" colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">1.5</entry>
+</row>
+<row>
+<entry align="left" colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Mn:V</entry>
+<entry align="left" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">2(<mml:math altimg="si34.gif" overflow="scroll">
+<mml:mi>a</mml:mi>
+</mml:math>) 0, 0, 0</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">0.39(1):0.61(1)</entry>
+<entry align="left" colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">1.5</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">0.39(1):0.69(1)</entry>
+<entry align="left" colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">1.5</entry>
+</row>
+<row>
+<entry align="left" colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Mn:Ti</entry>
+<entry align="left" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">6(<mml:math altimg="si35.gif" overflow="scroll">
+<mml:mi>h</mml:mi>
+</mml:math>) <mml:math altimg="si36.gif" overflow="scroll">
+<mml:mi>x</mml:mi>
+</mml:math>, <mml:math altimg="si37.gif" overflow="scroll">
+<mml:mn>2</mml:mn>
+<mml:mi>x</mml:mi>
+</mml:math>, 1/4</entry>
+<entry align="left" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si38.gif" overflow="scroll">
+<mml:mi>x</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.824</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>
+</entry>
+<entry align="left" colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">0.85:0.15</entry>
+<entry align="left" colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">1.5</entry>
+<entry align="left" colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si39.gif" overflow="scroll">
+<mml:mi>x</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.832</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>
+</entry>
+<entry align="left" colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">0.85:0.15</entry>
+<entry align="left" colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">1.5</entry>
+</row>
+<row>
+<entry align="left" colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">D<inf loc="post">1</inf>
+</entry>
+<entry align="left" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">24(<mml:math altimg="si40.gif" overflow="scroll">
+<mml:mi>l</mml:mi>
+</mml:math>) <mml:math altimg="si41.gif" overflow="scroll">
+<mml:mi>x</mml:mi>
+</mml:math>, <mml:math altimg="si42.gif" overflow="scroll">
+<mml:mi>y</mml:mi>
+</mml:math>, <mml:math altimg="si43.gif" overflow="scroll">
+<mml:mi>z</mml:mi>
+</mml:math>
+</entry>
+<entry align="left" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si44.gif" overflow="scroll">
+<mml:mi>x</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.089</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mn>4</mml:mn>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>, <mml:math altimg="si45.gif" overflow="scroll">
+<mml:mi>y</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.391</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>, <mml:math altimg="si46.gif" overflow="scroll">
+<mml:mi>z</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.565</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mn>4</mml:mn>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>
+</entry>
+<entry align="left" colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">0.31(5)</entry>
+<entry align="left" colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">2.0</entry>
+<entry align="left" colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si47.gif" overflow="scroll">
+<mml:mi>x</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.149</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>, <mml:math altimg="si48.gif" overflow="scroll">
+<mml:mi>y</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.356</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>, <mml:math altimg="si49.gif" overflow="scroll">
+<mml:mi>z</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.558</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>
+</entry>
+<entry align="left" colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">0.29(2)</entry>
+<entry align="left" colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">2.0</entry>
+</row>
+<row>
+<entry align="left" colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">D<inf loc="post">2</inf>
+</entry>
+<entry align="left" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">12(<mml:math altimg="si50.gif" overflow="scroll">
+<mml:mi>k</mml:mi>
+</mml:math>)<inf loc="post">1</inf>
+<mml:math altimg="si51.gif" overflow="scroll">
+<mml:mi>x</mml:mi>
+</mml:math>, <mml:math altimg="si52.gif" overflow="scroll">
+<mml:mn>2</mml:mn>
+<mml:mi>x</mml:mi>
+</mml:math>, <mml:math altimg="si53.gif" overflow="scroll">
+<mml:mi>z</mml:mi>
+</mml:math>
+</entry>
+<entry align="left" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si54.gif" overflow="scroll">
+<mml:mi>x</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.472</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mn>6</mml:mn>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>, <mml:math altimg="si55.gif" overflow="scroll">
+<mml:mi>z</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.607</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>
+</entry>
+<entry align="left" colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">0.23(3)</entry>
+<entry align="left" colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">2.0</entry>
+<entry align="left" colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si56.gif" overflow="scroll">
+<mml:mi>x</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.499</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>, <mml:math altimg="si57.gif" overflow="scroll">
+<mml:mi>z</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.593</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mn>7</mml:mn>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>
+</entry>
+<entry align="left" colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">0.29(4)</entry>
+<entry align="left" colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">2.0</entry>
+</row>
+<row>
+<entry align="left" colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">D<inf loc="post">3</inf>
+</entry>
+<entry align="left" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">6(<mml:math altimg="si58.gif" overflow="scroll">
+<mml:mi>h</mml:mi>
+</mml:math>)<inf loc="post">1</inf>
+<mml:math altimg="si59.gif" overflow="scroll">
+<mml:mi>x</mml:mi>
+</mml:math>, <mml:math altimg="si60.gif" overflow="scroll">
+<mml:mn>2</mml:mn>
+<mml:mi>x</mml:mi>
+</mml:math>, 1/4</entry>
+<entry align="left" colname="col3" xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si61.gif" overflow="scroll">
+<mml:mi>x</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.444</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mn>8</mml:mn>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>
+</entry>
+<entry align="left" colname="col4" xmlns="http://www.elsevier.com/xml/common/dtd">0.17(4)</entry>
+<entry align="left" colname="col5" xmlns="http://www.elsevier.com/xml/common/dtd">2.0</entry>
+<entry align="left" colname="col6" xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si62.gif" overflow="scroll">
+<mml:mi>x</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.507</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mn>5</mml:mn>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>
+</entry>
+<entry align="left" colname="col7" xmlns="http://www.elsevier.com/xml/common/dtd">0.11(3)</entry>
+<entry align="left" colname="col8" xmlns="http://www.elsevier.com/xml/common/dtd">2.0</entry>
+</row>
+<row>
+<entry align="left" colsep="0" nameend="col2" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Refined composition</entry>
+<entry align="left" colsep="0" nameend="col5" namest="col3" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">0.89</inf>Zr<inf loc="post">0.11</inf>Mn<inf loc="post">1.47</inf>V<inf loc="post">0.31</inf>Ti<inf loc="post">0.22</inf>D<inf loc="post">2.8</inf>
+</entry>
+<entry align="left" colsep="0" nameend="col8" namest="col6" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">0.89</inf>Zr<inf loc="post">0.11</inf>Mn<inf loc="post">1.47</inf>V<inf loc="post">0.3</inf>Ti<inf loc="post">0.23</inf>D<inf loc="post">2.79</inf>
+</entry>
+</row>
+<row>
+<entry align="left" colsep="0" nameend="col2" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Cell parameters (Å)</entry>
+<entry align="left" colsep="0" nameend="col5" namest="col3" xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si63.gif" overflow="scroll">
+<mml:mi>a</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>5.228</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>, <mml:math altimg="si64.gif" overflow="scroll">
+<mml:mi>c</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>8.553</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>, <mml:math altimg="si65.gif" overflow="scroll">
+<mml:mi>V</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>202.7</mml:mn>
+</mml:math>
+</entry>
+<entry align="left" colsep="0" nameend="col8" namest="col6" xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si66.gif" overflow="scroll">
+<mml:mi>a</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>5.232</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>, <mml:math altimg="si67.gif" overflow="scroll">
+<mml:mi>c</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>8.540</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>, <mml:math altimg="si68.gif" overflow="scroll">
+<mml:mi>V</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>201.8</mml:mn>
+</mml:math>
+</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+</ce:floats>
+<ce:title>Regularities of hydrogen interaction with multicomponent Ti(Zr)–Mn–V Laves phase alloys</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>S.V.</ce:given-name>
+<ce:surname>Mitrokhin</ce:surname>
+<ce:cross-ref refid="cor1">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation>
+<ce:textfn>Chemistry Department, Lomonosov Moscow State University, Moscow 119992, Russia</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>⁎</ce:label>
+<ce:text>Corresponding author. Tel.: +7 95 9391413; fax: +7 95 9328846.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="6" month="9" year="2004"></ce:date-received>
+<ce:date-revised day="7" month="2" year="2005"></ce:date-revised>
+<ce:date-accepted day="14" month="2" year="2005"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">Titanium- and zirconium-based multicomponent Laves phases deriving from binary TiMn<ce:inf loc="post">2</ce:inf> and ZrMn<ce:inf loc="post">2</ce:inf> compounds are one of perspective groups of hydrogen-absorbing alloys for use in various hydrogen storage and energy conversion devices. Extensive systematic study of hydrogen sorption properties of nonstoichiometric alloys of Ti(Zr)–Mn–V system was performed in this work. Results of X-ray, neutron diffraction and PC-isotherm investigations are presented. Some useful regularities were found, which can be useful in prediction of hydrogen sorption properties of ternary alloys.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Hydrogen storage materials</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section id="sec1" view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Intermetallic compounds of AB<ce:inf loc="post">2</ce:inf>-type were first described by Friauf <ce:cross-ref refid="bib1">[1]</ce:cross-ref>. Later Laves <ce:cross-ref refid="bib2">[2]</ce:cross-ref> showed that these structures can exist only at particular ratio of component radii (<mml:math altimg="si1.gif" overflow="scroll">
+<mml:msub>
+<mml:mrow>
+<mml:mi>r</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mi>A</mml:mi>
+</mml:mrow>
+</mml:msub>
+<mml:mo>/</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mi>r</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mi>B</mml:mi>
+</mml:mrow>
+</mml:msub>
+<mml:mo>=</mml:mo>
+<mml:mn>1.225</mml:mn>
+</mml:math>). From that moment on three types of AB<ce:inf loc="post">2</ce:inf> compounds (MgZn<ce:inf loc="post">2</ce:inf>, MgCu<ce:inf loc="post">2</ce:inf> and MgNi<ce:inf loc="post">2</ce:inf>) were named after him. One of the main regularities of their formation is the geometric factor. During years of investigation it was shown that Laves phases exist within a broad range of <mml:math altimg="si2.gif" overflow="scroll">
+<mml:msub>
+<mml:mrow>
+<mml:mi>r</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mi>A</mml:mi>
+</mml:mrow>
+</mml:msub>
+<mml:mo>/</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mi>r</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mi>B</mml:mi>
+</mml:mrow>
+</mml:msub>
+</mml:math> —1.04–1.68 <ce:cross-ref refid="bib3">[3]</ce:cross-ref>. Laves phases are among the most numerous types of intermetallic compounds and since a lot of them are composed on base or from light hydride-forming transition metals, these compounds (especially hexagonal MgZn<ce:inf loc="post">2</ce:inf>-type) were thoroughly studied from the point of view of their application for hydrogen storage.</ce:para>
+<ce:para view="all">Compounds of MgZn<ce:inf loc="post">2</ce:inf>-type (Strukturbericht notation C14) crystallise in <mml:math altimg="si3.gif" overflow="scroll">
+<mml:mi>P</mml:mi>
+<mml:msub>
+<mml:mrow>
+<mml:mn>6</mml:mn>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+</mml:mrow>
+</mml:msub>
+</mml:math> /<mml:math altimg="si4.gif" overflow="scroll">
+<mml:mi>m</mml:mi>
+<mml:mi>m</mml:mi>
+<mml:mi>c</mml:mi>
+</mml:math> with 4 formula units in the elementary cell. Atoms occupy following positions:<ce:display>
+<ce:formula>
+<mml:math altimg="si5.gif" overflow="scroll">
+<mml:mrow>
+<mml:mn>4</mml:mn>
+<mml:mtext>Mg in </mml:mtext>
+<mml:mn>4</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mi>f</mml:mi>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mfrac>
+<mml:mrow>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+</mml:mrow>
+</mml:mfrac>
+<mml:mtext>,</mml:mtext>
+<mml:mfrac>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+</mml:mrow>
+</mml:mfrac>
+<mml:mtext>,</mml:mtext>
+<mml:mi>z</mml:mi>
+<mml:mtext>;</mml:mtext>
+<mml:mspace width="1em"></mml:mspace>
+<mml:mn>2</mml:mn>
+<mml:msup>
+<mml:mrow>
+<mml:mtext>Zn</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+</mml:msup>
+<mml:mtext>in </mml:mtext>
+<mml:mn>2</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mi>a</mml:mi>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mn>0</mml:mn>
+<mml:mtext>,</mml:mtext>
+<mml:mn>0</mml:mn>
+<mml:mtext>,</mml:mtext>
+<mml:mn>0</mml:mn>
+<mml:mtext>;</mml:mtext>
+<mml:mn>6</mml:mn>
+<mml:msup>
+<mml:mrow>
+<mml:mtext>Zn</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msup>
+<mml:mtext>in </mml:mtext>
+<mml:mn>6</mml:mn>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mi>h</mml:mi>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mi>x</mml:mi>
+<mml:mtext>,</mml:mtext>
+<mml:mn>2</mml:mn>
+<mml:mi>x</mml:mi>
+<mml:mtext>,</mml:mtext>
+<mml:mfrac>
+<mml:mrow>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>4</mml:mn>
+</mml:mrow>
+</mml:mfrac>
+<mml:mtext>;</mml:mtext>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>where <mml:math altimg="si6.gif" overflow="scroll">
+<mml:mi>x</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.830</mml:mn>
+</mml:math> and <mml:math altimg="si7.gif" overflow="scroll">
+<mml:mi>z</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.062</mml:mn>
+</mml:math> for MgZn<ce:inf loc="post">2</ce:inf>. This structure type is characterised by presence of seven types of interstitials, which can be considered for location of hydrogen atoms while hydride formation.</ce:para>
+<ce:para view="all">One of the most interesting and important features of practically perspective Laves phases such as TiMn<ce:inf loc="post">2</ce:inf> and ZrMn<ce:inf loc="post">2</ce:inf> is the existence of wide ranges of homogeneity. There are at least three explanations of this phenomenon. Deviations from stoichiometry can take place as a result of: <ce:list>
+<ce:list-item>
+<ce:label>1.</ce:label>
+<ce:para view="all">Formation of vacancies in lattice (vacancy model).</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>2.</ce:label>
+<ce:para view="all">Substitution by superstoichiometric atoms for substoichiometric atom positions in structure (substitution model).</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>3.</ce:label>
+<ce:para view="all">Placement of superstoichiometric atoms in interstitial sites (interstitial model).</ce:para>
+</ce:list-item>
+</ce:list>
+</ce:para>
+<ce:para view="all">It was shown for both Ti–Mn system <ce:cross-ref refid="bib4">[4]</ce:cross-ref> and Zr–Mn system <ce:cross-ref refid="bib5">[5]</ce:cross-ref> that the calculated densities of compounds according to all three models correlate better with experimental values in case of substitution model. Structural investigations <ce:cross-refs refid="bib6 bib7">[6,7]</ce:cross-refs> also confirmed that the superstoichiometric component occupies in lattice the positions of substoichiometric component. In other words it is correct to represent alloys TiMn<ce:inf loc="post">1.5</ce:inf> and ZrMn<ce:inf loc="post">2.8</ce:inf> in conventional Laves phase form as Ti(Mn<ce:inf loc="post">0.9</ce:inf>Ti<ce:inf loc="post">0.1</ce:inf>)<ce:inf loc="post">2</ce:inf> and (Zr<ce:inf loc="post">0.79</ce:inf>Mn<ce:inf loc="post">0.21</ce:inf>)Mn<ce:inf loc="post">2</ce:inf>.</ce:para>
+<ce:para view="all">Nonstoichiometric compounds as media for hydrogen storage provided a good opportunity to modify the properties of intermetallic hydrides by means of substitution of components avoiding addition of another component to the alloy. Systematic studies of nonstoichiometric binary Ti–Mn and ternary Zr–Mn Laves phases were performed by Gamo et al. <ce:cross-ref refid="bib8">[8]</ce:cross-ref> (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor>) and Pourarian <ce:cross-ref refid="bib7">[7]</ce:cross-ref> (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor>).</ce:para>
+<ce:para view="all">One of the problems with application of binary metal alloys for hydrogen storage is the rapid change of properties connected with small changes of component ratio. This work was aimed on the systematic investigation of hydrogen absorption properties of C14 Laves phase alloys of Ti(Zr)–Mn–V system.</ce:para>
+</ce:section>
+<ce:section id="sec2" view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:para view="all">Ti(Zr)–Mn–V metallic system was found to have rather large homogeneity range of Laves phase (36–65 at.% Mn) and vanadium is dissolved in TiMn<ce:inf loc="post">2</ce:inf> C14 phase without any structural change up to 26 at.% <ce:cross-ref refid="bib9">[9]</ce:cross-ref> (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor>).</ce:para>
+<ce:para view="all">In view of such wide homogeneity region it was interesting to find out what changes take place in the structure of multicomponent nonstoichiometric alloys. In all cases, metallic atoms of B-component do not show preference in occupation of two possible sites—2(<ce:italic>a</ce:italic>) or 6(<ce:italic>h</ce:italic>) (<ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+<ce:float-anchor refid="tbl1"></ce:float-anchor>). Though it is hard to distinguish manganese and titanium due to their close values of neutrons scattering lengths, the obtained R-factors allow to consider the proposed distribution of B-atoms as correct.</ce:para>
+<ce:para view="all">The interaction with hydrogen of multicomponent alloys usually starts without induction period after evacuation of sample to 10<ce:sup loc="post">−2</ce:sup> mmHg at room temperature and full first absorption completes in 30 min.</ce:para>
+<ce:para view="all">Result for more than 50 different alloys showed that in the solid solution region main thermodynamic and structural parameters of alloys and hydrides change monotonously with concentration of components. The trends of such changes are identical to those observed for stoichiometric compound. For example, at constant titanium + zirconium content substitution of vanadium for manganese leads to decrease of equilibrium plateau pressure values (<ce:cross-refs refid="fig4 fig5">Figs. 4 and 5</ce:cross-refs>
+<ce:float-anchor refid="fig4"></ce:float-anchor>
+<ce:float-anchor refid="fig5"></ce:float-anchor>).</ce:para>
+<ce:para view="all">Other important dependences found in our works are shown in <ce:cross-refs refid="fig6 fig7">Figs. 6 and 7</ce:cross-refs>
+<ce:float-anchor refid="fig6"></ce:float-anchor>
+<ce:float-anchor refid="fig7"></ce:float-anchor>. The logarithmic plot of equilibrium plateau pressure versus cell volume for both stoichiometric and nonstoichiometric alloys exhibit almost linear trend. The plot of desorption reaction enthalpy versus cell volume is also rather close to linear function. Nonlinearity of both plots at unit cell volume higher than 173 Å refers to the data obtained in one of the first works on stoichiometric ternary Ti<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+</ce:inf>Zr<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf>Mn<ce:inf loc="post">2</ce:inf>alloys <ce:cross-ref refid="bib10">[10]</ce:cross-ref>. However, if taken separately, these data points can be considered as having their own linear dependence.</ce:para>
+<ce:para view="all">It is possible to evaluate from data in <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref> the approximate minimal value for alloy cell volume below which reaction with hydrogen does not start at pressures below 100 atm. Since the Laves phases containing manganese are usually characterised by rather big absorption-desorption hysteresis, then the absorption equilibrium pressure could be at least two times greater. Maximum experimentally achieved desorption pressure is about 30 atm. which corresponds to approximately cell volume 160 Å<ce:sup loc="post">3</ce:sup>.</ce:para>
+<ce:para view="all">Structural data for deuteride Ti<ce:inf loc="post">0.9</ce:inf>Zr<ce:inf loc="post">0.1</ce:inf>Mn<ce:inf loc="post">1.5</ce:inf>V<ce:inf loc="post">0.3</ce:inf>Ti<ce:inf loc="post">0.2</ce:inf>D<ce:inf loc="post">2.8</ce:inf> phase shows that introduction of hydrogen does not change the metal matrix structure. Hydride formation leads to isotropic increase of cell volume by 20%. Deuterium atoms occupy three of seven available types of interstitial tetrahedral sites—24(<ce:italic>l</ce:italic>), 12(<ce:italic>k</ce:italic>)<ce:inf loc="post">1</ce:inf> and 6(<ce:italic>h</ce:italic>)<ce:inf loc="post">1</ce:inf> (<ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>
+<ce:float-anchor refid="tbl2"></ce:float-anchor>). At low temperature approximately 0.11 deuterium atoms relocate from 24(<ce:italic>l</ce:italic>) to 12(<ce:italic>k</ce:italic>)<ce:inf loc="post">1</ce:inf>position, which was also found for TiMn<ce:inf loc="post">1.5</ce:inf>D<ce:inf loc="post">3</ce:inf>
+<ce:cross-ref refid="bib6">[6]</ce:cross-ref>. Useful and rather simple correlations found in this work favoured the attempt to summarise them in one empirical mathematical model. We assumed that important characteristics of Laves phase alloys such as thermodynamic functions of reaction with hydrogen and crystal parameters change monotonously within the region of solid solution. If in the case of binary alloy it is rather simple to obtain their values just by application of Vegard rule, in case of multicomponent alloys it practically impossible to take into account all the connected changes of concentrations of components. In its latest version our model was realised in a program which allow to calculate thermodynamic and structural characteristics for multicomponent alloys with any number of components.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgements</ce:section-title>
+<ce:para view="all">This work was supported in part by RFBR Grant 02-02-17545 and General Motors Corp.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.B.</ce:given-name>
+<ce:surname>Friauf</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>49</sb:volume-nr>
+</sb:series>
+<sb:date>1927</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>3107</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Laves</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Witte</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metallwirtschaft</sb:maintitle>
+</sb:title>
+<sb:volume-nr>14</sb:volume-nr>
+</sb:series>
+<sb:date>1935</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>645</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.Yu.</ce:given-name>
+<ce:surname>Teslyuk</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Metallic Compounds with Laves Phase Structures</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1969</sb:date>
+<sb:publisher>
+<sb:name>Nauka</sb:name>
+<sb:location>Moscow</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Yamashito</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Gamo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Moriwaki</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Fukuda</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Nippon Kindzoku Gakkaishi</sb:maintitle>
+</sb:title>
+<sb:volume-nr>41</sb:volume-nr>
+</sb:series>
+<sb:date>1977</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>148</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Nishimiya</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Res. Bull.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>21</sb:volume-nr>
+</sb:series>
+<sb:date>1986</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1025</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Fruchart</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.L.</ce:given-name>
+<ce:surname>Soubeyroux</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Hempelmann</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Less-Common Met.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>99</sb:volume-nr>
+</sb:series>
+<sb:date>1984</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>307</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Pourarian</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.E.</ce:given-name>
+<ce:surname>Wallace</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Solid State Commun.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>45</sb:volume-nr>
+</sb:series>
+<sb:date>1983</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>223</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<ce:other-ref>
+<ce:textref>T. Gamo, Y. Moriwaki, N. Yanagihara, T. Yamashita, T. Iwaki, in: Proceedings of the 3rd World Hydrogen Energy Conference, 1981, p. 2127.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<ce:other-ref>
+<ce:textref>T.N. Smirnova, S.V. Mitrokhin, V.N. Verbetsky, NATO Science Series II, vol. 82, in: Proceedings of the Hydrogen Materials Science and Chemistry of Metal Hydrides Alushta, Ukraine, 2001, Kluwer Academic Publishers, 2002, p. 107.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Oesterreicher</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Bittner</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Res. Bull.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>13</sb:volume-nr>
+</sb:series>
+<sb:date>1978</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>83</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

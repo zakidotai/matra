@@ -1,0 +1,1960 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838805012223</prism:url><dc:identifier>doi:10.1016/j.jallcom.2005.04.212</dc:identifier><eid>1-s2.0-S0925838805012223</eid><prism:doi>10.1016/j.jallcom.2005.04.212</prism:doi><pii>S0925-8388(05)01222-3</pii><dc:title>SEM and TEM characterization of sodium alanate doped with TiCl3 or small Ti clusters (Ti13·6THF) </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>414</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>190</prism:startingpage><prism:endingpage>203</prism:endingpage><prism:pagerange>190-203</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2006-04-13</prism:coverdate><prism:coverdisplaydate>13 April 2006</prism:coverdisplaydate><prism:copyright>Copyright © 2005 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Léon, Aline</dc:creator><dc:creator>Kircher, Oliver</dc:creator><dc:creator>Rösner, Harald</dc:creator><dc:creator>Décamps, Brigitte</dc:creator><dc:creator>Leroy, Eric</dc:creator><dc:creator>Fichtner, Maximilian</dc:creator><dc:creator>Percheron-Guégan, Annick</dc:creator><dc:description>
+                  The evolution of the microstructure under desorption and absorption of hydrogen in sodium alanate doped with 5mol.% Ti on the basis of either TiCl3 or Ti13·6THF is presented. Scanning electron microscopy (SEM) and transmission electron microscopy (TEM) have been applied to investigate ball-milled samples during and after various hydrogen desorption and absorption cycles. Upon the phase transitions the change in the microstructure is characterized by an increase in the porosity. The overall transformation is a random and irreversible process. After several cycles in the dehydrogenated state Al crystallites of 300nm in size have been detected. Additionally, EDX analysis suggests a homogeneous distribution of Ti together with Na, Al and Cl. Moreover, at different stages of the reaction a pronounced variation of the Al concentration in the particle has been observed in contrast to all other elements. High-resolution transmission electron microscopy (HRTEM) combined with EDX analysis does not detect the presence of Ti particles implying that the particles size must be less than 0.8nm.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Hydrogen storage materials</dcterms:subject><dcterms:subject>Sodium alanate</dcterms:subject><dcterms:subject>Ti-based precursor</dcterms:subject><dcterms:subject>Scanning and transmission electron microscopy</dcterms:subject><dcterms:subject>Nanostructures</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838805012223" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838805012223" rel="scidir"/></coredata><objects><object category="thumbnail" height="20" mimetype="image/gif" multimediatype="GIF image file" ref="si8" size="1067" type="ALTIMG" width="332">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-si8.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si7" size="414" type="ALTIMG" width="92">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-si7.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si6" size="428" type="ALTIMG" width="96">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-si6.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si5" size="414" type="ALTIMG" width="92">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-si5.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si4" size="428" type="ALTIMG" width="96">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-si4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si3" size="428" type="ALTIMG" width="96">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-si3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si2" size="414" type="ALTIMG" width="92">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-si2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si1" size="414" type="ALTIMG" width="92">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-si1.gif?httpAccept=%2A%2F%2A</object><object category="standard" height="520" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="94821" type="IMAGE-DOWNSAMPLED" width="367">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="2542" type="IMAGE-THUMBNAIL" width="66">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="521" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr6" size="146731" type="IMAGE-DOWNSAMPLED" width="482">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-gr6.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="2818" type="IMAGE-THUMBNAIL" width="86">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="259" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="46931" type="IMAGE-DOWNSAMPLED" width="364">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="89" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="3493" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="836" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr10a" size="158549" type="IMAGE-DOWNSAMPLED" width="506">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-gr10a.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr10a" size="2051" type="IMAGE-THUMBNAIL" width="56">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-gr10a.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="791" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr5a" size="219118" type="IMAGE-DOWNSAMPLED" width="504">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-gr5a.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr5a" size="3727" type="IMAGE-THUMBNAIL" width="59">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-gr5a.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="513" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="98727" type="IMAGE-DOWNSAMPLED" width="358">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="2657" type="IMAGE-THUMBNAIL" width="65">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="764" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr5b" size="154998" type="IMAGE-DOWNSAMPLED" width="547">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-gr5b.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr5b" size="3140" type="IMAGE-THUMBNAIL" width="67">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-gr5b.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="541" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr8" size="119881" type="IMAGE-DOWNSAMPLED" width="496">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-gr8.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr8" size="3316" type="IMAGE-THUMBNAIL" width="85">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-gr8.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="675" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr9" size="156242" type="IMAGE-DOWNSAMPLED" width="606">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-gr9.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr9" size="2490" type="IMAGE-THUMBNAIL" width="84">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-gr9.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="241" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr7" size="61690" type="IMAGE-DOWNSAMPLED" width="366">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-gr7.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="82" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="4226" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-gr7.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="743" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="163168" type="IMAGE-DOWNSAMPLED" width="576">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-gr4.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="2306" type="IMAGE-THUMBNAIL" width="72">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="519" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr11" size="141704" type="IMAGE-DOWNSAMPLED" width="477">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-gr11.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr11" size="2651" type="IMAGE-THUMBNAIL" width="86">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-gr11.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="990" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr10b" size="192253" type="IMAGE-DOWNSAMPLED" width="505">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-gr10b.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="92" mimetype="image/gif" multimediatype="GIF image file" ref="gr10b" size="2657" type="IMAGE-THUMBNAIL" width="47">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012223-gr10b.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>33645904179</scopus-id><scopus-eid>2-s2.0-33645904179</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/33645904179" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20050916">2005-09-16</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20050916">2005-09-16</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-03-29T07:36:02</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838805012223</xocs:eid>
+<xocs:pii-formatted>S0925-8388(05)01222-3</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805012223</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2005.04.212</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838806X02505</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.349087-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20060413</xocs:date-search-begin>
+<xocs:year-nav>2006</xocs:year-nav>
+<xocs:indexeddate epoch="1126828800">2005-09-16T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>414</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>414</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 414, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>35</xocs:sort-order>
+<xocs:first-fp>190</xocs:first-fp>
+<xocs:last-lp>203</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>190</xocs:first-page>
+<xocs:last-page>203</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20060413</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>13 April 2006</xocs:cover-date-text>
+<xocs:cover-date-start>2006-04-13</xocs:cover-date-start>
+<xocs:cover-date-year>2006</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Materials Science</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2005 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>SEMTEMCHARACTERIZATIONSODIUMALANATEDOPEDTICL3SMALLTICLUSTERSTI136THF</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>LEON</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>A</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Materials preparation</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Microscopy</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Effect of electron beam</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Microstructure of NaAlH<ce:inf loc="post">4</ce:inf> doped with TiCl<ce:inf loc="post">3</ce:inf>
+</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Microstructure of NaAlH<ce:inf loc="post">4</ce:inf> doped with Ti cluster</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Discussion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>5</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>ZUTTEL</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>157</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>BOGDANOVIC</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>1</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>LEON</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>16372</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>FELDERHOFF</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>4369</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>GRAETZ</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>500</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>LEON</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>766</xocs:ref-first-fp>
+<xocs:ref-last-lp>770</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>BOGDANOVIC</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>36</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>THOMAS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>702</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9"></xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>ANDREI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>709</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>KIRCHER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>7748</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>FICHTNER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>778</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13">
+<xocs:ref-normalized-surname>BOGDANOVIC</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>1012</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>SANDROCK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>299</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15"></xocs:ref-info>
+<xocs:ref-info refid="bib16">
+<xocs:ref-normalized-surname>FICHTNER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>443</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib17">
+<xocs:ref-normalized-surname>CLIFF</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1975</xocs:ref-pub-year>
+<xocs:ref-first-fp>203</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib18"></xocs:ref-info>
+<xocs:ref-info refid="bib19">
+<xocs:ref-normalized-surname>MAJER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>738</xocs:ref-first-fp>
+<xocs:ref-last-lp>742</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib20">
+<xocs:ref-normalized-surname>GROSS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>270</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib21">
+<xocs:ref-normalized-surname>WEIDENTHALER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>5149</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>LEONX2006X190</xocs:refkey3>
+<xocs:refkey4lp>LEONX2006X190X203</xocs:refkey4lp>
+<xocs:refkey4ai>LEONX2006X190XA</xocs:refkey4ai>
+<xocs:refkey5>LEONX2006X190X203XA</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(05)01222-3</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805012223</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838805012223</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2005.04.212</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-08T03:45:28.010423-04:00</xocs:timestamp>
+<xocs:cover-date-start>2006-04-13</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/MAIN/application/pdf/5f9ff0bcde427bbf6ece364e0ff2192a/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/MAIN/application/pdf/5f9ff0bcde427bbf6ece364e0ff2192a/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>1751751</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>14</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/PREVIEW/image/png/c70c8f11f98a538091d84b9823e5a301/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/PREVIEW/image/png/c70c8f11f98a538091d84b9823e5a301/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>62236</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-si8.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/STRIPIN/image/gif/8b49297d54fec34c8be354fdee2576ed/si8.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/STRIPIN/image/gif/8b49297d54fec34c8be354fdee2576ed/si8.gif</xocs:ucs-locator>
+<xocs:file-basename>si8</xocs:file-basename>
+<xocs:filename>si8.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1067</xocs:filesize>
+<xocs:pixel-height>20</xocs:pixel-height>
+<xocs:pixel-width>332</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-si7.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/STRIPIN/image/gif/2d5a018e15a9afe17717755a8db53285/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/STRIPIN/image/gif/2d5a018e15a9afe17717755a8db53285/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si7</xocs:file-basename>
+<xocs:filename>si7.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>414</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>92</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-si6.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/STRIPIN/image/gif/6ca6e55ef7c84b2e3c859a9518d0f120/si6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/STRIPIN/image/gif/6ca6e55ef7c84b2e3c859a9518d0f120/si6.gif</xocs:ucs-locator>
+<xocs:file-basename>si6</xocs:file-basename>
+<xocs:filename>si6.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>428</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>96</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-si5.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/STRIPIN/image/gif/2d5a018e15a9afe17717755a8db53285/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/STRIPIN/image/gif/2d5a018e15a9afe17717755a8db53285/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si5</xocs:file-basename>
+<xocs:filename>si5.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>414</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>92</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-si4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/STRIPIN/image/gif/6ca6e55ef7c84b2e3c859a9518d0f120/si6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/STRIPIN/image/gif/6ca6e55ef7c84b2e3c859a9518d0f120/si6.gif</xocs:ucs-locator>
+<xocs:file-basename>si4</xocs:file-basename>
+<xocs:filename>si4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>428</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>96</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-si3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/STRIPIN/image/gif/6ca6e55ef7c84b2e3c859a9518d0f120/si6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/STRIPIN/image/gif/6ca6e55ef7c84b2e3c859a9518d0f120/si6.gif</xocs:ucs-locator>
+<xocs:file-basename>si3</xocs:file-basename>
+<xocs:filename>si3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>428</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>96</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-si2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/STRIPIN/image/gif/2d5a018e15a9afe17717755a8db53285/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/STRIPIN/image/gif/2d5a018e15a9afe17717755a8db53285/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si2</xocs:file-basename>
+<xocs:filename>si2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>414</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>92</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-si1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/STRIPIN/image/gif/2d5a018e15a9afe17717755a8db53285/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/STRIPIN/image/gif/2d5a018e15a9afe17717755a8db53285/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si1</xocs:file-basename>
+<xocs:filename>si1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>414</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>92</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/gr2/DOWNSAMPLED/image/jpeg/f45daa29d00bca32486d31c69c06e72e/gr2.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/gr2/DOWNSAMPLED/image/jpeg/f45daa29d00bca32486d31c69c06e72e/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>94821</xocs:filesize>
+<xocs:pixel-height>520</xocs:pixel-height>
+<xocs:pixel-width>367</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/gr2/THUMBNAIL/image/gif/b750ac523bef993c4f7a10a2c945ad1c/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/gr2/THUMBNAIL/image/gif/b750ac523bef993c4f7a10a2c945ad1c/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2542</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>66</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-gr6.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/gr6/DOWNSAMPLED/image/jpeg/ddb26094d99217fa6ca5d29459d3b76a/gr6.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/gr6/DOWNSAMPLED/image/jpeg/ddb26094d99217fa6ca5d29459d3b76a/gr6.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>146731</xocs:filesize>
+<xocs:pixel-height>521</xocs:pixel-height>
+<xocs:pixel-width>482</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/gr6/THUMBNAIL/image/gif/44e90fcdae971f58f9951606e2aa06db/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/gr6/THUMBNAIL/image/gif/44e90fcdae971f58f9951606e2aa06db/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2818</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>86</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/gr3/DOWNSAMPLED/image/jpeg/a49200681b8875c8ade55d461b9b13f7/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/gr3/DOWNSAMPLED/image/jpeg/a49200681b8875c8ade55d461b9b13f7/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>46931</xocs:filesize>
+<xocs:pixel-height>259</xocs:pixel-height>
+<xocs:pixel-width>364</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/gr3/THUMBNAIL/image/gif/04609363e9c9d001af5682be41b2af17/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/gr3/THUMBNAIL/image/gif/04609363e9c9d001af5682be41b2af17/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3493</xocs:filesize>
+<xocs:pixel-height>89</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-gr10a.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/gr10a/DOWNSAMPLED/image/jpeg/9a3546bfcba25ee4f425187a347566ca/gr10a.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/gr10a/DOWNSAMPLED/image/jpeg/9a3546bfcba25ee4f425187a347566ca/gr10a.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr10a</xocs:file-basename>
+<xocs:filename>gr10a.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>158549</xocs:filesize>
+<xocs:pixel-height>836</xocs:pixel-height>
+<xocs:pixel-width>506</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-gr10a.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/gr10a/THUMBNAIL/image/gif/93b822010fc49c7260abe096e1a10270/gr10a.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/gr10a/THUMBNAIL/image/gif/93b822010fc49c7260abe096e1a10270/gr10a.sml</xocs:ucs-locator>
+<xocs:file-basename>gr10a</xocs:file-basename>
+<xocs:filename>gr10a.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2051</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>56</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-gr5a.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/gr5a/DOWNSAMPLED/image/jpeg/7ca92dc08d505971f5b0e73eb2efe00e/gr5a.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/gr5a/DOWNSAMPLED/image/jpeg/7ca92dc08d505971f5b0e73eb2efe00e/gr5a.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr5a</xocs:file-basename>
+<xocs:filename>gr5a.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>219118</xocs:filesize>
+<xocs:pixel-height>791</xocs:pixel-height>
+<xocs:pixel-width>504</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-gr5a.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/gr5a/THUMBNAIL/image/gif/5f569fc3a4795a833d7bc5ea04bb17b9/gr5a.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/gr5a/THUMBNAIL/image/gif/5f569fc3a4795a833d7bc5ea04bb17b9/gr5a.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5a</xocs:file-basename>
+<xocs:filename>gr5a.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3727</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>59</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/gr1/DOWNSAMPLED/image/jpeg/63349489e4c87ec2f4f4bc6456a2ecca/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/gr1/DOWNSAMPLED/image/jpeg/63349489e4c87ec2f4f4bc6456a2ecca/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>98727</xocs:filesize>
+<xocs:pixel-height>513</xocs:pixel-height>
+<xocs:pixel-width>358</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/gr1/THUMBNAIL/image/gif/4342e19dcc04ae13d6cf868529400586/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/gr1/THUMBNAIL/image/gif/4342e19dcc04ae13d6cf868529400586/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2657</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>65</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-gr5b.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/gr5b/DOWNSAMPLED/image/jpeg/95c1b65b93583fd3a5d31cb318a813e6/gr5b.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/gr5b/DOWNSAMPLED/image/jpeg/95c1b65b93583fd3a5d31cb318a813e6/gr5b.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr5b</xocs:file-basename>
+<xocs:filename>gr5b.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>154998</xocs:filesize>
+<xocs:pixel-height>764</xocs:pixel-height>
+<xocs:pixel-width>547</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-gr5b.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/gr5b/THUMBNAIL/image/gif/c712a8821411a86e8b2cad0633864daa/gr5b.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/gr5b/THUMBNAIL/image/gif/c712a8821411a86e8b2cad0633864daa/gr5b.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5b</xocs:file-basename>
+<xocs:filename>gr5b.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3140</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>67</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-gr8.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/gr8/DOWNSAMPLED/image/jpeg/dad11662593ff5b26a5059f41a845884/gr8.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/gr8/DOWNSAMPLED/image/jpeg/dad11662593ff5b26a5059f41a845884/gr8.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>119881</xocs:filesize>
+<xocs:pixel-height>541</xocs:pixel-height>
+<xocs:pixel-width>496</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-gr8.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/gr8/THUMBNAIL/image/gif/10fd8be5a926e5ce32b966d397c2ffeb/gr8.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/gr8/THUMBNAIL/image/gif/10fd8be5a926e5ce32b966d397c2ffeb/gr8.sml</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3316</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>85</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-gr9.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/gr9/DOWNSAMPLED/image/jpeg/b851b29927c1016ade07d8285021506a/gr9.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/gr9/DOWNSAMPLED/image/jpeg/b851b29927c1016ade07d8285021506a/gr9.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>156242</xocs:filesize>
+<xocs:pixel-height>675</xocs:pixel-height>
+<xocs:pixel-width>606</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-gr9.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/gr9/THUMBNAIL/image/gif/1e4719f94fbd89efa7431220c644caff/gr9.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/gr9/THUMBNAIL/image/gif/1e4719f94fbd89efa7431220c644caff/gr9.sml</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2490</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>84</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-gr7.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/gr7/DOWNSAMPLED/image/jpeg/871eebfcfdc5d9c7488dd61e15fd18b7/gr7.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/gr7/DOWNSAMPLED/image/jpeg/871eebfcfdc5d9c7488dd61e15fd18b7/gr7.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>61690</xocs:filesize>
+<xocs:pixel-height>241</xocs:pixel-height>
+<xocs:pixel-width>366</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-gr7.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/gr7/THUMBNAIL/image/gif/cc5e425c3fb2604981630b6112361036/gr7.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/gr7/THUMBNAIL/image/gif/cc5e425c3fb2604981630b6112361036/gr7.sml</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>4226</xocs:filesize>
+<xocs:pixel-height>82</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-gr4.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/gr4/DOWNSAMPLED/image/jpeg/4cfd5b7af303a22ac382f6569393eceb/gr4.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/gr4/DOWNSAMPLED/image/jpeg/4cfd5b7af303a22ac382f6569393eceb/gr4.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>163168</xocs:filesize>
+<xocs:pixel-height>743</xocs:pixel-height>
+<xocs:pixel-width>576</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/gr4/THUMBNAIL/image/gif/fcbd42d98398ec399f8ed897480dd85b/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/gr4/THUMBNAIL/image/gif/fcbd42d98398ec399f8ed897480dd85b/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2306</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>72</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-gr11.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/gr11/DOWNSAMPLED/image/jpeg/8f9e4830a15f02cbe411fff4cc91a245/gr11.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/gr11/DOWNSAMPLED/image/jpeg/8f9e4830a15f02cbe411fff4cc91a245/gr11.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr11</xocs:file-basename>
+<xocs:filename>gr11.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>141704</xocs:filesize>
+<xocs:pixel-height>519</xocs:pixel-height>
+<xocs:pixel-width>477</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-gr11.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/gr11/THUMBNAIL/image/gif/b9dd93a4488080902697805adf0b1bbc/gr11.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/gr11/THUMBNAIL/image/gif/b9dd93a4488080902697805adf0b1bbc/gr11.sml</xocs:ucs-locator>
+<xocs:file-basename>gr11</xocs:file-basename>
+<xocs:filename>gr11.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2651</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>86</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-gr10b.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/gr10b/DOWNSAMPLED/image/jpeg/69ce0df80ba4565de0a0b90ecf25cf75/gr10b.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/gr10b/DOWNSAMPLED/image/jpeg/69ce0df80ba4565de0a0b90ecf25cf75/gr10b.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr10b</xocs:file-basename>
+<xocs:filename>gr10b.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>192253</xocs:filesize>
+<xocs:pixel-height>990</xocs:pixel-height>
+<xocs:pixel-width>505</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012223-gr10b.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012223/gr10b/THUMBNAIL/image/gif/c9b6fae2a3f64c0969c0406a6821dfad/gr10b.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012223/gr10b/THUMBNAIL/image/gif/c9b6fae2a3f64c0969c0406a6821dfad/gr10b.sml</xocs:ucs-locator>
+<xocs:file-basename>gr10b</xocs:file-basename>
+<xocs:filename>gr10b.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2657</xocs:filesize>
+<xocs:pixel-height>92</xocs:pixel-height>
+<xocs:pixel-width>47</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>12964</aid>
+<ce:pii>S0925-8388(05)01222-3</ce:pii>
+<ce:doi>10.1016/j.jallcom.2005.04.212</ce:doi>
+<ce:copyright type="full-transfer" year="2005">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">(a) Low magnification scanning electron micrograph (SEM) of NaAlH<ce:inf loc="post">4</ce:inf> mixed with 5<ce:hsp sp="0.25"></ce:hsp>mol.% of TiCl<ce:inf loc="post">3</ce:inf> in a mortar. (b) Enlarged micrograph of a region from (a).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">(a) Low magnification scanning electron micrograph (SEM) of NaAlH<ce:inf loc="post">4</ce:inf> ball-milled with 5<ce:hsp sp="0.25"></ce:hsp>mol.% of TiCl<ce:inf loc="post">3</ce:inf>. (b) Enlarged micrograph of a region from (a) showing more details.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">TEM image of a grid revealing the shape and size distribution of the particles.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">STEM micrographs and corresponding elemental-distribution map of Al, Na, Cl and Ti of NaAlH<ce:inf loc="post">4</ce:inf> doped with 5<ce:hsp sp="0.25"></ce:hsp>mol.% of TiCl<ce:inf loc="post">3</ce:inf> samples after ball milling (bm), during the first desorption (dd) and during the subsequent absorption (da).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Bright-field transmission electron micrograph (TEM) and the corresponding dark-field scanning transmission electron micrograph (STEM) of NaAlH<ce:inf loc="post">4</ce:inf> doped with 5<ce:hsp sp="0.25"></ce:hsp>mol.% of TiCl<ce:inf loc="post">3</ce:inf> samples after ball milling (bm), after the first desorption (ad), after subsequent absorption (aa), after the eighth absorption (a8a) and after the ninth desorption (a9d).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5a"></ce:link>
+<ce:link locator="gr5b"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">High-resolution transmission electron micrograph (HRTEM) of NaAlH<ce:inf loc="post">4</ce:inf> doped with 5<ce:hsp sp="0.25"></ce:hsp>mol.% of TiCl<ce:inf loc="post">3</ce:inf> of samples corresponding to those of <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>. The inter-planar distance is obtained by averaging the distance between 10 lattice fringes.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+<ce:figure id="fig7">
+<ce:label>Fig. 7</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Scanning electron micrograph (SEM) of Ti<ce:inf loc="post">13</ce:inf>·6THF as synthesized.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr7"></ce:link>
+</ce:figure>
+<ce:figure id="fig8">
+<ce:label>Fig. 8</ce:label>
+<ce:caption>
+<ce:simple-para view="all">(a) Low magnification scanning electron micrograph of NaAlH<ce:inf loc="post">4</ce:inf> doped with 5<ce:hsp sp="0.25"></ce:hsp>mol.% of Ti<ce:inf loc="post">13</ce:inf>·6THF of samples (bm), (dd) and (da). (b) Enlarged micrograph of a region from (a) demonstrating details.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr8"></ce:link>
+</ce:figure>
+<ce:figure id="fig9">
+<ce:label>Fig. 9</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Scanning transmission electron micrograph and the corresponding elemental-distribution map of Al, Na and Ti in NaAlH<ce:inf loc="post">4</ce:inf> doped with 5<ce:hsp sp="0.25"></ce:hsp>mol.% of Ti<ce:inf loc="post">13</ce:inf>·6THF of samples after ball milling (bm), during desorption (dd) and during absorption (da).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr9"></ce:link>
+</ce:figure>
+<ce:figure id="fig10">
+<ce:label>Fig. 10</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Bright-field transmission electron micrograph (TEM) and the corresponding dark-field scanning transmission electron micrograph (STEM) of NaAlH<ce:inf loc="post">4</ce:inf> doped with 5<ce:hsp sp="0.25"></ce:hsp>mol.% of Ti<ce:inf loc="post">13</ce:inf>·6THF after ball milling (bm), after one absorption (aa), after 2 cycles (a2d), after the eighth absorption (a8a) and after the ninth desorption (a9d).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr10a"></ce:link>
+<ce:link locator="gr10b"></ce:link>
+</ce:figure>
+<ce:figure id="fig11">
+<ce:label>Fig. 11</ce:label>
+<ce:caption>
+<ce:simple-para view="all">High-resolution transmission electron micrograph (HRTEM) of NaAlH<ce:inf loc="post">4</ce:inf> doped with 5<ce:hsp sp="0.25"></ce:hsp>mol.% of Ti<ce:inf loc="post">13</ce:inf>·6THF samples corresponding to those of <ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref>. The inter-planar distance is obtained by averaging the distance between 10 lattices fringes.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr11"></ce:link>
+</ce:figure>
+<ce:table colsep="0" frame="topbot" id="tbl1" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Sample description</ce:simple-para>
+</ce:caption>
+<tgroup cols="2">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Labels</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Sample description</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">(Mixed)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">NaAlH<inf loc="post">4</inf>
+<hsp sp="0.25"></hsp>+<hsp sp="0.25"></hsp>5<hsp sp="0.25"></hsp>mol.% of either TiCl<inf loc="post">3</inf> or Ti<inf loc="post">13</inf>·6THF, mixed</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">(bm)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">NaAlH<inf loc="post">4</inf>
+<hsp sp="0.25"></hsp>+<hsp sp="0.25"></hsp>5<hsp sp="0.25"></hsp>mol.% of either TiCl<inf loc="post">3</inf> or Ti<inf loc="post">13</inf>·6THF, ball-milled 30<hsp sp="0.25"></hsp>min at 600<hsp sp="0.25"></hsp>rpm</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">(dd)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">NaAlH<inf loc="post">4</inf>
+<hsp sp="0.25"></hsp>+<hsp sp="0.25"></hsp>5<hsp sp="0.25"></hsp>mol.% of either TiCl<inf loc="post">3</inf> or Ti<inf loc="post">13</inf>·6THF, quenched once 2.6<hsp sp="0.25"></hsp>wt.% of hydrogen is released (<italic>T</italic>
+<hsp sp="0.25"></hsp>=<hsp sp="0.25"></hsp>150<hsp sp="0.25"></hsp>°C, <mml:math altimg="si1.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>p</mml:mi>
+<mml:mrow>
+<mml:msub>
+<mml:mtext>H</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+</mml:mrow>
+</mml:msub>
+<mml:mo>=</mml:mo>
+<mml:mn>0.3</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mtext>bar</mml:mtext>
+</mml:mrow>
+</mml:math>)</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">(ad)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">NaAlH<inf loc="post">4</inf>
+<hsp sp="0.25"></hsp>+<hsp sp="0.25"></hsp>5<hsp sp="0.25"></hsp>mol.% of either TiCl<inf loc="post">3</inf> or Ti<inf loc="post">13</inf>·6THF, after the first desorption (<italic>T</italic>
+<hsp sp="0.25"></hsp>=<hsp sp="0.25"></hsp>150<hsp sp="0.25"></hsp>°C, <mml:math altimg="si2.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>p</mml:mi>
+<mml:mrow>
+<mml:msub>
+<mml:mtext>H</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+</mml:mrow>
+</mml:msub>
+<mml:mo>=</mml:mo>
+<mml:mn>0.3</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mtext>bar</mml:mtext>
+</mml:mrow>
+</mml:math>)</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">(da)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">NaAlH<inf loc="post">4</inf>
+<hsp sp="0.25"></hsp>+<hsp sp="0.25"></hsp>5<hsp sp="0.25"></hsp>mol.% of either TiCl<inf loc="post">3</inf> or Ti<inf loc="post">13</inf>·6THF, quenched once 2.3<hsp sp="0.25"></hsp>wt.% of hydrogen is absorbed (<italic>T</italic>
+<hsp sp="0.25"></hsp>=<hsp sp="0.25"></hsp>100<hsp sp="0.25"></hsp>°C, <mml:math altimg="si3.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>p</mml:mi>
+<mml:mrow>
+<mml:msub>
+<mml:mtext>H</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+</mml:mrow>
+</mml:msub>
+<mml:mo>=</mml:mo>
+<mml:mn>100</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mtext>bar</mml:mtext>
+</mml:mrow>
+</mml:math>)</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">(aa)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">NaAlH<inf loc="post">4</inf>
+<hsp sp="0.25"></hsp>+<hsp sp="0.25"></hsp>5<hsp sp="0.25"></hsp>mol.% of either TiCl<inf loc="post">3</inf> or Ti<inf loc="post">13</inf>·6THF, after the first absorption (<italic>T</italic>
+<hsp sp="0.25"></hsp>=<hsp sp="0.25"></hsp>100<hsp sp="0.25"></hsp>°C, <mml:math altimg="si4.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>p</mml:mi>
+<mml:mrow>
+<mml:msub>
+<mml:mtext>H</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+</mml:mrow>
+</mml:msub>
+<mml:mo>=</mml:mo>
+<mml:mn>100</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mtext>bar</mml:mtext>
+</mml:mrow>
+</mml:math>)</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">(a2d)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">NaAlH<inf loc="post">4</inf>
+<hsp sp="0.25"></hsp>+<hsp sp="0.25"></hsp>5<hsp sp="0.25"></hsp>mol.% of either TiCl<inf loc="post">3</inf> or Ti<inf loc="post">13</inf>·6THF, after the second desorption (<italic>T</italic>
+<hsp sp="0.25"></hsp>=<hsp sp="0.25"></hsp>150<hsp sp="0.25"></hsp>°C, <mml:math altimg="si5.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>p</mml:mi>
+<mml:mrow>
+<mml:msub>
+<mml:mtext>H</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+</mml:mrow>
+</mml:msub>
+<mml:mo>=</mml:mo>
+<mml:mn>0.3</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mtext>bar</mml:mtext>
+</mml:mrow>
+</mml:math>)</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">(a8a)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">NaAlH<inf loc="post">4</inf>
+<hsp sp="0.25"></hsp>+<hsp sp="0.25"></hsp>5<hsp sp="0.25"></hsp>mol.% of either TiCl<inf loc="post">3</inf> or Ti<inf loc="post">13</inf>·6THF, after the eight absorption (<italic>T</italic>
+<hsp sp="0.25"></hsp>=<hsp sp="0.25"></hsp>100<hsp sp="0.25"></hsp>°C, <mml:math altimg="si6.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>p</mml:mi>
+<mml:mrow>
+<mml:msub>
+<mml:mtext>H</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+</mml:mrow>
+</mml:msub>
+<mml:mo>=</mml:mo>
+<mml:mn>100</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mtext>bar</mml:mtext>
+</mml:mrow>
+</mml:math>)</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">(a9d)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">NaAlH<inf loc="post">4</inf>
+<hsp sp="0.25"></hsp>+<hsp sp="0.25"></hsp>5<hsp sp="0.25"></hsp>mol.% of either TiCl<inf loc="post">3</inf> or Ti<inf loc="post">13</inf>·6THF, after the ninth desorption (<italic>T</italic>
+<hsp sp="0.25"></hsp>=<hsp sp="0.25"></hsp>150<hsp sp="0.25"></hsp>°C, <mml:math altimg="si7.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>p</mml:mi>
+<mml:mrow>
+<mml:msub>
+<mml:mtext>H</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+</mml:mrow>
+</mml:msub>
+<mml:mo>=</mml:mo>
+<mml:mn>0.3</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mtext>bar</mml:mtext>
+</mml:mrow>
+</mml:math>)</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+</ce:floats>
+<ce:title>SEM and TEM characterization of sodium alanate doped with TiCl<ce:inf loc="post">3</ce:inf> or small Ti clusters (Ti<ce:inf loc="post">13</ce:inf>·6THF)</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>Aline</ce:given-name>
+<ce:surname>Léon</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="cor1">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Oliver</ce:given-name>
+<ce:surname>Kircher</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Harald</ce:given-name>
+<ce:surname>Rösner</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Brigitte</ce:given-name>
+<ce:surname>Décamps</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Eric</ce:given-name>
+<ce:surname>Leroy</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Maximilian</ce:given-name>
+<ce:surname>Fichtner</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Annick</ce:given-name>
+<ce:surname>Percheron-Guégan</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation id="aff1">
+<ce:label>a</ce:label>
+<ce:textfn>Institut für Nanotechnologie, Forschungszentrum Karlsruhe in der Helmholtz-Gemeinschaft, P.O. Box 3640, 76021 Karlsruhe, Germany</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff2">
+<ce:label>b</ce:label>
+<ce:textfn>Laboratoire de Chimie Métallurgique des Terres Rares, Institut Fédératif des Sciences Chimiques Seine/Amont, 2-8 Rue Henri Dunant, 94320 Thiais cedex, France</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>⁎</ce:label>
+<ce:text>Corresponding author.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="23" month="3" year="2005"></ce:date-received>
+<ce:date-revised day="20" month="4" year="2005"></ce:date-revised>
+<ce:date-accepted day="20" month="4" year="2005"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">The evolution of the microstructure under desorption and absorption of hydrogen in sodium alanate doped with 5<ce:hsp sp="0.25"></ce:hsp>mol.% Ti on the basis of either TiCl<ce:inf loc="post">3</ce:inf> or Ti<ce:inf loc="post">13</ce:inf>·6THF is presented. Scanning electron microscopy (SEM) and transmission electron microscopy (TEM) have been applied to investigate ball-milled samples during and after various hydrogen desorption and absorption cycles. Upon the phase transitions the change in the microstructure is characterized by an increase in the porosity. The overall transformation is a random and irreversible process. After several cycles in the dehydrogenated state Al crystallites of 300<ce:hsp sp="0.25"></ce:hsp>nm in size have been detected. Additionally, EDX analysis suggests a homogeneous distribution of Ti together with Na, Al and Cl. Moreover, at different stages of the reaction a pronounced variation of the Al concentration in the particle has been observed in contrast to all other elements. High-resolution transmission electron microscopy (HRTEM) combined with EDX analysis does not detect the presence of Ti particles implying that the particles size must be less than 0.8<ce:hsp sp="0.25"></ce:hsp>nm.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Hydrogen storage materials</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Sodium alanate</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Ti-based precursor</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Scanning and transmission electron microscopy</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Nanostructures</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Hydrogen stored in the form of hydrides avoids many of the problems that are encountered with compressed or liquefied hydrogen <ce:cross-ref refid="bib1">[1]</ce:cross-ref>. However, the use of such a storage system will depend on identifying a compound with a sufficient absorption capacity as well as thermodynamic and kinetic properties, which allows operation at moderate temperatures and pressures. So far, complex metal hydrides, in particular sodium alanate (NaAlH<ce:inf loc="post">4</ce:inf>) doped with Ti-based materials, as a medium temperature reversible hydride (Eqs. <ce:cross-ref refid="eq1">(1)</ce:cross-ref> and <ce:cross-ref refid="eq2">(2)</ce:cross-ref>) satisfy several of the prerequisites for fuel cell applications <ce:cross-ref refid="bib2">[2]</ce:cross-ref>.<ce:display>
+<ce:formula id="eq1">
+<ce:label>(1)</ce:label>
+<ce:chem>3NaAlH<ce:inf loc="post">4</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>⇆<ce:hsp sp="0.25"></ce:hsp>Na<ce:inf loc="post">3</ce:inf>AlH<ce:inf loc="post">6</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>2Al<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>3H<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="1.0"></ce:hsp>(3.7<ce:hsp sp="0.25"></ce:hsp>wt.%<ce:hsp sp="0.25"></ce:hsp>of<ce:hsp sp="0.25"></ce:hsp>H<ce:inf loc="post">2</ce:inf>)</ce:chem>
+</ce:formula>
+</ce:display>
+<ce:display>
+<ce:formula id="eq2">
+<ce:label>(2)</ce:label>
+<mml:math altimg="si8.gif" overflow="scroll">
+<mml:mrow>
+<mml:mtext>N</mml:mtext>
+<mml:msub>
+<mml:mtext>a</mml:mtext>
+<mml:mn>3</mml:mn>
+</mml:msub>
+<mml:mtext>Al</mml:mtext>
+<mml:msub>
+<mml:mtext>H</mml:mtext>
+<mml:mn>6</mml:mn>
+</mml:msub>
+<mml:mo>⇄</mml:mo>
+<mml:mn>3</mml:mn>
+<mml:mtext>NaH</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:mtext>Al</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:mstyle scriptlevel="1">
+<mml:mfrac>
+<mml:mn>3</mml:mn>
+<mml:mn>2</mml:mn>
+</mml:mfrac>
+</mml:mstyle>
+<mml:msub>
+<mml:mtext>H</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:mi> </mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mn>1.9</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mtext>wt</mml:mtext>
+<mml:mo>.</mml:mo>
+<mml:mo>%</mml:mo>
+<mml:mi> </mml:mi>
+<mml:mtext>of</mml:mtext>
+<mml:mi> </mml:mi>
+<mml:msub>
+<mml:mtext>H</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>However, the mechanism involved during the absorption and desorption reaction of hydrogen as well as the role of titanium to ease the thermal activation process is not yet understood. Recent X-ray absorption (XAS) and X-ray photoelectron (XPS) investigations have shown that in the case of TiCl<ce:inf loc="post">3</ce:inf> the Ti is completely reduced to the metallic state <ce:cross-refs refid="bib3 bib4 bib5">[3–5]</ce:cross-refs> after 30<ce:hsp sp="0.25"></ce:hsp>min of ball milling <ce:cross-ref refid="bib6">[6]</ce:cross-ref>. The information obtained by XAS concerning the chemical state of titanium can be complemented by analysis performed on the atomic length scale using transmission electron microscopy (TEM). Analytical TEM allows the simultaneous examination of micro-structural features through high-resolution imaging and the acquisition of chemical and crystallographic information from small particles. Moreover, this technique provides information on the evolution of their morphology. Hence, information can be obtained concerning the role of titanium and the mechanism of the desorption and absorption reaction in sodium alanate.</ce:para>
+<ce:para view="all">In previous studies, SEM and TEM investigations were performed on pure sodium alanate as well as on sodium alanate doped with different precursors, such as titanium tetrabutylate, Ti(OBu)<ce:inf loc="post">4</ce:inf>
+<ce:cross-refs refid="bib4 bib7">[4,7]</ce:cross-refs>; titanium tetrabutylate in combination with zirconium tetrapropylate, Ti(OBu)<ce:inf loc="post">4</ce:inf>/Zr(OPr)<ce:inf loc="post">4</ce:inf>
+<ce:cross-ref refid="bib8">[8]</ce:cross-ref>; titanium chloride, TiCl<ce:inf loc="post">3</ce:inf>
+<ce:cross-refs refid="bib4 bib9">[4,9]</ce:cross-refs>; Ti cluster (Ti<ce:inf loc="post">13</ce:inf>·6THF) which consists of a core of 13 Ti atoms coordinated by O atoms from tetrahydrofuran (THF) <ce:cross-refs refid="bib4 bib9">[4,9]</ce:cross-refs> and TiF<ce:inf loc="post">3</ce:inf>
+<ce:cross-ref refid="bib10">[10]</ce:cross-ref>.</ce:para>
+<ce:para view="all">It was shown that the solvent used in the purification of sodium alanate has an influence on the final particle sizes and shapes <ce:cross-ref refid="bib7">[7]</ce:cross-ref>. Moreover, the investigations of NaAlH<ce:inf loc="post">4</ce:inf> doped with Ti-based compounds have shown that the microstructural shape and size of the particles depend on the nature of the precursor and the doping method <ce:cross-ref refid="bib8">[8]</ce:cross-ref>.</ce:para>
+<ce:para view="all">NaAlH<ce:inf loc="post">4</ce:inf> doped with a tandem catalyst (2<ce:hsp sp="0.25"></ce:hsp>mol.% Ti(OBu)<ce:inf loc="post">4</ce:inf> and 2<ce:hsp sp="0.25"></ce:hsp>mol.% Zr(OPr)<ce:inf loc="post">4</ce:inf>) by high-energy ball milling (Spex mill, milling time 2<ce:hsp sp="0.25"></ce:hsp>min or 3<ce:hsp sp="0.25"></ce:hsp>h) have been investigated by SEM <ce:cross-ref refid="bib8">[8]</ce:cross-ref>. After ball milling for 2<ce:hsp sp="0.25"></ce:hsp>min, the well-defined angular features of the individual particles were smoother compared to the initial state of the sample. Additionally, there were indications that the particles have agglomerated during the doping/milling procedure <ce:cross-ref refid="bib8">[8]</ce:cross-ref>. Absorption and desorption cycles of hydrogen significantly altered the morphology of the particles but particle break-up or fragmentation has not been observed even after 5 cycles in contrast to intermetallic hydrides <ce:cross-ref refid="bib8">[8]</ce:cross-ref>. Furthermore, decomposition between Al and Na was observed and a correlation between the Ti catalyst and Al-rich surfaces was noticed after only 5 cycles.</ce:para>
+<ce:para view="all">NaAlH<ce:inf loc="post">4</ce:inf> particles doped with 4<ce:hsp sp="0.25"></ce:hsp>mol.% Ti(OBu)<ce:inf loc="post">4</ce:inf> by a wet doping process <ce:cross-refs refid="bib4 bib7">[4,7]</ce:cross-refs> investigated by SEM after the 17th dehydrogenation were highly porous and composed of particles of less than 5<ce:hsp sp="0.25"></ce:hsp>μm in size. Elemental mapping of Na and Al suggested that the doped material in the dehydrogenated state was separated into NaH and Al phases <ce:cross-ref refid="bib7">[7]</ce:cross-ref>. Furthermore, TEM micrographs obtained on particles after the first desorption of hydrogen showed a crystalline Al phase (size of about 10<ce:hsp sp="0.25"></ce:hsp>nm–1<ce:hsp sp="0.25"></ce:hsp>μm) <ce:cross-ref refid="bib4">[4]</ce:cross-ref>. EDX analyses indicated that titanium was present only in the Al phase.</ce:para>
+<ce:para view="all">NaAlH<ce:inf loc="post">4</ce:inf> doped with Ti<ce:inf loc="post">13</ce:inf>·6THF <ce:cross-ref refid="bib4">[4]</ce:cross-ref> (2<ce:hsp sp="0.25"></ce:hsp>mol.% Ti by ball milling 3<ce:hsp sp="0.25"></ce:hsp>h in a stainless steel vial) was investigated in the first dehydrogenated state by TEM. Particles had a globular shape and were occasionally fused with each other. Ti<ce:inf loc="post">13</ce:inf>·6THF doped alanate was characterized by a lower degree of crystallinity in contrast to Ti(OBu)<ce:inf loc="post">4</ce:inf> doped samples. EDX analyses also confirmed the disperse nature of this material and showed a homogeneous distribution of Ti in the Al phase. Similar results were obtained with dehydrogenated TiCl<ce:inf loc="post">3</ce:inf> doped NaAlH<ce:inf loc="post">4</ce:inf>
+<ce:cross-ref refid="bib4">[4]</ce:cross-ref> (2<ce:hsp sp="0.25"></ce:hsp>mol.% Ti by ball milling 3<ce:hsp sp="0.25"></ce:hsp>h in a stainless steel vial using a Spex ball mill). In that case, the distribution of Ti in the Al phase was found to be less uniform in comparison to the Ti colloid as a dopant.</ce:para>
+<ce:para view="all">Recently, a combined TEM and SEM investigation of NaAlH<ce:inf loc="post">4</ce:inf> doped with TiF<ce:inf loc="post">3</ce:inf>
+<ce:cross-ref refid="bib10">[10]</ce:cross-ref> (2<ce:hsp sp="0.25"></ce:hsp>mol.% Ti by ball milling 30<ce:hsp sp="0.25"></ce:hsp>min, 350<ce:hsp sp="0.25"></ce:hsp>rpm in a Fletscher 7 planetary mill) suggested that after ball milling no reduction of TiF<ce:inf loc="post">3</ce:inf> occurred, leading to a low degree of mixing between the TiF<ce:inf loc="post">3</ce:inf> and the alanate phase. In contrast, after 15 cycles a decomposition of TiF<ce:inf loc="post">3</ce:inf> is observed as well as a higher degree of mixing between the two phases.</ce:para>
+<ce:para view="all">As described above, previous microstructural investigations were carried out using a liquid precursor <ce:cross-refs refid="bib4 bib7 bib8">[4,7,8]</ce:cross-refs>, the Ti colloid, TiCl<ce:inf loc="post">3</ce:inf>
+<ce:cross-refs refid="bib4 bib9">[4,9]</ce:cross-refs> and TiF<ce:inf loc="post">3</ce:inf>
+<ce:cross-ref refid="bib10">[10]</ce:cross-ref>. Moreover, all the samples were studied only in the dehydrogenated state. So far to our knowledge, no SEM or TEM work has been published concerning the hydrogenated state of doped sodium alanate. Additionally, questions still remain concerning the distribution of Ti in the particles in the dehydrogenated state as well as in the hydrogenated case. It is an open question, for example, whether the homogeneous distribution of Ti in the Al phase observed in the decomposed state <ce:cross-ref refid="bib4">[4]</ce:cross-ref> is preserved at different stages of the dehydrogenation/rehydrogenation reaction as well as in the hydrogenated state.</ce:para>
+<ce:para view="all">Herein, we consider the TiCl<ce:inf loc="post">3</ce:inf> and the Ti<ce:inf loc="post">13</ce:inf>·6THF doped sodium alanate as these two precursors were shown to be more efficient than other dopants investigated so far <ce:cross-refs refid="bib11 bib12 bib13 bib14">[11–14]</ce:cross-refs>. Thus, we report on the evolution of the microstructure at different stages of the desorption and absorption reaction of hydrogen in NaAlH<ce:inf loc="post">4</ce:inf> doped with Ti-based precursors by ball milling. In this study, a concentration of 5<ce:hsp sp="0.25"></ce:hsp>mol.% Ti on the basis of Ti<ce:inf loc="post">13</ce:inf>·6THF has been used in contrast to earlier studies (0.9<ce:hsp sp="0.25"></ce:hsp>mol.% <ce:cross-ref refid="bib11">[11]</ce:cross-ref>, 1.8<ce:hsp sp="0.25"></ce:hsp>mol.% <ce:cross-refs refid="bib11 bib12">[11,12]</ce:cross-refs> or 2<ce:hsp sp="0.25"></ce:hsp>mol.% <ce:cross-refs refid="bib4 bib13">[4,13]</ce:cross-refs>) because X-ray absorption spectroscopy <ce:cross-refs refid="bib3 bib15">[3,15]</ce:cross-refs>, X-ray photoelectron spectroscopy <ce:cross-ref refid="bib6">[6]</ce:cross-ref> and kinetic measurements <ce:cross-ref refid="bib16">[16]</ce:cross-ref> have been carried out with NaAlH<ce:inf loc="post">4</ce:inf> doped with 5<ce:hsp sp="0.25"></ce:hsp>mol.% Ti on the basis of Ti<ce:inf loc="post">13</ce:inf>·6THF or TiCl<ce:inf loc="post">3</ce:inf> by ball milling (Fritsch P6 planetary mixer/mill, silicon nitride vial and balls, milling time 30<ce:hsp sp="0.25"></ce:hsp>min). The conditions described above have been selected in order to ease comparison and to complement results between these techniques. As it was mentioned that a correlation between elements would appear after only 5 cycles <ce:cross-ref refid="bib8">[8]</ce:cross-ref>, we investigated sodium alanate doped with 5<ce:hsp sp="0.25"></ce:hsp>mol.% Ti on the basis of Ti<ce:inf loc="post">13</ce:inf>·6THF or TiCl<ce:inf loc="post">3</ce:inf> during and after the first desorption of hydrogen, during and after the first absorption of hydrogen, after 8 hydrogenation cycles and in the following decomposed state. All the samples have been analyzed using SEM, TEM and HRTEM. Finally, an attempt to understand the role of titanium and how the bulk transformation is taking place is presented.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental</ce:section-title>
+<ce:section view="all">
+<ce:label>2.1</ce:label>
+<ce:section-title>Materials preparation</ce:section-title>
+<ce:para view="all">All sample preparations were done in an argon-filled glove box equipped with a recirculation system to keep the water and oxygen concentrations below 1<ce:hsp sp="0.25"></ce:hsp>ppm. Chemical operations were performed on the bench under purified nitrogen using Schlenk tube techniques.</ce:para>
+<ce:para view="all">Commercially available NaAlH<ce:inf loc="post">4</ce:inf> (Chemetall, Frankfurt) was purified by a Soxhlet extraction with THF as described elsewhere <ce:cross-ref refid="bib11">[11]</ce:cross-ref>. The samples doped with a Ti-based catalyst were prepared using either TiCl<ce:inf loc="post">3</ce:inf> (99.999%, Sigma–Aldrich) or Ti<ce:inf loc="post">13</ce:inf>·6THF <ce:cross-refs refid="bib11 bib12 bib13">[11–13]</ce:cross-refs>.</ce:para>
+<ce:para view="all">In an argon glove box, a 80<ce:hsp sp="0.25"></ce:hsp>ml silicon nitride vial containing balls made of the same material was filled with either 285<ce:hsp sp="0.25"></ce:hsp>mg of TiCl<ce:inf loc="post">3</ce:inf> or 513<ce:hsp sp="0.25"></ce:hsp>mg of Ti<ce:inf loc="post">13</ce:inf>·6THF (purity of 32%) and 2<ce:hsp sp="0.25"></ce:hsp>g of purified sodium alanate and sealed. The ball to powder weight ratio was about 20:1 and the milling was carried out in a Fritsch P6 planetary mixer/mill for 30<ce:hsp sp="0.25"></ce:hsp>min at 600<ce:hsp sp="0.25"></ce:hsp>rpm.</ce:para>
+<ce:para view="all">Absorption and desorption of hydrogen were carried out in a modified Sievert-type apparatus. A more detailed description of the apparatus and the reactor used can be found elsewhere <ce:cross-refs refid="bib11 bib12">[11,12]</ce:cross-refs>. Micro-structural characterization was done on samples quenched at a defined degree of the dehydrogenation–rehydrogenation reaction (cf. <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+<ce:float-anchor refid="tbl1"></ce:float-anchor>).</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2.2</ce:label>
+<ce:section-title>Microscopy</ce:section-title>
+<ce:para view="all">Samples were prepared in an argon-filled glove box by spreading the powders on a carbon film for SEM analysis and on a holey carbon film supported on a copper grid for TEM investigations. For HRTEM analysis, the powders were dispersed in toluene and one drop of the supernatant liquid was placed on a holey carbon film of a Cu-grid. Once the toluene evaporated, it left a distribution of particles on the support film. All the samples were prepared and transferred to the microscopes under an Ar atmosphere. For SEM (Gemini Leo 1530) and TEM (JEOL 2000 FX) investigations, samples were exposed for about 1<ce:hsp sp="0.25"></ce:hsp>s to air just during the connection of the sample holder to the microscope whereas for TEM (Philips Tecnai F20 ST) analysis with high-resolution they were exposed for about 1<ce:hsp sp="0.25"></ce:hsp>min due to the mounting of the grid on the sample holder and the subsequent connection to the microscope.</ce:para>
+<ce:para view="all">Samples were first examined in a scanning electron microscope operating at 20<ce:hsp sp="0.25"></ce:hsp>kV equipped with an X-ray energy dispersive spectrometer for chemical analysis. Then, they were investigated in greater detail with a JEOL 2000 FX (tungsten filament) and a Philips Tecnai F20 ST transmission electron microscope (Field-emission gun operated at 4.1<ce:hsp sp="0.25"></ce:hsp>keV extraction voltage, super-twin lens, <ce:italic>C</ce:italic>
+<ce:inf loc="post">s</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1.2<ce:hsp sp="0.25"></ce:hsp>mm, point resolution of 0.235<ce:hsp sp="0.25"></ce:hsp>nm at Scherzer focus, info limit of 0.14<ce:hsp sp="0.25"></ce:hsp>nm) operating at 200<ce:hsp sp="0.25"></ce:hsp>kV. Both microscopes were equipped with a Si(Li) X-ray energy-dispersive spectrometer (XEDS from Oxford Instruments ISIS 200 and EDAX, respectively) to perform elemental-distribution mapping, point and line-scan analysis. TEM and STEM bright-field images were collected with the JEOL 2000 FX. Images in the STEM mode were collected using a high-angle annular dark-field (HAADF) detector with the Philips Tecnai F20 ST microscope. Additionally to obtain crystallographic information high-resolution transmission electron microscopy (HRTEM) investigations were performed with this microscope. HRTEM micrographs were analysed with the software package Digital Micrograph (Version 3.5.2, Gatan Co.) in order to perform Fast Fourier Transform.</ce:para>
+<ce:para view="all">The composition of the samples was measured first with the scanning electron microscope, which was calibrated with the following standards: YBa<ce:inf loc="post">2</ce:inf>Cu<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">7</ce:inf> for oxygen, NaAlSi<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">8</ce:inf> for Na, Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> for Al, KCl for Cl, pure titanium for Ti. Elemental maps were acquired with the JEOL 2000 FX by scanning the sample in a fast mode and cumulating the counts during 100 scans in order to minimize the damages due to the beam intensity. The correlation between different elements was determined by superimposing elemental maps. Quantitative nanobeam spot, linescan or square analyses were performed with the Philips Tecnai F20 ST microscope using the Cliff–Lorimer method <ce:cross-ref refid="bib17">[17]</ce:cross-ref>.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results</ce:section-title>
+<ce:section view="all">
+<ce:label>3.1</ce:label>
+<ce:section-title>Effect of electron beam</ce:section-title>
+<ce:para view="all">During the analysis, we did not face any charging problem under the beam with doped alanate, as these samples were conductive (as shown also by XPS analysis).</ce:para>
+<ce:para view="all">In order to avoid the decomposition of samples in the hydrogenated state (sodium alanate doped with TiCl<ce:inf loc="post">3</ce:inf> in the ball-milled state) under the beam, special observation conditions involving STEM with fast mapping were used. Fast mapping involves the recording of images with a resolution of 512<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>532 pixels and a dwell time of 0.12<ce:hsp sp="0.25"></ce:hsp>ms/pixel. In those conditions, the morphology of the observed particles was checked to be unchanged after mapping. For the decomposition to occur (modification of the morphology), beam has to be focused in TEM mode (100<ce:hsp sp="0.25"></ce:hsp>nm probe) for a few minutes.</ce:para>
+<ce:para view="all">During the analysis several particles have been examined for each sample. In this paper the most significant ones are selected and presented.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.2</ce:label>
+<ce:section-title>Microstructure of NaAlH<ce:inf loc="post">4</ce:inf> doped with TiCl<ce:inf loc="post">3</ce:inf>
+</ce:section-title>
+<ce:para view="all">
+<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>(a)<ce:float-anchor refid="fig1"></ce:float-anchor> shows an overview of NaAlH<ce:inf loc="post">4</ce:inf> mixed with 5<ce:hsp sp="0.25"></ce:hsp>mol.% TiCl<ce:inf loc="post">3</ce:inf> in a mortar. NaAlH<ce:inf loc="post">4</ce:inf> crystallites, characterized by EDX analysis, present a well-defined angular shape with particle size ranging from about 40 to 350<ce:hsp sp="0.25"></ce:hsp>μm whereas TiCl<ce:inf loc="post">3</ce:inf> particles do not reveal such a defined character. An enlargement of a region from <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>(a and b) indicates that the TiCl<ce:inf loc="post">3</ce:inf> has a tile like-structure. <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor> shows the microstructure of the sample after ball milling at low (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>(a)) and higher magnification (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>(b)), respectively. The micrographs reveal that submicron sized particles form aggregates of several micrometers upon ball milling.</ce:para>
+<ce:para view="all">An overview of the TiCl<ce:inf loc="post">3</ce:inf> doped sample after one complete desorption (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor>) indicates that particles have smooth shapes (from irregular to spherical) and sizes ranging from about 0.5 to 11<ce:hsp sp="0.25"></ce:hsp>μm. Analysis of the TiCl<ce:inf loc="post">3</ce:inf> doped NaAlH<ce:inf loc="post">4</ce:inf> microstructure reveals the variety of the particles shape as well as the drastic change which occur at different stages of desorption and absorption of hydrogen. <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor> displays the microstructure as well as the elemental maps of Al, Na, Cl and Ti of particles in the (bm), (dd) and (da) state. After ball milling (bm) the particles have a dense structure whereas during desorption (dd) and during the absorption (da) of hydrogen the structure of the particles becomes porous with pores randomly distributed in the particle. Pores are characterized by a curved interface of different shape embedded in the matrix and their sizes vary from about 20<ce:hsp sp="0.25"></ce:hsp>nm to 7<ce:hsp sp="0.25"></ce:hsp>μm. Elemental mapping of the particles confirms the dense structure in the ball-milled state. Additionally, in the different stages of the decomposition and reloading reaction, elemental maps taken at lower resolution exhibit a uniform distribution of Al, Na, Cl and Ti everywhere except in the pores. At this scale, no lack of correlation between different elements was detected.</ce:para>
+<ce:para view="all">Observations reveal that some small particles (few nanometer in size) are not characterized by a porous structure and are found at all stages of the dehydrogenation/hydrogenation reaction. They seem to be uninvolved in the reaction although EDX analyses indicated the presence of Ti in these particles.</ce:para>
+<ce:para view="all">The highly porous character and the inhomogeneous thickness of the particles did not allow getting any valuable quantitative point or line-scan analysis.</ce:para>
+<ce:para view="all">TEM bright-field micrographs and the corresponding STEM dark-field images of samples (bm), (ad), (aa) (<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="fig5"></ce:float-anchor>) confirm the results shown above and again reveal regions of different contrast and the porous character of the material. Qualitative EDX spot analysis performed with a nano-beam (2<ce:hsp sp="0.25"></ce:hsp>nm) on the (bm) sample indicated the existence of alanate phase (spot 1) and Al phase (spot 2). Qualitative line-scan analysis performed on the sample (ad) and (aa) confirmed the presence of the elements O, Na, Al, Cl, Ti and Cu (from the grid). The dot line visible in the STEM micrograph (<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>, STEM (ad) and (aa)) is the individual spot contamination during EDX line-scan measurement. From the analysis, it can be concluded that the distribution of these elements as well as the thickness along the line is random and inhomogeneous in each particle.</ce:para>
+<ce:para view="all">STEM images of samples after the eighth absorption, (a8a) and after the ninth desorption, (a9d) indicate that the shape and the microstructure of these particles are different compared to the (bm), (ad) and (aa) samples. After several cycles, in the dehydrogenated as well as in the hydrogenated state, the particle's edges are not well defined and the porosity is even more pronounced. In the hydrogenated state, semi-quantitative analysis performed on the region indicated in the micrograph (<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>, STEM (a8a)) reveals the presence of Ti (1.2<ce:hsp sp="0.25"></ce:hsp>at.%), Cl (0.3<ce:hsp sp="0.25"></ce:hsp>at.%), Na (11.7<ce:hsp sp="0.25"></ce:hsp>at.%), Al (18.4<ce:hsp sp="0.25"></ce:hsp>at.%) and O (68.4<ce:hsp sp="0.25"></ce:hsp>at.%). In the analysis, carbon was excluded because of the carbon film on the copper grid. In the followed decomposed state, semi-quantitative EDX analysis performed on the region (<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>, STEM (a9d)_1_EDX_square 1) indicated the presence of Ti (5.4<ce:hsp sp="0.25"></ce:hsp>at.%), Cl (2.2<ce:hsp sp="0.25"></ce:hsp>at.%), Na (11.1<ce:hsp sp="0.25"></ce:hsp>at.%), Al (17.6<ce:hsp sp="0.25"></ce:hsp>at.%) and O (63.7<ce:hsp sp="0.25"></ce:hsp>at.%). Moreover, crystallites of few nanometers with a spherical shape appeared to be embedded in the particle. Semi-quantitative EDX analysis (<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>, STEM (a9d)_1_EDX_square2) performed on this region indicated the presence of an Al phase which is free of titanium. Analyses performed at higher magnification with a spot of 2<ce:hsp sp="0.25"></ce:hsp>nm (<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>, STEM (a9d)_2) confirmed the later result. No trace of chlorine or titanium was found. After 9 cycles, in the dehydrogenated state, an Al crystallite (size of around 280<ce:hsp sp="0.25"></ce:hsp>nm) was detected inside the analyzed particle.</ce:para>
+<ce:para view="all">HRTEM (<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="fig6"></ce:float-anchor>) performed on these samples showed fringe contrast in the crystalline parts. After 8 cycles, in sample (a8a), the measured inter-planar spacing was 0.238<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>0.007 and 0.206<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>0.006<ce:hsp sp="0.25"></ce:hsp>nm. Taking account the uncertainties in the measurement and using powder X-ray diffraction data <ce:cross-ref refid="bib18">[18]</ce:cross-ref> the above distances can correspond to reflections from several compounds. Indeed for the distance 0.238<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>0.007<ce:hsp sp="0.25"></ce:hsp>nm reflections from NaAlH<ce:inf loc="post">4</ce:inf> (2<ce:hsp sp="0.25"></ce:hsp>0<ce:hsp sp="0.25"></ce:hsp>2), Na<ce:inf loc="post">3</ce:inf>AlH<ce:inf loc="post">6</ce:inf> (2<ce:hsp sp="0.25"></ce:hsp>1<ce:hsp sp="0.25"></ce:hsp>1), NaH (2<ce:hsp sp="0.25"></ce:hsp>0<ce:hsp sp="0.25"></ce:hsp>0), Al (1<ce:hsp sp="0.25"></ce:hsp>1<ce:hsp sp="0.25"></ce:hsp>1), Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> (1<ce:hsp sp="0.25"></ce:hsp>1<ce:hsp sp="0.25"></ce:hsp>0) or Ti (0<ce:hsp sp="0.25"></ce:hsp>0<ce:hsp sp="0.25"></ce:hsp>2) can be attributed. However, the state of the sample and EDX analysis make it unlikely that those reflections belong to NaH (2<ce:hsp sp="0.25"></ce:hsp>0<ce:hsp sp="0.25"></ce:hsp>0) or Ti (0<ce:hsp sp="0.25"></ce:hsp>0<ce:hsp sp="0.25"></ce:hsp>2). At this point, one reflection cannot be selected undoubtedly for the above distance. In the same way, the <ce:italic>d</ce:italic>-spacing 0.206<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>0.006<ce:hsp sp="0.25"></ce:hsp>nm corresponds likely to Al (2<ce:hsp sp="0.25"></ce:hsp>0<ce:hsp sp="0.25"></ce:hsp>0) or Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> (1<ce:hsp sp="0.25"></ce:hsp>1<ce:hsp sp="0.25"></ce:hsp>3). In the following desorbed state, reflections from Al (2<ce:hsp sp="0.25"></ce:hsp>0<ce:hsp sp="0.25"></ce:hsp>0) or Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> (1<ce:hsp sp="0.25"></ce:hsp>1<ce:hsp sp="0.25"></ce:hsp>3) can be indexed to the measured inter-planar spacing of 0.211<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>0.006<ce:hsp sp="0.25"></ce:hsp>nm, <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref> (HRTEM_(a9d)_1 and HRTEM_(a9d)_2).</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.3</ce:label>
+<ce:section-title>Microstructure of NaAlH<ce:inf loc="post">4</ce:inf> doped with Ti cluster</ce:section-title>
+<ce:para view="all">The scanning electron micrograph of the Ti cluster material as synthesized (<ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+<ce:float-anchor refid="fig7"></ce:float-anchor>) reveals that particles have different shape (most of them with facets) with size ranging from about 8 to 60<ce:hsp sp="0.25"></ce:hsp>μm. SEM micrographs of doped alanate samples (bm), (dd) and (da) as well as the enlargement of some specific particles (<ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>
+<ce:float-anchor refid="fig8"></ce:float-anchor>) reveal the presence of two types of particles at the different stages of the reaction. Particles on the one hand coalesce to form aggregates of size ranging from about 40 to 160<ce:hsp sp="0.25"></ce:hsp>μm which are characterized by the presence of numerous pores. The tendency to form aggregates increases from the ball-milled state to the absorbed one. On the other hand, spheroidical shaped particles (without facets) of diameters ranging from about 8 to 50<ce:hsp sp="0.25"></ce:hsp>μm are also found. These particles do not have any pores and EDX analysis performed on them reveals the presence of Na, Al and Ti. Similarly, to the TiCl<ce:inf loc="post">3</ce:inf> doped alanate some particles seemed not to take part in the reaction.</ce:para>
+<ce:para view="all">STEM micrographs of samples (bm), (dd) and (da) as well as the elemental maps (<ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref>
+<ce:float-anchor refid="fig9"></ce:float-anchor>) reveal again the highly porous character of this material. In contrast to the TiCl<ce:inf loc="post">3</ce:inf> doped alanate, numerous pores are embedded in the matrix already in the ball-milled state. They are randomly distributed inside the particle and their size range is from 50<ce:hsp sp="0.25"></ce:hsp>nm to 3<ce:hsp sp="0.25"></ce:hsp>μm. Elemental distribution maps in the ball-milled state were performed in one selected region of the particle as in contrast to samples (dd) or (da) the outer part of some pores in that case was not completely free of material. At this magnification, maps reveal a homogeneous distribution of the three elements apart from two weak spots missing in the Na distribution, which are present in the Ti and Al distributions. Maps obtained from samples (dd) and (da) (even though the intensity of Ti signal is low) reveal a homogeneous distribution of the three elements and any lack of correlation between the elements could not be established.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref>
+<ce:float-anchor refid="fig10"></ce:float-anchor> shows the TEM bright-field micrographs and the corresponding STEM dark-field images of samples (bm), (aa), after the second desorption (a2d), after the eighth absorption (a8a) and after the ninth desorption (a9d). In the first cycle, particles have a spherical shape and exhibit regions of different contrast. A clear difference appears in the shape and the microstructure after the second and the eighth cycle. Semi-quantitative EDX spot analyses with a nano-beam of 2<ce:hsp sp="0.25"></ce:hsp>nm sizes were performed on the (bm) sample. Peaks from C, O were identified as contamination and Cu from the grid. Concerning the other elements, equivalent distribution of Na and Al (spot 1), coexistence of Al and Ti phase (spot 2) and pure Al phase (spot 3) were identified in the ball-milled state.</ce:para>
+<ce:para view="all">Semi-quantitative analysis performed on sample (a8a) (<ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref>, STEM_(a8a)_1) indicated the presence of Na, Al, Ti, O and C. Analysis performed at higher magnification (<ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref>, STEM_(a8a)_2) in the bright region (square1) gave the following atomic concentrations, Ti (0.9<ce:hsp sp="0.25"></ce:hsp>at.%), Al (57.6<ce:hsp sp="0.25"></ce:hsp>at.%), Na (5.9<ce:hsp sp="0.25"></ce:hsp>at.%) and O (35.6<ce:hsp sp="0.25"></ce:hsp>at.%) from spectra (STEM_a8a_2_EDX_square 1). In contrast, in the dark region (square 2) the distribution was Ti (0.5<ce:hsp sp="0.25"></ce:hsp>at.%), Al (24.1<ce:hsp sp="0.25"></ce:hsp>at.%), Na (6.7<ce:hsp sp="0.25"></ce:hsp>at.%) and O (68.7<ce:hsp sp="0.25"></ce:hsp>at.%) from spectra (STEM_a8a_2_EDX_square 2). Thus, titanium was present everywhere. Micrographs from sample (a9d) (<ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref>, STEM_(a9d)_1) exhibit regions with pronounced contrast. Analysis performed on the bright region (square 1) revealed the presence of Al, Na, Ti, O and C from spectrum (STEM_a9d_1_EDX_square 1) whereas the dark region (square 2) was free of titanium. Indeed, only Al, Na, O and C were detected from spectra (STEM_a9d_1_EDX_square 2). A similar result (absence of Ti) was obtained at higher magnification (<ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref>, STEM_(a9d)_2) of the region indicated in <ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref>, STEM_(a9d)_1.</ce:para>
+<ce:para view="all">HRTEM performed on these samples as shown in <ce:cross-ref refid="fig11">Fig. 11</ce:cross-ref>
+<ce:float-anchor refid="fig11"></ce:float-anchor> display fringe contrast in the crystalline parts. In the sample (a2d), the measured lattice spacing was 0.233<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>0.007<ce:hsp sp="0.25"></ce:hsp>nm which can corresponds to several reflections. However, in this case the corresponding diffraction pattern which is shown as an inset of HRTEM_a2d_1 indicates the 〈1<ce:hsp sp="0.25"></ce:hsp>1<ce:hsp sp="0.25"></ce:hsp>0〉 zone axis of a cubic crystal and allows eliminating all the reflections expect the Al (1<ce:hsp sp="0.25"></ce:hsp>1<ce:hsp sp="0.25"></ce:hsp>1). Another measured lattice spacing in the (a2d) sample was 0.186<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>0.006<ce:hsp sp="0.25"></ce:hsp>nm which corresponds to Na<ce:inf loc="post">3</ce:inf>AlH<ce:inf loc="post">6</ce:inf> (2<ce:hsp sp="0.25"></ce:hsp>2<ce:hsp sp="0.25"></ce:hsp>1) reflections. The presence of a pore embedded in the crystalline part is visible in the micrograph HRTEM_a2d_2. The lattice spacing of 0.247<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>0.007<ce:hsp sp="0.25"></ce:hsp>nm measured in sample (a8a) corresponds likely to the reflections from Na<ce:inf loc="post">3</ce:inf>AlH<ce:inf loc="post">6</ce:inf> (2<ce:hsp sp="0.25"></ce:hsp>2<ce:hsp sp="0.25"></ce:hsp>1) or Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> (1<ce:hsp sp="0.25"></ce:hsp>0<ce:hsp sp="0.25"></ce:hsp>4).</ce:para>
+</ce:section>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Discussion</ce:section-title>
+<ce:para view="all">The present study shows that the morphology of the particles in NaAlH<ce:inf loc="post">4</ce:inf> doped with a Ti-based compound by ball milling depends on the precursor. The main difference in the microstructure between the two precursors investigated is that the decomposition occurs already after ball milling with the Ti cluster doped sample. This result confirms similar observations made by NMR study in those samples <ce:cross-ref refid="bib19">[19]</ce:cross-ref>.</ce:para>
+<ce:para view="all">Moreover, this study highlights the disordered character of the material. The shape of the particles is evolving with the cycles from a spherical shape to a non-spherical one. The free volume in each particle, with the evolution of hydrogen is directly visible and enhanced with the number of cycles. Additionally, the chemical composition and the boundary regions are randomly distributed at the different stages of the reaction.</ce:para>
+<ce:para view="all">Some particles with a small size do not react during desorption and absorption of hydrogen even though the presence of titanium. The percentage of particles, which is not reacting, is unknown but this leads to some extent to the fact that the theoretical capacity of 5.6<ce:hsp sp="0.25"></ce:hsp>wt.% has not been reached experimentally with sodium alanate doped with Ti-based materials.</ce:para>
+<ce:para view="all">Once the hydrogen is released the microstructure is significantly changed by the formation of pores. The pores are randomly distributed inside the particle and defined by various shapes and sizes. They are created by the decomposition of the alanate which starts during ball milling and with further desorption reaction more material is released from the outer region of the pores. During the transformation the change in the microstructure is a random and irreversible process. Moreover, after several cycles an Al crystallite of about 300<ce:hsp sp="0.25"></ce:hsp>nm in size has been identified in the dehydrogenated state of sodium alanate doped with TiCl<ce:inf loc="post">3</ce:inf> confirming that relatively large crystallites of Al are formed during decomposition reactions as published in previous in situ X-ray studies <ce:cross-ref refid="bib20">[20]</ce:cross-ref>. As reported previously <ce:cross-ref refid="bib7">[7]</ce:cross-ref>, the overall reversible transformation is taking place in each particle independently and without any breaking of the particle, although after 8 cycles particle's edges are not well defined.</ce:para>
+<ce:para view="all">Depending on the stage of the reaction, EDX spot analyses revealed always Al alone, together with Ti, together with Na or together with Na and Ti. Moreover, the Na is never present alone or exclusively with Ti. In samples doped with TiCl<ce:inf loc="post">3</ce:inf>, Cl has been identified also together with Ti, Al and Na. From our measurements after the first or the ninth cycle we cannot state that Al is always associated with Ti in the dehydrogenated state as in many cases the Al phase was found without any detectable amount of Ti.</ce:para>
+<ce:para view="all">Ti reflections were absent in the X-ray diffraction pattern recorded from the sodium alanate doped with Ti-based precursors <ce:cross-refs refid="bib20 bib21">[20,21]</ce:cross-refs> suggesting that the Ti phase is present in small amounts with small particle size. If metal atoms are arranged in a proper way, with conventional TEM and HRTEM metal particles of 1.5–2.0 and 0.8<ce:hsp sp="0.25"></ce:hsp>nm in diameter can be detected, respectively. In a previous TEM study as well as in the present work Ti or Ti/Al alloys particles were not visible indicating that the particle size was less than 1.5–2.0<ce:hsp sp="0.25"></ce:hsp>nm. In this work, with HRTEM crystalline parts have been observed at the different stage of dehydrogenation and hydrogenation reaction. In the case of TiCl<ce:inf loc="post">3</ce:inf> or Ti cluster doped sample, EDX maps as well as line-scan analyses assure the presence of Ti in the hydride particles. However, STEM and EDX spot analysis revealed only Al particles and never Ti particles implying that the size of Ti particles is less than 0.8<ce:hsp sp="0.25"></ce:hsp>nm and then invisible to the present technique.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>5</ce:label>
+<ce:section-title>Conclusion</ce:section-title>
+<ce:para view="all">The microstructure of sodium alanate doped with 5<ce:hsp sp="0.25"></ce:hsp>mol.% Ti on the basis of either TiCl<ce:inf loc="post">3</ce:inf> or Ti<ce:inf loc="post">13</ce:inf>·6THF has been investigated using SEM, TEM and HRTEM. Micrographs reveal that submicron sized particles form aggregates of several micrometers upon ball milling. Particles are characterized by the presence of numerous pores and elemental maps performed on these particles exhibit a homogeneous distribution of Al, Na, Cl and Ti. After 9 cycles, in the dehydrogenated state, Al crystallites (size of around 280<ce:hsp sp="0.25"></ce:hsp>nm) were detected inside the analyzed particles. After the first or the ninth cycle, EDX analysis does not reveal that Ti is exclusively associated with the Al phase in the dehydrogenated nor in the hydrogenated state of NaAlH<ce:inf loc="post">4</ce:inf> doped with TiCl<ce:inf loc="post">3</ce:inf> or Ti<ce:inf loc="post">13</ce:inf>·6THF. In contrast, elemental maps reveal a homogeneous distribution of Ti with all the other elements in both TiCl<ce:inf loc="post">3</ce:inf> and Ti<ce:inf loc="post">13</ce:inf>·6THF doped alanate. HRTEM combined with EDX analysis does not detect Ti particles implying that the particle size must be less than 0.8<ce:hsp sp="0.25"></ce:hsp>nm.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgments</ce:section-title>
+<ce:para view="all">Claudia Didschies and Christian Lemier are gratefully acknowledged for their help with SEM micrographs as well as Valérie Lalanne for the TEM sample preparation.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Zuttel</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Naturwissenschaften</sb:maintitle>
+</sb:title>
+<sb:volume-nr>91</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>4</sb:issue-nr>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>157</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Bogdanovic</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Schwickardi</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>253–254</sb:volume-nr>
+</sb:series>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Léon</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>O.</ce:given-name>
+<ce:surname>Kircher</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Rothe</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Fichtner</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Phys. Chem. B</sb:maintitle>
+</sb:title>
+<sb:volume-nr>108</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>16372</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Felderhoff</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Klementiev</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Grünert</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Spiethoff</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Tesche</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.M.</ce:given-name>
+<ce:surname>Bellosta von Colbe</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Bogdanovic</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Härtel</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Pommerin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Schüth</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Weidenthaler</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Phys. Chem. Chem. Phys.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>6</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>4369</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Graetz</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.J.</ce:given-name>
+<ce:surname>Reilly</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Johnson</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A. Yu.</ce:given-name>
+<ce:surname>Ignatov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.A.</ce:given-name>
+<ce:surname>Tyson</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>85</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>500</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Léon</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Schild</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Fichtner</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>404–406</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>766</sb:first-page>
+<sb:last-page>770</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Bogdanovic</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Brand</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Marjanovic</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Schwickardi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Tölle</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>302</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>36</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.J.</ce:given-name>
+<ce:surname>Thomas</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.J.</ce:given-name>
+<ce:surname>Gross</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.Y.C.</ce:given-name>
+<ce:surname>Yang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Jensen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>330–332</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>702</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<ce:other-ref>
+<ce:textref>A. Léon, O. Kircher, H. Rösner, M. Fichtner, O. Fuhr, Gordon Research Conference on Hydrogen–Metal Systems, 2003.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.M.</ce:given-name>
+<ce:surname>Andrei</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.C.</ce:given-name>
+<ce:surname>Walmsley</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.W.</ce:given-name>
+<ce:surname>Brinks</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Holmestad</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.S.</ce:given-name>
+<ce:surname>Srinivasan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.M.</ce:given-name>
+<ce:surname>Jensen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.C.</ce:given-name>
+<ce:surname>Hauback</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Appl. Phys. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>80</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>709</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>O.</ce:given-name>
+<ce:surname>Kircher</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Fichtner</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Appl. Phys.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>95</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>7748</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Fichtner</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>O.</ce:given-name>
+<ce:surname>Fuhr</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>O.</ce:given-name>
+<ce:surname>Kircher</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Rothe</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Nanotechnology</sb:maintitle>
+</sb:title>
+<sb:volume-nr>14</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>778</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Bogdanovic</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Felderhoff</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Kaskel</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Pommerin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Schlichte</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Schüth</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Adv. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>15</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1012</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Sandrock</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.J.</ce:given-name>
+<ce:surname>Gross</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Thomas</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>339</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>299</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<ce:other-ref>
+<ce:textref>A. Léon, O. Kircher, J. Rothe, M. Fichtner, J. Metastable Nanocryst. Mater., in press.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib16">
+<ce:label>[16]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Fichtner</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Adv. Eng. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>7</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>443</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib17">
+<ce:label>[17]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Cliff</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.W.</ce:given-name>
+<ce:surname>Lorimer</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Microstructure</sb:maintitle>
+</sb:title>
+<sb:volume-nr>103</sb:volume-nr>
+</sb:series>
+<sb:date>1975</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>203</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib18">
+<ce:label>[18]</ce:label>
+<ce:other-ref>
+<ce:textref>Powder diffraction files, International center for diffraction data, Inorganic phases, set 1-51, USA, 2001.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib19">
+<ce:label>[19]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Majer</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Stanik</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.E.</ce:given-name>
+<ce:surname>Valiente Banuet</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Grinberg</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>O.</ce:given-name>
+<ce:surname>Kircher</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Fichtner</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>404–406</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>738</sb:first-page>
+<sb:last-page>742</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib20">
+<ce:label>[20]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.J.</ce:given-name>
+<ce:surname>Gross</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.E.</ce:given-name>
+<ce:surname>Guthrie</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Takara</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.J.</ce:given-name>
+<ce:surname>Thomas</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>297</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>270</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib21">
+<ce:label>[21]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Weidenthaler</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Pommerin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Felderhoff</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Bogdanovic</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Schüth</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Phys. Chem. Chem. Phys.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>5</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>5149</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

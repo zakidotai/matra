@@ -1,0 +1,3401 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838805011126</prism:url><dc:identifier>doi:10.1016/j.jallcom.2005.06.029</dc:identifier><eid>1-s2.0-S0925838805011126</eid><prism:doi>10.1016/j.jallcom.2005.06.029</prism:doi><pii>S0925-8388(05)01112-6</pii><dc:title>Phase diagram of the Sn–Zn–Ti system </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>407</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>170</prism:startingpage><prism:endingpage>175</prism:endingpage><prism:pagerange>170-175</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2006-01-05</prism:coverdate><prism:coverdisplaydate>5 January 2006</prism:coverdisplaydate><prism:copyright>Copyright © 2005 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Vassilev, Gueorgui P.</dc:creator><dc:creator>Dobrev, Evgeni S.</dc:creator><dc:creator>Tedenac, Jean-Claude</dc:creator><dc:description>
+                  Equilibrated Sn–Zn–Ti alloys and (Sn+Zn)/α-Ti diffusion couples have been studied by scanning electron microscopy, metallography, and differential scanning calorimetry. For the first time an isothermal section, at 600°C, of the ternary Sn–Zn–Ti system has been constructed. A previously unknown ternary phase with approximate formula Ti3Sn2Zn6 (probable homogeneity interval in the range Ti5Sn4Zn11 to Ti5Sn3Zn12) has been found.
+                  The solubility ranges of the titanium based solid solutions and the intermetallic phases have been looked for. As far as we could detect and in agreement with theoretical considerations, zinc dissolves more in Ti–Sn phases than tin into Ti–Zn compounds. Titanium additions of 3 and 4at.% Ti do not influence significantly the Sn–Zn eutectic temperature. The experimentally determined melting enthalpies of the nearly eutectic alloys have values around 100Jg−1.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Ternary alloy systems</dcterms:subject><dcterms:subject>Phase diagrams</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838805011126" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838805011126" rel="scidir"/></coredata><objects><object category="thumbnail" height="14" mimetype="image/gif" multimediatype="GIF image file" ref="si4" size="230" type="ALTIMG" width="43">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011126-si4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="14" mimetype="image/gif" multimediatype="GIF image file" ref="si3" size="230" type="ALTIMG" width="43">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011126-si3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="14" mimetype="image/gif" multimediatype="GIF image file" ref="si2" size="254" type="ALTIMG" width="40">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011126-si2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="14" mimetype="image/gif" multimediatype="GIF image file" ref="si1" size="221" type="ALTIMG" width="40">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011126-si1.gif?httpAccept=%2A%2F%2A</object><object category="standard" height="293" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="7028" type="IMAGE-DOWNSAMPLED" width="361">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011126-gr4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="1481" type="IMAGE-THUMBNAIL" width="115">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011126-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="9" mimetype="image/gif" multimediatype="GIF image file" ref="fx1" size="109" type="IMAGE-DOWNSAMPLED" width="8">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011126-fx1.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="83" mimetype="image/gif" multimediatype="GIF image file" ref="fx1" size="351" type="IMAGE-THUMBNAIL" width="73">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011126-fx1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="281" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="44695" type="IMAGE-DOWNSAMPLED" width="282">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011126-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="2504" type="IMAGE-THUMBNAIL" width="94">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011126-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="580" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="27534" type="IMAGE-DOWNSAMPLED" width="370">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011126-gr3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="92" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="1673" type="IMAGE-THUMBNAIL" width="59">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011126-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="574" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="45719" type="IMAGE-DOWNSAMPLED" width="370">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011126-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="2118" type="IMAGE-THUMBNAIL" width="60">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011126-gr1.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>29244469931</scopus-id><scopus-eid>2-s2.0-29244469931</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/29244469931" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20051215">2005-12-15</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20051215">2005-12-15</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-03-29T03:54:28</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838805011126</xocs:eid>
+<xocs:pii-formatted>S0925-8388(05)01112-6</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805011126</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2005.06.029</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838805X0247X</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.349087-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20060105</xocs:date-search-begin>
+<xocs:year-nav>2006</xocs:year-nav>
+<xocs:indexeddate epoch="1134604800">2005-12-15T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>407</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>407</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 407, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>28</xocs:sort-order>
+<xocs:first-fp>170</xocs:first-fp>
+<xocs:last-lp>175</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>170</xocs:first-page>
+<xocs:last-page>175</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20060105</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>5 January 2006</xocs:cover-date-text>
+<xocs:cover-date-start>2006-01-05</xocs:cover-date-start>
+<xocs:cover-date-year>2006</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Metallurgy</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2005 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>PHASEDIAGRAMSNZNTISYSTEM</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>VASSILEV</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>G</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental information about the binary end-systems (Ti–Zn, Sn–Zn, Ti–Sn)</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experiments, results and discussion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>KATTNER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>740</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>U</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>LEONE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1975</xocs:ref-pub-year>
+<xocs:ref-first-fp>503</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>LEONE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1976</xocs:ref-pub-year>
+<xocs:ref-first-fp>111</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>KARPINOS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1983</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>KOBLYUK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>1465</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>ONO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>PROCEEDINGSNINTHSYMPOSIUMMICROJOININGASSEMBLYTECHNOLOGYINELECTRONICS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>GEBHARDT</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1941</xocs:ref-pub-year>
+<xocs:ref-first-fp>355</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>ANDERSON</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1944</xocs:ref-pub-year>
+<xocs:ref-first-fp>278</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>PIETROKOWSKY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1954</xocs:ref-pub-year>
+<xocs:ref-first-fp>219</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>PELZEL</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1961</xocs:ref-pub-year>
+<xocs:ref-first-fp>881</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>HEINE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1962</xocs:ref-pub-year>
+<xocs:ref-first-fp>380</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>SCHUBERT</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1963</xocs:ref-pub-year>
+<xocs:ref-first-fp>41</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13">
+<xocs:ref-normalized-surname>RENNHACK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1966</xocs:ref-pub-year>
+<xocs:ref-first-fp>941</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>SPITTLE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1972</xocs:ref-pub-year>
+<xocs:ref-first-fp>423</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15">
+<xocs:ref-normalized-surname>DOBREV</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1977</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib16">
+<xocs:ref-normalized-surname>GOTO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1973</xocs:ref-pub-year>
+<xocs:ref-first-fp>466</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib17">
+<xocs:ref-normalized-surname>SAILLARD</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1981</xocs:ref-pub-year>
+<xocs:ref-first-fp>224</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib18">
+<xocs:ref-normalized-surname>VASSILEV</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>162</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib19">
+<xocs:ref-normalized-surname>HEYCOCK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1897</xocs:ref-pub-year>
+<xocs:ref-first-fp>383</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib20">
+<xocs:ref-normalized-surname>TAMMAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1933</xocs:ref-pub-year>
+<xocs:ref-first-fp>133</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib21">
+<xocs:ref-normalized-surname>HANSEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1958</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>CONSTITUTIONBINARYALLOYS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib22">
+<xocs:ref-normalized-surname>SCHUERMANN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1961</xocs:ref-pub-year>
+<xocs:ref-first-fp>397</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib23">
+<xocs:ref-normalized-surname>BUCK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1974</xocs:ref-pub-year>
+<xocs:ref-first-fp>209</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib24">
+<xocs:ref-normalized-surname>VNUK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1981</xocs:ref-pub-year>
+<xocs:ref-first-fp>1171</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib25">
+<xocs:ref-normalized-surname>SRIVASTAVA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1993</xocs:ref-pub-year>
+<xocs:ref-first-fp>700</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib26">
+<xocs:ref-normalized-surname>MASSALSKI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>CDROMBINARYALLOYPHASEDIAGRAMS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib27">
+<xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>471</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib28">
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-normalized-srctitle>DEFINITIONTHERMOCHEMICALTHERMOPHYISCALPROPERTIESPROVIDEADATABASEFORDEVELOPMENTNEWLIGHTALLOYS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib29">
+<xocs:ref-normalized-surname>OHTANI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>685</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib30">
+<xocs:ref-normalized-surname>KNOTT</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>1</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib31">
+<xocs:ref-normalized-surname>FINLAY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1954</xocs:ref-pub-year>
+<xocs:ref-first-fp>25</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib32">
+<xocs:ref-normalized-surname>MCQUILLAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1955</xocs:ref-pub-year>
+<xocs:ref-first-fp>307</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib33">
+<xocs:ref-normalized-surname>PIETROKOWSKY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1957</xocs:ref-pub-year>
+<xocs:ref-first-fp>339</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib34">
+<xocs:ref-normalized-surname>GLAZOVA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1960</xocs:ref-pub-year>
+<xocs:ref-first-fp>1087</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib35">
+<xocs:ref-normalized-surname>EREMENKO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1962</xocs:ref-pub-year>
+<xocs:ref-first-fp>1750</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib36">
+<xocs:ref-normalized-surname>VUCHT</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1964</xocs:ref-pub-year>
+<xocs:ref-first-fp>407</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib37">
+<xocs:ref-normalized-surname>SAVIN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1973</xocs:ref-pub-year>
+<xocs:ref-first-fp>2527</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib38">
+<xocs:ref-normalized-surname>KUPER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>855</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib39">
+<xocs:ref-normalized-surname>KUNNEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>425</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib40">
+<xocs:ref-normalized-surname>SWALIN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1961</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>THERMODYNAMICSSOLIDS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib41">
+<xocs:ref-normalized-surname>BARIN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1993</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>THERMOCHEMICALDATAPURESUBSTANCESPARTII</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib42">
+<xocs:ref-normalized-surname>VASSILEV</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>770</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib43">
+<xocs:ref-normalized-surname>VASSILEV</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>125</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib44">
+<xocs:ref-normalized-surname>VASSILEV</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>191</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib45">
+<xocs:ref-normalized-surname>VASSILEV</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>713</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib46">
+<xocs:ref-normalized-surname>VASSILEV</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>519</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib47">
+<xocs:ref-normalized-surname>RONKA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>1575</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib48">
+<xocs:ref-normalized-surname>KODENTSOV</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>207</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib49"></xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>VASSILEVX2006X170</xocs:refkey3>
+<xocs:refkey4lp>VASSILEVX2006X170X175</xocs:refkey4lp>
+<xocs:refkey4ai>VASSILEVX2006X170XG</xocs:refkey4ai>
+<xocs:refkey5>VASSILEVX2006X170X175XG</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(05)01112-6</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805011126</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838805011126</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2005.06.029</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-08T03:04:47.615576-04:00</xocs:timestamp>
+<xocs:cover-date-start>2006-01-05</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838805011126-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011126/MAIN/application/pdf/5acfd40d6a6872ec853d7116e41dcb6f/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011126/MAIN/application/pdf/5acfd40d6a6872ec853d7116e41dcb6f/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>223989</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838805011126-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011126/PREVIEW/image/png/01932e625628435701a1d54c93be769b/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011126/PREVIEW/image/png/01932e625628435701a1d54c93be769b/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>56976</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011126-si4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011126/STRIPIN/image/gif/1edcab2d7d7ca84c9d8d24eea2c5a8b5/si4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011126/STRIPIN/image/gif/1edcab2d7d7ca84c9d8d24eea2c5a8b5/si4.gif</xocs:ucs-locator>
+<xocs:file-basename>si4</xocs:file-basename>
+<xocs:filename>si4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>230</xocs:filesize>
+<xocs:pixel-height>14</xocs:pixel-height>
+<xocs:pixel-width>43</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011126-si3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011126/STRIPIN/image/gif/1edcab2d7d7ca84c9d8d24eea2c5a8b5/si4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011126/STRIPIN/image/gif/1edcab2d7d7ca84c9d8d24eea2c5a8b5/si4.gif</xocs:ucs-locator>
+<xocs:file-basename>si3</xocs:file-basename>
+<xocs:filename>si3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>230</xocs:filesize>
+<xocs:pixel-height>14</xocs:pixel-height>
+<xocs:pixel-width>43</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011126-si2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011126/STRIPIN/image/gif/363f1eb99f8378a3a0957ac985f0fb93/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011126/STRIPIN/image/gif/363f1eb99f8378a3a0957ac985f0fb93/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si2</xocs:file-basename>
+<xocs:filename>si2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>254</xocs:filesize>
+<xocs:pixel-height>14</xocs:pixel-height>
+<xocs:pixel-width>40</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011126-si1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011126/STRIPIN/image/gif/b23c3ad04308326374c8533799013647/si1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011126/STRIPIN/image/gif/b23c3ad04308326374c8533799013647/si1.gif</xocs:ucs-locator>
+<xocs:file-basename>si1</xocs:file-basename>
+<xocs:filename>si1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>221</xocs:filesize>
+<xocs:pixel-height>14</xocs:pixel-height>
+<xocs:pixel-width>40</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011126-gr4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011126/gr4/DOWNSAMPLED/image/gif/9d67af9147144be7782160c590966d9f/gr4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011126/gr4/DOWNSAMPLED/image/gif/9d67af9147144be7782160c590966d9f/gr4.gif</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>7028</xocs:filesize>
+<xocs:pixel-height>293</xocs:pixel-height>
+<xocs:pixel-width>361</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011126-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011126/gr4/THUMBNAIL/image/gif/1839325683d166460e5863dd5112a456/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011126/gr4/THUMBNAIL/image/gif/1839325683d166460e5863dd5112a456/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1481</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>115</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011126-fx1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011126/fx1/DOWNSAMPLED/image/gif/5a8e8fd75379422f3247fb4e3f2dd8fc/fx1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011126/fx1/DOWNSAMPLED/image/gif/5a8e8fd75379422f3247fb4e3f2dd8fc/fx1.gif</xocs:ucs-locator>
+<xocs:file-basename>fx1</xocs:file-basename>
+<xocs:filename>fx1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>109</xocs:filesize>
+<xocs:pixel-height>9</xocs:pixel-height>
+<xocs:pixel-width>8</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011126-fx1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011126/fx1/THUMBNAIL/image/gif/c7a9b2c79a4139ac21eb62c465c99e03/fx1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011126/fx1/THUMBNAIL/image/gif/c7a9b2c79a4139ac21eb62c465c99e03/fx1.sml</xocs:ucs-locator>
+<xocs:file-basename>fx1</xocs:file-basename>
+<xocs:filename>fx1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>351</xocs:filesize>
+<xocs:pixel-height>83</xocs:pixel-height>
+<xocs:pixel-width>73</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011126-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011126/gr2/DOWNSAMPLED/image/jpeg/d86fcf90ebbf2a40f251160398474002/gr2.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011126/gr2/DOWNSAMPLED/image/jpeg/d86fcf90ebbf2a40f251160398474002/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>44695</xocs:filesize>
+<xocs:pixel-height>281</xocs:pixel-height>
+<xocs:pixel-width>282</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011126-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011126/gr2/THUMBNAIL/image/gif/44155a8ea57f08b4ed14a0a4500f9c68/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011126/gr2/THUMBNAIL/image/gif/44155a8ea57f08b4ed14a0a4500f9c68/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2504</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>94</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011126-gr3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011126/gr3/DOWNSAMPLED/image/gif/557efa6987c9a6880e87d0204ddb852e/gr3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011126/gr3/DOWNSAMPLED/image/gif/557efa6987c9a6880e87d0204ddb852e/gr3.gif</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>27534</xocs:filesize>
+<xocs:pixel-height>580</xocs:pixel-height>
+<xocs:pixel-width>370</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011126-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011126/gr3/THUMBNAIL/image/gif/db82c5bafa793884303809038b257d29/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011126/gr3/THUMBNAIL/image/gif/db82c5bafa793884303809038b257d29/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1673</xocs:filesize>
+<xocs:pixel-height>92</xocs:pixel-height>
+<xocs:pixel-width>59</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011126-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011126/gr1/DOWNSAMPLED/image/jpeg/491084f12c5cec15e2f05f3680336129/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011126/gr1/DOWNSAMPLED/image/jpeg/491084f12c5cec15e2f05f3680336129/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>45719</xocs:filesize>
+<xocs:pixel-height>574</xocs:pixel-height>
+<xocs:pixel-width>370</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011126-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011126/gr1/THUMBNAIL/image/gif/4c6d2e95f2737e2ecb05d6369627df74/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011126/gr1/THUMBNAIL/image/gif/4c6d2e95f2737e2ecb05d6369627df74/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2118</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>60</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>12854</aid>
+<ce:pii>S0925-8388(05)01112-6</ce:pii>
+<ce:doi>10.1016/j.jallcom.2005.06.029</ce:doi>
+<ce:copyright type="full-transfer" year="2005">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">(A) Spectrum, in characteristic X-rays, of the ternary Sn–Zn–Ti compound with approximate formula Ti<ce:inf loc="post">3</ce:inf>Sn<ce:inf loc="post">2</ce:inf>Zn<ce:inf loc="post">6</ce:inf> (scanning electron microscope point analysis of specimen no. 3). (B) (unpublished) Spectrum of Si alloyed Ti<ce:inf loc="post">5</ce:inf>Sn<ce:inf loc="post">3</ce:inf> phase (8.5<ce:hsp sp="0.25"></ce:hsp>at.% Si) in characteristic X-rays. The energy of the radiation (keV) is plotted along the abscissa. The counted intensity (number of impulses per 100<ce:hsp sp="0.25"></ce:hsp>s) is plotted along the ordinate.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Micrograph of specimen no. 3, in back scattered electrons. The former liquid solution (1) is represented by tin-rich light areas, with nearly eutectic zinc content, and zinc dendrites (3). The solid phase (point 2) (well shaped hexagonal crystals) corresponds approximately to the formula Ti<ce:inf loc="post">3</ce:inf>Sn<ce:inf loc="post">2</ce:inf>Zn<ce:inf loc="post">6</ce:inf> (<ce:cross-ref refid="tbl3">Table 3</ce:cross-ref>). The compound Ti<ce:inf loc="post">6</ce:inf>Sn<ce:inf loc="post">5</ce:inf> (4) is confined in Ti<ce:inf loc="post">3</ce:inf>Sn<ce:inf loc="post">2</ce:inf>Zn<ce:inf loc="post">6</ce:inf> crystals.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">(A) Isothermal section of the phase diagram Sn–Zn–Ti at 600<ce:hsp sp="0.25"></ce:hsp>°C. The compositions of the phases are determined by microprobe analyses and are denoted by means of the following symbols: (o) Ti<ce:inf loc="post">2</ce:inf>Sn<ce:inf loc="post">3</ce:inf>; (♢) Ti<ce:inf loc="post">6</ce:inf>Sn<ce:inf loc="post">5</ce:inf>; (<ce:inline-figure baseline="0.0">
+<ce:link locator="fx1"></ce:link>
+</ce:inline-figure>), Ti<ce:inf loc="post">3</ce:inf>Sn<ce:inf loc="post">2</ce:inf>Zn<ce:inf loc="post">6</ce:inf>; (●) Ti<ce:inf loc="post">3</ce:inf>Sn; (■) α-Ti; (▴), TiZn<ce:inf loc="post">5</ce:inf>; (♦) TiZn<ce:inf loc="post">3</ce:inf>; (▾) L (liquid solutions). The thick solid lines symbolize the phase boundaries, while the thin solid lines indicate hypothetical tie-lines in the two-phase fields. The dotted lines symbolize the most uncertain phase boundaries. (B) The chemical compositions of the equilibrated specimens and the initial compositions of the liquid end-members are represented as follows: (▴) chemical compositions of specimens nos. 1–5, 7, 8; (▾) initial compositions of specimens 6, 9 and 10. The following symbols notify the diffusion paths: the thickest solid lines (when the diffusion paths pass through monophase regions or along the tie-lines in the two phase regions); dotted lines (when the diffusion paths pass through three-phase regions or cuts the tie-lines in the two-phase regions).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Differential scanning calorimetry curves of specimen nos. 1–3 (<ce:cross-ref refid="tbl5">Table 5</ce:cross-ref>) at heating. The numbers of the curves correspond to the specimens’ numbers. Heating rate: 10°<ce:hsp sp="0.25"></ce:hsp>min<ce:sup loc="post">−1</ce:sup>. The temperature (°C) is plotted along the abscissa and the heat flow (mW)—along the ordinate.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:table colsep="0" frame="topbot" id="tbl1" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Description of the binary phases relevant to the Ti–Sn–Zn system <ce:cross-refs refid="bib17 bib21 bib26 bib38">[17,21,26,38]</ce:cross-refs>
+</ce:simple-para>
+</ce:caption>
+<tgroup cols="6">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<colspec colname="col5"></colspec>
+<colspec colname="col6"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Phase</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Approx. concentration interval (at.%)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">P.s.</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">s.g.</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">S.d.</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Prototype</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">α-Ti</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">≈100 Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">hP2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>P</italic>6<inf loc="post">3</inf>/<italic>mmc</italic>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">A3</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Mg</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">β-Ti<cross-ref refid="tbl1fn1">
+<sup loc="post">a</sup>
+</cross-ref>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0–7 Sn</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">CI2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si1.gif" overflow="scroll">
+<mml:mrow>
+<mml:mi>I</mml:mi>
+<mml:mi>m</mml:mi>
+<mml:mover accent="true">
+<mml:mn>3</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi>m</mml:mi>
+</mml:mrow>
+</mml:math>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">A2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">W</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">α-Sn</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">≈100 Sn</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">cF8</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si2.gif" overflow="scroll">
+<mml:mrow>
+<mml:mi>F</mml:mi>
+<mml:mi>d</mml:mi>
+<mml:mover accent="true">
+<mml:mn>3</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi>m</mml:mi>
+</mml:mrow>
+</mml:math>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">A4</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">C-diamond</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">β-Sn<cross-ref refid="tbl1fn1">
+<sup loc="post">a</sup>
+</cross-ref>
+<sup loc="post">,</sup>
+<cross-ref refid="tbl1fn2">
+<sup loc="post">b</sup>
+</cross-ref>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">≈100 Sn</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">tI4</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>I</italic>4<inf loc="post">1</inf>/<italic>amd</italic>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">A5</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">β-Sn</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">η-Zn</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">≈100 Zn</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">hP2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>P</italic>6<inf loc="post">3</inf>/<italic>mmc</italic>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">A3</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Mg</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Sn</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">23–25 Sn</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">HP8</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>P</italic>6<inf loc="post">3</inf>/<italic>mmc</italic>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">D0<inf loc="post">19</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ni<inf loc="post">3</inf>Sn</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">2</inf>Sn</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">32–36 Sn</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">hP6</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>P</italic>6<inf loc="post">3</inf>/<italic>mmc</italic>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">B8<inf loc="post">2</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">InNi<inf loc="post">2</inf>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">5</inf>Sn<inf loc="post">3</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">37.5 Sn</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">hP16</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>P</italic>6<inf loc="post">3</inf>/<italic>mmc</italic>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">D8<inf loc="post">8</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Mn<inf loc="post">5</inf>Si<inf loc="post">3</inf>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">α-Ti<inf loc="post">6</inf>Sn<inf loc="post">5</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">45.5 Sn</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">oI44</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>Immm</italic>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">…</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Nb<inf loc="post">6</inf>Sn<inf loc="post">5</inf>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">β-Ti<inf loc="post">6</inf>Sn<inf loc="post">5</inf>
+<cross-ref refid="tbl1fn1">
+<sup loc="post">a</sup>
+</cross-ref>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">45.5 Sn</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">…</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">…</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">…</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Hexagonal</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">2</inf>Sn<inf loc="post">3</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">60.0 Sn</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">…</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">…</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">…</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">…</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">TiZn<inf loc="post">16</inf>
+<cross-ref refid="tbl1fn3">
+<sup loc="post">c</sup>
+</cross-ref>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">94.12 Zn</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">oC68</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>Cmcm</italic>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">…</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">TiZn<inf loc="post">16</inf>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">TiZn<inf loc="post">15</inf>
+<cross-ref refid="tbl1fn3">
+<sup loc="post">c</sup>
+</cross-ref>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">93.75 Zn</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">oC68</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>Cmcm</italic>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">…</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">TiZn<inf loc="post">15</inf>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">TiZn<inf loc="post">10</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">90.91 Zn</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">…</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">…</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Distorted γ-brass</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">…</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">TiZn<inf loc="post">8</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">88.89 Zn</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">…</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">…</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">…</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">…</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Zn<inf loc="post">22</inf>
+<cross-ref refid="tbl1fn4">
+<sup loc="post">d</sup>
+</cross-ref>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">88.6 Zn</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">…</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>P</italic>4<inf loc="post">2</inf>/<italic>mbc</italic>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">…</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Zn<inf loc="post">22</inf>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">TiZn<inf loc="post">7</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">87.50 Zn</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">…</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">…</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">…</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">…</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">TiZn<inf loc="post">5</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">83.33 Zn</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">…</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">…</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">…</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">…</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">TiZn<inf loc="post">3</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">75.0 Zn</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">cP4</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si3.gif" overflow="scroll">
+<mml:mrow>
+<mml:mi>P</mml:mi>
+<mml:mi>m</mml:mi>
+<mml:mover accent="true">
+<mml:mn>3</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi>m</mml:mi>
+</mml:mrow>
+</mml:math>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">L1<inf loc="post">2</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">AuCu<inf loc="post">3</inf>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">2</inf>Zn<inf loc="post">3</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">60.0 Zn</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">…</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">…</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">…</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">…</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">TiZn<inf loc="post">2</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">66.7 Zn</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">hP12</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>P</italic>6<inf loc="post">3</inf>/<italic>mmc</italic>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">C14<sup loc="post">*</sup>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">MgZn<inf loc="post">2</inf>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">TiZn</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">50.0 Zn</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">cP2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si4.gif" overflow="scroll">
+<mml:mrow>
+<mml:mi>P</mml:mi>
+<mml:mi>m</mml:mi>
+<mml:mover accent="true">
+<mml:mn>3</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi>m</mml:mi>
+</mml:mrow>
+</mml:math>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">B2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">CsCl</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">2</inf>Zn</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">33.3 Zn</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">tI6</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>I</italic>4/<italic>mmm</italic>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">C11<inf loc="post">b</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">MoSi<inf loc="post">2</inf>
+</entry>
+</row>
+</tbody>
+</tgroup>
+<ce:legend>
+<ce:simple-para view="all">P.s., Pearson symbol; s.g., space group; S.d., Strukturbericht designation.</ce:simple-para>
+</ce:legend>
+<ce:table-footnote id="tbl1fn1">
+<ce:label>a</ce:label>
+<ce:note-para>High temperature forms.</ce:note-para>
+</ce:table-footnote>
+<ce:table-footnote id="tbl1fn2">
+<ce:label>b</ce:label>
+<ce:note-para>Stable at temperatures higher than 13<ce:hsp sp="0.25"></ce:hsp>°C.</ce:note-para>
+</ce:table-footnote>
+<ce:table-footnote id="tbl1fn3">
+<ce:label>c</ce:label>
+<ce:note-para>Both formulae are assumed appertaining to one phase (TiZn<ce:inf loc="post">16</ce:inf>).</ce:note-para>
+</ce:table-footnote>
+<ce:table-footnote id="tbl1fn4">
+<ce:label>d</ce:label>
+<ce:note-para>May be identical with TiZn<ce:inf loc="post">8</ce:inf> or with TiZn<ce:inf loc="post">7</ce:inf>.</ce:note-para>
+</ce:table-footnote>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl2" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Chemical composition of the first series of specimens</ce:simple-para>
+</ce:caption>
+<tgroup cols="4">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">No</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>X</italic>
+<inf loc="post">Ti</inf>
+</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>X</italic>
+<inf loc="post">Sn</inf>
+</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>X</italic>
+<inf loc="post">Zn</inf>
+</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.05</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.800</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.150</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.201</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.504</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.295</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">3</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.200</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.400</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.400</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">4</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.200</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.300</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.500</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.371</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.314</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.315</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">6</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">n.a.</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.859</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.141</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">7</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.130</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.810</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.060</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">8</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.236</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.465</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.299</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">9</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">n.a.</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.42</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.580</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">10</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">n.a.</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.932</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.068</entry>
+</row>
+</tbody>
+</tgroup>
+<ce:legend>
+<ce:simple-para view="all">No, consecutive number; <ce:italic>X</ce:italic>
+<ce:inf loc="post">Ti</ce:inf>, <ce:italic>X</ce:italic>
+<ce:inf loc="post">Sn</ce:inf>, <ce:italic>X</ce:italic>
+<ce:inf loc="post">Zn</ce:inf>, mole fractions of the respective elements; n.a., not appropriate.</ce:simple-para>
+</ce:legend>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl3" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Summarized experimental data for the specimens annealed at 600<ce:hsp sp="0.25"></ce:hsp>°C (phases and chemical compositions identified by microprobe analyses)</ce:simple-para>
+</ce:caption>
+<tgroup cols="6">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<colspec colname="col5"></colspec>
+<colspec colname="col6"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">No.</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Phase</entry>
+<entry align="left" nameend="col5" namest="col3" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Composition</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Note</entry>
+</row>
+<row>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>X</italic>
+<inf loc="post">Ti</inf>
+</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>X</italic>
+<inf loc="post">Sn</inf>
+</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>X</italic>
+<inf loc="post">Zn</inf>
+</entry>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Liquid</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.050</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.800</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.150</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Nominal composition. Equilibrated specimen</entry>
+</row>
+<row>
+<entry align="left" nameend="col6" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<vsp sp="0.5"></vsp>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Liquid</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.000</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.974</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.026</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Equilibrated specimen</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Liquid</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.002</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.004</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.994</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">6</inf>Sn<inf loc="post">5</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.521</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.410</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.069</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">6</inf>Sn<inf loc="post">5</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.528</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.409</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.063</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">6</inf>Sn<inf loc="post">5</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.522</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.414</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.064</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" nameend="col6" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<vsp sp="0.5"></vsp>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">3</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Liquid</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.000</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.841</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.159</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Equilibrated specimen</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Liquid</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.002</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.004</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.994</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Sn<inf loc="post">2</inf>Zn<inf loc="post">6</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.252</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.179</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.569</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Sn<inf loc="post">2</inf>Zn<inf loc="post">6</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.254</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.182</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.564</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">6</inf>Sn<inf loc="post">5</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.538</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.403</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.062</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" nameend="col6" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<vsp sp="0.5"></vsp>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">4</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Liquid</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.000</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.955</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.045</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Equilibrated specimen</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Liquid</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.002</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.007</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.991</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">6</inf>Sn<inf loc="post">5</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.522</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.413</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.065</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Sn<inf loc="post">2</inf>Zn<inf loc="post">6</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.249</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.175</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.576</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" nameend="col6" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<vsp sp="0.5"></vsp>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Liquid</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.002</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.002</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.996</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Equilibrated specimen</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Liquid</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.000</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.000</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.000</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">6</inf>Sn<inf loc="post">5</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.528</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.413</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.059</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">6</inf>Sn<inf loc="post">5</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.535</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.408</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.057</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Sn<inf loc="post">2</inf>Zn<inf loc="post">6</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.247</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.191</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.559</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" nameend="col6" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<vsp sp="0.5"></vsp>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">6</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Liquid</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.000</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.957</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.043</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Diffusion couple α-Ti/liquid</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">2</inf>Sn<inf loc="post">3</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.405</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.587</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.008</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">6</inf>Sn<inf loc="post">5</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.537</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.412</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.051</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">6</inf>Sn<inf loc="post">5</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.534</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.423</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.043</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">6</inf>Sn<inf loc="post">5</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.547</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.399</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.054</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">TiZn<inf loc="post">3</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.271</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.020</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.727</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">α-Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.994</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.003</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.003</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" nameend="col6" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<vsp sp="0.5"></vsp>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">7</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">2</inf>Sn<inf loc="post">3</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.379</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.614</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.007</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Equilibrated specimen</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">2</inf>Sn<inf loc="post">3</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.377</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.617</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.006</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Liquid</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.003</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.656</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.341</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Liquid</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.003</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.819</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.178</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Liquid</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.004</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.674</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.322</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Liquid</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.002</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.821</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.177</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">2</inf>Sn<inf loc="post">3</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.374</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.603</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.023</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" nameend="col6" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<vsp sp="0.5"></vsp>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">8</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Liquid</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.000</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.970</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.030</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Equilibrated specimen</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Liquid</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.000</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.950</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.050</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">6</inf>Sn<inf loc="post">5</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.516</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.430</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.054</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">6</inf>Sn<inf loc="post">5</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.512</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.435</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.053</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Sn<inf loc="post">2</inf>Zn<inf loc="post">6</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.252</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.235</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.513</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" nameend="col6" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<vsp sp="0.5"></vsp>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">9</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Liquid</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.015</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.000</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.985</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Diffusion couple α-Ti/liquid</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Liquid</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.001</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.000</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.985</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Liquid</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.002</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.839</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.159</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">TiZn<inf loc="post">5</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.159</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.000</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.841</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Sn<inf loc="post">2</inf>Zn<inf loc="post">6</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.231</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.223</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.546</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Sn<inf loc="post">2</inf>Zn<inf loc="post">6</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.251</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.193</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.556</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">α-Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.986</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.000</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.014</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" nameend="col6" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<vsp sp="0.5"></vsp>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">10</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">6</inf>Sn<inf loc="post">5</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.536</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.437</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.027</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Diffusion couple α-Ti/liquid</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Sn</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.742</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.254</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.004</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">α-Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.995</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.004</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.001</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">α-Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.885</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.062</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.053</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+</tbody>
+</tgroup>
+<ce:legend>
+<ce:simple-para view="all">
+<ce:italic>X</ce:italic>
+<ce:inf loc="post">
+<ce:italic>i</ce:italic>
+</ce:inf>, mole fraction of the pertinent element.</ce:simple-para>
+</ce:legend>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl4" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Diffusion paths, revealed by scanning electron microscopy, in diffusion couples (specimens nos. 6, 9 and 10), at 600<ce:hsp sp="0.25"></ce:hsp>°C (873<ce:hsp sp="0.25"></ce:hsp>K)</ce:simple-para>
+</ce:caption>
+<tgroup cols="3">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">No</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<sup loc="pre">L</sup>
+<italic>X</italic>
+<inf loc="post">Zn</inf>
+</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Schema of the diffusion paths</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">6</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.141</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Liq/Ti<inf loc="post">2</inf>Sn<inf loc="post">3</inf>/Ti<inf loc="post">6</inf>Sn<inf loc="post">5</inf>/TiZn<inf loc="post">3</inf>//<cross-ref refid="tbl4fn1">
+<sup loc="post">a</sup>
+</cross-ref>α-Ti</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">9</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.580</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Liq/TiZn<inf loc="post">5</inf>/Ti<inf loc="post">3</inf>Sn<inf loc="post">2</inf>Zn<inf loc="post">6</inf>//<cross-ref refid="tbl4fn1">
+<sup loc="post">a</sup>
+</cross-ref>α-Ti</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">10</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.068</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Liq//<cross-ref refid="tbl4fn1">
+<sup loc="post">a</sup>
+</cross-ref>Ti<inf loc="post">6</inf>Sn<inf loc="post">5</inf>//<cross-ref refid="tbl4fn1">
+<sup loc="post">a</sup>
+</cross-ref>Ti<inf loc="post">3</inf>Sn/α-Ti</entry>
+</row>
+</tbody>
+</tgroup>
+<ce:legend>
+<ce:simple-para view="all">No, number of the specimen; <ce:sup loc="pre">L</ce:sup>
+<ce:italic>X</ce:italic>
+<ce:inf loc="post">Zn</ce:inf> (Zn mole fractions), initial chemical composition of the liquid phase, constituted by zinc and tin.</ce:simple-para>
+</ce:legend>
+<ce:table-footnote id="tbl4fn1">
+<ce:label>a</ce:label>
+<ce:note-para>//Symbolizes discontinuity of the diffusion path (i.e. the experimentally observed phase fields, located on the both sides of the sign // are not neighbors in the phase diagram).</ce:note-para>
+</ce:table-footnote>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl5" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Chemical compositions (atomic percents, at.%) of the specimens, used for differential thermal analyses</ce:simple-para>
+</ce:caption>
+<tgroup cols="4">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">No.</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Sn (at.%)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Zn (at.%)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ti (at.%)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">85.1</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">14.9</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.0</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">82.5</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">14.5</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">3.0</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">3</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">81.7</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">14.3</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">4.0</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+</ce:floats>
+<ce:title>Phase diagram of the Sn–Zn–Ti system</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>Gueorgui P.</ce:given-name>
+<ce:surname>Vassilev</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="cor1">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Evgeni S.</ce:given-name>
+<ce:surname>Dobrev</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Jean-Claude</ce:given-name>
+<ce:surname>Tedenac</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation id="aff1">
+<ce:label>a</ce:label>
+<ce:textfn>University of Sofia, Faculty of Chemistry, 1J. Bourchier Av., 1164 Sofia, Bulgaria</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff2">
+<ce:label>b</ce:label>
+<ce:textfn>University of Montpellier II, LPMC, 34095 Montpellier, France</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>⁎</ce:label>
+<ce:text>Corresponding author. Tel.: +359 2 8161334; fax: +359 2 9625 438.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="18" month="4" year="2005"></ce:date-received>
+<ce:date-revised day="9" month="6" year="2005"></ce:date-revised>
+<ce:date-accepted day="14" month="6" year="2005"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">Equilibrated Sn–Zn–Ti alloys and (Sn<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Zn)/α-Ti diffusion couples have been studied by scanning electron microscopy, metallography, and differential scanning calorimetry. For the first time an isothermal section, at 600<ce:hsp sp="0.25"></ce:hsp>°C, of the ternary Sn–Zn–Ti system has been constructed. A previously unknown ternary phase with approximate formula Ti<ce:inf loc="post">3</ce:inf>Sn<ce:inf loc="post">2</ce:inf>Zn<ce:inf loc="post">6</ce:inf> (probable homogeneity interval in the range Ti<ce:inf loc="post">5</ce:inf>Sn<ce:inf loc="post">4</ce:inf>Zn<ce:inf loc="post">11</ce:inf> to Ti<ce:inf loc="post">5</ce:inf>Sn<ce:inf loc="post">3</ce:inf>Zn<ce:inf loc="post">12</ce:inf>) has been found.</ce:simple-para>
+<ce:simple-para view="all">The solubility ranges of the titanium based solid solutions and the intermetallic phases have been looked for. As far as we could detect and in agreement with theoretical considerations, zinc dissolves more in Ti–Sn phases than tin into Ti–Zn compounds. Titanium additions of 3 and 4<ce:hsp sp="0.25"></ce:hsp>at.% Ti do not influence significantly the Sn–Zn eutectic temperature. The experimentally determined melting enthalpies of the nearly eutectic alloys have values around 100<ce:hsp sp="0.25"></ce:hsp>J<ce:hsp sp="0.25"></ce:hsp>g<ce:sup loc="post">−1</ce:sup>.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Ternary alloy systems</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Phase diagrams</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Tin and zinc are both among the prospective constituents of the multicomponent lead-free solders <ce:cross-ref refid="bib1">[1]</ce:cross-ref>. Moreover, evidences exist that alloying with small quantities of titanium ameliorate the wetting and mechanical properties of some materials <ce:cross-refs refid="bib2 bib3 bib4 bib5">[2–5]</ce:cross-refs>.</ce:para>
+<ce:para view="all">From the other side, the interactions of high-melting (in this case, titanium) and low-melting (zinc, tin, bismuth, etc.) elements represent permanent interest in the prospect of joining materials by means of the transition liquid phase (TLP) method.</ce:para>
+<ce:para view="all">A tentative thermodynamic optimization of the binary end-systems Ti–Zn and Ti–Sn as well as of the Sn–Zn–Ti system has been done by Ono et al. <ce:cross-ref refid="bib6">[6]</ce:cross-ref> in order to obtain thermodynamic functions needed for assessment of the surface tension of the ternary liquid phase. Nevertheless, those authors ignored the existence of some binary phases (e.g. Ti<ce:inf loc="post">2</ce:inf>Sn<ce:inf loc="post">3</ce:inf>, TiZn<ce:inf loc="post">7</ce:inf>) as well as the ternary compound with approximate composition Ti<ce:inf loc="post">3</ce:inf>Sn<ce:inf loc="post">2</ce:inf>Zn<ce:inf loc="post">6</ce:inf> reported below.</ce:para>
+<ce:para view="all">The purpose of the present work is to investigate experimentally the Sn–Zn–Ti phase diagram, mainly by the construction of an isothermal section at 600<ce:hsp sp="0.25"></ce:hsp>°C.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental information about the binary end-systems (Ti–Zn, Sn–Zn, Ti–Sn)</ce:section-title>
+<ce:para view="all">Numerous authors have studied the system Ti–Zn <ce:cross-refs refid="bib7 bib8 bib9 bib10 bib11 bib12 bib13 bib14 bib15 bib16 bib17">[7–17]</ce:cross-refs>. Recently, Vassilev et al. <ce:cross-ref refid="bib18">[18]</ce:cross-ref> constructed a new version of the zinc-rich side of this phase diagram (<ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+<ce:float-anchor refid="tbl1"></ce:float-anchor>).</ce:para>
+<ce:para view="all">The Sn–Zn phase diagram is relatively well investigated <ce:cross-refs refid="bib19 bib20 bib21 bib22 bib23 bib24 bib25 bib26">[19–26]</ce:cross-refs>. A number of thermodynamic optimizations of this system are available as well <ce:cross-refs refid="bib27 bib28 bib29">[27–29]</ce:cross-refs>. This interest is due to the importance of these alloys for the development of lead-free solders <ce:cross-ref refid="bib30">[30]</ce:cross-ref>.</ce:para>
+<ce:para view="all">The Ti–Sn alloys have been subject of many investigations as well <ce:cross-refs refid="bib31 bib32 bib33 bib34 bib35 bib36 bib37">[31–37]</ce:cross-refs>. Even so, Kuper et al. <ce:cross-ref refid="bib38">[38]</ce:cross-ref> have recently revealed a formerly unknown stable phase (Ti<ce:inf loc="post">2</ce:inf>Sn<ce:inf loc="post">3</ce:inf>) whose crystal structure (<ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>) has been identified by Künnen et al. <ce:cross-ref refid="bib39">[39]</ce:cross-ref> later.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Experiments, results and discussion</ce:section-title>
+<ce:para view="all">The syntheses of the ternary alloys have been done in quartz tubes sealed under vacuum of around 1<ce:hsp sp="0.25"></ce:hsp>Pa. Precisely weighed (±0.0001<ce:hsp sp="0.25"></ce:hsp>g) fine pieces of purified by chemical gas-transport reaction Ti (5N), pellets of Sn (4N) and Zn (4N) have been mixed. The tubes of the first series of experiments (nos. 1–4, <ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>
+<ce:float-anchor refid="tbl2"></ce:float-anchor>) have been gradually heated up during 72<ce:hsp sp="0.25"></ce:hsp>h to 800<ce:hsp sp="0.25"></ce:hsp>°C, kept at this temperature for 24<ce:hsp sp="0.25"></ce:hsp>h, annealed at 600<ce:hsp sp="0.25"></ce:hsp>°C during 21 days, and quenched in water. The specimens of the second series (nos. 4–10) have been annealed for 24<ce:hsp sp="0.25"></ce:hsp>h at 800<ce:hsp sp="0.25"></ce:hsp>°C and furthermore 2 months at 600<ce:hsp sp="0.25"></ce:hsp>°C.</ce:para>
+<ce:para view="all">Fifteen ampoules have been produced, but ten alloys have been prepared and studied successfully, only. The reason is that in a number of experiments, titanium did not react with the other constituents, probably, due to the formation of oxide layers during the sealing or afterwards. In several damaged ampoules dark films formed along the tubes’ walls.</ce:para>
+<ce:para view="all">Other potential experimental challenges are due to some thermodynamic reasons. Namely, the large negative standard Gibbs energies of formation of titanium oxides <ce:cross-refs refid="bib40 bib41">[40,41]</ce:cross-refs> allow to the pure titanium to react with SiO<ce:inf loc="post">2</ce:inf> (the walls of the tubes). Nevertheless, we have already encountered and overcome this difficulty in a series of works involving the synthesis of titanium containing alloys in quartz tubes <ce:cross-refs refid="bib18 bib42 bib43 bib44 bib45">[18,42–45]</ce:cross-refs>. During those studies we have found evidences that a reaction between the tube walls and the titanium could start at temperatures higher than around 820<ce:hsp sp="0.25"></ce:hsp>°C only. For this reason, the upper limit of the annealing temperature applied in the present work was set to be 800<ce:hsp sp="0.25"></ce:hsp>°C.</ce:para>
+<ce:para view="all">Scanning electron microscopy, optical microscopy and differential scanning calorimetry have been applied in this work. Analyses for Si, Ti, Sn and Zn have been done in order to find out the chemical compositions of the phases and to control an eventual contamination.</ce:para>
+<ce:para view="all">The identified phases and their chemical compositions are shown in <ce:cross-ref refid="tbl3">Table 3</ce:cross-ref>
+<ce:float-anchor refid="tbl3"></ce:float-anchor>. An important result, for the construction of the Sn–Zn–Ti phase diagram, is the discovery of a formerly unknown ternary phase.</ce:para>
+<ce:para view="all">In <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor>A is exhibited a spectrum of this compound in characteristic X-rays. For the sake of comparison (with a case when Si is present) in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>B (unpublished) the spectrum of a Ti<ce:inf loc="post">5</ce:inf>Sn<ce:inf loc="post">3</ce:inf> phase (containing 8.5<ce:hsp sp="0.25"></ce:hsp>at.% Si) is shown. The latter result has been obtained during authors’ study of the Ti–Sn–Si system <ce:cross-ref refid="bib46">[46]</ce:cross-ref>. As one can see, the Kα-line of Si is situated at around 1.8<ce:hsp sp="0.25"></ce:hsp>keV, i.e. it would be seen in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>A, if silicon was present in that specimen.</ce:para>
+<ce:para view="all">Micrograph of specimen no. 3, in back scattered electrons, is shown in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor>. The specimen has been cooled fast by immerging in cold water, thus zinc dendrites have appeared, while the tin-rich light areas have nearly eutectic zinc content. The hexagonal crystals belong to the newly found ternary phase (<ce:cross-ref refid="tbl3">Table 3</ce:cross-ref>).</ce:para>
+<ce:para view="all">The statistical treatment of the results obtained for the chemical compositions of that phase leads to the following mean values and their standard deviations (for a 95% confidence interval): <ce:italic>X</ce:italic>
+<ce:inf loc="post">Ti</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>0.25<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>0.01; <ce:italic>X</ce:italic>
+<ce:inf loc="post">Sn</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>0.19<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>0.02; <ce:italic>X</ce:italic>
+<ce:inf loc="post">Zn</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>0.56<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>0.02. In general, the stoichiometric numbers corresponding to such a composition region would correspond to the formulae Ti<ce:inf loc="post">5</ce:inf>Sn<ce:inf loc="post">4</ce:inf>Zn<ce:inf loc="post">11</ce:inf>–Ti<ce:inf loc="post">5</ce:inf>Sn<ce:inf loc="post">3</ce:inf>Zn<ce:inf loc="post">12</ce:inf>. The experimental data indicate the possibility for existence of a homogeneity range. For the sake of brevity, however, we shall use in this work a tentative and simplified formula for the ternary phase, namely, Ti<ce:inf loc="post">3</ce:inf>Sn<ce:inf loc="post">2</ce:inf>Zn<ce:inf loc="post">6</ce:inf>.</ce:para>
+<ce:para view="all">The liquid end-members of the diffusion couples (specimen nos. 6, 9 and 10, see <ce:cross-refs refid="tbl2 tbl4">Tables 2 and 4</ce:cross-refs>
+<ce:float-anchor refid="tbl4"></ce:float-anchor>) are tin<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>zinc melts, while the single solid phase, present since the start of the annealing, is the hexagonal modification of the titanium (α-Ti). The notions characterizing the formation of the reactionary diffusion layers aught to be valid in these cases. Contemporary conceptions <ce:cross-refs refid="bib47 bib48">[47,48]</ce:cross-refs> concerning the relations between the diffusion phenomena and the corresponding ternary phase diagram have been already used by the present authors to the investigations of the Ti–Bi–Zn <ce:cross-ref refid="bib42">[42]</ce:cross-ref> and Ti–Bi–Sn <ce:cross-ref refid="bib45">[45]</ce:cross-ref> systems. Similar approach is applied to the present work too.</ce:para>
+<ce:para view="all">As shown in <ce:cross-ref refid="tbl4">Table 4</ce:cross-ref>, the diffusion paths in diffusion couples nos. 6 and 10 start from the tin-rich side and pass through titanium-tin compounds. In specimen no. 6, adjacent Ti<ce:inf loc="post">6</ce:inf>Sn<ce:inf loc="post">5</ce:inf> and TiZn<ce:inf loc="post">3</ce:inf> layers have been observed. This finding has been taken into account for the construction of the isothermal sections (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor>A and B).</ce:para>
+<ce:para view="all">Some compounds, expected in the diffusion zones have not been registered. This phenomenon is typical for the growth of intermediate layers. Thus, the phases found in the present investigations will be mentioned explicitly: liquid solutions, Ti<ce:inf loc="post">3</ce:inf>Sn<ce:inf loc="post">2</ce:inf>Zn<ce:inf loc="post">6</ce:inf>, Ti<ce:inf loc="post">2</ce:inf>Sn<ce:inf loc="post">3</ce:inf>, Ti<ce:inf loc="post">6</ce:inf>Sn<ce:inf loc="post">5</ce:inf>, Ti<ce:inf loc="post">3</ce:inf>Sn, α-Ti, TiZn<ce:inf loc="post">3</ce:inf> and TiZn<ce:inf loc="post">5</ce:inf>. The compounds that have not been observed are represented in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>A and B according to pertinent literature data <ce:cross-refs refid="bib18 bib26 bib38">[18,26,38]</ce:cross-refs>.</ce:para>
+<ce:para view="all">Recent authors’ studies of the binary Ti–Zn system <ce:cross-ref refid="bib18">[18]</ce:cross-ref> have shown that a contentious phase (TiZn<ce:inf loc="post">5</ce:inf> situated between TiZn<ce:inf loc="post">7</ce:inf> and TiZn<ce:inf loc="post">3</ce:inf>), possibly, does not exactly correspond to the supposed formula. The melting temperature of this phase is around 615<ce:hsp sp="0.25"></ce:hsp>°C, thus above the working temperature of 600<ce:hsp sp="0.25"></ce:hsp>°C. The richest in zinc compound, registered in the present work, has a ratio between zinc and titanium mole fractions amounting to 5.28 (<ce:cross-ref refid="tbl3">Table 3</ce:cross-ref>, spec. 9). That is the reason to suppose that it could be identified as TiZn<ce:inf loc="post">5</ce:inf>.</ce:para>
+<ce:para view="all">The measured zinc solubility in Ti<ce:inf loc="post">6</ce:inf>Sn<ce:inf loc="post">5</ce:inf> and Ti<ce:inf loc="post">2</ce:inf>Sn<ce:inf loc="post">3</ce:inf> is 7 and 2<ce:hsp sp="0.25"></ce:hsp>at.%, respectively. The tin content in TiZn<ce:inf loc="post">3</ce:inf> is up to around 2<ce:hsp sp="0.25"></ce:hsp>at.% (<ce:cross-ref refid="tbl3">Table 3</ce:cross-ref>). These experimental observations are in agreement with theoretical considerations based on the values of Pauling electro-negativities (1.54, 1.65 and 1.96, for Ti, Zn and Sn, in that order <ce:cross-ref refid="bib49">[49]</ce:cross-ref>) and empirical atomic radii (135, 142 and 145<ce:hsp sp="0.25"></ce:hsp>pM, for Ti, Zn and Sn, respectively).</ce:para>
+<ce:para view="all">Differential thermal analyses (DTA) have been performed with three specimens, equilibrated at 600<ce:hsp sp="0.25"></ce:hsp>°C, by differential scanning calorimeter TA 2960 Instruments. The compositions of the specimens are in the vicinity of the eutectic point of the binary Sn–Zn system (<ce:cross-ref refid="tbl5">Table 5</ce:cross-ref>
+<ce:float-anchor refid="tbl5"></ce:float-anchor>).</ce:para>
+<ce:para view="all">The main purpose of these experiments was to find out the influence of small titanium additions to the binary Sn–Zn eutectic temperature (198.5<ce:hsp sp="0.25"></ce:hsp>°C) according to Massalski <ce:cross-ref refid="bib26">[26]</ce:cross-ref>. One of the alloys (<ce:cross-ref refid="tbl5">Table 5</ce:cross-ref>, no. 1) is binary Sn–Zn specimen. The DTA of this specimen supplies an internal standard, usable for comparison. As one can see, in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor>, a lowering of the eutectic melting temperature could not be observed (in the frame of the experimental uncertainties).</ce:para>
+<ce:para view="all">The experimentally determined melting enthalpies of these nearly eutectic alloys vary from 98 to 101<ce:hsp sp="0.25"></ce:hsp>J<ce:hsp sp="0.25"></ce:hsp>g<ce:sup loc="post">−1</ce:sup>. These values are in relatively fair agreement with the respective enthalpy change (76<ce:hsp sp="0.25"></ce:hsp>J<ce:hsp sp="0.25"></ce:hsp>g<ce:sup loc="post">−1</ce:sup>), calculated using the optimized parameters of Fries and Lukas <ce:cross-ref refid="bib28">[28]</ce:cross-ref>.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusion</ce:section-title>
+<ce:para view="all">The existence of a formerly unknown ternary compound with approximate formula Ti<ce:inf loc="post">3</ce:inf>Sn<ce:inf loc="post">2</ce:inf>Zn<ce:inf loc="post">6</ce:inf> (possible homogeneity interval in the range Ti<ce:inf loc="post">5</ce:inf>Sn<ce:inf loc="post">4</ce:inf>Zn<ce:inf loc="post">11</ce:inf>–Ti<ce:inf loc="post">5</ce:inf>Sn<ce:inf loc="post">3</ce:inf>Zn<ce:inf loc="post">12</ce:inf>) has been found for the first time. The crystals of this phase exhibit hexagonal shape and compositions in the following range: <ce:italic>X</ce:italic>
+<ce:inf loc="post">Ti</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>0.25<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>0.01; <ce:italic>X</ce:italic>
+<ce:inf loc="post">Sn</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>0.19<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>0.02; <ce:italic>X</ce:italic>
+<ce:inf loc="post">Zn</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>0.56<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>0.02. Experimental data about the zinc solubility in Ti<ce:inf loc="post">2</ce:inf>Sn<ce:inf loc="post">3</ce:inf> (around 2<ce:hsp sp="0.25"></ce:hsp>at.% Zn) and Ti<ce:inf loc="post">6</ce:inf>Sn<ce:inf loc="post">5</ce:inf> (around 7<ce:hsp sp="0.25"></ce:hsp>at.% Zn) as well as about the tin solubillty in TiZn<ce:inf loc="post">3</ce:inf> (around 2<ce:hsp sp="0.25"></ce:hsp>at.% Sn) have been obtained.</ce:para>
+<ce:para view="all">Isothermal section, at 600<ce:hsp sp="0.25"></ce:hsp>°C, of the ternary phase diagram Sn–Ti–Zn has been constructed using data of equilibrated alloys and diffusion couples.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgments</ce:section-title>
+<ce:para view="all">A Ph.D. bourse attributed by the French Government to Mr. E. Dobrev and short contracts of Dr. G.P. Vassilev with CNRS-France are gratefully acknowledged.</ce:para>
+<ce:para view="all">This work is related to the European action for development of lead-free solders COST 531.</ce:para>
+<ce:para view="all">Parts of these studies have been presented to the following scientific meetings as posters: CALPHAD XXXII, 25–30 May 2003, Quebec, Canada; XXX JEEP (Journeys of Phase Equilibria Studies), 30 March–1 April 2004, St. Avold, France; CALPHAD XXXIII, 30 May–4 June 2004, Krakow, Poland.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>U.</ce:given-name>
+<ce:surname>Kattner</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Handwerker</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Z. Metallkd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>92</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>740</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Leone</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Niessen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.W.</ce:given-name>
+<ce:surname>Kerr</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metall. Trans. B</sb:maintitle>
+</sb:title>
+<sb:volume-nr>6</sb:volume-nr>
+</sb:series>
+<sb:date>1975</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>503</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Leone</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Kerr</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Crystal Growth</sb:maintitle>
+</sb:title>
+<sb:volume-nr>32</sb:volume-nr>
+</sb:series>
+<sb:date>1976</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>111</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Karpinos</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Tuchinskii</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Sapozhnikova</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Panasyuk</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.</ce:given-name>
+<ce:surname>Enevich</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Poroshk. Metall. (Kiev)</sb:maintitle>
+</sb:title>
+<sb:volume-nr>3</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>54</sb:issue-nr>
+<sb:date>1983</sb:date>
+</sb:issue>
+</sb:host>
+<sb:comment>(in Russian)</sb:comment>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Koblyuk</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Akselrud</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Skolozdra</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Pol. J. Chem.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>73</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>9</sb:issue-nr>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1465</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Ono</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Ohtani</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Hasebe</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:title>
+<sb:maintitle>Proceedings of Ninth Symposium on Microjoining and Assembly Technology in Electronics</sb:maintitle>
+</sb:title>
+<sb:conference>Yokohama, Japan, February 6–7</sb:conference>
+<sb:date>2003</sb:date>
+</sb:edited-book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Gebhardt</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Z. Metallkd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>33</sb:volume-nr>
+</sb:series>
+<sb:date>1941</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>355</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>E.A.</ce:given-name>
+<ce:surname>Anderson</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.J.</ce:given-name>
+<ce:surname>Boyle</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.W.</ce:given-name>
+<ce:surname>Ramsey</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Transactions of the Amer. Institute of Mining</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metall. Petrol. Eng.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>156</sb:volume-nr>
+</sb:series>
+<sb:date>1944</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>278</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Pietrokowsky</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Trans. AIME</sb:maintitle>
+</sb:title>
+<sb:volume-nr>200</sb:volume-nr>
+</sb:series>
+<sb:date>1954</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>219</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.E.</ce:given-name>
+<ce:surname>Pelzel</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metallography</sb:maintitle>
+</sb:title>
+<sb:volume-nr>15</sb:volume-nr>
+</sb:series>
+<sb:date>1961</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>881</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Heine</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>U.</ce:given-name>
+<ce:surname>Zwicker</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Z. Metallkd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>53</sb:volume-nr>
+</sb:series>
+<sb:date>1962</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>380</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Schubert</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Frank</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Gohle</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Maldonado</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.G.</ce:given-name>
+<ce:surname>Meissner</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Raman</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Rossteutscher</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Naturwissienschaften</sb:maintitle>
+</sb:title>
+<sb:volume-nr>50</sb:volume-nr>
+</sb:series>
+<sb:date>1963</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>41</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>E.H.</ce:given-name>
+<ce:surname>Rennhack</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Trans. Metall. Soc. AIME</sb:maintitle>
+</sb:title>
+<sb:volume-nr>236</sb:volume-nr>
+</sb:series>
+<sb:date>1966</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>941</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.A.</ce:given-name>
+<ce:surname>Spittle</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metallography</sb:maintitle>
+</sb:title>
+<sb:volume-nr>5</sb:volume-nr>
+</sb:series>
+<sb:date>1972</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>423</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Dobrev</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.</ce:given-name>
+<ce:surname>Dimova</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Georgiev</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Materialoznanie i tehnologia</sb:maintitle>
+</sb:title>
+<sb:volume-nr>5</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>40</sb:issue-nr>
+<sb:date>1977</sb:date>
+</sb:issue>
+</sb:host>
+<sb:comment>(in Bulgarian)</sb:comment>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib16">
+<ce:label>[16]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Goto</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Esashi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Koda</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Morozumi</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Jpn. Inst. Met.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>37</sb:volume-nr>
+</sb:series>
+<sb:date>1973</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>466</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib17">
+<ce:label>[17]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Saillard</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Develey</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Becle</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.M.</ce:given-name>
+<ce:surname>Moreau</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Paccard</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Crystallogr. B</sb:maintitle>
+</sb:title>
+<sb:volume-nr>37</sb:volume-nr>
+</sb:series>
+<sb:date>1981</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>224</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib18">
+<ce:label>[18]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.P.</ce:given-name>
+<ce:surname>Vassilev</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.J.</ce:given-name>
+<ce:surname>Liu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Ishida</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>JALCOM</sb:maintitle>
+</sb:title>
+<sb:volume-nr>375</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>1/2</sb:issue-nr>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>162</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib19">
+<ce:label>[19]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.T.</ce:given-name>
+<ce:surname>Heycock</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.H.</ce:given-name>
+<ce:surname>Neville</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Chem. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>71</sb:volume-nr>
+</sb:series>
+<sb:date>1897</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>383</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib20">
+<ce:label>[20]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Tamman</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.J.</ce:given-name>
+<ce:surname>Rocha</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Z. Metallkd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>25</sb:volume-nr>
+</sb:series>
+<sb:date>1933</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>133</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib21">
+<ce:label>[21]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Hansen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Anderko</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Constitution of Binary Alloys</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:edition>2nd ed.</sb:edition>
+<sb:date>1958</sb:date>
+<sb:publisher>
+<sb:name>McGraw-Hill</sb:name>
+<sb:location>NY</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+<sb:comment>p. 1488</sb:comment>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib22">
+<ce:label>[22]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Schuermann</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Traeger</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Arch. Eisenhutteswes</sb:maintitle>
+</sb:title>
+<sb:volume-nr>32</sb:volume-nr>
+</sb:series>
+<sb:date>1961</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>397</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib23">
+<ce:label>[23]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>V.</ce:given-name>
+<ce:surname>Buck</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Z. Phys.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>270</sb:volume-nr>
+</sb:series>
+<sb:date>1974</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>209</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib24">
+<ce:label>[24]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Vnuk</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.H.</ce:given-name>
+<ce:surname>Ainsley</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>16</sb:volume-nr>
+</sb:series>
+<sb:date>1981</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1171</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib25">
+<ce:label>[25]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Srivastava</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.C.</ce:given-name>
+<ce:surname>Sharma</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Phase Equilibria</sb:maintitle>
+</sb:title>
+<sb:volume-nr>146</sb:volume-nr>
+</sb:series>
+<sb:date>1993</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>700</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib26">
+<ce:label>[26]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Massalski</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>CD ROM: Binary Alloy Phase Diagrams</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1996</sb:date>
+<sb:publisher>
+<sb:name>ASM International</sb:name>
+<sb:location>OH, USA</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib27">
+<ce:label>[27]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>B.J.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>CALPHAD</sb:maintitle>
+</sb:title>
+<sb:volume-nr>20</sb:volume-nr>
+</sb:series>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>471</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib28">
+<ce:label>[28]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:collaboration>COST 507</sb:collaboration>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:book-series>
+<sb:series>
+<sb:title>
+<sb:maintitle>Definition of thermochemical and thermophyiscal properties to provide a database for the development of new light alloys</sb:maintitle>
+</sb:title>
+<sb:volume-nr>vol. 2</sb:volume-nr>
+</sb:series>
+</sb:book-series>
+<sb:date>1998</sb:date>
+<sb:publisher>
+<sb:name>European Commission</sb:name>
+<sb:location>Belgium</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib29">
+<ce:label>[29]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Ohtani</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Miyashita</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Ishida</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Jpn. Inst. Met.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>63</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>6</sb:issue-nr>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>685</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib30">
+<ce:label>[30]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Knott</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Flandorfer</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Mikula</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Z. Metallkd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>96</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib31">
+<ce:label>[31]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.L.</ce:given-name>
+<ce:surname>Finlay</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.I.</ce:given-name>
+<ce:surname>Jaffee</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.W.</ce:given-name>
+<ce:surname>Parcel</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.C.</ce:given-name>
+<ce:surname>Durstein</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Met.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>6</sb:volume-nr>
+</sb:series>
+<sb:date>1954</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>25</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib32">
+<ce:label>[32]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.K.</ce:given-name>
+<ce:surname>McQuillan</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Inst. Met.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>84</sb:volume-nr>
+</sb:series>
+<sb:date>1955</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>307</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib33">
+<ce:label>[33]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Pietrokowsky</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.P.</ce:given-name>
+<ce:surname>Frink</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Trans. ASM</sb:maintitle>
+</sb:title>
+<sb:volume-nr>49</sb:volume-nr>
+</sb:series>
+<sb:date>1957</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>339</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib34">
+<ce:label>[34]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>V.V.</ce:given-name>
+<ce:surname>Glazova</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.N.</ce:given-name>
+<ce:surname>Kurnakov</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Dokl. Akad. Nauk SSSR</sb:maintitle>
+</sb:title>
+<sb:volume-nr>134</sb:volume-nr>
+</sb:series>
+<sb:date>1960</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1087</sb:first-page>
+</sb:pages>
+</sb:host>
+<sb:comment>(in Russian)</sb:comment>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib35">
+<ce:label>[35]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>V.N.</ce:given-name>
+<ce:surname>Eremenko</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.Ya.</ce:given-name>
+<ce:surname>Velikanova</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Zh. Neorg. Khim.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>7</sb:volume-nr>
+</sb:series>
+<sb:date>1962</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1750</sb:first-page>
+</sb:pages>
+</sb:host>
+<sb:comment>(in Russian)</sb:comment>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib36">
+<ce:label>[36]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.H.</ce:given-name>
+<ce:surname>Vucht</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.A.</ce:given-name>
+<ce:surname>Brunning</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.C.</ce:given-name>
+<ce:surname>Donkersloot</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.H.</ce:given-name>
+<ce:surname>Mesquita</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Phillips Res. Rep.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>19</sb:volume-nr>
+</sb:series>
+<sb:date>1964</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>407</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib37">
+<ce:label>[37]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>V.D.</ce:given-name>
+<ce:surname>Savin</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Gos. Nauchno-Issled. Proektn. Inst. Redkomet. Prom., Moscow USSR, Zh. Fiz. Khim.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>47</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>10</sb:issue-nr>
+<sb:date>1973</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2527</sb:first-page>
+</sb:pages>
+</sb:host>
+<sb:comment>(in Russian)</sb:comment>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib38">
+<ce:label>[38]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Kuper</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Peng</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Pisch</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Goesmann</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Schmid-Fetzer</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Z. Metallkd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>89</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>855</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib39">
+<ce:label>[39]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Künnen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Jeitscko</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Kotzuba</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.D.</ce:given-name>
+<ce:surname>Mosel</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Z. Naturforsch</sb:maintitle>
+</sb:title>
+<sb:volume-nr>55b</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>425</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib40">
+<ce:label>[40]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Swalin</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Thermodynamics of Solids</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1961</sb:date>
+<sb:publisher>
+<sb:name>Wiley</sb:name>
+<sb:location>London</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+<sb:comment>p. 316</sb:comment>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib41">
+<ce:label>[41]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Barin</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Thermochemical Data of Pure Substances, Part II</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1993</sb:date>
+<sb:publisher>
+<sb:name>VCH Verlags</sb:name>
+<sb:location>Weinheim</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+<sb:comment>p. 1739</sb:comment>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib42">
+<ce:label>[42]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.P.</ce:given-name>
+<ce:surname>Vassilev</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Crystal Res. Technol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>39</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>9</sb:issue-nr>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>770</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib43">
+<ce:label>[43]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.P.</ce:given-name>
+<ce:surname>Vassilev</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Ishida</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>JALCOM</sb:maintitle>
+</sb:title>
+<sb:volume-nr>376</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>1/2</sb:issue-nr>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>125</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib44">
+<ce:label>[44]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.P.</ce:given-name>
+<ce:surname>Vassilev</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Ishida</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>JALCOM</sb:maintitle>
+</sb:title>
+<sb:volume-nr>385</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>1/2</sb:issue-nr>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>191</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib45">
+<ce:label>[45]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.P.</ce:given-name>
+<ce:surname>Vassilev</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Cryst. Res. Technol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>40</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>7</sb:issue-nr>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>713</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib46">
+<ce:label>[46]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.P.</ce:given-name>
+<ce:surname>Vassilev</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Arch. Metall. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>49</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>3</sb:issue-nr>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>519</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib47">
+<ce:label>[47]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Rönkä</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.J.J.</ce:given-name>
+<ce:surname>van Loo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.K.</ce:given-name>
+<ce:surname>Kivilahti</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scripta Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>37</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>10</sb:issue-nr>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1575</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib48">
+<ce:label>[48]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Kodentsov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Bastin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.J.J.</ce:given-name>
+<ce:surname>van Loo</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>JALCOM</sb:maintitle>
+</sb:title>
+<sb:volume-nr>320</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>207</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib49">
+<ce:label>[49]</ce:label>
+<ce:other-ref>
+<ce:textref>E. Sokolowskaja, L. Guzej, Metallokhimia, Edit. House Univ. of Moscow, Moscow, 1986. p.264 (in Russian) (see WEBELEMENTS.COM as well).</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

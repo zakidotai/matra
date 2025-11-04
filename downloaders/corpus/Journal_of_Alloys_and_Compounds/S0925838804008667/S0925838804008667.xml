@@ -1,0 +1,1966 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838804008667</prism:url><dc:identifier>doi:10.1016/j.jallcom.2004.06.049</dc:identifier><eid>1-s2.0-S0925838804008667</eid><prism:doi>10.1016/j.jallcom.2004.06.049</prism:doi><pii>S0925-8388(04)00866-7</pii><dc:title>Structure and properties of rapidly solidified Al–Cr–Fe–Ti–Si powder alloys </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>387</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>193</prism:startingpage><prism:endingpage>200</prism:endingpage><prism:pagerange>193-200</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2005-01-25</prism:coverdate><prism:coverdisplaydate>25 January 2005</prism:coverdisplaydate><prism:copyright>Copyright © 2004 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Bártová, B.</dc:creator><dc:creator>Vojtěch, D.</dc:creator><dc:creator>Verner, J.</dc:creator><dc:creator>Gemperle, A.</dc:creator><dc:creator>Studnička, V.</dc:creator><dc:description>
+                  In the present paper, microstructure, phase composition and elevated temperature behaviour of two rapidly solidified (RS) AlCr6Fe2Ti(0–1.5)Si1 (in wt.%) powder alloys are described. Rapidly solidified powders were composed of α(Al) solid solution matrix and finely dispersed intermetallic phases of spherical or irregular shapes. XRD and TEM investigations revealed the presence of quasi-crystalline icosahedral Al84.6Cr15.4, Al82Fe18, Al95Fe4Cr, Al74Cr20Si6 and crystalline Al, Al13Cr2, Al13Fe4, Al3FeSi phases. The fraction of quasi-crystalline phases in the form of spheroids was reduced as the powder particle size increased. The presence of titanium significantly increases the fraction of icosahedral phases. DTA measurement revealed an exothermic reaction at 450–500°C in the fine powder fraction (size 25–45μm) of the AlCr6Fe2Ti1.5Si1 alloy. This fraction also exhibited a hardening after annealing at 350°C/50h. The hardening, as well as the exothermic effect were due to a decomposition of the icosahedral phases described by the reaction Al95Fe4Cr(Ti, Si) + Al84.6Cr15.4(Ti, Si) + Al74Cr20Si6(Fe, Ti) → Al13Cr2 + Al3FeSi + TiSi.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Aluminium-based alloy</dcterms:subject><dcterms:subject>Rapid solidification</dcterms:subject><dcterms:subject>Quasi-crystalline phase</dcterms:subject><dcterms:subject>Powder metallurgy</dcterms:subject><dcterms:subject>Hardening</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838804008667" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838804008667" rel="scidir"/></coredata><objects><object category="thumbnail" height="47" mimetype="image/gif" multimediatype="GIF image file" ref="si2" size="2375" type="ALTIMG" width="370">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008667-si2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="47" mimetype="image/gif" multimediatype="GIF image file" ref="si1" size="2366" type="ALTIMG" width="373">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008667-si1.gif?httpAccept=%2A%2F%2A</object><object category="standard" height="501" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="25940" type="IMAGE-DOWNSAMPLED" width="311">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008667-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="163" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="2675" type="IMAGE-THUMBNAIL" width="101">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008667-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="253" mimetype="image/gif" multimediatype="GIF image file" ref="gr10" size="11884" type="IMAGE-DOWNSAMPLED" width="376">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008667-gr10.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="147" mimetype="image/gif" multimediatype="GIF image file" ref="gr10" size="5363" type="IMAGE-THUMBNAIL" width="219">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008667-gr10.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="253" mimetype="image/gif" multimediatype="GIF image file" ref="gr11" size="11957" type="IMAGE-DOWNSAMPLED" width="376">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008667-gr11.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="147" mimetype="image/gif" multimediatype="GIF image file" ref="gr11" size="5411" type="IMAGE-THUMBNAIL" width="219">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008667-gr11.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="538" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="143484" type="IMAGE-DOWNSAMPLED" width="698">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008667-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="164" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="12372" type="IMAGE-THUMBNAIL" width="213">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008667-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="512" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="26345" type="IMAGE-DOWNSAMPLED" width="311">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008667-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="163" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="2479" type="IMAGE-THUMBNAIL" width="99">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008667-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="515" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="23316" type="IMAGE-DOWNSAMPLED" width="316">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008667-gr4.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="163" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="2440" type="IMAGE-THUMBNAIL" width="100">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008667-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="547" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="14464" type="IMAGE-DOWNSAMPLED" width="352">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008667-gr5.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="163" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="2473" type="IMAGE-THUMBNAIL" width="105">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008667-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="509" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr6" size="28609" type="IMAGE-DOWNSAMPLED" width="318">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008667-gr6.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="163" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="2018" type="IMAGE-THUMBNAIL" width="102">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008667-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="249" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="11921" type="IMAGE-DOWNSAMPLED" width="376">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008667-gr7.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="145" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="5357" type="IMAGE-THUMBNAIL" width="219">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008667-gr7.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="142" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr8" size="10832" type="IMAGE-DOWNSAMPLED" width="295">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008667-gr8.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="105" mimetype="image/gif" multimediatype="GIF image file" ref="gr8" size="5358" type="IMAGE-THUMBNAIL" width="219">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008667-gr8.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="251" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr9" size="29826" type="IMAGE-DOWNSAMPLED" width="376">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008667-gr9.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="146" mimetype="image/gif" multimediatype="GIF image file" ref="gr9" size="5289" type="IMAGE-THUMBNAIL" width="219">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008667-gr9.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>10844246431</scopus-id><scopus-eid>2-s2.0-10844246431</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/10844246431" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20040817">2004-08-17</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20040817">2004-08-17</xocs:available-online-date>
+<xocs:ew-transaction-id>2011-02-15T22:32:05</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838804008667</xocs:eid>
+<xocs:pii-formatted>S0925-8388(04)00866-7</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838804008667</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2004.06.049</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.3</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838800X02290</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.228461-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20050125</xocs:date-search-begin>
+<xocs:year-nav>2005</xocs:year-nav>
+<xocs:indexeddate epoch="1092700800">2004-08-17T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>387</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>387</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 387, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>37</xocs:sort-order>
+<xocs:first-fp>193</xocs:first-fp>
+<xocs:last-lp>200</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>193</xocs:first-page>
+<xocs:last-page>200</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20050125</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>25 January 2005</xocs:cover-date-text>
+<xocs:cover-date-start>2005-01-25</xocs:cover-date-start>
+<xocs:cover-date-year>2005</xocs:cover-date-year>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2004 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>STRUCTUREPROPERTIESRAPIDLYSOLIDIFIEDALCRFETISIPOWDERALLOYS</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>BARTOVA</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>B</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Microstructure</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Elevated temperature behaviour</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Phase composition</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Summary</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>INOUE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>31</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>INOUE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>1</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>INOUE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>727</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>KIMURA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>168</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>KAWAMURA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>392</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>KAWAMURA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>1131</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>ADKINS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1991</xocs:ref-pub-year>
+<xocs:ref-first-fp>334</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>ADKINS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1991</xocs:ref-pub-year>
+<xocs:ref-first-fp>419</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>KAWAMURA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>205</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>INOUE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>221</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11"></xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>MONDOLFO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1976</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>ALUMINIUMALLOYSSTRUCTUREPROPERTIES</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13">
+<xocs:ref-normalized-surname>WARLIMONT</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1976</xocs:ref-pub-year>
+<xocs:ref-first-fp>101</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>BANERJEE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>6645</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15">
+<xocs:ref-normalized-surname>CARRENO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>322</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib16">
+<xocs:ref-normalized-surname>PRAKASH</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>5061</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>U</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib17">
+<xocs:ref-normalized-surname>SHECHTMAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1984</xocs:ref-pub-year>
+<xocs:ref-first-fp>1951</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib18">
+<xocs:ref-normalized-surname>MASUMOTO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1986</xocs:ref-pub-year>
+<xocs:ref-first-fp>81</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib19">
+<xocs:ref-normalized-surname>INOUE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1987</xocs:ref-pub-year>
+<xocs:ref-first-fp>1864</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib20">
+<xocs:ref-normalized-surname>INOUE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1986</xocs:ref-pub-year>
+<xocs:ref-first-fp>1657</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib21"></xocs:ref-info>
+<xocs:ref-info refid="bib22">
+<xocs:ref-normalized-surname>VOJTECH</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>149</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib23">
+<xocs:ref-normalized-surname>GOPAL</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1988</xocs:ref-pub-year>
+<xocs:ref-first-fp>413</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>BARTOVAX2005X193</xocs:refkey3>
+<xocs:refkey4lp>BARTOVAX2005X193X200</xocs:refkey4lp>
+<xocs:refkey4ai>BARTOVAX2005X193XB</xocs:refkey4ai>
+<xocs:refkey5>BARTOVAX2005X193X200XB</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(04)00866-7</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838804008667</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838804008667</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2004.06.049</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2011-02-16T02:47:48.947289-05:00</xocs:timestamp>
+<xocs:cover-date-start>2005-01-25</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838804008667-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008667/MAIN/application/pdf/13de90ed8ea69dfc6c1f9b886475c785/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008667/MAIN/application/pdf/13de90ed8ea69dfc6c1f9b886475c785/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>527601</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>8</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838804008667-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008667/PREVIEW/image/png/420a452f44d03030a71537c8fef92368/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008667/PREVIEW/image/png/420a452f44d03030a71537c8fef92368/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>61409</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008667-si2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008667/STRIPIN/image/gif/8c849e346b9ad100205fff131f271270/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008667/STRIPIN/image/gif/8c849e346b9ad100205fff131f271270/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si2</xocs:file-basename>
+<xocs:filename>si2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>2375</xocs:filesize>
+<xocs:pixel-height>47</xocs:pixel-height>
+<xocs:pixel-width>370</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008667-si1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008667/STRIPIN/image/gif/75bb9c5c0175ede0192c83de171ea05b/si1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008667/STRIPIN/image/gif/75bb9c5c0175ede0192c83de171ea05b/si1.gif</xocs:ucs-locator>
+<xocs:file-basename>si1</xocs:file-basename>
+<xocs:filename>si1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>2366</xocs:filesize>
+<xocs:pixel-height>47</xocs:pixel-height>
+<xocs:pixel-width>373</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008667-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008667/gr1/DOWNSAMPLED/image/jpeg/7af95f2b728700eb9f29dff0749d9364/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008667/gr1/DOWNSAMPLED/image/jpeg/7af95f2b728700eb9f29dff0749d9364/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>25940</xocs:filesize>
+<xocs:pixel-height>501</xocs:pixel-height>
+<xocs:pixel-width>311</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008667-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008667/gr1/THUMBNAIL/image/gif/8fd0fa24efd74a811518710c4c4f8e92/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008667/gr1/THUMBNAIL/image/gif/8fd0fa24efd74a811518710c4c4f8e92/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2675</xocs:filesize>
+<xocs:pixel-height>163</xocs:pixel-height>
+<xocs:pixel-width>101</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008667-gr10.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008667/gr10/DOWNSAMPLED/image/gif/fe1495165003b33bdc8cf33b6713bad2/gr10.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008667/gr10/DOWNSAMPLED/image/gif/fe1495165003b33bdc8cf33b6713bad2/gr10.gif</xocs:ucs-locator>
+<xocs:file-basename>gr10</xocs:file-basename>
+<xocs:filename>gr10.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>11884</xocs:filesize>
+<xocs:pixel-height>253</xocs:pixel-height>
+<xocs:pixel-width>376</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008667-gr10.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008667/gr10/THUMBNAIL/image/gif/a03d4d85fb576e1da45d2c362a3f4f08/gr10.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008667/gr10/THUMBNAIL/image/gif/a03d4d85fb576e1da45d2c362a3f4f08/gr10.sml</xocs:ucs-locator>
+<xocs:file-basename>gr10</xocs:file-basename>
+<xocs:filename>gr10.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>5363</xocs:filesize>
+<xocs:pixel-height>147</xocs:pixel-height>
+<xocs:pixel-width>219</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008667-gr11.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008667/gr11/DOWNSAMPLED/image/gif/00a91b7f3a0938460e53eceb55a823c8/gr11.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008667/gr11/DOWNSAMPLED/image/gif/00a91b7f3a0938460e53eceb55a823c8/gr11.gif</xocs:ucs-locator>
+<xocs:file-basename>gr11</xocs:file-basename>
+<xocs:filename>gr11.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>11957</xocs:filesize>
+<xocs:pixel-height>253</xocs:pixel-height>
+<xocs:pixel-width>376</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008667-gr11.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008667/gr11/THUMBNAIL/image/gif/5b9b74f77da3db14b707e9964bc07264/gr11.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008667/gr11/THUMBNAIL/image/gif/5b9b74f77da3db14b707e9964bc07264/gr11.sml</xocs:ucs-locator>
+<xocs:file-basename>gr11</xocs:file-basename>
+<xocs:filename>gr11.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>5411</xocs:filesize>
+<xocs:pixel-height>147</xocs:pixel-height>
+<xocs:pixel-width>219</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008667-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008667/gr2/DOWNSAMPLED/image/jpeg/b142dfb168e226fbe833dc3b1f813fb9/gr2.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008667/gr2/DOWNSAMPLED/image/jpeg/b142dfb168e226fbe833dc3b1f813fb9/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>143484</xocs:filesize>
+<xocs:pixel-height>538</xocs:pixel-height>
+<xocs:pixel-width>698</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008667-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008667/gr2/THUMBNAIL/image/gif/dbf13b3ad63daea2efa9b8603ad01cdd/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008667/gr2/THUMBNAIL/image/gif/dbf13b3ad63daea2efa9b8603ad01cdd/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>12372</xocs:filesize>
+<xocs:pixel-height>164</xocs:pixel-height>
+<xocs:pixel-width>213</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008667-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008667/gr3/DOWNSAMPLED/image/jpeg/078b65695571d0e7dc78f57ae5cea542/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008667/gr3/DOWNSAMPLED/image/jpeg/078b65695571d0e7dc78f57ae5cea542/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>26345</xocs:filesize>
+<xocs:pixel-height>512</xocs:pixel-height>
+<xocs:pixel-width>311</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008667-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008667/gr3/THUMBNAIL/image/gif/0ef706b24b501a26cf455d1576f12962/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008667/gr3/THUMBNAIL/image/gif/0ef706b24b501a26cf455d1576f12962/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2479</xocs:filesize>
+<xocs:pixel-height>163</xocs:pixel-height>
+<xocs:pixel-width>99</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008667-gr4.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008667/gr4/DOWNSAMPLED/image/jpeg/1bd5d7626c97338574f94e1138e0ba90/gr4.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008667/gr4/DOWNSAMPLED/image/jpeg/1bd5d7626c97338574f94e1138e0ba90/gr4.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>23316</xocs:filesize>
+<xocs:pixel-height>515</xocs:pixel-height>
+<xocs:pixel-width>316</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008667-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008667/gr4/THUMBNAIL/image/gif/eab514bec970a2e7037e46241c2e5610/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008667/gr4/THUMBNAIL/image/gif/eab514bec970a2e7037e46241c2e5610/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2440</xocs:filesize>
+<xocs:pixel-height>163</xocs:pixel-height>
+<xocs:pixel-width>100</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008667-gr5.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008667/gr5/DOWNSAMPLED/image/gif/e451e5a33cc1fefd3e196492e69b2429/gr5.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008667/gr5/DOWNSAMPLED/image/gif/e451e5a33cc1fefd3e196492e69b2429/gr5.gif</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>14464</xocs:filesize>
+<xocs:pixel-height>547</xocs:pixel-height>
+<xocs:pixel-width>352</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008667-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008667/gr5/THUMBNAIL/image/gif/ceb4644261d158942ff8c3d007ccf8da/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008667/gr5/THUMBNAIL/image/gif/ceb4644261d158942ff8c3d007ccf8da/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2473</xocs:filesize>
+<xocs:pixel-height>163</xocs:pixel-height>
+<xocs:pixel-width>105</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008667-gr6.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008667/gr6/DOWNSAMPLED/image/jpeg/cebe01ccb3fa060004bd110412b9fed6/gr6.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008667/gr6/DOWNSAMPLED/image/jpeg/cebe01ccb3fa060004bd110412b9fed6/gr6.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>28609</xocs:filesize>
+<xocs:pixel-height>509</xocs:pixel-height>
+<xocs:pixel-width>318</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008667-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008667/gr6/THUMBNAIL/image/gif/84525235533f9af448c9f2be8b88fd8e/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008667/gr6/THUMBNAIL/image/gif/84525235533f9af448c9f2be8b88fd8e/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2018</xocs:filesize>
+<xocs:pixel-height>163</xocs:pixel-height>
+<xocs:pixel-width>102</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008667-gr7.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008667/gr7/DOWNSAMPLED/image/gif/d1bc93a4d87d0d8e4e81ed57f1ceb39f/gr7.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008667/gr7/DOWNSAMPLED/image/gif/d1bc93a4d87d0d8e4e81ed57f1ceb39f/gr7.gif</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>11921</xocs:filesize>
+<xocs:pixel-height>249</xocs:pixel-height>
+<xocs:pixel-width>376</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008667-gr7.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008667/gr7/THUMBNAIL/image/gif/39cb560c36fbe46fd421b20b7b2b25a2/gr7.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008667/gr7/THUMBNAIL/image/gif/39cb560c36fbe46fd421b20b7b2b25a2/gr7.sml</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>5357</xocs:filesize>
+<xocs:pixel-height>145</xocs:pixel-height>
+<xocs:pixel-width>219</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008667-gr8.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008667/gr8/DOWNSAMPLED/image/jpeg/a7dc610d2850c2fff9cb84d4835128d1/gr8.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008667/gr8/DOWNSAMPLED/image/jpeg/a7dc610d2850c2fff9cb84d4835128d1/gr8.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>10832</xocs:filesize>
+<xocs:pixel-height>142</xocs:pixel-height>
+<xocs:pixel-width>295</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008667-gr8.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008667/gr8/THUMBNAIL/image/gif/9a6939a1d4a786b329e0374c5b8971ac/gr8.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008667/gr8/THUMBNAIL/image/gif/9a6939a1d4a786b329e0374c5b8971ac/gr8.sml</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>5358</xocs:filesize>
+<xocs:pixel-height>105</xocs:pixel-height>
+<xocs:pixel-width>219</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008667-gr9.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008667/gr9/DOWNSAMPLED/image/jpeg/e4e00e79a722dfa588272f42fbfc9cdf/gr9.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008667/gr9/DOWNSAMPLED/image/jpeg/e4e00e79a722dfa588272f42fbfc9cdf/gr9.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>29826</xocs:filesize>
+<xocs:pixel-height>251</xocs:pixel-height>
+<xocs:pixel-width>376</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008667-gr9.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008667/gr9/THUMBNAIL/image/gif/592dc823ce9e9f80549fdaf7c9ccc682/gr9.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008667/gr9/THUMBNAIL/image/gif/592dc823ce9e9f80549fdaf7c9ccc682/gr9.sml</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>5289</xocs:filesize>
+<xocs:pixel-height>146</xocs:pixel-height>
+<xocs:pixel-width>219</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>11414</aid>
+<ce:pii>S0925-8388(04)00866-7</ce:pii>
+<ce:doi>10.1016/j.jallcom.2004.06.049</ce:doi>
+<ce:copyright type="full-transfer" year="2004">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Granulometric fractions of the powder alloys (a, AlCr6Fe2Si1; b, AlCr6Fe2Ti1.5Si1).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Microstructures observed in the powder alloys (a, A type with equiaxed IPs; b, B type with irregular IPs; c, particle with eutectic colonies; d, particle with needle-like IPs).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Microstructures observed in the powder alloys as a function of powder particle size (a, AlCr6Fe2Si1; b, AlCr6Fe2Ti1.5Si1; A, spheroids of IPs; B, irregular IPs; C, eutectic colonies or needle-like IPs).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">IP interparticle spacing as a function of the powder particle size (a, AlCr6Fe2Si1; b, AlCr6Fe2Ti1.5Si1).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">DTA curves of both alloys recorded at heating rate of 5<ce:hsp sp="0.25"></ce:hsp>K/min (a, AlCr6Fe2Si1; b, AlCr6Fe2Ti1.5Si1).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Hardness of the powder size 25–45<ce:hsp sp="0.25"></ce:hsp>μm (a) and 45–63<ce:hsp sp="0.25"></ce:hsp>μm (b) vs. annealing time at 350<ce:hsp sp="0.25"></ce:hsp>°C.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+<ce:figure id="fig7">
+<ce:label>Fig. 7</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRD patterns of various powder fractions of the AlCr6Fe2Ti1.5Si1 alloy.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr7"></ce:link>
+</ce:figure>
+<ce:figure id="fig8">
+<ce:label>Fig. 8</ce:label>
+<ce:caption>
+<ce:simple-para view="all">TEM image of an Al<ce:inf loc="post">3</ce:inf>FeSi particle and its diffraction pattern.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr8"></ce:link>
+</ce:figure>
+<ce:figure id="fig9">
+<ce:label>Fig. 9</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRD patterns of various powder fractions of the AlCr6Fe2Si1 alloy.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr9"></ce:link>
+</ce:figure>
+<ce:figure id="fig10">
+<ce:label>Fig. 10</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRD patterns of the AlCr6Fe2Ti1.5Si1 alloy (powder size 25–45<ce:hsp sp="0.25"></ce:hsp>μm) in RS state and after 50 and 1200<ce:hsp sp="0.25"></ce:hsp>h of annealing at 350<ce:hsp sp="0.25"></ce:hsp>°C.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr10"></ce:link>
+</ce:figure>
+<ce:figure id="fig11">
+<ce:label>Fig. 11</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRD patterns of the AlCr6Fe2Ti1.5Si1 alloy (powder size 45–63<ce:hsp sp="0.25"></ce:hsp>μm) in RS state and after 312 and 750<ce:hsp sp="0.25"></ce:hsp>h of annealing at 350<ce:hsp sp="0.25"></ce:hsp>°C.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr11"></ce:link>
+</ce:figure>
+<ce:table colsep="0" frame="topbot" id="tbl1" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Chemical compositions of the investigated powder alloys (in wt.%)</ce:simple-para>
+</ce:caption>
+<tgroup cols="5">
+<colspec colname="1"></colspec>
+<colspec colname="2"></colspec>
+<colspec colname="3"></colspec>
+<colspec colname="4"></colspec>
+<colspec colname="5"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Alloy</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Cr</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Fe</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Si</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">AlCr6Fe2Si1</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">5.70</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.67</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.01</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.95</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">AlCr6Fe2Ti1.5Si1</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">5.55</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.16</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.41</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.81</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl2" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Influence of powder particle size on the phase composition for the AlCr6Fe2Ti1.5Si1 alloy (+, phase is found; −, phase is not found)</ce:simple-para>
+</ce:caption>
+<tgroup cols="5">
+<colspec colname="1"></colspec>
+<colspec colname="2"></colspec>
+<colspec colname="3"></colspec>
+<colspec colname="4"></colspec>
+<colspec colname="5"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" nameend="2" namest="1" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Phase</entry>
+<entry align="left" nameend="5" namest="3" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Powder fraction (μm)</entry>
+</row>
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Formula</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Crystallographic data (nm) <cross-ref refid="bib21">[21]</cross-ref>
+</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">25–45</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">45–63</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">100–125</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Fcc <italic>a</italic> = 0.40494</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">13</inf>Cr<inf loc="post">2</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Monoclinic, <italic>a</italic> = 2.5196, <italic>b</italic> = 0.7574, <italic>c</italic> = 1.0949, <italic>β</italic> = 128.71°</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">13</inf>Fe<inf loc="post">4</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Orthorhombic, <italic>a</italic> = 0.7751, <italic>b</italic> = 0.40336, <italic>c</italic> = 2.3771</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">−</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">−</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">3</inf>FeSi</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Monoclinic, <italic>a</italic> = 1.78, <italic>b</italic> = 1.025, <italic>c</italic> = 0.89, <italic>β</italic> = 132°</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">−</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">−</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">84.6</inf>Cr<inf loc="post">15.4</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Icosahedral</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">−</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">82</inf>Fe<inf loc="post">18</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Icosahedral</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">95</inf>Fe<inf loc="post">4</inf>Cr</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Icosahedral</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">−</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">−</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">74</inf>Cr<inf loc="post">20</inf>Si<inf loc="post">6</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Icosahedral</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">−</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">−</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl3" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Influence of powder particle size on the phase composition for the AlCr6Fe2Si1 alloy (+, phase is found; −, phase is not found)</ce:simple-para>
+</ce:caption>
+<tgroup cols="4">
+<colspec colname="1"></colspec>
+<colspec colname="2"></colspec>
+<colspec colname="3"></colspec>
+<colspec colname="4"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Phase formula</entry>
+<entry align="left" nameend="4" namest="2" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Powder fraction (μm)</entry>
+</row>
+<row>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">25–45</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">45–63</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">100–125</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">13</inf>Cr<inf loc="post">2</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">13</inf>Fe<inf loc="post">4</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">−</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">−</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">82</inf>Fe<inf loc="post">18</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">95</inf>Fe<inf loc="post">4</inf>Cr</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">−</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">−</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">74</inf>Cr<inf loc="post">20</inf>Si<inf loc="post">6</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">−</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">−</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+</ce:floats>
+<ce:title>Structure and properties of rapidly solidified Al–Cr–Fe–Ti–Si powder alloys</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Bártová</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Vojtěch</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="cor1">*</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Verner</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Gemperle</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>V.</ce:given-name>
+<ce:surname>Studnička</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation id="aff1">
+<ce:label>a</ce:label>
+<ce:textfn>Department of Metals, Institute of Chemical Technology in Prague, Technická 5, 166 28 Prague 6, Czech Republic</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff2">
+<ce:label>b</ce:label>
+<ce:textfn>Institute of Physics ASCR, Na Slovance 2, 182 21 Prague 8, Czech Republic</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>*</ce:label>
+<ce:text>Corresponding author. Tel.: +420-2-2435-4290; fax: +420-2-2431-1136.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="18" month="5" year="2004"></ce:date-received>
+<ce:date-revised day="9" month="6" year="2004"></ce:date-revised>
+<ce:date-accepted day="9" month="6" year="2004"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">In the present paper, microstructure, phase composition and elevated temperature behaviour of two rapidly solidified (RS) AlCr6Fe2Ti(0–1.5)Si1 (in wt.%) powder alloys are described. Rapidly solidified powders were composed of α(Al) solid solution matrix and finely dispersed intermetallic phases of spherical or irregular shapes. XRD and TEM investigations revealed the presence of quasi-crystalline icosahedral Al<ce:inf loc="post">84.6</ce:inf>Cr<ce:inf loc="post">15.4</ce:inf>, Al<ce:inf loc="post">82</ce:inf>Fe<ce:inf loc="post">18</ce:inf>, Al<ce:inf loc="post">95</ce:inf>Fe<ce:inf loc="post">4</ce:inf>Cr, Al<ce:inf loc="post">74</ce:inf>Cr<ce:inf loc="post">20</ce:inf>Si<ce:inf loc="post">6</ce:inf> and crystalline Al, Al<ce:inf loc="post">13</ce:inf>Cr<ce:inf loc="post">2</ce:inf>, Al<ce:inf loc="post">13</ce:inf>Fe<ce:inf loc="post">4</ce:inf>, Al<ce:inf loc="post">3</ce:inf>FeSi phases. The fraction of quasi-crystalline phases in the form of spheroids was reduced as the powder particle size increased. The presence of titanium significantly increases the fraction of icosahedral phases. DTA measurement revealed an exothermic reaction at 450–500<ce:hsp sp="0.25"></ce:hsp>°C in the fine powder fraction (size 25–45<ce:hsp sp="0.25"></ce:hsp>μm) of the AlCr6Fe2Ti1.5Si1 alloy. This fraction also exhibited a hardening after annealing at 350<ce:hsp sp="0.25"></ce:hsp>°C/50<ce:hsp sp="0.25"></ce:hsp>h. The hardening, as well as the exothermic effect were due to a decomposition of the icosahedral phases described by the reaction Al<ce:inf loc="post">95</ce:inf>Fe<ce:inf loc="post">4</ce:inf>Cr(Ti, Si) + Al<ce:inf loc="post">84.6</ce:inf>Cr<ce:inf loc="post">15.4</ce:inf>(Ti, Si) + Al<ce:inf loc="post">74</ce:inf>Cr<ce:inf loc="post">20</ce:inf>Si<ce:inf loc="post">6</ce:inf>(Fe, Ti) → Al<ce:inf loc="post">13</ce:inf>Cr<ce:inf loc="post">2</ce:inf> + Al<ce:inf loc="post">3</ce:inf>FeSi + TiSi.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Aluminium-based alloy</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Rapid solidification</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Quasi-crystalline phase</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Powder metallurgy</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Hardening</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">During the past few decades a great effort has been devoted to the research of rapidly solidified (RS) aluminium alloys. Particularly, RS multi-component Al–TM (TM, transition metals) alloys have been studied extensively. The RS Al–TM alloys differ qualitatively from the commercially available Al-based alloys (e.g. Al–Cu–Mg, Al–Zn–Mg–Cu, Al–Si–Mg) showing moderate strength levels (up to 700<ce:hsp sp="0.25"></ce:hsp>MPa) and a low thermal stability. Until the discovery of the great potential of rapid solidification, the Al-based alloys had been considered to progressively approach their limits. RS can be realized by several procedures like melt spinning, melt atomisation, melt spraying, etc. These procedures enable alloying with transition metals in amounts much exceeding their equilibrium solubility in solid aluminium. Any rapidly solidified state is characterised by the following favourable microstructural features: supersaturation of solid solutions, fine-grained structure, amorphous phases either in part or in total volume of RS alloys, and nano-sized crystalline or quasi-crystalline phases <ce:cross-ref refid="bib1">[1]</ce:cross-ref>. After a compaction of the powder of a RS alloy, the semiproduct is obtained. Its properties can be varied in a wide range by changing the chemical composition, atomisation and compaction conditions. High-strength alloys with UTS higher than 1000<ce:hsp sp="0.25"></ce:hsp>MPa (e.g. Al–Ni–Ln) <ce:cross-ref refid="bib1">[1]</ce:cross-ref>, high-ductility alloys (e.g. Al–Mn–Co) <ce:cross-ref refid="bib2">[2]</ce:cross-ref> and enhanced thermal stability alloys (e.g. Al–Fe–Cr–Ti) can be designed <ce:cross-refs refid="bib3 bib4 bib5 bib6 bib7 bib8 bib9 bib10">[3–10]</ce:cross-refs>. Some of the Al–TM based alloys, like Al–Fe–V–Si, Al–Fe–Ce, etc. have already been included into standard alloy systems <ce:cross-ref refid="bib11">[11]</ce:cross-ref>.</ce:para>
+<ce:para view="all">The RS Al–Cr–TM (Fe, Ti, Zr, Mn, etc.) based alloys are representatives of the thermally stable alloys maintaining remarkably high UTS levels at temperatures higher than 300<ce:hsp sp="0.25"></ce:hsp>°C <ce:cross-refs refid="bib3 bib4 bib5 bib6 bib7 bib8 bib9 bib10">[3–10]</ce:cross-refs>. Their increased resistance to elevated temperatures may be attributed to much lower diffusion coefficients of the transition metals in solid aluminium in comparison with diffusion coefficients of common alloying elements like Cu and Mg <ce:cross-ref refid="bib12">[12]</ce:cross-ref>. Chromium exhibits an extended solid solubility (more than 6<ce:hsp sp="0.25"></ce:hsp>at.% compared to equilibrium solubility of 0.2<ce:hsp sp="0.25"></ce:hsp>at.%) in the RS state <ce:cross-ref refid="bib13">[13]</ce:cross-ref>. Hence, precipitation hardening may occur during high temperature compaction and/or during appropriate heat treatment.</ce:para>
+<ce:para view="all">The present work concentrates on rapidly solidified multi-component Al–Cr–Fe–Ti–Si powder alloys. Addition of silicon reduces the diffusion rate of chromium and promotes a hardening response during elevated temperature exposition <ce:cross-ref refid="bib14">[14]</ce:cross-ref>. Moreover, in some alloy systems like, e.g. Al–Fe–V–Si, silicon contributes to an increased strength and creep resistance by the formation of stable silicides <ce:cross-refs refid="bib15 bib16">[15,16]</ce:cross-refs>.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental</ce:section-title>
+<ce:para view="all">The Al–Cr–Fe–Ti–Si alloys were prepared by melting of high purity (99.99%) aluminium with AlCr10, AlFe20, AlTi5 and AlSi30 master alloys in a resistance furnace. Afterwards, the alloys were melted again in an induction furnace in nitrogen atmosphere and then atomised by nitrogen at 450<ce:hsp sp="0.25"></ce:hsp>kPa pressure. Chemical compositions of the produced powders are shown in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+<ce:float-anchor refid="tbl1"></ce:float-anchor>.</ce:para>
+<ce:para view="all">The prepared powders were sieved to separate various granulometric fractions (&lt;25, 25–45, 45–63, 63–100, 100–125 and &gt;125<ce:hsp sp="0.25"></ce:hsp>μm). The fractions of particles smaller than 25<ce:hsp sp="0.25"></ce:hsp>μm and larger than 125<ce:hsp sp="0.25"></ce:hsp>μm were negligible (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor>). Metallographic procedures (mounting, grinding and polishing) were used to characterize the microstructures in RS state. The thermal stability of the powders was checked by long-term (1200<ce:hsp sp="0.25"></ce:hsp>h) annealing at 350<ce:hsp sp="0.25"></ce:hsp>°C and measuring the hardness as a function of exposition time. Solid-state phase transformations were also monitored by DTA (heating rate 5<ce:hsp sp="0.25"></ce:hsp>K/min, standard Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>). In order to determine the phase composition in various stages of thermal exposition, XRD (analyser HUBER with X-ray source RIGAKU RU-300E and rotating anode) and TEM (JEOL JEM 1200 EX, 120<ce:hsp sp="0.25"></ce:hsp>kV) were employed. For TEM investigation, the α(Al) matrix of the powders was dissolved in a mixture containing 10<ce:hsp sp="0.25"></ce:hsp>g of iodine, 250<ce:hsp sp="0.25"></ce:hsp>g of methanol and 25<ce:hsp sp="0.25"></ce:hsp>g of tartaric acid. Extracted coarse intermetallic particles were characterized by electron diffraction.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:section view="all">
+<ce:label>3.1</ce:label>
+<ce:section-title>Microstructure</ce:section-title>
+<ce:para view="all">The microstructures of both alloys AlCr6Fe2Si1 and AlCr6Fe2Ti1.5Si1 are very similar. They comprise particles of intermetallic phases (IPs), which are finely dispersed in the α(Al) matrix. The volume fractions of IPs were measured using an image analyser LUCIA. They form approximately 50% in all granulometric fractions. Segregation-free powder particles were not found even in the microstructures of the finest fractions. All particles contained IPs. The cooling rate was not sufficient to reach a metastable α(Al) liquidus in the peritectic Al–Cr diagram. The IPs rich in Cr and other elements solidify first. Similar results have been reported by Adkins and Tsakiropulos <ce:cross-ref refid="bib7">[7]</ce:cross-ref> who found a segregation-free microstructure only in very small particles of a few μm size. These authors suggested using a lower Cr concentration (below 3<ce:hsp sp="0.25"></ce:hsp>wt.%) to obtain featureless structure.</ce:para>
+<ce:para view="all">A strong dependence of the IPs morphology on the powder particle size was observed. Two microstructures predominate in all powder fractions of both alloys (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor>). The first one denoted by A (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>a) contains uniformly distributed spheroids of IPs. The second microstructure denoted by B (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>b) comprises uniformly distributed irregular particles, which are plate-like, star-like and of others shapes. Other microstructures, e.g. colonies (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>c) or needle-like particles (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>d) were also found. However, they form only a small part of the powders. In <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor> the relative appearance of different microstructures is expressed as a function of powder particle size. The microstructure A containing spheroids occupies the majority of the fine particles (25–45<ce:hsp sp="0.25"></ce:hsp>μm). The coarse particles (100–125<ce:hsp sp="0.25"></ce:hsp>μm) contain mostly irregular IP particles (microstructure B). The finer the powder particle, i.e. the higher the cooling rate, the more IP spheroids are formed. This is valid for both alloys and it will be discussed later in terms of crystallization mechanism.</ce:para>
+<ce:para view="all">In addition to the dominating IP morphology, the powder particle size, i.e. the cooling rate, affects also the average IP particle spacing (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor>). The spacing was measured in the dominating microstructures A and B. A higher cooling rate produces a smaller interparticle spacing. In smaller particles the cooling is more rapid, the undercooling is deeper and a larger number of possible nucleation sites become available. No significant difference between both alloys is observed concerning the interparticle spacings (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>a and b). Unlike in commonly produced Al-based wrought or cast alloys, titanium does not behave as a strong refining agent in the RS Al–Cr based alloys. The refining effect in common casting processes is known to be caused by finely dispersed inoculant particles <ce:cross-ref refid="bib11">[11]</ce:cross-ref>. In a rapid solidification process, the refining could result from a slow diffusivity of Ti in the melt. The formation of clusters of critical size in the melt becomes more difficult during rapid cooling when the slowly diffusing element is added. As a result, a deeper undercooling is achieved which could produce a finer microstructure. However, in our case the refining due to titanium is not observed.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.2</ce:label>
+<ce:section-title>Elevated temperature behaviour</ce:section-title>
+<ce:para view="all">Solid-state phase transformations in various fractions of both alloys were studied by DTA and the results are given in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="fig5"></ce:float-anchor>. In the DTA records of the AlCr6Fe2Si1 alloy (<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>a), no solid state reaction is observed. An almost constant slope in the whole temperature range characterizes the DTA curves. In contrast, the two fine powder fractions (size smaller than 25 and 25–45<ce:hsp sp="0.25"></ce:hsp>μm) of the Ti-containing alloy (<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>b), exhibit an exothermic reaction in the temperature range of 450–500<ce:hsp sp="0.25"></ce:hsp>°C. The heat released in this reaction is higher for the powder size smaller than 25<ce:hsp sp="0.25"></ce:hsp>μm. For fractions with particle size larger than 45<ce:hsp sp="0.25"></ce:hsp>μm, the phase transformation is not detectable by DTA.</ce:para>
+<ce:para view="all">The nature of the phase transformation detected by DTA was revealed by XRD. Two possible solid state reactions may occur in crystalline or quasi-crystalline RS Al–TM based alloys and may explain the observed thermal effects. The first one is the precipitation of IPs from a supersaturated solid solution formed during rapid solidification. This precipitation occurs in a number of Al–TM alloys and is generally detected between 400 and 500<ce:hsp sp="0.25"></ce:hsp>°C. Under isothermal heating conditions, the precipitation may proceed at lower temperatures. The second reaction is a decomposition of a metastable phase different from the solid solution. The metastable phases are either crystalline or quasi-crystalline. The quasi-crystalline phases are sometimes denoted as Q-phases. The icosahedral Q-phases are characterised by quasi-periodic lattice and they have been observed in rapidly solidified Al–Mn <ce:cross-refs refid="bib17 bib18">[17,18]</ce:cross-refs>, Al–Cr <ce:cross-ref refid="bib19">[19]</ce:cross-ref> or Al–V <ce:cross-ref refid="bib20">[20]</ce:cross-ref> alloys. The decomposition of these binary phases to crystalline phases starts at about 400–450<ce:hsp sp="0.25"></ce:hsp>°C. More complex phases of, e.g. Al–Fe–Cr–Ti system may decompose at significantly higher temperatures <ce:cross-ref refid="bib10">[10]</ce:cross-ref>.</ce:para>
+<ce:para view="all">The behaviour of powders at elevated temperatures was followed also by hardness measurement during isothermal annealing at 350<ce:hsp sp="0.25"></ce:hsp>°C. The results for the powder particles of sizes between 25–45 and 45–63<ce:hsp sp="0.25"></ce:hsp>μm are shown in <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="fig6"></ce:float-anchor>. The plot of hardness shows that the highest hardness was measured for the RS state in the case of the AlCr6Fe2Si1 alloy. Annealing up to approximately 300<ce:hsp sp="0.25"></ce:hsp>h leads to a progressive reduction of hardness. Afterwards, the hardness remains almost constant up to 1200<ce:hsp sp="0.25"></ce:hsp>h of annealing. By comparing <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>a and b, it can be seen that the hardness of this alloy practically does not depend on the powder particle size. The behaviour of the Ti-containing alloy is significantly different. An evident hardening of the fine fraction (<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>a) compared to the original RS state was observed already after the first 50<ce:hsp sp="0.25"></ce:hsp>h of annealing. Then the hardness decreases slowly until the end of annealing. For the coarser fraction (<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>b), the hardening response is significantly smaller. The hardness of the Ti-containing alloy (fraction 25–45<ce:hsp sp="0.25"></ce:hsp>μm) remains always higher than that of the alloy without Ti during the whole annealing time. It implies its increased thermal stability. In this work, the term thermal stability denotes the capability of an alloy to maintain a high hardness during a long-term annealing at elevated temperature.</ce:para>
+<ce:para view="all">The phase transformation detected at 450–500<ce:hsp sp="0.25"></ce:hsp>°C by DTA and the transformation accompanied by hardening detected during annealing at 350<ce:hsp sp="0.25"></ce:hsp>°C of the fine powder fraction of the Ti-containing alloy have evidently similar nature. The difference between the two temperatures can be attributed to a thermal hysteresis, which is generally observed when solid-state phase transformations occur under isothermal and anisothermal conditions.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.3</ce:label>
+<ce:section-title>Phase composition</ce:section-title>
+<ce:para view="all">Phase composition of the RS alloys was investigated by XRD and TEM. XRD patterns of various powder fractions of the Ti-containing alloy are shown in <ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+<ce:float-anchor refid="fig7"></ce:float-anchor>. For the coarse fraction (100–125<ce:hsp sp="0.25"></ce:hsp>μm), the XRD measurement was complemented by TEM investigation of the IP particles separated from the α(Al) matrix. Besides the Al<ce:inf loc="post">13</ce:inf>Cr<ce:inf loc="post">2</ce:inf> phase, TEM revealed also the presence of the Al<ce:inf loc="post">3</ce:inf>FeSi phase. <ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>
+<ce:float-anchor refid="fig8"></ce:float-anchor> shows the TEM image of this phase and its diffraction pattern. The Al<ce:inf loc="post">3</ce:inf>FeSi phase was not detected by XRD probably due to its small volume fraction. The phase composition of the AlCr6Fe2Ti1.5Si1 powder alloy is complex and it is summarized in <ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>
+<ce:float-anchor refid="tbl2"></ce:float-anchor>. In addition to the equilibrium crystalline phases (Al, Al<ce:inf loc="post">13</ce:inf>Cr<ce:inf loc="post">2</ce:inf>, Al<ce:inf loc="post">13</ce:inf>Fe<ce:inf loc="post">4</ce:inf> and Al<ce:inf loc="post">3</ce:inf>FeSi), various quasi-crystalline icosahedral phases (Al<ce:inf loc="post">84.6</ce:inf>Cr<ce:inf loc="post">15.4</ce:inf>, Al<ce:inf loc="post">82</ce:inf>Fe<ce:inf loc="post">18</ce:inf>, Al<ce:inf loc="post">95</ce:inf>Fe<ce:inf loc="post">4</ce:inf>Cr and Al<ce:inf loc="post">74</ce:inf>Cr<ce:inf loc="post">20</ce:inf>Si<ce:inf loc="post">6</ce:inf>) were identified in the RS state. Surprisingly, XRD and TEM identified no Ti-containing phase. We assume that titanium is dissolved in the icosahedral phases and, perhaps, in other phases (e.g. α(Al) solid solution). This assumption is in agreement with data reported by Kimura et al. <ce:cross-ref refid="bib4">[4]</ce:cross-ref> who described various ternary Al–Fe–Cr–Ti icosahedral phases. Their results imply that the concentrations of Cr, Ti, Fe and Si in icosahedral phases can vary in a wide range.</ce:para>
+<ce:para view="all">As expected, the probability of the presence of metastable phases grows as the powder particle size decreases. This can be seen from the absence of the three quasi-crystalline phases (Al<ce:inf loc="post">84.6</ce:inf>Cr<ce:inf loc="post">15.4</ce:inf>, Al<ce:inf loc="post">95</ce:inf>Fe<ce:inf loc="post">4</ce:inf>Cr and Al<ce:inf loc="post">74</ce:inf>Cr<ce:inf loc="post">20</ce:inf>Si<ce:inf loc="post">6</ce:inf>) in the coarse fraction, as well as from the absence of the equilibrium Al<ce:inf loc="post">13</ce:inf>Fe<ce:inf loc="post">4</ce:inf> phase in the fine powder fractions. At a high cooling rate, i.e. at a deep supercooling of the melt, the decreased diffusivity of the atoms results in a reduced order of the atoms in the clusters which are sites of future quasi-crystalline nuclei. The observed microstructures, see <ce:cross-refs refid="fig2 fig3">Figs. 2 and 3</ce:cross-refs>, reflect well the changes of phase composition with powder particle size. In fact, the spherical morphology is typical for the quasi-crystalline phase <ce:cross-ref refid="bib2">[2]</ce:cross-ref>, so the spheroids occupy a large volume fraction of the fine powder particles. On the other hand, Fe-containing crystalline phases of irregular shape <ce:cross-ref refid="bib22">[22]</ce:cross-ref> are present mainly in the coarse fraction.</ce:para>
+<ce:para view="all">The phase composition of the other investigated alloy, i.e. AlCr6Fe2Si1, differs from the preceding one, see <ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref>
+<ce:float-anchor refid="fig9"></ce:float-anchor> and <ce:cross-ref refid="tbl3">Table 3</ce:cross-ref>
+<ce:float-anchor refid="tbl3"></ce:float-anchor>. The dominating phases of all powder fractions are Al and Al<ce:inf loc="post">13</ce:inf>Cr<ce:inf loc="post">2</ce:inf>. The coarse fractions contain also the crystalline Al<ce:inf loc="post">13</ce:inf>Fe<ce:inf loc="post">4</ce:inf> phase. The quasi-crystalline phases Al<ce:inf loc="post">82</ce:inf>Fe<ce:inf loc="post">18</ce:inf>, Al<ce:inf loc="post">95</ce:inf>Fe<ce:inf loc="post">4</ce:inf>Cr and Al<ce:inf loc="post">74</ce:inf>Cr<ce:inf loc="post">20</ce:inf>Si<ce:inf loc="post">6</ce:inf> were identified in the RS AlCr6Fe2Si1 alloy. The icosahedral Al<ce:inf loc="post">84.6</ce:inf>Cr<ce:inf loc="post">15.4</ce:inf> phase was not detected in contrast to the Ti-containing alloy. The presence of Ti, as a very slowly diffusing element, increases the volume fraction of quasi-crystalline phases in a powder.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref>
+<ce:float-anchor refid="fig10"></ce:float-anchor> shows the XRD patterns of the AlCr6Fe2Ti1.5Si1 alloy (powder fraction 25–45<ce:hsp sp="0.25"></ce:hsp>μm) in RS state, after 50 and 1200<ce:hsp sp="0.25"></ce:hsp>h of annealing at 350<ce:hsp sp="0.25"></ce:hsp>°C. These samples were investigated in detail to explain the observed hardening (<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>a). The long-term annealing at 350<ce:hsp sp="0.25"></ce:hsp>°C leads to a decomposition of the icosahedral Al<ce:inf loc="post">95</ce:inf>Fe<ce:inf loc="post">4</ce:inf>Cr, Al<ce:inf loc="post">84.6</ce:inf>Cr<ce:inf loc="post">15.4</ce:inf>, Al<ce:inf loc="post">82</ce:inf>Fe<ce:inf loc="post">18</ce:inf> and Al<ce:inf loc="post">74</ce:inf>Cr<ce:inf loc="post">20</ce:inf>Si<ce:inf loc="post">6</ce:inf> phases and formation of the Al<ce:inf loc="post">13</ce:inf>Cr<ce:inf loc="post">2</ce:inf>, Al<ce:inf loc="post">3</ce:inf>FeSi and TiSi phases. In addition, these phases may have partially formed also by decomposition of the supersaturated α(Al) solid solution. However, the negligible deviation of the lattice parameter of the α(Al) solid solution from pure Al indicates that the supersaturation is small. From the XRD patterns it follows that the rate of decomposition of Al<ce:inf loc="post">95</ce:inf>Fe<ce:inf loc="post">4</ce:inf>Cr and Al<ce:inf loc="post">84.6</ce:inf>Cr<ce:inf loc="post">15.4</ce:inf>, is higher than that of Al<ce:inf loc="post">74</ce:inf>Cr<ce:inf loc="post">20</ce:inf>Si<ce:inf loc="post">6</ce:inf> and Al<ce:inf loc="post">82</ce:inf>Fe<ce:inf loc="post">18</ce:inf>. The Al<ce:inf loc="post">95</ce:inf>Fe<ce:inf loc="post">4</ce:inf>Cr and Al<ce:inf loc="post">84.6</ce:inf>Cr<ce:inf loc="post">15.4</ce:inf> phases disappeared during the first 50<ce:hsp sp="0.25"></ce:hsp>h of thermal exposition. The icosahedral phases Al<ce:inf loc="post">74</ce:inf>Cr<ce:inf loc="post">20</ce:inf>Si<ce:inf loc="post">6</ce:inf> and Al<ce:inf loc="post">82</ce:inf>Fe<ce:inf loc="post">18</ce:inf> were detected after further annealing. Although the exact chemical composition of the Al<ce:inf loc="post">82</ce:inf>Fe<ce:inf loc="post">18</ce:inf> icosahedral phase is not given, as it is formed together with Al and Al<ce:inf loc="post">3</ce:inf>Fe in a rapidly solidified Al<ce:inf loc="post">82</ce:inf>Fe<ce:inf loc="post">18</ce:inf> alloy <ce:cross-ref refid="bib23">[23]</ce:cross-ref>, one can assume that this composition is not very far from that of the original alloy. Therefore, the relatively high contents of the slowly diffusing elements Fe and Cr in both the Al<ce:inf loc="post">74</ce:inf>Cr<ce:inf loc="post">20</ce:inf>Si<ce:inf loc="post">6</ce:inf> and the Al<ce:inf loc="post">82</ce:inf>Fe<ce:inf loc="post">18</ce:inf> phase may be the reason for their increased thermal stability.</ce:para>
+<ce:para view="all">The XRD patterns for the coarser fraction (45–63<ce:hsp sp="0.25"></ce:hsp>μm) of the Ti-containing alloy measured after 312 and 750<ce:hsp sp="0.25"></ce:hsp>h of annealing at 350<ce:hsp sp="0.25"></ce:hsp>°C are presented in <ce:cross-ref refid="fig11">Fig. 11</ce:cross-ref>
+<ce:float-anchor refid="fig11"></ce:float-anchor>. Like in the preceding case, the icosahedral Al<ce:inf loc="post">84.6</ce:inf>Cr<ce:inf loc="post">15.4</ce:inf> phase decomposes during annealing whereas the Al<ce:inf loc="post">82</ce:inf>Fe<ce:inf loc="post">18</ce:inf> phase remains even after 750<ce:hsp sp="0.25"></ce:hsp>h of annealing. The products of phase transformations are similar, mainly Al<ce:inf loc="post">13</ce:inf>Cr<ce:inf loc="post">2</ce:inf> and Al<ce:inf loc="post">3</ce:inf>FeSi. The TiSi phase was not detected. These results are in accordance with DTA (<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>) and hardness (<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>) measurements. A low volume fraction of the Al<ce:inf loc="post">84.6</ce:inf>Cr<ce:inf loc="post">15.4</ce:inf> phase in the powder fraction of 45–63<ce:hsp sp="0.25"></ce:hsp>μm is the reason for the much lower thermal effect, as well as for the smaller hardening response.</ce:para>
+<ce:para view="all">The XRD measurements described above and those presented in <ce:cross-refs refid="fig10 fig11">Figs. 10 and 11</ce:cross-refs> reveal the nature of the hardening observed in the fine powder fraction of the Ti-containing alloy at 350<ce:hsp sp="0.25"></ce:hsp>°C (<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>a). The phase transformation that may be considered as the reason for this hardening is expressed by the following single equation:<ce:display>
+<ce:formula>
+<ce:label>(1)</ce:label>
+<mml:math altimg="si1.gif" overflow="scroll">
+<mml:mrow>
+<mml:mtext>A</mml:mtext>
+<mml:msub>
+<mml:mtext>l</mml:mtext>
+<mml:mrow>
+<mml:mn>95</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mtext>F</mml:mtext>
+<mml:msub>
+<mml:mtext>e</mml:mtext>
+<mml:mn>4</mml:mn>
+</mml:msub>
+<mml:mtext>Cr</mml:mtext>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>Ti</mml:mtext>
+<mml:mo>,</mml:mo>
+<mml:mtext>Si</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>+</mml:mo>
+<mml:mtext>A</mml:mtext>
+<mml:msub>
+<mml:mtext>l</mml:mtext>
+<mml:mrow>
+<mml:mn>84.6</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mtext>C</mml:mtext>
+<mml:msub>
+<mml:mtext>r</mml:mtext>
+<mml:mrow>
+<mml:mn>15.4</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>Ti</mml:mtext>
+<mml:mo>,</mml:mo>
+<mml:mtext>Si</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>+</mml:mo>
+<mml:mtext>A</mml:mtext>
+<mml:msub>
+<mml:mtext>l</mml:mtext>
+<mml:mrow>
+<mml:mn>74</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mtext>C</mml:mtext>
+<mml:msub>
+<mml:mtext>r</mml:mtext>
+<mml:mrow>
+<mml:mn>20</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mtext>S</mml:mtext>
+<mml:msub>
+<mml:mtext>i</mml:mtext>
+<mml:mn>6</mml:mn>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>Fe</mml:mtext>
+<mml:mo>,</mml:mo>
+<mml:mtext>Ti</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>→</mml:mo>
+<mml:mtext>A</mml:mtext>
+<mml:msub>
+<mml:mtext>l</mml:mtext>
+<mml:mrow>
+<mml:mn>13</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mtext>C</mml:mtext>
+<mml:msub>
+<mml:mtext>r</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:mo>+</mml:mo>
+<mml:mtext>A</mml:mtext>
+<mml:msub>
+<mml:mtext>l</mml:mtext>
+<mml:mn>3</mml:mn>
+</mml:msub>
+<mml:mtext>FeSi</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:mtext>TiSi</mml:mtext>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>
+</ce:para>
+<ce:para view="all">The icosahedral phases are generally hard, as dislocation movement is suppressed in a quasi-periodic lattice <ce:cross-ref refid="bib10">[10]</ce:cross-ref>. The maximum hardness is achieved when a structure contains the highest density of phase boundaries between the original phases and the products of their decomposition. This state probably corresponds to 50<ce:hsp sp="0.25"></ce:hsp>h of annealing at 350<ce:hsp sp="0.25"></ce:hsp>°C. Upon further annealing, the decomposition products coarsen and the hardness becomes reduced. Despite the relatively small content of Si in the alloy, the main part of hardening can be expected to result from the TiSi silicide particles, which are finely dispersed due to the low diffusivity of Ti in solid Al. In fact, silicides contribute significantly also to hardening of other RS Al–TM–Si alloys, e.g. Al–Fe–V–Si <ce:cross-refs refid="bib15 bib16">[15,16]</ce:cross-refs>.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.4</ce:label>
+<ce:section-title>Summary</ce:section-title>
+<ce:para view="all">The results presented in this paper can be summarized as follows:<ce:list>
+<ce:list-item>
+<ce:label>1.</ce:label>
+<ce:para view="all">The microstructures of the RS powders of the investigated Al–Cr–Fe–Ti–Si alloys are composed of the α(Al) solid solution matrix and dispersed intermetallic phases of spherical or irregular shapes. The volume fraction of the spheroids grows as the powder particle size decreases.</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>2.</ce:label>
+<ce:para view="all">The fine powder fraction (25–45<ce:hsp sp="0.25"></ce:hsp>μm) of the AlCr6Fe2Ti1.5Si1 alloy exhibits an exothermic reaction at 450–500<ce:hsp sp="0.25"></ce:hsp>°C. The hardness measurement of this powder fraction reveals a hardening after 350<ce:hsp sp="0.25"></ce:hsp>°C/50<ce:hsp sp="0.25"></ce:hsp>h annealing. Neither hardening nor thermal effect is observed for the AlCr6Fe2Si1 alloy.</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>3.</ce:label>
+<ce:para view="all">XRD and TEM investigations of the RS Al–Cr–Fe–Ti–Si alloys reveal the presence of quasi-crystalline icosahedral Al<ce:inf loc="post">84.6</ce:inf>Cr<ce:inf loc="post">15.4</ce:inf>, Al<ce:inf loc="post">82</ce:inf>Fe<ce:inf loc="post">18</ce:inf>, Al<ce:inf loc="post">95</ce:inf>Fe<ce:inf loc="post">4</ce:inf>Cr, Al<ce:inf loc="post">74</ce:inf>Cr<ce:inf loc="post">20</ce:inf>Si<ce:inf loc="post">6</ce:inf> and crystalline Al, Al<ce:inf loc="post">13</ce:inf>Cr<ce:inf loc="post">2</ce:inf>, Al<ce:inf loc="post">13</ce:inf>Fe<ce:inf loc="post">4</ce:inf>, Al<ce:inf loc="post">3</ce:inf>FeSi phases. The number and volume fraction of the quasi-crystalline phases decrease, as the powder particle size increases and as the titanium content decreases.</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>4.</ce:label>
+<ce:para view="all">During annealing of the Ti-containing alloy at 350<ce:hsp sp="0.25"></ce:hsp>°C, the icosahedral phases decompose, according to the following equation:<ce:display>
+<ce:formula>
+<mml:math altimg="si2.gif" overflow="scroll">
+<mml:mrow>
+<mml:mtext>A</mml:mtext>
+<mml:msub>
+<mml:mtext>l</mml:mtext>
+<mml:mrow>
+<mml:mn>95</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mtext>F</mml:mtext>
+<mml:msub>
+<mml:mtext>e</mml:mtext>
+<mml:mn>4</mml:mn>
+</mml:msub>
+<mml:mtext>Cr</mml:mtext>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>Ti</mml:mtext>
+<mml:mo>,</mml:mo>
+<mml:mtext>Si</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>+</mml:mo>
+<mml:mtext>A</mml:mtext>
+<mml:msub>
+<mml:mtext>l</mml:mtext>
+<mml:mrow>
+<mml:mn>84.6</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mtext>C</mml:mtext>
+<mml:msub>
+<mml:mtext>r</mml:mtext>
+<mml:mrow>
+<mml:mn>15.4</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>Ti</mml:mtext>
+<mml:mo>,</mml:mo>
+<mml:mtext>Si</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>+</mml:mo>
+<mml:mtext>A</mml:mtext>
+<mml:msub>
+<mml:mtext>l</mml:mtext>
+<mml:mrow>
+<mml:mn>74</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mtext>C</mml:mtext>
+<mml:msub>
+<mml:mtext>r</mml:mtext>
+<mml:mrow>
+<mml:mn>20</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mtext>S</mml:mtext>
+<mml:msub>
+<mml:mtext>i</mml:mtext>
+<mml:mn>6</mml:mn>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>Fe</mml:mtext>
+<mml:mo>,</mml:mo>
+<mml:mtext>Ti</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>→</mml:mo>
+<mml:mtext>A</mml:mtext>
+<mml:msub>
+<mml:mtext>l</mml:mtext>
+<mml:mrow>
+<mml:mn>13</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mtext>C</mml:mtext>
+<mml:msub>
+<mml:mtext>r</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:mo>+</mml:mo>
+<mml:mtext>A</mml:mtext>
+<mml:msub>
+<mml:mtext>l</mml:mtext>
+<mml:mn>3</mml:mn>
+</mml:msub>
+<mml:mtext>FeSi</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:mtext>TiSi</mml:mtext>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>This decomposition is responsible for the hardening (350<ce:hsp sp="0.25"></ce:hsp>°C/50<ce:hsp sp="0.25"></ce:hsp>h) and for the exothermic effect monitored by DTA.</ce:para>
+</ce:list-item>
+</ce:list>
+</ce:para>
+</ce:section>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgements</ce:section-title>
+<ce:para view="all">The research on rapidly solidified Al-based alloys was financially supported by the research project MSM 223100002 and also by the Grant Agency of the Czech Republic (project number: 106/00/0571).</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Kimura</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Light Met.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>1</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>31</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Kimura</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>286</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Kimura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>294–296</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>727</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Kimura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Sasamori</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>294–296</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>168</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Kawamura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Takagi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Imura</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Trans. JIM</sb:maintitle>
+</sb:title>
+<sb:volume-nr>40</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>392</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Kawamura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Takagi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Ohta</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Imura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Masumoto</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scripta Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>40</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1131</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>N.J.E.</ce:given-name>
+<ce:surname>Adkins</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Tsakiropulos</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Technol. Ser.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>7</sb:volume-nr>
+</sb:series>
+<sb:date>1991</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>334</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>N.J.E.</ce:given-name>
+<ce:surname>Adkins</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Tsakiropulos</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Technol. Ser.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>7</sb:volume-nr>
+</sb:series>
+<sb:date>1991</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>419</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Kawamura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.B.</ce:given-name>
+<ce:surname>Liu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Masumoto</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scripta Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>37</sb:volume-nr>
+</sb:series>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>205</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Kimura</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Nanostruct. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>11</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>221</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<ce:other-ref>
+<ce:textref>ASM Specialty Handbook, Aluminium and Aluminium Alloys, ASM International, 1993.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>L.F.</ce:given-name>
+<ce:surname>Mondolfo</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Aluminium Alloys: Structure and Properties</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1976</sb:date>
+<sb:publisher>
+<sb:name>Butterworth &amp; Co</sb:name>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Warlimont</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Zingg</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Furrer</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>23</sb:volume-nr>
+</sb:series>
+<sb:date>1976</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>101</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.K.</ce:given-name>
+<ce:surname>Banerjee</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>32</sb:volume-nr>
+</sb:series>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>6645</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Carreno</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>O.A.</ce:given-name>
+<ce:surname>Ruano</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Technol. Ser.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>14</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>322</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib16">
+<ce:label>[16]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>U.</ce:given-name>
+<ce:surname>Prakash</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Raghu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.A.</ce:given-name>
+<ce:surname>Gokhale</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.V.</ce:given-name>
+<ce:surname>Kamat</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>34</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>5061</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib17">
+<ce:label>[17]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Shechtman</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Blech</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Gratias</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.W.</ce:given-name>
+<ce:surname>Cahn</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Phys. Rev. Lett.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>53</sb:volume-nr>
+</sb:series>
+<sb:date>1984</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1951</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib18">
+<ce:label>[18]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Masumoto</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Oguchi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Fukamichi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Hiraga</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Hirabayashi</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Trans. JIM</sb:maintitle>
+</sb:title>
+<sb:volume-nr>27</sb:volume-nr>
+</sb:series>
+<sb:date>1986</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>81</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib19">
+<ce:label>[19]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Kimura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Masumoto</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>22</sb:volume-nr>
+</sb:series>
+<sb:date>1987</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1864</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib20">
+<ce:label>[20]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Arnberg</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Lehtinen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Oguchi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Masumoto</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Met. Trans. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>17</sb:volume-nr>
+</sb:series>
+<sb:date>1986</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1657</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib21">
+<ce:label>[21]</ce:label>
+<ce:other-ref>
+<ce:textref>Powder Diffraction Files-2 (ICDD PDF-2, Release 2000).</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib22">
+<ce:label>[22]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Vojtech</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Maixner</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Hejdova</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Barta</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Barta</ce:surname>
+<ce:suffix>Jr.</ce:suffix>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Kovove Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>39</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>149</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib23">
+<ce:label>[23]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>E.S.R.</ce:given-name>
+<ce:surname>Gopal</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Baranidharan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.A.</ce:given-name>
+<ce:surname>Sekhar</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>99</sb:volume-nr>
+</sb:series>
+<sb:date>1988</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>413</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

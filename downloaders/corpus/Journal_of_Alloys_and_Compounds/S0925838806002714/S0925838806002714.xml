@@ -1,0 +1,2263 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838806002714</prism:url><dc:identifier>doi:10.1016/j.jallcom.2006.02.067</dc:identifier><eid>1-s2.0-S0925838806002714</eid><prism:doi>10.1016/j.jallcom.2006.02.067</prism:doi><pii>S0925-8388(06)00271-4</pii><dc:title>Effect of annealing temperature on surface morphology and mechanical properties of sputter-deposited Ti–Ni thin films </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>427</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>238</prism:startingpage><prism:endingpage>243</prism:endingpage><prism:pagerange>238-243</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2007-01-16</prism:coverdate><prism:coverdisplaydate>16 January 2007</prism:coverdisplaydate><prism:copyright>Copyright © 2006 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Zhang, Lei</dc:creator><dc:creator>Xie, Chaoying</dc:creator><dc:creator>Wu, Jiansheng</dc:creator><dc:description>
+                  51.39at.%Ti–48.61at.%Ni thin films were prepared by magnetron sputtering and post-annealed at 450, 500, 550 and 600°C, respectively. Crystallization kinetics of as-deposited Ti–Ni thin films was analyzed using differential scanning calorimetry (DSC). The evolution of structure, surface roughness and mechanical properties of Ti–Ni thin film annealed at different temperature were investigated by X-ray diffactometer (XRD), atomic force microscope (AFM) and nanoindention test. The results show that amorphous Ti–Ni thin films were crystallized at 506.3°C with 18.6J/g reaction enthalpy. As annealing temperature increased from 450 to 500°C, crystallization degree of Ti–Ni thin film rose and surface roughness increased as well. As for Ti–Ni thin film annealed above 500°C, Ti2Ni phase precipitated and surface roughness first increased and then decreased with increasing annealing temperature. Moreover, amorphous Ti–Ni thin films are softer than crystalline ones. Microhardness and Young's modulus of crystalline Ti–Ni thin films increased with increasing annealing temperature.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Crystallization kinetics</dcterms:subject><dcterms:subject>TiNi thin films</dcterms:subject><dcterms:subject>Surface roughness</dcterms:subject><dcterms:subject>Mechanical properties</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838806002714" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838806002714" rel="scidir"/></coredata><objects><object category="thumbnail" height="40" mimetype="image/gif" multimediatype="GIF image file" ref="si4" size="1251" type="ALTIMG" width="320">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002714-si4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="19" mimetype="image/gif" multimediatype="GIF image file" ref="si3" size="1190" type="ALTIMG" width="374">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002714-si3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="13" mimetype="image/gif" multimediatype="GIF image file" ref="si2" size="140" type="ALTIMG" width="14">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002714-si2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="49" mimetype="image/gif" multimediatype="GIF image file" ref="si1" size="966" type="ALTIMG" width="171">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002714-si1.gif?httpAccept=%2A%2F%2A</object><object category="standard" height="297" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="30260" type="IMAGE-DOWNSAMPLED" width="373">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002714-gr4.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="1456" type="IMAGE-THUMBNAIL" width="117">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002714-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="536" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="137160" type="IMAGE-DOWNSAMPLED" width="676">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002714-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="4090" type="IMAGE-THUMBNAIL" width="118">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002714-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="587" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr6" size="66680" type="IMAGE-DOWNSAMPLED" width="378">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002714-gr6.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="1103" type="IMAGE-THUMBNAIL" width="60">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002714-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="905" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr5" size="175547" type="IMAGE-DOWNSAMPLED" width="757">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002714-gr5.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="1178" type="IMAGE-THUMBNAIL" width="78">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002714-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="291" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="28412" type="IMAGE-DOWNSAMPLED" width="380">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002714-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="1526" type="IMAGE-THUMBNAIL" width="122">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002714-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="287" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="40006" type="IMAGE-DOWNSAMPLED" width="380">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002714-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="2414" type="IMAGE-THUMBNAIL" width="124">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002714-gr2.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>35548971325</scopus-id><scopus-eid>2-s2.0-35548971325</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/35548971325" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20060418">2006-04-18</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20060418">2006-04-18</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-03-29T20:46:52</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838806002714</xocs:eid>
+<xocs:pii-formatted>S0925-8388(06)00271-4</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838806002714</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2006.02.067</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838806X02657</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.326594-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20070116</xocs:date-search-begin>
+<xocs:year-nav>2007</xocs:year-nav>
+<xocs:indexeddate epoch="1145318400">2006-04-18T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>427</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>427</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 427, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>47</xocs:sort-order>
+<xocs:first-fp>238</xocs:first-fp>
+<xocs:last-lp>243</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>238</xocs:first-page>
+<xocs:last-page>243</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20070116</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>16 January 2007</xocs:cover-date-text>
+<xocs:cover-date-start>2007-01-16</xocs:cover-date-start>
+<xocs:cover-date-year>2007</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Materials Science</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2006 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>EFFECTANNEALINGTEMPERATURESURFACEMORPHOLOGYMECHANICALPROPERTIESSPUTTERDEPOSITEDTINITHINFILMS</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>ZHANG</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>L</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental procedure</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>DSC and XRD analyses</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>AFM surface morphology investigation</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Nanoindentation measurement</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>FU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>395</xocs:ref-first-fp>
+<xocs:ref-last-lp>408</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>FU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>107</xocs:ref-first-fp>
+<xocs:ref-last-lp>112</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>WINZEK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>40</xocs:ref-first-fp>
+<xocs:ref-last-lp>46</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>MIYAZAKI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>106</xocs:ref-first-fp>
+<xocs:ref-last-lp>133</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>1146</xocs:ref-first-fp>
+<xocs:ref-last-lp>1148</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>SURBLED</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>52</xocs:ref-first-fp>
+<xocs:ref-last-lp>59</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>CHANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>191</xocs:ref-first-fp>
+<xocs:ref-last-lp>219</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>GISSER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1992</xocs:ref-pub-year>
+<xocs:ref-first-fp>1632</xocs:ref-first-fp>
+<xocs:ref-last-lp>1634</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>VESTEL</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>5309</xocs:ref-first-fp>
+<xocs:ref-last-lp>5318</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10"></xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>ISHIDA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>381</xocs:ref-first-fp>
+<xocs:ref-last-lp>386</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>MATERIALSRESEARCHSOCIETYSYMPOSIUMPROCEEDINGSVOL360</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>WOOLMAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>230</xocs:ref-first-fp>
+<xocs:ref-last-lp>238</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>PROCEEDINGSSPIEVOL5053</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13">
+<xocs:ref-normalized-surname>ESPINOSA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>47</xocs:ref-first-fp>
+<xocs:ref-last-lp>67</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>ZHOU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>175</xocs:ref-first-fp>
+<xocs:ref-last-lp>180</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15">
+<xocs:ref-normalized-surname>ISHIDA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>337</xocs:ref-first-fp>
+<xocs:ref-last-lp>339</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib16">
+<xocs:ref-normalized-surname>ISHIDA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>754</xocs:ref-first-fp>
+<xocs:ref-last-lp>757</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib17">
+<xocs:ref-normalized-surname>HUANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>314</xocs:ref-first-fp>
+<xocs:ref-last-lp>317</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib18">
+<xocs:ref-normalized-surname>FU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>236</xocs:ref-first-fp>
+<xocs:ref-last-lp>244</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib19">
+<xocs:ref-normalized-surname>MOYNE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>727</xocs:ref-first-fp>
+<xocs:ref-last-lp>732</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib20">
+<xocs:ref-normalized-surname>POILANE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>156</xocs:ref-first-fp>
+<xocs:ref-last-lp>165</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib21">
+<xocs:ref-normalized-surname>SPEARING</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>179</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib22">
+<xocs:ref-normalized-surname>HUANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>492</xocs:ref-first-fp>
+<xocs:ref-last-lp>495</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib23">
+<xocs:ref-normalized-surname>TANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>507</xocs:ref-first-fp>
+<xocs:ref-last-lp>511</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib24">
+<xocs:ref-normalized-surname>HE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>977</xocs:ref-first-fp>
+<xocs:ref-last-lp>982</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib25">
+<xocs:ref-normalized-surname>SHAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>176</xocs:ref-first-fp>
+<xocs:ref-last-lp>181</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib26">
+<xocs:ref-normalized-surname>ZHOU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>165</xocs:ref-first-fp>
+<xocs:ref-last-lp>170</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib27">
+<xocs:ref-normalized-surname>CAVALEIRO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>211</xocs:ref-first-fp>
+<xocs:ref-last-lp>218</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib28">
+<xocs:ref-normalized-surname>CAVALEIRO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>944</xocs:ref-first-fp>
+<xocs:ref-last-lp>948</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib29">
+<xocs:ref-normalized-surname>HAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>899</xocs:ref-first-fp>
+<xocs:ref-last-lp>903</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib30">
+<xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>052204</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib31">
+<xocs:ref-normalized-surname>SO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1987</xocs:ref-pub-year>
+<xocs:ref-first-fp>507</xocs:ref-first-fp>
+<xocs:ref-last-lp>520</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib32">
+<xocs:ref-normalized-surname>CHANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>233</xocs:ref-first-fp>
+<xocs:ref-last-lp>243</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib33">
+<xocs:ref-normalized-surname>TRINDADE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>802</xocs:ref-first-fp>
+<xocs:ref-last-lp>805</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib34">
+<xocs:ref-normalized-surname>SOIFER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>846</xocs:ref-first-fp>
+<xocs:ref-last-lp>847</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>ZHANGX2007X238</xocs:refkey3>
+<xocs:refkey4lp>ZHANGX2007X238X243</xocs:refkey4lp>
+<xocs:refkey4ai>ZHANGX2007X238XL</xocs:refkey4ai>
+<xocs:refkey5>ZHANGX2007X238X243XL</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(06)00271-4</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838806002714</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838806002714</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2006.02.067</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-09-19T15:05:18.831339-04:00</xocs:timestamp>
+<xocs:cover-date-start>2007-01-16</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838806002714-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002714/MAIN/application/pdf/6a2fc0f1a3c0732f46b266f7f991c8ad/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002714/MAIN/application/pdf/6a2fc0f1a3c0732f46b266f7f991c8ad/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>917082</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838806002714-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002714/PREVIEW/image/png/c6c7d06069730877622d8e2f2bce8047/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002714/PREVIEW/image/png/c6c7d06069730877622d8e2f2bce8047/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>69245</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002714-si4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002714/STRIPIN/image/gif/84674eafc870532af4f4f56374580b7b/si4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002714/STRIPIN/image/gif/84674eafc870532af4f4f56374580b7b/si4.gif</xocs:ucs-locator>
+<xocs:file-basename>si4</xocs:file-basename>
+<xocs:filename>si4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1251</xocs:filesize>
+<xocs:pixel-height>40</xocs:pixel-height>
+<xocs:pixel-width>320</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002714-si3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002714/STRIPIN/image/gif/57492499770f52f3a2c7fbba527bc821/si3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002714/STRIPIN/image/gif/57492499770f52f3a2c7fbba527bc821/si3.gif</xocs:ucs-locator>
+<xocs:file-basename>si3</xocs:file-basename>
+<xocs:filename>si3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1190</xocs:filesize>
+<xocs:pixel-height>19</xocs:pixel-height>
+<xocs:pixel-width>374</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002714-si2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002714/STRIPIN/image/gif/08a654f17e478d0eb8c97503225f7793/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002714/STRIPIN/image/gif/08a654f17e478d0eb8c97503225f7793/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si2</xocs:file-basename>
+<xocs:filename>si2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>140</xocs:filesize>
+<xocs:pixel-height>13</xocs:pixel-height>
+<xocs:pixel-width>14</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002714-si1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002714/STRIPIN/image/gif/5630a414e5827ee4c0b9190011f84857/si1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002714/STRIPIN/image/gif/5630a414e5827ee4c0b9190011f84857/si1.gif</xocs:ucs-locator>
+<xocs:file-basename>si1</xocs:file-basename>
+<xocs:filename>si1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>966</xocs:filesize>
+<xocs:pixel-height>49</xocs:pixel-height>
+<xocs:pixel-width>171</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002714-gr4.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002714/gr4/DOWNSAMPLED/image/jpeg/9fcb9f0036fcf82ca0a85ae04fc0c6e1/gr4.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002714/gr4/DOWNSAMPLED/image/jpeg/9fcb9f0036fcf82ca0a85ae04fc0c6e1/gr4.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>30260</xocs:filesize>
+<xocs:pixel-height>297</xocs:pixel-height>
+<xocs:pixel-width>373</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002714-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002714/gr4/THUMBNAIL/image/gif/97b982302c0c42f4d41130e3a69b6ef4/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002714/gr4/THUMBNAIL/image/gif/97b982302c0c42f4d41130e3a69b6ef4/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1456</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>117</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002714-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002714/gr3/DOWNSAMPLED/image/jpeg/31489f2f63281acbf5edad2bb0b0bc4d/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002714/gr3/DOWNSAMPLED/image/jpeg/31489f2f63281acbf5edad2bb0b0bc4d/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>137160</xocs:filesize>
+<xocs:pixel-height>536</xocs:pixel-height>
+<xocs:pixel-width>676</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002714-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002714/gr3/THUMBNAIL/image/gif/a618edc4d3cdb4908d35dc01912ab085/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002714/gr3/THUMBNAIL/image/gif/a618edc4d3cdb4908d35dc01912ab085/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>4090</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>118</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002714-gr6.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002714/gr6/DOWNSAMPLED/image/jpeg/16c4181a10384cfeadd23e5b93461a71/gr6.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002714/gr6/DOWNSAMPLED/image/jpeg/16c4181a10384cfeadd23e5b93461a71/gr6.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>66680</xocs:filesize>
+<xocs:pixel-height>587</xocs:pixel-height>
+<xocs:pixel-width>378</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002714-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002714/gr6/THUMBNAIL/image/gif/27bb393c9267272fa7ab1ecb6f07d539/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002714/gr6/THUMBNAIL/image/gif/27bb393c9267272fa7ab1ecb6f07d539/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1103</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>60</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002714-gr5.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002714/gr5/DOWNSAMPLED/image/jpeg/184464d9ecd8cb041246e0cca48eeca9/gr5.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002714/gr5/DOWNSAMPLED/image/jpeg/184464d9ecd8cb041246e0cca48eeca9/gr5.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>175547</xocs:filesize>
+<xocs:pixel-height>905</xocs:pixel-height>
+<xocs:pixel-width>757</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002714-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002714/gr5/THUMBNAIL/image/gif/3f0140dcea1b6bcef652c5d34a163cbd/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002714/gr5/THUMBNAIL/image/gif/3f0140dcea1b6bcef652c5d34a163cbd/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1178</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>78</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002714-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002714/gr1/DOWNSAMPLED/image/jpeg/26fccef636e05cf072e84d564a798700/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002714/gr1/DOWNSAMPLED/image/jpeg/26fccef636e05cf072e84d564a798700/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>28412</xocs:filesize>
+<xocs:pixel-height>291</xocs:pixel-height>
+<xocs:pixel-width>380</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002714-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002714/gr1/THUMBNAIL/image/gif/407b8ccf849c2b3097552c7063443cf1/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002714/gr1/THUMBNAIL/image/gif/407b8ccf849c2b3097552c7063443cf1/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1526</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>122</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002714-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002714/gr2/DOWNSAMPLED/image/jpeg/07730c1a3382ebd41624c589647f0365/gr2.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002714/gr2/DOWNSAMPLED/image/jpeg/07730c1a3382ebd41624c589647f0365/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>40006</xocs:filesize>
+<xocs:pixel-height>287</xocs:pixel-height>
+<xocs:pixel-width>380</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002714-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002714/gr2/THUMBNAIL/image/gif/7a8d159adea4bce6075489ec93b7966d/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002714/gr2/THUMBNAIL/image/gif/7a8d159adea4bce6075489ec93b7966d/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2414</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>124</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>13757</aid>
+<ce:pii>S0925-8388(06)00271-4</ce:pii>
+<ce:doi>10.1016/j.jallcom.2006.02.067</ce:doi>
+<ce:copyright type="full-transfer" year="2006">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">A DSC thermogram for as-deposited Ti–Ni thin film specimen.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Room temperature XRD patterns of Ti–Ni thin film (a) as-deposited and (b–e) annealed for 1<ce:hsp sp="0.25"></ce:hsp>h at (b) 450<ce:hsp sp="0.25"></ce:hsp>°C, (c) 500<ce:hsp sp="0.25"></ce:hsp>°C, (d) 550<ce:hsp sp="0.25"></ce:hsp>°C and (e) 600<ce:hsp sp="0.25"></ce:hsp>°C.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">3D AFM images of Ti–Ni thin films (a) as-deposited and (b–e) annealed for 1<ce:hsp sp="0.25"></ce:hsp>h at (b) 450<ce:hsp sp="0.25"></ce:hsp>°C, (c) 500<ce:hsp sp="0.25"></ce:hsp>°C, (d) 550<ce:hsp sp="0.25"></ce:hsp>°C and (e) 600<ce:hsp sp="0.25"></ce:hsp>°C.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Evolution of <ce:italic>R</ce:italic>
+<ce:inf loc="post">q</ce:inf> values of Ti–Ni thin films with annealing temperature. The dot line indicates the <ce:italic>R</ce:italic>
+<ce:inf loc="post">q</ce:inf> value of as-deposited Ti–Ni thin films.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Representative nanoindentation load–displacement curves for Ti–Ni thin films (a) as-deposited and (b–e) annealed for 1<ce:hsp sp="0.25"></ce:hsp>h at (b) 450<ce:hsp sp="0.25"></ce:hsp>°C, (c) 500<ce:hsp sp="0.25"></ce:hsp>°C, (d) 550<ce:hsp sp="0.25"></ce:hsp>°C and (e) 600<ce:hsp sp="0.25"></ce:hsp>°C.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Load dependence of (a) microhardness, (b) Young's modulus for as-deposited and annealed Ti–Ni thin films for 1<ce:hsp sp="0.25"></ce:hsp>h at 450, 500, 550 and 600<ce:hsp sp="0.25"></ce:hsp>°C, respectively.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+</ce:floats>
+<ce:title>Effect of annealing temperature on surface morphology and mechanical properties of sputter-deposited Ti–Ni thin films</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>Lei</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+<ce:cross-ref refid="cor1">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Chaoying</ce:given-name>
+<ce:surname>Xie</ce:surname>
+</ce:author>
+<ce:author>
+<ce:given-name>Jiansheng</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</ce:author>
+<ce:affiliation>
+<ce:textfn>Key Laboratory of Education Ministry for High Temperature Materials and Tests, School of Materials Science and Engineering, Shanghai Jiao Tong University, Shanghai 200030, China</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>⁎</ce:label>
+<ce:text>Corresponding author. Tel.: +86 21 6293 2440; fax: +86 21 6293 2587.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="10" month="1" year="2006"></ce:date-received>
+<ce:date-accepted day="27" month="2" year="2006"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">51.39<ce:hsp sp="0.25"></ce:hsp>at.%Ti–48.61<ce:hsp sp="0.25"></ce:hsp>at.%Ni thin films were prepared by magnetron sputtering and post-annealed at 450, 500, 550 and 600<ce:hsp sp="0.25"></ce:hsp>°C, respectively. Crystallization kinetics of as-deposited Ti–Ni thin films was analyzed using differential scanning calorimetry (DSC). The evolution of structure, surface roughness and mechanical properties of Ti–Ni thin film annealed at different temperature were investigated by X-ray diffactometer (XRD), atomic force microscope (AFM) and nanoindention test. The results show that amorphous Ti–Ni thin films were crystallized at 506.3<ce:hsp sp="0.25"></ce:hsp>°C with 18.6<ce:hsp sp="0.25"></ce:hsp>J/g reaction enthalpy. As annealing temperature increased from 450 to 500<ce:hsp sp="0.25"></ce:hsp>°C, crystallization degree of Ti–Ni thin film rose and surface roughness increased as well. As for Ti–Ni thin film annealed above 500<ce:hsp sp="0.25"></ce:hsp>°C, Ti<ce:inf loc="post">2</ce:inf>Ni phase precipitated and surface roughness first increased and then decreased with increasing annealing temperature. Moreover, amorphous Ti–Ni thin films are softer than crystalline ones. Microhardness and Young's modulus of crystalline Ti–Ni thin films increased with increasing annealing temperature.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Crystallization kinetics</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>TiNi thin films</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Surface roughness</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Mechanical properties</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">In recent decade, Ti–Ni thin films have attracted much attention as intelligent and functional materials for the fabrication of micro-electro-mechanical systems (MEMS) microactuators. Near equiatomic Ti–Ni thin films can generate large output work and display high frequency responses during thermal cycle in virtue of their unique shape memory effect (SME) <ce:cross-refs refid="bib1 bib2">[1,2]</ce:cross-refs>. Magnetron sputtering technique is a MEMS-compatible deposition method, which has been widely used to fabricate Ti–Ni thin films <ce:cross-ref refid="bib3">[3]</ce:cross-ref>. It is noted that Ti–Ni thin films sputter-deposited at ambient temperature are often amorphous, thus require post-sputtering crystallizing at elevated temperature to obtain the desired shape memory property <ce:cross-refs refid="bib4 bib5">[4,5]</ce:cross-refs>.</ce:para>
+<ce:para view="all">It is presently recognized that amorphous Ti–Ni thin films crystallize above 450<ce:hsp sp="0.25"></ce:hsp>°C. Preliminary studies suggest that the crystallization temperature and corresponding reaction enthalpy are concerned with the composition <ce:cross-refs refid="bib6 bib7">[6,7]</ce:cross-refs> and substrate <ce:cross-ref refid="bib8">[8]</ce:cross-ref> of sputter-deposited Ti–Ni thin films. Meanwhile the structural evolution and precipitation during crystallization process of Ti–Ni thin films were also investigated <ce:cross-refs refid="bib5 bib8 bib9">[5,8,9]</ce:cross-refs>. Since the crystallization process is a procedure of grains nucleation and growth at elevated temperature, it is inferred that annealing temperature and time will influence the structure and property of Ti–Ni thin films. As for Ti-rich Ti–Ni thin films, the sensitivity of microstructure to annealing temperature was demonstrated by Kawamura et al. <ce:cross-ref refid="bib10">[10]</ce:cross-ref>. The link between annealing temperature and transformation temperature of sputtered Ti-rich and Ni-rich Ti–Ni thin film was reported by Ishida <ce:cross-ref refid="bib11">[11]</ce:cross-ref> and Woolman <ce:cross-ref refid="bib12">[12]</ce:cross-ref>, respectively. Nevertheless, it is noticed that the effect of annealing temperature on the mechanical property of Ti–Ni thin film has not been investigated to the present.</ce:para>
+<ce:para view="all">In MEMS, mechanical property of materials has an important role on the performance of devices. Characterization of the mechanical properties of MEMS materials has been an active research area during the recent years <ce:cross-refs refid="bib13 bib14">[13,14]</ce:cross-refs>. Ishida et al. first evaluated the mechanical properties, including yield stress, elongation <ce:cross-ref refid="bib15">[15]</ce:cross-ref> and ductility <ce:cross-ref refid="bib16">[16]</ce:cross-ref> of sputter-deposited Ti–Ni thin films. Besides Fu et al. presented their researches on residual stress of sputter-deposited Ti–Ni thin films <ce:cross-refs refid="bib17 bib18">[17,18]</ce:cross-refs>. However, to our best knowledge, few researches were reported on microhardness and Young's modulus of sputter-deposited Ti–Ni thin films <ce:cross-refs refid="bib19 bib20">[19,20]</ce:cross-refs>, which are also important mechanical parameters for their application in MEMS <ce:cross-ref refid="bib21">[21]</ce:cross-ref>. In present paper, we studied the evolution of microhardness and Young's modulus of sputtered-deposited Ti–Ni thin film annealed at different temperatures. The effects of annealing temperature on the structure and surface morphology of Ti–Ni thin film were also investigated.</ce:para>
+</ce:section>
+<ce:section role="materials-methods" view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental procedure</ce:section-title>
+<ce:para view="all">Ti–Ni thin films were deposited onto glass substrates in a carrousel type magnetron sputtering apparatus at an ambient temperature. Pure Ti chips with total sputtering area 10<ce:hsp sp="0.25"></ce:hsp>mm<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>10<ce:hsp sp="0.25"></ce:hsp>mm were put on a 51<ce:hsp sp="0.25"></ce:hsp>at.%Ti–Ni alloy target to compensate Ti content of as-sputtered Ti–Ni thin film. The target holder was rotated at 10<ce:hsp sp="0.25"></ce:hsp>rpm during sputtering to guarantee the homogeneity of composition. The base pressure was lower than 5.0<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>10<ce:sup loc="post">−3</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>mTorr and a presputtering of 30<ce:hsp sp="0.25"></ce:hsp>min was performed. The argon pressure was set to 0.5<ce:hsp sp="0.25"></ce:hsp>Pa and the RF power was 300<ce:hsp sp="0.25"></ce:hsp>W. With this set of parameters, the deposition rate of Ti–Ni thin films is 500<ce:hsp sp="0.25"></ce:hsp>nm/h. As-deposited Ti–Ni thin films were post-annealed to obtain crystalline specimens at various temperatures for1<ce:hsp sp="0.25"></ce:hsp>h in a vacuum with a base pressure of 10<ce:sup loc="post">−4</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>Pa. The annealing temperatures were 450, 500, 550 and 600<ce:hsp sp="0.25"></ce:hsp>°C, respectively.</ce:para>
+<ce:para view="all">The thickness of sputtered Ti–Ni thin film specimens prepared for the experiment is 4.0<ce:hsp sp="0.25"></ce:hsp>μm, as checked with an ALPHA-STEP500 Surface Profilometer. Energy dispersive X-ray analysis (EDXA) was used to analyze the chemical composition of the specimens, with the result of 51.39<ce:hsp sp="0.25"></ce:hsp>at.%Ti and 48.61<ce:hsp sp="0.25"></ce:hsp>at.%Ni. Calorimetric data during crystallization of as-deposited thin films were determined by a differential scanning calorimetry (DSC, CDR-TA) instrument at a heating rate of 40<ce:hsp sp="0.25"></ce:hsp>K<ce:hsp sp="0.25"></ce:hsp>min<ce:sup loc="post">−1</ce:sup> in a protective gas Ar. X-ray diffraction diffactometer (XRD, D/MAX 2550) and atomic force microscope (AFM, Multimode NanoscopeIIIa) were, respectively, employed to analyze the structure and the surface morphology of Ti–Ni thin film specimens.</ce:para>
+<ce:para view="all">Mechanical properties of Ti–Ni thin film specimens were investigated by nanoindention test on a Nanoindentor (NHT 06-0140), with a diamond Berkovich type indenter tip forced into the tested specimen under continuous conditions. The entire indentation procedure is performed with a well-controlled force <ce:italic>F</ce:italic> while continuously monitoring and measuring the displacement <ce:italic>h</ce:italic> of the indenter. Such procedure provides an estimation of the microhardness and the Young's modulus of the specimen.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:section view="all">
+<ce:label>3.1</ce:label>
+<ce:section-title>DSC and XRD analyses</ce:section-title>
+<ce:para view="all">
+<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor> shows a DSC thermogram for as-deposited Ti–Ni thin film specimen. The heat flow as a function of temperature reveals the crystallization process of amorphous Ti–Ni thin film upon heating. Based on the exothermic peak temperature of DSC curve, it is inferred that as-deposited Ti–Ni thin film specimen is crystallized at 506.3<ce:hsp sp="0.25"></ce:hsp>°C. The corresponding reaction enthalpy is 18.6<ce:hsp sp="0.25"></ce:hsp>J/g.</ce:para>
+<ce:para view="all">Room temperature XRD patterns of Ti–Ni thin film specimens are displayed in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor>. As for as-deposited films, there is only a broad peak around 2<ce:italic>θ</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>42.5°, which suggests an amorphous structure (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>(a)). The intensities of the broad peak increase and a few crystalline peaks seemingly appear at 2<ce:italic>θ</ce:italic> range from 42.5° to 45°, as shown in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>(b). This feature indicates that Ti–Ni thin films exhibited partial crystallization features after annealing for 1<ce:hsp sp="0.25"></ce:hsp>h at 450<ce:hsp sp="0.25"></ce:hsp>°C. While annealed at 500<ce:hsp sp="0.25"></ce:hsp>°C, Ti–Ni thin films were completely crystallized. According to <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>(c), three obvious diffraction peaks at 2<ce:italic>θ</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>43.8°, 44.3° and 44.8°, respectively, correspond to (0<ce:hsp sp="0.25"></ce:hsp>0<ce:hsp sp="0.25"></ce:hsp>2), (1<ce:hsp sp="0.25"></ce:hsp>1<ce:hsp sp="0.25"></ce:hsp>1) and (0<ce:hsp sp="0.25"></ce:hsp>2<ce:hsp sp="0.25"></ce:hsp>1) lattice orientations of martensite B19’ structure of Ti–Ni thin films. When annealing temperature is above 500<ce:hsp sp="0.25"></ce:hsp>°C, the diffraction peaks of Ti<ce:inf loc="post">2</ce:inf>Ni phases appear, implying nonequilibrium precipitation reactions during crystallization of Ti–Ni thin films. Simultaneously the intensities of B19’ peak increase gradually as annealing temperature rises from 500 to 600<ce:hsp sp="0.25"></ce:hsp>°C (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>(d and e)).</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.2</ce:label>
+<ce:section-title>AFM surface morphology investigation</ce:section-title>
+<ce:para view="all">
+<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor> depicts typical three-dimensional representations (5<ce:hsp sp="0.25"></ce:hsp>μm<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>5<ce:hsp sp="0.25"></ce:hsp>μm surface morphology by AFM) of Ti–Ni thin films before and after annealing. The as-deposited Ti–Ni thin films presented a smooth surface texture consisting of particles fused together (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>(a)). While Ti–Ni thin films were annealed at 450<ce:hsp sp="0.25"></ce:hsp>°C for 1<ce:hsp sp="0.25"></ce:hsp>h, columnar structures grew independently or jointly, building up high mountains and deep valleys on the surface (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>(b)). As annealing temperature increased, the density and height of columnar structures increased as well. The boundaries of the regions in different height were clearly visible on the surface of Ti–Ni films annealed above 450<ce:hsp sp="0.25"></ce:hsp>°C (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>(c–e)). The formation and development of columnar structures is attributed to the grain nucleation and growth during the crystallization process of as-deposited Ti–Ni thin films <ce:cross-refs refid="bib22 bib23">[22,23]</ce:cross-refs>.</ce:para>
+<ce:para view="all">Based on standard deviation of the data from AFM images, the root mean square (rms) roughness <ce:italic>R</ce:italic>
+<ce:inf loc="post">q</ce:inf> of the specimens quantitatively identify the surface roughness of Ti–Ni thin film. <ce:italic>R</ce:italic>
+<ce:inf loc="post">q</ce:inf> of <ce:italic>Z</ce:italic> values (where <ce:italic>Z</ce:italic> represents the height of points) within the given area of 25<ce:hsp sp="0.25"></ce:hsp>μm<ce:sup loc="post">2</ce:sup> (based on 5<ce:hsp sp="0.25"></ce:hsp>μm<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>5<ce:hsp sp="0.25"></ce:hsp>μm scan images of the specimen) is calculated by the following equation:<ce:display>
+<ce:formula>
+<mml:math altimg="si1.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>R</mml:mi>
+<mml:mtext>q</mml:mtext>
+</mml:msub>
+<mml:mo>=</mml:mo>
+<mml:msqrt>
+<mml:mrow>
+<mml:mfrac>
+<mml:mrow>
+<mml:msubsup>
+<mml:mo>∑</mml:mo>
+<mml:mrow>
+<mml:mi>n</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+<mml:mi>N</mml:mi>
+</mml:msubsup>
+<mml:mrow>
+<mml:msup>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>Z</mml:mi>
+<mml:mi>n</mml:mi>
+<mml:mo>−</mml:mo>
+<mml:mover accent="true">
+<mml:mi>Z</mml:mi>
+<mml:mo stretchy="true">¯</mml:mo>
+</mml:mover>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:msup>
+</mml:mrow>
+</mml:mrow>
+<mml:mrow>
+<mml:mi>N</mml:mi>
+<mml:mo>−</mml:mo>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+</mml:mfrac>
+</mml:mrow>
+</mml:msqrt>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>where <ce:italic>Z</ce:italic>
+<ce:inf loc="post">
+<ce:italic>n</ce:italic>
+</ce:inf> represents the height of a surface point (signed as <ce:italic>n</ce:italic>), <mml:math altimg="si2.gif" overflow="scroll">
+<mml:mrow>
+<mml:mover accent="true">
+<mml:mi>Z</mml:mi>
+<mml:mo stretchy="true">¯</mml:mo>
+</mml:mover>
+</mml:mrow>
+</mml:math> equal to the mean height of <ce:italic>Z</ce:italic>
+<ce:inf loc="post">
+<ce:italic>n</ce:italic>
+</ce:inf> in AFM topography and <ce:italic>N</ce:italic> is the number of the data. <ce:italic>R</ce:italic>
+<ce:inf loc="post">q</ce:inf> values of as-deposited and annealed Ti–Ni thin film for 1<ce:hsp sp="0.25"></ce:hsp>h at different temperatures are displayed in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor>. It is clear that crystalline films are much rougher than amorphous ones, which has been proved by Fu and co-workers <ce:cross-ref refid="bib24">[24]</ce:cross-ref>. As mentioned above, the crystallization of as-deposited Ti–Ni thin films is the process of generation and development of columnar structures. Such process induces the formation of regions in different height on the surface. Consequently as annealing temperature rose from 450 to 550<ce:hsp sp="0.25"></ce:hsp>°C, surface roughness of Ti–Ni films increased due to the increasing columnar structures shown in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>(b–d). It is noted that <ce:italic>R</ce:italic>
+<ce:inf loc="post">q</ce:inf> value of Ti–Ni thin film crystallized at 600<ce:hsp sp="0.25"></ce:hsp>°C is less than that of Ti–Ni thin film crystallized at 550<ce:hsp sp="0.25"></ce:hsp>°C. This feature can also be attributed to the development of columnar structures throughout the crystallization process. When crystallization temperature was raised from 550 to 600<ce:hsp sp="0.25"></ce:hsp>°C, the density of columnar structures increased dramatically, as shown in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>(d and e). In this case, the coalescence of large groups of columnar structures decreased the altitude difference of regions on the surface <ce:cross-ref refid="bib22">[22]</ce:cross-ref>. Therefore, Ti–Ni thin films crystallized at 600<ce:hsp sp="0.25"></ce:hsp>°C tended to be more smooth and homogeneous.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.3</ce:label>
+<ce:section-title>Nanoindentation measurement</ce:section-title>
+<ce:para view="all">
+<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="fig5"></ce:float-anchor> presents representative nanoindentation load–displacement curves for as-deposited and annealed Ti–Ni thin films at a load of 5, 10, 20<ce:hsp sp="0.25"></ce:hsp>mN, respectively. The load–displacement experiments were repeated at five independent locations on the surface of the film. In order to prevent the influence of the substrate, the maximum penetration depth was determined to be less than 400<ce:hsp sp="0.25"></ce:hsp>nm, 10% of the film thickness. It was seen that all the data points were almost identical and therefore averaged to determine the mechanical properties of the specimens.</ce:para>
+<ce:para view="all">The loading part of nanoindentation load–displacement curve is a combination of elastic and plastic deformation, while the unloading part is mainly the process of elastic deformation <ce:cross-ref refid="bib25">[25]</ce:cross-ref>. Based on the load–displacement curves, respectively, shown in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>(a–e), it is found that when as-deposited Ti–Ni thin films annealed, the maximum penetration depth <ce:italic>h</ce:italic>
+<ce:inf loc="post">max</ce:inf> at the same load decreased, while the restored depth <ce:italic>h</ce:italic>
+<ce:inf loc="post">r</ce:inf> during unloading process increased. Moreover, with the increase of annealing temperature from 450 to 600<ce:hsp sp="0.25"></ce:hsp>°C, <ce:italic>h</ce:italic>
+<ce:inf loc="post">max</ce:inf> increased and <ce:italic>h</ce:italic>
+<ce:inf loc="post">r</ce:inf> decreased gradually on the condition of the same load force.</ce:para>
+<ce:para view="all">Based on analysis of load–displacement curves, Young's modulus <ce:italic>E</ce:italic> and microhardness <ce:italic>H</ce:italic> of Ti–Ni thin films are deduced by the following equations <ce:cross-ref refid="bib19">[19]</ce:cross-ref>,<ce:display>
+<ce:formula>
+<mml:math altimg="si3.gif" overflow="scroll">
+<mml:mrow>
+<mml:mi>H</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mi>F</mml:mi>
+<mml:mo>/</mml:mo>
+<mml:mi>A</mml:mi>
+<mml:mi> </mml:mi>
+<mml:mtext>with</mml:mtext>
+<mml:mi> </mml:mi>
+<mml:mi>A</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>24.56</mml:mn>
+<mml:msubsup>
+<mml:mi>h</mml:mi>
+<mml:mtext>c</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msubsup>
+<mml:mi> </mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>for</mml:mtext>
+<mml:mi> </mml:mi>
+<mml:mtext>Berkovich</mml:mtext>
+<mml:mi> </mml:mi>
+<mml:mtext>type</mml:mtext>
+<mml:mi> </mml:mi>
+<mml:mtext>indenter</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>
+<ce:display>
+<ce:formula>
+<mml:math altimg="si4.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>E</mml:mi>
+<mml:mtext>r</mml:mtext>
+</mml:msub>
+<mml:mo>=</mml:mo>
+<mml:mfrac>
+<mml:mn>1</mml:mn>
+<mml:mn>2</mml:mn>
+</mml:mfrac>
+<mml:msqrt>
+<mml:mrow>
+<mml:mfrac>
+<mml:mi>π</mml:mi>
+<mml:mi>A</mml:mi>
+</mml:mfrac>
+</mml:mrow>
+</mml:msqrt>
+<mml:mfrac>
+<mml:mrow>
+<mml:mtext>d</mml:mtext>
+<mml:mi>F</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>d</mml:mtext>
+<mml:msub>
+<mml:mi>h</mml:mi>
+<mml:mtext>c</mml:mtext>
+</mml:msub>
+</mml:mrow>
+</mml:mfrac>
+<mml:mi> </mml:mi>
+<mml:mtext>and</mml:mtext>
+<mml:mi> </mml:mi>
+<mml:mfrac>
+<mml:mn>1</mml:mn>
+<mml:mrow>
+<mml:msub>
+<mml:mi>E</mml:mi>
+<mml:mtext>r</mml:mtext>
+</mml:msub>
+</mml:mrow>
+</mml:mfrac>
+<mml:mo>=</mml:mo>
+<mml:mfrac>
+<mml:mrow>
+<mml:mn>1</mml:mn>
+<mml:mo>−</mml:mo>
+<mml:msup>
+<mml:mi>ν</mml:mi>
+<mml:mn>2</mml:mn>
+</mml:msup>
+</mml:mrow>
+<mml:mi>E</mml:mi>
+</mml:mfrac>
+<mml:mo>+</mml:mo>
+<mml:mfrac>
+<mml:mrow>
+<mml:mn>1</mml:mn>
+<mml:mo>−</mml:mo>
+<mml:msubsup>
+<mml:mi>ν</mml:mi>
+<mml:mstyle mathvariant="normal">
+<mml:mi>ι</mml:mi>
+</mml:mstyle>
+<mml:mn>2</mml:mn>
+</mml:msubsup>
+</mml:mrow>
+<mml:mrow>
+<mml:msub>
+<mml:mi>E</mml:mi>
+<mml:mtext>i</mml:mtext>
+</mml:msub>
+</mml:mrow>
+</mml:mfrac>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>where <ce:italic>A</ce:italic> is the protected contact area, <ce:italic>h</ce:italic>
+<ce:inf loc="post">c</ce:inf> the contact depth, d<ce:italic>F</ce:italic>/d<ce:italic>h</ce:italic>
+<ce:inf loc="post">c</ce:inf> the initial slope of the unloading curve, <ce:italic>E</ce:italic>
+<ce:inf loc="post">r</ce:inf> a composite modulus of the indenter <ce:italic>E</ce:italic>
+<ce:inf loc="post">i</ce:inf> and the specimen material <ce:italic>E</ce:italic>. <ce:italic>ν</ce:italic>
+<ce:inf loc="post">ι</ce:inf> and <ce:italic>ν</ce:italic> are the Poisson ratio for the indenter and the material, respectively.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="fig6"></ce:float-anchor> shows load dependence of microhardness, Young's modulus for as-deposited and annealed Ti–Ni thin films for 1<ce:hsp sp="0.25"></ce:hsp>h at 450, 500, 550 and 600<ce:hsp sp="0.25"></ce:hsp>°C, respectively. It is apparent that as for all the thin film specimens, the evolution of microhardness and Young's modulus with the varying load force was seemingly small, which confirmed that the influence of the substrate on the microhardness and Young's modulus measurement in this study could be negligible <ce:cross-ref refid="bib26">[26]</ce:cross-ref>. <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>(a) indicates that amorphous Ti–Ni thin films were softer than crystalline ones. This tendency was already observed in sputtered hard thin films, such as W–Si–N <ce:cross-ref refid="bib27">[27]</ce:cross-ref>, W–Ni–N <ce:cross-ref refid="bib28">[28]</ce:cross-ref>, B–C <ce:cross-ref refid="bib29">[29]</ce:cross-ref> and some bulk metallic glass (BMG) materials <ce:cross-ref refid="bib30">[30]</ce:cross-ref>. It is probably due to the low compressive stress state and disorder structure of amorphous materials <ce:cross-refs refid="bib27 bib31">[27,31]</ce:cross-refs>. Therefore, when annealing temperature rose from 450 to 500<ce:hsp sp="0.25"></ce:hsp>°C, microhardness of Ti–Ni thin films increased with increasing crystallization degree, as analyzed by XRD. While annealing temperature raised from 500 to 600<ce:hsp sp="0.25"></ce:hsp>°C, the increment in microhardness can be attributed to the precipitation of Ti<ce:inf loc="post">2</ce:inf>Ni phase, which improves the resistance against plastic deformation of crystalline Ti–Ni thin films <ce:cross-refs refid="bib32 bib33">[32,33]</ce:cross-refs>. The increase of microhardness with rising annealing temperature can also be explained by the effect of the columnar structure, which grew on the surface of crystalline Ti–Ni thin films and increased with the rise of annealing temperature, as investigated by AFM. Such effect has also exhibited in rf-sputtered Cr–B hard thin films <ce:cross-ref refid="bib26">[26]</ce:cross-ref> and HTS YBCO thin films <ce:cross-ref refid="bib34">[34]</ce:cross-ref>.</ce:para>
+<ce:para view="all">With respect to the Young's modulus, the values calculated from load–displacement curves of Ti–Ni thin film specimens were related to the microhardness values. Microhardness increase, Young's modulus increased and vice versa, which is the universal rule for various films <ce:cross-refs refid="bib28 bib29">[28,29]</ce:cross-refs>. The deviance of a few data on the Young's modulus curve shown in <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>(b) may be induced by the error in calculation.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">In this study, as-deposited thin films of 51.39<ce:hsp sp="0.25"></ce:hsp>at.%Ti and 48.61<ce:hsp sp="0.25"></ce:hsp>at.%Ni were amorphous and crystallized at 506.3<ce:hsp sp="0.25"></ce:hsp>°C with 18.6<ce:hsp sp="0.25"></ce:hsp>J/g reaction enthalpy. With increasing annealing temperature from 450 to 500<ce:hsp sp="0.25"></ce:hsp>°C, crystallization degree of Ti–Ni thin film rose and surface roughness increased as well. As for Ti–Ni thin film annealed above 500<ce:hsp sp="0.25"></ce:hsp>°C, Ti<ce:inf loc="post">2</ce:inf>Ni phase precipitated and surface roughness first increased and then decreased with the increase of annealing temperature. Amorphous Ti–Ni thin films are softer than crystalline ones. Microhardness and Young's modulus of crystalline Ti–Ni thin films increased with the rising annealing temperature from 450 to 600<ce:hsp sp="0.25"></ce:hsp>°C.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgements</ce:section-title>
+<ce:para view="all">Financial support from the Science and Technology Development Foundation of Shanghai (No. 02DJ14042) and Specialized Scientific Research for Doctor Subject in Colleges and Universities (No. 20020248037) are gratefully acknowledged.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.Q.</ce:given-name>
+<ce:surname>Fu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Du</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Huang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Hu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Sens. Actuators A-Phys.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>112</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>395</sb:first-page>
+<sb:last-page>408</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.Q.</ce:given-name>
+<ce:surname>Fu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Huang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Du</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.</ce:given-name>
+<ce:surname>Huang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Tan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.</ce:given-name>
+<ce:surname>Gao</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Surf. Coat. Technol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>145</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>107</sb:first-page>
+<sb:last-page>112</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Winzek</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Schmitz</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Rumpf</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Sterzl</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Hassdorf</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Thienhaus</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Feydt</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Moske</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Quandt</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>378</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>40</sb:first-page>
+<sb:last-page>46</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Miyazaki</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Ishida</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>273–275</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>106</sb:first-page>
+<sb:last-page>133</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.-J.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.G.</ce:given-name>
+<ce:surname>Ramirez</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>85</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1146</sb:first-page>
+<sb:last-page>1148</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Surbled</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Clerc</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Le Pioufle</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Ataka</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Fujita</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Thin Solid Films</sb:maintitle>
+</sb:title>
+<sb:volume-nr>401</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>52</sb:first-page>
+<sb:last-page>59</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Chang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.S.</ce:given-name>
+<ce:surname>Grummon</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Philos. Mag. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>76</sb:volume-nr>
+</sb:series>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>191</sb:first-page>
+<sb:last-page>219</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.R.C.</ce:given-name>
+<ce:surname>Gisser</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.D.</ce:given-name>
+<ce:surname>Busch</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.D.</ce:given-name>
+<ce:surname>Johnson</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.B.</ce:given-name>
+<ce:surname>Ellis</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>61</sb:volume-nr>
+</sb:series>
+<sb:date>1992</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1632</sb:first-page>
+<sb:last-page>1634</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.J.</ce:given-name>
+<ce:surname>Vestel</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.S.</ce:given-name>
+<ce:surname>Grummon</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Gronsky</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.P.</ce:given-name>
+<ce:surname>Pisano</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>51</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>5309</sb:first-page>
+<sb:last-page>5318</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<ce:other-ref>
+<ce:textref>Y. Kawamura, A. Gyobu, H. Horikawa, T. Saburi, J. Phys (France) IV 5 (1995) C8–683.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Ishida</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Takei</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Sato</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Nomura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Miyazaki</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:title>
+<sb:maintitle>Materials Research Society Symposium—Proceedings, vol. 360</sb:maintitle>
+</sb:title>
+<sb:date>1995</sb:date>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>381</sb:first-page>
+<sb:last-page>386</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.L.</ce:given-name>
+<ce:surname>Woolman</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.P.</ce:given-name>
+<ce:surname>Mohanchandra</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.P.</ce:given-name>
+<ce:surname>Carman</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:title>
+<sb:maintitle>Proceedings of SPIE, vol. 5053</sb:maintitle>
+</sb:title>
+<sb:date>2003</sb:date>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>230</sb:first-page>
+<sb:last-page>238</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.D.</ce:given-name>
+<ce:surname>Espinosa</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.C.</ce:given-name>
+<ce:surname>Prorok</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Fischer</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mech. Phys. Solids</sb:maintitle>
+</sb:title>
+<sb:volume-nr>51</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>47</sb:first-page>
+<sb:last-page>67</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Zhou</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.-S.</ce:given-name>
+<ce:surname>Yang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.-A.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.-F.</ce:given-name>
+<ce:surname>Ding</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Ding</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.-J.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.-M.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Thin Solid Films</sb:maintitle>
+</sb:title>
+<sb:volume-nr>460</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>175</sb:first-page>
+<sb:last-page>180</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Ishida</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Takei</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Sato</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Miyazaki</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Thin Solid Films</sb:maintitle>
+</sb:title>
+<sb:volume-nr>281–282</sb:volume-nr>
+</sb:series>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>337</sb:first-page>
+<sb:last-page>339</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib16">
+<ce:label>[16]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Ishida</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Sato</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Miyazaki</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>273–275</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>754</sb:first-page>
+<sb:last-page>757</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib17">
+<ce:label>[17]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>X.</ce:given-name>
+<ce:surname>Huang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Liu</ce:given-name>
+<ce:surname>Y.</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>352</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>314</sb:first-page>
+<sb:last-page>317</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib18">
+<ce:label>[18]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.Q.</ce:given-name>
+<ce:surname>Fu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Du</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>342</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>236</sb:first-page>
+<sb:last-page>244</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib19">
+<ce:label>[19]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Moyne</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Poilane</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Kitamura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Miyazaki</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Delobelle</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Lexcellent</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>273–275</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>727</sb:first-page>
+<sb:last-page>732</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib20">
+<ce:label>[20]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Poilane</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Delobelle</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Lexcellent</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Hayashi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Tobushi</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Thin Solid Films</sb:maintitle>
+</sb:title>
+<sb:volume-nr>379</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>156</sb:first-page>
+<sb:last-page>165</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib21">
+<ce:label>[21]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.M.</ce:given-name>
+<ce:surname>Spearing</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>48</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>179</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib22">
+<ce:label>[22]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.-W.</ce:given-name>
+<ce:surname>Huang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.-Y.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.-W.</ce:given-name>
+<ce:surname>Hsieh</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.-H.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Cryst. Growth</sb:maintitle>
+</sb:title>
+<sb:volume-nr>237–239</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>492</sb:first-page>
+<sb:last-page>495</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib23">
+<ce:label>[23]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>X.G.</ce:given-name>
+<ce:surname>Tang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.R.</ce:given-name>
+<ce:surname>Zeng</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.L.</ce:given-name>
+<ce:surname>Ding</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.S.</ce:given-name>
+<ce:surname>Qiu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.G.</ce:given-name>
+<ce:surname>Luo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.Q.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Mo</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Solid State Commun.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>116</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>507</sb:first-page>
+<sb:last-page>511</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib24">
+<ce:label>[24]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Q.</ce:given-name>
+<ce:surname>He</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.M.</ce:given-name>
+<ce:surname>Huang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.H.</ce:given-name>
+<ce:surname>Hong</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.J.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.Q.</ce:given-name>
+<ce:surname>Fu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.C.</ce:given-name>
+<ce:surname>Chong</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Chellet</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.J.</ce:given-name>
+<ce:surname>Du</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Smart Mater. Struct.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>13</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>977</sb:first-page>
+<sb:last-page>982</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib25">
+<ce:label>[25]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Shan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.K.</ce:given-name>
+<ce:surname>Sitaraman</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Thin Solid Films</sb:maintitle>
+</sb:title>
+<sb:volume-nr>437</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>176</sb:first-page>
+<sb:last-page>181</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib26">
+<ce:label>[26]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Zhou</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Nose</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Makino</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Nogi</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Thin Solid Films</sb:maintitle>
+</sb:title>
+<sb:volume-nr>359</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>165</sb:first-page>
+<sb:last-page>170</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib27">
+<ce:label>[27]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Cavaleiro</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Louro</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Vacuum</sb:maintitle>
+</sb:title>
+<sb:volume-nr>64</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>211</sb:first-page>
+<sb:last-page>218</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib28">
+<ce:label>[28]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Cavaleiro</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Trindade</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.T.</ce:given-name>
+<ce:surname>Vieira</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Surf. Coat. Technol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>116–119</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>944</sb:first-page>
+<sb:last-page>948</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib29">
+<ce:label>[29]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Han</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Tian</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Gu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Lett.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>57</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>899</sb:first-page>
+<sb:last-page>903</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib30">
+<ce:label>[30]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.H.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.L.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.X.</ce:given-name>
+<ce:surname>Pan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.J.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Phys. Rev. B</sb:maintitle>
+</sb:title>
+<sb:volume-nr>63</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>052204</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib31">
+<ce:label>[31]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>F.C.T.</ce:given-name>
+<ce:surname>So</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Kolawa</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.A.</ce:given-name>
+<ce:surname>Zhao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.A.</ce:given-name>
+<ce:surname>Nicolet</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Thin Solid Films</sb:maintitle>
+</sb:title>
+<sb:volume-nr>153</sb:volume-nr>
+</sb:series>
+<sb:date>1987</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>507</sb:first-page>
+<sb:last-page>520</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib32">
+<ce:label>[32]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.-C.</ce:given-name>
+<ce:surname>Chang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.-G.</ce:given-name>
+<ce:surname>Duh</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.-I.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Surf. Coat. Technol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>139</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>233</sb:first-page>
+<sb:last-page>243</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib33">
+<ce:label>[33]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Trindade</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.T.</ce:given-name>
+<ce:surname>Vierira</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Bauer-Grosse</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Surf. Coat. Technol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>74–75</sb:volume-nr>
+</sb:series>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>802</sb:first-page>
+<sb:last-page>805</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib34">
+<ce:label>[34]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.M.</ce:given-name>
+<ce:surname>Soifer</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Verdyan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Lapsker</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Azoulay</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Physica C</sb:maintitle>
+</sb:title>
+<sb:volume-nr>408–410</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>846</sb:first-page>
+<sb:last-page>847</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

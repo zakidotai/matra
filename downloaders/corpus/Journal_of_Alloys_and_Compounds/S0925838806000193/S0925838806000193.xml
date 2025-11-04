@@ -1,0 +1,1637 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838806000193</prism:url><dc:identifier>doi:10.1016/j.jallcom.2005.12.086</dc:identifier><eid>1-s2.0-S0925838806000193</eid><prism:doi>10.1016/j.jallcom.2005.12.086</prism:doi><pii>S0925-8388(06)00019-3</pii><dc:title>Combustion synthesis of TiN–TiB2 composites in Ti/BN/N2 and Ti/BN/B reaction systems </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>424</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>152</prism:startingpage><prism:endingpage>158</prism:endingpage><prism:pagerange>152-158</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2006-11-09</prism:coverdate><prism:coverdisplaydate>9 November 2006</prism:coverdisplaydate><prism:copyright>Copyright © 2006 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Yeh, C.L.</dc:creator><dc:creator>Teng, G.S.</dc:creator><dc:description>
+                  An experimental study on in situ formation of TiN–TiB2 composites with a wide range of compositions by self-propagating high-temperature synthesis (SHS) was conducted in two reaction systems. Combustion of sample compacts made up of titanium (Ti) and boron nitride (BN) powders was initiated under nitrogen pressure for the synthesis of composites with TiN contents of 75–87.5mol%. Experiments with reactant compacts from the Ti–BN–B powder blends were performed in argon (Ar) for the preparation of composites with 50–75mol% of TiB2. Self-sustained reactions featuring a distinct combustion front were observed in both systems. Due to the involvement of solid and gaseous reagents in the former reaction system, sample porosity and dilution by TiN made a significant impact on the degree of nitridation. On the contrary, combustion synthesis in the latter test configuration was essentially governed by the reaction between solid constituents. Experimental results show direct formation of a composite with 75mol% TiN in nitrogen of 1.48MPa from an undiluted compact of 2Ti+BN at 60% TMD. For the preparation of composites with TiN contents as high as 83 and 87.5mol%, complete conversion was achieved by 60% TMD TiN-diluted samples with starting compositions of 2.5Ti+BN+0.5TiN and 3Ti+BN+TiN, respectively, at 1.14MPa of nitrogen. Through the use of elemental boron as one of the reactants along with the implementation of SHS reactions in Ar, TiN–TiB2 composites with TiB2 mole fractions of 50–75% were obtained from the Ti–BN–B powder compacts at different stoichiometries. In addition, complete conversion was also observed on a 1.5Ti+BN compact which yielded the composite with a molar ratio TiN/TiB2
+                     =67/33 under an Ar environment.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>TiN–TiB2 composite</dcterms:subject><dcterms:subject>SHS</dcterms:subject><dcterms:subject>BN</dcterms:subject><dcterms:subject>Dilution</dcterms:subject><dcterms:subject>Flame-front velocity</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838806000193" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838806000193" rel="scidir"/></coredata><objects><object category="standard" height="277" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="18505" type="IMAGE-DOWNSAMPLED" width="378">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000193-gr4.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="92" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="2221" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000193-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="267" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr5" size="19266" type="IMAGE-DOWNSAMPLED" width="379">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000193-gr5.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="88" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="2266" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000193-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="617" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="233500" type="IMAGE-DOWNSAMPLED" width="715">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000193-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="5847" type="IMAGE-THUMBNAIL" width="108">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000193-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="276" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="19072" type="IMAGE-DOWNSAMPLED" width="378">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000193-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="91" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="2294" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000193-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="268" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr7" size="22390" type="IMAGE-DOWNSAMPLED" width="377">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000193-gr7.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="89" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="2461" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000193-gr7.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="277" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="19493" type="IMAGE-DOWNSAMPLED" width="379">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000193-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="91" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="2291" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000193-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="490" mimetype="image/gif" multimediatype="GIF image file" ref="gr8" size="16653" type="IMAGE-DOWNSAMPLED" width="374">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000193-gr8.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr8" size="1365" type="IMAGE-THUMBNAIL" width="71">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000193-gr8.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="510" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="17218" type="IMAGE-DOWNSAMPLED" width="375">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000193-gr6.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="92" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="1324" type="IMAGE-THUMBNAIL" width="68">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000193-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="687" mimetype="image/gif" multimediatype="GIF image file" ref="gr9" size="24147" type="IMAGE-DOWNSAMPLED" width="375">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000193-gr9.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr9" size="1129" type="IMAGE-THUMBNAIL" width="51">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000193-gr9.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>33748983527</scopus-id><scopus-eid>2-s2.0-33748983527</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/33748983527" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20060207">2006-02-07</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20060207">2006-02-07</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-03-29T07:36:02</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838806000193</xocs:eid>
+<xocs:pii-formatted>S0925-8388(06)00019-3</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838806000193</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2005.12.086</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838806X02621</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.349087-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20061109</xocs:date-search-begin>
+<xocs:year-nav>2006</xocs:year-nav>
+<xocs:indexeddate epoch="1139270400">2006-02-07T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>424</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>424</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 424, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>29</xocs:sort-order>
+<xocs:first-fp>152</xocs:first-fp>
+<xocs:last-lp>158</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>152</xocs:first-page>
+<xocs:last-page>158</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20061109</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>9 November 2006</xocs:cover-date-text>
+<xocs:cover-date-start>2006-11-09</xocs:cover-date-start>
+<xocs:cover-date-year>2006</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Metallurgy</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2006 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>COMBUSTIONSYNTHESISTINTIB2COMPOSITESINTIBNN2TIBNBREACTIONSYSTEMS</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>YEH</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>C</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental methods of approach</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experiments in the Ti–BN–N<ce:inf loc="post">2</ce:inf> system</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experiments in the Ti–BN–B system</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Observation of combustion characteristics</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Measurement of flame-front propagation velocity</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Composition analysis of final products</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgement</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>GUTMANAS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>2381</xocs:ref-first-fp>
+<xocs:ref-last-lp>2393</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>GOTMAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>127</xocs:ref-first-fp>
+<xocs:ref-last-lp>137</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>UDWADIA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>59</xocs:ref-first-fp>
+<xocs:ref-last-lp>67</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>INSITUREACTIONSFORSYNTHESISCOMPOSITESCERAMICSINTERMETALLICS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>409</xocs:ref-first-fp>
+<xocs:ref-last-lp>412</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>WATANABE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1985</xocs:ref-pub-year>
+<xocs:ref-first-fp>C34</xocs:ref-first-fp>
+<xocs:ref-last-lp>C36</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>2831</xocs:ref-first-fp>
+<xocs:ref-last-lp>2833</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>BELLOSI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>139</xocs:ref-first-fp>
+<xocs:ref-last-lp>148</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>MUNIR</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1989</xocs:ref-pub-year>
+<xocs:ref-first-fp>277</xocs:ref-first-fp>
+<xocs:ref-last-lp>365</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>MERZHANOV</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1994</xocs:ref-pub-year>
+<xocs:ref-first-fp>307</xocs:ref-first-fp>
+<xocs:ref-last-lp>336</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>VARMA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1992</xocs:ref-pub-year>
+<xocs:ref-first-fp>2179</xocs:ref-first-fp>
+<xocs:ref-last-lp>2194</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>MOORE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>243</xocs:ref-first-fp>
+<xocs:ref-last-lp>273</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>MOSSINO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>311</xocs:ref-first-fp>
+<xocs:ref-last-lp>332</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13">
+<xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>171</xocs:ref-first-fp>
+<xocs:ref-last-lp>178</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>SHIBUYA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>2965</xocs:ref-first-fp>
+<xocs:ref-last-lp>2970</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15">
+<xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>143</xocs:ref-first-fp>
+<xocs:ref-last-lp>147</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib16">
+<xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>97</xocs:ref-first-fp>
+<xocs:ref-last-lp>100</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib17">
+<xocs:ref-normalized-surname>YEH</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>733</xocs:ref-first-fp>
+<xocs:ref-last-lp>743</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib18">
+<xocs:ref-normalized-surname>YEH</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>241</xocs:ref-first-fp>
+<xocs:ref-last-lp>249</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib19">
+<xocs:ref-normalized-surname>YEH</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>705</xocs:ref-first-fp>
+<xocs:ref-last-lp>714</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib20">
+<xocs:ref-normalized-surname>YEH</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>719</xocs:ref-first-fp>
+<xocs:ref-last-lp>729</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib21">
+<xocs:ref-normalized-surname>ESLAMLOOGRAMI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1990</xocs:ref-pub-year>
+<xocs:ref-first-fp>2222</xocs:ref-first-fp>
+<xocs:ref-last-lp>2227</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib22">
+<xocs:ref-normalized-surname>MORSI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>1</xocs:ref-first-fp>
+<xocs:ref-last-lp>15</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib23">
+<xocs:ref-normalized-surname>JOKISAARI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>385</xocs:ref-first-fp>
+<xocs:ref-last-lp>392</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>YEHX2006X152</xocs:refkey3>
+<xocs:refkey4lp>YEHX2006X152X158</xocs:refkey4lp>
+<xocs:refkey4ai>YEHX2006X152XC</xocs:refkey4ai>
+<xocs:refkey5>YEHX2006X152X158XC</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(06)00019-3</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838806000193</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838806000193</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2005.12.086</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-08T03:51:52.61762-04:00</xocs:timestamp>
+<xocs:cover-date-start>2006-11-09</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838806000193-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000193/MAIN/application/pdf/8855ccaa8576f64439ae9ae9bbdcb653/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000193/MAIN/application/pdf/8855ccaa8576f64439ae9ae9bbdcb653/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>476306</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838806000193-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000193/PREVIEW/image/png/b696706b4254a8f290a4185281af7661/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000193/PREVIEW/image/png/b696706b4254a8f290a4185281af7661/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>69918</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000193-gr4.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000193/gr4/DOWNSAMPLED/image/jpeg/c1f81ea4def484a92f2b111928eae6ca/gr4.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000193/gr4/DOWNSAMPLED/image/jpeg/c1f81ea4def484a92f2b111928eae6ca/gr4.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>18505</xocs:filesize>
+<xocs:pixel-height>277</xocs:pixel-height>
+<xocs:pixel-width>378</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000193-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000193/gr4/THUMBNAIL/image/gif/2fc7de6851b3fec5e6bb5538745f9250/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000193/gr4/THUMBNAIL/image/gif/2fc7de6851b3fec5e6bb5538745f9250/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2221</xocs:filesize>
+<xocs:pixel-height>92</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000193-gr5.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000193/gr5/DOWNSAMPLED/image/jpeg/291be5ad8dfcb7a53a34b63bb220c549/gr5.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000193/gr5/DOWNSAMPLED/image/jpeg/291be5ad8dfcb7a53a34b63bb220c549/gr5.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>19266</xocs:filesize>
+<xocs:pixel-height>267</xocs:pixel-height>
+<xocs:pixel-width>379</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000193-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000193/gr5/THUMBNAIL/image/gif/ab439195454365bf242970c8174546e3/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000193/gr5/THUMBNAIL/image/gif/ab439195454365bf242970c8174546e3/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2266</xocs:filesize>
+<xocs:pixel-height>88</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000193-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000193/gr1/DOWNSAMPLED/image/jpeg/e5227282d611d8f8c0abc9762e773481/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000193/gr1/DOWNSAMPLED/image/jpeg/e5227282d611d8f8c0abc9762e773481/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>233500</xocs:filesize>
+<xocs:pixel-height>617</xocs:pixel-height>
+<xocs:pixel-width>715</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000193-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000193/gr1/THUMBNAIL/image/gif/d507a9b3e4f81b9c48a6583b4261e101/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000193/gr1/THUMBNAIL/image/gif/d507a9b3e4f81b9c48a6583b4261e101/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>5847</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>108</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000193-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000193/gr3/DOWNSAMPLED/image/jpeg/f21cbadaa69cd8a7fa973fb5e85ac6e6/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000193/gr3/DOWNSAMPLED/image/jpeg/f21cbadaa69cd8a7fa973fb5e85ac6e6/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>19072</xocs:filesize>
+<xocs:pixel-height>276</xocs:pixel-height>
+<xocs:pixel-width>378</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000193-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000193/gr3/THUMBNAIL/image/gif/bc25cc6e8f4b4e2adde7fa613ca995c2/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000193/gr3/THUMBNAIL/image/gif/bc25cc6e8f4b4e2adde7fa613ca995c2/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2294</xocs:filesize>
+<xocs:pixel-height>91</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000193-gr7.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000193/gr7/DOWNSAMPLED/image/jpeg/b27d876104987926243d959da2d035ed/gr7.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000193/gr7/DOWNSAMPLED/image/jpeg/b27d876104987926243d959da2d035ed/gr7.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>22390</xocs:filesize>
+<xocs:pixel-height>268</xocs:pixel-height>
+<xocs:pixel-width>377</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000193-gr7.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000193/gr7/THUMBNAIL/image/gif/ad28b9797bed73e31c65026ea805f9b8/gr7.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000193/gr7/THUMBNAIL/image/gif/ad28b9797bed73e31c65026ea805f9b8/gr7.sml</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2461</xocs:filesize>
+<xocs:pixel-height>89</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000193-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000193/gr2/DOWNSAMPLED/image/jpeg/cb1d02be3e6432c3835ec6e7b28142ed/gr2.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000193/gr2/DOWNSAMPLED/image/jpeg/cb1d02be3e6432c3835ec6e7b28142ed/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>19493</xocs:filesize>
+<xocs:pixel-height>277</xocs:pixel-height>
+<xocs:pixel-width>379</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000193-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000193/gr2/THUMBNAIL/image/gif/daad958a19251c09d705b290711cdaf2/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000193/gr2/THUMBNAIL/image/gif/daad958a19251c09d705b290711cdaf2/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2291</xocs:filesize>
+<xocs:pixel-height>91</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000193-gr8.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000193/gr8/DOWNSAMPLED/image/gif/14e54170a67508facf03833e91f1827b/gr8.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000193/gr8/DOWNSAMPLED/image/gif/14e54170a67508facf03833e91f1827b/gr8.gif</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>16653</xocs:filesize>
+<xocs:pixel-height>490</xocs:pixel-height>
+<xocs:pixel-width>374</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000193-gr8.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000193/gr8/THUMBNAIL/image/gif/ff358d1df4b456b4d641716b946dacac/gr8.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000193/gr8/THUMBNAIL/image/gif/ff358d1df4b456b4d641716b946dacac/gr8.sml</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1365</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>71</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000193-gr6.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000193/gr6/DOWNSAMPLED/image/gif/d46145e5c6edf8a8b68764a1b0c5c515/gr6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000193/gr6/DOWNSAMPLED/image/gif/d46145e5c6edf8a8b68764a1b0c5c515/gr6.gif</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>17218</xocs:filesize>
+<xocs:pixel-height>510</xocs:pixel-height>
+<xocs:pixel-width>375</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000193-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000193/gr6/THUMBNAIL/image/gif/968ed8d5b80adc7def84fef30fe66edb/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000193/gr6/THUMBNAIL/image/gif/968ed8d5b80adc7def84fef30fe66edb/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1324</xocs:filesize>
+<xocs:pixel-height>92</xocs:pixel-height>
+<xocs:pixel-width>68</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000193-gr9.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000193/gr9/DOWNSAMPLED/image/gif/2839484c880b72ffda32a8330c2db79d/gr9.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000193/gr9/DOWNSAMPLED/image/gif/2839484c880b72ffda32a8330c2db79d/gr9.gif</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>24147</xocs:filesize>
+<xocs:pixel-height>687</xocs:pixel-height>
+<xocs:pixel-width>375</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000193-gr9.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000193/gr9/THUMBNAIL/image/gif/7d7a60e6a5d4acb731cd683864ea55f8/gr9.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000193/gr9/THUMBNAIL/image/gif/7d7a60e6a5d4acb731cd683864ea55f8/gr9.sml</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1129</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>51</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>13561</aid>
+<ce:pii>S0925-8388(06)00019-3</ce:pii>
+<ce:doi>10.1016/j.jallcom.2005.12.086</ce:doi>
+<ce:copyright type="full-transfer" year="2006">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Recorded burning images illustrating SHS processes associated with: (a) a 60% TMD sample of 3Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN in 1.14<ce:hsp sp="0.25"></ce:hsp>MPa N<ce:inf loc="post">2</ce:inf> and (b) a 60% TMD sample of 2Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>B in Ar.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Effects of nitrogen pressure, reactant composition, and sample density on flame-front propagation velocity of undiluted samples for synthesis of TiN–TiB<ce:inf loc="post">2</ce:inf> composites in nitrogen.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Effects of nitrogen pressure and diluent content on flame-front propagation velocity of samples for synthesis of TiN–TiB<ce:inf loc="post">2</ce:inf> composites in nitrogen.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Effect of starting composition on flame-front propagation velocity of Ti–BN–B reactant compacts for synthesis of TiN–TiB<ce:inf loc="post">2</ce:inf> composites in argon.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Effects of nitrogen pressure, reactant composition, and sample density on nitridation percentage of undiluted samples for synthesis of TiN–TiB<ce:inf loc="post">2</ce:inf> composites in nitrogen.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRD patterns of combustion products synthesized from undiluted samples with different initial compositions of 2Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN, 3Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN, and 4Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN in 1.14<ce:hsp sp="0.25"></ce:hsp>MPa N<ce:inf loc="post">2</ce:inf>.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+<ce:figure id="fig7">
+<ce:label>Fig. 7</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Effects of nitrogen pressure, sample density, and diluent content on nitridation percentage of samples for synthesis of TiN–TiB<ce:inf loc="post">2</ce:inf> composites in nitrogen.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr7"></ce:link>
+</ce:figure>
+<ce:figure id="fig8">
+<ce:label>Fig. 8</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRD patterns of TiN–TiB<ce:inf loc="post">2</ce:inf> composites with TiN contents from 75 to 87.5<ce:hsp sp="0.25"></ce:hsp>mol% synthesized from 60% TMD Ti–BN and Ti–BN–TiN reactant compacts in 1.14<ce:hsp sp="0.25"></ce:hsp>MPa N<ce:inf loc="post">2</ce:inf>.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr8"></ce:link>
+</ce:figure>
+<ce:figure id="fig9">
+<ce:label>Fig. 9</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRD patterns of TiN–TiB<ce:inf loc="post">2</ce:inf> composites with TiB<ce:inf loc="post">2</ce:inf> contents from 33 to 75<ce:hsp sp="0.25"></ce:hsp>mol% synthesized from 60% TMD Ti–BN and Ti–BN–B reactant compacts in Ar.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr9"></ce:link>
+</ce:figure>
+<ce:table colsep="0" frame="topbot" id="tbl1" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Flame-front propagation velocity of sample compacts under different starting stoichiometries, green densities, and nitrogen pressures</ce:simple-para>
+</ce:caption>
+<tgroup cols="5">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<colspec colname="col5"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Reactant composition (sample density, TMD)</entry>
+<entry align="left" nameend="col5" namest="col2" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Flame-front propagation velocity, <italic>V</italic>
+<inf loc="post">f</inf> (mm/s)</entry>
+</row>
+<row>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">N<inf loc="post">2</inf>
+<hsp sp="0.25"></hsp>=<hsp sp="0.25"></hsp>0.45<hsp sp="0.25"></hsp>MPa</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">N<inf loc="post">2</inf>
+<hsp sp="0.25"></hsp>=<hsp sp="0.25"></hsp>0.79<hsp sp="0.25"></hsp>MPa</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">N<inf loc="post">2</inf>
+<hsp sp="0.25"></hsp>=<hsp sp="0.25"></hsp>1.14<hsp sp="0.25"></hsp>MPa</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">N<inf loc="post">2</inf>
+<hsp sp="0.25"></hsp>=<hsp sp="0.25"></hsp>1.48<hsp sp="0.25"></hsp>MPa</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2Ti<hsp sp="0.25"></hsp>+<hsp sp="0.25"></hsp>BN (60%)</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">20.04</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">20.64</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">20.96</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">21.00</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">3Ti<hsp sp="0.25"></hsp>+<hsp sp="0.25"></hsp>BN (60%)</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">12.53</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">15.62</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">18.15</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">20.50</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">4Ti<hsp sp="0.25"></hsp>+<hsp sp="0.25"></hsp>BN (60%)</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">10.57</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">14.34</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">15.85</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">17.81</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">3Ti<hsp sp="0.25"></hsp>+<hsp sp="0.25"></hsp>BN (50%)</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">15.81</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">19.16</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">20.72</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">22.07</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.80Ti<hsp sp="0.25"></hsp>+<hsp sp="0.25"></hsp>BN<hsp sp="0.25"></hsp>+<hsp sp="0.25"></hsp>0.20TiN (50%)</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">14.71</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">14.94</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">16.56</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">17.12</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.65Ti<hsp sp="0.25"></hsp>+<hsp sp="0.25"></hsp>BN<hsp sp="0.25"></hsp>+<hsp sp="0.25"></hsp>0.35TiN (50%)</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">14.11</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">14.59</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">14.38</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">14.59</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+</ce:floats>
+<ce:title>Combustion synthesis of TiN–TiB<ce:inf loc="post">2</ce:inf> composites in Ti/BN/N<ce:inf loc="post">2</ce:inf> and Ti/BN/B reaction systems</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>C.L.</ce:given-name>
+<ce:surname>Yeh</ce:surname>
+<ce:cross-ref refid="cor1">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>G.S.</ce:given-name>
+<ce:surname>Teng</ce:surname>
+</ce:author>
+<ce:affiliation>
+<ce:textfn>Department of Mechanical and Automation Engineering, Da-Yeh University, 112 Shan-Jiau Rd., Da-Tsuen, Changhua 51505, Taiwan</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>⁎</ce:label>
+<ce:text>Corresponding author. Tel.: +886 4 8511888x2118; fax: +886 4 8511215.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="2" month="12" year="2005"></ce:date-received>
+<ce:date-revised day="21" month="12" year="2005"></ce:date-revised>
+<ce:date-accepted day="27" month="12" year="2005"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">An experimental study on in situ formation of TiN–TiB<ce:inf loc="post">2</ce:inf> composites with a wide range of compositions by self-propagating high-temperature synthesis (SHS) was conducted in two reaction systems. Combustion of sample compacts made up of titanium (Ti) and boron nitride (BN) powders was initiated under nitrogen pressure for the synthesis of composites with TiN contents of 75–87.5<ce:hsp sp="0.25"></ce:hsp>mol%. Experiments with reactant compacts from the Ti–BN–B powder blends were performed in argon (Ar) for the preparation of composites with 50–75<ce:hsp sp="0.25"></ce:hsp>mol% of TiB<ce:inf loc="post">2</ce:inf>. Self-sustained reactions featuring a distinct combustion front were observed in both systems. Due to the involvement of solid and gaseous reagents in the former reaction system, sample porosity and dilution by TiN made a significant impact on the degree of nitridation. On the contrary, combustion synthesis in the latter test configuration was essentially governed by the reaction between solid constituents. Experimental results show direct formation of a composite with 75<ce:hsp sp="0.25"></ce:hsp>mol% TiN in nitrogen of 1.48<ce:hsp sp="0.25"></ce:hsp>MPa from an undiluted compact of 2Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN at 60% TMD. For the preparation of composites with TiN contents as high as 83 and 87.5<ce:hsp sp="0.25"></ce:hsp>mol%, complete conversion was achieved by 60% TMD TiN-diluted samples with starting compositions of 2.5Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>0.5TiN and 3Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>TiN, respectively, at 1.14<ce:hsp sp="0.25"></ce:hsp>MPa of nitrogen. Through the use of elemental boron as one of the reactants along with the implementation of SHS reactions in Ar, TiN–TiB<ce:inf loc="post">2</ce:inf> composites with TiB<ce:inf loc="post">2</ce:inf> mole fractions of 50–75% were obtained from the Ti–BN–B powder compacts at different stoichiometries. In addition, complete conversion was also observed on a 1.5Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN compact which yielded the composite with a molar ratio TiN/TiB<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>67/33 under an Ar environment.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>TiN–TiB<ce:inf loc="post">2</ce:inf> composite</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>SHS</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>BN</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Dilution</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Flame-front velocity</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Ceramic materials such as borides, nitrides, and carbides are potential candidates for advanced structural applications due to their exceptional hardness and stability at high temperatures. With the aim of achieving better and desired properties, the development of ceramic matrix composites that successfully combine the advantageous properties of individual components is of special interest to the ceramic industry <ce:cross-refs refid="bib1 bib2 bib3 bib4 bib5 bib6 bib7">[1–7]</ce:cross-refs>. For example, when TiB<ce:inf loc="post">2</ce:inf> is combined with TiN, the composite exhibits several advantages such as high hardness and fracture toughness over the single phase ceramics <ce:cross-refs refid="bib6 bib7">[6,7]</ce:cross-refs>. In addition, the high electrical and thermal conductivities of TiB<ce:inf loc="post">2</ce:inf>, TiC, and TiN make TiB<ce:inf loc="post">2</ce:inf>–TiC and TiB<ce:inf loc="post">2</ce:inf>–TiN composites attractive for functional applications in high performing electrical systems <ce:cross-ref refid="bib2">[2]</ce:cross-ref>.</ce:para>
+<ce:para view="all">Combustion synthesis with the merits of time and energy savings, simplicity, and high-purity products, has been recognized as a promising alternative to the conventional methods of producing advanced materials, including borides, carbides, nitrides, hydrides, silicides, carbonitrides, intermetallics, etc. <ce:cross-refs refid="bib8 bib9 bib10 bib11 bib12">[8–12]</ce:cross-refs>. Combustion synthesis can be conducted in either of two modes, the self-propagating high-temperature synthesis (SHS) and the thermal explosion. Moreover, combustion synthesis represents an in situ processing technique for the preparation of composite materials with interpenetrating phase microstructures and, hence, improved properties <ce:cross-ref refid="bib1">[1]</ce:cross-ref>.</ce:para>
+<ce:para view="all">In addition to direct formation from elemental powders as a result of highly exothermic reactions, many boride-containing ceramic composites were shown to be produced by using boron carbide (B<ce:inf loc="post">4</ce:inf>C) or boron nitride (BN) as the reactant in a reactive synthesis process <ce:cross-refs refid="bib1 bib2 bib13 bib14 bib15 bib16">[1,2,13–16]</ce:cross-refs>. Gutmanas and Gotman <ce:cross-ref refid="bib1">[1]</ce:cross-ref> demonstrated the production of composites TiC–TiB<ce:inf loc="post">2</ce:inf> and TiN–TiB<ce:inf loc="post">2</ce:inf> by thermal explosion with compacted specimens from the 3Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>B<ce:inf loc="post">4</ce:inf>C and 3Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>2BN powder blends, respectively. Similarly, with the use of stoichiometric powder compacts consisting of 3Zr<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>B<ce:inf loc="post">4</ce:inf>C and 3Zr<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>2BN, ceramic composites ZrB<ce:inf loc="post">2</ce:inf>–ZrC and ZrB<ce:inf loc="post">2</ce:inf>–ZrN were produced by means of the reactive hot pressing in a graphite die at 1900<ce:hsp sp="0.25"></ce:hsp>°C and under 30<ce:hsp sp="0.25"></ce:hsp>MPa of Ar for 60<ce:hsp sp="0.25"></ce:hsp>min <ce:cross-ref refid="bib13">[13]</ce:cross-ref>. Shibuya et al. <ce:cross-ref refid="bib14">[14]</ce:cross-ref> also reported that dense TiN–TiB<ce:inf loc="post">2</ce:inf> composites with relatively high hardness and toughness were fabricated by combustion synthesis from powder compacts made up of Ti and BN under high pressures of nitrogen. Their results showed the need of a high BN content (the molar ratio BN/Ti<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1.0) to yield a stoichiometric nitride phase TiN in nitrogen of 4<ce:hsp sp="0.25"></ce:hsp>MPa <ce:cross-ref refid="bib14">[14]</ce:cross-ref>.</ce:para>
+<ce:para view="all">The goal of this study was to achieve in situ formation of TiN–TiB<ce:inf loc="post">2</ce:inf> composites with a wide range of compositions through well-designed experiments in two different reaction systems. For the synthesis of composite compounds with a high content of TiN, sample compacts prepared from the Ti–BN powder blends were used and the corresponding experiments were performed under high pressures of nitrogen. In contrast, composites with a high content of TiB<ce:inf loc="post">2</ce:inf> were synthesized from the test specimens comprising Ti, BN, and B powders in an argon environment. In both reaction systems, the effect of starting stoichiometry of the reactant on the combustion characteristics as well as on the final composition of synthesized products was studied. Additionally, experimental parameters including nitrogen pressure, sample density, and dilution by TiN were investigated for the experiments conducted in nitrogen, due to the nature of reaction involving both solid and gaseous reagents.</ce:para>
+</ce:section>
+<ce:section role="materials-methods" view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental methods of approach</ce:section-title>
+<ce:para view="all">The SHS reaction to produce TiN–TiB<ce:inf loc="post">2</ce:inf> composite from powder compacts was conducted in a stainless-steel windowed combustion chamber. Details of the experimental setup and measurement approach were reported previously <ce:cross-refs refid="bib17 bib18 bib19 bib20">[17–20]</ce:cross-refs>. In this study, experiments were performed in two different test configurations; one was carried out under high pressures of nitrogen with the use of compacted reactants from the Ti–BN powder blends, and the other was conducted with Ti–BN–B powder compacts in argon. Manipulation of test conditions was based on a product composition TiN:TiB<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>0.67:0.33, which is representative of full conversion from a powder reactant composed of 1.5Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN under an argon (Ar) environment. That is, the former type of the reaction systems was adopted for the synthesis of composites containing a TiN content higher than 67<ce:hsp sp="0.25"></ce:hsp>mol%. When the composites with a TiB<ce:inf loc="post">2</ce:inf> content greater than 33<ce:hsp sp="0.25"></ce:hsp>mol% were required, the latter was employed. Detailed descriptions of these two reaction systems are given below.</ce:para>
+<ce:section view="all">
+<ce:label>2.1</ce:label>
+<ce:section-title>Experiments in the Ti–BN–N<ce:inf loc="post">2</ce:inf> system</ce:section-title>
+<ce:para view="all">Titanium (Strem Chemicals, −325<ce:hsp sp="0.25"></ce:hsp>mesh, 99% purity) and boron nitride (Strem Chemicals, 99% purity) powders were used as the solid reactants in this category of the investigation. Titanium and boron nitride powders were dry mixed in a ball mill for 10<ce:hsp sp="0.25"></ce:hsp>h with the molar ratio according to the stoichiometry of the following reaction:<ce:display>
+<ce:formula id="eq1">
+<ce:label>(1)</ce:label>
+<ce:chem>
+<ce:italic>x</ce:italic>Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>0.5(<ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>−<ce:hsp sp="0.25"></ce:hsp>1.5)N<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>(<ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>−<ce:hsp sp="0.25"></ce:hsp>0.5)TiN<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>0.5TiB<ce:inf loc="post">2</ce:inf>
+</ce:chem>
+</ce:formula>
+</ce:display>Reaction <ce:cross-ref refid="eq1">(1)</ce:cross-ref> signifies the reaction taking place under gaseous nitrogen due to the need of nitrogen from both the reactant BN and the surroundings. The pressure of nitrogen (with a purity of 99.999%) varied from 0.45 to 1.48<ce:hsp sp="0.25"></ce:hsp>MPa in this study. The reactant BN not only contributes boron to the formation of TiB<ce:inf loc="post">2</ce:inf>, but provides a solid source of nitrogen for the synthesis of TiN. The <ce:italic>x</ce:italic> value in reaction <ce:cross-ref refid="eq1">(1)</ce:cross-ref> represents the molar ratio of Ti/BN in the green compact. In this study, homogenous powder blends with three different molar compositions (including <ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>2.0, 3.0, and 4.0) were prepared for the synthesis of TiN–TiB<ce:inf loc="post">2</ce:inf> composites with the TiN content between 75 and 87.5<ce:hsp sp="0.25"></ce:hsp>mol%. Due to the nature of the reaction involving solid and gaseous reagents, mixed powders in a stainless-steel mold were uniaxially pressed at pressures of about 40–70<ce:hsp sp="0.25"></ce:hsp>MPa into cylindrical samples (having a diameter of 7<ce:hsp sp="0.25"></ce:hsp>mm and a height of 12<ce:hsp sp="0.25"></ce:hsp>mm) with density ranging from 45 to 60% of the theoretical maximum density (TMD) of powder mixture in order to investigate the effect of sample porosity on combustion. The amount of nitrogen uptake after combustion was calculated from the measurement of weight change of the sample compact. The degree of nitridation was evaluated on the basis of the assumptions that the reaction between Ti and B in the sample to form TiB<ce:inf loc="post">2</ce:inf> is complete owing to the very high affinity of Ti for boron <ce:cross-ref refid="bib1">[1]</ce:cross-ref>, and that nitrogen reacts with available titanium to form stoichiometric nitride TiN <ce:cross-ref refid="bib20">[20]</ce:cross-ref>.</ce:para>
+<ce:para view="all">As reported by previous studies <ce:cross-refs refid="bib19 bib20 bib21">[19–21]</ce:cross-refs>, excessive melting of Ti was typically observed in the SHS reaction with gaseous nitrogen, which impeded the infiltration of nitrogen gas because of the diminution of sample porosity and in turn lowered the degree of nitridation. Therefore, dilution of the reactant mixture with the nitride product was suggested as an effective means to reduce the combustion temperature and thus to improve the extent of nitridation. On the preparation of test samples containing titanium nitride TiN (Strem Chemicals, −325<ce:hsp sp="0.25"></ce:hsp>mesh, 99% purity) as the diluent, the composition of reactant compacts was based upon the following reaction:<ce:display>
+<ce:formula id="eq2">
+<ce:label>(2)</ce:label>
+<ce:chem>(<ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>−<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>y</ce:italic>)Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>y</ce:italic>TiN<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>0.5(<ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>−<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>y</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>−<ce:hsp sp="0.25"></ce:hsp>1.5)N<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>(<ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>−<ce:hsp sp="0.25"></ce:hsp>0.5)TiN<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>0.5TiB<ce:inf loc="post">2</ce:inf>
+</ce:chem>
+</ce:formula>
+</ce:display>The diluent content required in the powder mixture depended upon the composition of desired products. The coefficient <ce:italic>y</ce:italic> in reaction <ce:cross-ref refid="eq2">(2)</ce:cross-ref> representing the degree of dilution was varied between 0.2 and 1.0 in this study.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2.2</ce:label>
+<ce:section-title>Experiments in the Ti–BN–B system</ce:section-title>
+<ce:para view="all">Reactant compacts adopted under this reaction system were composed of Ti, BN, and amorphous boron (Noah Technologies Corp., 92% purity) powders. The particle size of boron powders is specified as 1<ce:hsp sp="0.25"></ce:hsp>μm maximum per Fisher sub-sieve sizer (FSSS). Similar to typical amorphous boron, the major impurities in the boron specimen used in this study include magnesium (Mg) about 5.0%, water soluble boron (0.50%) and moisture (0.50%). The starting stoichiometry of powder mixtures was in accordance with the following reaction:<ce:display>
+<ce:formula id="eq3">
+<ce:label>(3)</ce:label>
+<ce:chem>
+<ce:italic>z</ce:italic>Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>(2<ce:italic>z</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>−<ce:hsp sp="0.25"></ce:hsp>3)B<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>TiN<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>(<ce:italic>z</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>−<ce:hsp sp="0.25"></ce:hsp>1)TiB<ce:inf loc="post">2</ce:inf>
+</ce:chem>
+</ce:formula>
+</ce:display>It should be noted that this category of the experiments was performed in argon, implying that the reactant BN provided the only source of nitrogen. Moreover, the SHS process was essentially governed by the solid–solid interactions. Homogenous powder blends with five different molar compositions (including <ce:italic>z</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1.5, 2.0, 2.5, 3.0, and 4.0) were prepared for the synthesis of TiN–TiB<ce:inf loc="post">2</ce:inf> composites with the TiB<ce:inf loc="post">2</ce:inf> content varying from 33 to 75<ce:hsp sp="0.25"></ce:hsp>mol%. The sample green density was set at 60% TMD for reactant compacts in this reaction system. It is useful to point out that at <ce:italic>z</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1.5, the reactant BN was the only source of both nitrogen and boron in the reaction.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:section view="all">
+<ce:label>3.1</ce:label>
+<ce:section-title>Observation of combustion characteristics</ce:section-title>
+<ce:para view="all">Typical SHS processes recorded from two reaction systems described above are presented in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor>(a) and (b), respectively. <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>(a) shows a series of combustion images associated with the reaction of a 60% TMD undiluted sample with a starting stoichiometry of 3Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN at 1.14<ce:hsp sp="0.25"></ce:hsp>MPa of nitrogen. It is evident in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>(a) that upon initiation a distinct combustion front forms and traverses the entire sample in a self-sustaining manner. Moreover, after the passage of the flame front an afterburning glow appears on the sample and lasts for a relatively long period of time (approximately from 1.37 to 3.30<ce:hsp sp="0.25"></ce:hsp>s), which is typical of the combustion synthesis involving gaseous reagents. This implies that nitridation in the combustion front is incomplete. As a result, continuous infiltration of nitrogen gas into the porous compact to react with the solid reactant led to the reemergence of burning luminosity after the passage of the flame front.</ce:para>
+<ce:para view="all">It was also found in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>(a) that the propagation of the flame front is accompanied by noticeable shrinkage of the test specimen, due entirely to the melting of the powder compact during the combustion. Melting of Ti-containing reactants is normally encountered in the SHS reactions including combustion synthesis of titanium nitride and carbonitride <ce:cross-refs refid="bib19 bib20">[19,20]</ce:cross-refs>, because of the combustion temperature exceeding the melting point of Ti (1660<ce:hsp sp="0.25"></ce:hsp>°C). It is useful to note that the degree of sample melting in the course of reaction increases as the Ti content in the green compact increases, such as in the composition of 4Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN. On the contrary, the melting was found to be effectively reduced by the addition of diluent TiN in the sample; that is, the TiN-diluted sample almost retained its original shape and porosity after combustion.</ce:para>
+<ce:para view="all">Typical reaction sequence of the Ti–BN–B power compact in argon is photographically presented in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>(b). When compared to <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>(a), <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>(b) shows a very different burning phenomenon. As indicated in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>(b), an explosion-like reaction takes place upon ignition and generates a glaring and self-sustaining combustion front traveling along the sample. With the advance of the combustion wave, significant delamination of the burned sample was observed, which resulted in serious structure fracturing and substantial elongation on the end product. In general, the volume increase of combustion synthesized products could be attributed to the intrinsic volume change associated with the conversion of reactants to the final product, and to the vaporization of volatile impurities due to high temperatures <ce:cross-refs refid="bib22 bib23">[22,23]</ce:cross-refs>. It is believed in this study that the vaporization of low boiling point impurities (such as Mg with a boiling point of 1090<ce:hsp sp="0.25"></ce:hsp>°C) in amorphous boron produces gases, which expand under high temperatures and are then expelled from the porous sample. The expulsion of gaseous substances with the propagation of the combustion front caused the formation of numerous crevices in the sample and the expansion of sample volume after combustion.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.2</ce:label>
+<ce:section-title>Measurement of flame-front propagation velocity</ce:section-title>
+<ce:para view="all">For the reactions in the Ti–BN–N<ce:inf loc="post">2</ce:inf> system, variations of the flame-front propagation velocity (<ce:italic>V</ce:italic>
+<ce:inf loc="post">f</ce:inf>) of undiluted samples with nitrogen pressure, starting stoichiometry of the reactant compacts, and sample green density are presented in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor>. The increase of flame-front velocity with increasing nitrogen pressure is apparently shown in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref> for the reactants made up of 3Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN and 4Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN. This is attributed to the increase of nitrogen concentration at the reaction front with increasing pressure. However, the flame-front velocity of the 2Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN sample was found to be nearly independent of the nitrogen pressure. This is most likely caused by the fact that two thirds of nitrogen required for complete conversion from the reactant compact of 2Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN to the composite product of 1.5TiN<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>0.5TiB<ce:inf loc="post">2</ce:inf> was supplied by the reactant BN. Consequently, the reaction rate was not significantly enhanced by increasing the nitrogen pressure.</ce:para>
+<ce:para view="all">As also indicated in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>, the decrease of sample density causes an increase in the flame-front velocity. This is because a compact with a lower density not only possesses a larger amount of nitrogen within the porous structure, but provides higher permeability for nitrogen gas to penetrate. The influence of solid-phase dilution with TiN on the flame-front velocity is shown in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor>, which reveals a decrease in the flame-front velocity with diluent content on account of the decrease of reaction temperature. Numerical values of the flame-front velocities plotted in <ce:cross-refs refid="fig2 fig3">Figs. 2 and 3</ce:cross-refs> are summarized in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+<ce:float-anchor refid="tbl1"></ce:float-anchor>.</ce:para>
+<ce:para view="all">For the combustion of the Ti–BN–B samples in Ar, <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor> shows a substantial increase in the flame-front velocity from 11.7<ce:hsp sp="0.25"></ce:hsp>mm/s at the stoichiometry of 2Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>B (<ce:italic>z</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>2.0) to 19.6<ce:hsp sp="0.25"></ce:hsp>mm/s for a 4Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>5B (<ce:italic>z</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>4.0) compact. The increase of flame velocity with elemental Ti and B contents in the green compact was primarily caused by the highly exothermic reaction in association with the TiB<ce:inf loc="post">2</ce:inf> formation. That is, the more dominant the reaction between Ti and B in the sample, the higher the flame-front propagation rate. Reaction <ce:cross-ref refid="eq3">(3)</ce:cross-ref> indicates that as the amounts of Ti and B in the green compact are increased, the mole fraction of BN is correspondingly decreased. Therefore, a lesser amount of energy was consumed to decompose BN during the synthesis reaction. This could also be a reason responsible for the increase of flame-front velocity observed in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.3</ce:label>
+<ce:section-title>Composition analysis of final products</ce:section-title>
+<ce:para view="all">In the reaction system involving Ti–BN compacts under nitrogen, the dependence of the degree of nitridation on the starting stoichiometry, nitrogen pressure, and sample green density is shown in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="fig5"></ce:float-anchor>. Obviously, only the sample of 2Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN reaches complete nitridation at 1.48<ce:hsp sp="0.25"></ce:hsp>MPa of nitrogen. For the compacts of 3Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN and 4Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN, however, the amount of nitrogen uptake increases with nitrogen pressure, but is insufficient to reach full nitridation within the pressure range of 0.45–1.48<ce:hsp sp="0.25"></ce:hsp>MPa. It is also found in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref> that the nitridation percentage decreases with increasing Ti/BN ratio of the sample compact. This is partly because a larger amount of nitrogen is required from the surroundings as the reactant contains a higher content of Ti. In part, this is caused by the fact that the extent of sample melting increases when the amount of elemental Ti in the green compact increases. In addition, <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref> shows the augmentation of nitridation percentage resulting from a decrease in the sample density, which is a consequence of the enhancement of access for nitrogen gas during the reaction.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="fig6"></ce:float-anchor> plots XRD patterns of three typical products obtained from undiluted samples in the Ti–BN–N<ce:inf loc="post">2</ce:inf> reaction system. As indicated in <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>, the XRD analysis on the final product from the reactant of 2Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN shows no more than two desired phases TiN and TiB<ce:inf loc="post">2</ce:inf>, signifying a case of full conversion. On the other hand, in addition to the phases of TiN and TiB<ce:inf loc="post">2</ce:inf> intermediate compounds including Ti<ce:inf loc="post">2</ce:inf>N and TiB were detected in the final products obtained from the reactants of 3Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN and 4Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN, suggestive of the incomplete conversion mainly caused by the melting of test samples during the combustion. As mentioned above, the melting of Ti–BN reactant compacts was effectively reduced by the solid-phase dilution with TiN. Therefore, the nitridation of TiN-diluted sample were substantially improved. <ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+<ce:float-anchor refid="fig7"></ce:float-anchor> shows that complete nitridation is accomplished by a 60% TMD TiN-diluted sample made up of 2.5Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>0.5TiN (representing 12.5<ce:hsp sp="0.25"></ce:hsp>mol% dilution), in comparison to the low degree of nitridation at about 53–68% obtained in undiluted compacts of 3Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN. <ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref> also reveals that the sample green density has an effect on the amount of diluent TiN needed for complete nitridation; namely, a lesser amount of diluent was required by a sample with a higher degree of porosity. As indicated in <ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>, a 45% TMD compact reaches 100% nitridation under a diluted composition of 2.65Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>0.35TiN (8.75<ce:hsp sp="0.25"></ce:hsp>mol% dilution).</ce:para>
+<ce:para view="all">In addition to the sample porosity, the degree of dilution required for full conversion was dependent on the concentration of TiN in the end product. Experimental results show that under a condition of 1.14<ce:hsp sp="0.25"></ce:hsp>MPa nitrogen and 60% TMD, the nitridation percentage increases from 42.9% for an undiluted composition of 4Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN to 67.4% for the 3.5Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>0.5TiN compact, and finally arrives at 100% for the sample of 3Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>TiN. <ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>
+<ce:float-anchor refid="fig8"></ce:float-anchor> shows the XRD patterns corresponding to three TiN–TiB<ce:inf loc="post">2</ce:inf> composites with TiN mole fractions of 75, 83, and 87.5%, respectively. Among these three compounds, only the composite with 75<ce:hsp sp="0.25"></ce:hsp>mol% TiN was directly converted from the 2Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN compact without the addition of diluent TiN. Complete conversion of the other two composite products was achieved under different degrees of dilution by TiN. <ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref> indicates that the dilution level increases from 12.5% (at a composition of 2.5Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>0.5TiN) to 20% (i.e., the sample of 3Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>TiN) as the TiN concentration of TiN–TiB<ce:inf loc="post">2</ce:inf> composites increases from 83 to 87.5<ce:hsp sp="0.25"></ce:hsp>mol%.</ce:para>
+<ce:para view="all">For the reaction system of Ti–BN–B powder compacts in Ar, neither the presence of remaining reactants nor the detection of intermediate phases is indicated by the XRD analysis on burned samples, suggestive of complete conversion from reactants to TiN–TiB<ce:inf loc="post">2</ce:inf> composites. XRD patterns of the synthesized composites with different TiB<ce:inf loc="post">2</ce:inf> concentrations of 33–75<ce:hsp sp="0.25"></ce:hsp>mol% are presented in <ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref>
+<ce:float-anchor refid="fig9"></ce:float-anchor>. It is useful to point out formation of the product with a molar ratio of TiN:TiB<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>67:33 from the 1.5Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN sample, within which the reactant BN is the only source of nitrogen and boron. For the other sample compacts shown in <ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref>, elemental boron powders as the additional reactant other than Ti and BN were employed in order to prepare composites with a TiB<ce:inf loc="post">2</ce:inf> concentration higher than 33<ce:hsp sp="0.25"></ce:hsp>mol%. As shown in <ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref>, TiN–TiB<ce:inf loc="post">2</ce:inf> composites with TiB<ce:inf loc="post">2</ce:inf> mole fractions of 50, 60, and 75% were obtained from the test specimens of 2Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>B, 2.5Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>2B, and 4Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>5B, respectively.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">This study represents a successful attempt to prepare in situ TiN–TiB<ce:inf loc="post">2</ce:inf> composites with a wide range of compositions (including the TiB<ce:inf loc="post">2</ce:inf> content from 12.5 to 75<ce:hsp sp="0.25"></ce:hsp>mol%) through well-designed experiments in two different reaction systems. The increase of TiB<ce:inf loc="post">2</ce:inf> content improves the hardness and toughness of the TiN–TiB<ce:inf loc="post">2</ce:inf> composites for the applications of cutting tools and friction resistance materials. Moreover, the electrical conductivity of TiN–TiB<ce:inf loc="post">2</ce:inf> composites increases with TiN content and this property is beneficial for the composite to be used as a conductive barrier between a silicon device and metal contacts in the semiconductor industry. For the composites with high TiN concentrations of 75–87.5<ce:hsp sp="0.25"></ce:hsp>mol%, synthesis reactions under nitrogen pressure were conducted using Ti–BN reactant compacts with or without the addition of TiN as the diluent. On the other hand, the experiments adopting compacted specimens from the Ti–BN–B powder blends were performed in argon for the preparation of composite compounds with a TiB<ce:inf loc="post">2</ce:inf> molar fraction in the range of 50–75%.</ce:para>
+<ce:para view="all">In the former reaction system involving the gaseous reagent N<ce:inf loc="post">2</ce:inf>, the combustion process was characterized by self-sustained reaction with a distinct combustion front propagating in a steady manner. On account of the continuous infiltration of nitrogen gas into the sample compact, an afterburning reaction took place after the passage of the flame front. In addition, in the case of lacking TiN dilution the propagation of the flame front was accompanied by significant melting of the sample compact, resulting in a decrease in the sample permeability and a poor degree of nitridation. Test specimens diluted by a proper amount of TiN was shown to be highly beneficial in the reduction of sample melting and hence the enhancement of nitrogen uptake. The extent of dilution was affected by the sample green density and the mole fraction of TiN in final composites. Experimental results indicated that the TiN–TiB<ce:inf loc="post">2</ce:inf> composite with 75<ce:hsp sp="0.25"></ce:hsp>mol% TiN was directly synthesized from the reaction of an undiluted compact made up of 2Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN in 1.48<ce:hsp sp="0.25"></ce:hsp>MPa nitrogen. For the preparation of composites with TiN contents as high as 83 and 87.5<ce:hsp sp="0.25"></ce:hsp>mol%, it was demonstrated that complete conversion in 1.14<ce:hsp sp="0.25"></ce:hsp>MPa nitrogen was achieved by 60% TMD TiN-diluted sample with initial compositions of 2.5Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>0.5TiN and 3Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>TiN, respectively. Due to the fact that nitrogen uptake was augmented when the sample density was reduced, a 45% TMD sample at a dilution level of 2.65Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>0.35TiN (8.75<ce:hsp sp="0.25"></ce:hsp>mol% TiN) was shown to attain complete nitridation as the 2.5Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>0.5TiN (12.5<ce:hsp sp="0.25"></ce:hsp>mol%) compact at 60% TMD.</ce:para>
+<ce:para view="all">In the latter reaction system with Ti–BN–B powder compacts in Ar, highly exothermic reactions led to a glaring combustion front similar to that observed in the former SHS system. However, vaporization and expulsion of low boiling point impurities in amorphous boron during the combustion generated numerous crevices in the end products. In contrast to the noticeable shrinkage of Ti–BN samples in nitrogen, the Ti–BN–B powder compacts burning in Ar exhibited substantial volume expansion after combustion. XRD analysis verified complete conversion of TiN–TiB<ce:inf loc="post">2</ce:inf> composites with TiB<ce:inf loc="post">2</ce:inf> content between 50 and 75<ce:hsp sp="0.25"></ce:hsp>mol% from the combustion of Ti–BN–B compacts in Ar. Despite the fact that the boron powders used in this study contained some impurities, the XRD analysis indicated the absence of these impurities in the synthesized products. Therefore, this study could confirm that the impurities in the boron powders have no influence on the production of TiN–TiB<ce:inf loc="post">2</ce:inf> composites, except for the formation of some cracks in the final products. In addition, direct formation of a TiN–33.3<ce:hsp sp="0.25"></ce:hsp>mol% TiB<ce:inf loc="post">2</ce:inf> composite in Ar was confirmed by the reaction of a 1.5Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>BN sample, within which the reactant BN served as the only source of nitrogen and boron.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgement</ce:section-title>
+<ce:para view="all">This research was sponsored by the National Science Council of Taiwan, ROC, under the grant of NSC 94-2212-E-212-018.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>E.Y.</ce:given-name>
+<ce:surname>Gutmanas</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Gotman</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Eur. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>19</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2381</sb:first-page>
+<sb:last-page>2393</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Gotman</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.A.</ce:given-name>
+<ce:surname>Travitzky</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.Y.</ce:given-name>
+<ce:surname>Gutmanas</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>A244</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>127</sb:first-page>
+<sb:last-page>137</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.K.</ce:given-name>
+<ce:surname>Udwadia</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.A.</ce:given-name>
+<ce:surname>Puszynski</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>E.V.</ce:given-name>
+<ce:surname>Barrera</ce:surname>
+</sb:editor>
+<sb:et-al></sb:et-al>
+</sb:editors>
+<sb:title>
+<sb:maintitle>In situ Reactions for Synthesis of Composites, Ceramics, and Intermetallics</sb:maintitle>
+</sb:title>
+<sb:date>1995</sb:date>
+<sb:publisher>
+<sb:name>TMS</sb:name>
+<sb:location>Warrendale, PA</sb:location>
+</sb:publisher>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>59</sb:first-page>
+<sb:last-page>67</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.J.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.M.</ce:given-name>
+<ce:surname>Yue</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.Z.</ce:given-name>
+<ce:surname>Jin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.Y.</ce:given-name>
+<ce:surname>Dai</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Eur. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>16</sb:volume-nr>
+</sb:series>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>409</sb:first-page>
+<sb:last-page>412</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Watanabe</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Shobu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>68</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>2</sb:issue-nr>
+<sb:date>1985</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>C34</sb:first-page>
+<sb:last-page>C36</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.J.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.Z.</ce:given-name>
+<ce:surname>Jin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.M.</ce:given-name>
+<ce:surname>Yue</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>78</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>10</sb:issue-nr>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2831</sb:first-page>
+<sb:last-page>2833</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Bellosi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Monteverde</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Key Eng. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>175/176</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>139</sb:first-page>
+<sb:last-page>148</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Z.A.</ce:given-name>
+<ce:surname>Munir</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>U.</ce:given-name>
+<ce:surname>Anselmi-Tamburini</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Rep.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>3</sb:volume-nr>
+</sb:series>
+<sb:date>1989</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>277</sb:first-page>
+<sb:last-page>365</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.G.</ce:given-name>
+<ce:surname>Merzhanov</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Combust. Sci. Technol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>98</sb:volume-nr>
+</sb:series>
+<sb:date>1994</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>307</sb:first-page>
+<sb:last-page>336</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Varma</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.P.</ce:given-name>
+<ce:surname>Lebrat</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Chem. Eng. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>47</sb:volume-nr>
+</sb:series>
+<sb:date>1992</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2179</sb:first-page>
+<sb:last-page>2194</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.J.</ce:given-name>
+<ce:surname>Moore</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.J.</ce:given-name>
+<ce:surname>Feng</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Prog. Mater. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>39</sb:volume-nr>
+</sb:series>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>243</sb:first-page>
+<sb:last-page>273</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Mossino</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Ceram. Int.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>30</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>311</sb:first-page>
+<sb:last-page>332</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.J.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Ando</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.F.</ce:given-name>
+<ce:surname>Yang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Ohji</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Kanzaki</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Eur. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>24</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>171</sb:first-page>
+<sb:last-page>178</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Shibuya</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Ohyanagi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.A.</ce:given-name>
+<ce:surname>Munir</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>85</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>12</sb:issue-nr>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2965</sb:first-page>
+<sb:last-page>2970</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.J.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.Z.</ce:given-name>
+<ce:surname>Jin</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Ceram. Int.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>22</sb:volume-nr>
+</sb:series>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>143</sb:first-page>
+<sb:last-page>147</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib16">
+<ce:label>[16]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.J.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.Z.</ce:given-name>
+<ce:surname>Jin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.M.</ce:given-name>
+<ce:surname>Yue</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Lett.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>25</sb:volume-nr>
+</sb:series>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>97</sb:first-page>
+<sb:last-page>100</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib17">
+<ce:label>[17]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.L.</ce:given-name>
+<ce:surname>Yeh</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.C.</ce:given-name>
+<ce:surname>Chuang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Ceram. Int.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>30</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>5</sb:issue-nr>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>733</sb:first-page>
+<sb:last-page>743</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib18">
+<ce:label>[18]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.L.</ce:given-name>
+<ce:surname>Yeh</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.C.</ce:given-name>
+<ce:surname>Yeh</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>388</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>241</sb:first-page>
+<sb:last-page>249</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib19">
+<ce:label>[19]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.L.</ce:given-name>
+<ce:surname>Yeh</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.C.</ce:given-name>
+<ce:surname>Chuang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Ceram. Int.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>30</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>5</sb:issue-nr>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>705</sb:first-page>
+<sb:last-page>714</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib20">
+<ce:label>[20]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.L.</ce:given-name>
+<ce:surname>Yeh</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.D.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Ceram. Int.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>31</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>5</sb:issue-nr>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>719</sb:first-page>
+<sb:last-page>729</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib21">
+<ce:label>[21]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Eslamloo-Grami</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.A.</ce:given-name>
+<ce:surname>Munir</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>73</sb:volume-nr>
+</sb:series>
+<sb:date>1990</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2222</sb:first-page>
+<sb:last-page>2227</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib22">
+<ce:label>[22]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Morsi</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>A299</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1</sb:first-page>
+<sb:last-page>15</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib23">
+<ce:label>[23]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.R.</ce:given-name>
+<ce:surname>Jokisaari</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Bhaduri</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.B.</ce:given-name>
+<ce:surname>Bhaduri</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>A394</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>385</sb:first-page>
+<sb:last-page>392</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

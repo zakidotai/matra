@@ -1,0 +1,1583 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838805012211</prism:url><dc:identifier>doi:10.1016/j.jallcom.2005.07.016</dc:identifier><eid>1-s2.0-S0925838805012211</eid><prism:doi>10.1016/j.jallcom.2005.07.016</prism:doi><pii>S0925-8388(05)01221-1</pii><dc:title>Effects of Ti addition on carbon diffusion in molybdenum </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>414</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>82</prism:startingpage><prism:endingpage>87</prism:endingpage><prism:pagerange>82-87</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2006-04-13</prism:coverdate><prism:coverdisplaydate>13 April 2006</prism:coverdisplaydate><prism:copyright>Copyright © 2005 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Inoue, Takeshi</dc:creator><dc:creator>Hiraoka, Yutaka</dc:creator><dc:creator>Nagae, Masahiro</dc:creator><dc:creator>Takada, Jun</dc:creator><dc:description>
+                  From the change in fracture mode as a function of distance from the specimen surface, the carbon diffusion distance can be estimated. In addition the diffusion parameter such as activation energy for carbon diffusion in molybdenum can be derived from Arrhenius plots of the carbon diffusion distance and the diffusion temperature. In this work the fracture surface of Mo–Ti alloys after carburizing was examined using a scanning electron microscope. Then the effects of Ti addition on the carbon diffusion behavior in molybdenum were discussed. It was demonstrated, first, the carbon diffusion distance decreases by adding Ti at a given diffusion temperature. Secondly the activation energy for carbon diffusion in Mo–Ti alloys is smaller than that in pure molybdenum. In addition the critical carbon concentration for the transition of fracture mode from intergranular to transgranular in Mo–Ti alloys is larger than that in pure molybdenum. These results are attributed mainly to the preferential combination between a carbon atom and a titanium atom.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Metals</dcterms:subject><dcterms:subject>Powder metallurgy</dcterms:subject><dcterms:subject>Scanning electron microscopy</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838805012211" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838805012211" rel="scidir"/></coredata><objects><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si8" size="484" type="ALTIMG" width="133">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012211-si8.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="20" mimetype="image/gif" multimediatype="GIF image file" ref="si7" size="1021" type="ALTIMG" width="284">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012211-si7.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="20" mimetype="image/gif" multimediatype="GIF image file" ref="si6" size="808" type="ALTIMG" width="227">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012211-si6.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="20" mimetype="image/gif" multimediatype="GIF image file" ref="si5" size="715" type="ALTIMG" width="197">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012211-si5.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="20" mimetype="image/gif" multimediatype="GIF image file" ref="si4" size="446" type="ALTIMG" width="98">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012211-si4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="19" mimetype="image/gif" multimediatype="GIF image file" ref="si3" size="410" type="ALTIMG" width="94">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012211-si3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si2" size="605" type="ALTIMG" width="148">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012211-si2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="20" mimetype="image/gif" multimediatype="GIF image file" ref="si1" size="610" type="ALTIMG" width="161">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012211-si1.gif?httpAccept=%2A%2F%2A</object><object category="standard" height="259" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr9" size="35574" type="IMAGE-DOWNSAMPLED" width="360">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012211-gr9.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="90" mimetype="image/gif" multimediatype="GIF image file" ref="gr9" size="3588" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012211-gr9.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="280" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="16987" type="IMAGE-DOWNSAMPLED" width="366">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012211-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="2256" type="IMAGE-THUMBNAIL" width="122">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012211-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="714" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="66851" type="IMAGE-DOWNSAMPLED" width="362">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012211-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="2024" type="IMAGE-THUMBNAIL" width="47">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012211-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="273" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="25503" type="IMAGE-DOWNSAMPLED" width="363">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012211-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="2665" type="IMAGE-THUMBNAIL" width="124">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012211-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="273" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="26903" type="IMAGE-DOWNSAMPLED" width="365">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012211-gr4.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="2762" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012211-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="273" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr8" size="26034" type="IMAGE-DOWNSAMPLED" width="362">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012211-gr8.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr8" size="2813" type="IMAGE-THUMBNAIL" width="124">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012211-gr8.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="307" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr6" size="27446" type="IMAGE-DOWNSAMPLED" width="363">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012211-gr6.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="2497" type="IMAGE-THUMBNAIL" width="110">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012211-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="283" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr7" size="26918" type="IMAGE-DOWNSAMPLED" width="363">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012211-gr7.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="2747" type="IMAGE-THUMBNAIL" width="120">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012211-gr7.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="273" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr5" size="27483" type="IMAGE-DOWNSAMPLED" width="361">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012211-gr5.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="2824" type="IMAGE-THUMBNAIL" width="123">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012211-gr5.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>33645898639</scopus-id><scopus-eid>2-s2.0-33645898639</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/33645898639" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20050819">2005-08-19</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20050819">2005-08-19</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-03-29T07:36:02</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838805012211</xocs:eid>
+<xocs:pii-formatted>S0925-8388(05)01221-1</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805012211</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2005.07.016</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838806X02505</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.349087-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20060413</xocs:date-search-begin>
+<xocs:year-nav>2006</xocs:year-nav>
+<xocs:indexeddate epoch="1124409600">2005-08-19T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>414</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>414</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 414, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>16</xocs:sort-order>
+<xocs:first-fp>82</xocs:first-fp>
+<xocs:last-lp>87</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>82</xocs:first-page>
+<xocs:last-page>87</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20060413</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>13 April 2006</xocs:cover-date-text>
+<xocs:cover-date-start>2006-04-13</xocs:cover-date-start>
+<xocs:cover-date-year>2006</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Metallurgy</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2005 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>EFFECTSTIADDITIONCARBONDIFFUSIONINMOLYBDENUM</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>INOUE</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>T</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental procedures</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Materials and specimen preparation</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>SEM observations and fracture mode</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2.3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Determination of carbon diffusion distance</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2.4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Estimation of diffusion parameters</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Summary</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgment</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>NAGAE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>819</xocs:ref-first-fp>
+<xocs:ref-last-lp>829</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>PROCEEDINGS14THINTERNATIONALPLANSEESEMINAR</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>NAGAE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>189</xocs:ref-first-fp>
+<xocs:ref-last-lp>194</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>NAGAE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>127</xocs:ref-first-fp>
+<xocs:ref-last-lp>132</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>NOMURA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>2449</xocs:ref-first-fp>
+<xocs:ref-last-lp>2452</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>INOUE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>425</xocs:ref-first-fp>
+<xocs:ref-last-lp>430</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>PROC14THIKETANICONFERENCENEWFRONTIERSPROCESSSCIENCEENGINEERINGINADVANCEDMATERIALSPART2</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>HIRAOKA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>127</xocs:ref-first-fp>
+<xocs:ref-last-lp>132</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>RUDMAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1967</xocs:ref-pub-year>
+<xocs:ref-first-fp>1949</xocs:ref-first-fp>
+<xocs:ref-last-lp>1954</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>KUNZE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1970</xocs:ref-pub-year>
+<xocs:ref-first-fp>327</xocs:ref-first-fp>
+<xocs:ref-last-lp>338</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>DARKEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1953</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>PHYSCHEMMET</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>GEBHARDT</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1966</xocs:ref-pub-year>
+<xocs:ref-first-fp>732</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>HIRAOKA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1993</xocs:ref-pub-year>
+<xocs:ref-first-fp>261</xocs:ref-first-fp>
+<xocs:ref-last-lp>268</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>INOUEX2006X82</xocs:refkey3>
+<xocs:refkey4lp>INOUEX2006X82X87</xocs:refkey4lp>
+<xocs:refkey4ai>INOUEX2006X82XT</xocs:refkey4ai>
+<xocs:refkey5>INOUEX2006X82X87XT</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(05)01221-1</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805012211</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838805012211</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2005.07.016</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-08T03:45:28.026693-04:00</xocs:timestamp>
+<xocs:cover-date-start>2006-04-13</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838805012211-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012211/MAIN/application/pdf/dee4804196f1c73167d6c4549c7e5d36/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012211/MAIN/application/pdf/dee4804196f1c73167d6c4549c7e5d36/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>477221</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838805012211-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012211/PREVIEW/image/png/22678839d7e9f793cccc05e9c15cdefc/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012211/PREVIEW/image/png/22678839d7e9f793cccc05e9c15cdefc/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>62033</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012211-si8.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012211/STRIPIN/image/gif/16f7157bcfb48f6f638d9a6202439e85/si8.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012211/STRIPIN/image/gif/16f7157bcfb48f6f638d9a6202439e85/si8.gif</xocs:ucs-locator>
+<xocs:file-basename>si8</xocs:file-basename>
+<xocs:filename>si8.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>484</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>133</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012211-si7.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012211/STRIPIN/image/gif/dfd0a18fd32d8cabea726df985edcd0b/si7.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012211/STRIPIN/image/gif/dfd0a18fd32d8cabea726df985edcd0b/si7.gif</xocs:ucs-locator>
+<xocs:file-basename>si7</xocs:file-basename>
+<xocs:filename>si7.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1021</xocs:filesize>
+<xocs:pixel-height>20</xocs:pixel-height>
+<xocs:pixel-width>284</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012211-si6.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012211/STRIPIN/image/gif/7424243d4806526192abc5c52fe05786/si6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012211/STRIPIN/image/gif/7424243d4806526192abc5c52fe05786/si6.gif</xocs:ucs-locator>
+<xocs:file-basename>si6</xocs:file-basename>
+<xocs:filename>si6.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>808</xocs:filesize>
+<xocs:pixel-height>20</xocs:pixel-height>
+<xocs:pixel-width>227</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012211-si5.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012211/STRIPIN/image/gif/428a21e6f7fd436e367826c118917e63/si5.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012211/STRIPIN/image/gif/428a21e6f7fd436e367826c118917e63/si5.gif</xocs:ucs-locator>
+<xocs:file-basename>si5</xocs:file-basename>
+<xocs:filename>si5.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>715</xocs:filesize>
+<xocs:pixel-height>20</xocs:pixel-height>
+<xocs:pixel-width>197</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012211-si4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012211/STRIPIN/image/gif/8f1d5398377d6982e11e6a5eb2005b73/si4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012211/STRIPIN/image/gif/8f1d5398377d6982e11e6a5eb2005b73/si4.gif</xocs:ucs-locator>
+<xocs:file-basename>si4</xocs:file-basename>
+<xocs:filename>si4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>446</xocs:filesize>
+<xocs:pixel-height>20</xocs:pixel-height>
+<xocs:pixel-width>98</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012211-si3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012211/STRIPIN/image/gif/f1abf5f68d7f43b581a45a60d388a8e8/si3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012211/STRIPIN/image/gif/f1abf5f68d7f43b581a45a60d388a8e8/si3.gif</xocs:ucs-locator>
+<xocs:file-basename>si3</xocs:file-basename>
+<xocs:filename>si3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>410</xocs:filesize>
+<xocs:pixel-height>19</xocs:pixel-height>
+<xocs:pixel-width>94</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012211-si2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012211/STRIPIN/image/gif/3e338603e6b528cd2a090c98b6f9806b/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012211/STRIPIN/image/gif/3e338603e6b528cd2a090c98b6f9806b/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si2</xocs:file-basename>
+<xocs:filename>si2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>605</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>148</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012211-si1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012211/STRIPIN/image/gif/5742ced2d100e81b96b0ca300bdf2f31/si1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012211/STRIPIN/image/gif/5742ced2d100e81b96b0ca300bdf2f31/si1.gif</xocs:ucs-locator>
+<xocs:file-basename>si1</xocs:file-basename>
+<xocs:filename>si1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>610</xocs:filesize>
+<xocs:pixel-height>20</xocs:pixel-height>
+<xocs:pixel-width>161</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012211-gr9.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012211/gr9/DOWNSAMPLED/image/jpeg/afb36c40aec8e35f1fcfe0e679b6ba07/gr9.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012211/gr9/DOWNSAMPLED/image/jpeg/afb36c40aec8e35f1fcfe0e679b6ba07/gr9.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>35574</xocs:filesize>
+<xocs:pixel-height>259</xocs:pixel-height>
+<xocs:pixel-width>360</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012211-gr9.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012211/gr9/THUMBNAIL/image/gif/2769957be26c8c7bca0a356f8525fb1c/gr9.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012211/gr9/THUMBNAIL/image/gif/2769957be26c8c7bca0a356f8525fb1c/gr9.sml</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3588</xocs:filesize>
+<xocs:pixel-height>90</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012211-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012211/gr2/DOWNSAMPLED/image/jpeg/cb4bf75feaecbc9d6dbcb51b790d026f/gr2.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012211/gr2/DOWNSAMPLED/image/jpeg/cb4bf75feaecbc9d6dbcb51b790d026f/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>16987</xocs:filesize>
+<xocs:pixel-height>280</xocs:pixel-height>
+<xocs:pixel-width>366</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012211-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012211/gr2/THUMBNAIL/image/gif/646c106f4b5ee9da4927b319b0f47211/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012211/gr2/THUMBNAIL/image/gif/646c106f4b5ee9da4927b319b0f47211/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2256</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>122</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012211-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012211/gr1/DOWNSAMPLED/image/jpeg/151f4ca87b9f53da9fcc60db4b9d78af/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012211/gr1/DOWNSAMPLED/image/jpeg/151f4ca87b9f53da9fcc60db4b9d78af/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>66851</xocs:filesize>
+<xocs:pixel-height>714</xocs:pixel-height>
+<xocs:pixel-width>362</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012211-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012211/gr1/THUMBNAIL/image/gif/e8b2598c8e4b5f71370506df4bfeee39/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012211/gr1/THUMBNAIL/image/gif/e8b2598c8e4b5f71370506df4bfeee39/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2024</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>47</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012211-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012211/gr3/DOWNSAMPLED/image/jpeg/9cd7aefeb5469c00c837212cdf4fa0a5/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012211/gr3/DOWNSAMPLED/image/jpeg/9cd7aefeb5469c00c837212cdf4fa0a5/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>25503</xocs:filesize>
+<xocs:pixel-height>273</xocs:pixel-height>
+<xocs:pixel-width>363</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012211-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012211/gr3/THUMBNAIL/image/gif/2ad615e0338dc48ec045c0a396331e8f/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012211/gr3/THUMBNAIL/image/gif/2ad615e0338dc48ec045c0a396331e8f/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2665</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>124</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012211-gr4.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012211/gr4/DOWNSAMPLED/image/jpeg/b150e54f935e9f0889c96f29c8de2750/gr4.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012211/gr4/DOWNSAMPLED/image/jpeg/b150e54f935e9f0889c96f29c8de2750/gr4.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>26903</xocs:filesize>
+<xocs:pixel-height>273</xocs:pixel-height>
+<xocs:pixel-width>365</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012211-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012211/gr4/THUMBNAIL/image/gif/a39e16176afcdae59bbef19a71a639ef/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012211/gr4/THUMBNAIL/image/gif/a39e16176afcdae59bbef19a71a639ef/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2762</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012211-gr8.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012211/gr8/DOWNSAMPLED/image/jpeg/1239344f69ad62a51917003a2cb8efb8/gr8.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012211/gr8/DOWNSAMPLED/image/jpeg/1239344f69ad62a51917003a2cb8efb8/gr8.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>26034</xocs:filesize>
+<xocs:pixel-height>273</xocs:pixel-height>
+<xocs:pixel-width>362</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012211-gr8.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012211/gr8/THUMBNAIL/image/gif/5a87d9357295f834e09fe8f770583ee6/gr8.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012211/gr8/THUMBNAIL/image/gif/5a87d9357295f834e09fe8f770583ee6/gr8.sml</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2813</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>124</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012211-gr6.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012211/gr6/DOWNSAMPLED/image/jpeg/df2049cdb87ce216dd1a95f6b582c56b/gr6.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012211/gr6/DOWNSAMPLED/image/jpeg/df2049cdb87ce216dd1a95f6b582c56b/gr6.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>27446</xocs:filesize>
+<xocs:pixel-height>307</xocs:pixel-height>
+<xocs:pixel-width>363</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012211-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012211/gr6/THUMBNAIL/image/gif/0b8904de4c00227ba718136b97b88af2/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012211/gr6/THUMBNAIL/image/gif/0b8904de4c00227ba718136b97b88af2/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2497</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>110</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012211-gr7.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012211/gr7/DOWNSAMPLED/image/jpeg/db37849797ea1116a85fd3554c08cbe2/gr7.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012211/gr7/DOWNSAMPLED/image/jpeg/db37849797ea1116a85fd3554c08cbe2/gr7.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>26918</xocs:filesize>
+<xocs:pixel-height>283</xocs:pixel-height>
+<xocs:pixel-width>363</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012211-gr7.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012211/gr7/THUMBNAIL/image/gif/986988e5f840ec4cdb7df8a2164ddb3e/gr7.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012211/gr7/THUMBNAIL/image/gif/986988e5f840ec4cdb7df8a2164ddb3e/gr7.sml</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2747</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>120</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012211-gr5.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012211/gr5/DOWNSAMPLED/image/jpeg/e374f60c70e25c18813a57f1e08770dd/gr5.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012211/gr5/DOWNSAMPLED/image/jpeg/e374f60c70e25c18813a57f1e08770dd/gr5.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>27483</xocs:filesize>
+<xocs:pixel-height>273</xocs:pixel-height>
+<xocs:pixel-width>361</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012211-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012211/gr5/THUMBNAIL/image/gif/e96ba2d864f0b96b89de480bbce4c1fc/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012211/gr5/THUMBNAIL/image/gif/e96ba2d864f0b96b89de480bbce4c1fc/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2824</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>123</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>12963</aid>
+<ce:pii>S0925-8388(05)01221-1</ce:pii>
+<ce:doi>10.1016/j.jallcom.2005.07.016</ce:doi>
+<ce:copyright type="full-transfer" year="2005">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Schematic procedures to determine the change in fracture mode as a function of distance from the specimen surface using a photograph.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Definition of carbon diffusion distance from the change in PIF-value as a function of the distance from the surface.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Change in PIF-value as a function of the distance from the surface for the as-recrystallized specimens.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Change in PIF-value as a function of the distance from the surface for the carburized specimens at 1073<ce:hsp sp="0.25"></ce:hsp>K.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Change in PIF-value as a function of the distance from the surface for the carburized specimens at 1173<ce:hsp sp="0.25"></ce:hsp>K.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Change in PIF-value as a function of the distance from the surface for the carburized specimens at 1273<ce:hsp sp="0.25"></ce:hsp>K.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+<ce:figure id="fig7">
+<ce:label>Fig. 7</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Change in PIF-value as a function of the distance from the surface for the carburized specimens at 1373<ce:hsp sp="0.25"></ce:hsp>K.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr7"></ce:link>
+</ce:figure>
+<ce:figure id="fig8">
+<ce:label>Fig. 8</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Change in PIF-value as a function of the distance from the surface for the carburized specimens at 1473<ce:hsp sp="0.25"></ce:hsp>K.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr8"></ce:link>
+</ce:figure>
+<ce:figure id="fig9">
+<ce:label>Fig. 9</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Arrhenius plots of the carbon diffusion distance and the diffusion temperature for Mo–Ti alloys as well as Pure Mo.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr9"></ce:link>
+</ce:figure>
+<ce:table colsep="0" frame="topbot" id="tbl1" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Lists of diffusion parameters such as the activation energy for carbon diffusion and the constant term log(4<ce:italic>β</ce:italic>
+<ce:sup loc="post">2</ce:sup>
+<ce:italic>D</ce:italic>
+<ce:inf loc="post">0</ce:inf>
+<ce:italic>t</ce:italic>) for Mo–Ti alloys and Pure Mo together with the constant <ce:italic>β</ce:italic>
+</ce:simple-para>
+</ce:caption>
+<tgroup cols="4">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Diffusion parameters</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Pure Mo</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Mo–1.0Ti</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Mo–1.5Ti</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Activation energy, <italic>Q</italic> (kJ)</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">190</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">143</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">142</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Term, log(4<italic>β</italic>
+<sup loc="post">2</sup>
+<italic>D</italic>
+<inf loc="post">o</inf>
+<italic>t</italic>) (mm<sup loc="post">2</sup>)</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">7.33</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">4.3</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">3.93</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Constant, <italic>β</italic>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">36.2</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1.11</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.72</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+</ce:floats>
+<ce:title>Effects of Ti addition on carbon diffusion in molybdenum</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>Takeshi</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Yutaka</ce:given-name>
+<ce:surname>Hiraoka</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="cor1">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Masahiro</ce:given-name>
+<ce:surname>Nagae</ce:surname>
+<ce:cross-ref refid="aff3">
+<ce:sup loc="post">c</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Jun</ce:given-name>
+<ce:surname>Takada</ce:surname>
+<ce:cross-ref refid="aff4">
+<ce:sup loc="post">d</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation id="aff1">
+<ce:label>a</ce:label>
+<ce:textfn>Graduate School of Science, Okayama University of Science, 1-1 Ridai-cho, Okayama 700-0005, Japan</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff2">
+<ce:label>b</ce:label>
+<ce:textfn>Department of Applied Physics, Okayama University of Science, 1-1 Ridai-cho, Okayama 700-0005, Japan</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff3">
+<ce:label>c</ce:label>
+<ce:textfn>Division of Sustainability of Resources, Graduate School of Environmental Science, Okayama University, 3-1-1 Tsushima-naka, Okayama 700-8530, Japan</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff4">
+<ce:label>d</ce:label>
+<ce:textfn>Division of Chemical and Biological Technology, Graduate School of Natural Science and Technology, Okayama University, 3-1-1 Tsushima-naka, Okayama 700-8530, Japan</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>⁎</ce:label>
+<ce:text>Corresponding author. Tel.: +81 86 256 9479; fax: +81 86 256 9479.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="20" month="6" year="2005"></ce:date-received>
+<ce:date-revised day="8" month="7" year="2005"></ce:date-revised>
+<ce:date-accepted day="12" month="7" year="2005"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">From the change in fracture mode as a function of distance from the specimen surface, the carbon diffusion distance can be estimated. In addition the diffusion parameter such as activation energy for carbon diffusion in molybdenum can be derived from Arrhenius plots of the carbon diffusion distance and the diffusion temperature. In this work the fracture surface of Mo–Ti alloys after carburizing was examined using a scanning electron microscope. Then the effects of Ti addition on the carbon diffusion behavior in molybdenum were discussed. It was demonstrated, first, the carbon diffusion distance decreases by adding Ti at a given diffusion temperature. Secondly the activation energy for carbon diffusion in Mo–Ti alloys is smaller than that in pure molybdenum. In addition the critical carbon concentration for the transition of fracture mode from intergranular to transgranular in Mo–Ti alloys is larger than that in pure molybdenum. These results are attributed mainly to the preferential combination between a carbon atom and a titanium atom.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Metals</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Powder metallurgy</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Scanning electron microscopy</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Nagae et al. <ce:cross-refs refid="bib1 bib2 bib3">[1–3]</ce:cross-refs> examined the hardness change across the specimen thickness in Mo–Ti alloys after heating in NH<ce:inf loc="post">3</ce:inf> or N<ce:inf loc="post">2</ce:inf> gaseous atmospheres. They demonstrated that a very hard layer is formed near the specimen surface. This layer has hardness as high as 1600<ce:hsp sp="0.25"></ce:hsp>(Hv) or more and thereby is called as “surface hard layer”. They also recognized a relatively hard region just inside the surface hard layer. This region is so-called “internally nitrided region”. A transmission electron microscope (TEM) observation revealed very fine TiN particles dispersed in the matrix. In pure molybdenum subjected to the same heat treatment, however, no internally nitrided region was recognized. These results suggest that a preferred combination between a nitrogen atom and a titanium atom occurred, since the standard free energy of formation of TiN is much more negative than that of Mo<ce:inf loc="post">2</ce:inf>N at the temperature range between 1273 and 1773<ce:hsp sp="0.25"></ce:hsp>K. In analog to the internal nitriding phenomena, “internally carburizing” should occur in Mo–Ti alloys which are heated in some carburizing atmospheres, since the standard free energy of formation of TiC is also much more negative than that of Mo<ce:inf loc="post">2</ce:inf>C. From these points of view, Nagae et al. <ce:cross-ref refid="bib4">[4]</ce:cross-ref> and Inoue et al. <ce:cross-ref refid="bib5">[5]</ce:cross-ref> examined the hardness change across the specimen thickness in Mo–Ti alloys after carburizing. Nagae et al. heated the specimens in a flowing Ar<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>CO gaseous atmosphere, whilst Inoue et al. heated the specimens when being buried in graphite powder. In both cases a relatively hard region was recognized just inside the surface hard layer. These results again suggest that a preferred combination between a carbon atom and a titanium atom occurred.</ce:para>
+<ce:para view="all">In our previous study <ce:cross-ref refid="bib6">[6]</ce:cross-ref> we demonstrated that a fractography study using a scanning electron microscope (SEM) is suitable to determine the carbon diffusion distance and consequently to evaluate the activation energy for carbon diffusion in a molybdenum matrix. The activation energy estimated using this method is 182<ce:hsp sp="0.25"></ce:hsp>kJ in the temperature range between 1073 and 1173<ce:hsp sp="0.25"></ce:hsp>K. This value approximately agrees with previous data <ce:cross-refs refid="bib7 bib8">[7,8]</ce:cross-refs>. In this study we investigated the effects of Ti addition on the carbon diffusion distance in molybdenum and on the diffusion parameters such as activation energy for carbon diffusion. First, the specimens of two dilute Mo–Ti alloys were immersed in a graphite-filled container and heated in vacuum at a temperature between 1073 and 1473<ce:hsp sp="0.25"></ce:hsp>K for 1.2<ce:hsp sp="0.25"></ce:hsp>ks. The change in fracture mode across the specimen thickness was examined using SEM. Then the carbon diffusion distance was determined at a given diffusion temperature, and the diffusion parameters such as the activation energy for carbon diffusion in molybdenum and the constant term were derived from Arrhenius plots of the carbon diffusion distance and the temperature. The results obtained for Mo–Ti alloys were compared with that for pure molybdenum.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental procedures</ce:section-title>
+<ce:section view="all">
+<ce:label>2.1</ce:label>
+<ce:section-title>Materials and specimen preparation</ce:section-title>
+<ce:para view="all">The materials used in this study were sheets of powder metallurgy Mo–Ti alloys. The target Ti contents were 1.0 and 1.5<ce:hsp sp="0.25"></ce:hsp>mass%, and designated as “Mo–1.0Ti” and “Mo–1.5Ti”, respectively, in this text. For reference pure molybdenum is designated as “Pure Mo”. The original sheet thickness was about 1<ce:hsp sp="0.25"></ce:hsp>mm. From each material three rectangular specimens (3<ce:hsp sp="0.25"></ce:hsp>mm wide and 20<ce:hsp sp="0.25"></ce:hsp>mm long) were cut out. All the specimen surfaces were polished using emery papers and then subjected to a recrystallization treatment at 1773<ce:hsp sp="0.25"></ce:hsp>K for 3.6<ce:hsp sp="0.25"></ce:hsp>ks in a vacuum of less than 10<ce:sup loc="post">−5</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>Torr. The average grain size of Mo–1.0Ti and Mo–1.5Ti after recrystallization was almost as small as that of Pure Mo (20<ce:hsp sp="0.25"></ce:hsp>μm).</ce:para>
+<ce:para view="all">Carburization was performed for the recrystallized specimens as follows. The specimens were first buried in graphite powder in a Ta-container. Then the container was heated up to a temperature between 1073 and 1473<ce:hsp sp="0.25"></ce:hsp>K with a heating rate of 0.67<ce:hsp sp="0.25"></ce:hsp>K/s in vacuum. The container was held for 1.2<ce:hsp sp="0.25"></ce:hsp>ks at each temperature and finally cooled down to room temperature.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2.2</ce:label>
+<ce:section-title>SEM observations and fracture mode</ce:section-title>
+<ce:para view="all">The carburized specimens as well as the recrystallized ones were fractured in a brittle manner at liquid nitrogen temperature. Two photographs of a magnification of 200 were taken from each fracture surface using SEM. In this study the fracture mode of a material was represented by a ratio of the intergranular fracture area to the total fracture surface (designated as “PIF”-value in this text). For example, the PIF-value for the recrystallized Pure Mo is as high as 90% <ce:cross-ref refid="bib6">[6]</ce:cross-ref>. This result suggests the grain boundaries are generally very weak. However, these grain boundaries are strengthened by carburizing under an adequate condition and the PIF-value becomes low <ce:cross-ref refid="bib6">[6]</ce:cross-ref>.</ce:para>
+<ce:para view="all">The change in fracture mode as a function of distance from the specimen surface is determined as schematically shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor>. The distance from the surface to the center of the specimen is about 500<ce:hsp sp="0.25"></ce:hsp>μm and each fractograph is divided into 10 regions as shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>(a). The gray zone denotes transgranular fracture surface(s) (designated as “TG”), whislt the white zone denotes intergranular fracture surface(s) (designated as “IG”). The PIF-value is determined for each region. For example, the fracture mode in the region-1 (near the surface) is mainly transgranular and the PIF-value is as low as 26%. In contrast, the fracture mode in the region-10 (at the center) is mainly intergranular and the PIF-value is as high as 90%. <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>(b) shows the change in PIF-value as a function of distance from the surface.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2.3</ce:label>
+<ce:section-title>Determination of carbon diffusion distance</ce:section-title>
+<ce:para view="all">In an inter-diffusion system between two elements such as molybdenum and carbon, the carbon concentration (<ce:italic>c</ce:italic>) in the matrix of molybdenum is expressed by the following equation <ce:cross-ref refid="bib9">[9]</ce:cross-ref>:<ce:display>
+<ce:formula id="eq1">
+<ce:label>(1)</ce:label>
+<mml:math altimg="si1.gif" overflow="scroll">
+<mml:mrow>
+<mml:mi>c</mml:mi>
+<mml:mo>/</mml:mo>
+<mml:msub>
+<mml:mi>c</mml:mi>
+<mml:mn>0</mml:mn>
+</mml:msub>
+<mml:mo>=</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mo>−</mml:mo>
+<mml:mtext>erf</mml:mtext>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>r</mml:mi>
+<mml:mo>/</mml:mo>
+<mml:mn>2</mml:mn>
+<mml:msqrt>
+<mml:mrow>
+<mml:mi>D</mml:mi>
+<mml:mi>t</mml:mi>
+</mml:mrow>
+</mml:msqrt>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>
+<ce:display>
+<ce:formula id="eq2">
+<ce:label>(2)</ce:label>
+<mml:math altimg="si2.gif" overflow="scroll">
+<mml:mrow>
+<mml:mi>D</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:msub>
+<mml:mi>D</mml:mi>
+<mml:mn>0</mml:mn>
+</mml:msub>
+<mml:mi> </mml:mi>
+<mml:mtext>exp</mml:mtext>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mo>−</mml:mo>
+<mml:mi>Q</mml:mi>
+<mml:mo>/</mml:mo>
+<mml:mi>R</mml:mi>
+<mml:mi>T</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>where <ce:italic>c</ce:italic>
+<ce:inf loc="post">0</ce:inf> is the carbon solubility limit at the diffusion temperature (<ce:italic>T</ce:italic>), <ce:italic>r</ce:italic>, the distance from the specimen surface, <ce:italic>D</ce:italic>, the diffusivity, <ce:italic>t</ce:italic>, the diffusion time, <ce:italic>D</ce:italic>
+<ce:inf loc="post">0</ce:inf>, a constant, <ce:italic>Q</ce:italic>, the activation energy for carbon diffusion and <ce:italic>R</ce:italic> is the gas constant. In this study the formation of a surface hard layer after carburization is negligible and thereby the carbon supply into the specimen is controlled mostly by the carbon diffusion in the molybdenum matrix. On condition that the diffusion temperature and the time are constant, the carbon concentration is only a function of distance from the specimen surface and it tends to decrease gradually with the distance.</ce:para>
+<ce:para view="all">Here we make the following assumptions <ce:cross-ref refid="bib6">[6]</ce:cross-ref>. In case the carbon concentration is small (<ce:italic>c</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>≤<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>c</ce:italic>
+<ce:inf loc="post">1</ce:inf>), the grain boundaries are generally very weak and the fracture mode is mainly intergranular. In case the carbon concentration is large (<ce:italic>c</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>≥<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>c</ce:italic>
+<ce:inf loc="post">1</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>&gt;<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>c</ce:italic>
+<ce:inf loc="post">2</ce:inf>), in contrast, the grain boundaries are strengthened and the fracture mode becomes mainly transgranular (low PIF-value). This is the case for the carburized specimen. In case the carbon concentration is between <ce:italic>c</ce:italic>
+<ce:inf loc="post">1</ce:inf> and <ce:italic>c</ce:italic>
+<ce:inf loc="post">2</ce:inf>, the fracture mode is just a mixture of intergranular and transgranular (middle PIF-value). In the above discussion the value <ce:italic>c</ce:italic>
+<ce:inf loc="post">1</ce:inf> is a constant regardless of the Ti addition. Consequently the change in PIF-value as a function of distance from the specimen surface is schematically shown in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor>. From this figure, the carbon diffusion distance is strictly defined by the distance <ce:italic>r</ce:italic>
+<ce:inf loc="post">1</ce:inf> which corresponds to a carbon concentration <ce:italic>c</ce:italic>
+<ce:inf loc="post">1</ce:inf>. However, it is an experimental fact that the change in PIF-value as a function of distance from the surface generally displays a “S”-shaped curve. Thereby we define the carbon diffusion distance as a distance <ce:italic>r</ce:italic>
+<ce:sup loc="post">*</ce:sup> at which the PIF-value becomes 80% of the average PIF-value for the as-recrystallized specimen for convenience <ce:cross-ref refid="bib6">[6]</ce:cross-ref>.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2.4</ce:label>
+<ce:section-title>Estimation of diffusion parameters</ce:section-title>
+<ce:para view="all">At the distance <ce:italic>r</ce:italic>
+<ce:sup loc="post">*</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>≈<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>r</ce:italic>
+<ce:inf loc="post">1</ce:inf> (<ce:italic>c</ce:italic>*<ce:hsp sp="0.25"></ce:hsp>≈<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>c</ce:italic>
+<ce:inf loc="post">1</ce:inf>), the following equation is used <ce:cross-ref refid="bib6">[6]</ce:cross-ref>.<ce:display>
+<ce:formula id="eq3">
+<ce:label>(3)</ce:label>
+<mml:math altimg="si3.gif" overflow="scroll">
+<mml:mrow>
+<mml:msup>
+<mml:mi>r</mml:mi>
+<mml:mo>*</mml:mo>
+</mml:msup>
+<mml:mo>/</mml:mo>
+<mml:mn>2</mml:mn>
+<mml:msqrt>
+<mml:mrow>
+<mml:mi>D</mml:mi>
+<mml:mi>t</mml:mi>
+</mml:mrow>
+</mml:msqrt>
+<mml:mo>=</mml:mo>
+<mml:mi>β</mml:mi>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>
+<ce:display>
+<ce:formula id="eq4">
+<ce:label>(4)</ce:label>
+<mml:math altimg="si4.gif" overflow="scroll">
+<mml:mrow>
+<mml:msup>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msup>
+<mml:mi>r</mml:mi>
+<mml:mo>*</mml:mo>
+</mml:msup>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:msup>
+<mml:mo>=</mml:mo>
+<mml:mn>4</mml:mn>
+<mml:msup>
+<mml:mi>β</mml:mi>
+<mml:mn>2</mml:mn>
+</mml:msup>
+<mml:mi>D</mml:mi>
+<mml:mi>t</mml:mi>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>where <ce:italic>β</ce:italic> is a constant but it depends on the carbon solubility limit <ce:italic>c</ce:italic>
+<ce:inf loc="post">0</ce:inf>. In this study it is assumed that <ce:italic>c</ce:italic>
+<ce:inf loc="post">0</ce:inf> is approximately constant in a narrow temperature range, since only limited data are available <ce:cross-refs refid="bib7 bib10">[7,10]</ce:cross-refs>. Using Eqs. <ce:cross-refs refid="eq2 eq4">(2) and (4)</ce:cross-refs>, the following equations are derived:<ce:display>
+<ce:formula>
+<ce:label>(5)</ce:label>
+<mml:math altimg="si5.gif" overflow="scroll">
+<mml:mrow>
+<mml:msup>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msup>
+<mml:mi>r</mml:mi>
+<mml:mo>*</mml:mo>
+</mml:msup>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:msup>
+<mml:mo>=</mml:mo>
+<mml:mn>4</mml:mn>
+<mml:msup>
+<mml:mi>β</mml:mi>
+<mml:mn>2</mml:mn>
+</mml:msup>
+<mml:msub>
+<mml:mi>D</mml:mi>
+<mml:mn>0</mml:mn>
+</mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mi> </mml:mi>
+<mml:mtext>exp</mml:mtext>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mo>−</mml:mo>
+<mml:mi>Q</mml:mi>
+<mml:mo>/</mml:mo>
+<mml:mi>R</mml:mi>
+<mml:mi>T</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>
+<ce:display>
+<ce:formula>
+<ce:label>(6)</ce:label>
+<mml:math altimg="si6.gif" overflow="scroll">
+<mml:mrow>
+<mml:mtext>ln</mml:mtext>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msup>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msup>
+<mml:mi>r</mml:mi>
+<mml:mo>*</mml:mo>
+</mml:msup>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:msup>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>=</mml:mo>
+<mml:mo>−</mml:mo>
+<mml:mi>Q</mml:mi>
+<mml:mo>/</mml:mo>
+<mml:mi>R</mml:mi>
+<mml:mi>T</mml:mi>
+<mml:mo>+</mml:mo>
+<mml:mtext>ln</mml:mtext>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mn>4</mml:mn>
+<mml:msup>
+<mml:mi>β</mml:mi>
+<mml:mn>2</mml:mn>
+</mml:msup>
+<mml:msub>
+<mml:mi>D</mml:mi>
+<mml:mn>0</mml:mn>
+</mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>
+<ce:display>
+<ce:formula>
+<ce:label>(7)</ce:label>
+<mml:math altimg="si7.gif" overflow="scroll">
+<mml:mrow>
+<mml:mtext>log</mml:mtext>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msup>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msup>
+<mml:mi>r</mml:mi>
+<mml:mo>*</mml:mo>
+</mml:msup>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:msup>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>=</mml:mo>
+<mml:mtext>log</mml:mtext>
+<mml:mi> </mml:mi>
+<mml:mtext>e</mml:mtext>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mo>−</mml:mo>
+<mml:mi>Q</mml:mi>
+<mml:mo>/</mml:mo>
+<mml:mi>R</mml:mi>
+<mml:mi>T</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>+</mml:mo>
+<mml:mtext>log</mml:mtext>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mn>4</mml:mn>
+<mml:msup>
+<mml:mi>β</mml:mi>
+<mml:mn>2</mml:mn>
+</mml:msup>
+<mml:msub>
+<mml:mi>D</mml:mi>
+<mml:mn>0</mml:mn>
+</mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>From the Arrhenius plots of the carbon diffusion distance (<ce:italic>r</ce:italic>
+<ce:sup loc="post">*</ce:sup>)<ce:sup loc="post">2</ce:sup> and the temperature <ce:italic>T</ce:italic>, the activation energy <ce:italic>Q</ce:italic> and the constant term log(4<ce:italic>β</ce:italic>
+<ce:sup loc="post">2</ce:sup>
+<ce:italic>D</ce:italic>
+<ce:inf loc="post">0</ce:inf>
+<ce:italic>t</ce:italic>) are obtained.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:para view="all">
+<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor> shows the PIF-value as a function of distance from the surface for Mo–1.0Ti and Mo–1.5Ti after recrystallization. Each data point is an average of 4–6 values. The data for the as-recrystallized Pure Mo are also shown in the figure. The PIF-value are generally as high as 70% or more regardless of the distance from the surface, though there is a scattering in the data. The PIF-value for Mo–Ti alloys are generally lower than that for Pure Mo. Hiraoka et al. <ce:cross-ref refid="bib11">[11]</ce:cross-ref> proposed that the fracture mode (PIF-value) is expressed by the following equation.<ce:display>
+<ce:formula>
+<ce:label>(8)</ce:label>
+<mml:math altimg="si8.gif" overflow="scroll">
+<mml:mrow>
+<mml:mtext>PIF</mml:mtext>
+<mml:mo>=</mml:mo>
+<mml:mi>k</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>σ</mml:mi>
+<mml:mrow>
+<mml:mtext>TG</mml:mtext>
+</mml:mrow>
+</mml:msub>
+<mml:mo>−</mml:mo>
+<mml:msub>
+<mml:mi>σ</mml:mi>
+<mml:mrow>
+<mml:mtext>IG</mml:mtext>
+</mml:mrow>
+</mml:msub>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>where <ce:italic>k</ce:italic> is the material constant, and <ce:italic>σ</ce:italic>
+<ce:inf loc="post">TG</ce:inf> and <ce:italic>σ</ce:italic>
+<ce:inf loc="post">IG</ce:inf> are the transgranular and intergranular fracture strengths, respectively. It is deduced that Ti addition might influence both fracture strengths, though a further discussion is not given in this text. According to the definition of <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>, the average PIF-value of 75 and 72% are the values for the as-recrystallized Mo–1.0Ti and Mo–1.5Ti, respectively. Thereby, for example, it is decided that the carbon diffusion distance in Mo–1.0Ti after carburization is defined as the distance at which the PIF-value is as high as 60%.</ce:para>
+<ce:para view="all">
+<ce:cross-refs refid="fig4 fig5 fig6 fig7 fig8">Figs. 4–8</ce:cross-refs>
+<ce:float-anchor refid="fig4"></ce:float-anchor>
+<ce:float-anchor refid="fig5"></ce:float-anchor>
+<ce:float-anchor refid="fig6"></ce:float-anchor>
+<ce:float-anchor refid="fig7"></ce:float-anchor>
+<ce:float-anchor refid="fig8"></ce:float-anchor> show the change in PIF-value as a function of distance from the specimen surface at diffusion temperatures between 1073 and 1473<ce:hsp sp="0.25"></ce:hsp>K. The region showing a low PIF-value generally progressed towards the center of specimen with the increase of temperature. However, the effect of Ti addition on the change in fracture mode as a function of distance from the specimen surface is distinct. First, after carburizing at 1073<ce:hsp sp="0.25"></ce:hsp>K (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>), the region near the surface in Mo–1.0Ti as well as in Pure Mo indicated a decrease in PIF-value, though the region near the center maintained a PIF-value as high as that for the as-recrystallized specimen. In contrast, Mo–1.5Ti after carburizing demonstrated no decrease in PIF-value even near the specimen surface. Secondly, after carburizing at 1273<ce:hsp sp="0.25"></ce:hsp>K (<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>), the PIF-value for Pure Mo became relatively low regardless of the distance from the surface. In contrast, in Mo–Ti alloys, the region near the specimen center still maintained a PIF-value as high as that for the as-recrystallized specimen. Thirdly, after carburizing at 1473<ce:hsp sp="0.25"></ce:hsp>K (<ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>), the PIF-value became generally low regardless of the distance from the surface in Mo–1.0Ti as well as in Pure Mo. In contrast, in Mo–1.5Ti, the PIF-value near the specimen center was still as high as that for the as-recrystallized specimen.</ce:para>
+<ce:para view="all">From <ce:cross-refs refid="fig3 fig4 fig5 fig6 fig7 fig8">Figs. 3–8</ce:cross-refs>, it is obvious that Ti addition tends to decrease the carbon diffusion distance at a given temperature. Under some conditions, the carbon diffusion distance could not be determined, since a typical S-shaped curve was not obtained. <ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref>
+<ce:float-anchor refid="fig9"></ce:float-anchor> shows the Arrhenius plots of the carbon diffusion distance (<ce:italic>r</ce:italic>
+<ce:sup loc="post">*</ce:sup>)<ce:sup loc="post">2</ce:sup> and the temperature. Almost a linear relationship was obtained for the carburized Mo–1.0Ti and Mo–1.5Ti. From the slope of the linear relationship, the activation energy <ce:italic>Q</ce:italic> was evaluated. Also by an extrapolation method, the constant term log(4<ce:italic>β</ce:italic>
+<ce:sup loc="post">2</ce:sup>
+<ce:italic>D</ce:italic>
+<ce:inf loc="post">0</ce:inf>
+<ce:italic>t</ce:italic>) was evaluated. The results are summarized in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+<ce:float-anchor refid="tbl1"></ce:float-anchor>. Both the activation energy and the constant term for Mo–Ti alloys were generally smaller than those for Pure Mo. The activation energy for Pure Mo in the table was determined from the original data <ce:cross-ref refid="bib6">[6]</ce:cross-ref> and the additional data, and is slightly larger than the previous value (182<ce:hsp sp="0.25"></ce:hsp>kJ). The activation energy is an indicator of the rate of carbon diffusion in the molybdenum matrix. Thereby the present results suggest that carbon atoms can diffuse more easily in Mo–Ti alloys than in Pure Mo. In this study the diffusion time is constant (1.2<ce:hsp sp="0.25"></ce:hsp>ks). Hence the constant term log(4<ce:italic>β</ce:italic>
+<ce:sup loc="post">2</ce:sup>
+<ce:italic>D</ce:italic>
+<ce:inf loc="post">0</ce:inf>
+<ce:italic>t</ce:italic>) is only a function of the value <ce:italic>β</ce:italic>, assuming the term <ce:italic>D</ce:italic>
+<ce:inf loc="post">0</ce:inf> is approximately constant. Using the constant <ce:italic>D</ce:italic>
+<ce:inf loc="post">0</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>3.4<ce:hsp sp="0.25"></ce:hsp>mm<ce:sup loc="post">2</ce:sup>/s <ce:cross-ref refid="bib7">[7]</ce:cross-ref> and <ce:italic>t</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1.2<ce:hsp sp="0.25"></ce:hsp>ks, the constant <ce:italic>β</ce:italic> is derived and shown also in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>. The terms <ce:italic>β</ce:italic> of Mo–Ti alloys are generally smaller than that of Pure Mo. From Eqs. <ce:cross-refs refid="eq1 eq3">(1) and (3)</ce:cross-refs>, the term <ce:italic>β</ce:italic> should be constant, if Ti addition has no effects on the carbon solubility limit <ce:italic>c</ce:italic>
+<ce:inf loc="post">0</ce:inf> and the critical carbon concentration <ce:italic>c</ce:italic>
+<ce:sup loc="post">*</ce:sup>. It is reasonable that a small addition of an alloy element may not change the solubility limit. Therefore, it is deduced that Ti addition increases the critical carbon concentration corresponding to the apparent carbon diffusion distance <ce:italic>r</ce:italic>
+<ce:sup loc="post">*</ce:sup>. The increase in critical carbon concentration by adding Ti is interpreted as follows. In Pure Mo, carbon atoms diffuse into the matrix during carburizing and the carbon atoms mostly segregate into the grain boundaries. In Mo–Ti alloys, on the other hand, carbon atoms also diffuse into the matrix. However, a part of the carbon atoms prefers to combine with Ti atoms, though rest of them still segregates into the grain boundaries. This suggests that Ti addition apparently increases the critical carbon concentration followed by a decrease in the value <ce:italic>β</ce:italic>. Anyway multiple changes of the activation energy for carbon diffusion and the critical carbon concentration by Ti addition lead to a decrease in carbon diffusion distance in molybdenum.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Summary</ce:section-title>
+<ce:para view="all">A small addition of Ti tends to decrease the carbon diffusion distance. From Arrhenius plots of the diffusion distance and the diffusion temperature, diffusion parameters such as the activation energy <ce:italic>Q</ce:italic> for carbon diffusion and the constant term log(4<ce:italic>β</ce:italic>
+<ce:sup loc="post">2</ce:sup>
+<ce:italic>D</ce:italic>
+<ce:inf loc="post">0</ce:inf>
+<ce:italic>t</ce:italic>) were obtained. These two parameters for Mo–Ti alloys are generally smaller than that for Pure Mo. The decrease in activation energy by Ti addition suggests that carbon diffusion is enhanced. On the other hand, the decrease in the constant term by Ti addition suggests an apparent increase in critical carbon concentration arising from the preferential combination between carbon atoms and Ti atoms.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgment</ce:section-title>
+<ce:para view="all">The authors are grateful to Mr. Hiroaki Iwasawa, graduate student for his assistance with experiments.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Nagae</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Nakanishi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Takada</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Kobayashi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Hiraoka</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Kuwahara</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Takemoto</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Hida</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.K.</ce:given-name>
+<ce:surname>Yoo</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:title>
+<sb:maintitle>Proceedings of the 14th International Plansee Seminar</sb:maintitle>
+</sb:title>
+<sb:conference>Reutte, Austria</sb:conference>
+<sb:date>1997</sb:date>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>819</sb:first-page>
+<sb:last-page>829</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Nagae</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Kunisada</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Takada</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Hiraoka</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Takemoto</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Hida</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Kuwahara</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Jpn. Soc. Powder and Powder Metallurgy</sb:maintitle>
+</sb:title>
+<sb:volume-nr>45</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>189</sb:first-page>
+<sb:last-page>194</sb:last-page>
+</sb:pages>
+</sb:host>
+<sb:comment>(in Japanese)</sb:comment>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Nagae</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Okada</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Nakanishi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Takada</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Hiraoka</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Takemoto</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Hida</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Kuwahara</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.K.</ce:given-name>
+<ce:surname>Yoo</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Int. J. Refract. Met. Hard Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>16</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>127</sb:first-page>
+<sb:last-page>132</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Nomura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Nagae</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Takada</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Hiraoka</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Yoshio</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Forum</sb:maintitle>
+</sb:title>
+<sb:volume-nr>426–432</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2449</sb:first-page>
+<sb:last-page>2452</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Hiraoka</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Nagae</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Takada</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:title>
+<sb:maintitle>Proc. of the 14th Iketani Conference on New Frontiers of Process Science and Engineering in Advanced Materials, Part 2</sb:maintitle>
+</sb:title>
+<sb:date>2004</sb:date>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>425</sb:first-page>
+<sb:last-page>430</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Hiraoka</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Iwasawa</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Nagae</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Takada</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>377</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>127</sb:first-page>
+<sb:last-page>132</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>P.S.</ce:given-name>
+<ce:surname>Rudman</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Trans. Metal. Soc. AIME</sb:maintitle>
+</sb:title>
+<sb:volume-nr>239</sb:volume-nr>
+</sb:series>
+<sb:date>1967</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1949</sb:first-page>
+<sb:last-page>1954</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Kunze</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Reichelt</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Less-Common Met.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>20</sb:volume-nr>
+</sb:series>
+<sb:date>1970</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>327</sb:first-page>
+<sb:last-page>338</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>L.S.</ce:given-name>
+<ce:surname>Darken</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.W.</ce:given-name>
+<ce:surname>Gurry</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Phys. Chem. Met.</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1953</sb:date>
+<sb:publisher>
+<sb:name>McGraw-Hill</sb:name>
+<sb:location>NY</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+<sb:comment>p.447</sb:comment>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Gebhardt</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Fromm</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>U.</ce:given-name>
+<ce:surname>Roy</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Z. Metallkde</sb:maintitle>
+</sb:title>
+<sb:volume-nr>57</sb:volume-nr>
+</sb:series>
+<sb:date>1966</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>732</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Hiraoka</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Yoshimura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Takebe</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Int. J. Refract. Met. Hard Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>12</sb:volume-nr>
+</sb:series>
+<sb:date>1993/94</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>261</sb:first-page>
+<sb:last-page>268</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

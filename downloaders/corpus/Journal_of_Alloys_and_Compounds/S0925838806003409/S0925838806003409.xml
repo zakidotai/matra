@@ -1,0 +1,1399 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838806003409</prism:url><dc:identifier>doi:10.1016/j.jallcom.2006.01.111</dc:identifier><eid>1-s2.0-S0925838806003409</eid><prism:doi>10.1016/j.jallcom.2006.01.111</prism:doi><pii>S0925-8388(06)00340-9</pii><dc:title>Morphology evolution of Ir–Nb–X (X=Hf, Ta, or Ti) ternary alloys </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>428</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>220</prism:startingpage><prism:endingpage>229</prism:endingpage><prism:pagerange>220-229</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2007-01-31</prism:coverdate><prism:coverdisplaydate>31 January 2007</prism:coverdisplaydate><prism:copyright>Copyright © 2006 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Huang, C.</dc:creator><dc:creator>Yamabe-Mitarai, Y.</dc:creator><dc:creator>Harada, H.</dc:creator><dc:description>
+                  The microstructure evolution of nine samples from three Ir-base ternary systems, Ir–Nb–Hf, Ir–Nb–Ta, and Ir–Nb–Ti, was investigated by microstructure observation using scanning electron microscopy (SEM), composition map-analysis using electron probe microscopy analysis (EPMA), and phase determination using X-ray diffraction (XRD) patterns. The fcc/L12 two-phase structure was detected in all the samples. Lattice misfits between fcc and L12 phases were calculated. Ir–Nb–Ta and Ir–Nb–Ti alloys exhibited a microstructure quite similar to that of Ni-base superalloys, and the cuboidal L12 precipitates in Ir–Nb–Ta and Ir–Nb–Ti alloys could maintain up to 1900°C.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Intermetallics</dcterms:subject><dcterms:subject>High-temperature alloys</dcterms:subject><dcterms:subject>Microstructure</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838806003409" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838806003409" rel="scidir"/></coredata><objects><object category="standard" height="650" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1a" size="246836" type="IMAGE-DOWNSAMPLED" width="618">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806003409-gr1a.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr1a" size="3547" type="IMAGE-THUMBNAIL" width="89">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806003409-gr1a.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="558" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="298039" type="IMAGE-DOWNSAMPLED" width="751">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806003409-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="6732" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806003409-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="607" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr5" size="240841" type="IMAGE-DOWNSAMPLED" width="753">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806003409-gr5.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="5520" type="IMAGE-THUMBNAIL" width="116">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806003409-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="869" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1b" size="286863" type="IMAGE-DOWNSAMPLED" width="610">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806003409-gr1b.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr1b" size="2669" type="IMAGE-THUMBNAIL" width="65">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806003409-gr1b.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="647" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1c" size="225564" type="IMAGE-DOWNSAMPLED" width="617">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806003409-gr1c.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr1c" size="2882" type="IMAGE-THUMBNAIL" width="89">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806003409-gr1c.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="436" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="17715" type="IMAGE-DOWNSAMPLED" width="503">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806003409-gr6.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="1879" type="IMAGE-THUMBNAIL" width="108">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806003409-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="254" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="6631" type="IMAGE-DOWNSAMPLED" width="364">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806003409-gr4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="87" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="1445" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806003409-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="754" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="17266" type="IMAGE-DOWNSAMPLED" width="339">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806003409-gr3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="782" type="IMAGE-THUMBNAIL" width="42">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806003409-gr3.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>33845718425</scopus-id><scopus-eid>2-s2.0-33845718425</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/33845718425" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20060707">2006-07-07</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20060707">2006-07-07</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-03-29T20:46:52</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838806003409</xocs:eid>
+<xocs:pii-formatted>S0925-8388(06)00340-9</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838806003409</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2006.01.111</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838806X02669</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.326594-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20070131</xocs:date-search-begin>
+<xocs:year-nav>2007</xocs:year-nav>
+<xocs:indexeddate epoch="1152230400">2006-07-07T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>428</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>428</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 428, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>37</xocs:sort-order>
+<xocs:first-fp>220</xocs:first-fp>
+<xocs:last-lp>229</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>220</xocs:first-page>
+<xocs:last-page>229</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20070131</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>31 January 2007</xocs:cover-date-text>
+<xocs:cover-date-start>2007-01-31</xocs:cover-date-start>
+<xocs:cover-date-year>2007</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Materials Science</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2006 Published by Elsevier B.V.</xocs:copyright-line>
+<xocs:normalized-article-title>MORPHOLOGYEVOLUTIONIRNBXXHFTATITERNARYALLOYS</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>HUANG</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>C</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental procedure</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Microstructure and phase constituents</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Ir–Nb–Hf alloys</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Ir–Nb–Ta alloys</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1.3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Ir–Nb–Ti alloys</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>XRD patterns</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Stability of precipitates at high temperature</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Discussions</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Continuous solid solution of the L1<ce:inf loc="post">2</ce:inf> compound in ternary system</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Microstructure and lattice misfit</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4.3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Microstructure control</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4.4</xocs:item-toc-label>
+<xocs:item-toc-section-title>The potential of Ir-base ternary alloys for the development of novel high-temperature materials</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>5</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>YAMABE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>211</xocs:ref-first-fp>
+<xocs:ref-last-lp>215</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>YAMABEMITARAI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>537</xocs:ref-first-fp>
+<xocs:ref-last-lp>549</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>YAMABEMITARAI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>169</xocs:ref-first-fp>
+<xocs:ref-last-lp>179</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>YAMABEMITARAI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>2207</xocs:ref-first-fp>
+<xocs:ref-last-lp>2215</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5"></xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>HUMEROTHERY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1966</xocs:ref-pub-year>
+<xocs:ref-first-fp>17</xocs:ref-first-fp>
+<xocs:ref-last-lp>20</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>HUMEROTHERY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1969</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>STRUCTUREMETALSALLOYS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>HUANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>619</xocs:ref-first-fp>
+<xocs:ref-last-lp>623</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>CONLEY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1989</xocs:ref-pub-year>
+<xocs:ref-first-fp>1251</xocs:ref-first-fp>
+<xocs:ref-last-lp>1263</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>YAMABEMITARAI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>49</xocs:ref-first-fp>
+<xocs:ref-last-lp>58</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-pub-year>1992</xocs:ref-pub-year>
+<xocs:ref-normalized-srctitle>BINARYALLOYPHASEDIAGRAMS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>HUANGX2007X220</xocs:refkey3>
+<xocs:refkey4lp>HUANGX2007X220X229</xocs:refkey4lp>
+<xocs:refkey4ai>HUANGX2007X220XC</xocs:refkey4ai>
+<xocs:refkey5>HUANGX2007X220X229XC</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(06)00340-9</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838806003409</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838806003409</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2006.01.111</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-09-19T15:05:49.260069-04:00</xocs:timestamp>
+<xocs:cover-date-start>2007-01-31</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838806003409-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806003409/MAIN/application/pdf/04deabb2ae4d204a88daed1921a3d648/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806003409/MAIN/application/pdf/04deabb2ae4d204a88daed1921a3d648/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>3761703</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>10</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838806003409-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806003409/PREVIEW/image/png/baa0b2813211b798590fef286d1879db/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806003409/PREVIEW/image/png/baa0b2813211b798590fef286d1879db/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>69745</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806003409-gr1a.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806003409/gr1a/DOWNSAMPLED/image/jpeg/b249ee74ce1a55377a8658ac888d9c83/gr1a.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806003409/gr1a/DOWNSAMPLED/image/jpeg/b249ee74ce1a55377a8658ac888d9c83/gr1a.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1a</xocs:file-basename>
+<xocs:filename>gr1a.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>246836</xocs:filesize>
+<xocs:pixel-height>650</xocs:pixel-height>
+<xocs:pixel-width>618</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806003409-gr1a.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806003409/gr1a/THUMBNAIL/image/gif/7cc47001f761d43f0e330c51980d98c7/gr1a.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806003409/gr1a/THUMBNAIL/image/gif/7cc47001f761d43f0e330c51980d98c7/gr1a.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1a</xocs:file-basename>
+<xocs:filename>gr1a.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3547</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>89</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806003409-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806003409/gr2/DOWNSAMPLED/image/jpeg/8981ca6d712770ccec0ba9fb7d703162/gr2.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806003409/gr2/DOWNSAMPLED/image/jpeg/8981ca6d712770ccec0ba9fb7d703162/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>298039</xocs:filesize>
+<xocs:pixel-height>558</xocs:pixel-height>
+<xocs:pixel-width>751</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806003409-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806003409/gr2/THUMBNAIL/image/gif/36f3337a9314752adc2a576cd607a0fd/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806003409/gr2/THUMBNAIL/image/gif/36f3337a9314752adc2a576cd607a0fd/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>6732</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806003409-gr5.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806003409/gr5/DOWNSAMPLED/image/jpeg/f51bdb782f48ae52f3132d219533b696/gr5.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806003409/gr5/DOWNSAMPLED/image/jpeg/f51bdb782f48ae52f3132d219533b696/gr5.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>240841</xocs:filesize>
+<xocs:pixel-height>607</xocs:pixel-height>
+<xocs:pixel-width>753</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806003409-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806003409/gr5/THUMBNAIL/image/gif/933b71df7eb8e5fa3d3e3be423bcdbb1/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806003409/gr5/THUMBNAIL/image/gif/933b71df7eb8e5fa3d3e3be423bcdbb1/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>5520</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>116</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806003409-gr1b.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806003409/gr1b/DOWNSAMPLED/image/jpeg/8dfa50f6aa5d79b17f72b01d6870ec0d/gr1b.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806003409/gr1b/DOWNSAMPLED/image/jpeg/8dfa50f6aa5d79b17f72b01d6870ec0d/gr1b.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1b</xocs:file-basename>
+<xocs:filename>gr1b.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>286863</xocs:filesize>
+<xocs:pixel-height>869</xocs:pixel-height>
+<xocs:pixel-width>610</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806003409-gr1b.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806003409/gr1b/THUMBNAIL/image/gif/7d026bcbb56724ff89d95fc8958717fc/gr1b.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806003409/gr1b/THUMBNAIL/image/gif/7d026bcbb56724ff89d95fc8958717fc/gr1b.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1b</xocs:file-basename>
+<xocs:filename>gr1b.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2669</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>65</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806003409-gr1c.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806003409/gr1c/DOWNSAMPLED/image/jpeg/46a266634640e3fbfc4bdfa3072ee50b/gr1c.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806003409/gr1c/DOWNSAMPLED/image/jpeg/46a266634640e3fbfc4bdfa3072ee50b/gr1c.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1c</xocs:file-basename>
+<xocs:filename>gr1c.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>225564</xocs:filesize>
+<xocs:pixel-height>647</xocs:pixel-height>
+<xocs:pixel-width>617</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806003409-gr1c.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806003409/gr1c/THUMBNAIL/image/gif/6cef7a40f32b0cad6b6f8e57cc2a3d32/gr1c.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806003409/gr1c/THUMBNAIL/image/gif/6cef7a40f32b0cad6b6f8e57cc2a3d32/gr1c.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1c</xocs:file-basename>
+<xocs:filename>gr1c.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2882</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>89</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806003409-gr6.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806003409/gr6/DOWNSAMPLED/image/gif/64c36c32f6470f4194d17eb1ccff2df9/gr6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806003409/gr6/DOWNSAMPLED/image/gif/64c36c32f6470f4194d17eb1ccff2df9/gr6.gif</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>17715</xocs:filesize>
+<xocs:pixel-height>436</xocs:pixel-height>
+<xocs:pixel-width>503</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806003409-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806003409/gr6/THUMBNAIL/image/gif/fe4fadb1ab049e596bdc62912cd3d8c9/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806003409/gr6/THUMBNAIL/image/gif/fe4fadb1ab049e596bdc62912cd3d8c9/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1879</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>108</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806003409-gr4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806003409/gr4/DOWNSAMPLED/image/gif/2b0508b20c6211a5e02c405588e76964/gr4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806003409/gr4/DOWNSAMPLED/image/gif/2b0508b20c6211a5e02c405588e76964/gr4.gif</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>6631</xocs:filesize>
+<xocs:pixel-height>254</xocs:pixel-height>
+<xocs:pixel-width>364</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806003409-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806003409/gr4/THUMBNAIL/image/gif/16aebb278bc5aa7997e816b7c2ea64ba/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806003409/gr4/THUMBNAIL/image/gif/16aebb278bc5aa7997e816b7c2ea64ba/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1445</xocs:filesize>
+<xocs:pixel-height>87</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806003409-gr3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806003409/gr3/DOWNSAMPLED/image/gif/53428aef31a894730fd8de44d0e35ee4/gr3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806003409/gr3/DOWNSAMPLED/image/gif/53428aef31a894730fd8de44d0e35ee4/gr3.gif</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>17266</xocs:filesize>
+<xocs:pixel-height>754</xocs:pixel-height>
+<xocs:pixel-width>339</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806003409-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806003409/gr3/THUMBNAIL/image/gif/4b840736e9046548545a7220064e8a29/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806003409/gr3/THUMBNAIL/image/gif/4b840736e9046548545a7220064e8a29/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>782</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>42</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>13826</aid>
+<ce:pii>S0925-8388(06)00340-9</ce:pii>
+<ce:doi>10.1016/j.jallcom.2006.01.111</ce:doi>
+<ce:copyright type="unknown" year="2006"></ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">(1) Microstructures of Ir–Nb–Hf alloys under as-cast stage (a–c), and heat-treated at 1900<ce:hsp sp="0.25"></ce:hsp>°C for 168<ce:hsp sp="0.25"></ce:hsp>h (a–c′). (a and a′) Hf1 (84.5Ir–4.25Nb–11.25Hf); (b and b′) Hf2 (84Ir–8.5Nb–7.5Hf); (c and c′) Hf3 (83.5Ir–12.75Nb–3.75Hf). (2) Microstructures of Ir–Nb–Ta alloys under as-cast stage (a–c), and heat-treated at 1900<ce:hsp sp="0.25"></ce:hsp>°C for 168<ce:hsp sp="0.25"></ce:hsp>h (a′, a″, b′, c′, c″). (a, a′, and a″) Tal (82.25Ir–4.25Nb–13.5Ta); (b and b′) Ta2 (82.5Ir–8.5Nb–9Ta); (c, c′, and c″) Ta3 (82.75Ir–12.75Nb–4.5Ta). (a″ and c″) are enlarged pictures of precipitates in (a′ and c′). (3) Microstructures of Ir–Nb–Ti alloys under as-cast stage (a–c), and heat-treated at 1900<ce:hsp sp="0.25"></ce:hsp>°C for 168<ce:hsp sp="0.25"></ce:hsp>h (a′–c′). (a and a′) Ti1 (84.5Ir–4.25Nb–11.25Ti); (b and b′) Ti2 (84Ir–8.5Nb–7.5Ti); (c and c′) Ti3 (83.5Ir–12.75Nb–3.75Ti).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1a"></ce:link>
+<ce:link locator="gr1b"></ce:link>
+<ce:link locator="gr1c"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Map-analysis result of alloy Ti2 after heat-treated at 1700<ce:hsp sp="0.25"></ce:hsp>°C for 168<ce:hsp sp="0.25"></ce:hsp>h. (a–c) Distribution map of Ir, Nb, and Ti, respectively; (d) back scattered image (BSI).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRD patterns of the samples heat-treated at 1700<ce:hsp sp="0.25"></ce:hsp>°C.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Lattice misfit change as a function of third element concentration.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Evolution of precipitate morphology with the heat-treated temperature: (a) Hf1 (84.5Ir–4.25Nb–11.25Hf); (b) Ta3 (82.75Ir–12.75Nb–4.5Ta); (c) Ti3 (83.5Ir–12.75Nb–3.75Ti); (a–c) heat-treated at 1700<ce:hsp sp="0.25"></ce:hsp>°C for 168<ce:hsp sp="0.25"></ce:hsp>h; (a′–c′) heat-treated at 1900<ce:hsp sp="0.25"></ce:hsp>°C for 168<ce:hsp sp="0.25"></ce:hsp>h; (a″–c″): heat-treated at 2000<ce:hsp sp="0.25"></ce:hsp>°C for 168<ce:hsp sp="0.25"></ce:hsp>h.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Partial binary phase diagrams of: (a) Ir–Nb; (b) Ir–Hf; (c) Ir–Ta; (d) Ir–Ti.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+<ce:table colsep="0" frame="topbot" id="tbl1" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Compositions of the samples investigated</ce:simple-para>
+</ce:caption>
+<tgroup cols="3">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Sample no.</entry>
+<entry align="left" nameend="col3" namest="col2" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Composition (at.%)</entry>
+</row>
+<row>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Mixing proportion</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Nominal composition</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" nameend="col3" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Ir–Nb–Hf</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Hf1</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ir–17Nb:Ir–15Hf<hsp sp="0.25"></hsp>=<hsp sp="0.25"></hsp>25:75</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">84.5Ir–4.25Nb–11.25Hf</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Hf2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ir–17Nb:Ir–15Hf<hsp sp="0.25"></hsp>=<hsp sp="0.25"></hsp>50:50</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">84Ir–8.5Nb–7.5Hf</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Hf3</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ir–17Nb:Ir–15Hf<hsp sp="0.25"></hsp>=<hsp sp="0.25"></hsp>75:25</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">83.5Ir–12.75Nb–3.75Hf</entry>
+</row>
+<row>
+<entry align="left" nameend="col3" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<vsp sp="0.5"></vsp>
+</entry>
+</row>
+<row>
+<entry align="left" nameend="col3" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Ir–Nb–Ta</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Ta1</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ir–17Nb:Ir–18Ta<hsp sp="0.25"></hsp>=<hsp sp="0.25"></hsp>25:75</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">82.25Ir–4.25Nb–13.5Ta</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Ta2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ir–17Nb:Ir–18Ta<hsp sp="0.25"></hsp>=<hsp sp="0.25"></hsp>50:50</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">82.5Ir–8.5Nb–9Ta</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Ta3</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ir–17Nb:Ir–18Ta<hsp sp="0.25"></hsp>=<hsp sp="0.25"></hsp>75:25</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">82.75Ir–12.75Nb–4.5Ta</entry>
+</row>
+<row>
+<entry align="left" nameend="col3" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<vsp sp="0.5"></vsp>
+</entry>
+</row>
+<row>
+<entry align="left" nameend="col3" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Ir–Nb–Ti</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Ti1</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ir–17Nb:Ir–15Ti<hsp sp="0.25"></hsp>=<hsp sp="0.25"></hsp>25:75</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">84.5Ir–4.25Nb–11.25Ti</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Ti2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ir–17Nb:Ir–15Ti = 50:50</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">84Ir–8.5Nb–7.5Ti</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Ti3</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ir–17Nb:Ir–15Ti<hsp sp="0.25"></hsp>=<hsp sp="0.25"></hsp>75:25</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">83.5Ir–12.75Nb–3.75Ti</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl2" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Average area composition obtained by EPMA</ce:simple-para>
+</ce:caption>
+<tgroup cols="7">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<colspec colname="col5"></colspec>
+<colspec colname="col6"></colspec>
+<colspec colname="col7"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Sample no.</entry>
+<entry align="left" nameend="col4" namest="col2" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Region A (at.%)</entry>
+<entry align="left" nameend="col7" namest="col5" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Region B (at.%)</entry>
+</row>
+<row>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ir</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Nb</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Third element</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ir</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Nb</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Third element</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" nameend="col7" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Ir–Nb–Hf</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Hf1</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">83.78</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">4.79</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">11.05</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">91.02</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1.93</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">7.05</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Hf2</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">84.00</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">4.72</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">6.73</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">89.55</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">4.41</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">6.04</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Hf3</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">84.96</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">12.78</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">2.26</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">88.01</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">9.17</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">2.81</entry>
+</row>
+<row>
+<entry align="left" nameend="col7" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<vsp sp="0.5"></vsp>
+</entry>
+</row>
+<row>
+<entry align="left" nameend="col7" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Ir–Nb–Ta</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Ta1</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">82.28</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">3.62</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">14.10</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">85.93</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">4.15</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">9.92</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Ta2</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">78.80</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">8.64</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">12.56</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">85.24</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">7.71</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">7.06</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Ta3</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">83.52</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">11.61</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">4.87</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">85.52</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">11.37</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">3.11</entry>
+</row>
+<row>
+<entry align="left" nameend="col7" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<vsp sp="0.5"></vsp>
+</entry>
+</row>
+<row>
+<entry align="left" nameend="col7" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Ir–Nb–Ti</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Ti1</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">87.06</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">3.86</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">9.08</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">84.41</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">4.34</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">11.24</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Ti2</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">85.75</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">8.21</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">6.03</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">83.48</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">8.93</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">7.59</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Ti3</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">84.36</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">12.37</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">3.28</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">83.38</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">12.88</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">3.74</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl3" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Lattice parameters of fcc and L1<ce:inf loc="post">2</ce:inf> phases in each alloy, and lattice misfit between the two phases</ce:simple-para>
+</ce:caption>
+<tgroup cols="4">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Sample no.</entry>
+<entry align="left" nameend="col3" namest="col2" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Lattice parameter (nm)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Lattice misfit, <italic>δ</italic>
+<hsp sp="0.25"></hsp>=<hsp sp="0.25"></hsp>(<italic>a</italic>
+<inf loc="post">L12</inf>
+<hsp sp="0.25"></hsp>−<hsp sp="0.25"></hsp>
+<italic>a</italic>
+<inf loc="post">fcc</inf>)/<italic>a</italic>
+<inf loc="post">fcc</inf> (%)</entry>
+</row>
+<row>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">fcc phase</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">L1<inf loc="post">2</inf> phase</entry>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" nameend="col4" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Ir–Nb–Hf</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Hf1</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.3862</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.3923</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1.6</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Hf2</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.3860</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.3913</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1.4</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Hf3</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.3866</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.3911</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1.2</entry>
+</row>
+<row>
+<entry align="left" nameend="col4" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<vsp sp="0.5"></vsp>
+</entry>
+</row>
+<row>
+<entry align="left" nameend="col4" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Ir–Nb–Ta</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Ta1</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.3860</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.3891</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.8</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Ta2</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.3864</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.3890</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.7</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Ta3</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.3869</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.3892</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.6</entry>
+</row>
+<row>
+<entry align="left" nameend="col4" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<vsp sp="0.5"></vsp>
+</entry>
+</row>
+<row>
+<entry align="left" nameend="col4" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Ir–Nb–Ti</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Ti1</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.3849</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.3856</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.2</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Ti2</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.3851</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.3861</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.3</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Ti3</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.3842</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.3854</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.3</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+</ce:floats>
+<ce:title>Morphology evolution of Ir–Nb–X (X<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>Hf, Ta, or Ti) ternary alloys</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Huang</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="cor1">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Yamabe-Mitarai</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Harada</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation id="aff1">
+<ce:label>a</ce:label>
+<ce:textfn>China Institute of Atomic Energy (CIAE), P.O. Box 275-108, Beijing 102413, China</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff2">
+<ce:label>b</ce:label>
+<ce:textfn>National Institute for Materials Science (NIMS), Sengen 1-2-1, Tsukuba, Ibaraki 305-0047, Japan</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>⁎</ce:label>
+<ce:text>Corresponding author. Tel.: +86 10 69358135; fax: +86 10 69358126.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="13" month="12" year="2005"></ce:date-received>
+<ce:date-accepted day="27" month="1" year="2006"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">The microstructure evolution of nine samples from three Ir-base ternary systems, Ir–Nb–Hf, Ir–Nb–Ta, and Ir–Nb–Ti, was investigated by microstructure observation using scanning electron microscopy (SEM), composition map-analysis using electron probe microscopy analysis (EPMA), and phase determination using X-ray diffraction (XRD) patterns. The fcc/L1<ce:inf loc="post">2</ce:inf> two-phase structure was detected in all the samples. Lattice misfits between fcc and L1<ce:inf loc="post">2</ce:inf> phases were calculated. Ir–Nb–Ta and Ir–Nb–Ti alloys exhibited a microstructure quite similar to that of Ni-base superalloys, and the cuboidal L1<ce:inf loc="post">2</ce:inf> precipitates in Ir–Nb–Ta and Ir–Nb–Ti alloys could maintain up to 1900<ce:hsp sp="0.25"></ce:hsp>°C.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Intermetallics</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>High-temperature alloys</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Microstructure</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">There is a great deal of interest in the development of a new generation of high-temperature alloys that will exceed Ni-base superalloys. A coherent fcc/L1<ce:inf loc="post">2</ce:inf> two-phase structure in which cuboidal L1<ce:inf loc="post">2</ce:inf> precipitates embed in the fcc matrix is believed to be the starting point for Ni-base superalloys to become a fascinating high-temperature material. Accordingly, one alternative method is to develop a novel superalloy with a microstructure that is analogous to that of Ni-base superalloys by applying high-melting-point elements to obtain higher high-temperature capabilities. Ir, which belongs to platinum group metals (PGMs), has potential as such a matrix element because of its fcc structure (the same structure as Ni), high melting point (2447<ce:hsp sp="0.25"></ce:hsp>°C), and excellent environmental resistance. Ir-base binary superalloys, Ir–Zr, Ir–Hf, Ir–Nb, Ir–Ta, and Ir–Ti, have been proposed and investigated in our group <ce:cross-refs refid="bib1 bib2">[1,2]</ce:cross-refs>. A coherent fcc/L1<ce:inf loc="post">2</ce:inf> two-phase structure was found in all of these systems. Among them, the Ir–Nb alloys presented cuboidal precipitates, whose microstructure was the most analogous to that of Ni-base superalloys. The lattice misfits between fcc and L1<ce:inf loc="post">2</ce:inf> phases in these alloys were calculated to be about 2.2, 1.9, 0.4, 0.3, and 0.1% for Ir–Zr, Ir–Hf, Ir–Nb, Ir–Ta, and Ir–Ti alloys, respectively. Lately, the study on Ir–Nb–Zr ternary alloys by combing Ir–Nb and Ir–Zr binary alloys by Yamabe-Mitarai et al. <ce:cross-refs refid="bib3 bib4">[3,4]</ce:cross-refs> prevailed the formation of fcc/L1<ce:inf loc="post">2</ce:inf> two-phase structure as well as stronger creep-resistance than either of Ir–Nb or Ir–Zr binary alloys. This prompts the present investigation of three ternary alloys by combining Ir–Nb with other binary systems (Ir–Hf, Ir–Ta, or Ir–Ti).</ce:para>
+<ce:para view="all">In this paper, a primary investigation on these three ternary alloy systems, Ir–Nb–Hf, Ir–Nb–Ta, and Ir–Nb–Ti, is carried out to evaluate the microstructure evolution. Hf, Ta, and Ti, as the third elements added to the Ir–Nb system, are selected according to the following considerations. First, the fcc/L1<ce:inf loc="post">2</ce:inf> two-phase structure exists in Ir–Hf, Ir–Ta, and Ir–Ti binary alloys, and the differences in the lattice parameters among Ir<ce:inf loc="post">3</ce:inf>Hf, Ir<ce:inf loc="post">3</ce:inf>Ta, Ir<ce:inf loc="post">3</ce:inf>Ti, and Ir<ce:inf loc="post">3</ce:inf>Nb are small <ce:cross-ref refid="bib5">[5]</ce:cross-ref>. This implies that a continuous solid solution between the two-pair L1<ce:inf loc="post">2</ce:inf> phases (Ir<ce:inf loc="post">3</ce:inf>Nb–Ir<ce:inf loc="post">3</ce:inf>Hf, Ir<ce:inf loc="post">3</ce:inf>Nb–Ir<ce:inf loc="post">3</ce:inf>Ta, and Ir<ce:inf loc="post">3</ce:inf>Nb–Ir<ce:inf loc="post">3</ce:inf>Ti) can form and, furthermore, that the fcc/L1<ce:inf loc="post">2</ce:inf> structure in the ternary systems can be obtained. Second, Ir–Hf, Ir–Ta, and Ir–Ti binary alloys have been previously investigated, and the resulting data can be used for comparison.</ce:para>
+</ce:section>
+<ce:section role="materials-methods" view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental procedure</ce:section-title>
+<ce:para view="all">Ir (99.9<ce:hsp sp="0.25"></ce:hsp>wt.% purity) powder, Nb (99.9<ce:hsp sp="0.25"></ce:hsp>wt.% purity) powder, Hf (99.4<ce:hsp sp="0.25"></ce:hsp>wt.% purity) powder, Ta (99.99<ce:hsp sp="0.25"></ce:hsp>wt.% purity) plate, and Ti (99.9<ce:hsp sp="0.25"></ce:hsp>wt.% purity) powder were prepared. Nine button ingot samples, 15<ce:hsp sp="0.25"></ce:hsp>g each, were obtained by arc-melting the above starting materials in an Ar atmosphere. The composition of the alloys is shown in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+<ce:float-anchor refid="tbl1"></ce:float-anchor>. Two binary compositions of Ir–17%Nb and Ir–15%Hf (or Ir–18%Ta or Ir–15%Ti) in three proportions, 25:75, 50:50, and 75:25, were mixed to form the ternary alloys. These binary compositions of Ir–17%Nb, Ir–15%Hf, Ir–18%Ta, and Ir–15%Ti were selected because an fcc/L1<ce:inf loc="post">2</ce:inf> two-phase structure with a 50% volume fraction of L1<ce:inf loc="post">2</ce:inf> phase could form in these composition ranges according to the binary phase diagrams.</ce:para>
+<ce:para view="all">Cylindrical samples, 3<ce:hsp sp="0.25"></ce:hsp>mm in diameter and 5–6<ce:hsp sp="0.25"></ce:hsp>mm in height, were cut by an electro-discharge machine (EDM) and heat-treated at four temperatures of 1500, 1700, 1900, and 2000<ce:hsp sp="0.25"></ce:hsp>°C. All the heat treatments were conducted in a vacuum furnace for 168<ce:hsp sp="0.25"></ce:hsp>h (168<ce:hsp sp="0.25"></ce:hsp>h heat-treatment was applied in order to get the equilibrium phases of Ir-base alloys according to our experience), and the samples were then cooled within the furnace. The cooling rate was not a certain value, which was larger at higher temperature, but decreased at lower temperature. The average cooling rate was about 30<ce:hsp sp="0.25"></ce:hsp>°C/min. The cooling rate is an important factor for the microstructure evolution of an alloy that is treated by solid solution heat-treatment. However, for Ir-base alloys, the solid solution temperature is higher than 2000<ce:hsp sp="0.25"></ce:hsp>°C that is very difficult to reach. Although different cooling rates have some effect on the precipitate microstructure and size for Ir-base alloys, but not as important as that for the alloys with lower melting temperature (such as Ni-base superalloys). Accordingly at the first stage of this investigation, the emphasis was not put on the cooling rate effect, but on the phase constituents.</ce:para>
+<ce:para view="all">The samples under as-cast and heat-treated stages were polished and electrolytically etched with a solution of 5% HCl in ethyl alcohol for microstructure observation by SEM.</ce:para>
+<ce:para view="all">One face of the heat-treated samples was polished and characterized by XRD (filtered Cu Kα radiation) using a RICOH RINT 2500 with a voltage of 40<ce:hsp sp="0.25"></ce:hsp>kV and a current of 300<ce:hsp sp="0.25"></ce:hsp>mA.</ce:para>
+<ce:para view="all">In order to confirm the phase type, EPMA analysis using a JEOL JAX-8900R was performed. Because the same phase constituents were found in the samples heat-treated at different temperatures from the results of SEM observation and XRD patterns analysis, only the samples heat-treated at 1700<ce:hsp sp="0.25"></ce:hsp>°C were diamond-polished for phase composition analysis by EPMA which was conducted under an accelerating voltage of 20<ce:hsp sp="0.25"></ce:hsp>kV and a current of 5<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>10<ce:sup loc="post">−8</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>A. Ir–Lα and Nb–Lα were selected for analyzing the content of Ir and Nb.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results</ce:section-title>
+<ce:section view="all">
+<ce:label>3.1</ce:label>
+<ce:section-title>Microstructure and phase constituents</ce:section-title>
+<ce:para view="all">The heat-treated samples appeared similar microstructure evolution at the different heat-treatment temperatures, although the consisted phases became coarse along with temperature increment. The typical microstructures of alloys under as-cast and heat-treated stages (1900<ce:hsp sp="0.25"></ce:hsp>°C for 168<ce:hsp sp="0.25"></ce:hsp>h) are shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor>. As the phases in each sample were too fine, the phase composition could not be obtained by point-analysis by EPMA. In this case, map-analysis was conducted instead. The area average composition value obtained by averaging several point values randomly picked in regions A and B is listed in <ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>
+<ce:float-anchor refid="tbl2"></ce:float-anchor>.</ce:para>
+<ce:section view="all">
+<ce:label>3.1.1</ce:label>
+<ce:section-title>Ir–Nb–Hf alloys</ce:section-title>
+<ce:para view="all">A spheroid structure with an interdendritic line was observed in all three alloys under as-cast condition. Within the spheroid structure, different contrast (brighter in the center and blacker at the edge) was observed. This might be due to the heterogeneous element distribution. For alloy Hf1 with the largest Hf content (84.5Ir–4.25Nb–11.25Hf), three regions with clear boundaries were found under the as-cast stage (<ce:cross-ref refid="fig1">Fig. 1-1(a)</ce:cross-ref>). From the EPMA results, in which the Ir content in region B was higher than that in region A while Nb and Hf showed more concentration in region A, it was believed that region A was an L1<ce:inf loc="post">2</ce:inf> matrix and region B, an fcc matrix. The region C with a eutectic-like fcc/L1<ce:inf loc="post">2</ce:inf> two-phase structure filled the area between regions A and B. After it was heat-treated, the fcc phase with a rod-shape precipitated from the matrix in region A, and the L1<ce:inf loc="post">2</ce:inf> phase with a cuboidal shape formed within the fcc matrix in region B. The boundary between each region was still obvious (<ce:cross-ref refid="fig1">Fig. 1-1(a′)</ce:cross-ref>). The morphology was slightly different in alloy Hf2 with a moderate Hf content (84Ir–8.5Nb–7.5Hf) (<ce:cross-ref refid="fig1">Fig. 1-1(b and b′)</ce:cross-ref>). Although three regions existed in the as-cast sample, the primary L1<ce:inf loc="post">2</ce:inf> phase (region A) occupied a larger area; on the other hand, region B, which was the primary fcc phase, was limited to a smaller size than Hf1 alloy. After heat-treatment, the fcc/L1<ce:inf loc="post">2</ce:inf> two-phase structure formed in both regions A and B. The microstructure underwent further changes in alloy Hf3 with the lowest Hf content (83.5Ir–12.75Nb–3.75Hf). Region A increased in size, while region B became further smaller (<ce:cross-ref refid="fig1">Fig. 1-1(c and c′)</ce:cross-ref>). The boundary between each area was less evident. Similarly, after it was heat-treated, the fcc/L1<ce:inf loc="post">2</ce:inf> two-phase structure formed in regions A and B. One obvious phenomenon observed from EPMA map-analysis was that Hf showed an extremely high content around the edge of the dendritic arm, especially in Hf1, where the Hf content was the highest among the three alloys. This implied that the diffusion of Hf within Ir–Nb was difficult.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.1.2</ce:label>
+<ce:section-title>Ir–Nb–Ta alloys</ce:section-title>
+<ce:para view="all">Under as-cast stage, the two-region structure was clearly observed in all the three alloys. In <ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>, the Ir content in region B was higher than that in region A. Nb was slightly concentrated in region A, and Ta was rich in region A. This implied that the matrix phase in region A was L1<ce:inf loc="post">2</ce:inf> and the matrix phase in region B was fcc. The difference among the three Ta alloys was in the size of the two regions in each one. The B area became smaller as the Ta content within the alloys decreased from Ta1, Ta2, to Ta3. Region A, on the other hand, increased as the Ta content decreased (<ce:cross-ref refid="fig1">Fig. 1-2(a–c)</ce:cross-ref>). The evolution in which the separation of each region became less obvious along with the decrement of the third element content in the Ta series, was similar to that of the Hf series. After heat treatment, the fcc phase formed within the Ll<ce:inf loc="post">2</ce:inf> matrix in region A, and the Ll<ce:inf loc="post">2</ce:inf> phase precipitated from the fcc phase in region B (<ce:cross-ref refid="fig1">Fig. 1–2(a′–c′)</ce:cross-ref>). However, the microstructures of the fcc phase formed from the Ll<ce:inf loc="post">2</ce:inf> matrix were different among these alloys. Ta1 and Ta2 presented strip-like fcc precipitates; however, Ta3 showed cuboidal precipitates, as shown in <ce:cross-ref refid="fig1">Fig. 1-2(a″ and c″)</ce:cross-ref>.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.1.3</ce:label>
+<ce:section-title>Ir–Nb–Ti alloys</ce:section-title>
+<ce:para view="all">Although two regions existed, region B was very limited (<ce:cross-ref refid="fig1">Fig. 1-3(a–c)</ce:cross-ref>). Different from the Ir–Nb–Hf and Ir–Nb–Ta alloys, the Ir–Nb–Ti alloy did not show any obvious change in the size of the region as the Ti content changed under as-cast stage. All three alloys showed a homogeneous distribution of Ir and Nb (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor> shows the map-analysis results of Ti2). However, the content of Ti was slightly higher on the grain boundary region (region B). Region A was thought to be a primary fcc phase, and region B was believed to be an Ll<ce:inf loc="post">2</ce:inf> phase. After they were heat-treated, a fine cuboidal Ll<ce:inf loc="post">2</ce:inf> phase precipitated homogeneously from the fcc matrix in all three alloys.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.2</ce:label>
+<ce:section-title>XRD patterns</ce:section-title>
+<ce:para view="all">The cross section (about 3<ce:hsp sp="0.25"></ce:hsp>mm in diameter) of the samples was polished and analyzed by XRD. All the samples heat-treated at different temperatures presented the similar peaks on XRD profiles and these peaks were identified as from the fcc and L1<ce:inf loc="post">2</ce:inf> phases. The representative XRD patterns of the alloys heat-treated at 1700<ce:hsp sp="0.25"></ce:hsp>°C are shown in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor>.</ce:para>
+<ce:para view="all">The peaks of fcc and L1<ce:inf loc="post">2</ce:inf> phases from the same Miller indices could be clearly separated in all three Ir–Nb–Hf alloys. However, the separation was not as evident in the Ir–Nb–Ta alloys as it was in the Ir–Nb–Hf alloys. For Ir–Nb–Ti alloys, the peaks of fcc and L1<ce:inf loc="post">2</ce:inf> completely overlapped at lower diffraction angles. This indicated that the lattice misfits between the fcc and L1<ce:inf loc="post">2</ce:inf> phases were the largest in the Ir–Nb–Hf alloys and the smallest in the Ir–Nb–Ti alloys.</ce:para>
+<ce:para view="all">According to the XRD patterns, the lattice parameters of the fcc and L1<ce:inf loc="post">2</ce:inf> phases were measured. Then the lattice misfit (<ce:italic>δ</ce:italic>) between fcc and L1<ce:inf loc="post">2</ce:inf> phase was calculated according to the following equation: <ce:italic>δ</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>(<ce:italic>α</ce:italic>
+<ce:inf loc="post">f</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>−<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>α</ce:italic>
+<ce:inf loc="post">L</ce:inf>)/<ce:italic>α</ce:italic>
+<ce:inf loc="post">f</ce:inf> (where <ce:italic>α</ce:italic>
+<ce:inf loc="post">f</ce:inf> and <ce:italic>α</ce:italic>
+<ce:inf loc="post">L</ce:inf> are the lattice parameters of the fcc and the L1<ce:inf loc="post">2</ce:inf> phases, respectively). For the Ir–Nb–Ti alloys, larger samples (about 5<ce:hsp sp="0.25"></ce:hsp>mm in diameter on cross section) and higher degree diffraction angles (from 80° to 120°) were applied in order to get clearly separated peaks. <ce:cross-ref refid="tbl3">Table 3</ce:cross-ref>
+<ce:float-anchor refid="tbl3"></ce:float-anchor> lists the results, and the lattice misfit change as a function of the third element concentration is shown in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor>. The lattice misfit in Ir–Nb–Hf and Ir–Nb–Ta alloys increased as the Hf or Ta concentration increased; however, the lattice misfit decreased with the increment in the Ti concentration. Because the continuous solid solution between each pair-L1<ce:inf loc="post">2</ce:inf> phase (Ir<ce:inf loc="post">3</ce:inf>Nb–Ir<ce:inf loc="post">3</ce:inf>Hf, Ir<ce:inf loc="post">3</ce:inf>Nb–Ir<ce:inf loc="post">3</ce:inf>Ta, and Ir<ce:inf loc="post">3</ce:inf>Nb–Ir<ce:inf loc="post">3</ce:inf>Ti) could form, the lattice parameter value of the L1<ce:inf loc="post">2</ce:inf> phase in each ternary alloy was between the lattice parameter values of two pure L1<ce:inf loc="post">2</ce:inf> phases. All the lattice parameter values of the L1<ce:inf loc="post">2</ce:inf> phases in Ir–Nb–Hf, Ir–Nb–Ta, and Ir–Nb–Ti alloys were between the lattice parameter of Ir<ce:inf loc="post">3</ce:inf>Nb (0.3892<ce:hsp sp="0.25"></ce:hsp>nm) and the lattice parameters of Ir<ce:inf loc="post">3</ce:inf>Hf (0.3933<ce:hsp sp="0.25"></ce:hsp>nm), Ir<ce:inf loc="post">3</ce:inf>Ta (0.3884<ce:hsp sp="0.25"></ce:hsp>nm), and Ir<ce:inf loc="post">3</ce:inf>Ti (0.3840<ce:hsp sp="0.25"></ce:hsp>nm) <ce:cross-ref refid="bib5">[5]</ce:cross-ref>, respectively.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.3</ce:label>
+<ce:section-title>Stability of precipitates at high temperature</ce:section-title>
+<ce:para view="all">Although the fcc/L1<ce:inf loc="post">2</ce:inf> two-phase structure existed in all the alloys, along with the increment of heat-treatment temperature, the precipitates presented different stability. The microstructure evolution of precipitates along with the heat-treatment temperature (1700, 1900, and 2000<ce:hsp sp="0.25"></ce:hsp>°C) in the three kinds of samples is representatively exhibited in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="fig5"></ce:float-anchor>. The cuboidal precipitates in Ir–Nb–Ta and Ir–Nb–Ti alloys showed stronger microstructure stability than the Ir–Nb–Hf alloys by presenting sharply aligned cubes up to 1900<ce:hsp sp="0.25"></ce:hsp>°C (<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>(b, b′, a, and a′)). The sizes of the precipitates were about 300–400<ce:hsp sp="0.25"></ce:hsp>nm at 1900<ce:hsp sp="0.25"></ce:hsp>°C. The Ir–Nb–Ti alloy was more stable, as it could maintain a aligned cube up to 2000<ce:hsp sp="0.25"></ce:hsp>°C (<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>(c″)). By this temperature, the Ir–Nb–Ta alloys became unstable and a lamella structure formed (<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>(b″)). However, the lamella structure formed in Ir–Nb–Hf alloys at as low as 1700<ce:hsp sp="0.25"></ce:hsp>°C (<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>(a)).</ce:para>
+</ce:section>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Discussions</ce:section-title>
+<ce:section view="all">
+<ce:label>4.1</ce:label>
+<ce:section-title>Continuous solid solution of the L1<ce:inf loc="post">2</ce:inf> compound in ternary system</ce:section-title>
+<ce:para view="all">An fcc/L1<ce:inf loc="post">2</ce:inf> two-phase structure was found in all the alloys in this study. This was obtained from designing the ternary alloys by combining two binary alloys, each of which had an fcc/L1<ce:inf loc="post">2</ce:inf> two-phase structure. In the study by Yamabe-Mitarai and Harada, the fcc/L1<ce:inf loc="post">2</ce:inf> two-phase structure also formed in Ir–Nb–Zr ternary alloys that had been designed in the same way <ce:cross-ref refid="bib3">[3]</ce:cross-ref>. This provides a sensible method for designing a ternary alloy in which the fcc/L1<ce:inf loc="post">2</ce:inf> two-phase structure is expected. The key to obtain the fcc/L1<ce:inf loc="post">2</ce:inf> two-phase structure in the ternary system is whether the two L1<ce:inf loc="post">2</ce:inf> phases in each binary system could form a continuous solid solution.</ce:para>
+<ce:para view="all">It is well known that the capability for forming solid solutions in metallic systems is limited by differences in the atom sizes of the constituents. The first attempt was made by Hume-Rothery et al. <ce:cross-refs refid="bib6 bib7">[6,7]</ce:cross-refs>, who introduced the concept of favorable size-factor as bounded by limits of ±15%. Kornilov gave a qualitative expression on the size-factor on continuous solid solutions between intermetallic compounds, i.e. the compounds should have close values of the lattice parameters. In an earlier study in our group, the continuous solid solution between the two L1<ce:inf loc="post">2</ce:inf> phases could be obtained when their lattice parameters were close enough, at least less than about 8% in a quaternary system <ce:cross-ref refid="bib8">[8]</ce:cross-ref>. For example, the two L1<ce:inf loc="post">2</ce:inf> compounds of Ir<ce:inf loc="post">3</ce:inf>Nb and Pt<ce:inf loc="post">3</ce:inf>Al could form the continuous solid solution L1<ce:inf loc="post">2</ce:inf>–Ir<ce:inf loc="post">3</ce:inf>Nb(Pt<ce:inf loc="post">3</ce:inf>Al) because their lattice parameter difference was 1.18% ((<ce:italic>a</ce:italic>
+<ce:inf loc="post">Ir3Nb</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>−<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>a</ce:italic>
+<ce:inf loc="post">Pt3Al</ce:inf>)/<ce:italic>a</ce:italic>
+<ce:inf loc="post">Pt3Al</ce:inf>). However, the continuous solid solutions could not form between L1<ce:inf loc="post">2</ce:inf>–Ir<ce:inf loc="post">3</ce:inf>Nb and L1<ce:inf loc="post">2</ce:inf>–Ni<ce:inf loc="post">3</ce:inf>Al and between L1<ce:inf loc="post">2</ce:inf>–Ir<ce:inf loc="post">3</ce:inf>Ta and L1<ce:inf loc="post">2</ce:inf>–Ni<ce:inf loc="post">3</ce:inf>Al, as the size differences were large (8.94 and 8.73% for Ir<ce:inf loc="post">3</ce:inf>Nb–Ni<ce:inf loc="post">3</ce:inf>Al and Ir<ce:inf loc="post">3</ce:inf>Ta–Ni<ce:inf loc="post">3</ce:inf>Al, respectively). Among the three ternary systems investigated in this research, all the pair-L1<ce:inf loc="post">2</ce:inf> phases, Ir<ce:inf loc="post">3</ce:inf>Nb–Ir<ce:inf loc="post">3</ce:inf>Hf, Ir<ce:inf loc="post">3</ce:inf>Nb–Ir<ce:inf loc="post">3</ce:inf>Ta, and Ir<ce:inf loc="post">3</ce:inf>Nb–Ir<ce:inf loc="post">3</ce:inf>Ti, have close lattice parameters. The largest difference value existing between Ir<ce:inf loc="post">3</ce:inf>Nb–Ir<ce:inf loc="post">3</ce:inf>Ti is 1.26% ((<ce:italic>a</ce:italic>
+<ce:inf loc="post">Ir3Nb</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>−<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>a</ce:italic>
+<ce:inf loc="post">Ir3Ti</ce:inf>)/<ce:italic>a</ce:italic>
+<ce:inf loc="post">Ir3Ti</ce:inf>). Therefore, continuous solid solutions of L1<ce:inf loc="post">2</ce:inf> phases formed in these systems. In conclusion, in order to get an fcc/L1<ce:inf loc="post">2</ce:inf> two-phase structure in an Ir-base ternary system, the obvious method is to combine two binary systems, each binary system should have an fcc/L1<ce:inf loc="post">2</ce:inf> two-phase structure, and the lattice parameters of the two L1<ce:inf loc="post">2</ce:inf> crystals should be close.</ce:para>
+<ce:para view="all">Moreover, it is known that the lattice parameter changes linearly with the content of the solvent in the case of continuous solid solution in dilute binary and ternary systems. The dependence of the change of the lattice parameter of the L1<ce:inf loc="post">2</ce:inf> phase in Ir–Nb–Hf, Ir–Nb–Ta, and Ir–Nb–Ti ternary alloys on the addition of a third element could not be demonstrated in this study because the phase composition could not be obtained. However, <ce:cross-ref refid="tbl3">Table 3</ce:cross-ref> shows that lattice parameter values of ternary alloys existed between the lattice parameters of the two pure L1<ce:inf loc="post">2</ce:inf> phases. For example, the lattice parameters of Ir–Nb–Hf alloys, 0.3911–0.3923<ce:hsp sp="0.25"></ce:hsp>nm, are between the lattice parameters of pure Ir<ce:inf loc="post">3</ce:inf>Nb (0.3892<ce:hsp sp="0.25"></ce:hsp>nm) and pure Ir<ce:inf loc="post">3</ce:inf>Hf (0.3933<ce:hsp sp="0.25"></ce:hsp>nm). Accordingly, the lattice parameter of the L1<ce:inf loc="post">2</ce:inf> phase of the Ir-base ternary alloys can be roughly estimated when the continuous solid solution of L1<ce:inf loc="post">2</ce:inf> phase could form.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>4.2</ce:label>
+<ce:section-title>Microstructure and lattice misfit</ce:section-title>
+<ce:para view="all">The lattice misfit has an effect on the morphology of the precipitates in Ni-base superalloys and Ir-base superalloys <ce:cross-ref refid="bib9">[9]</ce:cross-ref>. Studies on Ir-base binary alloys by Yamabe-Mitarai et al. <ce:cross-ref refid="bib10">[10]</ce:cross-ref> indicated that the shape of the L1<ce:inf loc="post">2</ce:inf> precipitates strongly depended on the lattice misfit. The precipitate shape was irregular in the Ir–Ti alloy with the smallest lattice misfit (0.1%), cuboidal in the Ir–Nb and Ir–Ta alloys with a moderate lattice misfit (0.4 and 0.3% for Ir–Nb and Ir–Ta, respectively), and plate-like in the Ir–Zr and Ir–Hf alloys with the largest lattice misfit (2.2 and 1.9% for Ir–Zr and Ir–Hf, respectively). The present study of Ir–Nb–X (X<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>Hf, Ta, or Ti) ternary alloys showed that cuboidal precipitates existed in all the alloys. This suggested that the shape of precipitate in Ir–Nb–X (X<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>Hf, Ta, or Ti) ternary alloys did not only depend on the lattice misfit. This phenomena was also found in Ir–Nb–Zr ternary alloys which presented cuboidal precipitates, however possessed large lattice misfit value of 1.3–1.8% <ce:cross-ref refid="bib4">[4]</ce:cross-ref>.</ce:para>
+<ce:para view="all">The lattice misfit also affects the coarsening processing of L1<ce:inf loc="post">2</ce:inf> precipitates in Ni-base superalloys. It was reported that the coarsening rate of the cuboidal L1<ce:inf loc="post">2</ce:inf>–Ni<ce:inf loc="post">3</ce:inf>Al phase in Ni–Al–Mo alloys decreased as the lattice misfit was reduced <ce:cross-ref refid="bib9">[9]</ce:cross-ref>. The results obtained in this study also showed the similar effect of the lattice misfit on the coarsening of precipitates: the larger of the lattice misfit value the more profound of precipitate coarsening. Among the three kinds of alloys, Ir–Nb–Hf has the largest lattice misfit value of 1.2–1.6%, Ir–Nb–Ta presents the moderate value 0.6–0.8%, and Ir–Ir–Nb–Ti has the smallest one of 0.2–0.3%. Accordingly, the cuboidal precipitates showed the most stability in Ir–Nb–Ti alloys; however, they were easier to coarsen in Ir–Nb–Ta alloys, and presented the serious coarsening in Ir–Nb–Hf alloys. This difference of the structure stability of the three kinds of ternary alloys was believed to be mainly due to the difference of their lattice misfit values. This was because larger lattice misfit would induce higher interfacial energy which caused higher driving force of coarsening.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>4.3</ce:label>
+<ce:section-title>Microstructure control</ce:section-title>
+<ce:para view="all">Under as-cast stage, a heterogeneous microstructure involving two or three regions each with a different morphology was detected in Ir–Nb–Hf and Ir–Nb–Ta alloys. However, the regional separation phenomenon was not observed within the Ir–Nb–Ti alloys, and a homogeneous microstructure was found. The reason for the difference was attributed to the solidifying processes of the alloys, which can be briefly interpreted according to their binary phase diagrams <ce:cross-ref refid="bib11">[11]</ce:cross-ref>. As shown in <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="fig6"></ce:float-anchor>, the common point among Ir–17%Nb, Ir–15%Hf, and Ir–18%Ta is that all these compositions are in fcc and L1<ce:inf loc="post">2</ce:inf> two-phase regions and that the primary phase formed from the liquid is L1<ce:inf loc="post">2</ce:inf>. This caused the formation of the first region (region A in all Ir–Nb–Hf and Ir–Nb–Ta alloys). During the further cooling, the second region with an fcc phase formed in Ir–Nb–Hf and Ir–Nb–Ta alloys (region B in Ir–Nb–Hf and Ir–Nb–Ta alloys), and the fcc/L1<ce:inf loc="post">2</ce:inf> eutectic structure formed by eutectic reaction in Ir–Nb–Hf alloys (region C in Ir–Nb–Hf alloys). In contrast, the composition of Ir–15%Ti lies in the range where fcc is the primary phase formed from liquid. From the microstructure observation, the primary phase formed in all the Ir–Nb–Ti alloys investigated in this study was the fcc phase (region A in Ir–Nb–Ti alloys), and the second region was very limited. This indicated that the combining Ir–Nb with Ir–Ti caused the ternary alloy composition to be almost in a single fcc phase region, which induced a homogeneous microstructure.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>4.4</ce:label>
+<ce:section-title>The potential of Ir-base ternary alloys for the development of novel high-temperature materials</ce:section-title>
+<ce:para view="all">The coherent fcc/L1<ce:inf loc="post">2</ce:inf> two-phase structure with cuboidal L1<ce:inf loc="post">2</ce:inf> precipitates formed after solid solution treatment is believed to be the main reason for the excellent creep-resistance of the Ni-base superalloy. In this study, Ir–Nb–Ta and Ir–Nb–Ti alloys presented a very analogous microstructure to Ni-base superalloys at a much higher temperature than that Ni-base superalloys could be used. Ir–Nb–Ta and Ir–Nb–Ti ternary systems show great potential for the development of novel materials that could be served at a higher temperature than Ni-base superalloys.</ce:para>
+<ce:para view="all">In a comparison of these two systems of Ir–Nb–Ta and Ir–Nb–Ti, Ir–Nb–Ti alloys exhibited some superior characteristics. First, Ir–Nb–Ti alloys showed a higher temperature capability than the Ir–Nb–Ta alloys. The L1<ce:inf loc="post">2</ce:inf> precipitates within Ir–Nb–Ti alloys maintained the cuboidal shape to higher temperature. The structure stability is beneficial to high-temperature creep property. Second, the microstructure was more homogeneous in the Ir–Nb–Ti alloys than that in the Ir–Nb–Ta alloys. Ir–Nb–Ti appears to be a more promising system for ultra high-temperature alloy development.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section view="all">
+<ce:label>5</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">The microstructure evolution of the alloys in Ir–Nb–Hf, Ir–Nb–Ta, and Ir–Nb–Ti ternary systems was investigated. The fcc/L1<ce:inf loc="post">2</ce:inf> two-phase structure was detected from the Ir–Nb side to the Ir–Hf (or Ir–Ta or Ir–Ti) side. The lattice misfits between the fcc and Ll<ce:inf loc="post">2</ce:inf> phases were calculated to be 1.2–1.6, 0.6–0.8, and 0.2–0.3% for Ir–Nb–Hf, Ir–Nb–Ta, and Ir–Nb–Ti alloys, respectively. The stability of precipitates in these alloys decreased with increasing of lattice misfits. The phase constituents, precipitate morphology, and microstructure stability were discussed in terms of the lattice parameter difference and lattice misfit. Ir–Nb–Ti with the smallest lattice misfit value is found to be a promising system where fcc/L1<ce:inf loc="post">2</ce:inf> two-phase structure with cuboidal precipitates could remained up to 2000<ce:hsp sp="0.25"></ce:hsp>°C.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgements</ce:section-title>
+<ce:para view="all">The authors would like to thank Mr. E. Bannai for preparing the ingots and Mr. K. Nishida for EPMA analysis.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Yamabe</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Koizumi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Murakami</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Ro</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Maruko</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Harada</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scr. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>35</sb:volume-nr>
+</sb:series>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>211</sb:first-page>
+<sb:last-page>215</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Yamabe-Mitarai</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Ro</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Maruko</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Harada</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metall. Trans. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>29A</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>537</sb:first-page>
+<sb:last-page>549</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Yamabe-Mitarai</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Harada</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>361</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>169</sb:first-page>
+<sb:last-page>179</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Yamabe-Mitarai</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Gu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Harada</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metall. Trans. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>34A</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2207</sb:first-page>
+<sb:last-page>2215</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<ce:other-ref>
+<ce:textref>Powder Diffraction File, Inorganic Phases, International Center for Diffraction Data, 1991.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Hume-Rothery</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Metall.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>14</sb:volume-nr>
+</sb:series>
+<sb:date>1966</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>17</sb:first-page>
+<sb:last-page>20</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Hume-Rothery</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.E.</ce:given-name>
+<ce:surname>Smallman</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.W.</ce:given-name>
+<ce:surname>Haworth</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The Structure of Metals and Alloys</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1969</sb:date>
+<sb:publisher>
+<sb:name>The Institute of Metals</sb:name>
+<sb:location>London</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+<sb:comment>p. 125</sb:comment>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Huang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Yamabe-Mitarai</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.H.</ce:given-name>
+<ce:surname>Yu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Harada</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Intermetallics</sb:maintitle>
+</sb:title>
+<sb:volume-nr>12</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>619</sb:first-page>
+<sb:last-page>623</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.G.</ce:given-name>
+<ce:surname>Conley</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.E.</ce:given-name>
+<ce:surname>Fine</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.R.</ce:given-name>
+<ce:surname>Weertman</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Metall.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>37</sb:volume-nr>
+</sb:series>
+<sb:date>1989</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1251</sb:first-page>
+<sb:last-page>1263</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Yamabe-Mitarai</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Ro</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Maruko</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Harada</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Intermetallics</sb:maintitle>
+</sb:title>
+<sb:volume-nr>7</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>49</sb:first-page>
+<sb:last-page>58</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>T.B.</ce:given-name>
+<ce:surname>Massalski</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>Binary Alloy Phase Diagrams</sb:maintitle>
+</sb:title>
+<sb:edition>second ed.</sb:edition>
+<sb:date>1992</sb:date>
+<sb:publisher>
+<sb:name>ASM</sb:name>
+</sb:publisher>
+</sb:edited-book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

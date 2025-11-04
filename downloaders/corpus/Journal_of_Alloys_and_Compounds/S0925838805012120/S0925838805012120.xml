@@ -1,0 +1,1401 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838805012120</prism:url><dc:identifier>doi:10.1016/j.jallcom.2005.03.121</dc:identifier><eid>1-s2.0-S0925838805012120</eid><prism:doi>10.1016/j.jallcom.2005.03.121</prism:doi><pii>S0925-8388(05)01212-0</pii><dc:title>Effect of forging on microstructure and tensile properties of Ti-45Al-(8–9)Nb-(W,B,Y) alloy </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>414</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>175</prism:startingpage><prism:endingpage>180</prism:endingpage><prism:pagerange>175-180</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2006-04-13</prism:coverdate><prism:coverdisplaydate>13 April 2006</prism:coverdisplaydate><prism:copyright>Copyright © 2005 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Xu, X.J.</dc:creator><dc:creator>Lin, J.P.</dc:creator><dc:creator>Wang, Y.L.</dc:creator><dc:creator>Gao, J.F.</dc:creator><dc:creator>Lin, Z.</dc:creator><dc:creator>Chen, G.L.</dc:creator><dc:description>
+                  The effect of canned forging on microstructure and tensile properties of high Nb containing TiAl alloy, with the nominal composition of Ti-45Al-(8–9)Nb-(W,B,Y) was studied in this paper. The microstructure of the as-cast material was near lamellar (NL) microstructure composed of lamellar colony, 70μm in size, and 15% γ and β phase. There existed many boride ribbons longer than 40μm with high aspect ratio. After canned forging the material exhibited fine, homogeneous duplex (DP) microstructure, with grain size less than 20μm, and the borides were crushed to rods shorter than 6μm. Both microstructures of the alloy had excellent strength at room and high temperatures. The as-forged material was stronger and much more ductile than the as-cast material, exhibiting a brittle-ductile transition with an elongation 2.29% at room temperature (RT) increasing to 59.14% at 815°C. A much less pronounced brittle-ductile transition existed for the as-cast material, with a increase elongation from 0.49% at RT to only 1.42% at 815°C. The inferior tensile properties of the as-cast material were attributed to the NL microstructure which included detrimental β phase, boride ribbons and porosities, while the superior tensile properties of the as-forged material were attributed to finer DP microstructure resulting from canned forging.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Intermetallics</dcterms:subject><dcterms:subject>Canned forged</dcterms:subject><dcterms:subject>Microstructure</dcterms:subject><dcterms:subject>Property</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838805012120" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838805012120" rel="scidir"/></coredata><objects><object category="standard" height="440" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="124809" type="IMAGE-DOWNSAMPLED" width="572">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012120-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="4502" type="IMAGE-THUMBNAIL" width="121">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012120-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="226" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr6" size="78475" type="IMAGE-DOWNSAMPLED" width="574">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012120-gr6.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="49" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="2698" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012120-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="431" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="134624" type="IMAGE-DOWNSAMPLED" width="571">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012120-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="4776" type="IMAGE-THUMBNAIL" width="124">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012120-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="226" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr5" size="74149" type="IMAGE-DOWNSAMPLED" width="574">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012120-gr5.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="49" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="2707" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012120-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="488" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="12328" type="IMAGE-DOWNSAMPLED" width="325">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012120-gr4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="1205" type="IMAGE-THUMBNAIL" width="62">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012120-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="429" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="14431" type="IMAGE-DOWNSAMPLED" width="301">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012120-gr2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="1452" type="IMAGE-THUMBNAIL" width="65">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012120-gr2.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>33645845651</scopus-id><scopus-eid>2-s2.0-33645845651</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/33645845651" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20050908">2005-09-08</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20050908">2005-09-08</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-03-29T07:36:02</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838805012120</xocs:eid>
+<xocs:pii-formatted>S0925-8388(05)01212-0</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805012120</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2005.03.121</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838806X02505</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.349087-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20060413</xocs:date-search-begin>
+<xocs:year-nav>2006</xocs:year-nav>
+<xocs:indexeddate epoch="1126137600">2005-09-08T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>414</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>414</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 414, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>32</xocs:sort-order>
+<xocs:first-fp>175</xocs:first-fp>
+<xocs:last-lp>180</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>175</xocs:first-page>
+<xocs:last-page>180</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20060413</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>13 April 2006</xocs:cover-date-text>
+<xocs:cover-date-start>2006-04-13</xocs:cover-date-start>
+<xocs:cover-date-year>2006</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Materials Science</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2005 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>EFFECTFORGINGMICROSTRUCTURETENSILEPROPERTIESTI45AL89NBWBYALLOY</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>XU</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>X</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental procedures</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Microstructures of as-cast material and as-forged material</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Tensile properties of the as-cast and as-forged materials</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Fracture analyses for the alloy with the two microstructures</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Discussion</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Effects of elements and processing on the microstructure</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Effects of composition and microstructure on the tensile properties</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>5</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgement</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>TETSUI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>239</xocs:ref-first-fp>
+<xocs:ref-last-lp>254</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>235</xocs:ref-first-fp>
+<xocs:ref-last-lp>251</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1993</xocs:ref-pub-year>
+<xocs:ref-first-fp>319</xocs:ref-first-fp>
+<xocs:ref-last-lp>324</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>STRUCTURALINTERMETALLICS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>371</xocs:ref-first-fp>
+<xocs:ref-last-lp>380</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>GAMMATITANIUMALUMINIDES</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>653</xocs:ref-first-fp>
+<xocs:ref-last-lp>659</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>250</xocs:ref-first-fp>
+<xocs:ref-last-lp>253</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>SEMIATIN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>1</xocs:ref-first-fp>
+<xocs:ref-last-lp>24</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>LIN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>549</xocs:ref-first-fp>
+<xocs:ref-last-lp>555</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>NAKA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>313</xocs:ref-first-fp>
+<xocs:ref-last-lp>322</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>STRUCTURALMATERIALINTERMETALLICS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>17</xocs:ref-first-fp>
+<xocs:ref-last-lp>20</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>HYMAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1991</xocs:ref-pub-year>
+<xocs:ref-first-fp>1647</xocs:ref-first-fp>
+<xocs:ref-last-lp>1662</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>HU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>273</xocs:ref-first-fp>
+<xocs:ref-last-lp>278</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13">
+<xocs:ref-normalized-surname>KOEPPE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1993</xocs:ref-pub-year>
+<xocs:ref-first-fp>1795</xocs:ref-first-fp>
+<xocs:ref-last-lp>1806</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>475</xocs:ref-first-fp>
+<xocs:ref-last-lp>481</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>GAMMATITANIUMALUMINIDES</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15">
+<xocs:ref-normalized-surname>BEDDOES</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>324</xocs:ref-first-fp>
+<xocs:ref-last-lp>332</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib16">
+<xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1994</xocs:ref-pub-year>
+<xocs:ref-first-fp>30</xocs:ref-first-fp>
+<xocs:ref-last-lp>39</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib17">
+<xocs:ref-normalized-surname>INUI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1992</xocs:ref-pub-year>
+<xocs:ref-first-fp>3095</xocs:ref-first-fp>
+<xocs:ref-last-lp>3104</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>XUX2006X175</xocs:refkey3>
+<xocs:refkey4lp>XUX2006X175X180</xocs:refkey4lp>
+<xocs:refkey4ai>XUX2006X175XX</xocs:refkey4ai>
+<xocs:refkey5>XUX2006X175X180XX</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(05)01212-0</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805012120</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838805012120</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2005.03.121</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-08T03:45:28.010423-04:00</xocs:timestamp>
+<xocs:cover-date-start>2006-04-13</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838805012120-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012120/MAIN/application/pdf/087e76f55654018732391b4c25d5c994/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012120/MAIN/application/pdf/087e76f55654018732391b4c25d5c994/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>652174</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838805012120-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012120/PREVIEW/image/png/24dd15069e291db33d895dc670717739/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012120/PREVIEW/image/png/24dd15069e291db33d895dc670717739/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>59849</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012120-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012120/gr3/DOWNSAMPLED/image/jpeg/1a62e1abe6f24ae74b8fa909900c4f91/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012120/gr3/DOWNSAMPLED/image/jpeg/1a62e1abe6f24ae74b8fa909900c4f91/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>124809</xocs:filesize>
+<xocs:pixel-height>440</xocs:pixel-height>
+<xocs:pixel-width>572</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012120-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012120/gr3/THUMBNAIL/image/gif/89243faf1645ac3855cb3ccc4166d079/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012120/gr3/THUMBNAIL/image/gif/89243faf1645ac3855cb3ccc4166d079/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>4502</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>121</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012120-gr6.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012120/gr6/DOWNSAMPLED/image/jpeg/3703a1d91754901e43dc02261a6a8392/gr6.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012120/gr6/DOWNSAMPLED/image/jpeg/3703a1d91754901e43dc02261a6a8392/gr6.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>78475</xocs:filesize>
+<xocs:pixel-height>226</xocs:pixel-height>
+<xocs:pixel-width>574</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012120-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012120/gr6/THUMBNAIL/image/gif/e24ee8de1fd679ebe339eff19f5619a1/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012120/gr6/THUMBNAIL/image/gif/e24ee8de1fd679ebe339eff19f5619a1/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2698</xocs:filesize>
+<xocs:pixel-height>49</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012120-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012120/gr1/DOWNSAMPLED/image/jpeg/848be91f08b6a4c576d66c2248961601/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012120/gr1/DOWNSAMPLED/image/jpeg/848be91f08b6a4c576d66c2248961601/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>134624</xocs:filesize>
+<xocs:pixel-height>431</xocs:pixel-height>
+<xocs:pixel-width>571</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012120-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012120/gr1/THUMBNAIL/image/gif/0e80493d71b59feca4cac3fa585a3856/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012120/gr1/THUMBNAIL/image/gif/0e80493d71b59feca4cac3fa585a3856/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>4776</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>124</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012120-gr5.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012120/gr5/DOWNSAMPLED/image/jpeg/47a2a59d5d468a447869d9dbdbb3b4fa/gr5.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012120/gr5/DOWNSAMPLED/image/jpeg/47a2a59d5d468a447869d9dbdbb3b4fa/gr5.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>74149</xocs:filesize>
+<xocs:pixel-height>226</xocs:pixel-height>
+<xocs:pixel-width>574</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012120-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012120/gr5/THUMBNAIL/image/gif/c246b1c3a798cf2290c0c6ad7628a7c8/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012120/gr5/THUMBNAIL/image/gif/c246b1c3a798cf2290c0c6ad7628a7c8/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2707</xocs:filesize>
+<xocs:pixel-height>49</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012120-gr4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012120/gr4/DOWNSAMPLED/image/gif/7ccb26011ce769d5c00aeb18b1ec3430/gr4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012120/gr4/DOWNSAMPLED/image/gif/7ccb26011ce769d5c00aeb18b1ec3430/gr4.gif</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>12328</xocs:filesize>
+<xocs:pixel-height>488</xocs:pixel-height>
+<xocs:pixel-width>325</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012120-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012120/gr4/THUMBNAIL/image/gif/fcf6c328c30070c5cde33664061cf5c9/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012120/gr4/THUMBNAIL/image/gif/fcf6c328c30070c5cde33664061cf5c9/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1205</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>62</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012120-gr2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012120/gr2/DOWNSAMPLED/image/gif/06b5cfe32ff2e5a317ee0eb2a56a70b8/gr2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012120/gr2/DOWNSAMPLED/image/gif/06b5cfe32ff2e5a317ee0eb2a56a70b8/gr2.gif</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>14431</xocs:filesize>
+<xocs:pixel-height>429</xocs:pixel-height>
+<xocs:pixel-width>301</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012120-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012120/gr2/THUMBNAIL/image/gif/cf96fbf67ffdbe0a3e33843088051f9f/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012120/gr2/THUMBNAIL/image/gif/cf96fbf67ffdbe0a3e33843088051f9f/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1452</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>65</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>12954</aid>
+<ce:pii>S0925-8388(05)01212-0</ce:pii>
+<ce:doi>10.1016/j.jallcom.2005.03.121</ce:doi>
+<ce:copyright type="full-transfer" year="2005">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Micrographs of as-cast Ti-45Al-(8–9)Nb-(W,B,Y) alloy: (a) optical microstructure; (b) SEM-BSE microstructure; (c) TEM microstructure; (d) boride morphology in deep-etched sample.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">X-ray diffraction pattern of phases in as-cast and as-forged Ti-45Al-(8–9)Nb-(W,B,Y) alloy: (a) as-cast material; (b) as-forged material.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Micrographs of as-forged Ti-45Al-(8–9)Nb-(W,B,Y) alloy: (a) optical microstructure; (b) SEM-BSE microstructure; (c) TEM microstructure; (d) boride morphology in deep-etched sample.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Tensile strength, yield strength and plastic elongation to failure as a function of the temperature for Ti-45Al-(8–9)Nb-(W,B,Y) alloy: (a) as-cast material; (b) as-forged material.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Fracture surfaces of tensile tested samples for as-cast Ti-45Al-(8–9)Nb-(W,B,Y) alloy: (a) tested at RT; (b) tested at 815<ce:hsp sp="0.25"></ce:hsp>°C.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Fracture surfaces of tensile tested samples for as-forged Ti-45Al-(8–9)Nb-(W,B,Y) alloy: (a) tested at RT; (b) tested at 815<ce:hsp sp="0.25"></ce:hsp>°C.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+</ce:floats>
+<ce:title>Effect of forging on microstructure and tensile properties of Ti-45Al-(8–9)Nb-(W,B,Y) alloy</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>X.J.</ce:given-name>
+<ce:surname>Xu</ce:surname>
+</ce:author>
+<ce:author>
+<ce:given-name>J.P.</ce:given-name>
+<ce:surname>Lin</ce:surname>
+<ce:cross-ref refid="cor1">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Y.L.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</ce:author>
+<ce:author>
+<ce:given-name>J.F.</ce:given-name>
+<ce:surname>Gao</ce:surname>
+</ce:author>
+<ce:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Lin</ce:surname>
+</ce:author>
+<ce:author>
+<ce:given-name>G.L.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</ce:author>
+<ce:affiliation>
+<ce:textfn>State Key Laboratory for Advanced Metals and Materials, University of Science and Technology Beijing, Beijing 100083, PR China</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>⁎</ce:label>
+<ce:text>Corresponding author. Tel.: +86 10 62332192; fax: +86 10 62332508.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="19" month="1" year="2005"></ce:date-received>
+<ce:date-accepted day="29" month="3" year="2005"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">The effect of canned forging on microstructure and tensile properties of high Nb containing TiAl alloy, with the nominal composition of Ti-45Al-(8–9)Nb-(W,B,Y) was studied in this paper. The microstructure of the as-cast material was near lamellar (NL) microstructure composed of lamellar colony, 70<ce:hsp sp="0.25"></ce:hsp>μm in size, and 15% γ and β phase. There existed many boride ribbons longer than 40<ce:hsp sp="0.25"></ce:hsp>μm with high aspect ratio. After canned forging the material exhibited fine, homogeneous duplex (DP) microstructure, with grain size less than 20<ce:hsp sp="0.25"></ce:hsp>μm, and the borides were crushed to rods shorter than 6<ce:hsp sp="0.25"></ce:hsp>μm. Both microstructures of the alloy had excellent strength at room and high temperatures. The as-forged material was stronger and much more ductile than the as-cast material, exhibiting a brittle-ductile transition with an elongation 2.29% at room temperature (RT) increasing to 59.14% at 815<ce:hsp sp="0.25"></ce:hsp>°C. A much less pronounced brittle-ductile transition existed for the as-cast material, with a increase elongation from 0.49% at RT to only 1.42% at 815<ce:hsp sp="0.25"></ce:hsp>°C. The inferior tensile properties of the as-cast material were attributed to the NL microstructure which included detrimental β phase, boride ribbons and porosities, while the superior tensile properties of the as-forged material were attributed to finer DP microstructure resulting from canned forging.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Intermetallics</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Canned forged</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Microstructure</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Property</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Many properties of TiAl alloy induced by higher Nb content are very different from those of lower Nb content <ce:cross-refs refid="bib1 bib2 bib3 bib4 bib5 bib6">[1–6]</ce:cross-refs>. High Nb containing TiAl alloys such as Ti-45Al-(8–10)Nb have been paid more and more attentions in recent years and been regarded as a new generation TiAl alloy <ce:cross-refs refid="bib4 bib5 bib6">[4–6]</ce:cross-refs>. However, the investigation of high Nb containing TiAl alloys so far is performed using small heats. From an industrial prospective, the manufacturing process, microstructure controlling and mechanical properties of these alloys have not been conducted as yet. Hot working is an efficient way to develop a fine, uniform microstructure suitable for subsequent processing or final heat treatment for desired microstructure for TiAl alloy <ce:cross-ref refid="bib7">[7]</ce:cross-ref>. Therefore, study on hot working and its effect on microstructure and mechanical properties is essential for the application of high Nb containing TiAl alloy. In the present work, the effect of canned forging on microstructure and tensile properties of a newly developed high Nb containing TiAl ingot on industrial scale are investigated.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental procedures</ce:section-title>
+<ce:para view="all">The alloy with nominal composition Ti-45Al-(8–9)Nb-(W,B,Y)(at.%) was prepared using consumable electrode arc melting technique in an argon atmosphere, and remelted in a vacuum-skull melting furnace in order to reduce composition heterogeneity. An ingot with a diameter of 120<ce:hsp sp="0.25"></ce:hsp>mm and a height of 420<ce:hsp sp="0.25"></ce:hsp>mm was cast and then hot isostatic pressed (HIP) to eliminate casting porosity. Chemical analyses indicated the composition of the ingot matched the nominal composition within the experimental error. The oxygen content was less than 550<ce:hsp sp="0.25"></ce:hsp>ppm. The forging billet was machined from the ingot, canned and forged at (α<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>γ) phase region to a height reduction of more than 75%. The resulting pancake was crack-free and had a dimension of 230<ce:hsp sp="0.25"></ce:hsp>mm<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>70<ce:hsp sp="0.25"></ce:hsp>mm<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>28<ce:hsp sp="0.25"></ce:hsp>mm.</ce:para>
+<ce:para view="all">Microstructures before and after the forging were analyzed by optical (OM), scanning electron (SEM) and transmission electron microscopy (TEM). SEM studies were carried out using backscattered electron mode (BSE) to obtain contrast of different phase for phase volume fraction and grain size determination. TEM studies were carried out for lamellar spacing determination. The lamellar spacing given in the present paper was arithmetic average value measured without taking account of types of lamellar boundaries. Phases were determined by X-ray diffraction technique (XRD) and confirmed by energy dispersive X-ray spectrometer (EDS). For SEM observation, samples were ground and mechanically polished. Additional studies of the boride morphologies were made on deep-etched samples. TEM foils were prepared by twin jet electropolished in a solution of 60% (vol.%) methanol, 35% butyl alcohol and 5% perchloric acid at 15<ce:hsp sp="0.25"></ce:hsp>V and −30<ce:hsp sp="0.25"></ce:hsp>°C.</ce:para>
+<ce:para view="all">For the as-cast and as-forged materials, tensile tests were conducted at 25, 760 and 815<ce:hsp sp="0.25"></ce:hsp>°C in air on a MTS testing machine at a strain rate of 1<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>10<ce:sup loc="post">−3</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>s<ce:sup loc="post">−1</ce:sup>. The specimens were prepared by electric discharge machining (EDM) in a form of plate with gauge size of 25<ce:hsp sp="0.25"></ce:hsp>mm<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>3<ce:hsp sp="0.25"></ce:hsp>mm<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>1.5<ce:hsp sp="0.25"></ce:hsp>mm and then electropolished. The yield strength (YS), ultimate tensile strength (UTS) and the plastic elongation to failure (<ce:italic>δ</ce:italic>) were determined by a strip chart recording. After tests, the fracture surfaces of the specimens were observed via secondary electron imaging in a SEM.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results</ce:section-title>
+<ce:section view="all">
+<ce:label>3.1</ce:label>
+<ce:section-title>Microstructures of as-cast material and as-forged material</ce:section-title>
+<ce:para view="all">The as-cast Ti-45Al-(8–9)Nb-(W,B,Y) alloy has homogenous, fine-grained near lamellar (NL) microstructure and mainly consists of γ/α<ce:inf loc="post">2</ce:inf> lamellar structure. The mean colony size is 70<ce:hsp sp="0.25"></ce:hsp>μm. This is shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor>, which corresponds to the center of the ingot. From a scanning electron microscope (SEM) image in back-scattered electron (BES) mode of the as-cast microstructure, there is evident of γ phase with black contrast and another phase with white contrast on colony boundaries or inside colonies, but no dendritic core region enriched with W and Nb can been seen (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>b). XRD spectra of the material confirm the presence of these phases, namely, γ, α<ce:inf loc="post">2</ce:inf> and β (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>a<ce:float-anchor refid="fig2"></ce:float-anchor>). EDS analysis reveals that the grey phase contained high Ti, W and Nb than the nominal composition of the alloy. Thus, we can draw the conclusion that the white phase is β phase. Few minute yttrium oxide precipitates and many boride particles or rods with bright contrast are seen either at colony boundaries or in the colonies. TEM analysis shows that the mean lamellar spacing of the lamellar colonies is 700<ce:hsp sp="0.25"></ce:hsp>nm (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>c). For the borides, EDS analysis shows the presence of Ti, Nb and Al. Investigation of its crystal structure is underway. Closer examination of them in deeply etched samples reveals that they are needles or rods longer than 40<ce:hsp sp="0.25"></ce:hsp>μm with aspect ratios of 20–100 (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>d).</ce:para>
+<ce:para view="all">After canned forging the microstructure of Ti-45Al-(8–9)Nb-(W,B,Y) alloy is shown in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor>. Metallographic examination shows that as-forged material has homogenous duplex (DP) structure. SEM-BSE images show that the alloy composes of approximately 50% γ phase and 50% lamellar colonies with average lamellar spacing of about 130<ce:hsp sp="0.25"></ce:hsp>nm (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>b and c). On the other hand, the size of the borides is shorter than 6<ce:hsp sp="0.25"></ce:hsp>μm, and their distribution are more homogeneous. In comparison to the as-cast material no β phase exists. This is verified by SEM-BSE image (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>b) and confirmed by the XRD analysis (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>b).</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.2</ce:label>
+<ce:section-title>Tensile properties of the as-cast and as-forged materials</ce:section-title>
+<ce:para view="all">Results of the tensile tests of Ti-45Al-(8–9)Nb-(W,B,Y) alloy before and after canned forging are shown in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor>. Tensile properties of the alloy with both microstructures show temperature dependence. With the increase of the temperature, YS, UTS decrease and <ce:italic>δ</ce:italic> increases. Drastic differences exist in the temperature dependence of the tensile properties for the alloy before and after canned forging. It is apparent that the YS and the UTS of the as-cast material decrease slower with increasing temperature and also that the brittle to ductile transition is sifted high temperature. The YS and UTS of the as-cast material decrease from 622 and 668<ce:hsp sp="0.25"></ce:hsp>MPa at RT to 498 and 595<ce:hsp sp="0.25"></ce:hsp>MPa at 815<ce:hsp sp="0.25"></ce:hsp>°C, which are 80% and 89% of the values at RT, respectively. The <ce:italic>δ</ce:italic> of the as-cast material increases slight from 0.49% at RT to 1.42% at 815<ce:hsp sp="0.25"></ce:hsp>°C. However, the YS and UTS of the as-forged material decrease from 782.1 and 911.8<ce:hsp sp="0.25"></ce:hsp>MPa at RT to 537 and 648<ce:hsp sp="0.25"></ce:hsp>MPa at 815<ce:hsp sp="0.25"></ce:hsp>°C, which are 69% and 71% of those at RT. Plastic elongation of as-forged material increases substantially from 2.29% at RT to 59.14% at 815<ce:hsp sp="0.25"></ce:hsp>°C. It is obvious that above 760<ce:hsp sp="0.25"></ce:hsp>°C, strength drops and ductility increases rapidly for the as-forged alloy. At each temperature, YS and UTS of as-forged material exceed the values of as-cast material, and the elongation of former is larger than that of the latter. If the temperature at which <ce:italic>δ</ce:italic> rises to 7.5% is defined as brittle to ductile transition temperature (<ce:italic>T</ce:italic>
+<ce:inf loc="post">BD</ce:inf>) <ce:cross-ref refid="bib8">[8]</ce:cross-ref>, as-cast material has a <ce:italic>T</ce:italic>
+<ce:inf loc="post">BD</ce:inf> exceeding 815<ce:hsp sp="0.25"></ce:hsp>°C, whereas <ce:italic>T</ce:italic>
+<ce:inf loc="post">BD</ce:inf> value of as-forged material is less than 760<ce:hsp sp="0.25"></ce:hsp>°C.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.3</ce:label>
+<ce:section-title>Fracture analyses for the alloy with the two microstructures</ce:section-title>
+<ce:para view="all">
+<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="fig5"></ce:float-anchor> shows the fractographs of the as-cast material tested at RT and 815<ce:hsp sp="0.25"></ce:hsp>°C. At RT the predominantly observed fracture mode is transgranular with numerous cleavage planes. The test temperature has little effect on the fracture mode for the as-cast material which remains brittle and transgranular fracture mode tested at 815<ce:hsp sp="0.25"></ce:hsp>°C. Long fractured boride rods are observed in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>. These long boride ribbons lie on the fracture surfaces approximately perpendicular to the tensile axis. The low ductility is partly related to the occurrence of these long boride rods on the surfaces.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="fig6"></ce:float-anchor> shows the fractographs of the RT and 815<ce:hsp sp="0.25"></ce:hsp>°C tested samples for as-forged material. The RT fracture is dominantly transgranular cleavage-like failure, including translamellar cleavage and delamination in spite of 2.29% ductility. At 760<ce:hsp sp="0.25"></ce:hsp>°C the specimen begins to neck with significant elongation, and the fracture is still transgranular with a few cleavage and dimples (not shown here). At 815<ce:hsp sp="0.25"></ce:hsp>°C, dimples evolve from substantial plastic deformation, and many voids form.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Discussion</ce:section-title>
+<ce:section view="all">
+<ce:label>4.1</ce:label>
+<ce:section-title>Effects of elements and processing on the microstructure</ce:section-title>
+<ce:para view="all">High Nb addition decreases the β and α transus temperatures of Al-lean TiAl alloy. With Nb addition the β phase field extends to higher Al concentration, but the α field is contracted <ce:cross-ref refid="bib4">[4]</ce:cross-ref>. Thus, solidification and phase transformation path way for the studied alloy is as follows: L<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>L<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>β<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>β<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>β<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>α<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>α<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>α<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>γ<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>lamellar (α<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>γ)<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>γ. However, under industrial conditions, the cooling rate of the solid phase is often too rapid to allow complete elimination of differences in composition by diffusion. As the primary solidification phase, β becomes richer in W and Nb because they are β stabilizers. Due to the low diffusion rate of these elements and quick solidification rate, the transformation of β to α, which later transformed to lamellar colony, will not consume all the β phase, and retained casting β phase co-exists with lamellar colonies and γ phase in a metastable condition in the ingot. HIP can significantly decrease the β phase, which partly transforms to α and γ, but the β phase cannot be eliminated completely. Thus the microstructure of the as-cast material is composed of lamellar colony structure as the major constituent and γ and β as the minor. The alloys that solidify through the β phase show a columnar character much less pronounced <ce:cross-ref refid="bib9">[9]</ce:cross-ref>. Meanwhile, boron addition is an effective element for grain refinement but lamellar spacing thickening of cast and wrought TiAl alloys <ce:cross-ref refid="bib10">[10]</ce:cross-ref>. Thus dendritic structure becomes less obvious, and the finer lamellar colony with a size of 70<ce:hsp sp="0.25"></ce:hsp>μm and lamellar spacing of 700<ce:hsp sp="0.25"></ce:hsp>nm is obtained. The finer colony size is beneficial for the forging and tensile properties. But the solubility of the boron in TiAl is so low that boride ribbons are invariable observed. They are TiB and/or TiB<ce:inf loc="post">2</ce:inf> phases rich in Nb, and their formation and evolution mechanism are given elsewhere <ce:cross-refs refid="bib11 bib12">[11,12]</ce:cross-refs>. Solidification conditions also determine the soundness of the cast ingot. At high cooling rate the porosity arises primarily due to insufficient feeding of solidification shrinkage. Some porosity persists even though subsequent HIP is performed.</ce:para>
+<ce:para view="all">Canned forging at the temperature of α<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>γ phase region has three advantages. First, casting structure is broken up by deformation so that region of different composition are intermingled, reducing the distances over which W, Nb and Ti diffusion must take place. Second, deformation makes lamellar colonies tend to buckle, plastic deform and shear. The localization of strain leads to a significant refinement of the grain size due to dynamic and static recrystallization, making the cast NL structure be completely replaced by the finer homogenous DP microstructure <ce:cross-ref refid="bib13">[13]</ce:cross-ref>. For the lamellar colonies of microstructure, the lamellar spacing is only one fifth of that of the as-cast material. Third, The press and temperature provide sufficient energy to improve the diffusion rate of W and Nb atoms. Thus, these elements can overcome the activation barrier to decompose the metastable β phase. Consequently, homogenous DP without β phase was obtained. Another obvious change of the microstructure is smaller aspect ratio and more homogeneous distribution of the borides. This is because the borides are brittle and are broken off. Besides, the remained porosity can be closed and welded together.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>4.2</ce:label>
+<ce:section-title>Effects of composition and microstructure on the tensile properties</ce:section-title>
+<ce:para view="all">The alloy has excellent strength at room and elevated temperatures. But the tensile properties are substantially different before and after forging. All high Nb containing TiAl alloys have higher strength and lower ductility than conventional TiAl alloys. The higher Nb content of the alloy, the higher is its strength both at RT and high temperatures. This is because Nb is found to strengthen but also to embrittle the γ phase <ce:cross-refs refid="bib4 bib14">[4,14]</ce:cross-refs>. The high strength of high Nb containing TiAl alloy comes from the solid solution strengthening of Nb addition. The main effect of high Nb content on the strength relies on the increase of the values of <ce:italic>σ</ce:italic>
+<ce:inf loc="post">0</ce:inf> in Hall–Petch equation. It means that friction stress of moving dislocations arising mainly from the Peierls stress of lattice and the interaction between dislocations are much stronger than those for conventional TiAl alloys. Apart from the high Nb addition, W is the element lowering the ductility but strengthening the alloy, possibly because W solute impedes elevated temperature dislocation movement <ce:cross-ref refid="bib15">[15]</ce:cross-ref>. B does not affect the strength but decreases the ductility of the alloy, the brittleness is related to the formation of excess borides as shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>d.</ce:para>
+<ce:para view="all">Difference in properties of the alloy before and after forging can be related to the microstructural change caused by the forging. The inferior tensile properties of the as-cast material are attributed to the following reasons. In general, NL microstructure in as-cast material exhibits poorer ductility, lower RT strength and the higher <ce:italic>T</ce:italic>
+<ce:inf loc="post">BD</ce:inf> due to the strain incompatibility and the anisotropic tensile properties <ce:cross-ref refid="bib16">[16]</ce:cross-ref>. The thicker lamellar spacing leads to lower strength. The existence of β phase is detrimental to both room ductility and high temperature strength <ce:cross-ref refid="bib3">[3]</ce:cross-ref>. The site where β exists is probably the crack forming and propagating place, as is proved by our previous work. The existence of long coarse boride rods can cause the premature failure because of stress concentration at interfaces of matrix and ribbons especially when they lie in tensile specimens with their broad surface perpendicular to the tensile direction. The cracks in the poorly orientated boride ribbons can spread through their whole lengths instantaneously due to their brittle nature. The porosity produced during cooling which is not eliminated by HIP is partly responsible for the low ductility.</ce:para>
+<ce:para view="all">The as-forged material with finer DP microstructure shows a higher ductility than that of the as-cast material with NL microstructure over the tensile test temperature range. The increased strength is attributed to the finer grain size. The increased ductility is believed to result from the finer grain size of the DP microstructure, leading to more uniform yielding and to lower plastic incompatibilities at the grain boundaries during plastic deformation. The presence of the lamellar grains may enhance the ductility compared to NG microstructure, because they can be highly deformed when oriented in the soft mode to the loading direction <ce:cross-ref refid="bib17">[17]</ce:cross-ref>. At elevated temperatures, grain boundaries sliding can become active, especially in fine-grained material, resulting in a lowered <ce:italic>T</ce:italic>
+<ce:inf loc="post">BD</ce:inf> for DP material.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section view="all">
+<ce:label>5</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">For High Nb containing alloy Ti-45Al-(8–9)Nb-(W,B,Y) ingot on industrial scale, the microstructures and tensile properties before and after canned forging have been studied and the following conclusions can be drawn:<ce:list>
+<ce:list-item>
+<ce:label>1.</ce:label>
+<ce:para view="all">The as-cast alloy has NL microstructure, which is mainly composed of lamellar colony about 70<ce:hsp sp="0.25"></ce:hsp>μm in size, with some equiaxed γ and shapeless β on grain boundaries or inside the lamellar colonies. Many boride ribbons longer than 40<ce:hsp sp="0.25"></ce:hsp>μm and few casting porosities are existent too.</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>2.</ce:label>
+<ce:para view="all">At α<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>γ phase region the alloy has good workability. After canned forging, the alloy has fine, homogenous DP microstructure with grain size less than 20<ce:hsp sp="0.25"></ce:hsp>μm. The metastable β phase is eliminated, and the long boride ribbons are broken off.</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>3.</ce:label>
+<ce:para view="all">Forging can improve the tensile properties of the alloy. The as-cast material has higher YS and UTS than conventional TiAl alloys but poor ductility with elongation of 0.49% at RT, No brittle to ductile transition exhibits between RT and 815<ce:hsp sp="0.25"></ce:hsp>°C. The fractographs exhibit transgranular at all test temperatures. The as-forged material has balanced tensile properties, which is stronger and much more ductile than the as-cast material, exhibiting brittle to ductile transition at the temperature below 760<ce:hsp sp="0.25"></ce:hsp>°C.</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>4.</ce:label>
+<ce:para view="all">The superior tensile properties of the alloy are mainly attributed to the high Nb and a slight of W additions. Difference in the properties of the alloy before and after forging can be related to the different microstructure. The lower strength and ductility of the as-cast material are attributed to the NL microstructure with coarser lamellar spacing and the existence of β, boride ribbons and casting porosity, while the excellent tensile properties of as-forged material with DP microstructure are attributed to the finer homogeneous microstructure without β phase and long boride rods.</ce:para>
+</ce:list-item>
+</ce:list>
+</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgement</ce:section-title>
+<ce:para view="all">This research was sponsored by the State Key Project for Fundamental Research Developing Plan, under Contract No. G2000067206-2 and National Natural Science Foundation of China, under Contract Nos. 50274005 and 50471097.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Tetsui</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Intermetallics</sb:maintitle>
+</sb:title>
+<sb:volume-nr>10</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>239</sb:first-page>
+<sb:last-page>254</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.T.</ce:given-name>
+<ce:surname>Yang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.H.</ce:given-name>
+<ce:surname>Koo</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Intermetallics</sb:maintitle>
+</sb:title>
+<sb:volume-nr>12</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>235</sb:first-page>
+<sb:last-page>251</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Sun</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Darolia</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>J.J.</ce:given-name>
+<ce:surname>Lewandowski</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>C.T.</ce:given-name>
+<ce:surname>Liu</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>P.L.</ce:given-name>
+<ce:surname>Martin</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>D.B.</ce:given-name>
+<ce:surname>Miracle</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>M.V.</ce:given-name>
+<ce:surname>Nathal</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>Structural Intermetallics</sb:maintitle>
+</sb:title>
+<sb:date>1993</sb:date>
+<sb:publisher>
+<sb:name>Warrendale, PA</sb:name>
+<sb:location>TMS</sb:location>
+</sb:publisher>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>319</sb:first-page>
+<sb:last-page>324</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Liu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.W.</ce:given-name>
+<ce:surname>Kim</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>Y.W.</ce:given-name>
+<ce:surname>Kim</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>D.M.</ce:given-name>
+<ce:surname>Dimiduk</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>M.H.</ce:given-name>
+<ce:surname>Loretto</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>Gamma Titanium Aluminides</sb:maintitle>
+</sb:title>
+<sb:date>1999</sb:date>
+<sb:publisher>
+<sb:name>Warrendale, PA</sb:name>
+<sb:location>TMS</sb:location>
+</sb:publisher>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>371</sb:first-page>
+<sb:last-page>380</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Z.C.</ce:given-name>
+<ce:surname>Liu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.P.</ce:given-name>
+<ce:surname>Lin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.J.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.L.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Intermetallics</sb:maintitle>
+</sb:title>
+<sb:volume-nr>10</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>653</sb:first-page>
+<sb:last-page>659</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.J.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.L.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Apple</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.J.</ce:given-name>
+<ce:surname>Nieh</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.C.</ce:given-name>
+<ce:surname>Deevi</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>315A</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>250</sb:first-page>
+<sb:last-page>253</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.L.</ce:given-name>
+<ce:surname>Semiatin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.</ce:given-name>
+<ce:surname>Seetharaman</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Weiss</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>243A</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1</sb:first-page>
+<sb:last-page>24</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Lin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.C.</ce:given-name>
+<ce:surname>Liu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Law Intermatellics</sb:maintitle>
+</sb:title>
+<sb:volume-nr>8</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>549</sb:first-page>
+<sb:last-page>555</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Naka</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Thomas</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Sanchez</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Khan</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>M.V.</ce:given-name>
+<ce:surname>Nathal</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Darolia</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>C.T.</ce:given-name>
+<ce:surname>Liu</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>P.L.</ce:given-name>
+<ce:surname>Martin</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>D.B.</ce:given-name>
+<ce:surname>Miracle</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Wanger</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Yamaguchi</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>Structural Material Intermetallics</sb:maintitle>
+</sb:title>
+<sb:date>1997</sb:date>
+<sb:publisher>
+<sb:name>Warrendale, PA</sb:name>
+<sb:location>TMS</sb:location>
+</sb:publisher>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>313</sb:first-page>
+<sb:last-page>322</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.J.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.C.</ce:given-name>
+<ce:surname>Deevi</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>337A</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>17</sb:first-page>
+<sb:last-page>20</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.E.</ce:given-name>
+<ce:surname>Hyman</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Mccllough</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.G.</ce:given-name>
+<ce:surname>Levi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Mehrabian</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metal. Tran.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>22A</sb:volume-nr>
+</sb:series>
+<sb:date>1991</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1647</sb:first-page>
+<sb:last-page>1662</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Hu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.F.</ce:given-name>
+<ce:surname>Mei</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Wickins</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.A.</ce:given-name>
+<ce:surname>Harding</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scr. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>47</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>273</sb:first-page>
+<sb:last-page>278</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Koeppe</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Bartels</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Seeger</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Mecking</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metal. Trans.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>24A</sb:volume-nr>
+</sb:series>
+<sb:date>1993</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1795</sb:first-page>
+<sb:last-page>1806</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.L.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.C.</ce:given-name>
+<ce:surname>Liu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.P.</ce:given-name>
+<ce:surname>Lin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.J.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>K.J.</ce:given-name>
+<ce:surname>Hemker</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>D.M.</ce:given-name>
+<ce:surname>Dimiduk</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Clemens</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Darolia</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Inui</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>J.M.</ce:given-name>
+<ce:surname>Larson</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>V.K.</ce:given-name>
+<ce:surname>Sikka</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Thomas</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>J.D.</ce:given-name>
+<ce:surname>Whittenberger</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>Gamma Titanium Aluminides</sb:maintitle>
+</sb:title>
+<sb:date>2001</sb:date>
+<sb:publisher>
+<sb:name>Warrendale, PA</sb:name>
+<sb:location>TMS</sb:location>
+</sb:publisher>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>475</sb:first-page>
+<sb:last-page>481</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Beddoes</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Zhao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Au</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Wallace</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>192/193A</sb:volume-nr>
+</sb:series>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>324</sb:first-page>
+<sb:last-page>332</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib16">
+<ce:label>[16]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.W.</ce:given-name>
+<ce:surname>Kim</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>JOM.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>46</sb:volume-nr>
+</sb:series>
+<sb:date>1994</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>30</sb:first-page>
+<sb:last-page>39</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib17">
+<ce:label>[17]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Inui</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.H.</ce:given-name>
+<ce:surname>Oh</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Nakamura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Yamaguchi</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Metall.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>40</sb:volume-nr>
+</sb:series>
+<sb:date>1992</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>3095</sb:first-page>
+<sb:last-page>3104</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

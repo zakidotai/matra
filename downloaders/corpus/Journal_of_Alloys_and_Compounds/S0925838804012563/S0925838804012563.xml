@@ -1,0 +1,1662 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838804012563</prism:url><dc:identifier>doi:10.1016/j.jallcom.2004.09.049</dc:identifier><eid>1-s2.0-S0925838804012563</eid><prism:doi>10.1016/j.jallcom.2004.09.049</prism:doi><pii>S0925-8388(04)01256-3</pii><dc:title>Modeling of precipitation hardening during the aging and overaging of 18Ni–Co–Mo–Ti maraging 300 steel </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>393</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>109</prism:startingpage><prism:endingpage>113</prism:endingpage><prism:pagerange>109-113</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2005-05-03</prism:coverdate><prism:coverdisplaydate>3 May 2005</prism:coverdisplaydate><prism:copyright>Copyright © 2004 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Pardal, J.M.</dc:creator><dc:creator>Tavares, S.S.M.</dc:creator><dc:creator>Terra, V.F.</dc:creator><dc:creator>Da Silva, M.R.</dc:creator><dc:creator>Dos Santos, D.R.</dc:creator><dc:description>
+                  The precipitation hardening behavior of an 18Ni–Co–Mo–Ti maraging 300 solution treated and aged in the 440–650°C range was investigated. The aging at 440, 480, 510 and 560°C was modeled by an equation ΔH
+                     =(Kt)
+                        n
+                     . The activation energy for precipitation was determined (132kJ/mol) and compared to published values for 18Ni–Co–Mo–Ti maraging 250 and 350 steels. The model for overaging based on the Orowan mechanism was tested in samples treated at 560, 600 and 650°C but was found to be valid only for 560°C. The softening of samples aged at 600 and 650°C is rather due to austenite precipitation than to Ni3(Mo, Ti) and Fe2Mo coarsening. Equations H
+                     =
+                     H
+                     1
+                     t
+                     
+                        p
+                      were fitted for the overaging at 560, 600 and 650°C.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Maraging steels</dcterms:subject><dcterms:subject>Overaging</dcterms:subject><dcterms:subject>Precipitation hardening</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838804012563" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838804012563" rel="scidir"/></coredata><objects><object category="thumbnail" height="17" mimetype="image/gif" multimediatype="GIF image file" ref="si4" size="419" type="ALTIMG" width="88">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012563-si4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="44" mimetype="image/gif" multimediatype="GIF image file" ref="si3" size="1474" type="ALTIMG" width="723">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012563-si3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="35" mimetype="image/gif" multimediatype="GIF image file" ref="si2" size="1116" type="ALTIMG" width="725">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012563-si2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="17" mimetype="image/gif" multimediatype="GIF image file" ref="si1" size="710" type="ALTIMG" width="724">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012563-si1.gif?httpAccept=%2A%2F%2A</object><object category="standard" height="269" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr9" size="17165" type="IMAGE-DOWNSAMPLED" width="371">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012563-gr9.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="91" mimetype="image/gif" multimediatype="GIF image file" ref="gr9" size="2018" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012563-gr9.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="306" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr8" size="19132" type="IMAGE-DOWNSAMPLED" width="371">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012563-gr8.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr8" size="2051" type="IMAGE-THUMBNAIL" width="113">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012563-gr8.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="284" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr7" size="20607" type="IMAGE-DOWNSAMPLED" width="371">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012563-gr7.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="2134" type="IMAGE-THUMBNAIL" width="122">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012563-gr7.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="301" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr6" size="22074" type="IMAGE-DOWNSAMPLED" width="370">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012563-gr6.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="2127" type="IMAGE-THUMBNAIL" width="115">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012563-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="298" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr5" size="14144" type="IMAGE-DOWNSAMPLED" width="369">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012563-gr5.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="1786" type="IMAGE-THUMBNAIL" width="115">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012563-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="301" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="18364" type="IMAGE-DOWNSAMPLED" width="372">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012563-gr4.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="2013" type="IMAGE-THUMBNAIL" width="115">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012563-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="305" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="19782" type="IMAGE-DOWNSAMPLED" width="371">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012563-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="2098" type="IMAGE-THUMBNAIL" width="114">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012563-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="307" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="22137" type="IMAGE-DOWNSAMPLED" width="371">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012563-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="2168" type="IMAGE-THUMBNAIL" width="113">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012563-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="295" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="23338" type="IMAGE-DOWNSAMPLED" width="363">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012563-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="2295" type="IMAGE-THUMBNAIL" width="115">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012563-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="303" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr10" size="19204" type="IMAGE-DOWNSAMPLED" width="371">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012563-gr10.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr10" size="2044" type="IMAGE-THUMBNAIL" width="114">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012563-gr10.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>16244422297</scopus-id><scopus-eid>2-s2.0-16244422297</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/16244422297" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20041113">2004-11-13</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20041113">2004-11-13</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-04-19T04:56:56</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838804012563</xocs:eid>
+<xocs:pii-formatted>S0925-8388(04)01256-3</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838804012563</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2004.09.049</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.3</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838805X01360</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.346355-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20050503</xocs:date-search-begin>
+<xocs:year-nav>2005</xocs:year-nav>
+<xocs:indexeddate epoch="1100304000">2004-11-13T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>393</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>393</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 393, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>22</xocs:sort-order>
+<xocs:first-fp>109</xocs:first-fp>
+<xocs:last-lp>113</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>109</xocs:first-page>
+<xocs:last-page>113</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20050503</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>3 May 2005</xocs:cover-date-text>
+<xocs:cover-date-start>2005-05-03</xocs:cover-date-start>
+<xocs:cover-date-year>2005</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Metallurgy</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2004 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>MODELINGPRECIPITATIONHARDENINGDURINGAGINGOVERAGING18NICOMOTIMARAGING300STEEL</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>PARDAL</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental methods</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1"></xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>LECOMTE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1985</xocs:ref-pub-year>
+<xocs:ref-first-fp>3339</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>TEWARI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>1187</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>TAVARES</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>152</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>PETERS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1968</xocs:ref-pub-year>
+<xocs:ref-first-fp>62</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>239</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>AHMED</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1994</xocs:ref-pub-year>
+<xocs:ref-first-fp>631</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>AHMED</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>1869</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>HABLBY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1992</xocs:ref-pub-year>
+<xocs:ref-first-fp>259</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>WILSON</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>1179</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>SHA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>549</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>JONHSON</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1939</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13">
+<xocs:ref-normalized-surname>AVRAMI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1941</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>VISWANATHAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1993</xocs:ref-pub-year>
+<xocs:ref-first-fp>2429</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>U</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15">
+<xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>96</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>PARDALX2005X109</xocs:refkey3>
+<xocs:refkey4lp>PARDALX2005X109X113</xocs:refkey4lp>
+<xocs:refkey4ai>PARDALX2005X109XJ</xocs:refkey4ai>
+<xocs:refkey5>PARDALX2005X109X113XJ</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(04)01256-3</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838804012563</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838804012563</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2004.09.049</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-10T20:44:21.614547-04:00</xocs:timestamp>
+<xocs:cover-date-start>2005-05-03</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838804012563-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012563/MAIN/application/pdf/12f2423a0a53206246cfe842a81718d7/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012563/MAIN/application/pdf/12f2423a0a53206246cfe842a81718d7/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>332911</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838804012563-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012563/PREVIEW/image/png/ff79aa4b7263ed13fb66b12f6bb575f2/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012563/PREVIEW/image/png/ff79aa4b7263ed13fb66b12f6bb575f2/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>61711</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012563-si4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012563/STRIPIN/image/gif/9771f70fbf7f51ec79e7f99eea141add/si4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012563/STRIPIN/image/gif/9771f70fbf7f51ec79e7f99eea141add/si4.gif</xocs:ucs-locator>
+<xocs:file-basename>si4</xocs:file-basename>
+<xocs:filename>si4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>419</xocs:filesize>
+<xocs:pixel-height>17</xocs:pixel-height>
+<xocs:pixel-width>88</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012563-si3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012563/STRIPIN/image/gif/cec37a92e76faf862308f05f4e6f42cf/si3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012563/STRIPIN/image/gif/cec37a92e76faf862308f05f4e6f42cf/si3.gif</xocs:ucs-locator>
+<xocs:file-basename>si3</xocs:file-basename>
+<xocs:filename>si3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1474</xocs:filesize>
+<xocs:pixel-height>44</xocs:pixel-height>
+<xocs:pixel-width>723</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012563-si2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012563/STRIPIN/image/gif/7c199fe9e61c5a926cf0c6e0d871b2a0/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012563/STRIPIN/image/gif/7c199fe9e61c5a926cf0c6e0d871b2a0/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si2</xocs:file-basename>
+<xocs:filename>si2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1116</xocs:filesize>
+<xocs:pixel-height>35</xocs:pixel-height>
+<xocs:pixel-width>725</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012563-si1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012563/STRIPIN/image/gif/682e34f21381e84baac4c55017c51aa9/si1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012563/STRIPIN/image/gif/682e34f21381e84baac4c55017c51aa9/si1.gif</xocs:ucs-locator>
+<xocs:file-basename>si1</xocs:file-basename>
+<xocs:filename>si1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>710</xocs:filesize>
+<xocs:pixel-height>17</xocs:pixel-height>
+<xocs:pixel-width>724</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012563-gr9.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012563/gr9/DOWNSAMPLED/image/jpeg/fc081804803cbee03fe7005999d73a2a/gr9.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012563/gr9/DOWNSAMPLED/image/jpeg/fc081804803cbee03fe7005999d73a2a/gr9.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>17165</xocs:filesize>
+<xocs:pixel-height>269</xocs:pixel-height>
+<xocs:pixel-width>371</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012563-gr9.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012563/gr9/THUMBNAIL/image/gif/f5c697e58e519a19672efc4cb834f895/gr9.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012563/gr9/THUMBNAIL/image/gif/f5c697e58e519a19672efc4cb834f895/gr9.sml</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2018</xocs:filesize>
+<xocs:pixel-height>91</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012563-gr8.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012563/gr8/DOWNSAMPLED/image/jpeg/626fc4ca0fabe21c886d1ff535e393ad/gr8.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012563/gr8/DOWNSAMPLED/image/jpeg/626fc4ca0fabe21c886d1ff535e393ad/gr8.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>19132</xocs:filesize>
+<xocs:pixel-height>306</xocs:pixel-height>
+<xocs:pixel-width>371</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012563-gr8.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012563/gr8/THUMBNAIL/image/gif/cc7329ee883ba198862bc752f3eac599/gr8.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012563/gr8/THUMBNAIL/image/gif/cc7329ee883ba198862bc752f3eac599/gr8.sml</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2051</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>113</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012563-gr7.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012563/gr7/DOWNSAMPLED/image/jpeg/63988d7621e397a52b0f963019f0c9c0/gr7.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012563/gr7/DOWNSAMPLED/image/jpeg/63988d7621e397a52b0f963019f0c9c0/gr7.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>20607</xocs:filesize>
+<xocs:pixel-height>284</xocs:pixel-height>
+<xocs:pixel-width>371</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012563-gr7.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012563/gr7/THUMBNAIL/image/gif/77246a67764d3094f4e4a2810d34d24d/gr7.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012563/gr7/THUMBNAIL/image/gif/77246a67764d3094f4e4a2810d34d24d/gr7.sml</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2134</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>122</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012563-gr6.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012563/gr6/DOWNSAMPLED/image/jpeg/2a8f9a425d2fe1f10f7ef11d4bb6e048/gr6.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012563/gr6/DOWNSAMPLED/image/jpeg/2a8f9a425d2fe1f10f7ef11d4bb6e048/gr6.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>22074</xocs:filesize>
+<xocs:pixel-height>301</xocs:pixel-height>
+<xocs:pixel-width>370</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012563-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012563/gr6/THUMBNAIL/image/gif/4ecd66485e6ef72beb0de5cc22bf7197/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012563/gr6/THUMBNAIL/image/gif/4ecd66485e6ef72beb0de5cc22bf7197/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2127</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>115</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012563-gr5.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012563/gr5/DOWNSAMPLED/image/jpeg/da8979bf718fd026e8c380565341758e/gr5.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012563/gr5/DOWNSAMPLED/image/jpeg/da8979bf718fd026e8c380565341758e/gr5.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>14144</xocs:filesize>
+<xocs:pixel-height>298</xocs:pixel-height>
+<xocs:pixel-width>369</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012563-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012563/gr5/THUMBNAIL/image/gif/2eda9ad463a66d34764adbc3632d7f6d/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012563/gr5/THUMBNAIL/image/gif/2eda9ad463a66d34764adbc3632d7f6d/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1786</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>115</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012563-gr4.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012563/gr4/DOWNSAMPLED/image/jpeg/26fe8b0ad7ac2620a323b9e09b55b9d5/gr4.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012563/gr4/DOWNSAMPLED/image/jpeg/26fe8b0ad7ac2620a323b9e09b55b9d5/gr4.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>18364</xocs:filesize>
+<xocs:pixel-height>301</xocs:pixel-height>
+<xocs:pixel-width>372</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012563-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012563/gr4/THUMBNAIL/image/gif/34d16e2d704b89401b6ee860287f49d3/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012563/gr4/THUMBNAIL/image/gif/34d16e2d704b89401b6ee860287f49d3/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2013</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>115</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012563-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012563/gr3/DOWNSAMPLED/image/jpeg/44bb24e1b009d52c547caf3f3cfd73ef/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012563/gr3/DOWNSAMPLED/image/jpeg/44bb24e1b009d52c547caf3f3cfd73ef/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>19782</xocs:filesize>
+<xocs:pixel-height>305</xocs:pixel-height>
+<xocs:pixel-width>371</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012563-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012563/gr3/THUMBNAIL/image/gif/25bf893275a53d50c8c10aa4f4382683/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012563/gr3/THUMBNAIL/image/gif/25bf893275a53d50c8c10aa4f4382683/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2098</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>114</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012563-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012563/gr2/DOWNSAMPLED/image/jpeg/4a21d7785dfad6cd3a38a8bc2f4908b6/gr2.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012563/gr2/DOWNSAMPLED/image/jpeg/4a21d7785dfad6cd3a38a8bc2f4908b6/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>22137</xocs:filesize>
+<xocs:pixel-height>307</xocs:pixel-height>
+<xocs:pixel-width>371</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012563-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012563/gr2/THUMBNAIL/image/gif/cb48d3baf14926822d671fad3151349c/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012563/gr2/THUMBNAIL/image/gif/cb48d3baf14926822d671fad3151349c/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2168</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>113</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012563-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012563/gr1/DOWNSAMPLED/image/jpeg/1d5fea0a9daae840e9bae5fb36215625/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012563/gr1/DOWNSAMPLED/image/jpeg/1d5fea0a9daae840e9bae5fb36215625/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>23338</xocs:filesize>
+<xocs:pixel-height>295</xocs:pixel-height>
+<xocs:pixel-width>363</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012563-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012563/gr1/THUMBNAIL/image/gif/9f0819f057eb98b06392deabbf86f5bb/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012563/gr1/THUMBNAIL/image/gif/9f0819f057eb98b06392deabbf86f5bb/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2295</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>115</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012563-gr10.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012563/gr10/DOWNSAMPLED/image/jpeg/e12f48120c8e486a215e89e402bfc11d/gr10.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012563/gr10/DOWNSAMPLED/image/jpeg/e12f48120c8e486a215e89e402bfc11d/gr10.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr10</xocs:file-basename>
+<xocs:filename>gr10.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>19204</xocs:filesize>
+<xocs:pixel-height>303</xocs:pixel-height>
+<xocs:pixel-width>371</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012563-gr10.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012563/gr10/THUMBNAIL/image/gif/0f4079078c5b58ac8aa756337629b8f3/gr10.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012563/gr10/THUMBNAIL/image/gif/0f4079078c5b58ac8aa756337629b8f3/gr10.sml</xocs:ucs-locator>
+<xocs:file-basename>gr10</xocs:file-basename>
+<xocs:filename>gr10.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2044</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>114</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>11724</aid>
+<ce:pii>S0925-8388(04)01256-3</ce:pii>
+<ce:doi>10.1016/j.jallcom.2004.09.049</ce:doi>
+<ce:copyright type="full-transfer" year="2004">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Hardness vs. aging time at 440, 480, 510 and 560<ce:hsp sp="0.25"></ce:hsp>°C.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">ln(Δ<ce:italic>H</ce:italic>) vs. ln(<ce:italic>t</ce:italic>) for the samples aged at 440, 480, 510 and 560<ce:hsp sp="0.25"></ce:hsp>°C.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">X-ray diffractogram of the sample aged at 560<ce:hsp sp="0.25"></ce:hsp>°C for 45<ce:hsp sp="0.25"></ce:hsp>min.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">ln(Δ<ce:italic>H</ce:italic>) vs. ln(<ce:italic>t</ce:italic>) for the samples aged at 440<ce:hsp sp="0.25"></ce:hsp>°C using two fitting lines.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Plot of ln(<ce:italic>t</ce:italic>) vs. 1/<ce:italic>T</ce:italic> for determination of the activation energy for precipitation.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Hardness vs. aging time at 560, 600 and 650<ce:hsp sp="0.25"></ce:hsp>°C.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+<ce:figure id="fig7">
+<ce:label>Fig. 7</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Plots of (Δ<ce:italic>H</ce:italic>)<ce:sup loc="post">−3</ce:sup> vs. aging time at 560 and 600<ce:hsp sp="0.25"></ce:hsp>°C for modeling of the overaging kinetics.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr7"></ce:link>
+</ce:figure>
+<ce:figure id="fig8">
+<ce:label>Fig. 8</ce:label>
+<ce:caption>
+<ce:simple-para view="all">X-ray diffractogram of the sample aged at 510<ce:hsp sp="0.25"></ce:hsp>°C for 24<ce:hsp sp="0.25"></ce:hsp>h.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr8"></ce:link>
+</ce:figure>
+<ce:figure id="fig9">
+<ce:label>Fig. 9</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Comparison between the X-ray diffractograms of the samples aged at 510<ce:hsp sp="0.25"></ce:hsp>°C for 24<ce:hsp sp="0.25"></ce:hsp>h, 560<ce:hsp sp="0.25"></ce:hsp>°C for 1<ce:hsp sp="0.25"></ce:hsp>h, 600<ce:hsp sp="0.25"></ce:hsp>°C for 1<ce:hsp sp="0.25"></ce:hsp>h and 650<ce:hsp sp="0.25"></ce:hsp>°C for 15<ce:hsp sp="0.25"></ce:hsp>min.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr9"></ce:link>
+</ce:figure>
+<ce:figure id="fig10">
+<ce:label>Fig. 10</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Fittings of the hardness vs. aging time curves at 560, 600 and 650<ce:hsp sp="0.25"></ce:hsp>°C in the overaged portion.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr10"></ce:link>
+</ce:figure>
+<ce:table colsep="0" frame="topbot" id="tbl1" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Chemical composition of the maraging steel studied</ce:simple-para>
+</ce:caption>
+<tgroup cols="2">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">wt.%</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Element</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.01</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">C</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">17.86</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ni</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">9.41</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Co</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">4.84</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Mo</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.76</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.14</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.01</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Mn</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">balance</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Fe</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl2" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">
+<ce:italic>n</ce:italic> and <ce:italic>K</ce:italic> values at 440<ce:hsp sp="0.25"></ce:hsp>°C, 480<ce:hsp sp="0.25"></ce:hsp>°C, 510<ce:hsp sp="0.25"></ce:hsp>°C and 560<ce:hsp sp="0.25"></ce:hsp>°C</ce:simple-para>
+</ce:caption>
+<tgroup cols="5">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<colspec colname="col5"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Temperature (°C)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Time range (h)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>n</italic>
+</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>K</italic> (h<sup loc="post">−1</sup>)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>R</italic>
+</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">440</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.25–10</entry>
+<entry align="char" char="±" xmlns="http://www.elsevier.com/xml/common/dtd">0.20<hsp sp="0.25"></hsp>±<hsp sp="0.25"></hsp>0.02</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1.3<hsp sp="0.25"></hsp>×<hsp sp="0.25"></hsp>10<sup loc="post">11</sup>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.97</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">480</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.25–2.0</entry>
+<entry align="char" char="±" xmlns="http://www.elsevier.com/xml/common/dtd">0.20<hsp sp="0.25"></hsp>±<hsp sp="0.25"></hsp>0.01</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">5.0<hsp sp="0.25"></hsp>×<hsp sp="0.25"></hsp>10<sup loc="post">11</sup>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.99</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">510</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.25–2.0</entry>
+<entry align="char" char="±" xmlns="http://www.elsevier.com/xml/common/dtd">0.21<hsp sp="0.25"></hsp>±<hsp sp="0.25"></hsp>0.02</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">3.9<hsp sp="0.25"></hsp>×<hsp sp="0.25"></hsp>10<sup loc="post">11</sup>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.99</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">560</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.25–0.75</entry>
+<entry align="char" char="±" xmlns="http://www.elsevier.com/xml/common/dtd">0.16<hsp sp="0.25"></hsp>±<hsp sp="0.25"></hsp>0.01</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1.7<hsp sp="0.25"></hsp>×<hsp sp="0.25"></hsp>10<sup loc="post">15</sup>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.99</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl3" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Activation energies for precipitation</ce:simple-para>
+</ce:caption>
+<tgroup cols="4">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Maraging steels</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Base chemical composition (wt.%)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>Q</italic> (kJ/mol)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Reference</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">250</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">18Ni–8.5Co–5.0Mo–0.4Ti–0.1Al</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">85.8</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Zhang et al. <cross-ref refid="bib15">[15]</cross-ref>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">300</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">17.9Ni–9.4Co–4.8Mo–0.8Ti–0.1Al</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">132</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">This work</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">350</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">18.4Ni–12.3Co–4.0Mo–1.6Ti–0.1Al</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">164.0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Viswanathan et al. <cross-ref refid="bib14">[14]</cross-ref>
+</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl4" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">
+<ce:italic>M</ce:italic> and Δ<ce:italic>H</ce:italic>
+<ce:inf loc="post">0</ce:inf> values at 560 and 600<ce:hsp sp="0.25"></ce:hsp>°C</ce:simple-para>
+</ce:caption>
+<tgroup cols="5">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<colspec colname="col5"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Temperature (°C)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>M</italic>
+</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Δ<italic>H</italic>
+<inf loc="post">0</inf> (model)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Δ<italic>H</italic>
+<inf loc="post">0</inf> (experimental)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>R</italic>
+</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">560</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">4.57E–09</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">253</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">257</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.99</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">600</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1.30E–08</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">184</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">207</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.91</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl5" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">
+<ce:italic>H</ce:italic>
+<ce:inf loc="post">1</ce:inf> and <ce:italic>p</ce:italic> values at 560, 600, 650<ce:hsp sp="0.25"></ce:hsp>°C</ce:simple-para>
+</ce:caption>
+<tgroup cols="5">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<colspec colname="col5"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Temperature (°C)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>p</italic>
+</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>H</italic>
+<inf loc="post">1</inf> (model)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>H</italic>
+<inf loc="post">1</inf> (experimental)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>R</italic>
+</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">560</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">−0.053</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">594.3</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">601</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.99</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">600</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">−0.054</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">523.3</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">525</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.98</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">650</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">−0.061</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">428.8</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">424</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.99</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+</ce:floats>
+<ce:title>Modeling of precipitation hardening during the aging and overaging of 18Ni–Co–Mo–Ti maraging 300 steel</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>J.M.</ce:given-name>
+<ce:surname>Pardal</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>S.S.M.</ce:given-name>
+<ce:surname>Tavares</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="cor1">*</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>V.F.</ce:given-name>
+<ce:surname>Terra</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>M.R.</ce:given-name>
+<ce:surname>Da Silva</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>D.R.</ce:given-name>
+<ce:surname>Dos Santos</ce:surname>
+<ce:cross-ref refid="aff3">
+<ce:sup loc="post">c</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation id="aff1">
+<ce:label>a</ce:label>
+<ce:textfn>Departamento de Engenharia Mecânica – PGMEC – UFF – Rua Passo da Pátria 156, CEP 24210-240, Niterói RJ, Brazil</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff2">
+<ce:label>b</ce:label>
+<ce:textfn>UNIFEI/Instituto de Ciências, Itajubá MG, Brazil</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff3">
+<ce:label>c</ce:label>
+<ce:textfn>Centro Tecnológico da Aeronáutica – CTA, São José dos Campos SP, Brazil</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>*</ce:label>
+<ce:text>Corresponding author. Tel.: +55 21 2055172; fax: +55 21 7174446.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="13" month="7" year="2004"></ce:date-received>
+<ce:date-revised day="20" month="9" year="2004"></ce:date-revised>
+<ce:date-accepted day="23" month="9" year="2004"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">The precipitation hardening behavior of an 18Ni–Co–Mo–Ti maraging 300 solution treated and aged in the 440–650<ce:hsp sp="0.25"></ce:hsp>°C range was investigated. The aging at 440, 480, 510 and 560<ce:hsp sp="0.25"></ce:hsp>°C was modeled by an equation Δ<ce:italic>H</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>(<ce:italic>Kt</ce:italic>)<ce:sup loc="post">
+<ce:italic>n</ce:italic>
+</ce:sup>. The activation energy for precipitation was determined (132<ce:hsp sp="0.25"></ce:hsp>kJ/mol) and compared to published values for 18Ni–Co–Mo–Ti maraging 250 and 350 steels. The model for overaging based on the Orowan mechanism was tested in samples treated at 560, 600 and 650<ce:hsp sp="0.25"></ce:hsp>°C but was found to be valid only for 560<ce:hsp sp="0.25"></ce:hsp>°C. The softening of samples aged at 600 and 650<ce:hsp sp="0.25"></ce:hsp>°C is rather due to austenite precipitation than to Ni<ce:inf loc="post">3</ce:inf>(Mo, Ti) and Fe<ce:inf loc="post">2</ce:inf>Mo coarsening. Equations <ce:italic>H</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>H</ce:italic>
+<ce:inf loc="post">1</ce:inf>
+<ce:italic>t</ce:italic>
+<ce:sup loc="post">
+<ce:italic>p</ce:italic>
+</ce:sup> were fitted for the overaging at 560, 600 and 650<ce:hsp sp="0.25"></ce:hsp>°C.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Maraging steels</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Overaging</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Precipitation hardening</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Maraging steels are age hardenable alloys for special purposes, where the combination of high strength and good toughness is required. The microstructure of the as quenched 18% maraging steel consists of low carbon and high nickel and cobalt martensite. The strengthening in low temperature aging (&lt;450<ce:hsp sp="0.25"></ce:hsp>°C) is produced by ordered and coherent phases such as μ, S and X phases <ce:cross-refs refid="bib1 bib2 bib3">[1–3]</ce:cross-refs>
+</ce:para>
+<ce:para view="all">The aging above 450<ce:hsp sp="0.25"></ce:hsp>°C produces an intense hardening due to the precipitation of Ni<ce:inf loc="post">3</ce:inf>(Mo, Ti) and Fe<ce:inf loc="post">2</ce:inf>Mo phases <ce:cross-refs refid="bib1 bib2 bib3">[1–3]</ce:cross-refs>.</ce:para>
+<ce:para view="all">Aging between 500<ce:hsp sp="0.25"></ce:hsp>°C and the <ce:italic>A</ce:italic>
+<ce:inf loc="post">s</ce:inf> temperature produces austenite precipitation by a diffusion controlled reaction <ce:cross-refs refid="bib4 bib5">[4–5]</ce:cross-refs>. According to Li and Yin <ce:cross-ref refid="bib6">[6]</ce:cross-ref> the austenite formation occurs at the same moment and as consequence of the partial dissolution of Ni<ce:inf loc="post">3</ce:inf>(Ti, Mo) and precipitation of Fe<ce:inf loc="post">2</ce:inf>Mo. Depending on the martensite start temperature (M<ce:inf loc="post">s</ce:inf>), the austenite formed by this way may be retained, partially or totally transformed into martensite during the cooling to room temperature. M<ce:inf loc="post">s</ce:inf> decreases with the nickel content of the austenite, which is found to decrease with the aging temperature <ce:cross-refs refid="bib7 bib8">[7–8]</ce:cross-refs>. As a consequence, M<ce:inf loc="post">s</ce:inf> increases with the aging temperature above 500<ce:hsp sp="0.25"></ce:hsp>°C. The amount of austenite observed at room temperature increases with the aging temperature till a peak value and then decreases as the temperature M<ce:inf loc="post">s</ce:inf> decreases. The maximum amount of reverted austenite observed at room temperature in 18Ni Co-containing maraging steels is obtained by aging treatments between 620 and 670<ce:hsp sp="0.25"></ce:hsp>°C <ce:cross-ref refid="bib9">[9]</ce:cross-ref>.</ce:para>
+<ce:para view="all">Wilson <ce:cross-ref refid="bib10">[10]</ce:cross-ref> presented and applied models for aging and overaging of precipitation hardenable alloys. Sha <ce:cross-ref refid="bib11">[11]</ce:cross-ref> applied these models for a maraging C-300 steel aged at 510<ce:hsp sp="0.25"></ce:hsp>°C. The equation used for aging is based on the Jonhson–Mehl and Avrami model <ce:cross-refs refid="bib12 bib13">[12–13]</ce:cross-refs>. The equation proposed for overaging is based on the Orowan mechanism. In the present work, these equations were tested for an 18Ni–Co–Mo–Ti maraging 300 steel aged in the 440–650<ce:hsp sp="0.25"></ce:hsp>°C range.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental methods</ce:section-title>
+<ce:para view="all">A 2.5<ce:hsp sp="0.25"></ce:hsp>mm thick sheet of maraging 300 steel (composition shown in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+<ce:float-anchor refid="tbl1"></ce:float-anchor>) was solution treated at 900<ce:hsp sp="0.25"></ce:hsp>°C for 40<ce:hsp sp="0.25"></ce:hsp>min. After this the samples were aged at 440, 480, 510, 560 and 650<ce:hsp sp="0.25"></ce:hsp>°C for different times from 15<ce:hsp sp="0.25"></ce:hsp>min to 24<ce:hsp sp="0.25"></ce:hsp>h. All heat treatments were conducted in vacuum-sealed quartz tubes.</ce:para>
+<ce:para view="all">Vickers hardness tests and X-ray diffraction analysis (XRD) were carried out in all conditions. All the X-ray measurements were carried out using a diffractometer PHILIPS<ce:sup loc="post">®</ce:sup>, model X’Pert Pro, in step scan mode with step size of 0.02° and time per step of 3<ce:hsp sp="0.25"></ce:hsp>s. Cu Kα (1.54056<ce:hsp sp="0.25"></ce:hsp>Å) radiation was used with 40<ce:hsp sp="0.25"></ce:hsp>kV and 40<ce:hsp sp="0.25"></ce:hsp>mA. In order to keep the beam completely on the sample for low incident angles, a divergence slit of 1° was used.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results</ce:section-title>
+<ce:para view="all">
+<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor> shows the precipitation hardening curves of the maraging 300 steel aged at 440, 480, 510 and 560<ce:hsp sp="0.25"></ce:hsp>°C. The aging curves at 440 and 480<ce:hsp sp="0.25"></ce:hsp>°C do not present overaging till 24<ce:hsp sp="0.25"></ce:hsp>h. The maximum hardness is obtained by the aging at 480<ce:hsp sp="0.25"></ce:hsp>°C for 10 and 24<ce:hsp sp="0.25"></ce:hsp>h. The samples aged at 510<ce:hsp sp="0.25"></ce:hsp>°C achieve a maximum hardness of 629HV at 4<ce:hsp sp="0.25"></ce:hsp>h of aging, and undergo a slight overaging after this.</ce:para>
+<ce:para view="all">The model for kinetics of early stages of aging of precipitation hardenable alloys is given by an expression derived from the Avrami <ce:cross-ref refid="bib13">[13]</ce:cross-ref> equation <ce:cross-ref refid="bib10">[10]</ce:cross-ref>:<ce:display>
+<ce:formula>
+<ce:label>(1)</ce:label>
+<mml:math altimg="si1.gif" overflow="scroll">
+<mml:mrow>
+<mml:mstyle mathvariant="normal">
+<mml:mi>Δ</mml:mi>
+</mml:mstyle>
+<mml:mi>H</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:msup>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>K</mml:mi>
+<mml:mi>t</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mi>n</mml:mi>
+</mml:msup>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>where <ce:italic>K</ce:italic> is the temperature dependent rate constant; <ce:italic>n</ce:italic> the time exponent, slightly temperature dependent; Δ<ce:italic>H</ce:italic> the increase of hardening (HV); <ce:italic>t</ce:italic> the aging time (h)</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>
+<ce:float-anchor refid="tbl2"></ce:float-anchor> shows the <ce:italic>n</ce:italic> and <ce:italic>K</ce:italic> values obtained by plotting ln(Δ<ce:italic>H</ce:italic>) versus ln(<ce:italic>t</ce:italic>) (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor>). The <ce:italic>n</ce:italic> values obtained at 440, 480 and 510<ce:hsp sp="0.25"></ce:hsp>°C are close, but the one obtained at 560<ce:hsp sp="0.25"></ce:hsp>°C is smaller. This is attributed to the softening effect caused by austenite precipitation at this temperature, even before the overaging. <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor> shows the X-ray diffractogram of the sample aged at 560<ce:hsp sp="0.25"></ce:hsp>°C by 45<ce:hsp sp="0.25"></ce:hsp>min with austenite peaks.</ce:para>
+<ce:para view="all">The fitting for the 440<ce:hsp sp="0.25"></ce:hsp>°C shown in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref> presented the lowest correlation coefficient (<ce:italic>R</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>0.97). In this case, the points are better fitted by two curves (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor>), where two aging stages are distinguished. The parameter <ce:italic>n</ce:italic> obtained for first and second stages were 0.29<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>0.01and 0.12<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>0.01, respectively. The different aging stages may be related to different types of precipitates in maraging steels.</ce:para>
+<ce:para view="all">The <ce:italic>n</ce:italic> and <ce:italic>K</ce:italic> values obtained at 510<ce:hsp sp="0.25"></ce:hsp>°C in this work (<ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>) are somewhat different from the ones obtained by Sha <ce:cross-ref refid="bib11">[11]</ce:cross-ref> in a maraging steel of the same type. This can be attributed to differences in the time range used to fit the curves. In this work, we took points between 15<ce:hsp sp="0.25"></ce:hsp>min and 2<ce:hsp sp="0.25"></ce:hsp>h, while Sha <ce:cross-ref refid="bib11">[11]</ce:cross-ref> analyzed the hardening between 160<ce:hsp sp="0.25"></ce:hsp>s and 25<ce:hsp sp="0.25"></ce:hsp>min.</ce:para>
+<ce:para view="all">The activation energy for precipitation may be obtained by plotting the logarithm of the time taken to achieve the peak hardness against 1/<ce:italic>T</ce:italic>. The results may be fitted by an Arhenius type equation:<ce:display>
+<ce:formula>
+<ce:label>(2)</ce:label>
+<mml:math altimg="si2.gif" overflow="scroll">
+<mml:mrow>
+<mml:mtext>ln</mml:mtext>
+<mml:mo>⁡</mml:mo>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>t</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>=</mml:mo>
+<mml:mfrac>
+<mml:mi>Q</mml:mi>
+<mml:mrow>
+<mml:mtext>RT</mml:mtext>
+</mml:mrow>
+</mml:mfrac>
+<mml:mo>+</mml:mo>
+<mml:mtext>constant</mml:mtext>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>where <ce:italic>Q</ce:italic> is activation energy for the precipitation (kJ/mol); <ce:italic>t</ce:italic> the time taken to attain peak hardness at each temperature (h); <ce:italic>R</ce:italic> the universal gas constant (0.008314<ce:hsp sp="0.25"></ce:hsp>kJ/mol<ce:hsp sp="0.25"></ce:hsp>K); <ce:italic>T</ce:italic> the aging temperature (K).</ce:para>
+<ce:para view="all">An activation energy of 132<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>10<ce:hsp sp="0.25"></ce:hsp>kJ/mol was obtained from the slope of the fitted line (<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="fig5"></ce:float-anchor>). Using the same method of this work, Viswanathan et al. <ce:cross-ref refid="bib14">[14]</ce:cross-ref> found an activation energy of 164<ce:hsp sp="0.25"></ce:hsp>kJ/mol in the maraging 350 and Zhang et al. <ce:cross-ref refid="bib15">[15]</ce:cross-ref> found 85.8<ce:hsp sp="0.25"></ce:hsp>kJ/mol in the maraging 250. <ce:cross-ref refid="tbl3">Table 3</ce:cross-ref>
+<ce:float-anchor refid="tbl3"></ce:float-anchor> shows the comparison of these data and presents the base chemical composition of each grade. The three steels present about the same nickel (18% Ni), but differ in the Co, Mo and Ti contents. The Ti/Mo ratio and the cobalt content increase from the 250 to the 350 grades. These modifications enhance the precipitation hardenability providing higher strength levels and aging peaks, but increase the activation energy for precipitation.</ce:para>
+<ce:para view="all">Wilson <ce:cross-ref refid="bib10">[10]</ce:cross-ref> and Sha <ce:cross-ref refid="bib11">[11]</ce:cross-ref> have also proposed a model for overaging based on the Orowan mechanism:<ce:display>
+<ce:formula id="eq1">
+<ce:label>(3)</ce:label>
+<mml:math altimg="si3.gif" overflow="scroll">
+<mml:mrow>
+<mml:msup>
+<mml:mrow>
+<mml:mfenced close=")" open="(">
+<mml:mrow>
+<mml:mfrac>
+<mml:mn>1</mml:mn>
+<mml:mrow>
+<mml:mstyle mathvariant="normal">
+<mml:mi>Δ</mml:mi>
+</mml:mstyle>
+<mml:mi>H</mml:mi>
+</mml:mrow>
+</mml:mfrac>
+</mml:mrow>
+</mml:mfenced>
+</mml:mrow>
+<mml:mn>3</mml:mn>
+</mml:msup>
+<mml:mo>=</mml:mo>
+<mml:mi>M</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>t</mml:mi>
+<mml:mo>−</mml:mo>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mn>0</mml:mn>
+</mml:msub>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>+</mml:mo>
+<mml:msup>
+<mml:mrow>
+<mml:mfenced close=")" open="(">
+<mml:mrow>
+<mml:mfrac>
+<mml:mn>1</mml:mn>
+<mml:mrow>
+<mml:mstyle mathvariant="normal">
+<mml:mi>Δ</mml:mi>
+</mml:mstyle>
+<mml:msub>
+<mml:mi>H</mml:mi>
+<mml:mn>0</mml:mn>
+</mml:msub>
+</mml:mrow>
+</mml:mfrac>
+</mml:mrow>
+</mml:mfenced>
+</mml:mrow>
+<mml:mn>3</mml:mn>
+</mml:msup>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>where Δ<ce:italic>H</ce:italic> is difference between the hardening of the overaged sample and the solution treated one (HV); <ce:italic>M</ce:italic> the temperature dependent rate constant; <ce:italic>t</ce:italic>
+<ce:inf loc="post">0</ce:inf> the time at peak hardness (h); Δ<ce:italic>H</ce:italic>
+<ce:inf loc="post">0</ce:inf> the increase in hardness at commencement of coarsening time <ce:italic>t</ce:italic>
+<ce:inf loc="post">0</ce:inf> (HV).</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="fig6"></ce:float-anchor> shows the precipitation hardening curves of the maraging 300 steel aged at 560, 600 and 650<ce:hsp sp="0.25"></ce:hsp>°C and <ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+<ce:float-anchor refid="fig7"></ce:float-anchor> shows the fittings (Δ<ce:italic>H</ce:italic>)<ce:sup loc="post">−3</ce:sup> versus aging time at 560 and 600<ce:hsp sp="0.25"></ce:hsp>°C used to obtain the parameters <ce:italic>M</ce:italic> and Δ<ce:italic>H</ce:italic>
+<ce:inf loc="post">0</ce:inf> presented in <ce:cross-ref refid="tbl4">Table 4</ce:cross-ref>
+<ce:float-anchor refid="tbl4"></ce:float-anchor>. The correlation coefficients (<ce:italic>R</ce:italic>) of the linear fittings are also shown. The comparison between the Δ<ce:italic>H</ce:italic>
+<ce:inf loc="post">0</ce:inf> obtained by the fitting with the experimental value also gives an idea of the validity of the model. The work of Sha <ce:cross-ref refid="bib11">[11]</ce:cross-ref> shows the application of Eq. <ce:cross-ref refid="eq1">(3)</ce:cross-ref> on the overaging of a Cr-containing maraging steel at 520<ce:hsp sp="0.25"></ce:hsp>°C. At this temperature, he obtained a good correlation coefficient (<ce:italic>R</ce:italic>
+<ce:sup loc="post">2</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>0.98) with the modeled Δ<ce:italic>H</ce:italic>
+<ce:inf loc="post">0</ce:inf> (140HV) very close to the experimental value (141HV). In the present work, the model applied at 560<ce:hsp sp="0.25"></ce:hsp>°C presents satisfactory results, with <ce:italic>R</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>0.99 (<ce:italic>R</ce:italic>
+<ce:sup loc="post">2</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>0.98) and Δ<ce:italic>H</ce:italic>
+<ce:inf loc="post">0</ce:inf> (253HV) close to the experimental value (257HV). The modeling at 600 and 650<ce:hsp sp="0.25"></ce:hsp>°C does not give good results. At 600<ce:hsp sp="0.25"></ce:hsp>°C, the correlation coefficient is very low (<ce:italic>R</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>0.91) and the determined Δ<ce:italic>H</ce:italic>
+<ce:inf loc="post">0</ce:inf> value (184 HV) is very different from the experimental value (207HV). The fitting at 650<ce:hsp sp="0.25"></ce:hsp>°C (not shown) gives an <ce:italic>R</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>0.97 and a negative Δ<ce:italic>H</ce:italic>
+<ce:inf loc="post">0</ce:inf>, which has no physical meaning.</ce:para>
+<ce:para view="all">The overaging of the maraging steel aged in temperatures higher than 500<ce:hsp sp="0.25"></ce:hsp>°C is enhanced by the austenite formation. <ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>
+<ce:float-anchor refid="fig8"></ce:float-anchor> shows the X-ray diffractogram of the sample aged at 510<ce:hsp sp="0.25"></ce:hsp>°C for 24<ce:hsp sp="0.25"></ce:hsp>h with austenite peaks. However, despite this, satisfactory fittings are obtained at 520 <ce:cross-ref refid="bib11">[11]</ce:cross-ref> and 560<ce:hsp sp="0.25"></ce:hsp>°C (this work). <ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref>
+<ce:float-anchor refid="fig9"></ce:float-anchor> shows that the amounts of austenite formed at 600 and 650<ce:hsp sp="0.25"></ce:hsp>°C are much higher than at 560 and 510<ce:hsp sp="0.25"></ce:hsp>°C, which seems to be the reason, why Eq. <ce:cross-ref refid="eq1">(3)</ce:cross-ref> does not describe well the overaging at 600 and 650<ce:hsp sp="0.25"></ce:hsp>°C.</ce:para>
+<ce:para view="all">On the other hand, the overaging of the maraging 300 steel at 560, 600 and 650<ce:hsp sp="0.25"></ce:hsp>°C can be mathematically described by an equation of the type (<ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref>
+<ce:float-anchor refid="fig10"></ce:float-anchor>):<ce:display>
+<ce:formula>
+<mml:math altimg="si4.gif" overflow="scroll">
+<mml:mrow>
+<mml:mi>H</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>t</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>=</mml:mo>
+<mml:msub>
+<mml:mi>H</mml:mi>
+<mml:mn>1</mml:mn>
+</mml:msub>
+<mml:msup>
+<mml:mi>t</mml:mi>
+<mml:mi>p</mml:mi>
+</mml:msup>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>where <ce:italic>H</ce:italic> is hardness value (HV); <ce:italic>t</ce:italic> the aging time (h); <ce:italic>H</ce:italic>
+<ce:inf loc="post">1</ce:inf> the hardness value at <ce:italic>t</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1<ce:hsp sp="0.25"></ce:hsp>h; <ce:italic>p</ce:italic> the negative exponent of time.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref> shows the curves fitted for 560, 600 and 650<ce:hsp sp="0.25"></ce:hsp>°C. <ce:cross-ref refid="tbl5">Table 5</ce:cross-ref>
+<ce:float-anchor refid="tbl5"></ce:float-anchor> shows the parameters of the equations (<ce:italic>H</ce:italic>
+<ce:inf loc="post">1</ce:inf> and <ce:italic>p</ce:italic>) and the correlation coefficients obtained. The <ce:italic>H</ce:italic>
+<ce:inf loc="post">1</ce:inf> obtained by the model and the experimental values (also shown in <ce:cross-ref refid="tbl5">Table 5</ce:cross-ref>) are very close, which validates the model.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">The age hardening of the maraging 300 steel between 440 and 560<ce:hsp sp="0.25"></ce:hsp>°C can be modeled by the equation Δ<ce:italic>H</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>(<ce:italic>kt</ce:italic>)<ce:sup loc="post">
+<ce:italic>n</ce:italic>
+</ce:sup> with good correlation coefficients (<ce:italic>R</ce:italic>). The <ce:italic>n</ce:italic> values found at 440, 480 and 510<ce:hsp sp="0.25"></ce:hsp>°C were 0.20, 0.20 and 0.21, respectively. The <ce:italic>n</ce:italic> value falls to 0.16 at the aging temperature of 560<ce:hsp sp="0.25"></ce:hsp>°C, which is attributed to the influence of austenite formation during the aging at this temperature. The aging at 440<ce:hsp sp="0.25"></ce:hsp>°C could also be modeled by two curves, representing different stages of precipitation.</ce:para>
+<ce:para view="all">An activation energy for precipitation hardening of 132<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>10<ce:hsp sp="0.25"></ce:hsp>kJ/mol was calculated by the Arhenius equation. This value is between the ones obtained in maraging 250 <ce:cross-ref refid="bib15">[15]</ce:cross-ref> and maraging 350 <ce:cross-ref refid="bib14">[14]</ce:cross-ref> steels.</ce:para>
+<ce:para view="all">The model proposed by Wilson <ce:cross-ref refid="bib10">[10]</ce:cross-ref> for overaging was tested for the samples aged at 560, 600 and 650<ce:hsp sp="0.25"></ce:hsp>°C, but was only valid at 560<ce:hsp sp="0.25"></ce:hsp>°C. The overaging at 650, 600<ce:hsp sp="0.25"></ce:hsp>°C is rather due to the softening effect of the intense austenite formation, and for this reason, is not described by the equation proposed by Wilson <ce:cross-ref refid="bib10">[10]</ce:cross-ref>. On the other hand, the overaging at 560, 600 and 650<ce:hsp sp="0.25"></ce:hsp>°C was well described by an equation <ce:italic>H</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>H</ce:italic>
+<ce:inf loc="post">1</ce:inf>·<ce:italic>t</ce:italic>
+<ce:sup loc="post">
+<ce:italic>p</ce:italic>
+</ce:sup>, where <ce:italic>H</ce:italic>
+<ce:inf loc="post">1</ce:inf> is the hardness value for <ce:italic>t</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1<ce:hsp sp="0.25"></ce:hsp>h and <ce:italic>p</ce:italic> is a negative expoent.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgements</ce:section-title>
+<ce:para view="all">We acknowledge Prof. Hamilton F.G. De Abreu (UFC/Brazil) for the X-ray diffraction facilities and the Brazilian research agencies (CAPES, FAPERJ and CNPq) for financial support.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<ce:other-ref>
+<ce:textref>A. Magnée, J.M. Drapier, J. Dumont, D. Coutsouradis, L. Habraken, Cobalt-containing high-strength steels, Centre d’Information du Cobalt, Brussels, 1974.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.B.</ce:given-name>
+<ce:surname>Lecomte</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Servant</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Cizeron</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>20</sb:volume-nr>
+</sb:series>
+<sb:date>1985</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>3339</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Tewari</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Mazumder</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.S.</ce:given-name>
+<ce:surname>Batra</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.K.</ce:given-name>
+<ce:surname>Dey</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Banerjee</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>48</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1187</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.S.M.</ce:given-name>
+<ce:surname>Tavares</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.R.</ce:given-name>
+<ce:surname>Da Silva</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.M.</ce:given-name>
+<ce:surname>Neto</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Popa</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.F.G.</ce:given-name>
+<ce:surname>Abreu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>358</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>152</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.T.</ce:given-name>
+<ce:surname>Peters</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Trans. ASM</sb:maintitle>
+</sb:title>
+<sb:volume-nr>61</sb:volume-nr>
+</sb:series>
+<sb:date>1968</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>62</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>X.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Yin</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Lett.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>24</sb:volume-nr>
+</sb:series>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>239</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Ahmed</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Ali</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.K.</ce:given-name>
+<ce:surname>Hasnain</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Hashmi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.Q.</ce:given-name>
+<ce:surname>Khan</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Metall. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>42</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>3</sb:issue-nr>
+<sb:date>1994</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>631</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Ahmed</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Hasnain</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Nasim</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Ayub</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metall. Mater. Trans. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>26</sb:volume-nr>
+</sb:series>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1869</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Hablby</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Ul Haq</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.G.</ce:given-name>
+<ce:surname>Khan</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Des.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>13</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>5</sb:issue-nr>
+<sb:date>1992</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>259</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>E.A.</ce:given-name>
+<ce:surname>Wilson</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scripta Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>36</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>10</sb:issue-nr>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1179</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Sha</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scripta Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>42</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>549</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.A.</ce:given-name>
+<ce:surname>Jonhson</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.F.</ce:given-name>
+<ce:surname>Mehl</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Trans. AIME</sb:maintitle>
+</sb:title>
+<sb:volume-nr>135</sb:volume-nr>
+</sb:series>
+<sb:date>1939</sb:date>
+</sb:issue>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Avrami</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Chem. Phys.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>9</sb:volume-nr>
+</sb:series>
+<sb:date>1941</sb:date>
+</sb:issue>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>U.K.</ce:given-name>
+<ce:surname>Viswanathan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.K.</ce:given-name>
+<ce:surname>Dey</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.K.</ce:given-name>
+<ce:surname>Asundi</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metall. Trans. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>24</sb:volume-nr>
+</sb:series>
+<sb:date>1993</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2429</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.S.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.L.</ce:given-name>
+<ce:surname>Liu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Chi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.J.</ce:given-name>
+<ce:surname>Duan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.Q.</ce:given-name>
+<ce:surname>Sun</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.L.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>225</sb:volume-nr>
+</sb:series>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>96</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

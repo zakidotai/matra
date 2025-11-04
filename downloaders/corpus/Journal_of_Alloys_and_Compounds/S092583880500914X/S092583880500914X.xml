@@ -1,0 +1,1491 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S092583880500914X</prism:url><dc:identifier>doi:10.1016/j.jallcom.2005.02.085</dc:identifier><eid>1-s2.0-S092583880500914X</eid><prism:doi>10.1016/j.jallcom.2005.02.085</prism:doi><pii>S0925-8388(05)00914-X</pii><dc:title>Hydrogen permeation characteristics of (V, Ta)–Ti–Ni alloys </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>404</prism:volume><prism:startingpage>273</prism:startingpage><prism:endingpage>278</prism:endingpage><prism:pagerange>273-278</prism:pagerange><dc:format>text/xml</dc:format><prism:coverdate>2005-12-08</prism:coverdate><prism:coverdisplaydate>8 December 2005</prism:coverdisplaydate><prism:copyright>Copyright © 2005 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><prism:issuename>Proceedings of the 9th International Symposium on Metal-Hydrogen Systems, Fundamentals and Applications (MH2004)</prism:issuename><dc:creator>Hashi, K.</dc:creator><dc:creator>Ishikawa, K.</dc:creator><dc:creator>Matsuda, T.</dc:creator><dc:creator>Aoki, K.</dc:creator><dc:description>
+                  Hydrogen permeation properties and microstructures of V–Ti–Ni and Ta–Ti–Ni alloys were investigated at 523–673 K. In both systems, a good hydrogen permeability was obtained in the alloys whose chemical compositions are near TiNi–V (or Ta) pseudo-binary system without hydrogen embrittlement. These alloys consist mainly of B2-TiNi and bcc-(V, Ti) (or bcc-(Ta, Ti)) phases. In particular, hydrogen embrittlement resistance is improved by the combination of the primary bcc phase and the eutectic 
+                        B
+                        2
+                        +
+                        bcc
+                      structure. The primary bcc phase and the eutectic 
+                        B
+                        2
+                        +
+                        bcc
+                      structure contribute mainly to hydrogen permeability and to improvement of hydrogen embrittlement, respectively. This paper shows a possibility of new type multi-phase hydrogen permeation alloys.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Hydrogen permeation</dcterms:subject><dcterms:subject>TiNi intermetallic compound</dcterms:subject><dcterms:subject>Eutectic structure</dcterms:subject><dcterms:subject>Alloy design</dcterms:subject><dcterms:subject>Microstructure</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S092583880500914X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S092583880500914X" rel="scidir"/></coredata><objects><object category="thumbnail" height="13" mimetype="image/gif" multimediatype="GIF image file" ref="si30" size="316" type="ALTIMG" width="63">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-si30.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="13" mimetype="image/gif" multimediatype="GIF image file" ref="si29" size="316" type="ALTIMG" width="63">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-si29.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="14" mimetype="image/gif" multimediatype="GIF image file" ref="si28" size="299" type="ALTIMG" width="74">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-si28.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si27" size="331" type="ALTIMG" width="66">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-si27.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="11" mimetype="image/gif" multimediatype="GIF image file" ref="si26" size="140" type="ALTIMG" width="12">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-si26.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="11" mimetype="image/gif" multimediatype="GIF image file" ref="si25" size="140" type="ALTIMG" width="12">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-si25.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="11" mimetype="image/gif" multimediatype="GIF image file" ref="si24" size="140" type="ALTIMG" width="12">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-si24.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="13" mimetype="image/gif" multimediatype="GIF image file" ref="si23" size="316" type="ALTIMG" width="63">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-si23.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="13" mimetype="image/gif" multimediatype="GIF image file" ref="si22" size="316" type="ALTIMG" width="63">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-si22.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="13" mimetype="image/gif" multimediatype="GIF image file" ref="si21" size="350" type="ALTIMG" width="74">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-si21.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="13" mimetype="image/gif" multimediatype="GIF image file" ref="si20" size="316" type="ALTIMG" width="63">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-si20.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="11" mimetype="image/gif" multimediatype="GIF image file" ref="si19" size="140" type="ALTIMG" width="12">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-si19.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="13" mimetype="image/gif" multimediatype="GIF image file" ref="si18" size="316" type="ALTIMG" width="63">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-si18.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="13" mimetype="image/gif" multimediatype="GIF image file" ref="si17" size="350" type="ALTIMG" width="74">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-si17.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="7" mimetype="image/gif" multimediatype="GIF image file" ref="si16" size="113" type="ALTIMG" width="11">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-si16.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="7" mimetype="image/gif" multimediatype="GIF image file" ref="si15" size="113" type="ALTIMG" width="11">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-si15.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="7" mimetype="image/gif" multimediatype="GIF image file" ref="si14" size="113" type="ALTIMG" width="11">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-si14.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="7" mimetype="image/gif" multimediatype="GIF image file" ref="si13" size="113" type="ALTIMG" width="11">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-si13.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="13" mimetype="image/gif" multimediatype="GIF image file" ref="si12" size="159" type="ALTIMG" width="17">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-si12.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="13" mimetype="image/gif" multimediatype="GIF image file" ref="si11" size="152" type="ALTIMG" width="17">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-si11.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="11" mimetype="image/gif" multimediatype="GIF image file" ref="si10" size="140" type="ALTIMG" width="12">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-si10.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="38" mimetype="image/gif" multimediatype="GIF image file" ref="si9" size="690" type="ALTIMG" width="134">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-si9.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="14" mimetype="image/gif" multimediatype="GIF image file" ref="si8" size="242" type="ALTIMG" width="61">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-si8.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="7" mimetype="image/gif" multimediatype="GIF image file" ref="si7" size="114" type="ALTIMG" width="11">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-si7.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="11" mimetype="image/gif" multimediatype="GIF image file" ref="si6" size="129" type="ALTIMG" width="11">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-si6.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="13" mimetype="image/gif" multimediatype="GIF image file" ref="si5" size="316" type="ALTIMG" width="63">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-si5.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="13" mimetype="image/gif" multimediatype="GIF image file" ref="si4" size="316" type="ALTIMG" width="63">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-si4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="11" mimetype="image/gif" multimediatype="GIF image file" ref="si3" size="140" type="ALTIMG" width="12">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-si3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="13" mimetype="image/gif" multimediatype="GIF image file" ref="si2" size="316" type="ALTIMG" width="63">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-si2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="13" mimetype="image/gif" multimediatype="GIF image file" ref="si1" size="316" type="ALTIMG" width="63">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-si1.gif?httpAccept=%2A%2F%2A</object><object category="standard" height="431" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr5" size="144764" type="IMAGE-DOWNSAMPLED" width="659">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-gr5.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="82" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="4521" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="427" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="146070" type="IMAGE-DOWNSAMPLED" width="656">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="81" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="4680" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="313" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="8824" type="IMAGE-DOWNSAMPLED" width="368">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-gr6.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="1647" type="IMAGE-THUMBNAIL" width="110">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="313" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="8246" type="IMAGE-DOWNSAMPLED" width="368">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-gr3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="1547" type="IMAGE-THUMBNAIL" width="110">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="336" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="10833" type="IMAGE-DOWNSAMPLED" width="360">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-gr1.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="1698" type="IMAGE-THUMBNAIL" width="100">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="339" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="11472" type="IMAGE-DOWNSAMPLED" width="370">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-gr4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="1720" type="IMAGE-THUMBNAIL" width="102">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500914X-gr4.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>28144442279</scopus-id><scopus-eid>2-s2.0-28144442279</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/28144442279" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20050808">2005-08-08</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20050808">2005-08-08</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-04-17T10:08:11</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S092583880500914X</xocs:eid>
+<xocs:pii-formatted>S0925-8388(05)00914-X</xocs:pii-formatted>
+<xocs:pii-unformatted>S092583880500914X</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2005.02.085</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838805X02468</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.349087-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20051208</xocs:date-search-begin>
+<xocs:year-nav>2005</xocs:year-nav>
+<xocs:indexeddate epoch="1123459200">2005-08-08T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate volumelist yearnav absattachment articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confdate confeditor confloc contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings suppl vol vol volfirst volissue webpdf webpdfpagecount figure body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>404</xocs:vol-first>
+<xocs:vol-last>406</xocs:vol-last>
+<xocs:volume-list>
+<xocs:volume>404</xocs:volume>
+<xocs:volume>405</xocs:volume>
+<xocs:volume>406</xocs:volume>
+</xocs:volume-list>
+<xocs:suppl>C</xocs:suppl>
+<xocs:vol-iss-suppl-text>Volumes 404–406</xocs:vol-iss-suppl-text>
+<xocs:sort-order>65</xocs:sort-order>
+<xocs:first-fp>273</xocs:first-fp>
+<xocs:last-lp>278</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>273</xocs:first-page>
+<xocs:last-page>278</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20051208</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>8 December 2005</xocs:cover-date-text>
+<xocs:cover-date-start>2005-12-08</xocs:cover-date-start>
+<xocs:cover-date-year>2005</xocs:cover-date-year>
+<xocs:title-editors-groups>
+<xocs:title-editors-group>
+<ce:title>Proceedings of the 9th International Symposium on Metal-Hydrogen Systems, Fundamentals and Applications (MH2004)</ce:title>
+<xocs:conference-info>
+<xocs:full-name>The International Symposium on Metal-Hydrogen Systems, Fundamentals and Applications, MH2004</xocs:full-name>
+<xocs:venue>Cracow, Poland</xocs:venue>
+<xocs:conference-date-text>5–10 September 2004</xocs:conference-date-text>
+<xocs:date-range>
+<xocs:start-date>20040905</xocs:start-date>
+<xocs:end-date>20040910</xocs:end-date>
+</xocs:date-range>
+</xocs:conference-info>
+<ce:editors>
+<ce:author-group>
+<ce:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Figiel</ce:surname>
+</ce:author>
+</ce:author-group>
+<ce:author-group>
+<ce:author>
+<ce:given-name>O.J.</ce:given-name>
+<ce:surname>Zogal</ce:surname>
+</ce:author>
+</ce:author-group>
+<ce:author-group>
+<ce:author>
+<ce:given-name>V.</ce:given-name>
+<ce:surname>Yartys</ce:surname>
+</ce:author>
+</ce:author-group>
+</ce:editors>
+</xocs:title-editors-group>
+</xocs:title-editors-groups>
+<xocs:hub-sec>
+<xocs:hub-sec-title>4. H diffusion, tunneling, trapping</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2005 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>HYDROGENPERMEATIONCHARACTERISTICSVTATINIALLOYS</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>HASHI</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>K</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Hydrogen permeation in the V–Ti–Ni system</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Hydrogen permeation in the Ta–Ti–Ni system</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Discussion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>5</xocs:item-toc-label>
+<xocs:item-toc-section-title>Summary</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>FUKAI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1985</xocs:ref-pub-year>
+<xocs:ref-first-fp>263</xocs:ref-first-fp>
+<xocs:ref-last-lp>326</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>NISHIMURA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1994</xocs:ref-pub-year>
+<xocs:ref-first-fp>1273</xocs:ref-first-fp>
+<xocs:ref-last-lp>1276</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>601</xocs:ref-first-fp>
+<xocs:ref-last-lp>606</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>OZAKI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>297</xocs:ref-first-fp>
+<xocs:ref-last-lp>302</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>NISHIMURA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>902</xocs:ref-first-fp>
+<xocs:ref-last-lp>906</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>OZAKI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>1229</xocs:ref-first-fp>
+<xocs:ref-last-lp>1235</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>NISHIMURA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>295</xocs:ref-first-fp>
+<xocs:ref-last-lp>299</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>HASHI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>215</xocs:ref-first-fp>
+<xocs:ref-last-lp>220</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>VILLARS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>HANDBOOKTERNARYALLOYPHASEDIAGRAMS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10"></xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>HASHIX2005X273</xocs:refkey3>
+<xocs:refkey4lp>HASHIX2005X273X278</xocs:refkey4lp>
+<xocs:refkey4ai>HASHIX2005X273XK</xocs:refkey4ai>
+<xocs:refkey5>HASHIX2005X273X278XK</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(05)00914-X</xocs:pii-formatted>
+<xocs:pii-unformatted>S092583880500914X</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S092583880500914X</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2005.02.085</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-10T16:24:48.895321-04:00</xocs:timestamp>
+<xocs:cover-date-start>2005-12-08</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/MAIN/application/pdf/6c51a04af35c230ea6d2b7f39e38b936/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/MAIN/application/pdf/6c51a04af35c230ea6d2b7f39e38b936/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>476854</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/PREVIEW/image/png/d4510eebd14da40acd12fcce376a30d3/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/PREVIEW/image/png/d4510eebd14da40acd12fcce376a30d3/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>67432</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-si30.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/STRIPIN/image/gif/3bbb885097fd1fe875a6df1b8354c1d7/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/STRIPIN/image/gif/3bbb885097fd1fe875a6df1b8354c1d7/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si30</xocs:file-basename>
+<xocs:filename>si30.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>316</xocs:filesize>
+<xocs:pixel-height>13</xocs:pixel-height>
+<xocs:pixel-width>63</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-si29.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/STRIPIN/image/gif/3bbb885097fd1fe875a6df1b8354c1d7/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/STRIPIN/image/gif/3bbb885097fd1fe875a6df1b8354c1d7/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si29</xocs:file-basename>
+<xocs:filename>si29.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>316</xocs:filesize>
+<xocs:pixel-height>13</xocs:pixel-height>
+<xocs:pixel-width>63</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-si28.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/STRIPIN/image/gif/adc499f420d7ad543b9bebade5d8e55a/si28.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/STRIPIN/image/gif/adc499f420d7ad543b9bebade5d8e55a/si28.gif</xocs:ucs-locator>
+<xocs:file-basename>si28</xocs:file-basename>
+<xocs:filename>si28.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>299</xocs:filesize>
+<xocs:pixel-height>14</xocs:pixel-height>
+<xocs:pixel-width>74</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-si27.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/STRIPIN/image/gif/29061b340ccd77dd1a7e0ee42b50cddc/si27.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/STRIPIN/image/gif/29061b340ccd77dd1a7e0ee42b50cddc/si27.gif</xocs:ucs-locator>
+<xocs:file-basename>si27</xocs:file-basename>
+<xocs:filename>si27.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>331</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>66</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-si26.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/STRIPIN/image/gif/470e69e0eb0d5bf9d541c29c45166a4f/si25.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/STRIPIN/image/gif/470e69e0eb0d5bf9d541c29c45166a4f/si25.gif</xocs:ucs-locator>
+<xocs:file-basename>si26</xocs:file-basename>
+<xocs:filename>si26.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>140</xocs:filesize>
+<xocs:pixel-height>11</xocs:pixel-height>
+<xocs:pixel-width>12</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-si25.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/STRIPIN/image/gif/470e69e0eb0d5bf9d541c29c45166a4f/si25.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/STRIPIN/image/gif/470e69e0eb0d5bf9d541c29c45166a4f/si25.gif</xocs:ucs-locator>
+<xocs:file-basename>si25</xocs:file-basename>
+<xocs:filename>si25.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>140</xocs:filesize>
+<xocs:pixel-height>11</xocs:pixel-height>
+<xocs:pixel-width>12</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-si24.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/STRIPIN/image/gif/470e69e0eb0d5bf9d541c29c45166a4f/si25.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/STRIPIN/image/gif/470e69e0eb0d5bf9d541c29c45166a4f/si25.gif</xocs:ucs-locator>
+<xocs:file-basename>si24</xocs:file-basename>
+<xocs:filename>si24.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>140</xocs:filesize>
+<xocs:pixel-height>11</xocs:pixel-height>
+<xocs:pixel-width>12</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-si23.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/STRIPIN/image/gif/3bbb885097fd1fe875a6df1b8354c1d7/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/STRIPIN/image/gif/3bbb885097fd1fe875a6df1b8354c1d7/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si23</xocs:file-basename>
+<xocs:filename>si23.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>316</xocs:filesize>
+<xocs:pixel-height>13</xocs:pixel-height>
+<xocs:pixel-width>63</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-si22.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/STRIPIN/image/gif/3bbb885097fd1fe875a6df1b8354c1d7/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/STRIPIN/image/gif/3bbb885097fd1fe875a6df1b8354c1d7/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si22</xocs:file-basename>
+<xocs:filename>si22.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>316</xocs:filesize>
+<xocs:pixel-height>13</xocs:pixel-height>
+<xocs:pixel-width>63</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-si21.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/STRIPIN/image/gif/0b7b719ead964880fd958a7a0f5aa919/si17.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/STRIPIN/image/gif/0b7b719ead964880fd958a7a0f5aa919/si17.gif</xocs:ucs-locator>
+<xocs:file-basename>si21</xocs:file-basename>
+<xocs:filename>si21.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>350</xocs:filesize>
+<xocs:pixel-height>13</xocs:pixel-height>
+<xocs:pixel-width>74</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-si20.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/STRIPIN/image/gif/3bbb885097fd1fe875a6df1b8354c1d7/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/STRIPIN/image/gif/3bbb885097fd1fe875a6df1b8354c1d7/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si20</xocs:file-basename>
+<xocs:filename>si20.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>316</xocs:filesize>
+<xocs:pixel-height>13</xocs:pixel-height>
+<xocs:pixel-width>63</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-si19.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/STRIPIN/image/gif/470e69e0eb0d5bf9d541c29c45166a4f/si25.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/STRIPIN/image/gif/470e69e0eb0d5bf9d541c29c45166a4f/si25.gif</xocs:ucs-locator>
+<xocs:file-basename>si19</xocs:file-basename>
+<xocs:filename>si19.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>140</xocs:filesize>
+<xocs:pixel-height>11</xocs:pixel-height>
+<xocs:pixel-width>12</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-si18.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/STRIPIN/image/gif/3bbb885097fd1fe875a6df1b8354c1d7/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/STRIPIN/image/gif/3bbb885097fd1fe875a6df1b8354c1d7/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si18</xocs:file-basename>
+<xocs:filename>si18.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>316</xocs:filesize>
+<xocs:pixel-height>13</xocs:pixel-height>
+<xocs:pixel-width>63</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-si17.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/STRIPIN/image/gif/0b7b719ead964880fd958a7a0f5aa919/si17.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/STRIPIN/image/gif/0b7b719ead964880fd958a7a0f5aa919/si17.gif</xocs:ucs-locator>
+<xocs:file-basename>si17</xocs:file-basename>
+<xocs:filename>si17.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>350</xocs:filesize>
+<xocs:pixel-height>13</xocs:pixel-height>
+<xocs:pixel-width>74</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-si16.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/STRIPIN/image/gif/b72423b2e1f14e13b949c8b7d9bc4202/si13.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/STRIPIN/image/gif/b72423b2e1f14e13b949c8b7d9bc4202/si13.gif</xocs:ucs-locator>
+<xocs:file-basename>si16</xocs:file-basename>
+<xocs:filename>si16.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>113</xocs:filesize>
+<xocs:pixel-height>7</xocs:pixel-height>
+<xocs:pixel-width>11</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-si15.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/STRIPIN/image/gif/b72423b2e1f14e13b949c8b7d9bc4202/si13.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/STRIPIN/image/gif/b72423b2e1f14e13b949c8b7d9bc4202/si13.gif</xocs:ucs-locator>
+<xocs:file-basename>si15</xocs:file-basename>
+<xocs:filename>si15.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>113</xocs:filesize>
+<xocs:pixel-height>7</xocs:pixel-height>
+<xocs:pixel-width>11</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-si14.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/STRIPIN/image/gif/b72423b2e1f14e13b949c8b7d9bc4202/si13.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/STRIPIN/image/gif/b72423b2e1f14e13b949c8b7d9bc4202/si13.gif</xocs:ucs-locator>
+<xocs:file-basename>si14</xocs:file-basename>
+<xocs:filename>si14.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>113</xocs:filesize>
+<xocs:pixel-height>7</xocs:pixel-height>
+<xocs:pixel-width>11</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-si13.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/STRIPIN/image/gif/b72423b2e1f14e13b949c8b7d9bc4202/si13.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/STRIPIN/image/gif/b72423b2e1f14e13b949c8b7d9bc4202/si13.gif</xocs:ucs-locator>
+<xocs:file-basename>si13</xocs:file-basename>
+<xocs:filename>si13.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>113</xocs:filesize>
+<xocs:pixel-height>7</xocs:pixel-height>
+<xocs:pixel-width>11</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-si12.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/STRIPIN/image/gif/4f1bbe2e84f9622cba76e89455dfa3f2/si12.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/STRIPIN/image/gif/4f1bbe2e84f9622cba76e89455dfa3f2/si12.gif</xocs:ucs-locator>
+<xocs:file-basename>si12</xocs:file-basename>
+<xocs:filename>si12.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>159</xocs:filesize>
+<xocs:pixel-height>13</xocs:pixel-height>
+<xocs:pixel-width>17</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-si11.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/STRIPIN/image/gif/25da1f4b08193fc465fadcddecaaed13/si11.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/STRIPIN/image/gif/25da1f4b08193fc465fadcddecaaed13/si11.gif</xocs:ucs-locator>
+<xocs:file-basename>si11</xocs:file-basename>
+<xocs:filename>si11.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>152</xocs:filesize>
+<xocs:pixel-height>13</xocs:pixel-height>
+<xocs:pixel-width>17</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-si10.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/STRIPIN/image/gif/470e69e0eb0d5bf9d541c29c45166a4f/si25.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/STRIPIN/image/gif/470e69e0eb0d5bf9d541c29c45166a4f/si25.gif</xocs:ucs-locator>
+<xocs:file-basename>si10</xocs:file-basename>
+<xocs:filename>si10.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>140</xocs:filesize>
+<xocs:pixel-height>11</xocs:pixel-height>
+<xocs:pixel-width>12</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-si9.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/STRIPIN/image/gif/fe38c187b8b47c00c97303cc50067529/si9.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/STRIPIN/image/gif/fe38c187b8b47c00c97303cc50067529/si9.gif</xocs:ucs-locator>
+<xocs:file-basename>si9</xocs:file-basename>
+<xocs:filename>si9.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>690</xocs:filesize>
+<xocs:pixel-height>38</xocs:pixel-height>
+<xocs:pixel-width>134</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-si8.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/STRIPIN/image/gif/4d2243db3bf8361817bff51a448dd1ed/si8.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/STRIPIN/image/gif/4d2243db3bf8361817bff51a448dd1ed/si8.gif</xocs:ucs-locator>
+<xocs:file-basename>si8</xocs:file-basename>
+<xocs:filename>si8.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>242</xocs:filesize>
+<xocs:pixel-height>14</xocs:pixel-height>
+<xocs:pixel-width>61</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-si7.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/STRIPIN/image/gif/e4575308b665f2203f760eb9df49ae04/si7.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/STRIPIN/image/gif/e4575308b665f2203f760eb9df49ae04/si7.gif</xocs:ucs-locator>
+<xocs:file-basename>si7</xocs:file-basename>
+<xocs:filename>si7.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>114</xocs:filesize>
+<xocs:pixel-height>7</xocs:pixel-height>
+<xocs:pixel-width>11</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-si6.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/STRIPIN/image/gif/0589cd25b6d064b5c0d6bd6a243f1b32/si6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/STRIPIN/image/gif/0589cd25b6d064b5c0d6bd6a243f1b32/si6.gif</xocs:ucs-locator>
+<xocs:file-basename>si6</xocs:file-basename>
+<xocs:filename>si6.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>129</xocs:filesize>
+<xocs:pixel-height>11</xocs:pixel-height>
+<xocs:pixel-width>11</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-si5.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/STRIPIN/image/gif/3bbb885097fd1fe875a6df1b8354c1d7/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/STRIPIN/image/gif/3bbb885097fd1fe875a6df1b8354c1d7/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si5</xocs:file-basename>
+<xocs:filename>si5.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>316</xocs:filesize>
+<xocs:pixel-height>13</xocs:pixel-height>
+<xocs:pixel-width>63</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-si4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/STRIPIN/image/gif/3bbb885097fd1fe875a6df1b8354c1d7/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/STRIPIN/image/gif/3bbb885097fd1fe875a6df1b8354c1d7/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si4</xocs:file-basename>
+<xocs:filename>si4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>316</xocs:filesize>
+<xocs:pixel-height>13</xocs:pixel-height>
+<xocs:pixel-width>63</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-si3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/STRIPIN/image/gif/470e69e0eb0d5bf9d541c29c45166a4f/si25.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/STRIPIN/image/gif/470e69e0eb0d5bf9d541c29c45166a4f/si25.gif</xocs:ucs-locator>
+<xocs:file-basename>si3</xocs:file-basename>
+<xocs:filename>si3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>140</xocs:filesize>
+<xocs:pixel-height>11</xocs:pixel-height>
+<xocs:pixel-width>12</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-si2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/STRIPIN/image/gif/3bbb885097fd1fe875a6df1b8354c1d7/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/STRIPIN/image/gif/3bbb885097fd1fe875a6df1b8354c1d7/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si2</xocs:file-basename>
+<xocs:abstract-attachment>true</xocs:abstract-attachment>
+<xocs:filename>si2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>316</xocs:filesize>
+<xocs:pixel-height>13</xocs:pixel-height>
+<xocs:pixel-width>63</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-si1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/STRIPIN/image/gif/3bbb885097fd1fe875a6df1b8354c1d7/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/STRIPIN/image/gif/3bbb885097fd1fe875a6df1b8354c1d7/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si1</xocs:file-basename>
+<xocs:abstract-attachment>true</xocs:abstract-attachment>
+<xocs:filename>si1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>316</xocs:filesize>
+<xocs:pixel-height>13</xocs:pixel-height>
+<xocs:pixel-width>63</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-gr5.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/gr5/DOWNSAMPLED/image/jpeg/e68a668345dd4d6aede494ec76b2694b/gr5.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/gr5/DOWNSAMPLED/image/jpeg/e68a668345dd4d6aede494ec76b2694b/gr5.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>144764</xocs:filesize>
+<xocs:pixel-height>431</xocs:pixel-height>
+<xocs:pixel-width>659</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/gr5/THUMBNAIL/image/gif/f86976304e0b4b0aabfba55015953dd8/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/gr5/THUMBNAIL/image/gif/f86976304e0b4b0aabfba55015953dd8/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>4521</xocs:filesize>
+<xocs:pixel-height>82</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/gr2/DOWNSAMPLED/image/jpeg/a3072630df082e702343597e8d379309/gr2.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/gr2/DOWNSAMPLED/image/jpeg/a3072630df082e702343597e8d379309/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>146070</xocs:filesize>
+<xocs:pixel-height>427</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/gr2/THUMBNAIL/image/gif/cdf16d46ee7fd3a7f5237e6afb44e220/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/gr2/THUMBNAIL/image/gif/cdf16d46ee7fd3a7f5237e6afb44e220/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>4680</xocs:filesize>
+<xocs:pixel-height>81</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-gr6.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/gr6/DOWNSAMPLED/image/gif/e6d9859fcdfcb73f65af42da7c4a91ce/gr6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/gr6/DOWNSAMPLED/image/gif/e6d9859fcdfcb73f65af42da7c4a91ce/gr6.gif</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>8824</xocs:filesize>
+<xocs:pixel-height>313</xocs:pixel-height>
+<xocs:pixel-width>368</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/gr6/THUMBNAIL/image/gif/7f030555d423b08e07cb3bf1dfd01d9c/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/gr6/THUMBNAIL/image/gif/7f030555d423b08e07cb3bf1dfd01d9c/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1647</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>110</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-gr3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/gr3/DOWNSAMPLED/image/gif/7bc6da7e3d3dc0b428fd5b2ffcc8d830/gr3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/gr3/DOWNSAMPLED/image/gif/7bc6da7e3d3dc0b428fd5b2ffcc8d830/gr3.gif</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>8246</xocs:filesize>
+<xocs:pixel-height>313</xocs:pixel-height>
+<xocs:pixel-width>368</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/gr3/THUMBNAIL/image/gif/bb8af934dadc4cb3c964b87547cb27f6/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/gr3/THUMBNAIL/image/gif/bb8af934dadc4cb3c964b87547cb27f6/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1547</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>110</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-gr1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/gr1/DOWNSAMPLED/image/gif/39da1abadec4be863a370ae794d4d0f5/gr1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/gr1/DOWNSAMPLED/image/gif/39da1abadec4be863a370ae794d4d0f5/gr1.gif</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>10833</xocs:filesize>
+<xocs:pixel-height>336</xocs:pixel-height>
+<xocs:pixel-width>360</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/gr1/THUMBNAIL/image/gif/6850312122138cd472e1841804908aec/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/gr1/THUMBNAIL/image/gif/6850312122138cd472e1841804908aec/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1698</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>100</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-gr4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/gr4/DOWNSAMPLED/image/gif/5db3e7d6d9f8cd03d5f9229ae5639c0f/gr4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/gr4/DOWNSAMPLED/image/gif/5db3e7d6d9f8cd03d5f9229ae5639c0f/gr4.gif</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>11472</xocs:filesize>
+<xocs:pixel-height>339</xocs:pixel-height>
+<xocs:pixel-width>370</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500914X-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500914X/gr4/THUMBNAIL/image/gif/4fe2155d639592a0d3d42f6cd72529dd/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500914X/gr4/THUMBNAIL/image/gif/4fe2155d639592a0d3d42f6cd72529dd/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1720</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>102</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>12711</aid>
+<ce:pii>S0925-8388(05)00914-X</ce:pii>
+<ce:doi>10.1016/j.jallcom.2005.02.085</ce:doi>
+<ce:copyright type="full-transfer" year="2005">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Chemical compositions of the alloys in V–Ti–Ni system investigated in this work. The solid square, circle and triangle denote the brittle alloys in as-cast state, the embrittled alloys by hydrogenation and the alloys without hydrogen permeability, respectively. The open circle denotes the alloys which permeate hydrogen, together with the hydrogen permeability at 673 K by the unit of 10<ce:sup loc="post">−8</ce:sup> (mol H<ce:inf loc="post">2</ce:inf> m<ce:sup loc="post">−1</ce:sup> s<ce:sup loc="post">−1</ce:sup> Pa<ce:sup loc="post">−0.5</ce:sup>).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">SEM photographs of as-cast (a) V<ce:inf loc="post">41</ce:inf>Ti<ce:inf loc="post">20</ce:inf>Ni<ce:inf loc="post">39</ce:inf> (A), (b) V<ce:inf loc="post">41</ce:inf>Ti<ce:inf loc="post">40</ce:inf>Ni<ce:inf loc="post">19</ce:inf> (B), (c) V<ce:inf loc="post">10</ce:inf>Ti<ce:inf loc="post">41</ce:inf>Ni<ce:inf loc="post">49</ce:inf> (D) and (d) V<ce:inf loc="post">41</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">29</ce:inf> (E) alloys, respectively.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Temperature dependence of hydrogen permeability of the alloys in V–Ti–Ni system.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Chemical compositions of the alloys in Ta–Ti–Ni system investigated in this work. The solid square, circle and triangle denote the brittle alloys in as-cast state, the embrittled alloys by hydrogenation and the alloys without hydrogen permeability, respectively. The open circle denotes the alloys which permeate hydrogen, together with the hydrogen permeability at 673 K by the unit of 10<ce:sup loc="post">−8</ce:sup> (mol H<ce:inf loc="post">2</ce:inf> m<ce:sup loc="post">−1</ce:sup> s<ce:sup loc="post">−1</ce:sup> Pa<ce:sup loc="post">−0.5</ce:sup>).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">SEM photographs of as-cast (a) Ta<ce:inf loc="post">39</ce:inf>Ti<ce:inf loc="post">27</ce:inf>Ni<ce:inf loc="post">34</ce:inf> (A), (b) Ta<ce:inf loc="post">22</ce:inf>Ti<ce:inf loc="post">58</ce:inf>Ni<ce:inf loc="post">20</ce:inf> (B), (c) Ta<ce:inf loc="post">14</ce:inf>Ti<ce:inf loc="post">39</ce:inf>Ni<ce:inf loc="post">47</ce:inf> (C) and (d) Ta<ce:inf loc="post">53</ce:inf>Ti<ce:inf loc="post">28</ce:inf>Ni<ce:inf loc="post">19</ce:inf> (D) alloys, respectively.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Temperature dependence of hydrogen permeability of the alloys in Ta–Ti–Ni system.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+</ce:floats>
+<ce:title>Hydrogen permeation characteristics of (V, Ta)–Ti–Ni alloys</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Hashi</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Ishikawa</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="cor1">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Matsuda</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Aoki</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation id="aff1">
+<ce:label>a</ce:label>
+<ce:textfn>Graduate Student of Kitami Institute of Technology, now The Japan Steel Works, Ltd., 4 Chatsumachi, Muroran, Hokkaido 051-8505, Japan</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff2">
+<ce:label>b</ce:label>
+<ce:textfn>Kitami Institute of Technology, 165 Koen-cho, Kitami, Hokkaido 090-8507, Japan</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>⁎</ce:label>
+<ce:text>Corresponding author. Tel.: +81 157 26 9449; fax: +81 157 26 9449.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="7" month="9" year="2004"></ce:date-received>
+<ce:date-revised day="14" month="2" year="2005"></ce:date-revised>
+<ce:date-accepted day="21" month="2" year="2005"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">Hydrogen permeation properties and microstructures of V–Ti–Ni and Ta–Ti–Ni alloys were investigated at 523–673 K. In both systems, a good hydrogen permeability was obtained in the alloys whose chemical compositions are near TiNi–V (or Ta) pseudo-binary system without hydrogen embrittlement. These alloys consist mainly of B2-TiNi and bcc-(V, Ti) (or bcc-(Ta, Ti)) phases. In particular, hydrogen embrittlement resistance is improved by the combination of the primary bcc phase and the eutectic <mml:math altimg="si1.gif" overflow="scroll">
+<mml:mtext>B</mml:mtext>
+<mml:mn>2</mml:mn>
+<mml:mo>+</mml:mo>
+<mml:mtext>bcc</mml:mtext>
+</mml:math> structure. The primary bcc phase and the eutectic <mml:math altimg="si2.gif" overflow="scroll">
+<mml:mtext>B</mml:mtext>
+<mml:mn>2</mml:mn>
+<mml:mo>+</mml:mo>
+<mml:mtext>bcc</mml:mtext>
+</mml:math> structure contribute mainly to hydrogen permeability and to improvement of hydrogen embrittlement, respectively. This paper shows a possibility of new type multi-phase hydrogen permeation alloys.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Hydrogen permeation</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>TiNi intermetallic compound</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Eutectic structure</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Alloy design</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Microstructure</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section id="sec1" view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Pure hydrogen gas is mainly produced by passing through a hydrogen permeation membrane. Today, pure Pd and its alloys are used commercially as a hydrogen permeation membrane, but Pd-based alloys are too expensive and too rare resources to satisfy our industrial demands. In these days, many researchers have tried to develop low cost and high performance non-Pd based hydrogen permeation alloys. Since hydrogen permeability <mml:math altimg="si3.gif" overflow="scroll">
+<mml:mi>Φ</mml:mi>
+</mml:math> is expressed by the product of hydrogen diffusivity <ce:italic>D</ce:italic> and hydrogen solubility <ce:italic>K</ce:italic>, 5A group metals such as V, Nb and Ta are a candidate for a hydrogen permeation membrane <ce:cross-ref refid="bib1">[1]</ce:cross-ref>. Nishimura and co-workers have investigated the hydrogen permeability of V based alloys <ce:cross-refs refid="bib2 bib3 bib4 bib5 bib6 bib7">[2–7]</ce:cross-refs> and revealed that these alloys are promising candidates for non-Pd hydrogen permeation alloy.</ce:para>
+<ce:para view="all">It is required that hydrogen permeation alloys should not only have a good hydrogen permeability, but also good mechanical properties to endure the pressure difference between upstream and downstream side and to show hydrogen embrittlement resistance. If, however, the alloy absorbs much hydrogen for a good performance of hydrogen permeation, the alloy will be easily broken caused from hydrogen embrittlement. Therefore, it is believed that combination of these conflicted factors is the most important technical term for developing non-Pd hydrogen permeation alloy.</ce:para>
+<ce:para view="all">Recently, we investigated the hydrogen permeability of Nb–Ti–Ni alloys constituting of both ductile B2-TiNi and ductile bcc-(Nb, Ti) phases and reported that some alloys show larger hydrogen permeability than that of pure Pd without hydrogen embrittlement <ce:cross-ref refid="bib8">[8]</ce:cross-ref>. Resulting from microstructural observation, these alloys consist of the primary bcc phase and the eutectic <mml:math altimg="si4.gif" overflow="scroll">
+<mml:mtext>B</mml:mtext>
+<mml:mn>2</mml:mn>
+<mml:mo>+</mml:mo>
+<mml:mtext>bcc</mml:mtext>
+</mml:math>structure. It is concluded that the primary bcc phase plays a key role in the hydrogen permeation, while the volume expansion of the bcc phase by hydrogen absorption is reduced by the presence of <mml:math altimg="si5.gif" overflow="scroll">
+<mml:mtext>B</mml:mtext>
+<mml:mn>2</mml:mn>
+<mml:mo>+</mml:mo>
+<mml:mtext>bcc</mml:mtext>
+</mml:math> eutectic structure. Therefore, the possibility of new type hydrogen permeation alloys consisting of multi-phases is demonstrated in this investigation. It is natural that our next interests toward to the alloy systems containing another 5A transition metals, i.e. V–Ti–Ni and Ta–Ti–Ni systems. In addition, we can expect to obtain same phase constructions and structures in these systems to those of Nb–Ti–Ni system. In the present work, we investigated the hydrogen permeation and the microstructure of V–Ti–Ni and Ta–Ti–Ni alloys and discussed the possibility of them for hydrogen permeation alloys.</ce:para>
+</ce:section>
+<ce:section id="sec2" view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental</ce:section-title>
+<ce:para view="all">The V–Ti–Ni and Ta–Ti–Ni alloy ingots were prepared by arc melting in an Ar atmosphere using pure elements of V (99.7 mass% purity), Ta (99.9 mass% purity), Ti (99.5 mass% purity) and Ni (99.9 mass% purity). The alloy disks of 12 mm in diameter and 0.5–0.7 mm in thickness were cut from the alloy ingots using spark erosion method. The surface of the disks was polished using buff and alumina particle (0.5 <mml:math altimg="si6.gif" overflow="scroll">
+<mml:mstyle mathvariant="normal">
+<mml:mi>μ</mml:mi>
+</mml:mstyle>
+</mml:math> m). Microstructural observation and measurement of chemical composition of the samples were carried out with a scanning electron microscope (SEM) and an energy dispersion X-ray spectroscopy (EDS). Structure of the sample was identified by an X-ray diffractometer (XRD) using Cu K<mml:math altimg="si7.gif" overflow="scroll">
+<mml:mstyle mathvariant="normal">
+<mml:mi>α</mml:mi>
+</mml:mstyle>
+</mml:math> radiation monochromated by graphite.</ce:para>
+<ce:para view="all">Both sides of the alloy disks were coated by Pd with 190 nm thickness for hydrogen permeation measurement using a rf magnetron sputtering machine. After Pd-coated disks were sealed with Cu gaskets, both side of the disks were evacuated to below <mml:math altimg="si8.gif" overflow="scroll">
+<mml:mn>3</mml:mn>
+<mml:mo>×</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:msup>
+<mml:mrow>
+<mml:mn>0</mml:mn>
+</mml:mrow>
+<mml:mrow>
+<mml:mo>−</mml:mo>
+<mml:mn>3</mml:mn>
+</mml:mrow>
+</mml:msup>
+</mml:math>  Pa then heated to 673 K. Pure hydrogen gas of 0.20–0.97 MPa in the upstream side and 0.1 MPa in the downstream side was introduced, respectively. Hydrogen flux permeated through alloy disk was measured using a flow meter. If the hydrogen permeation is mainly controlled by diffusion of hydrogen atom, the hydrogen flux <ce:italic>J</ce:italic> is expressed by the next equation:<ce:display>
+<ce:formula>
+<ce:label>(1)</ce:label>
+<mml:math altimg="si9.gif" overflow="scroll">
+<mml:mi>J</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mfrac>
+<mml:mrow>
+<mml:mi>Φ</mml:mi>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:msubsup>
+<mml:mrow>
+<mml:mi>P</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>u</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>0.5</mml:mn>
+</mml:mrow>
+</mml:msubsup>
+<mml:mo>−</mml:mo>
+<mml:msubsup>
+<mml:mrow>
+<mml:mi>P</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>d</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>0.5</mml:mn>
+</mml:mrow>
+</mml:msubsup>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:mrow>
+<mml:mrow>
+<mml:mi>L</mml:mi>
+</mml:mrow>
+</mml:mfrac>
+</mml:math>
+</ce:formula>
+</ce:display>where <mml:math altimg="si10.gif" overflow="scroll">
+<mml:mi>Φ</mml:mi>
+</mml:math> is a hydrogen permeability, <ce:italic>L</ce:italic> a thickness of the alloy disk. <mml:math altimg="si11.gif" overflow="scroll">
+<mml:msub>
+<mml:mrow>
+<mml:mi>P</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>u</mml:mtext>
+</mml:mrow>
+</mml:msub>
+</mml:math> and <mml:math altimg="si12.gif" overflow="scroll">
+<mml:msub>
+<mml:mrow>
+<mml:mi>P</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>d</mml:mtext>
+</mml:mrow>
+</mml:msub>
+</mml:math> are the hydrogen pressures in the upstream and downstream sides of the disk, respectively.</ce:para>
+</ce:section>
+<ce:section id="sec3" view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:section id="sec4" view="all">
+<ce:label>3.1</ce:label>
+<ce:section-title>Hydrogen permeation in the V–Ti–Ni system</ce:section-title>
+<ce:para view="all">The phase diagram <ce:cross-ref refid="bib9">[9]</ce:cross-ref> suggests that the bcc-(V, Ti) and B2-TiNi two-phase region widely exist in the V–Ti–Ni system as well as the Nb–Ti–Ni system. Therefore, if the alloy forms the primary phase of bcc-(V, Ti) phase and the eutectic B2-TiNi and bcc-(V, Ti) phases in its microstructure, we can expect a good hydrogen permeability in this system. <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor> shows the alloy compositions investigated in this work. Hydrogen permeability at 673 K, based on the unit of 10<ce:sup loc="post">−8</ce:sup> (mol H<ce:inf loc="post">2</ce:inf> m<ce:sup loc="post">−1</ce:sup> s<ce:sup loc="post">−1</ce:sup> Pa<ce:sup loc="post">−0.5</ce:sup>) is also shown in this figure. The alloys are classified into four categories. The alloys, which are denoted by the solid square and the solid circle, are impossible to carry out the hydrogen permeation measurements because of their brittleness in as-cast state and the hydrogen embrittlement during the test, respectively. The microstructure of the V<ce:inf loc="post">41</ce:inf>Ti<ce:inf loc="post">20</ce:inf>Ni<ce:inf loc="post">39</ce:inf> alloy (A) is shown in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor> (a). This alloy constitutes of both B2-TiNi phase and <mml:math altimg="si13.gif" overflow="scroll">
+<mml:mstyle mathvariant="normal">
+<mml:mi>σ</mml:mi>
+</mml:mstyle>
+</mml:math>-V<ce:inf loc="post">2</ce:inf>Ni phase. In addition, the volume fraction of <mml:math altimg="si14.gif" overflow="scroll">
+<mml:mstyle mathvariant="normal">
+<mml:mi>σ</mml:mi>
+</mml:mstyle>
+</mml:math>phase is larger than that of TiNi phase. Therefore, the brittleness of this alloy in as-cast state is caused from the formation of large amount of <mml:math altimg="si15.gif" overflow="scroll">
+<mml:mstyle mathvariant="normal">
+<mml:mi>σ</mml:mi>
+</mml:mstyle>
+</mml:math> phase. The brittle alloys in the as-cast state locate in the region of high Ti low V content and low Ti high Ni content. In this region, the alloys also contain brittle phases such as <mml:math altimg="si16.gif" overflow="scroll">
+<mml:mstyle mathvariant="normal">
+<mml:mi>σ</mml:mi>
+</mml:mstyle>
+</mml:math> phase and Ti<ce:inf loc="post">2</ce:inf>Ni phase. Therefore, these brittle alloys in as-cast state are hopeless to use for hydrogen permeation alloys. The V<ce:inf loc="post">41</ce:inf>Ti<ce:inf loc="post">40</ce:inf>Ni<ce:inf loc="post">19</ce:inf>(B) and V<ce:inf loc="post">51</ce:inf>Ti<ce:inf loc="post">20</ce:inf>Ni<ce:inf loc="post">29</ce:inf> (C) alloys are ductile in the as-cast state, but are broken by hydrogen embrittlement during the hydrogen permeability measurement. For example, the microstructure of the alloy (B) is shown in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>(b). Although the alloy constitutes mainly of B2-TiNi and bcc-(V, Ti) phases, the volume fraction of bcc phase is about 50%. Furthermore, the formation of Ti<ce:inf loc="post">2</ce:inf>Ni phase which absorbs large amount of hydrogen is seen in this alloy. The alloys embrittled by hydrogenation are also hopeless. The alloys denoted as solid triangle in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref> show neither brittleness in as-cast state nor hydrogen embrittlement during test, but hydrogen permeability of them is below 10<ce:sup loc="post">−10</ce:sup> (mol H<ce:inf loc="post">2</ce:inf> m<ce:sup loc="post">−1</ce:sup> s<ce:sup loc="post">−1</ce:sup> Pa<ce:sup loc="post">−0.5</ce:sup>). As shown in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>(c), the V<ce:inf loc="post">10</ce:inf>Ti<ce:inf loc="post">41</ce:inf>Ni<ce:inf loc="post">49</ce:inf>(D) alloy mainly consists of TiNi and small amount of Ti<ce:inf loc="post">2</ce:inf>Ni phases. Therefore, too much TiNi phase causes a small hydrogen permeability.</ce:para>
+<ce:para view="all">The alloys denoted as open circle in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref> show a measurable hydrogen permeability. We can see that the chemical compositions of them concentrate in the center of the diagram along the TiNi–V pseudo-binary system. According to the V–Ti–Ni phase diagram <ce:cross-ref refid="bib9">[9]</ce:cross-ref>, this area is corresponding to the two-phase region of B2-TiNi and bcc-(V, Ti) phases. <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>(d) shows the SEM photograph of V<ce:inf loc="post">41</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">29</ce:inf>(E) alloy. The alloy consists of the primary bcc-(V, Ti) phase and the eutectic B2-<mml:math altimg="si17.gif" overflow="scroll">
+<mml:mtext>TiNi</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:mtext>bcc</mml:mtext>
+</mml:math>-(V, Ti) structure. The primary phase is surrounded by the eutectic structure and its volume fraction is about 40%. Although the alloy involves a large amount of the bcc phase, the hydrogen permeation test can be carried out without hydrogen embrittlement. The eutectic <mml:math altimg="si18.gif" overflow="scroll">
+<mml:mtext>B</mml:mtext>
+<mml:mn>2</mml:mn>
+<mml:mo>+</mml:mo>
+<mml:mtext>bcc</mml:mtext>
+</mml:math> structure is also observed in V<ce:inf loc="post">20</ce:inf>Ti<ce:inf loc="post">41</ce:inf>Ni<ce:inf loc="post">39</ce:inf> (F) alloy. On the other hand, no eutectic structure is found in both V<ce:inf loc="post">31</ce:inf>Ti<ce:inf loc="post">40</ce:inf>Ni<ce:inf loc="post">29</ce:inf> (G) and V<ce:inf loc="post">9</ce:inf>Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">40</ce:inf> (H) alloys. Consequently, the eutectic structure is obtained only in the TiNi–V pseudo-binary compositions in V–Ti–Ni system.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor> shows the temperature dependence of the hydrogen permeability <mml:math altimg="si19.gif" overflow="scroll">
+<mml:mi>Φ</mml:mi>
+</mml:math> of these four alloys. We can see that the hydrogen permeability of all alloys increases with increasing temperature as same as that of Nb–Ti–Ni alloy. Alloys (E) and (F) show a good hydrogen permeability without hydrogen embrittlement. The hydrogen permeability of the former alloy is larger than that of the latter one because the large volume fraction of the primary bcc phase, which contributes mainly to hydrogen permeation, is increased with V content in the alloy. Therefore, V<ce:inf loc="post">9</ce:inf>Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">40</ce:inf>(H) shows low hydrogen permeability. It is noted that the alloy (G) shows larger hydrogen permeability than that of the alloy (E) in spite of its lower V content. In addition, the alloy (G) is broken due to hydrogen embrittlement at 573 K, but the alloy (E) is not. This result may cause from no formation of the eutectic <mml:math altimg="si20.gif" overflow="scroll">
+<mml:mtext>B</mml:mtext>
+<mml:mn>2</mml:mn>
+<mml:mo>+</mml:mo>
+<mml:mtext>bcc</mml:mtext>
+</mml:math> structure which contributes the suppression of hydrogen embrittlement in alloy (G). In these experimental conditions, no alloy shows better hydrogen permeability than that of pure Pd.</ce:para>
+</ce:section>
+<ce:section id="sec5" view="all">
+<ce:label>3.2</ce:label>
+<ce:section-title>Hydrogen permeation in the Ta–Ti–Ni system</ce:section-title>
+<ce:para view="all">In the Ta–Ti–Ni system, we can also expect the formation of B2-TiNi and bcc-(Ta, Ti) phases. <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor> shows the alloy compositions investigated in this work. The alloys are classified into four categories as the same manner to the V–Ti–Ni alloys. The alloys denoted as solid square are brittle in the as-cast state, so that these alloys are not suitable for hydrogen permeation materials. The microstructure of Ta<ce:inf loc="post">39</ce:inf>Ti<ce:inf loc="post">27</ce:inf>Ni<ce:inf loc="post">34</ce:inf>(A) is shown in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="fig5"></ce:float-anchor> (a). This alloy consists of a layer structure of TiNi and brittle Ta<ce:inf loc="post">2</ce:inf>Ni phases. In addition, the volume fraction of the Ta<ce:inf loc="post">2</ce:inf>Ni phase is larger than that of the TiNi phase. Another brittle alloys also contain brittle intermetallic compounds such as Ta<ce:inf loc="post">2</ce:inf>Ni and Ti<ce:inf loc="post">2</ce:inf>Ni. Too much formation of the brittle intermetallic compounds in the as-cast state leads the brittleness of the alloy. The alloys denoted as solid circle are ductile in the as-cast state, but broken during hydrogenation. <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>(b) shows the SEM photograph of the Ta<ce:inf loc="post">22</ce:inf>Ti<ce:inf loc="post">58</ce:inf>Ni<ce:inf loc="post">20</ce:inf>(B) alloy. This alloy consists of bcc-(Ta, Ti) and Ti<ce:inf loc="post">2</ce:inf>Ni phases. But no TiNi phase which contributes to the mechanical strength of the alloy causes the hydrogen embrittlement. The alloys denoted as solid triangle are possible to carry out the hydrogen permeation measurement, but little hydrogen flux is observed passing through the alloy disk. <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>(c) shows the microstructure of the Ta<ce:inf loc="post">14</ce:inf>Ti<ce:inf loc="post">39</ce:inf>Ni<ce:inf loc="post">47</ce:inf>(C) alloy. The large gray TiNi phase is surrounded by the white unidentified phase. Although the alloy can resist the hydrogen embrittlement by the formation of TiNi phase, the alloy shows no or low hydrogen permeability because of a lack of hydrogen absorbing phase that acts for hydrogen permeation.</ce:para>
+<ce:para view="all">Hydrogen flux can be measured in the alloys denoted as open circle in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>. These alloys locate near the TiNi–Ta pseudo-binary system in the same way as the V–Ti–Ni system. The temperature dependence of hydrogen permeability of these alloys is shown in <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="fig6"></ce:float-anchor>. The hydrogen permeation of the Ta<ce:inf loc="post">53</ce:inf>Ti<ce:inf loc="post">28</ce:inf>Ni<ce:inf loc="post">19</ce:inf>(D) alloy at 673 K almost equals to that of pure Pd under the present experimental conditions. In the microstructure of this alloy, which is indicated in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>(d), the primary bcc-(Ta, Ti) phase and the eutectic B2-<mml:math altimg="si21.gif" overflow="scroll">
+<mml:mtext>TiNi</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:mtext>bcc</mml:mtext>
+</mml:math>-(Ta, Ti) structure are observed. This alloy is not broken by hydrogen embrittlement at 523 K, although the volume fraction of the bcc phase is about 50%, which is larger than that of in V–Ti–Ni and Nb-Ti-Ni alloys. The Ta<ce:inf loc="post">43</ce:inf>Ti<ce:inf loc="post">29</ce:inf>Ni<ce:inf loc="post">28</ce:inf>(E) alloy also has the structure of the primary bcc phase and the eutectic <mml:math altimg="si22.gif" overflow="scroll">
+<mml:mtext>B</mml:mtext>
+<mml:mn>2</mml:mn>
+<mml:mo>+</mml:mo>
+<mml:mtext>bcc</mml:mtext>
+</mml:math> phase, but hydrogen permeability of this alloy is lower than that of the alloy (D). The alloys of Ta<ce:inf loc="post">32</ce:inf>Ti<ce:inf loc="post">39</ce:inf>Ni<ce:inf loc="post">29</ce:inf> (E), Ta<ce:inf loc="post">25</ce:inf>Ti<ce:inf loc="post">39</ce:inf>Ni<ce:inf loc="post">36</ce:inf> (F) and Ta<ce:inf loc="post">12</ce:inf>Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">38</ce:inf> (G) have no <mml:math altimg="si23.gif" overflow="scroll">
+<mml:mtext>B</mml:mtext>
+<mml:mn>2</mml:mn>
+<mml:mo>+</mml:mo>
+<mml:mtext>bcc</mml:mtext>
+</mml:math> eutectic structure but have small amount of brittle intermetallic compounds such as Ti<ce:inf loc="post">2</ce:inf>Ni and Ta<ce:inf loc="post">2</ce:inf>Ni, although hydrogen embrittlement is suppressed in these alloys. We can realize that hydrogen permeability of the alloys is increased with increasing Ta content, which is considered that the addition of Ta makes the volume fraction of the primary bcc phase higher.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section id="sec6" view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Discussion</ce:section-title>
+<ce:para view="all">As shown in <ce:cross-refs refid="fig3 fig6">Figs. 3 and 6</ce:cross-refs>, hydrogen permeability of the alloy in V–Ti–Ni and Ta–Ti–Ni systems shows positive dependence to temperature, which agrees with that of the Nb–Ti–Ni system <ce:cross-ref refid="bib8">[8]</ce:cross-ref>. Because hydrogen permeability <mml:math altimg="si24.gif" overflow="scroll">
+<mml:mi>Φ</mml:mi>
+</mml:math>is the product of hydrogen diffusivity <ce:italic>D</ce:italic> and hydrogen solubility <ce:italic>K</ce:italic>, temperature dependence of <mml:math altimg="si25.gif" overflow="scroll">
+<mml:mi>Φ</mml:mi>
+</mml:math> is controlled by that of both <ce:italic>D</ce:italic> and <ce:italic>K</ce:italic>. Generally, when temperature is raised, <ce:italic>K</ce:italic> decreases. While <ce:italic>D</ce:italic> increases with increasing temperature, which is same behavior to that of <mml:math altimg="si26.gif" overflow="scroll">
+<mml:mi>Φ</mml:mi>
+</mml:math> in these alloy systems. This result suggests that the hydrogen permeability <mml:math altimg="si27.gif" overflow="scroll">
+<mml:mi>Φ</mml:mi>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mo>=</mml:mo>
+<mml:mi>D</mml:mi>
+<mml:mi>K</mml:mi>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math> in these systems is dominated mainly by hydrogen diffusivity <ce:italic>D</ce:italic>. Comparing with the hydrogen permeability in these three systems, larger one is obtained in Nb–Ti–Ni system than other two systems. The hydrogen permeability of pure V, Nb and Ta at 673 K is reported as 3.2, 35 and <mml:math altimg="si28.gif" overflow="scroll">
+<mml:mn>2.1</mml:mn>
+<mml:mo>×</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:msup>
+<mml:mrow>
+<mml:mn>0</mml:mn>
+</mml:mrow>
+<mml:mrow>
+<mml:mo>−</mml:mo>
+<mml:mn>8</mml:mn>
+</mml:mrow>
+</mml:msup>
+</mml:math> (mol H<ce:inf loc="post">2</ce:inf> m<ce:sup loc="post">−1</ce:sup> s<ce:sup loc="post">−1</ce:sup> Pa<ce:sup loc="post">−0.5</ce:sup>), respectively <ce:cross-ref refid="bib10">[10]</ce:cross-ref>. Hydrogen permeability of pure Nb is 10 times larger than that of pure V or Ta. This difference may affect the hydrogen permeability of ternary alloys.</ce:para>
+<ce:para view="all">Finally, it is summarized about suitable phase construction and microstructure for hydrogen permeation alloy in the M–Ti–Ni (M: V, Nb and Ta) systems. The alloys should consist of mainly bcc-(M, Ti) and B2-TiNi phases. Too much formation of brittle intermetallic compounds and hydrogen absorbing phases causes the brittleness in the as-cast state or hydrogen embrittlement. The volume fraction of the bcc phase is a controlling factor for a hydrogen ability of the alloy. Too high one leads hydrogen embrittlement, while too low one leads no or low hydrogen permeability. If the alloy consists of the primary bcc phase and the eutectic <mml:math altimg="si29.gif" overflow="scroll">
+<mml:mtext>B</mml:mtext>
+<mml:mn>2</mml:mn>
+<mml:mo>+</mml:mo>
+<mml:mtext>bcc</mml:mtext>
+</mml:math> structure, we can increase the volume fraction of bcc phase, which raises the hydrogen permeation of the alloy. In order to obtain such eutectic structure, the alloy composition is selected to be near the TiNi–M pseudo-binary system. Therefore, it becomes more important to understand the phase equilibria and to develop a microstructural controlling method such as work-anneal technique or rapid quench technique.</ce:para>
+</ce:section>
+<ce:section id="sec7" view="all">
+<ce:label>5</ce:label>
+<ce:section-title>Summary</ce:section-title>
+<ce:para view="all">Hydrogen permeability of the alloys in the V–Ti–Ni and Ta–Ti–Ni systems in the hydrogen pressure range of 0.20–0.97 MPa at 523–673 K is investigated related with their microstructure. Too much formation of brittle intermetallic compounds causes a brittleness in as-cast state or a hydrogen embrittlement. The alloys mainly consisted of bcc and B2 phases show a good mechanical property and hydrogen embrittlement resistance. The volume fraction of bcc phase is the most important factor, because suitable degree of it gives raise hydrogen permeability without hydrogen embrittlement. If the alloy composition is near the TiNi-M pseudo-binary system, the primary bcc phase and the eutectic <mml:math altimg="si30.gif" overflow="scroll">
+<mml:mtext>B</mml:mtext>
+<mml:mn>2</mml:mn>
+<mml:mo>+</mml:mo>
+<mml:mtext>bcc</mml:mtext>
+</mml:math> structure are obtained in the alloy. Primary phase and the eutectic structure contribute mainly to hydrogen permeation and to resistance of hydrogen embrittlement, respectively. The Ta<ce:inf loc="post">53</ce:inf>Ti<ce:inf loc="post">28</ce:inf>Ni<ce:inf loc="post">19</ce:inf> alloy having such microstructure shows the highest hydrogen permeability at 673 K in the present experimental condition, which is almost equal to that of pure Pd.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgements</ce:section-title>
+<ce:para view="all">This work was supported by Grant-in-Aid for Scientific Research (B) of Japan Society for the Promotion of Science (JSPS) and by Industrial Technology Research Grant Program in ‘04 from New Energy and Industrial Technology Development Organization (NEDO) of Japan.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Fukai</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Sugimoto</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Adv. Phys.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>34</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>2</sb:issue-nr>
+<sb:date>1985</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>263</sb:first-page>
+<sb:last-page>326</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Nishimura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Komaki</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Amano</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Trans. Mater. Res. Soc. Jpn.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>18B</sb:volume-nr>
+</sb:series>
+<sb:date>1994</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1273</sb:first-page>
+<sb:last-page>1276</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Ozaki</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Komaki</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Nishimura</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scripta Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>47</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>601</sb:first-page>
+<sb:last-page>606</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Ozaki</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Komaki</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Nishimura</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+</sb:title>
+<sb:volume-nr>28</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>297</sb:first-page>
+<sb:last-page>302</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Nishimura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Komaki</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Hwang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Amano</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>330–332</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>902</sb:first-page>
+<sb:last-page>906</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Ozaki</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Komaki</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Nishimura</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+</sb:title>
+<sb:volume-nr>28</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1229</sb:first-page>
+<sb:last-page>1235</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Nishimura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Ozaki</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Komaki</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>356–357</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>295</sb:first-page>
+<sb:last-page>299</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Hashi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Ishikawa</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Matsuda</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Aoki</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>368</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>215</sb:first-page>
+<sb:last-page>220</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Villars</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Prince</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Okamoto</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Handbook of Ternary Alloy Phase Diagrams</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1995</sb:date>
+<sb:publisher>
+<sb:name>ASM International</sb:name>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<ce:other-ref>
+<ce:textref>S.A. Steward, Laurence Livermore National Laboratory Report, UCRL-53441 DE84 007362, 1983.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

@@ -1,0 +1,1695 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838805008583</prism:url><dc:identifier>doi:10.1016/j.jallcom.2004.11.110</dc:identifier><eid>1-s2.0-S0925838805008583</eid><prism:doi>10.1016/j.jallcom.2004.11.110</prism:doi><pii>S0925-8388(05)00858-3</pii><dc:title>Hydrogen storage properties in Ti catalyzed Li–N–H system </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>404</prism:volume><prism:startingpage>435</prism:startingpage><prism:endingpage>438</prism:endingpage><prism:pagerange>435-438</prism:pagerange><dc:format>text/xml</dc:format><prism:coverdate>2005-12-08</prism:coverdate><prism:coverdisplaydate>8 December 2005</prism:coverdisplaydate><prism:copyright>Copyright © 2005 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><prism:issuename>Proceedings of the 9th International Symposium on Metal-Hydrogen Systems, Fundamentals and Applications (MH2004)</prism:issuename><dc:creator>Ichikawa, T.</dc:creator><dc:creator>Hanada, N.</dc:creator><dc:creator>Isobe, S.</dc:creator><dc:creator>Leng, H.Y.</dc:creator><dc:creator>Fujii, H.</dc:creator><dc:description>
+                  The Li–N–H system expressed by 
+                        
+                           
+                              LiNH
+                           
+                           
+                              2
+                           
+                        
+                        +
+                        LiH
+                        ↔
+                        
+                           
+                              Li
+                           
+                           
+                              2
+                           
+                        
+                        NH
+                        +
+                        
+                           
+                              H
+                           
+                           
+                              2
+                           
+                        
+                      can be expected as a promising candidate for the hydrogen storage materials because of possessing a large amount of reversible hydrogen (6.5 wt.%), a satisfactorily fast kinetics and a relatively small enthalpy change. In this work, we investigated the hydrogen storage properties of the Li–N–H system from three different points of view. Firstly, we claim that the ball milled 1:1 mixture of lithium amide (LiNH2) and lithium hydride (LiH) containing a small amount (1 mol %) of titanium chloride (TiCl3) shows superior hydrogen storage properties; a large amount of H2 gas desorbs in the temperature range from 150 to 250 
+                        °
+                      C at a heating rate of 5 
+                        °
+                      C/min and it reveals an excellent reversibility. Secondly, we clarify that the above hydrogen desorption reaction is composed of two kinds of elementary reactions: The one is that 2LiNH2 decomposes to Li2NH and emits ammonia (NH3). The other is that the emitted NH3 reacts with LiH and transforms into LiNH2 and H2, indicating that NH3 plays an important role on this H2 desorption reaction. Finally, we examined the reaction of LiH and LiOH to clarify the influence of exposing the product to air. This is because due to the fact that LiOH is easily produced by exposing LiH and LiNH2 to air. The reaction between LiH and LiOH indicated better kinetics but worse durability and an extra H2 desorption due to transforming into Li2O.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Hydrogen storage materials</dcterms:subject><dcterms:subject>Nanostructures</dcterms:subject><dcterms:subject>Gas–solid reactions</dcterms:subject><dcterms:subject>High-energy ball milling</dcterms:subject><dcterms:subject>Thermal analysis</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838805008583" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838805008583" rel="scidir"/></coredata><objects><object category="thumbnail" height="4" mimetype="image/gif" multimediatype="GIF image file" ref="si9" size="109" type="ALTIMG" width="13">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-si9.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="14" mimetype="image/gif" multimediatype="GIF image file" ref="si8" size="663" type="ALTIMG" width="207">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-si8.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="1" mimetype="image/gif" multimediatype="GIF image file" ref="si7" size="88" type="ALTIMG" width="12">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-si7.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="1" mimetype="image/gif" multimediatype="GIF image file" ref="si6" size="88" type="ALTIMG" width="12">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-si6.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="14" mimetype="image/gif" multimediatype="GIF image file" ref="si5" size="1239" type="ALTIMG" width="374">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-si5.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="5" mimetype="image/gif" multimediatype="GIF image file" ref="si4" size="99" type="ALTIMG" width="7">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-si4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="5" mimetype="image/gif" multimediatype="GIF image file" ref="si30" size="99" type="ALTIMG" width="7">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-si30.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="5" mimetype="image/gif" multimediatype="GIF image file" ref="si3" size="99" type="ALTIMG" width="7">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-si3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="4" mimetype="image/gif" multimediatype="GIF image file" ref="si29" size="109" type="ALTIMG" width="13">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-si29.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="4" mimetype="image/gif" multimediatype="GIF image file" ref="si28" size="109" type="ALTIMG" width="13">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-si28.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="1" mimetype="image/gif" multimediatype="GIF image file" ref="si27" size="88" type="ALTIMG" width="12">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-si27.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="5" mimetype="image/gif" multimediatype="GIF image file" ref="si26" size="99" type="ALTIMG" width="7">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-si26.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="5" mimetype="image/gif" multimediatype="GIF image file" ref="si25" size="99" type="ALTIMG" width="7">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-si25.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="96" mimetype="image/gif" multimediatype="GIF image file" ref="si24" size="2418" type="ALTIMG" width="329">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-si24.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="5" mimetype="image/gif" multimediatype="GIF image file" ref="si23" size="99" type="ALTIMG" width="7">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-si23.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="1" mimetype="image/gif" multimediatype="GIF image file" ref="si22" size="88" type="ALTIMG" width="12">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-si22.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="14" mimetype="image/gif" multimediatype="GIF image file" ref="si21" size="714" type="ALTIMG" width="198">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-si21.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="14" mimetype="image/gif" multimediatype="GIF image file" ref="si20" size="693" type="ALTIMG" width="217">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-si20.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="5" mimetype="image/gif" multimediatype="GIF image file" ref="si2" size="99" type="ALTIMG" width="7">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-si2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="5" mimetype="image/gif" multimediatype="GIF image file" ref="si19" size="99" type="ALTIMG" width="7">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-si19.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="5" mimetype="image/gif" multimediatype="GIF image file" ref="si18" size="99" type="ALTIMG" width="7">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-si18.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="5" mimetype="image/gif" multimediatype="GIF image file" ref="si17" size="99" type="ALTIMG" width="7">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-si17.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="4" mimetype="image/gif" multimediatype="GIF image file" ref="si16" size="109" type="ALTIMG" width="13">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-si16.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="5" mimetype="image/gif" multimediatype="GIF image file" ref="si15" size="99" type="ALTIMG" width="7">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-si15.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="5" mimetype="image/gif" multimediatype="GIF image file" ref="si14" size="99" type="ALTIMG" width="7">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-si14.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="8" mimetype="image/gif" multimediatype="GIF image file" ref="si13" size="124" type="ALTIMG" width="11">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-si13.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="5" mimetype="image/gif" multimediatype="GIF image file" ref="si12" size="99" type="ALTIMG" width="7">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-si12.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="5" mimetype="image/gif" multimediatype="GIF image file" ref="si11" size="99" type="ALTIMG" width="7">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-si11.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="4" mimetype="image/gif" multimediatype="GIF image file" ref="si10" size="109" type="ALTIMG" width="13">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-si10.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="14" mimetype="image/gif" multimediatype="GIF image file" ref="si1" size="665" type="ALTIMG" width="207">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-si1.gif?httpAccept=%2A%2F%2A</object><object category="standard" height="335" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="8299" type="IMAGE-DOWNSAMPLED" width="319">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-gr3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="1337" type="IMAGE-THUMBNAIL" width="89">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="480" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="28607" type="IMAGE-DOWNSAMPLED" width="327">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="1750" type="IMAGE-THUMBNAIL" width="63">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="311" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="6642" type="IMAGE-DOWNSAMPLED" width="329">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-gr2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="1422" type="IMAGE-THUMBNAIL" width="99">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="362" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="19272" type="IMAGE-DOWNSAMPLED" width="330">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-gr4.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="1855" type="IMAGE-THUMBNAIL" width="85">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008583-gr4.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>28044457677</scopus-id><scopus-eid>2-s2.0-28044457677</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/28044457677" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20050627">2005-06-27</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20050627">2005-06-27</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-04-17T10:08:11</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838805008583</xocs:eid>
+<xocs:pii-formatted>S0925-8388(05)00858-3</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805008583</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2004.11.110</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838805X02468</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20220620">2022-06-20T13:09:09.022405Z</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20051208</xocs:date-search-begin>
+<xocs:year-nav>2005</xocs:year-nav>
+<xocs:indexeddate epoch="1119830400">2005-06-27T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate volumelist yearnav absattachment articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confdate confeditor confloc contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings suppl vol vol volfirst volissue webpdf webpdfpagecount figure body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>404</xocs:vol-first>
+<xocs:vol-last>406</xocs:vol-last>
+<xocs:volume-list>
+<xocs:volume>404</xocs:volume>
+<xocs:volume>405</xocs:volume>
+<xocs:volume>406</xocs:volume>
+</xocs:volume-list>
+<xocs:suppl>C</xocs:suppl>
+<xocs:vol-iss-suppl-text>Volumes 404–406</xocs:vol-iss-suppl-text>
+<xocs:sort-order>102</xocs:sort-order>
+<xocs:first-fp>435</xocs:first-fp>
+<xocs:last-lp>438</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>435</xocs:first-page>
+<xocs:last-page>438</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20051208</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>8 December 2005</xocs:cover-date-text>
+<xocs:cover-date-start>2005-12-08</xocs:cover-date-start>
+<xocs:cover-date-year>2005</xocs:cover-date-year>
+<xocs:title-editors-groups>
+<xocs:title-editors-group>
+<ce:title>Proceedings of the 9th International Symposium on Metal-Hydrogen Systems, Fundamentals and Applications (MH2004)</ce:title>
+<xocs:conference-info>
+<xocs:full-name>The International Symposium on Metal-Hydrogen Systems, Fundamentals and Applications, MH2004</xocs:full-name>
+<xocs:venue>Cracow, Poland</xocs:venue>
+<xocs:conference-date-text>5–10 September 2004</xocs:conference-date-text>
+<xocs:date-range>
+<xocs:start-date>20040905</xocs:start-date>
+<xocs:end-date>20040910</xocs:end-date>
+</xocs:date-range>
+</xocs:conference-info>
+<ce:editors>
+<ce:author-group>
+<ce:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Figiel</ce:surname>
+</ce:author>
+</ce:author-group>
+<ce:author-group>
+<ce:author>
+<ce:given-name>O.J.</ce:given-name>
+<ce:surname>Zogal</ce:surname>
+</ce:author>
+</ce:author-group>
+<ce:author-group>
+<ce:author>
+<ce:given-name>V.</ce:given-name>
+<ce:surname>Yartys</ce:surname>
+</ce:author>
+</ce:author-group>
+</ce:editors>
+</xocs:title-editors-group>
+</xocs:title-editors-groups>
+<xocs:hub-sec>
+<xocs:hub-sec-title>8. New absorbers, properties, phenomena</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2005 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>HYDROGENSTORAGEPROPERTIESINTICATALYZEDLINHSYSTEM</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>ICHIKAWA</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>T</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental details</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>DAFERT</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1910</xocs:ref-pub-year>
+<xocs:ref-first-fp>981</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>302</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>HU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>5135</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>5135</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>ICHIKAWA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>271</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>NAKAMORI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>48</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>NAKAMORI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>271</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>NAKAMORI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>L1</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>ICHIKAWA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>7887</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10"></xocs:ref-info>
+<xocs:ref-info refid="bib11"></xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>BLANCHARD</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>54</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>ICHIKAWAX2005X435</xocs:refkey3>
+<xocs:refkey4lp>ICHIKAWAX2005X435X438</xocs:refkey4lp>
+<xocs:refkey4ai>ICHIKAWAX2005X435XT</xocs:refkey4ai>
+<xocs:refkey5>ICHIKAWAX2005X435X438XT</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:funding-list has-funding-info="1">
+<xocs:funding-addon-generated-timestamp>2022-06-10T06:18:50.056Z</xocs:funding-addon-generated-timestamp>
+<xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+<xocs:funding>
+<xocs:funding-agency-matched-string>Ministry of Education, Sciences and Culture of Japan</xocs:funding-agency-matched-string>
+</xocs:funding>
+<xocs:funding>
+<xocs:funding-agency-matched-string>NEDO</xocs:funding-agency-matched-string>
+<xocs:funding-agency-acronym>NEDO</xocs:funding-agency-acronym>
+<xocs:funding-agency>New Energy and Industrial Technology Development Organization</xocs:funding-agency>
+<xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100001863</xocs:funding-agency-id>
+<xocs:funding-agency-country>http://sws.geonames.org/1861060/</xocs:funding-agency-country>
+</xocs:funding>
+<xocs:funding-text>This work was supported by the Grant-in-Aid for COE Research (No. 13CE2002) of the Ministry of Education, Sciences and Culture of Japan and by the project “Development for Safe Utilization and Infrastructure of Hydrogen Industrial Technology” in NEDO, Japan. The authors gratefully acknowledge Mr. T. Kubokawa, Mr. K. Tokoyoda and Mr. K. Okamoto, Research and Development Center, Taiheiyo Cement Corporation, for the useful discussion. They gratefully thank Miss E. Gomibuchi, Mr. K. Nabeta, Mr. K. Kimura, Mr. T. Nakagawa and Mr. S. Hino for their help in our laboratory.</xocs:funding-text>
+</xocs:funding-list>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(05)00858-3</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805008583</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838805008583</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2004.11.110</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-10T16:24:48.896207-04:00</xocs:timestamp>
+<xocs:cover-date-start>2005-12-08</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/MAIN/application/pdf/7abcc74ac91c369d6c23001ff035e894/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/MAIN/application/pdf/7abcc74ac91c369d6c23001ff035e894/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>155033</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/PREVIEW/image/png/d052826d2edfb1fae0be31d5dd7dfc6e/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/PREVIEW/image/png/d052826d2edfb1fae0be31d5dd7dfc6e/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>62865</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-si9.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/STRIPIN/image/gif/07cd7deceb6568a468823d364caa5ac8/si16.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/STRIPIN/image/gif/07cd7deceb6568a468823d364caa5ac8/si16.gif</xocs:ucs-locator>
+<xocs:file-basename>si9</xocs:file-basename>
+<xocs:filename>si9.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>109</xocs:filesize>
+<xocs:pixel-height>4</xocs:pixel-height>
+<xocs:pixel-width>13</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-si8.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/STRIPIN/image/gif/331bdc5aa97305347e493f2c5cb41802/si8.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/STRIPIN/image/gif/331bdc5aa97305347e493f2c5cb41802/si8.gif</xocs:ucs-locator>
+<xocs:file-basename>si8</xocs:file-basename>
+<xocs:filename>si8.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>663</xocs:filesize>
+<xocs:pixel-height>14</xocs:pixel-height>
+<xocs:pixel-width>207</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-si7.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/STRIPIN/image/gif/91c6c7bff899dae5f823a38cbc8ed77b/si6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/STRIPIN/image/gif/91c6c7bff899dae5f823a38cbc8ed77b/si6.gif</xocs:ucs-locator>
+<xocs:file-basename>si7</xocs:file-basename>
+<xocs:filename>si7.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>88</xocs:filesize>
+<xocs:pixel-height>1</xocs:pixel-height>
+<xocs:pixel-width>12</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-si6.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/STRIPIN/image/gif/91c6c7bff899dae5f823a38cbc8ed77b/si6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/STRIPIN/image/gif/91c6c7bff899dae5f823a38cbc8ed77b/si6.gif</xocs:ucs-locator>
+<xocs:file-basename>si6</xocs:file-basename>
+<xocs:filename>si6.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>88</xocs:filesize>
+<xocs:pixel-height>1</xocs:pixel-height>
+<xocs:pixel-width>12</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-si5.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/STRIPIN/image/gif/44f03676728cbd1cad8b921f11173215/si5.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/STRIPIN/image/gif/44f03676728cbd1cad8b921f11173215/si5.gif</xocs:ucs-locator>
+<xocs:file-basename>si5</xocs:file-basename>
+<xocs:filename>si5.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1239</xocs:filesize>
+<xocs:pixel-height>14</xocs:pixel-height>
+<xocs:pixel-width>374</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-si4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/STRIPIN/image/gif/fea9e810ab9fd9e2bee15bae6fc1ddfa/si25.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/STRIPIN/image/gif/fea9e810ab9fd9e2bee15bae6fc1ddfa/si25.gif</xocs:ucs-locator>
+<xocs:file-basename>si4</xocs:file-basename>
+<xocs:filename>si4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>99</xocs:filesize>
+<xocs:pixel-height>5</xocs:pixel-height>
+<xocs:pixel-width>7</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-si30.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/STRIPIN/image/gif/fea9e810ab9fd9e2bee15bae6fc1ddfa/si25.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/STRIPIN/image/gif/fea9e810ab9fd9e2bee15bae6fc1ddfa/si25.gif</xocs:ucs-locator>
+<xocs:file-basename>si30</xocs:file-basename>
+<xocs:filename>si30.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>99</xocs:filesize>
+<xocs:pixel-height>5</xocs:pixel-height>
+<xocs:pixel-width>7</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-si3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/STRIPIN/image/gif/fea9e810ab9fd9e2bee15bae6fc1ddfa/si25.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/STRIPIN/image/gif/fea9e810ab9fd9e2bee15bae6fc1ddfa/si25.gif</xocs:ucs-locator>
+<xocs:file-basename>si3</xocs:file-basename>
+<xocs:abstract-attachment>true</xocs:abstract-attachment>
+<xocs:filename>si3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>99</xocs:filesize>
+<xocs:pixel-height>5</xocs:pixel-height>
+<xocs:pixel-width>7</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-si29.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/STRIPIN/image/gif/07cd7deceb6568a468823d364caa5ac8/si16.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/STRIPIN/image/gif/07cd7deceb6568a468823d364caa5ac8/si16.gif</xocs:ucs-locator>
+<xocs:file-basename>si29</xocs:file-basename>
+<xocs:filename>si29.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>109</xocs:filesize>
+<xocs:pixel-height>4</xocs:pixel-height>
+<xocs:pixel-width>13</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-si28.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/STRIPIN/image/gif/07cd7deceb6568a468823d364caa5ac8/si16.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/STRIPIN/image/gif/07cd7deceb6568a468823d364caa5ac8/si16.gif</xocs:ucs-locator>
+<xocs:file-basename>si28</xocs:file-basename>
+<xocs:filename>si28.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>109</xocs:filesize>
+<xocs:pixel-height>4</xocs:pixel-height>
+<xocs:pixel-width>13</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-si27.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/STRIPIN/image/gif/91c6c7bff899dae5f823a38cbc8ed77b/si6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/STRIPIN/image/gif/91c6c7bff899dae5f823a38cbc8ed77b/si6.gif</xocs:ucs-locator>
+<xocs:file-basename>si27</xocs:file-basename>
+<xocs:filename>si27.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>88</xocs:filesize>
+<xocs:pixel-height>1</xocs:pixel-height>
+<xocs:pixel-width>12</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-si26.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/STRIPIN/image/gif/fea9e810ab9fd9e2bee15bae6fc1ddfa/si25.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/STRIPIN/image/gif/fea9e810ab9fd9e2bee15bae6fc1ddfa/si25.gif</xocs:ucs-locator>
+<xocs:file-basename>si26</xocs:file-basename>
+<xocs:filename>si26.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>99</xocs:filesize>
+<xocs:pixel-height>5</xocs:pixel-height>
+<xocs:pixel-width>7</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-si25.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/STRIPIN/image/gif/fea9e810ab9fd9e2bee15bae6fc1ddfa/si25.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/STRIPIN/image/gif/fea9e810ab9fd9e2bee15bae6fc1ddfa/si25.gif</xocs:ucs-locator>
+<xocs:file-basename>si25</xocs:file-basename>
+<xocs:filename>si25.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>99</xocs:filesize>
+<xocs:pixel-height>5</xocs:pixel-height>
+<xocs:pixel-width>7</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-si24.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/STRIPIN/image/gif/c65a01b450398778f56138f3e2b2239e/si24.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/STRIPIN/image/gif/c65a01b450398778f56138f3e2b2239e/si24.gif</xocs:ucs-locator>
+<xocs:file-basename>si24</xocs:file-basename>
+<xocs:filename>si24.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>2418</xocs:filesize>
+<xocs:pixel-height>96</xocs:pixel-height>
+<xocs:pixel-width>329</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-si23.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/STRIPIN/image/gif/fea9e810ab9fd9e2bee15bae6fc1ddfa/si25.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/STRIPIN/image/gif/fea9e810ab9fd9e2bee15bae6fc1ddfa/si25.gif</xocs:ucs-locator>
+<xocs:file-basename>si23</xocs:file-basename>
+<xocs:filename>si23.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>99</xocs:filesize>
+<xocs:pixel-height>5</xocs:pixel-height>
+<xocs:pixel-width>7</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-si22.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/STRIPIN/image/gif/91c6c7bff899dae5f823a38cbc8ed77b/si6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/STRIPIN/image/gif/91c6c7bff899dae5f823a38cbc8ed77b/si6.gif</xocs:ucs-locator>
+<xocs:file-basename>si22</xocs:file-basename>
+<xocs:filename>si22.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>88</xocs:filesize>
+<xocs:pixel-height>1</xocs:pixel-height>
+<xocs:pixel-width>12</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-si21.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/STRIPIN/image/gif/8d669fa35754407e145269f836720e5f/si21.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/STRIPIN/image/gif/8d669fa35754407e145269f836720e5f/si21.gif</xocs:ucs-locator>
+<xocs:file-basename>si21</xocs:file-basename>
+<xocs:filename>si21.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>714</xocs:filesize>
+<xocs:pixel-height>14</xocs:pixel-height>
+<xocs:pixel-width>198</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-si20.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/STRIPIN/image/gif/427827a6c61e688bf04d58fd8a73ef95/si20.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/STRIPIN/image/gif/427827a6c61e688bf04d58fd8a73ef95/si20.gif</xocs:ucs-locator>
+<xocs:file-basename>si20</xocs:file-basename>
+<xocs:filename>si20.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>693</xocs:filesize>
+<xocs:pixel-height>14</xocs:pixel-height>
+<xocs:pixel-width>217</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-si2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/STRIPIN/image/gif/fea9e810ab9fd9e2bee15bae6fc1ddfa/si25.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/STRIPIN/image/gif/fea9e810ab9fd9e2bee15bae6fc1ddfa/si25.gif</xocs:ucs-locator>
+<xocs:file-basename>si2</xocs:file-basename>
+<xocs:abstract-attachment>true</xocs:abstract-attachment>
+<xocs:filename>si2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>99</xocs:filesize>
+<xocs:pixel-height>5</xocs:pixel-height>
+<xocs:pixel-width>7</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-si19.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/STRIPIN/image/gif/fea9e810ab9fd9e2bee15bae6fc1ddfa/si25.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/STRIPIN/image/gif/fea9e810ab9fd9e2bee15bae6fc1ddfa/si25.gif</xocs:ucs-locator>
+<xocs:file-basename>si19</xocs:file-basename>
+<xocs:filename>si19.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>99</xocs:filesize>
+<xocs:pixel-height>5</xocs:pixel-height>
+<xocs:pixel-width>7</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-si18.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/STRIPIN/image/gif/fea9e810ab9fd9e2bee15bae6fc1ddfa/si25.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/STRIPIN/image/gif/fea9e810ab9fd9e2bee15bae6fc1ddfa/si25.gif</xocs:ucs-locator>
+<xocs:file-basename>si18</xocs:file-basename>
+<xocs:filename>si18.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>99</xocs:filesize>
+<xocs:pixel-height>5</xocs:pixel-height>
+<xocs:pixel-width>7</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-si17.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/STRIPIN/image/gif/fea9e810ab9fd9e2bee15bae6fc1ddfa/si25.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/STRIPIN/image/gif/fea9e810ab9fd9e2bee15bae6fc1ddfa/si25.gif</xocs:ucs-locator>
+<xocs:file-basename>si17</xocs:file-basename>
+<xocs:filename>si17.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>99</xocs:filesize>
+<xocs:pixel-height>5</xocs:pixel-height>
+<xocs:pixel-width>7</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-si16.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/STRIPIN/image/gif/07cd7deceb6568a468823d364caa5ac8/si16.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/STRIPIN/image/gif/07cd7deceb6568a468823d364caa5ac8/si16.gif</xocs:ucs-locator>
+<xocs:file-basename>si16</xocs:file-basename>
+<xocs:filename>si16.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>109</xocs:filesize>
+<xocs:pixel-height>4</xocs:pixel-height>
+<xocs:pixel-width>13</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-si15.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/STRIPIN/image/gif/fea9e810ab9fd9e2bee15bae6fc1ddfa/si25.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/STRIPIN/image/gif/fea9e810ab9fd9e2bee15bae6fc1ddfa/si25.gif</xocs:ucs-locator>
+<xocs:file-basename>si15</xocs:file-basename>
+<xocs:filename>si15.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>99</xocs:filesize>
+<xocs:pixel-height>5</xocs:pixel-height>
+<xocs:pixel-width>7</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-si14.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/STRIPIN/image/gif/fea9e810ab9fd9e2bee15bae6fc1ddfa/si25.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/STRIPIN/image/gif/fea9e810ab9fd9e2bee15bae6fc1ddfa/si25.gif</xocs:ucs-locator>
+<xocs:file-basename>si14</xocs:file-basename>
+<xocs:filename>si14.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>99</xocs:filesize>
+<xocs:pixel-height>5</xocs:pixel-height>
+<xocs:pixel-width>7</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-si13.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/STRIPIN/image/gif/35724f3c7384d3b93d1a565d6bbdea1c/si13.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/STRIPIN/image/gif/35724f3c7384d3b93d1a565d6bbdea1c/si13.gif</xocs:ucs-locator>
+<xocs:file-basename>si13</xocs:file-basename>
+<xocs:filename>si13.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>124</xocs:filesize>
+<xocs:pixel-height>8</xocs:pixel-height>
+<xocs:pixel-width>11</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-si12.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/STRIPIN/image/gif/fea9e810ab9fd9e2bee15bae6fc1ddfa/si25.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/STRIPIN/image/gif/fea9e810ab9fd9e2bee15bae6fc1ddfa/si25.gif</xocs:ucs-locator>
+<xocs:file-basename>si12</xocs:file-basename>
+<xocs:filename>si12.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>99</xocs:filesize>
+<xocs:pixel-height>5</xocs:pixel-height>
+<xocs:pixel-width>7</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-si11.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/STRIPIN/image/gif/fea9e810ab9fd9e2bee15bae6fc1ddfa/si25.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/STRIPIN/image/gif/fea9e810ab9fd9e2bee15bae6fc1ddfa/si25.gif</xocs:ucs-locator>
+<xocs:file-basename>si11</xocs:file-basename>
+<xocs:filename>si11.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>99</xocs:filesize>
+<xocs:pixel-height>5</xocs:pixel-height>
+<xocs:pixel-width>7</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-si10.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/STRIPIN/image/gif/07cd7deceb6568a468823d364caa5ac8/si16.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/STRIPIN/image/gif/07cd7deceb6568a468823d364caa5ac8/si16.gif</xocs:ucs-locator>
+<xocs:file-basename>si10</xocs:file-basename>
+<xocs:filename>si10.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>109</xocs:filesize>
+<xocs:pixel-height>4</xocs:pixel-height>
+<xocs:pixel-width>13</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-si1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/STRIPIN/image/gif/9370b9b74aefb5c9a091a941cdaed7fb/si1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/STRIPIN/image/gif/9370b9b74aefb5c9a091a941cdaed7fb/si1.gif</xocs:ucs-locator>
+<xocs:file-basename>si1</xocs:file-basename>
+<xocs:abstract-attachment>true</xocs:abstract-attachment>
+<xocs:filename>si1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>665</xocs:filesize>
+<xocs:pixel-height>14</xocs:pixel-height>
+<xocs:pixel-width>207</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-gr3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/gr3/DOWNSAMPLED/image/gif/51820a7c3016a77539f9da11448f9777/gr3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/gr3/DOWNSAMPLED/image/gif/51820a7c3016a77539f9da11448f9777/gr3.gif</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>8299</xocs:filesize>
+<xocs:pixel-height>335</xocs:pixel-height>
+<xocs:pixel-width>319</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/gr3/THUMBNAIL/image/gif/ce79d4a986953ac28f0a001523da1f9c/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/gr3/THUMBNAIL/image/gif/ce79d4a986953ac28f0a001523da1f9c/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1337</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>89</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/gr1/DOWNSAMPLED/image/jpeg/ec5bb8bd651c0fb2f483e74cc1254ea0/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/gr1/DOWNSAMPLED/image/jpeg/ec5bb8bd651c0fb2f483e74cc1254ea0/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>28607</xocs:filesize>
+<xocs:pixel-height>480</xocs:pixel-height>
+<xocs:pixel-width>327</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/gr1/THUMBNAIL/image/gif/37113c0e2ce5b92d2edf8ce8e21c5e67/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/gr1/THUMBNAIL/image/gif/37113c0e2ce5b92d2edf8ce8e21c5e67/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1750</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>63</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-gr2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/gr2/DOWNSAMPLED/image/gif/437c84686245be85eb0d054ec5882f32/gr2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/gr2/DOWNSAMPLED/image/gif/437c84686245be85eb0d054ec5882f32/gr2.gif</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>6642</xocs:filesize>
+<xocs:pixel-height>311</xocs:pixel-height>
+<xocs:pixel-width>329</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/gr2/THUMBNAIL/image/gif/ccc33ed237cb4af7e1283de68c2c5e0d/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/gr2/THUMBNAIL/image/gif/ccc33ed237cb4af7e1283de68c2c5e0d/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1422</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>99</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-gr4.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/gr4/DOWNSAMPLED/image/jpeg/49058c54b608bf53bd2d363b2c41a3ce/gr4.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/gr4/DOWNSAMPLED/image/jpeg/49058c54b608bf53bd2d363b2c41a3ce/gr4.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>19272</xocs:filesize>
+<xocs:pixel-height>362</xocs:pixel-height>
+<xocs:pixel-width>330</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008583-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008583/gr4/THUMBNAIL/image/gif/edfa25049d2ca60ac30b9b7fce8504a7/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008583/gr4/THUMBNAIL/image/gif/edfa25049d2ca60ac30b9b7fce8504a7/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1855</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>85</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>12655</aid>
+<ce:pii>S0925-8388(05)00858-3</ce:pii>
+<ce:doi>10.1016/j.jallcom.2004.11.110</ce:doi>
+<ce:copyright type="full-transfer" year="2005">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Thermal desorption spectra of H<ce:inf loc="post">2</ce:inf> and NH<ce:inf loc="post">3</ce:inf> of the ball milled mixtures of 1:1 LiNH<ce:inf loc="post">2</ce:inf> and LiH, in which a small amount (1 mol %) of Ni, Fe and Co nanometer sized metals, and VCl<ce:inf loc="post">3</ce:inf> and TiCl<ce:inf loc="post">3</ce:inf> are added as additives before milling.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">X-ray diffraction patterns before and after ball milling LiH under the NH<ce:inf loc="post">3</ce:inf> gas atmosphere for 30 min at room temperature. We can see that LiNH<ce:inf loc="post">2</ce:inf> was produced after LiH had reacted with NH<ce:inf loc="post">3</ce:inf> by ball milling.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Thermal desorption spectra of the H<ce:inf loc="post">2</ce:inf>gas and corresponding weight loss of the 1:1 mixture of LiNH<ce:inf loc="post">2</ce:inf> and LiH catalyzed with TiCl<ce:inf loc="post">3</ce:inf> which were mixed by ball milling. The solid, dashed and dotted lines correspond to the first, second and third cycles, respectively.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Thermal desorption spectrum of the H<ce:inf loc="post">2</ce:inf> gas and corresponding differential thermal analysis of the 1:1 mixture of LiOH and LiH which were mixed by ball milling.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+</ce:floats>
+<ce:title>Hydrogen storage properties in Ti catalyzed Li–N–H system</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Ichikawa</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="cor1">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Hanada</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Isobe</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>H.Y.</ce:given-name>
+<ce:surname>Leng</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Fujii</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation id="aff1">
+<ce:label>a</ce:label>
+<ce:textfn>Materials Science Center, N-BARD, Hiroshima University, 1-3-1 Kagamiyama, Higashi-Hiroshima 739-8526, Japan</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff2">
+<ce:label>b</ce:label>
+<ce:textfn>Department of Quantum Matter, ADSM, Hiroshima University, 1-3-1 Kagamiyama, Higashi-Hiroshima 739-8530, Japan</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>⁎</ce:label>
+<ce:text>Corresponding author. Tel.: +81 82 424 5744; fax: +81 82 424 7486.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="31" month="5" year="2004"></ce:date-received>
+<ce:date-revised day="22" month="11" year="2004"></ce:date-revised>
+<ce:date-accepted day="29" month="11" year="2004"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">The Li–N–H system expressed by <mml:math altimg="si1.gif" overflow="scroll">
+<mml:msub>
+<mml:mrow>
+<mml:mtext>LiNH</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mo>+</mml:mo>
+<mml:mtext>LiH</mml:mtext>
+<mml:mo>↔</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>Li</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mtext>NH</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>H</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msub>
+</mml:math> can be expected as a promising candidate for the hydrogen storage materials because of possessing a large amount of reversible hydrogen (6.5 wt.%), a satisfactorily fast kinetics and a relatively small enthalpy change. In this work, we investigated the hydrogen storage properties of the Li–N–H system from three different points of view. Firstly, we claim that the ball milled 1:1 mixture of lithium amide (LiNH<ce:inf loc="post">2)</ce:inf> and lithium hydride (LiH) containing a small amount (1 mol %) of titanium chloride (TiCl<ce:inf loc="post">3)</ce:inf> shows superior hydrogen storage properties; a large amount of H<ce:inf loc="post">2</ce:inf> gas desorbs in the temperature range from 150 to 250 <mml:math altimg="si2.gif" overflow="scroll">
+<mml:mo>°</mml:mo>
+</mml:math> C at a heating rate of 5 <mml:math altimg="si3.gif" overflow="scroll">
+<mml:mo>°</mml:mo>
+</mml:math> C/min and it reveals an excellent reversibility. Secondly, we clarify that the above hydrogen desorption reaction is composed of two kinds of elementary reactions: The one is that 2LiNH<ce:inf loc="post">2</ce:inf> decomposes to Li<ce:inf loc="post">2</ce:inf>NH and emits ammonia (NH<ce:inf loc="post">3)</ce:inf>. The other is that the emitted NH<ce:inf loc="post">3</ce:inf> reacts with LiH and transforms into LiNH<ce:inf loc="post">2</ce:inf> and H<ce:inf loc="post">2</ce:inf>, indicating that NH<ce:inf loc="post">3</ce:inf> plays an important role on this H<ce:inf loc="post">2</ce:inf> desorption reaction. Finally, we examined the reaction of LiH and LiOH to clarify the influence of exposing the product to air. This is because due to the fact that LiOH is easily produced by exposing LiH and LiNH<ce:inf loc="post">2</ce:inf> to air. The reaction between LiH and LiOH indicated better kinetics but worse durability and an extra H<ce:inf loc="post">2</ce:inf> desorption due to transforming into Li<ce:inf loc="post">2</ce:inf>O.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Hydrogen storage materials</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Nanostructures</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Gas–solid reactions</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>High-energy ball milling</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Thermal analysis</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section id="sec1" view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">As early as 1910, Dafert and Miklauz <ce:cross-ref refid="bib1">[1]</ce:cross-ref> had already reported that the reaction between Li<ce:inf loc="post">3</ce:inf>N and H<ce:inf loc="post">2</ce:inf> proceeded at 220–250 <mml:math altimg="si4.gif" overflow="scroll">
+<mml:mo>°</mml:mo>
+</mml:math> C. Recently, Chen et al. <ce:cross-ref refid="bib2">[2]</ce:cross-ref> and Hu and Ruckenstein <ce:cross-ref refid="bib3">[3]</ce:cross-ref> have independently reported hydrogen storage properties of the Li<ce:inf loc="post">3</ce:inf>N system. After that, much attention has been paid to this system <ce:cross-refs refid="bib4 bib5 bib6 bib7 bib8 bib9 bib10 bib11">[4–11]</ce:cross-refs>, where the hydrogenation and dehydrogenation of Li<ce:inf loc="post">3</ce:inf>N have been described by the following two consecutive reversible reactions;<ce:display>
+<ce:formula id="eqn1">
+<ce:label>(1)</ce:label>
+<mml:math altimg="si5.gif" overflow="scroll">
+<mml:msub>
+<mml:mrow>
+<mml:mtext>Li</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mtext>N</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:mn>2</mml:mn>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>H</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mo>↔</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>Li</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mtext>NH</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:mtext>LiH</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>H</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mo>↔</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>LiNH</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mo>+</mml:mo>
+<mml:mn>2</mml:mn>
+<mml:mtext>LiH</mml:mtext>
+</mml:math>
+</ce:formula>
+</ce:display>
+</ce:para>
+<ce:para view="all">Here, the enthalpy change of the first reaction in chemical formula <ce:cross-ref refid="eqn1">(1)</ce:cross-ref> could be calculated to be <mml:math altimg="si6.gif" overflow="scroll">
+<mml:mo>−</mml:mo>
+</mml:math> 148 kJ/mol H<ce:inf loc="post">2</ce:inf>, while that of the second one <mml:math altimg="si7.gif" overflow="scroll">
+<mml:mo>−</mml:mo>
+</mml:math> 44.5 kJ/mol H<ce:inf loc="post">2</ce:inf>, respectively. Since the small enthalpy change and possession of a large amount of hydrogen 6.5 wt.% for the latter reaction are considered to be still suitable for hydrogen storage system, we focused only on the latter reaction <ce:cross-ref refid="bib5">[5]</ce:cross-ref> and examined the hydrogen storage properties in details, which is expressed by the following chemical formula;<ce:display>
+<ce:formula id="eqn2">
+<ce:label>(2)</ce:label>
+<mml:math altimg="si8.gif" overflow="scroll">
+<mml:mtext>LiH</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>LiNH</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mo>↔</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>Li</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mtext>NH</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>H</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msub>
+</mml:math>
+</ce:formula>
+</ce:display>
+</ce:para>
+<ce:para view="all">In this paper, we will discuss the catalytic effects on the hydrogen storage properties and the reversibility of the reaction <ce:cross-ref refid="eqn2">(2)</ce:cross-ref>, and also discuss the mechanism of the hydrogen desorption reaction from LiH and LiNH<ce:inf loc="post">2</ce:inf>to Li<ce:inf loc="post">2</ce:inf>NH and H<ce:inf loc="post">2</ce:inf>. Finally, we will describe the influence of exposing the Li-based materials to air (the water vapor in air).</ce:para>
+</ce:section>
+<ce:section id="sec2" view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental details</ce:section-title>
+<ce:para view="all">The starting materials, LiH (95%) and LiOH (98%) were purchased from Sigma-Aldrich, whereas LiNH<ce:inf loc="post">2</ce:inf> (95%) from Strem Chemicals. As additives, the dry metals Fe, Co and Ni with particle size of several tens of nanometer were purchased from Shinku-Yakin, and TiCl<ce:inf loc="post">3</ce:inf> and VCl<ce:inf loc="post">3</ce:inf> were from Sigma-Aldrich. All the samples were treated in a glovebox filled with purified argon by gas recycling purification system (MP-P60W, Miwa MFG CO., LTD.) to minimize the oxygen and water pollution.</ce:para>
+<ce:para view="all">To achieve nanometer-scale contact among LiNH<ce:inf loc="post">2</ce:inf>, LiH and the respective additives, and between LiH and LiOH, their mixtures were mechanically ball-milled (P7, Fritsch) at 400 rpm under a hydrogen atmosphere of 1 MPa (99.9999%) at room temperature for 2 h. For the milling treatment, the mixed powders of <mml:math altimg="si9.gif" overflow="scroll">
+<mml:mo>∼</mml:mo>
+</mml:math> 300 mg and 20 pieces of steel balls with a diameter of 7 mm were brought into a Cr steel pot. After the ball-milling of the mixed powders, the products were examined by thermal desorption mass spectroscopy measurements (TDMS; M-QA200TS, Anelva) with the increase of temperature from <mml:math altimg="si10.gif" overflow="scroll">
+<mml:mo>∼</mml:mo>
+</mml:math> 25 to 400 <mml:math altimg="si11.gif" overflow="scroll">
+<mml:mo>°</mml:mo>
+</mml:math> C at a heating rate of 5 <mml:math altimg="si12.gif" overflow="scroll">
+<mml:mo>°</mml:mo>
+</mml:math> C/min. This equipment is especially designed and built up for using it inside the glovebox filled with purified argon, which permitted simultaneously performing the TDMS measurement, thermogravimetry and differential thermal analysis (TG and DTA; TG8120, Rigaku) without exposing the samples to air at all.</ce:para>
+<ce:para view="all">To proceed the solid–gas reaction of LiH and NH<ce:inf loc="post">3</ce:inf>, we performed the milling treatment for LiH under a NH<ce:inf loc="post">3</ce:inf> gas atmosphere of 0.4 MPa. After the treatment, the H<ce:inf loc="post">2</ce:inf> component in the milling vessel was monitored by gas chromatography (GC; GC8AIT, Shimadzu).</ce:para>
+<ce:para view="all">The identification of phases in the samples was examined by X-ray powder diffraction method with Cu K<mml:math altimg="si13.gif" overflow="scroll">
+<mml:mstyle mathvariant="normal">
+<mml:mi>α</mml:mi>
+</mml:mstyle>
+</mml:math> radiation (XRD; RINT-2100, Rigaku).</ce:para>
+</ce:section>
+<ce:section id="sec3" view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussions</ce:section-title>
+<ce:para view="all">First of all, we examined the catalytic effects on hydrogen desorption properties of ball milled mixtures with 1:1 molar ratio of LiNH<ce:inf loc="post">2</ce:inf> and LiH. As effective catalysts for improving the reaction rate, a small amount (1 mol %) of Ni, Fe and Co nanometer sized particles and titanium and vanadium chlorides (TiCl<ce:inf loc="post">3</ce:inf> and VCl<ce:inf loc="post">3)</ce:inf> with particle size of micron meter were added to the mixtures before the ball milling. It is well-known that the former metal elements can act as a catalyst for the hydrogen molecule dissociation and the latter two chlorides can act as an excellent catalyst in the alanate system <ce:cross-ref refid="bib12">[12]</ce:cross-ref>.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor> shows the H<ce:inf loc="post">2</ce:inf> desorption and the NH<ce:inf loc="post">3</ce:inf> emission profiles (TDMS) of the mixtures containing the respective additives. We can notice that the mixtures doped with TiCl<ce:inf loc="post">3</ce:inf> and VCl<ce:inf loc="post">3</ce:inf> show very sharp and symmetrical hydrogen desorption curves in the temperature range from 150 to 280 <mml:math altimg="si14.gif" overflow="scroll">
+<mml:mo>°</mml:mo>
+</mml:math> C. This indicates that the additives TiCl<ce:inf loc="post">3</ce:inf> and VCl<ce:inf loc="post">3</ce:inf> really act as an excellent catalyst in improving the reaction rate. Furthermore, it is noteworthy that no NH<ce:inf loc="post">3</ce:inf> gas emission was detected in the TDMS measurement up to 400 <mml:math altimg="si15.gif" overflow="scroll">
+<mml:mo>°</mml:mo>
+</mml:math> C within our experimental accuracy. These results indicate that all LiNH<ce:inf loc="post">2</ce:inf> has been consumed as a result of complete reaction with LiH and transformation into Li<ce:inf loc="post">2</ce:inf>NH.</ce:para>
+<ce:para view="all">On the other hand, for nano-particle Ni, Co or Fe additives, a little emission of NH<ce:inf loc="post">3</ce:inf> is observed above <mml:math altimg="si16.gif" overflow="scroll">
+<mml:mo>∼</mml:mo>
+</mml:math> 300 <mml:math altimg="si17.gif" overflow="scroll">
+<mml:mo>°</mml:mo>
+</mml:math> C as shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>. This result indicates that the reaction rate is so low that a small amount of LiNH<ce:inf loc="post">2</ce:inf>remains unreacted up to 300 <mml:math altimg="si18.gif" overflow="scroll">
+<mml:mo>°</mml:mo>
+</mml:math> C and starts to decompose into Li<ce:inf loc="post">2</ce:inf>NH emitting NH<ce:inf loc="post">3</ce:inf> over 300 <mml:math altimg="si19.gif" overflow="scroll">
+<mml:mo>°</mml:mo>
+</mml:math> C. From this fact, we suppose that the NH<ce:inf loc="post">3</ce:inf> emission plays an important role on the H<ce:inf loc="post">2</ce:inf> desorption reaction (2), because the H<ce:inf loc="post">2</ce:inf> desorption actually synchronizes with the NH<ce:inf loc="post">3</ce:inf> emission as is evident from <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>. As a result of deep consideration, we could assume suitable elementary reactions for the reaction <ce:cross-ref refid="eqn2">(2)</ce:cross-ref> as follows:<ce:display>
+<ce:formula id="eqn3">
+<ce:label>(3)</ce:label>
+<mml:math altimg="si20.gif" overflow="scroll">
+<mml:mn>2</mml:mn>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>LiNH</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mo>→</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>Li</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mtext>NH</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>NH</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mtext>,</mml:mtext>
+<mml:mspace width="thinmathspace"></mml:mspace>
+<mml:mtext>and</mml:mtext>
+</mml:math>
+</ce:formula>
+</ce:display>
+<ce:display>
+<ce:formula id="eqn4">
+<ce:label>(4)</ce:label>
+<mml:math altimg="si21.gif" overflow="scroll">
+<mml:mtext>LiH</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>NH</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mo>→</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>LiNH</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mo>+</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>H</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mtext>,</mml:mtext>
+</mml:math>
+</ce:formula>
+</ce:display>where the enthalpy change of reaction <ce:cross-refs refid="eqn3 eqn4">(3) and (4)</ce:cross-refs> could be calculated to +84 kJ/mol NH<ce:inf loc="post">3</ce:inf> and <mml:math altimg="si22.gif" overflow="scroll">
+<mml:mo>−</mml:mo>
+</mml:math> 42 kJ/mol H<ce:inf loc="post">2</ce:inf>, respectively. The progress of the former reaction is confirmed around 380 <mml:math altimg="si23.gif" overflow="scroll">
+<mml:mo>°</mml:mo>
+</mml:math> C as is evident from <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>. On the other hand, since the latter reaction would be exothermic, it might proceed even at room temperature by exposing LiH to a NH<ce:inf loc="post">3</ce:inf>gas atmosphere. For the acceleration of this reaction, the ball milling treatment for the LiH powder was performed for 30 min under a NH<ce:inf loc="post">3</ce:inf> gas atmosphere of 0.4 MPa. The gas chromatography (GC) analysis for remaining gases in the milling vessel indicated that about 70% of NH<ce:inf loc="post">3</ce:inf> reacted with LiH and changed to H<ce:inf loc="post">2</ce:inf>. In <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor> the XRD-patterns of the products are shown before and after the ball milling. We can recognize that the above two elementary reactions are really essential for the hydrogen storage reaction <ce:cross-ref refid="eqn2">(2)</ce:cross-ref>. The elementary reactions <ce:cross-refs refid="eqn3 eqn4">(3) and (4)</ce:cross-refs> have been partly discussed by Hu and Ruckenstein <ce:cross-ref refid="bib3">[3]</ce:cross-ref>, in which they claimed that the reaction <ce:cross-ref refid="eqn4">(4)</ce:cross-ref> was so fast that the NH<ce:inf loc="post">3</ce:inf> formation was suppressed during the hydrogenation of Li<ce:inf loc="post">3</ce:inf>N and the NH<ce:inf loc="post">3</ce:inf> emission was also suppressed during the dehydrogenation process.</ce:para>
+<ce:para view="all">According to the above two-step elementary reactions model mediated by NH<ce:inf loc="post">3</ce:inf>, the hydrogen desorption reaction <ce:cross-ref refid="eqn2">(2)</ce:cross-ref> can be expressed as follows;<ce:display>
+<ce:formula>
+<ce:label>(5)</ce:label>
+<mml:math altimg="si24.gif" overflow="scroll">
+<mml:mtext>LiH</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>LiNH</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mo>→</mml:mo>
+<mml:mfrac>
+<mml:mrow>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+<mml:mrow>
+<mml:msup>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+<mml:mrow>
+<mml:mi>n</mml:mi>
+</mml:mrow>
+</mml:msup>
+</mml:mrow>
+</mml:mfrac>
+<mml:mtext>LiH</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:mfrac>
+<mml:mrow>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+<mml:mrow>
+<mml:msup>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+<mml:mrow>
+<mml:mi>n</mml:mi>
+</mml:mrow>
+</mml:msup>
+</mml:mrow>
+</mml:mfrac>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>LiNH</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mspace width="1em"></mml:mspace>
+<mml:mo>+</mml:mo>
+<mml:mspace width="thinmathspace"></mml:mspace>
+<mml:munderover>
+<mml:mrow>
+<mml:mo>∑</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mi>k</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+<mml:mrow>
+<mml:mi>n</mml:mi>
+</mml:mrow>
+</mml:munderover>
+<mml:mfrac>
+<mml:mrow>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+<mml:mrow>
+<mml:msup>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+<mml:mrow>
+<mml:mi>k</mml:mi>
+</mml:mrow>
+</mml:msup>
+</mml:mrow>
+</mml:mfrac>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>Li</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mtext>NH</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:munderover>
+<mml:mrow>
+<mml:mo>∑</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mi>k</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+<mml:mrow>
+<mml:mi>n</mml:mi>
+</mml:mrow>
+</mml:munderover>
+<mml:mfrac>
+<mml:mrow>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+<mml:mrow>
+<mml:msup>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+<mml:mrow>
+<mml:mi>k</mml:mi>
+</mml:mrow>
+</mml:msup>
+</mml:mrow>
+</mml:mfrac>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>H</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mo>→</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>Li</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mtext>NH</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>H</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msub>
+</mml:math>
+</ce:formula>
+</ce:display>
+</ce:para>
+<ce:para view="all">This indicates that: At the first step LiNH<ce:inf loc="post">2</ce:inf> decomposes into Li<ce:inf loc="post">2</ce:inf>NH/2 and NH<ce:inf loc="post">3</ce:inf>/2, and then the emitting NH<ce:inf loc="post">3</ce:inf>/2 quickly reacts with LiH/2, transforming into LiNH<ce:inf loc="post">2</ce:inf>/2 and H<ce:inf loc="post">2</ce:inf>/2. At the next step, the product LiNH<ce:inf loc="post">2</ce:inf>/2 decomposes into Li<ce:inf loc="post">2</ce:inf>NH/4 and NH<ce:inf loc="post">3</ce:inf>/4, and then NH<ce:inf loc="post">3</ce:inf>/4 + LiH/4 transform into LiNH<ce:inf loc="post">2</ce:inf>/4 + H<ce:inf loc="post">2</ce:inf>/4, and such successive step reactions continue until LiNH<ce:inf loc="post">2</ce:inf> and LiH completely transform into Li<ce:inf loc="post">2</ce:inf>NH and H<ce:inf loc="post">2</ce:inf>. These successive reactions might be realized even at low temperature through the close contact among LiNH<ce:inf loc="post">2</ce:inf>, LiH and TiCl<ce:inf loc="post">3</ce:inf> in a nanometer scale which produced by ball milling.</ce:para>
+<ce:para view="all">Next, we examined the reversibility of the product with a small amount (1 mol %) of TiCl<ce:inf loc="post">3</ce:inf> as a catalyst. The reversibility was tested through the following cyclic processes: the first dehydrogenation from the mixture was performed by holding the sample at 220 <mml:math altimg="si25.gif" overflow="scroll">
+<mml:mo>°</mml:mo>
+</mml:math> C for 12 h under high vacuum, and then the hydrogenation was performed under a pure hydrogen gas up to 3 MPa at 180 <mml:math altimg="si26.gif" overflow="scroll">
+<mml:mo>°</mml:mo>
+</mml:math> C for 12 h. After these hydrogen desorbing/absorbing cycles, we examined the hydrogen desorption properties by the TG and TDMS equipment. The results obtained are shown in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor>. The amount of desorbed hydrogen slightly decreases after the 2nd cycle, indicating that a small amount of stable materials, that is Li<ce:inf loc="post">2</ce:inf>O or LiCl, might be generated during the first heating process. However, since the effective hydrogen capacity is still higher than 5 wt.% after the initial dehydrogenation process and the reaction rate has almost not changed between the 2nd and 3rd cycles, we can say that the reversibility should essentially be good.</ce:para>
+<ce:para view="all">What we have mentioned above is concerned with the hydrogen storage properties under the clean condition with an ideal inert gas atmosphere, such as almost no water vapor and no oxygen partial pressure. On the other hand, it is of interest to investigate the influence of exposing the product to air, especially a low vapor pressure of water. In principle, both of LiH and LiNH<ce:inf loc="post">2</ce:inf> react with water vapor and transform into LiOH desorbing H<ce:inf loc="post">2</ce:inf> or NH<ce:inf loc="post">3</ce:inf> at room temperature if the product would be exposed to the air. Therefore, if the products exposed to air are heated up for hydrogen release, the host LiH and the created LiOH would react with each other to form Li<ce:inf loc="post">2</ce:inf>O and release excess H<ce:inf loc="post">2</ce:inf> gas in addition to the desorption of H<ce:inf loc="post">2</ce:inf> due to the reaction (2). As is evident from <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor>, the H<ce:inf loc="post">2</ce:inf>desorption due to this reaction occurs from room temperature since the reaction from LiH and LiOH to Li<ce:inf loc="post">2</ce:inf>O and H<ce:inf loc="post">2</ce:inf> would be exothermic (<mml:math altimg="si27.gif" overflow="scroll">
+<mml:mo>−</mml:mo>
+</mml:math> 22.5 kJ/mol H<ce:inf loc="post">2)</ce:inf>. Thus, we claim that the H<ce:inf loc="post">2</ce:inf> desorption from Li-Based materials under dirty condition, such as the exposure of the product to air, occur with less durability but, apparently, better kinetics and an extra H<ce:inf loc="post">2</ce:inf> desorption.</ce:para>
+</ce:section>
+<ce:section id="sec4" view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusion</ce:section-title>
+<ce:para view="all">We examined the catalytic effects on hydrogen desorption properties of ball milled mixture with 1:1 molar ratio of LiNH<ce:inf loc="post">2</ce:inf> and LiH with a small amount (1 mol %) of additives, such as the Fe, Co, Ni metal nano-particles, and Ti and V chlorides. The product containing 1 mol % TiCl<ce:inf loc="post">3</ce:inf> shows the best hydrogen desorption properties among all the trials; <mml:math altimg="si28.gif" overflow="scroll">
+<mml:mo>∼</mml:mo>
+</mml:math> 5.5 to 6 wt.% of hydrogen was desorbed in 150 <mml:math altimg="si29.gif" overflow="scroll">
+<mml:mo>∼</mml:mo>
+</mml:math> 250 <mml:math altimg="si30.gif" overflow="scroll">
+<mml:mo>°</mml:mo>
+</mml:math> C with a relatively high reaction rate. The reversibility was also essentially good because the effective hydrogen capacity was still higher than 5 wt.% until at least 3rd cycles and the reaction rate did almost not changed until 3rd cycles.</ce:para>
+<ce:para view="all">The hydrogen desorption reaction from the product was clarified to be composed of two elementary reactions mediated by NH<ce:inf loc="post">3</ce:inf>. Particularly the reaction between NH<ce:inf loc="post">3</ce:inf> and LiH could play an important role on the hydrogen storage reaction <ce:cross-ref refid="eqn2">(2)</ce:cross-ref>. Finally, we discussed the influence of exposing the product to air, especially, a water vapor. The results indicated that the exposure of the product to air led to not only worse durability but also an extra H<ce:inf loc="post">2</ce:inf>desorption.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgements</ce:section-title>
+<ce:para view="all">This work was supported by the Grant-in-Aid for COE Research (No. 13CE2002) of the Ministry of Education, Sciences and Culture of Japan and by the project “Development for Safe Utilization and Infrastructure of Hydrogen Industrial Technology” in NEDO, Japan. The authors gratefully acknowledge Mr. T. Kubokawa, Mr. K. Tokoyoda and Mr. K. Okamoto, Research and Development Center, Taiheiyo Cement Corporation, for the useful discussion. They gratefully thank Miss E. Gomibuchi, Mr. K. Nabeta, Mr. K. Kimura, Mr. T. Nakagawa and Mr. S. Hino for their help in our laboratory.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>F.W.</ce:given-name>
+<ce:surname>Dafert</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Miklauz</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Monatsh. Chem.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>31</sb:volume-nr>
+</sb:series>
+<sb:date>1910</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>981</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Ziong</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Luo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Lin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.L.</ce:given-name>
+<ce:surname>Tan</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Nature</sb:maintitle>
+</sb:title>
+<sb:volume-nr>420</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>302</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.H.</ce:given-name>
+<ce:surname>Hu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Ruckenstein</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Ind. Eng. Chem. Res</sb:maintitle>
+</sb:title>
+<sb:volume-nr>42</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>5135</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Xiong</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Luo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Lin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.L.</ce:given-name>
+<ce:surname>Tan</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Phys. Chem. B</sb:maintitle>
+</sb:title>
+<sb:volume-nr>420</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>5135</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Ichikawa</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Isobe</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Hanada</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Fujii</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>365</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>271</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Nakamori</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Orimo</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mat. Sci. Eng.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>B108</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>48</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Nakamori</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Orimo</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>370</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>271</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Nakamori</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Yamagishi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Yokoyama</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Orimo</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>377</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>L1</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Ichikawa</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Hanada</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Isobe</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.Y.</ce:given-name>
+<ce:surname>Leng</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Fujii</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Phys. Chem. B</sb:maintitle>
+</sb:title>
+<sb:volume-nr>108</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>7887</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<ce:other-ref>
+<ce:textref>H.Y. Leng, T. Ichikawa, S. Hino, N. Hanada, S. Isobe, H. Fujii, submitted in J. Phys. Chem. B.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<ce:other-ref>
+<ce:textref>H.Y. Leng, T. Ichikawa, N. Hanada, S. Isobe, H. Fujii, submitted in J. Phys. Chem. A.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Blanchard</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.W.</ce:given-name>
+<ce:surname>Brinks</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.C.</ce:given-name>
+<ce:surname>Hauback</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Norby</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mat. Sci. Eng.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>B108</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>54</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

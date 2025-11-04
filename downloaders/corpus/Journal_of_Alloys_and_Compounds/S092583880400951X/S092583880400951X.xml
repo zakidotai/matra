@@ -1,0 +1,1724 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S092583880400951X</prism:url><dc:identifier>doi:10.1016/j.jallcom.2004.07.023</dc:identifier><eid>1-s2.0-S092583880400951X</eid><prism:doi>10.1016/j.jallcom.2004.07.023</prism:doi><pii>S0925-8388(04)00951-X</pii><dc:title>Structure and thermal stability of ball milled Ti–Al–H powders </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>388</prism:volume><prism:issueidentifier>2</prism:issueidentifier><prism:startingpage>266</prism:startingpage><prism:endingpage>273</prism:endingpage><prism:pagerange>266-273</prism:pagerange><prism:number>2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2005-02-22</prism:coverdate><prism:coverdisplaydate>22 February 2005</prism:coverdisplaydate><prism:copyright>Copyright © 2004 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Morales-Hernández, J.</dc:creator><dc:creator>Velázquez-Salazar, J.</dc:creator><dc:creator>García-González, L.</dc:creator><dc:creator>Espinoza-Beltrán, F.J.</dc:creator><dc:creator>Barceinas-Sánchez, J.D.O.</dc:creator><dc:creator>Muñoz-Saldaña, J.</dc:creator><dc:description>
+                  Powders with different compositions of the binary Ti–Al system were prepared by indirect reactive ball milling (IRBM). During milling, nanocrystalline powders of titanium and titanium–aluminium hydrides were obtained using methanol as a reactive control agent. The formation of these hydride compounds due to the reaction Ti–Al–methanol improved grain size reduction of the powders. Light metal hydrides were detected by X-ray diffraction (XRD) and thermogravimeter and differential thermal analysis (TG–DTA) techniques even after very short milling times (4h). The use of methanol as a hydrogen source during ball milling seems to be an inexpensive and easy way to prepare nanocrystalline and amorphous ductile metal based alloys in considerably shorter milling times and without an atmosphere of hydrogen gas.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Ti–Al alloys</dcterms:subject><dcterms:subject>High-energy ball milling</dcterms:subject><dcterms:subject>X-ray diffraction</dcterms:subject><dcterms:subject>Thermal analysis</dcterms:subject><dcterms:subject>Intermetallic compounds</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S092583880400951X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S092583880400951X" rel="scidir"/></coredata><objects><object category="thumbnail" height="59" mimetype="image/gif" multimediatype="GIF image file" ref="si4" size="2299" type="ALTIMG" width="374">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400951X-si4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="87" mimetype="image/gif" multimediatype="GIF image file" ref="si3" size="2347" type="ALTIMG" width="276">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400951X-si3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="18" mimetype="image/gif" multimediatype="GIF image file" ref="si2" size="1337" type="ALTIMG" width="374">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400951X-si2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="48" mimetype="image/gif" multimediatype="GIF image file" ref="si1" size="1802" type="ALTIMG" width="310">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400951X-si1.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="3102" type="IMAGE-THUMBNAIL" width="122">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400951X-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="349" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="43596" type="IMAGE-DOWNSAMPLED" width="455">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400951X-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="3056" type="IMAGE-THUMBNAIL" width="121">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400951X-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="350" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="40053" type="IMAGE-DOWNSAMPLED" width="455">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400951X-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="2457" type="IMAGE-THUMBNAIL" width="124">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400951X-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="343" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="26893" type="IMAGE-DOWNSAMPLED" width="456">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400951X-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="2781" type="IMAGE-THUMBNAIL" width="122">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400951X-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="347" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="34227" type="IMAGE-DOWNSAMPLED" width="455">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400951X-gr4.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="3571" type="IMAGE-THUMBNAIL" width="120">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400951X-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="594" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr5" size="139459" type="IMAGE-DOWNSAMPLED" width="764">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400951X-gr5.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="92" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="2116" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400951X-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="349" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="13310" type="IMAGE-DOWNSAMPLED" width="472">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400951X-gr6.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="3229" type="IMAGE-THUMBNAIL" width="123">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400951X-gr7.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="347" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr7" size="42831" type="IMAGE-DOWNSAMPLED" width="455">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400951X-gr7.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr8" size="2963" type="IMAGE-THUMBNAIL" width="123">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400951X-gr8.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="345" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr8" size="37655" type="IMAGE-DOWNSAMPLED" width="455">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400951X-gr8.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>11344283662</scopus-id><scopus-eid>2-s2.0-11344283662</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/11344283662" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20040911">2004-09-11</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20040911">2004-09-11</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-04-19T04:56:56</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S092583880400951X</xocs:eid>
+<xocs:pii-formatted>S0925-8388(04)00951-X</xocs:pii-formatted>
+<xocs:pii-unformatted>S092583880400951X</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2004.07.023</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.2</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838800X02320</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.228461-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20050222</xocs:date-search-begin>
+<xocs:year-nav>2005</xocs:year-nav>
+<xocs:indexeddate epoch="1094860800">2004-09-11T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>388</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>388</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>2</xocs:iss-first>
+<xocs:issue-list>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 388, Issue 2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>19</xocs:sort-order>
+<xocs:first-fp>266</xocs:first-fp>
+<xocs:last-lp>273</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>266</xocs:first-page>
+<xocs:last-page>273</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20050222</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>22 February 2005</xocs:cover-date-text>
+<xocs:cover-date-start>2005-02-22</xocs:cover-date-start>
+<xocs:cover-date-year>2005</xocs:cover-date-year>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2004 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>STRUCTURETHERMALSTABILITYBALLMILLEDTIALHPOWDERS</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>MORALESHERNANDEZ</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental details</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Powder preparation</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Thermal stability of the powders</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>JANOT</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>356</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>SURYANARAYAMA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>1</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>MARTIN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1994</xocs:ref-pub-year>
+<xocs:ref-first-fp>637</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>INTERMETALLICCOMPOUNDS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>TAKASAKI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>1205</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>ITSUKAICHI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1993</xocs:ref-pub-year>
+<xocs:ref-first-fp>1817</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>OEHRING</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1993</xocs:ref-pub-year>
+<xocs:ref-first-fp>2819</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>1247</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>ORIMO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>287</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>FUJI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>462</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>CALKA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1992</xocs:ref-pub-year>
+<xocs:ref-first-fp>787</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>149</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>ITSUKAICHI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1992</xocs:ref-pub-year>
+<xocs:ref-first-fp>631</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13">
+<xocs:ref-normalized-surname>BENJAMIN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1977</xocs:ref-pub-year>
+<xocs:ref-first-fp>1301</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>BURGIO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1990</xocs:ref-pub-year>
+<xocs:ref-first-fp>175</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15">
+<xocs:ref-normalized-surname>HASHI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>547</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib16">
+<xocs:ref-normalized-surname>ESPINOZABELTRAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>170</xocs:ref-first-fp>
+<xocs:ref-last-lp>175</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib17">
+<xocs:ref-normalized-surname>MOON</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>258</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib18">
+<xocs:ref-normalized-surname>MOON</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>236</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib19">
+<xocs:ref-normalized-surname>TAKASAKI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>1205</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib20">
+<xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>211</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib21"></xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>MORALESHERNANDEZX2005X266</xocs:refkey3>
+<xocs:refkey4lp>MORALESHERNANDEZX2005X266X273</xocs:refkey4lp>
+<xocs:refkey4ai>MORALESHERNANDEZX2005X266XJ</xocs:refkey4ai>
+<xocs:refkey5>MORALESHERNANDEZX2005X266X273XJ</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(04)00951-X</xocs:pii-formatted>
+<xocs:pii-unformatted>S092583880400951X</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S092583880400951X</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2004.07.023</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-10T20:42:45.182208-04:00</xocs:timestamp>
+<xocs:cover-date-start>2005-02-22</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S092583880400951X-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400951X/MAIN/application/pdf/baab260126a22a22a705216a216d0aba/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400951X/MAIN/application/pdf/baab260126a22a22a705216a216d0aba/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>447414</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>8</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S092583880400951X-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400951X/PREVIEW/image/png/0f1499840ccc3f736d957882cb72600e/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400951X/PREVIEW/image/png/0f1499840ccc3f736d957882cb72600e/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>65153</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400951X-si4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400951X/STRIPIN/image/gif/82653f2a1fc2613734aa05d2aecae505/si4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400951X/STRIPIN/image/gif/82653f2a1fc2613734aa05d2aecae505/si4.gif</xocs:ucs-locator>
+<xocs:file-basename>si4</xocs:file-basename>
+<xocs:filename>si4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>2299</xocs:filesize>
+<xocs:pixel-height>59</xocs:pixel-height>
+<xocs:pixel-width>374</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400951X-si3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400951X/STRIPIN/image/gif/7aab273f20f015827fdf8dd1f4eb1eb6/si3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400951X/STRIPIN/image/gif/7aab273f20f015827fdf8dd1f4eb1eb6/si3.gif</xocs:ucs-locator>
+<xocs:file-basename>si3</xocs:file-basename>
+<xocs:filename>si3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>2347</xocs:filesize>
+<xocs:pixel-height>87</xocs:pixel-height>
+<xocs:pixel-width>276</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400951X-si2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400951X/STRIPIN/image/gif/cd1398d29159bcfb33ee62f4d8539eed/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400951X/STRIPIN/image/gif/cd1398d29159bcfb33ee62f4d8539eed/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si2</xocs:file-basename>
+<xocs:filename>si2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1337</xocs:filesize>
+<xocs:pixel-height>18</xocs:pixel-height>
+<xocs:pixel-width>374</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400951X-si1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400951X/STRIPIN/image/gif/75324a6770293b5c4d7281902ebbaa7a/si1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400951X/STRIPIN/image/gif/75324a6770293b5c4d7281902ebbaa7a/si1.gif</xocs:ucs-locator>
+<xocs:file-basename>si1</xocs:file-basename>
+<xocs:filename>si1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1802</xocs:filesize>
+<xocs:pixel-height>48</xocs:pixel-height>
+<xocs:pixel-width>310</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400951X-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400951X/gr1/THUMBNAIL/image/gif/20ca8fc035015ae20031b8cef5f080ee/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400951X/gr1/THUMBNAIL/image/gif/20ca8fc035015ae20031b8cef5f080ee/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3102</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>122</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400951X-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400951X/gr1/DOWNSAMPLED/image/jpeg/57ecd1a090d5a9adfa8c73289b34de28/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400951X/gr1/DOWNSAMPLED/image/jpeg/57ecd1a090d5a9adfa8c73289b34de28/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>43596</xocs:filesize>
+<xocs:pixel-height>349</xocs:pixel-height>
+<xocs:pixel-width>455</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400951X-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400951X/gr2/THUMBNAIL/image/gif/dc13be81073ebfd0ec652a1e96638017/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400951X/gr2/THUMBNAIL/image/gif/dc13be81073ebfd0ec652a1e96638017/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3056</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>121</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400951X-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400951X/gr2/DOWNSAMPLED/image/jpeg/bab8d5c2500aa578cd2aad83de939f6d/gr2.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400951X/gr2/DOWNSAMPLED/image/jpeg/bab8d5c2500aa578cd2aad83de939f6d/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>40053</xocs:filesize>
+<xocs:pixel-height>350</xocs:pixel-height>
+<xocs:pixel-width>455</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400951X-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400951X/gr3/THUMBNAIL/image/gif/c0787dbd93b8a7ca9d239d0284bfbb05/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400951X/gr3/THUMBNAIL/image/gif/c0787dbd93b8a7ca9d239d0284bfbb05/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2457</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>124</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400951X-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400951X/gr3/DOWNSAMPLED/image/jpeg/81d0620e6c5e2a547f77f40ac7bfc023/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400951X/gr3/DOWNSAMPLED/image/jpeg/81d0620e6c5e2a547f77f40ac7bfc023/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>26893</xocs:filesize>
+<xocs:pixel-height>343</xocs:pixel-height>
+<xocs:pixel-width>456</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400951X-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400951X/gr4/THUMBNAIL/image/gif/ee7274b2dbe78a06c5cd106a0884b467/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400951X/gr4/THUMBNAIL/image/gif/ee7274b2dbe78a06c5cd106a0884b467/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2781</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>122</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400951X-gr4.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400951X/gr4/DOWNSAMPLED/image/jpeg/be856ef2c7946166e93bbf15e6ea1898/gr4.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400951X/gr4/DOWNSAMPLED/image/jpeg/be856ef2c7946166e93bbf15e6ea1898/gr4.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>34227</xocs:filesize>
+<xocs:pixel-height>347</xocs:pixel-height>
+<xocs:pixel-width>455</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400951X-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400951X/gr5/THUMBNAIL/image/gif/29f9f58dc11dd7020d8e2801c65475cf/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400951X/gr5/THUMBNAIL/image/gif/29f9f58dc11dd7020d8e2801c65475cf/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3571</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>120</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400951X-gr5.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400951X/gr5/DOWNSAMPLED/image/jpeg/a976055527a14892606582cfe55364af/gr5.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400951X/gr5/DOWNSAMPLED/image/jpeg/a976055527a14892606582cfe55364af/gr5.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>139459</xocs:filesize>
+<xocs:pixel-height>594</xocs:pixel-height>
+<xocs:pixel-width>764</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400951X-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400951X/gr6/THUMBNAIL/image/gif/37f01159e0cf5041f8269aaf106bfa6e/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400951X/gr6/THUMBNAIL/image/gif/37f01159e0cf5041f8269aaf106bfa6e/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2116</xocs:filesize>
+<xocs:pixel-height>92</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400951X-gr6.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400951X/gr6/DOWNSAMPLED/image/gif/746b7aaef8192e558e06df2bcc419472/gr6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400951X/gr6/DOWNSAMPLED/image/gif/746b7aaef8192e558e06df2bcc419472/gr6.gif</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>13310</xocs:filesize>
+<xocs:pixel-height>349</xocs:pixel-height>
+<xocs:pixel-width>472</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400951X-gr7.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400951X/gr7/THUMBNAIL/image/gif/f5cff297da658eb3fd149be085710be8/gr7.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400951X/gr7/THUMBNAIL/image/gif/f5cff297da658eb3fd149be085710be8/gr7.sml</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3229</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>123</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400951X-gr7.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400951X/gr7/DOWNSAMPLED/image/jpeg/5e0d24b0352a81f643a0a58d9893a289/gr7.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400951X/gr7/DOWNSAMPLED/image/jpeg/5e0d24b0352a81f643a0a58d9893a289/gr7.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>42831</xocs:filesize>
+<xocs:pixel-height>347</xocs:pixel-height>
+<xocs:pixel-width>455</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400951X-gr8.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400951X/gr8/THUMBNAIL/image/gif/d5eb0eb3414713b297a3911da0aa51cd/gr8.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400951X/gr8/THUMBNAIL/image/gif/d5eb0eb3414713b297a3911da0aa51cd/gr8.sml</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2963</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>123</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400951X-gr8.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400951X/gr8/DOWNSAMPLED/image/jpeg/a8e950d254b4a64ea64bbddaa1557bf0/gr8.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400951X/gr8/DOWNSAMPLED/image/jpeg/a8e950d254b4a64ea64bbddaa1557bf0/gr8.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>37655</xocs:filesize>
+<xocs:pixel-height>345</xocs:pixel-height>
+<xocs:pixel-width>455</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>11483</aid>
+<ce:pii>S0925-8388(04)00951-X</ce:pii>
+<ce:doi>10.1016/j.jallcom.2004.07.023</ce:doi>
+<ce:copyright type="full-transfer" year="2004">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRD patterns of Ti–8.5<ce:hsp sp="0.25"></ce:hsp>at.% Al (Ti–05<ce:hsp sp="0.25"></ce:hsp>wt.% Al) powders ball milled by IRBM for different times until amorphous state is reached.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRD patterns of Ti–72.7<ce:hsp sp="0.25"></ce:hsp>at.% Al (Ti–60<ce:hsp sp="0.25"></ce:hsp>wt.% Al) powders ball milled by IRBM for different times until amorphous state is reached.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Variation in grain size of Ti–8.5<ce:hsp sp="0.25"></ce:hsp>at.% Al (Ti–05<ce:hsp sp="0.25"></ce:hsp>wt.% Al) powders as a function of milling time in IRBM.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Variation in grain size of Ti–72.7<ce:hsp sp="0.25"></ce:hsp>at.% Al (Ti–60<ce:hsp sp="0.25"></ce:hsp>wt.% Al) powders as a function of milling time in IRBM.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">TEM micrographs (bright and dark field images) and SAD pattern of: (a) Ti–5<ce:hsp sp="0.25"></ce:hsp>wt.% Al and, (b) Ti–30<ce:hsp sp="0.25"></ce:hsp>wt.% Al ball milled for 16<ce:hsp sp="0.25"></ce:hsp>h by IRBM, both showing nanoparticles of the Ti–Al alloy.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">DTA and TGA curves of Ti–72.7<ce:hsp sp="0.25"></ce:hsp>at.% Al and Ti–94.1<ce:hsp sp="0.25"></ce:hsp>at.% Al powders ball milled by IRBM for 30 and 36<ce:hsp sp="0.25"></ce:hsp>h of milling, respectively.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+<ce:figure id="fig7">
+<ce:label>Fig. 7</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRD patterns of Ti–72.7<ce:hsp sp="0.25"></ce:hsp>at.% Al (Ti–60<ce:hsp sp="0.25"></ce:hsp>wt.% Al) powders ball milled by IRBM for 30<ce:hsp sp="0.25"></ce:hsp>h of milling and heated to various temperatures.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr7"></ce:link>
+</ce:figure>
+<ce:figure id="fig8">
+<ce:label>Fig. 8</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRD patterns of the Ti–94.1<ce:hsp sp="0.25"></ce:hsp>at.% Al (Ti–90<ce:hsp sp="0.25"></ce:hsp>wt.% Al) powders ball milled by IRBM for 30<ce:hsp sp="0.25"></ce:hsp>h of milling and heated to various temperatures.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr8"></ce:link>
+</ce:figure>
+</ce:floats>
+<ce:title>Structure and thermal stability of ball milled Ti–Al–H powders</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Morales-Hernández</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Velázquez-Salazar</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>García-González</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>F.J.</ce:given-name>
+<ce:surname>Espinoza-Beltrán</ce:surname>
+<ce:cross-ref refid="aff3">
+<ce:sup loc="post">c</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="cor1">*</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>J.D.O.</ce:given-name>
+<ce:surname>Barceinas-Sánchez</ce:surname>
+<ce:cross-ref refid="aff4">
+<ce:sup loc="post">d</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Muñoz-Saldaña</ce:surname>
+<ce:cross-ref refid="aff3">
+<ce:sup loc="post">c</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation id="aff1">
+<ce:label>a</ce:label>
+<ce:textfn>Programa de Posgrado en Ingeniería, Facultad de Ingeniería, Universidad Autónoma de Querétaro, Centro Universitario Cerro de las Campanas, Col. Centro, C.P. 76000, Querétaro, Qro., México</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff2">
+<ce:label>b</ce:label>
+<ce:textfn>Programa de Posgrado en Materiales del Centro de Investigación y de Estudios Avanzados del IPN, Unidad Querétaro, Libramiento Norponiente 2000, Fracc. Real de Juriquilla, C.P. 76230, Querétaro, Qro., México</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff3">
+<ce:label>c</ce:label>
+<ce:textfn>Centro de Investigación y de Estudios Avanzados del IPN, Unidad Querétaro, Libramiento Norponiente 2000, Fracc. Real de Juriquilla, C.P. 76230, Querétaro, Qro., México</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff4">
+<ce:label>d</ce:label>
+<ce:textfn>Centro de Tecnología Avanzada del Estado de Querétaro, Calz. del Retablo 150 Col. FOVISSSTE, C.P. 76150, Querétaro, Qro., México</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>*</ce:label>
+<ce:text>Corresponding author. Tel.: +52-442-4414913; fax: +52-442-4414938.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="22" month="6" year="2004"></ce:date-received>
+<ce:date-revised day="26" month="7" year="2004"></ce:date-revised>
+<ce:date-accepted day="28" month="7" year="2004"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">Powders with different compositions of the binary Ti–Al system were prepared by indirect reactive ball milling (IRBM). During milling, nanocrystalline powders of titanium and titanium–aluminium hydrides were obtained using methanol as a reactive control agent. The formation of these hydride compounds due to the reaction Ti–Al–methanol improved grain size reduction of the powders. Light metal hydrides were detected by X-ray diffraction (XRD) and thermogravimeter and differential thermal analysis (TG–DTA) techniques even after very short milling times (4<ce:hsp sp="0.25"></ce:hsp>h). The use of methanol as a hydrogen source during ball milling seems to be an inexpensive and easy way to prepare nanocrystalline and amorphous ductile metal based alloys in considerably shorter milling times and without an atmosphere of hydrogen gas.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Ti–Al alloys</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>High-energy ball milling</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>X-ray diffraction</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Thermal analysis</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Intermetallic compounds</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Ti–Al alloys have been of much interest in recent years as lightweight and as structural materials for elevated temperature strength, oxidation and corrosion resistance applications. Recently, a number of non-equilibrium and amorphous phases produced by mechanical alloying (MA) of a mixture of pure elemental powders in the solid state such as Mg–Ni have been reported <ce:cross-refs refid="bib1 bib2">[1,2]</ce:cross-refs>. The MA method is particularly promising for the manufacture of homogeneous metastable alloys such as amorphous alloys and supersaturated solid solutions <ce:cross-ref refid="bib1">[1]</ce:cross-ref> enhancing in most of the cases mechanic, catalytic and thermodynamic properties. Several compositions of the binary Ti–Al system have been already produced by MA <ce:cross-refs refid="bib3 bib4">[3,4]</ce:cross-refs>. For instance, Ti–Al alloys with high Al content milled in argon atmosphere for times as long as 1000<ce:hsp sp="0.25"></ce:hsp>h to reach the nanometric particle size and amorphous state, have been reported <ce:cross-refs refid="bib5 bib6">[5,6]</ce:cross-refs>. The agglomeration of the elemental powders can be significantly reduced by introducing of TiH<ce:inf loc="post">2</ce:inf> powders as a process control agent (PCA) in the MA process, which reduces the milling time (in one order of magnitude) and increases milling efficiency <ce:cross-refs refid="bib2 bib7">[2,7]</ce:cross-refs>. The effective particle size reduction using a hydride phase has been proven for Zr–Ni <ce:cross-ref refid="bib8">[8]</ce:cross-ref> and Ti–Al <ce:cross-ref refid="bib9">[9]</ce:cross-ref> compounds in a hydrogen atmosphere, which leads to the formation of light metal hydrides and also prevent the oxidation. The mechanism of milling is enhanced due to the brittleness behavior transferred to the powders by the introduced or formed metal hydrides. Further on, the absence of a PCA in the milling leads to a cold welding process, which inhibits the milling of the powders <ce:cross-ref refid="bib2">[2]</ce:cross-ref>. The removing of this PCA agent after milling does not represent a problem considering its low thermal stability (unstable at temperatures higher than 250<ce:hsp sp="0.25"></ce:hsp>°C). However, the management of either metal hydrides or hydrogen atmospheres, to in situ form these hydrides, both as a PCA in the milling process represent a challenge due to its high reactivity when exposed to the atmosphere. This, in fact increases the necessity of use of glove boxes with controlled atmospheres even during the preparation of powders for milling.</ce:para>
+<ce:para view="all">We used a novel method to synthesize titanium–aluminum hydride by a modification of the reactive ball milling process (RBM) <ce:cross-ref refid="bib10">[10]</ce:cross-ref>. Our modification, which will be called hereafter indirect reactive ball milling (IRBM), consists in the replacement of the hydrogen atmosphere with a small amount of a reactive liquid (methanol) during milling, keeping argon as atmosphere. The methanol will be called the reactive process control agent (RPCA) in this procedure. A systematic study of the Ti–Al system prepared by this process of IRBM has not been reported yet.</ce:para>
+<ce:para view="all">The aim of this paper is to study the structural evolution and thermal stability of nanocrystalline and amorphous Ti–Al alloy powders obtained by IRBM process, where aluminum content was varied from 5 to 90<ce:hsp sp="0.25"></ce:hsp>wt.%. In this work, results on the monitoring of formation of (Ti, Al)H brittle phases in the different compositions of Ti–Al powders are presented. The behavior of the particle sizes reduction and the formation of amorphous phases at different milling times are analyzed.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental details</ce:section-title>
+<ce:para view="all">Elemental powders of Al and Ti (99.8 and 99.5% pure, respectively and average particle size 50<ce:hsp sp="0.25"></ce:hsp>μm) were mixed to prepare several Ti–Al compositions (Ti<ce:inf loc="post">100−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">x</ce:inf>
+</ce:italic>Al<ce:italic>
+<ce:inf loc="post">x</ce:inf>
+</ce:italic>, <ce:italic>x</ce:italic> = 8.5, 16.5, 30.7, 43.2, 72.7 <ce:italic>y</ce:italic> 94.2<ce:hsp sp="0.25"></ce:hsp>at.% Al). IRBM was carried out for 4, 8, 12, 16, 24, 30 and 36<ce:hsp sp="0.25"></ce:hsp>h in a SPEX 8000 Mixer/Mill. Methanol was added as RPCA. Stainless steel balls AISI-410, with diameters of 3.3<ce:hsp sp="0.25"></ce:hsp>mm and 8.0<ce:hsp sp="0.25"></ce:hsp>mm, were introduced in a hardened steel vial, evacuated and sealed in a glove box, which was filled with 99.9% of pure argon. The total powder weight was 8.0<ce:hsp sp="0.25"></ce:hsp>g and the ball to powder ratio was 5:1. After milling procedure, the samples were kept in an argon gas atmosphere for periods longer than 12<ce:hsp sp="0.25"></ce:hsp>h to reduce their reactivity with the ambient, and to use them for the several analyses, especially for mixtures with higher aluminum content.</ce:para>
+<ce:para view="all">The structure and phases content of the milled powder was examined by X-ray diffraction (XRD) (Rigaku-DMAX/1200) with Ni-filtered and Cu Kα radiation and the powder morphology by scanning electron microscopy (SEM) (XL30 ESEM Philips) operated at 20<ce:hsp sp="0.25"></ce:hsp>kV. Thermogravimeter and differential thermal analysis (TG–DTA) (Mettler Toledo TGA/SDTA851e) were performed under nitrogen flow with a heating rate of 10<ce:hsp sp="0.25"></ce:hsp>°C/min. The microstructure of the powders also was investigated by a transmission electron microscope (TEM) (JEOL-JEM-2000FX II).</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:section view="all">
+<ce:label>3.1</ce:label>
+<ce:section-title>Powder preparation</ce:section-title>
+<ce:para view="all">
+<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor> shows a series of XRD patterns indicating the evolution of phases as a function of milling time (0–16<ce:hsp sp="0.25"></ce:hsp>h) of the sample Ti–8.5<ce:hsp sp="0.25"></ce:hsp>at.% Al (Ti–5<ce:hsp sp="0.25"></ce:hsp>wt.% Al). Before milling, the XRD pattern shows characteristic peaks from the starting elements. After 4<ce:hsp sp="0.25"></ce:hsp>h of milling, aluminum atoms diffuse into Ti lattice, which can be observed in the XRD pattern by the vanishing of Al peaks. On the other hand, we observed an increasing of the Ti peaks intensity. This has been already reported as the formation of a solid solution of Al in Ti with a structure similar to that of hex-Ti <ce:cross-ref refid="bib11">[11]</ce:cross-ref>. The solid solution Ti(Al) shows an asymmetric broadening with a light shifting of the XRD peaks as a function of milling time compared to the original titanium positions. The TiH<ce:inf loc="post">1.924</ce:inf> phase formation is already observed after 4<ce:hsp sp="0.25"></ce:hsp>h of milling as a more intense peak at about 35° (2<ce:italic>θ</ce:italic> position), very close to one of the reference lines for Ti(Al) (denoted as Ti). The formation of this metal hydride must be the result of the reaction between the hydrogen arising from the RPCA with Ti(Al) in the current milling condition. This mechanochemical process is milling time dependent. As the milling time increases, this reaction leads to a gradual increasing of the relative intensity of the peak related to TiH<ce:inf loc="post">1.924</ce:inf>. After 8<ce:hsp sp="0.25"></ce:hsp>h of milling the main diffraction peak of the titanium hydride reaches its highest intensity, while a broadening and an intensity reduction of the XRD peaks of Ti(Al) was observed. This intensity reduction is correlated with the particle size reduction and formation of an amorphous phase. These results coincide with those reported by Itsukaichi et al. <ce:cross-ref refid="bib12">[12]</ce:cross-ref> for the same alloy system. It is well known that nitrogen contamination takes place after the milling procedure, when the Ti–Al powder is in an amorphous state <ce:cross-ref refid="bib13">[13]</ce:cross-ref> and it is exposed to the room atmosphere. Contamination with nitrogen was here observed for samples without or low aluminum content as superimposed broad and low intensity peaks of TiN with TiH<ce:inf loc="post">1.924</ce:inf>. This contamination does not represent a problem and can be easily avoided by increasing either the aluminum content or the resting time in argon atmosphere of the samples. On the other hand, as mentioned before, the presence of a brittle component such as TiH<ce:inf loc="post">1.924</ce:inf>, has a great contribution in the reduction of particle size and also for producing amorphous phases <ce:cross-ref refid="bib8">[8]</ce:cross-ref>. After 16<ce:hsp sp="0.25"></ce:hsp>h of milling, a single broad peak of an amorphous phase is observed with the maximum diffraction about 2<ce:italic>θ</ce:italic> ≈ 42°, and a remnant signal due to TiH<ce:inf loc="post">1.924</ce:inf>, is still observed (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>). A similar behavior was observed for the samples with compositions 16.5, 30.7, and 43.2<ce:hsp sp="0.25"></ce:hsp>at.% Al (not shown here). Thus, the sequence of phase transformations observed in Ti<ce:inf loc="post">100−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">x</ce:inf>
+</ce:italic>Al<ce:italic>
+<ce:inf loc="post">x</ce:inf>
+</ce:italic> milled samples at the compositions <ce:italic>x</ce:italic> ≤ 43.2<ce:hsp sp="0.25"></ce:hsp>at.% Al can be represented as follows:<ce:display>
+<ce:formula>
+<ce:label>(1)</ce:label>
+<mml:math altimg="si1.gif" overflow="scroll">
+<mml:mrow>
+<mml:mtext>Ti</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:mtext>Al</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:mtext>RPCA</mml:mtext>
+<mml:mo>→</mml:mo>
+<mml:mtext>Ti</mml:mtext>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>Al</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>solid sol</mml:mtext>
+<mml:mtext>.</mml:mtext>
+</mml:mrow>
+</mml:msub>
+<mml:mo>+</mml:mo>
+<mml:mtext>Ti</mml:mtext>
+<mml:msub>
+<mml:mtext>H</mml:mtext>
+<mml:mrow>
+<mml:mn>1.924</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mo>→</mml:mo>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>Ti</mml:mtext>
+<mml:mo>,</mml:mo>
+<mml:mtext>Al</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:msub>
+<mml:mtext>H</mml:mtext>
+<mml:mrow>
+<mml:mtext>amorphous</mml:mtext>
+</mml:mrow>
+</mml:msub>
+<mml:mo>+</mml:mo>
+<mml:mtext>TiN</mml:mtext>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>
+</ce:para>
+<ce:para view="all">Burgio et al. <ce:cross-ref refid="bib14">[14]</ce:cross-ref> reported the formation of an amorphous phase after long time of MA (longer than 100<ce:hsp sp="0.25"></ce:hsp>h) for similar Ti–Al compositions, without PCA additions.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor> shows the diffraction patterns for a sample with Al content of 72.7<ce:hsp sp="0.25"></ce:hsp>at.% (Ti–60<ce:hsp sp="0.25"></ce:hsp>wt.% Al) for the milling time values of 4, 12, 24 and 30<ce:hsp sp="0.25"></ce:hsp>h. After 4<ce:hsp sp="0.25"></ce:hsp>h of milling, diffraction peaks due to hex-Ti are observed as small and broad peaks, some of them coinciding with peaks of TiH<ce:inf loc="post">1.924</ce:inf>. This clearly indicates that one part of the Ti content reacts with hydrogen to form titanium hydride. The main diffraction peak of Al decreases with milling time, which is due to an alloying with TiH<ce:inf loc="post">1.924</ce:inf> to form a (Ti, Al)H ternary alloy. Hashi et al. <ce:cross-ref refid="bib15">[15]</ce:cross-ref> reported (Ti, Al)H diffraction patterns similar to that of TiH<ce:inf loc="post">1.924</ce:inf> with a peak shifting depending on the Al content. We additionally measured the interplanar distance of the sample Ti–72.7<ce:hsp sp="0.25"></ce:hsp>at.% Al. A progressive shifting of the interplanar distance of (1<ce:hsp sp="0.25"></ce:hsp>1<ce:hsp sp="0.25"></ce:hsp>1) TiH<ce:inf loc="post">1.924</ce:inf> peak with milling time (from 2.569<ce:hsp sp="0.25"></ce:hsp>Å for 4<ce:hsp sp="0.25"></ce:hsp>h to 2.575<ce:hsp sp="0.25"></ce:hsp>Å for 30<ce:hsp sp="0.25"></ce:hsp>h) and simultaneous decreasing of (1<ce:hsp sp="0.25"></ce:hsp>1<ce:hsp sp="0.25"></ce:hsp>1) Al peak intensity were observed. Both behaviors are due to the formation of (Ti, Al)H alloy. After 30<ce:hsp sp="0.25"></ce:hsp>h of milling there is no evidence of grain size reduction. This is due to the high aluminum content in the sample, which inhibits the fragility effect of the hydride on the powder. We observed a similar behavior for samples with higher aluminum content (as high as 94.1<ce:hsp sp="0.25"></ce:hsp>at.% Al), where the diffraction peaks of TiH<ce:inf loc="post">1.924</ce:inf> phase show lower intensity. Thus, in a system with these aluminum contents, larger time periods of milling are required for an effective grain size reduction. We confirmed the existence of a compromise between brittleness of hydrides and welding of aluminum, both processes showing a strong dependence on the titanium and aluminum contents. The sequence of phase transformations for Ti<ce:inf loc="post">100−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">x</ce:inf>
+</ce:italic>Al<ce:italic>
+<ce:inf loc="post">x</ce:inf>
+</ce:italic> samples with compositions <ce:italic>x</ce:italic> &gt; 43.2<ce:hsp sp="0.25"></ce:hsp>at.% Al, and for long milling time (which is longer when <ce:italic>x</ce:italic> increases), can be represented as follows:<ce:display>
+<ce:formula>
+<ce:label>(2)</ce:label>
+<mml:math altimg="si2.gif" overflow="scroll">
+<mml:mrow>
+<mml:mtext>Ti</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:mtext>Al</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:mtext>RPCA</mml:mtext>
+<mml:mo>→</mml:mo>
+<mml:mtext>Al</mml:mtext>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>Ti</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>solid sol</mml:mtext>
+<mml:mtext>.</mml:mtext>
+</mml:mrow>
+</mml:msub>
+<mml:mo>+</mml:mo>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>Ti</mml:mtext>
+<mml:mo>,</mml:mo>
+<mml:mtext>Al</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:msub>
+<mml:mtext>H</mml:mtext>
+<mml:mrow>
+<mml:mtext>amorphous</mml:mtext>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>
+</ce:para>
+<ce:para view="all">The average grain size of the IRBM milled powders was determined from XRD data by applying a profile analysis to all diffraction peaks (Ti, Al, TiH<ce:inf loc="post">1.924</ce:inf>, and TiN) in accord with the Warren–Averbach method <ce:cross-ref refid="bib16">[16]</ce:cross-ref>. Results as a function of milling time for Ti–8.5<ce:hsp sp="0.25"></ce:hsp>at.% Al (Ti–5<ce:hsp sp="0.25"></ce:hsp>wt.% Al) and Ti–72.7<ce:hsp sp="0.25"></ce:hsp>at.% Al (Ti–60<ce:hsp sp="0.25"></ce:hsp>wt.% Al) powders are shown in <ce:cross-refs refid="fig3 fig4">Figs. 3 and 4</ce:cross-refs>
+<ce:float-anchor refid="fig3"></ce:float-anchor>
+<ce:float-anchor refid="fig4"></ce:float-anchor>, respectively. The advantage of using the Warren–Averbach analysis to obtain average grain size is that it proves more consistent grain size values, even for samples with XRD patterns with superimposed peaks. Nanometric grain sizes (less than 15<ce:hsp sp="0.25"></ce:hsp>nm) were already attained even after 4<ce:hsp sp="0.25"></ce:hsp>h ball milling, regardless of the Al content by using the IRBM process. The grain size was reduced to about 7<ce:hsp sp="0.25"></ce:hsp>nm after a milling time of 8<ce:hsp sp="0.25"></ce:hsp>h and to about 5<ce:hsp sp="0.25"></ce:hsp>nm after 12<ce:hsp sp="0.25"></ce:hsp>h and approx. 3<ce:hsp sp="0.25"></ce:hsp>nm after 16<ce:hsp sp="0.25"></ce:hsp>h, reaching an amorphous state for powders with small amount of Al (Ti–5<ce:hsp sp="0.25"></ce:hsp>wt.% Al). Again, it is important to remark the vanishing of the Al peaks from the XRD data after 8<ce:hsp sp="0.25"></ce:hsp>h, which is indicative of the dissolution of Al into the Ti lattice leading to the formation of a metastable Ti(Al) solid solution before the development of the metal hydride. The measurement of grain size particularly from the TiN peaks revealed both nanocrystallites with size of less than 3<ce:hsp sp="0.25"></ce:hsp>nm and powders in an amorphous state.</ce:para>
+<ce:para view="all">For compositions with high Al content (Ti–60<ce:hsp sp="0.25"></ce:hsp>wt.% Al), an average grain size of less than 10<ce:hsp sp="0.25"></ce:hsp>nm was measured for the Al(Ti) peaks after a milling time of 12<ce:hsp sp="0.25"></ce:hsp>h and thereafter no further reduction was measured. For the same powders, the Ti(Al) and TiH<ce:inf loc="post">1.924</ce:inf> showed constant reduction in grain size as a function of milling time up to reach sizes of less than 5<ce:hsp sp="0.25"></ce:hsp>nm. In general, as the Al content increases longer milling time is needed to reach particle sizes of less than 5<ce:hsp sp="0.25"></ce:hsp>nm or amorphous powders. Using the IRBM process we were able to produce powders with these characteristics of the system Ti–Al by milling times as short as 16<ce:hsp sp="0.25"></ce:hsp>h for alloys with low and middle Al contents and 36<ce:hsp sp="0.25"></ce:hsp>h for alloys with high Al contents. As mentioned before, the main effect in the mechanism of reduction in particle size comes from the formation of a titanium hydride during milling.</ce:para>
+<ce:para view="all">Results on ball milling of the Ti–Al system were reported by different authors. For instance, Moon and Lee <ce:cross-ref refid="bib17">[17]</ce:cross-ref> and Moon et al. <ce:cross-ref refid="bib18">[18]</ce:cross-ref> prepared Al–Ti alloys with high Al-contents by conventional RBM (using hydrogen atmosphere). These authors report results of grain size as a function of the milling time between 10 and 15<ce:hsp sp="0.25"></ce:hsp>nm for milling times as long as 100<ce:hsp sp="0.25"></ce:hsp>h. No clear evidence on the formation of the titanium hydrides are observed from the XRD patterns, which is possibly the reason for the long milling times. In this same way, Takasaki and Fruya <ce:cross-ref refid="bib19">[19]</ce:cross-ref> reported results about the Ti–Al system milled in a planetary ball mill, using hydrogen atmosphere for times of about 30<ce:hsp sp="0.25"></ce:hsp>h to obtain amorphous structure. In that work, the authors did not observe the formation of the hydride phase. Further on, Zhang et al. <ce:cross-ref refid="bib20">[20]</ce:cross-ref> studied the thermal stability of mechanically alloyed Ti–Al powders with 75<ce:hsp sp="0.25"></ce:hsp>at.% of Al in Ar-atmosphere, in order to prepare Al<ce:inf loc="post">3</ce:inf>Ti. After milling times of 40<ce:hsp sp="0.25"></ce:hsp>h a nanocrystalline alloy of Al(Ti) was prepared, which was thereafter heat treated by 800 and 900<ce:hsp sp="0.25"></ce:hsp>°C to successfully prepare D0<ce:inf loc="post">22</ce:inf>-Al<ce:inf loc="post">3</ce:inf>Ti. Calderón et al. <ce:cross-ref refid="bib21">[21]</ce:cross-ref> used MA experiments to produce nanocrystalline powders of Ti–Al–X (X = Cr, Fe, Mn) intermetallic alloys getting particle sizes in the range of 120–280<ce:hsp sp="0.25"></ce:hsp>nm milling as long as 700<ce:hsp sp="0.25"></ce:hsp>h in high energy horizontal ball mills. We conclude that the proposed IRBM process offers a higher efficiency in powder size reduction and high energy MA compared to the RBM or conventional high energy MA process.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="fig5"></ce:float-anchor> shows TEM micrographs (bright and dark field images) and the correspondent selected area diffraction (SAD) patterns of Ti–5<ce:hsp sp="0.25"></ce:hsp>wt.% Al and Ti–30<ce:hsp sp="0.25"></ce:hsp>wt.% Al powders, which were ball milled for 16<ce:hsp sp="0.25"></ce:hsp>h by IRBM both showing nanoparticles of the Ti–Al alloy. The grain size observed from the dark field image was less than 20<ce:hsp sp="0.25"></ce:hsp>nm, which confirms our results from the Warren–Averbach analysis of the XRD patterns. TEM results reported elsewhere by Moon and Lee <ce:cross-ref refid="bib17">[17]</ce:cross-ref> showed the tendency of multimodal particle distributions from the multiple components of the milled powder. For instance, Moon and Lee <ce:cross-ref refid="bib17">[17]</ce:cross-ref> observed differences in pure Al powders SAD pattern showed that the area consisted of TiH<ce:inf loc="post">1.924</ce:inf>, Ti(Al), and in some cases Al(Ti), TiN or Al<ce:inf loc="post">3</ce:inf>Ti.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.2</ce:label>
+<ce:section-title>Thermal stability of the powders</ce:section-title>
+<ce:para view="all">As mentioned before, the light metal hydrides are unstable at temperatures higher than 250<ce:hsp sp="0.25"></ce:hsp>°C. By doing the characterization of thermal stability of the powders we were able both to eliminate the hydride compound from the powders and to confirm their formation during the IRBM process. Additionally, we were interested in studying the structural evolution of the powders during the heat treatment in order to identify intermetallic phases.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="fig6"></ce:float-anchor> shows the TG–DTA curves (dashed lines) for the sample Ti–72.7<ce:hsp sp="0.25"></ce:hsp>at.% Al (Ti–60<ce:hsp sp="0.25"></ce:hsp>wt.% Al) after 30<ce:hsp sp="0.25"></ce:hsp>h of milling, measured in a nitrogen flux with a heating rate of 10.0<ce:hsp sp="0.25"></ce:hsp>°C/min. Simultaneously, structural changes of the milled and subsequently annealed sample were analyzed by XRD measurements. TG curve shows a mass decreasing associated with the desorption of hydrogen and some volatile species from 8.32<ce:hsp sp="0.25"></ce:hsp>g at 200<ce:hsp sp="0.25"></ce:hsp>°C until 8.00<ce:hsp sp="0.25"></ce:hsp>g at 600<ce:hsp sp="0.25"></ce:hsp>°C, approximately 3.8<ce:hsp sp="0.25"></ce:hsp>wt.%. Above 700<ce:hsp sp="0.25"></ce:hsp>°C, in TG curve, an increasing of mass, possibly due to absorption of nitrogen from the atmosphere of the measurement system to form Ti or Ti(Al) nitrides is observed. DTA curve in the range from 300 to 700<ce:hsp sp="0.25"></ce:hsp>°C shows three exothermic events (points A, B and C, respectively). The first exothermic peak (A) with a maximum at 474.1<ce:hsp sp="0.25"></ce:hsp>°C, is due to the hydrogen desorption and to a structure reordering such as the formation of some crystalline phase of Ti(Al) solid solution. The event between 550 and 700<ce:hsp sp="0.25"></ce:hsp>°C is associated with the formation of the crystalline phase of Al<ce:inf loc="post">2</ce:inf>Ti (long period superstructure), as was proved by XRD measurements. The next phase transformation was identified as an endothermic event at about 658<ce:hsp sp="0.25"></ce:hsp>°C corresponding to the aluminum fusion. This sample was annealed by 1<ce:hsp sp="0.25"></ce:hsp>h in a continuous argon flux at the temperatures of 500, 600 and 650<ce:hsp sp="0.25"></ce:hsp>°C; close to the points A, B and C of this figure. <ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+<ce:float-anchor refid="fig7"></ce:float-anchor> shows the XRD patterns obtained from the sample Ti–72.7<ce:hsp sp="0.25"></ce:hsp>at.% Al (Ti–60<ce:hsp sp="0.25"></ce:hsp>wt.% Al) as prepared after 30<ce:hsp sp="0.25"></ce:hsp>h of milling and annealed at mentioned temperatures. After annealing at 500<ce:hsp sp="0.25"></ce:hsp>°C the diffraction pattern shows a decomposition of the (Ti, Al)H compound into Ti(Al) solid solution. It is not surprising that at this temperature there is not signal from titanium hydride, which is due to hydrogen desorption as was observed in the TGA curve. After annealing at 600<ce:hsp sp="0.25"></ce:hsp>°C the diffraction pattern does not show significant changes respective to the sample annealed at 500<ce:hsp sp="0.25"></ce:hsp>°C. The thermal stability of the mixture apparently was not affected by the temperature near the aluminum fusion. However, for annealing at 650<ce:hsp sp="0.25"></ce:hsp>°C, a clear change is shown in the diffractogram, where crystalline phase of Al<ce:inf loc="post">2</ce:inf>Ti is identified. On the other side, low intensity and broadened peaks from Al or Ti(Al) phase are still observed. We assume that two exothermic events (B and C) are taking place; one corresponds to the formation of Al<ce:inf loc="post">2</ce:inf>Ti phase, which is maintaining a compromise with a second endothermic event, fusion of remnant aluminum. This behavior can be described by the next relation:<ce:display>
+<ce:formula>
+<ce:label>(3)</ce:label>
+<mml:math altimg="si3.gif" overflow="scroll">
+<mml:mrow>
+<mml:mtext>Ti</mml:mtext>
+<mml:msub>
+<mml:mtext>H</mml:mtext>
+<mml:mrow>
+<mml:mn>1.924</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mo>+</mml:mo>
+<mml:mtext>Al</mml:mtext>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>Ti</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>+</mml:mo>
+<mml:mtext>Ti</mml:mtext>
+<mml:mover>
+<mml:mo stretchy="true">⟶</mml:mo>
+<mml:mrow>
+<mml:mn>500</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mo>°</mml:mo>
+<mml:mtext>C</mml:mtext>
+</mml:mrow>
+</mml:mover>
+<mml:mtext>Ti</mml:mtext>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>Al</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>+</mml:mo>
+<mml:mtext>Al</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:msub>
+<mml:mtext>H</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:mo>↑</mml:mo>
+<mml:mtext>Ti</mml:mtext>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>Al</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>+</mml:mo>
+<mml:mtext>Al</mml:mtext>
+<mml:mover>
+<mml:mo stretchy="true">⟶</mml:mo>
+<mml:mrow>
+<mml:mn>650</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mo>°</mml:mo>
+<mml:mtext>C</mml:mtext>
+</mml:mrow>
+</mml:mover>
+<mml:mtext>Ti</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:mtext>A</mml:mtext>
+<mml:msub>
+<mml:mtext>l</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:mtext>Ti</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:mtext>Al</mml:mtext>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>
+</ce:para>
+<ce:para view="all">TG–DTA curves from the sample Ti–94.1<ce:hsp sp="0.25"></ce:hsp>at.% Al (Ti–90<ce:hsp sp="0.25"></ce:hsp>wt.% Al) after 36<ce:hsp sp="0.25"></ce:hsp>h of milling time are shown also in <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref> (solid lines). For this sample the Ti content is low, and consequently its capacity to form TiH<ce:inf loc="post">1.942</ce:inf> is limited, as already shown by the TG curve. The loss of mass in the range from 200 to 600<ce:hsp sp="0.25"></ce:hsp>°C due to hydrogen desorption is less than 0.1<ce:hsp sp="0.25"></ce:hsp>g (∼0.9<ce:hsp sp="0.25"></ce:hsp>wt.%). The DTA curve does not show notable thermal events before 600<ce:hsp sp="0.25"></ce:hsp>°C, except a wide exothermic peak centered at about 450<ce:hsp sp="0.25"></ce:hsp>°C. This released energy is associated with both mass loss and reordering events of the system. For higher temperatures, three events are marked: an endothermic (point A′, 659<ce:hsp sp="0.25"></ce:hsp>°C) and two exothermic events (point B′, 726 and C′, 853<ce:hsp sp="0.25"></ce:hsp>°C). Point A′ corresponds to fusion of Al, while B′ and C′ are phase transformations that can be understood from XRD measurements on annealed samples as shown in <ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>
+<ce:float-anchor refid="fig8"></ce:float-anchor>. This figure was constructed with plots of diffractograms obtained with samples annealed at 500 and 850<ce:hsp sp="0.25"></ce:hsp>°C by 1<ce:hsp sp="0.25"></ce:hsp>h under argon atmosphere. The plot of the sample “as prepared” defines the presence of TiH<ce:inf loc="post">1.942</ce:inf> and Al(Ti) phases, while the patterns for the sample annealed at 500<ce:hsp sp="0.25"></ce:hsp>°C showed peaks of elemental Al and the intermetallic Al<ce:inf loc="post">3</ce:inf>Ti that can be formed according to the next reaction:<ce:display>
+<ce:formula>
+<ce:label>(4)</ce:label>
+<mml:math altimg="si4.gif" overflow="scroll">
+<mml:mrow>
+<mml:mtext>Ti</mml:mtext>
+<mml:msub>
+<mml:mtext>H</mml:mtext>
+<mml:mrow>
+<mml:mn>1.924</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mo>+</mml:mo>
+<mml:mtext>Al</mml:mtext>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>Ti</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mover>
+<mml:mo stretchy="true">⟶</mml:mo>
+<mml:mrow>
+<mml:mn>500</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mo>°</mml:mo>
+<mml:mtext>C</mml:mtext>
+</mml:mrow>
+</mml:mover>
+<mml:mtext>A</mml:mtext>
+<mml:msub>
+<mml:mtext>l</mml:mtext>
+<mml:mn>3</mml:mn>
+</mml:msub>
+<mml:mtext>Ti</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:mtext>Al</mml:mtext>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>Ti</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>+</mml:mo>
+<mml:msub>
+<mml:mtext>H</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:mo>+</mml:mo>
+<mml:mo>↑</mml:mo>
+<mml:mtext>A</mml:mtext>
+<mml:msub>
+<mml:mtext>l</mml:mtext>
+<mml:mn>3</mml:mn>
+</mml:msub>
+<mml:mtext>Ti</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:mtext>Al</mml:mtext>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>Ti</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mover>
+<mml:mo stretchy="true">⟶</mml:mo>
+<mml:mrow>
+<mml:mn>850</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mo>°</mml:mo>
+<mml:mtext>C</mml:mtext>
+</mml:mrow>
+</mml:mover>
+<mml:mtext>A</mml:mtext>
+<mml:msub>
+<mml:mtext>l</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:msub>
+<mml:mtext>O</mml:mtext>
+<mml:mn>3</mml:mn>
+</mml:msub>
+<mml:mo>+</mml:mo>
+<mml:mtext>Al</mml:mtext>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>Ti</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>
+</ce:para>
+<ce:para view="all">XRD results for the sample annealed at 850<ce:hsp sp="0.25"></ce:hsp>°C proved that some oxygen is absorbed by Al to form Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> in addition to formation of the intermetallic Al<ce:inf loc="post">3</ce:inf>Ti with respect to the sample annealed at 500<ce:hsp sp="0.25"></ce:hsp>°C. Oxygen absorption could occur due to the reaction of powders with residual oxygen in the annealing atmosphere. Thus, the exothermic peaks B′ and C′, in <ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>, can be associated with the phase transformation needed to form intermetallic Al<ce:inf loc="post">3</ce:inf>Ti and Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, respectively.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">Indirect reactive ball milling was successfully applied to obtain different nanocrystalline and amorphous powder alloys of the Ti–Al binary system. The effect of the milling time on the structural evolution and thermal stability of the samples was studied. A TiH<ce:inf loc="post">1.924</ce:inf> phase was invariably detected by XRD in all compositions even after 4<ce:hsp sp="0.25"></ce:hsp>h of milling by IRBM. We confirmed that the in situ formation of titanium hydride material lead to an efficient and effective grain size reduction in the samples regardless of the aluminium content during milling. Compositions with Al contents less than <ce:italic>x</ce:italic> ≤ 43.2<ce:hsp sp="0.25"></ce:hsp>at.% showed faster grain size reduction. The grain size observed from TEM micrographs and confirmed with the profile analysis of XRD patterns was less than 15<ce:hsp sp="0.25"></ce:hsp>nm after very short milling times (4<ce:hsp sp="0.25"></ce:hsp>h) and less than 5 and 10<ce:hsp sp="0.25"></ce:hsp>nm for alloys with low (milled by 8<ce:hsp sp="0.25"></ce:hsp>h) and high Al contents (milled by 36<ce:hsp sp="0.25"></ce:hsp>h), respectively. Samples with high Ti content need special care after milling, due to the high reactivity of the powders of TiH<ce:inf loc="post">1.924</ce:inf> and Ti(Al) when they are exposed to nitrogen and oxygen atmosphere. The corresponding TiN contaminant formation was detected when the powders were exposed to the ambient environment.</ce:para>
+<ce:para view="all">For the maximum milling time, about 36<ce:hsp sp="0.25"></ce:hsp>h, samples with high Al content were amorphous or nanostructured with a crystalline grain less than 10<ce:hsp sp="0.25"></ce:hsp>nm embedded in an amorphous matrix. DTA and TGA results showed the hydrogen desorption and some structure reordering in the temperature range of 200 to 600<ce:hsp sp="0.25"></ce:hsp>°C. As temperature increased, amorphous and/or metastable phases changed to more stable phases such as Al<ce:inf loc="post">2</ce:inf>Ti and Al<ce:inf loc="post">3</ce:inf>Ti intermetallic compounds.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgements</ce:section-title>
+<ce:para view="all">This work was supported by CONACYT under the research project G33178-U, and partially by CONCyTEQ (Querétaro, México). The authors recognize the helpful participation of L.L. Díaz Flores, M.A. Hernández Landaverde, R. Flores Farías, M.C. Delgado Cruz, J.E. Urbina Alvarez, and R. Martinez (CIMAV).</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Janot</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Rougier</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Aymard</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Lenain</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Herrera-Urbina</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.A.</ce:given-name>
+<ce:surname>Nazri</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.M.</ce:given-name>
+<ce:surname>Tarascon</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>438</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>356</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Suryanarayama</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Prog. Mater. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>46</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>P.L.</ce:given-name>
+<ce:surname>Martin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.A.</ce:given-name>
+<ce:surname>Hardwick</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>J.H.</ce:given-name>
+<ce:surname>Westbrook</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>R.L.</ce:given-name>
+<ce:surname>Fleischer</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>Intermetallic Compounds</sb:maintitle>
+</sb:title>
+<sb:date>1994</sb:date>
+<sb:publisher>
+<sb:name>Wiley</sb:name>
+<sb:location>New York</sb:location>
+</sb:publisher>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>637</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Takasaki</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Furuya</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Nanostruct. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>11</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1205</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Itsukaichi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Masuyama</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Umemoto</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Okane</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.G.</ce:given-name>
+<ce:surname>Cabanas-Moreno</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>8</sb:volume-nr>
+</sb:series>
+<sb:date>1993</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1817</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Oehring</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Klassen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Bormann</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>8</sb:volume-nr>
+</sb:series>
+<sb:date>1993</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2819</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.Y.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.G.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.L.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>10</sb:volume-nr>
+</sb:series>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1247</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Orimo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Fujii</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Yoshino</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>217</sb:volume-nr>
+</sb:series>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>287</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Fuji</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Kuzutani</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Nakabo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Ameyama</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Jpn. Inst. Met.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>62</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>462</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Calka</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.S.</ce:given-name>
+<ce:surname>Williams</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Forum</sb:maintitle>
+</sb:title>
+<sb:volume-nr>88</sb:volume-nr>
+</sb:series>
+<sb:date>1992</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>787</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.L.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.Y.</ce:given-name>
+<ce:surname>Ying</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Lett.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>50</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>149</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Itsukaichi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Shiga</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Masuyama</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Umemoto</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Okane</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Forum</sb:maintitle>
+</sb:title>
+<sb:volume-nr>88</sb:volume-nr>
+</sb:series>
+<sb:date>1992</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>631</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.S.</ce:given-name>
+<ce:surname>Benjamin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.J.</ce:given-name>
+<ce:surname>Bomford</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metall. Trans.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>8A</sb:volume-nr>
+</sb:series>
+<sb:date>1977</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1301</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Burgio</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Guo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Magín</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Padella</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Martelli</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Soletta</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Proc. ASM Int. Conf. Struct. Appl. Mech. Alloying</sb:maintitle>
+</sb:title>
+</sb:series>
+<sb:date>1990</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>175</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Hashi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Ishikawa</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Suzuki</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Aoki</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>330</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>547</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib16">
+<ce:label>[16]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>F.J.</ce:given-name>
+<ce:surname>Espinoza-Beltrán</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>O.</ce:given-name>
+<ce:surname>Ceh-Soberanis</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>García-González</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Morales-Hernández</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Thin Solid Films</sb:maintitle>
+</sb:title>
+<sb:volume-nr>437</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>170</sb:first-page>
+<sb:last-page>175</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib17">
+<ce:label>[17]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.I.</ce:given-name>
+<ce:surname>Moon</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.S.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>264</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>258</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib18">
+<ce:label>[18]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.I.</ce:given-name>
+<ce:surname>Moon</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.S.</ce:given-name>
+<ce:surname>Park</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.S.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>325</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>236</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib19">
+<ce:label>[19]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Takasaki</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Furuya</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Nanostruct. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>11</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1205</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib20">
+<ce:label>[20]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Lu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.O.</ce:given-name>
+<ce:surname>Lai</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>297</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>211</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib21">
+<ce:label>[21]</ce:label>
+<ce:other-ref>
+<ce:textref>H.A. Calderón, V. Garibay-Febles, A. Cabrera, M. Umemoto, J.G. Cabañas-Moreno, K. Tsuchiya, Mater. Res. Soc. Symp. Proc., vol. 552, 1999, Materials Research Society, KK5.6.1.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

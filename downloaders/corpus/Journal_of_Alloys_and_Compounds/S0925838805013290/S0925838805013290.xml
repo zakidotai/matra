@@ -1,0 +1,1586 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838805013290</prism:url><dc:identifier>doi:10.1016/j.jallcom.2005.07.062</dc:identifier><eid>1-s2.0-S0925838805013290</eid><prism:doi>10.1016/j.jallcom.2005.07.062</prism:doi><pii>S0925-8388(05)01329-0</pii><dc:title>Crystallization kinetics of a bulk amorphous Cu–Ti–Zr–Ni alloy investigated by differential scanning calorimetry </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>415</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>106</prism:startingpage><prism:endingpage>110</prism:endingpage><prism:pagerange>106-110</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2006-05-18</prism:coverdate><prism:coverdisplaydate>18 May 2006</prism:coverdisplaydate><prism:copyright>Copyright © 2005 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Yang, Y.J.</dc:creator><dc:creator>Xing, D.W.</dc:creator><dc:creator>Shen, J.</dc:creator><dc:creator>Sun, J.F.</dc:creator><dc:creator>Wei, S.D.</dc:creator><dc:creator>He, H.J.</dc:creator><dc:creator>McCartney, D.G.</dc:creator><dc:description>
+                  The crystallization kinetics of a newly developed bulk amorphous Cu52.5Ti30Zr11.5Ni6 alloy was investigated by differential scanning calorimetry. Under continuous heating conditions, the activation energies for the glass transition and crystallization at the onset, first peak and second peak crystallization temperatures are determined by means of Kissinger plots to be 356.86, 296.52, 288.77 and 257.19kJ/mol, respectively. However, under isothermal conditions the average activation energy for crystallization is about 377.6kJ/mol obtained by using the Arrhenius equation, which is much larger than that deduced from Kissinger plots. The local Avrami exponent n(x) is mostly in the range 2.4–3.1, implying that the crystallization is mainly governed by diffusion-controlled, three-dimensional growth with nearly constant nucleation rate.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Bulk metallic glass</dcterms:subject><dcterms:subject>Crystallization kinetics</dcterms:subject><dcterms:subject>Activation energy</dcterms:subject><dcterms:subject>Avrami exponent</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838805013290" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838805013290" rel="scidir"/></coredata><objects><object category="thumbnail" height="40" mimetype="image/gif" multimediatype="GIF image file" ref="si1" size="972" type="ALTIMG" width="197">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013290-si1.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="39" mimetype="image/gif" multimediatype="GIF image file" ref="si2" size="721" type="ALTIMG" width="135">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013290-si2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="39" mimetype="image/gif" multimediatype="GIF image file" ref="si4" size="909" type="ALTIMG" width="157">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013290-si4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="17" mimetype="image/gif" multimediatype="GIF image file" ref="si3" size="618" type="ALTIMG" width="180">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013290-si3.gif?httpAccept=%2A%2F%2A</object><object category="standard" height="234" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="15434" type="IMAGE-DOWNSAMPLED" width="334">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013290-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="87" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="2221" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013290-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="248" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr7" size="21251" type="IMAGE-DOWNSAMPLED" width="332">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013290-gr7.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="2590" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013290-gr7.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="242" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr5" size="17987" type="IMAGE-DOWNSAMPLED" width="324">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013290-gr5.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="2504" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013290-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="319" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr8" size="94223" type="IMAGE-DOWNSAMPLED" width="503">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013290-gr8.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="79" mimetype="image/gif" multimediatype="GIF image file" ref="gr8" size="5588" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013290-gr8.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="248" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="21069" type="IMAGE-DOWNSAMPLED" width="329">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013290-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="2799" type="IMAGE-THUMBNAIL" width="124">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013290-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="251" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="23086" type="IMAGE-DOWNSAMPLED" width="324">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013290-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="2615" type="IMAGE-THUMBNAIL" width="120">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013290-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="229" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="17014" type="IMAGE-DOWNSAMPLED" width="332">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013290-gr4.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="86" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="2289" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013290-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="248" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr6" size="15473" type="IMAGE-DOWNSAMPLED" width="336">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013290-gr6.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="92" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="2037" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013290-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="243" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr9" size="23587" type="IMAGE-DOWNSAMPLED" width="334">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013290-gr9.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="91" mimetype="image/gif" multimediatype="GIF image file" ref="gr9" size="2813" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013290-gr9.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>33646151853</scopus-id><scopus-eid>2-s2.0-33646151853</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/33646151853" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20050916">2005-09-16</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20050916">2005-09-16</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-03-29T07:36:02</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838805013290</xocs:eid>
+<xocs:pii-formatted>S0925-8388(05)01329-0</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805013290</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2005.07.062</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838806X02530</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.349087-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20060518</xocs:date-search-begin>
+<xocs:year-nav>2006</xocs:year-nav>
+<xocs:indexeddate epoch="1126828800">2005-09-16T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body mmlmath affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>415</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>415</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 415, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>20</xocs:sort-order>
+<xocs:first-fp>106</xocs:first-fp>
+<xocs:last-lp>110</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>106</xocs:first-page>
+<xocs:last-page>110</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20060518</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>18 May 2006</xocs:cover-date-text>
+<xocs:cover-date-start>2006-05-18</xocs:cover-date-start>
+<xocs:cover-date-year>2006</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Metallurgy</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2005 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>CRYSTALLIZATIONKINETICSABULKAMORPHOUSCUTIZRNIALLOYINVESTIGATEDBYDIFFERENTIALSCANNINGCALORIMETRY</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>YANG</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>Y</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>TELFORD</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>36</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>INOUE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>1892</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>INOUE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>2645</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>INOUE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>2921</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>2220</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>2647</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>JIANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>4041</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>200</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>OTHMAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>130</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>GAO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>1894</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>WEI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>263</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>QI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>215</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13">
+<xocs:ref-normalized-surname>CHRISTIAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1965</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>THEORYTRANSFORMATIONINMETALSALLOYS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>YAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>709</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15">
+<xocs:ref-normalized-surname>SAIDA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>311</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib16"></xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>YANGX2006X106</xocs:refkey3>
+<xocs:refkey4lp>YANGX2006X106X110</xocs:refkey4lp>
+<xocs:refkey4ai>YANGX2006X106XY</xocs:refkey4ai>
+<xocs:refkey5>YANGX2006X106X110XY</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(05)01329-0</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805013290</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838805013290</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2005.07.062</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-08T03:45:56.374779-04:00</xocs:timestamp>
+<xocs:cover-date-start>2006-05-18</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838805013290-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013290/MAIN/application/pdf/62f173b6c60011b8807175b5d4cf196a/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013290/MAIN/application/pdf/62f173b6c60011b8807175b5d4cf196a/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>364561</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838805013290-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013290/PREVIEW/image/png/b819be8f112af37ee25a2960bc9abee9/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013290/PREVIEW/image/png/b819be8f112af37ee25a2960bc9abee9/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>62656</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013290-si1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013290/STRIPIN/image/gif/0fad872143dc2f87e87dd81f74bcd2f0/si1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013290/STRIPIN/image/gif/0fad872143dc2f87e87dd81f74bcd2f0/si1.gif</xocs:ucs-locator>
+<xocs:file-basename>si1</xocs:file-basename>
+<xocs:filename>si1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>972</xocs:filesize>
+<xocs:pixel-height>40</xocs:pixel-height>
+<xocs:pixel-width>197</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013290-si2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013290/STRIPIN/image/gif/bba9334e2f62b37af0ec237e66c04725/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013290/STRIPIN/image/gif/bba9334e2f62b37af0ec237e66c04725/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si2</xocs:file-basename>
+<xocs:filename>si2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>721</xocs:filesize>
+<xocs:pixel-height>39</xocs:pixel-height>
+<xocs:pixel-width>135</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013290-si4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013290/STRIPIN/image/gif/a61eb2298ecb48f50419cac24e285ffc/si4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013290/STRIPIN/image/gif/a61eb2298ecb48f50419cac24e285ffc/si4.gif</xocs:ucs-locator>
+<xocs:file-basename>si4</xocs:file-basename>
+<xocs:filename>si4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>909</xocs:filesize>
+<xocs:pixel-height>39</xocs:pixel-height>
+<xocs:pixel-width>157</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013290-si3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013290/STRIPIN/image/gif/a49c554edc9eb2ab6b305e5de7e0e3e3/si3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013290/STRIPIN/image/gif/a49c554edc9eb2ab6b305e5de7e0e3e3/si3.gif</xocs:ucs-locator>
+<xocs:file-basename>si3</xocs:file-basename>
+<xocs:filename>si3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>618</xocs:filesize>
+<xocs:pixel-height>17</xocs:pixel-height>
+<xocs:pixel-width>180</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013290-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013290/gr3/DOWNSAMPLED/image/jpeg/70550c1f24891c7372dbe3ad5d15d076/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013290/gr3/DOWNSAMPLED/image/jpeg/70550c1f24891c7372dbe3ad5d15d076/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>15434</xocs:filesize>
+<xocs:pixel-height>234</xocs:pixel-height>
+<xocs:pixel-width>334</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013290-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013290/gr3/THUMBNAIL/image/gif/abbf18d2d5fad9029b0ce1a846485723/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013290/gr3/THUMBNAIL/image/gif/abbf18d2d5fad9029b0ce1a846485723/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2221</xocs:filesize>
+<xocs:pixel-height>87</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013290-gr7.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013290/gr7/DOWNSAMPLED/image/jpeg/4bb5d7abfe7d04570704266137f2e8bc/gr7.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013290/gr7/DOWNSAMPLED/image/jpeg/4bb5d7abfe7d04570704266137f2e8bc/gr7.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>21251</xocs:filesize>
+<xocs:pixel-height>248</xocs:pixel-height>
+<xocs:pixel-width>332</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013290-gr7.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013290/gr7/THUMBNAIL/image/gif/8abc7beeb73628e71284b02d352aa3cc/gr7.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013290/gr7/THUMBNAIL/image/gif/8abc7beeb73628e71284b02d352aa3cc/gr7.sml</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2590</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013290-gr5.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013290/gr5/DOWNSAMPLED/image/jpeg/2f34620b6ab4276cc01b4e4d9c7ad333/gr5.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013290/gr5/DOWNSAMPLED/image/jpeg/2f34620b6ab4276cc01b4e4d9c7ad333/gr5.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>17987</xocs:filesize>
+<xocs:pixel-height>242</xocs:pixel-height>
+<xocs:pixel-width>324</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013290-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013290/gr5/THUMBNAIL/image/gif/b852ea8b9622800dd4a8d31ebd58109a/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013290/gr5/THUMBNAIL/image/gif/b852ea8b9622800dd4a8d31ebd58109a/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2504</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013290-gr8.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013290/gr8/DOWNSAMPLED/image/jpeg/0326741c59997d01ceab5cecc670109c/gr8.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013290/gr8/DOWNSAMPLED/image/jpeg/0326741c59997d01ceab5cecc670109c/gr8.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>94223</xocs:filesize>
+<xocs:pixel-height>319</xocs:pixel-height>
+<xocs:pixel-width>503</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013290-gr8.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013290/gr8/THUMBNAIL/image/gif/eca97de1222e998545c4737e1152c390/gr8.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013290/gr8/THUMBNAIL/image/gif/eca97de1222e998545c4737e1152c390/gr8.sml</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>5588</xocs:filesize>
+<xocs:pixel-height>79</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013290-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013290/gr1/DOWNSAMPLED/image/jpeg/91f5802abb992654e56fe4d7ba9ef91c/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013290/gr1/DOWNSAMPLED/image/jpeg/91f5802abb992654e56fe4d7ba9ef91c/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>21069</xocs:filesize>
+<xocs:pixel-height>248</xocs:pixel-height>
+<xocs:pixel-width>329</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013290-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013290/gr1/THUMBNAIL/image/gif/987c0800b3498bd748a86ebcc1064b87/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013290/gr1/THUMBNAIL/image/gif/987c0800b3498bd748a86ebcc1064b87/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2799</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>124</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013290-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013290/gr2/DOWNSAMPLED/image/jpeg/73f1dd6155d252b89200ace5bb09c1e3/gr2.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013290/gr2/DOWNSAMPLED/image/jpeg/73f1dd6155d252b89200ace5bb09c1e3/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>23086</xocs:filesize>
+<xocs:pixel-height>251</xocs:pixel-height>
+<xocs:pixel-width>324</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013290-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013290/gr2/THUMBNAIL/image/gif/d2f4c6b49a9f7c1add0f4c400617ff26/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013290/gr2/THUMBNAIL/image/gif/d2f4c6b49a9f7c1add0f4c400617ff26/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2615</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>120</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013290-gr4.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013290/gr4/DOWNSAMPLED/image/jpeg/005d058d5815e12998b75d17c982d288/gr4.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013290/gr4/DOWNSAMPLED/image/jpeg/005d058d5815e12998b75d17c982d288/gr4.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>17014</xocs:filesize>
+<xocs:pixel-height>229</xocs:pixel-height>
+<xocs:pixel-width>332</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013290-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013290/gr4/THUMBNAIL/image/gif/3a60e2ab015a6739857835be197a2b46/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013290/gr4/THUMBNAIL/image/gif/3a60e2ab015a6739857835be197a2b46/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2289</xocs:filesize>
+<xocs:pixel-height>86</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013290-gr6.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013290/gr6/DOWNSAMPLED/image/jpeg/483c1698f68a313bd9a98adcec7a32bc/gr6.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013290/gr6/DOWNSAMPLED/image/jpeg/483c1698f68a313bd9a98adcec7a32bc/gr6.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>15473</xocs:filesize>
+<xocs:pixel-height>248</xocs:pixel-height>
+<xocs:pixel-width>336</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013290-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013290/gr6/THUMBNAIL/image/gif/0495cfea9d0fc5a945744c467296d9f2/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013290/gr6/THUMBNAIL/image/gif/0495cfea9d0fc5a945744c467296d9f2/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2037</xocs:filesize>
+<xocs:pixel-height>92</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013290-gr9.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013290/gr9/DOWNSAMPLED/image/jpeg/4c72b842fd8a4267c9cd3777b01c8408/gr9.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013290/gr9/DOWNSAMPLED/image/jpeg/4c72b842fd8a4267c9cd3777b01c8408/gr9.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>23587</xocs:filesize>
+<xocs:pixel-height>243</xocs:pixel-height>
+<xocs:pixel-width>334</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013290-gr9.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013290/gr9/THUMBNAIL/image/gif/7820bfe9c312537313060613f2e6b6e4/gr9.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013290/gr9/THUMBNAIL/image/gif/7820bfe9c312537313060613f2e6b6e4/gr9.sml</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2813</xocs:filesize>
+<xocs:pixel-height>91</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>13050</aid>
+<ce:pii>S0925-8388(05)01329-0</ce:pii>
+<ce:doi>10.1016/j.jallcom.2005.07.062</ce:doi>
+<ce:copyright type="full-transfer" year="2005">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRD patterns taken from the cross-section of the as-cast 5<ce:hsp sp="0.25"></ce:hsp>mm (a) and 3<ce:hsp sp="0.25"></ce:hsp>mm (b) Cu<ce:inf loc="post">52.5</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Zr<ce:inf loc="post">11.5</ce:inf>Ni<ce:inf loc="post">6</ce:inf> alloys.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">DSC curves of the bulk amorphous Cu<ce:inf loc="post">52.5</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Zr<ce:inf loc="post">11.5</ce:inf>Ni<ce:inf loc="post">6</ce:inf> alloy at different heating rates.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Kissinger plots of the bulk amorphous Cu<ce:inf loc="post">52.5</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Zr<ce:inf loc="post">11.5</ce:inf>Ni<ce:inf loc="post">6</ce:inf> alloy.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Isothermal DSC curves of the bulk amorphous Cu<ce:inf loc="post">52.5</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Zr<ce:inf loc="post">11.5</ce:inf>Ni<ce:inf loc="post">6</ce:inf> alloy.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Relationship between crystallized volume fraction and annealing time at different temperatures.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Activation energy <ce:italic>E</ce:italic>(<ce:italic>x</ce:italic>) vs. <ce:italic>x</ce:italic> deduced from Arrhenius equation.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+<ce:figure id="fig7">
+<ce:label>Fig. 7</ce:label>
+<ce:caption>
+<ce:simple-para view="all">JMA plots for the crystallization of the bulk amorphous Cu<ce:inf loc="post">52.5</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Zr<ce:inf loc="post">11.5</ce:inf>Ni<ce:inf loc="post">6</ce:inf> alloy at different annealing temperatures.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr7"></ce:link>
+</ce:figure>
+<ce:figure id="fig8">
+<ce:label>Fig. 8</ce:label>
+<ce:caption>
+<ce:simple-para view="all">TEM images showing the morphologies of the quenched-in crystal (a) and the precipitated crystalline particles surrounding a quenched-in crystals (b) in the as-cast and isothermal annealed Zr<ce:inf loc="post">56.6</ce:inf>Cu<ce:inf loc="post">17.3</ce:inf>Ni<ce:inf loc="post">12.5</ce:inf>Al<ce:inf loc="post">9.6</ce:inf>Ti<ce:inf loc="post">4</ce:inf> alloys, respectively <ce:cross-ref refid="bib16">[16]</ce:cross-ref>.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr8"></ce:link>
+</ce:figure>
+<ce:figure id="fig9">
+<ce:label>Fig. 9</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Relationship between local Avrami exponent <ce:italic>n</ce:italic>(<ce:italic>x</ce:italic>) and crystallized volume fraction <ce:italic>x</ce:italic> at different annealing temperatures.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr9"></ce:link>
+</ce:figure>
+<ce:table colsep="0" frame="topbot" id="tbl1" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">The characteristic temperatures <ce:italic>T</ce:italic>
+<ce:inf loc="post">g</ce:inf>, <ce:italic>T</ce:italic>
+<ce:inf loc="post">x</ce:inf>, <ce:italic>T</ce:italic>
+<ce:inf loc="post">p1</ce:inf> and <ce:italic>T</ce:italic>
+<ce:inf loc="post">p2</ce:inf> of bulk amorphous Cu<ce:inf loc="post">52.5</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Zr<ce:inf loc="post">11.5</ce:inf>Ni<ce:inf loc="post">6</ce:inf> alloy at different heating rates</ce:simple-para>
+</ce:caption>
+<tgroup cols="5">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<colspec colname="col5"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>ϕ</italic> (K/min)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>T</italic>
+<inf loc="post">g</inf> (K)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>T</italic>
+<inf loc="post">x</inf> (K)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>T</italic>
+<inf loc="post">p1</inf> (K)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>T</italic>
+<inf loc="post">p2</inf> (K)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">10</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">681.2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">725.1</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">729.8</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">780.6</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">20</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">688.1</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">734.5</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">738.1</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">792.9</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">40</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">694.4</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">745.8</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">749.5</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">806.6</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">60</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">299.6</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">750.4</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">755.2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">814.4</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">80</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">704.1</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">755.9</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">761.8</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">822.3</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl2" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">The kinetic parameters of bulk amorphous Cu<ce:inf loc="post">52.5</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Zr<ce:inf loc="post">11.5</ce:inf>Ni<ce:inf loc="post">6</ce:inf> alloy isothermally annealed in the supercooled liquid region</ce:simple-para>
+</ce:caption>
+<tgroup cols="4">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Annealing temperature (K)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Incubation time (min)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Avrami exponent</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>t</italic>
+<inf loc="post">99%</inf>
+<hsp sp="0.25"></hsp>–<hsp sp="0.25"></hsp>
+<italic>t</italic>
+<inf loc="post">0.5%</inf> (min)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">738</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.51</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.48</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.53</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">731</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.54</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.64</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.93</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">724</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.88</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.57</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.81</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">717</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.53</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.52</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">3.20</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">710</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">3.04</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.42</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">5.71</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+</ce:floats>
+<ce:title>Crystallization kinetics of a bulk amorphous Cu–Ti–Zr–Ni alloy investigated by differential scanning calorimetry</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>Y.J.</ce:given-name>
+<ce:surname>Yang</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>D.W.</ce:given-name>
+<ce:surname>Xing</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Shen</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="aff3">
+<ce:sup loc="post">c</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="cor1">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>J.F.</ce:given-name>
+<ce:surname>Sun</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>S.D.</ce:given-name>
+<ce:surname>Wei</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>H.J.</ce:given-name>
+<ce:surname>He</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>D.G.</ce:given-name>
+<ce:surname>McCartney</ce:surname>
+<ce:cross-ref refid="aff3">
+<ce:sup loc="post">c</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation id="aff1">
+<ce:label>a</ce:label>
+<ce:textfn>School of Materials Science and Engineering, Harbin Institute of Technology, Harbin 150001, China</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff2">
+<ce:label>b</ce:label>
+<ce:textfn>Department of Mechanical Engineering, Aviation University of Air Force, Changchun 130022, China</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff3">
+<ce:label>c</ce:label>
+<ce:textfn>School of Mechanical, Materials and Manufacturing Engineering, University of Nottingham, University Park, Nottingham NG7 2RD, UK</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>⁎</ce:label>
+<ce:text>Corresponding author. Tel.: +86 451 86418317; fax: +86 451 86415776.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="5" month="7" year="2005"></ce:date-received>
+<ce:date-accepted day="27" month="7" year="2005"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">The crystallization kinetics of a newly developed bulk amorphous Cu<ce:inf loc="post">52.5</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Zr<ce:inf loc="post">11.5</ce:inf>Ni<ce:inf loc="post">6</ce:inf> alloy was investigated by differential scanning calorimetry. Under continuous heating conditions, the activation energies for the glass transition and crystallization at the onset, first peak and second peak crystallization temperatures are determined by means of Kissinger plots to be 356.86, 296.52, 288.77 and 257.19<ce:hsp sp="0.25"></ce:hsp>kJ/mol, respectively. However, under isothermal conditions the average activation energy for crystallization is about 377.6<ce:hsp sp="0.25"></ce:hsp>kJ/mol obtained by using the Arrhenius equation, which is much larger than that deduced from Kissinger plots. The local Avrami exponent <ce:italic>n</ce:italic>(<ce:italic>x</ce:italic>) is mostly in the range 2.4–3.1, implying that the crystallization is mainly governed by diffusion-controlled, three-dimensional growth with nearly constant nucleation rate.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Bulk metallic glass</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Crystallization kinetics</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Activation energy</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Avrami exponent</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Bulk metallic glasses (BMGs) or bulk amorphous alloys (BAAs) are promising materials for special structural or functional use owing to specific superior properties compared to their crystalline counterparts <ce:cross-refs refid="bib1 bib2">[1,2]</ce:cross-refs>. In recent years, Inoue et al. have succeeded in fabricating new Cu-based BMGs in Cu-(Zr,Hf)-Ti <ce:cross-ref refid="bib3">[3]</ce:cross-ref> and Cu-(Zr,Hf)-Al <ce:cross-refs refid="bib4 bib5">[4,5]</ce:cross-refs> systems containing more than 50<ce:hsp sp="0.25"></ce:hsp>at.% Cu. Cu-based BMGs possess many potential advantages over other amorphous alloys, including higher fracture strength and elastic moduli, and lower materials cost, etc. A great deal of effort has been devoted to exploring new Cu-based BMGs. In particular, subsequent study has demonstrated Cu-(Zr,Hf)-Ti BMGs consist of a glassy phase and nanocrystalline particles with a size range of 3–5<ce:hsp sp="0.25"></ce:hsp>nm <ce:cross-refs refid="bib6 bib7">[6,7]</ce:cross-refs>. The nanocrystalline particles make a significant contribution to the good mechanical properties of Cu-based bulk amorphous alloys. Thus, it is necessary to understand the thermal stability and microstructural evolution for gaining a controlled crystallization. The investigation of crystallization kinetics is an important approach to assessing the thermal stability of amorphous alloys. However, too limited information is available to date for understanding the crystallization kinetics of Cu-based BMGs.</ce:para>
+<ce:para view="all">Recently, the present authors have developed a new Cu<ce:inf loc="post">52.5</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Zr<ce:inf loc="post">11.5</ce:inf>Ni<ce:inf loc="post">6</ce:inf> amorphous alloy with a good glass forming ability (GFA). It can be quenched into glassy samples up to 5<ce:hsp sp="0.25"></ce:hsp>mm in diameter by the copper mold casting method, and exhibits high fracture strength exceeding 2180<ce:hsp sp="0.25"></ce:hsp>MPa under uniaxial compressive conditions. In this study, the thermal stability and crystallization kinetics of the Cu<ce:inf loc="post">52.5</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Zr<ce:inf loc="post">11.5</ce:inf>Ni<ce:inf loc="post">6</ce:inf> alloy are investigated and the underlying mechanisms are discussed.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental</ce:section-title>
+<ce:para view="all">The alloy ingot with a nominal composition of Cu<ce:inf loc="post">52.5</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Zr<ce:inf loc="post">11.5</ce:inf>Ni<ce:inf loc="post">6</ce:inf> (at.%) was prepared by arc melting mixtures of pure Cu, Ti, Zr and Ni with a purity of better than 99.9% in a Ti-gettered argon atmosphere. The ingot was re-melted three times to ensure chemical homogeneity. Bulk cylindrical samples with diameters of 3 or 5<ce:hsp sp="0.25"></ce:hsp>mm and length of 40<ce:hsp sp="0.25"></ce:hsp>mm were prepared by re-melting the prealloyed ingot on the top of a copper mold, and then casting the molten liquid into the mold. The amorphicity of the as-cast sample was confirmed by X-ray diffractometry (XRD) using Cu Kα radiation. Thermal analysis was conducted using differential scanning calorimetry (Perkin-Elmer, DSC7) under a flowing argon atmosphere.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:para view="all">The as-cast Cu<ce:inf loc="post">52.5</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Zr<ce:inf loc="post">11.5</ce:inf>Ni<ce:inf loc="post">6</ce:inf> samples were determined, by XRD, to be fully amorphous, as shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor>. The broadened halo peak is the typical characteristic of an amorphous structure. <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor> shows the DSC curves of Cu<ce:inf loc="post">52.5</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Zr<ce:inf loc="post">11.5</ce:inf>Ni<ce:inf loc="post">6</ce:inf> BMG performed at different heating rates. The heating rates were chosen as 10, 20, 40, 60 and 80<ce:hsp sp="0.25"></ce:hsp>K/min. As can be seen from <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>, there exists three pronounced exothermic peaks, corresponding to the multiple-stage crystallization mode. The apparent activation energy for glass transition or crystallization of an amorphous alloy under continuous heating conditions is often estimated by the Kissinger equation <ce:cross-ref refid="bib8">[8]</ce:cross-ref>:<ce:display>
+<ce:formula>
+<ce:label>(1)</ce:label>
+<mml:math altimg="si1.gif" overflow="scroll">
+<mml:mrow>
+<mml:mi>ln</mml:mi>
+<mml:mfenced close=")" open="(">
+<mml:mrow>
+<mml:mfrac>
+<mml:mi>ϕ</mml:mi>
+<mml:mrow>
+<mml:msup>
+<mml:mi>T</mml:mi>
+<mml:mn>2</mml:mn>
+</mml:msup>
+</mml:mrow>
+</mml:mfrac>
+</mml:mrow>
+</mml:mfenced>
+<mml:mo>=</mml:mo>
+<mml:mo>−</mml:mo>
+<mml:mfrac>
+<mml:mi>E</mml:mi>
+<mml:mrow>
+<mml:mi>R</mml:mi>
+<mml:mi>T</mml:mi>
+</mml:mrow>
+</mml:mfrac>
+<mml:mo>+</mml:mo>
+<mml:mtext>constant</mml:mtext>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>where <ce:italic>ϕ</ce:italic> is the heating rate; <ce:italic>E</ce:italic> the apparent activation energy for the process; <ce:italic>R</ce:italic> the gas constant; <ce:italic>T</ce:italic> is the specific temperature, such as glass transition temperature, <ce:italic>T</ce:italic>
+<ce:inf loc="post">g</ce:inf>, onset temperature, <ce:italic>T</ce:italic>
+<ce:inf loc="post">x</ce:inf>, or peak temperature, <ce:italic>T</ce:italic>
+<ce:inf loc="post">p</ce:inf>, of crystallization. By plotting ln(<ce:italic>ϕ</ce:italic>/<ce:italic>T</ce:italic>
+<ce:sup loc="post">2</ce:sup>) versus 1/(<ce:italic>RT</ce:italic>), an approximately straight line with a slope of <ce:italic>E</ce:italic>
+<ce:inf loc="post">g</ce:inf>, <ce:italic>E</ce:italic>
+<ce:inf loc="post">x</ce:inf> or <ce:italic>E</ce:italic>
+<ce:inf loc="post">p</ce:inf> can be obtained, in which <ce:italic>E</ce:italic> is the apparent activation energy of the whole reaction. It has been suggested that the Kissinger method is valid for determining the glass transition activation energy <ce:cross-ref refid="bib9">[9]</ce:cross-ref>. In the present work, the glass transition temperature, <ce:italic>T</ce:italic>
+<ce:inf loc="post">g</ce:inf>, the onset crystallization temperature, <ce:italic>T</ce:italic>
+<ce:inf loc="post">x</ce:inf>, the first and second peak temperatures, <ce:italic>T</ce:italic>
+<ce:inf loc="post">p1</ce:inf> and <ce:italic>T</ce:italic>
+<ce:inf loc="post">p2</ce:inf>, respectively, of crystallization were chosen as the specific temperatures to evaluate the activation energies of the amorphous Cu<ce:inf loc="post">52.5</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Zr<ce:inf loc="post">11.5</ce:inf>Ni<ce:inf loc="post">6</ce:inf> alloy. <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+<ce:float-anchor refid="tbl1"></ce:float-anchor> summarizes the characteristic temperatures of the Cu<ce:inf loc="post">52.5</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Zr<ce:inf loc="post">11.5</ce:inf>Ni<ce:inf loc="post">6</ce:inf> alloy at different heating rates. The Kissinger plots are shown in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor>. The activation energies of <ce:italic>E</ce:italic>
+<ce:inf loc="post">g</ce:inf>, <ce:italic>E</ce:italic>
+<ce:inf loc="post">x</ce:inf>, <ce:italic>E</ce:italic>
+<ce:inf loc="post">p1</ce:inf> and <ce:italic>E</ce:italic>
+<ce:inf loc="post">p2</ce:inf> are deduced to be 356.86<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>18.04, 296.52<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>8.34, 288.77<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>13.75 and 257.19<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>6.43<ce:hsp sp="0.25"></ce:hsp>kJ/mol, respectively.</ce:para>
+<ce:para view="all">The isothermal kinetics of Cu<ce:inf loc="post">52.5</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Zr<ce:inf loc="post">11.5</ce:inf>Ni<ce:inf loc="post">6</ce:inf> BMG was characterized by annealing the samples at different temperatures ranging from 710 to 738<ce:hsp sp="0.25"></ce:hsp>K. The DSC traces are shown in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor>. All the DSC traces exhibit single exothermic peaks after a certain incubation period. The crystallized volume fraction, <ce:italic>x</ce:italic>, as a function of annealing time, can be obtained by integrating the area underneath the DSC curve. <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="fig5"></ce:float-anchor> presents the relationship between the crystallized volume fraction and annealing time. The plots obtained display a sigmoidal shape. It can be seen that the incubation time for crystallization becomes longer and the crystallization process becomes slower as the annealing temperature decreases. In the case of isothermal annealing, the Arrhenius equation <ce:cross-ref refid="bib10">[10]</ce:cross-ref> is often used to evaluate the activation energy for crystallization of an amorphous alloy, i.e.,<ce:display>
+<ce:formula>
+<ce:label>(2)</ce:label>
+<mml:math altimg="si2.gif" overflow="scroll">
+<mml:mrow>
+<mml:mi>t</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>x</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>=</mml:mo>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mn>0</mml:mn>
+</mml:msub>
+<mml:mi>exp</mml:mi>
+<mml:mfenced close="]" open="[">
+<mml:mrow>
+<mml:mfrac>
+<mml:mrow>
+<mml:mi>E</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>x</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mi>R</mml:mi>
+<mml:mi>T</mml:mi>
+</mml:mrow>
+</mml:mfrac>
+</mml:mrow>
+</mml:mfenced>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>where <ce:italic>t</ce:italic>
+<ce:inf loc="post">0</ce:inf> is a constant, <ce:italic>E</ce:italic>(<ce:italic>x</ce:italic>) the activation energy for crystallization with the transformed volume fraction <ce:italic>x</ce:italic> and <ce:italic>R</ce:italic> is the gas constant. The plot of ln<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>t</ce:italic>(<ce:italic>x</ce:italic>) versus 1/(<ce:italic>RT</ce:italic>) at a given crystallized volume fraction <ce:italic>x</ce:italic> yields a nearly straight line with a slope of <ce:italic>E</ce:italic>(<ce:italic>x</ce:italic>). <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="fig6"></ce:float-anchor> shows the relationship between the activation energy of amorphous Cu<ce:inf loc="post">52.5</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Zr<ce:inf loc="post">11.5</ce:inf>Ni<ce:inf loc="post">6</ce:inf> alloy and the crystallized volume fraction, <ce:italic>x</ce:italic>. It is seen that at the initial crystallization stage, the activation energy for crystallization of amorphous Cu<ce:inf loc="post">52.5</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Zr<ce:inf loc="post">11.5</ce:inf>Ni<ce:inf loc="post">6</ce:inf> alloy decreases rapidly from 375 to 365<ce:hsp sp="0.25"></ce:hsp>kJ/mol up to <ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>6%, which is very close to <ce:italic>E</ce:italic>
+<ce:inf loc="post">g</ce:inf> obtained from Kissinger equation (358<ce:hsp sp="0.25"></ce:hsp>kJ/mol). The decreasing trend means that the crystallization process proceeds more easily at the initial stage. Then, the activation energy starts to increase steadily and remains almost constant when the crystallized volume fraction falls in the range of 50–90%, implying that the subsequent crystallization process becomes sluggish as the phase transformation proceeds. It is worth noting that the average activation energy obtained by using Arrhenius equation (about 377.6<ce:hsp sp="0.25"></ce:hsp>kJ/mol) is much larger than <ce:italic>E</ce:italic>
+<ce:inf loc="post">x</ce:inf> or <ce:italic>E</ce:italic>
+<ce:inf loc="post">p1</ce:inf> obtained by using Kissinger equation. Wei et al. <ce:cross-ref refid="bib11">[11]</ce:cross-ref> have also observed this phenomenon and indicated the activation energy derived from either Kissinger or Arrhenius plots might have temperature dependence. Compared with isothermal annealing, the sample subjected to continuous heating condition would crystallize at a relatively higher temperature. Crystallization at higher temperatures above <ce:italic>T</ce:italic>
+<ce:inf loc="post">x</ce:inf> makes it easier to transform from the amorphous state to crystalline phases.</ce:para>
+<ce:para view="all">The isothermal annealing time dependence of the crystallized volume fraction, <ce:italic>x</ce:italic>, can be modeled by the Johnson–Mehl–Avrami (JMA) equation as following <ce:cross-ref refid="bib12">[12]</ce:cross-ref>:<ce:display>
+<ce:formula>
+<ce:label>(3)</ce:label>
+<mml:math altimg="si3.gif" overflow="scroll">
+<mml:mrow>
+<mml:mi>x</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>t</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>=</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mo>−</mml:mo>
+<mml:mi>exp</mml:mi>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mo>−</mml:mo>
+<mml:mi>k</mml:mi>
+<mml:msup>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>t</mml:mi>
+<mml:mo>−</mml:mo>
+<mml:mi>τ</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mi>n</mml:mi>
+</mml:msup>
+<mml:mo stretchy="false">]</mml:mo>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>where <ce:italic>x</ce:italic>(<ce:italic>t</ce:italic>) is the crystallized volume fraction, <ce:italic>t</ce:italic> the annealing time, <ce:italic>τ</ce:italic> the incubation time for nucleation (defined as the time scale between the time <ce:italic>t</ce:italic>
+<ce:inf loc="post">0</ce:inf> to <ce:italic>t</ce:italic>
+<ce:inf loc="post">0.5%</ce:inf>, <ce:italic>t</ce:italic>
+<ce:inf loc="post">0</ce:inf> and <ce:italic>t</ce:italic>
+<ce:inf loc="post">0.5%</ce:inf> are the times to reach the annealing temperature and 0.5% crystallized volume fraction, respectively), <ce:italic>k</ce:italic> the reaction rate constant, <ce:italic>R</ce:italic> the gas constant and <ce:italic>n</ce:italic> is the Avrami exponent which is related to the underlying crystallization mechanisms. The JMA plot of ln[−ln(1<ce:hsp sp="0.25"></ce:hsp>−<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>x</ce:italic>)] versus ln(<ce:italic>t</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>−</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>τ</ce:italic>) gives a nearly straight line with the slope of <ce:italic>n</ce:italic>, as shown in <ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+<ce:float-anchor refid="fig7"></ce:float-anchor>. <ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>
+<ce:float-anchor refid="tbl2"></ce:float-anchor> presents the kinetic parameters of the Cu<ce:inf loc="post">52.5</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Zr<ce:inf loc="post">11.5</ce:inf>Ni<ce:inf loc="post">6</ce:inf> BMG isothermally annealed in the supercooled liquid region. As can be seen from <ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>, the Avrami exponents vary from 2.42 to 2.64 for different annealing temperatures. The average Avrami exponent of about 2.5 implies a mainly diffusion-controlled, three-dimensional growth during the crystallization of the bulk amorphous Cu<ce:inf loc="post">52.5</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Zr<ce:inf loc="post">11.5</ce:inf>Ni<ce:inf loc="post">6</ce:inf> alloy <ce:cross-ref refid="bib13">[13]</ce:cross-ref>. The relatively small values of the incubation and crystallization times (as shown in <ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>) suggest that crystallization initiates from the growth of quenched-in nuclei <ce:cross-refs refid="bib14 bib15">[14,15]</ce:cross-refs>. The assumption is consistent with the observations that nanocrystals of 3–5<ce:hsp sp="0.25"></ce:hsp>nm in size can be detected in the amorphous matrix of Cu-based BMGs <ce:cross-refs refid="bib6 bib7">[6,7]</ce:cross-refs>. In our previous study on the crystallization behavior of a Zr-based BMG <ce:cross-ref refid="bib16">[16]</ce:cross-ref>, we found that the quenched-in crystalline phase indeed provided heterogeneous nucleation sites for the precipitation of primary phases during the crystallization process, as shown in <ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>
+<ce:float-anchor refid="fig8"></ce:float-anchor>. The investigation on the microstructural evolution of the amorphous Cu<ce:inf loc="post">52.5</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Zr<ce:inf loc="post">11.5</ce:inf>Ni<ce:inf loc="post">6</ce:inf> alloy during crystallization is in progress.</ce:para>
+<ce:para view="all">It is widely accepted that the nucleation and growth rates of crystals do not remain constant during the whole crystallization process of an amorphous alloy. Therefore, the so-called local Avrami exponent is introduced and defined as <ce:cross-ref refid="bib10">[10]</ce:cross-ref>:<ce:display>
+<ce:formula>
+<ce:label>(4)</ce:label>
+<mml:math altimg="si4.gif" overflow="scroll">
+<mml:mrow>
+<mml:mi>n</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>x</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>=</mml:mo>
+<mml:mfrac>
+<mml:mrow>
+<mml:mo>∂</mml:mo>
+<mml:mo>⁡</mml:mo>
+<mml:mtext>ln</mml:mtext>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mo>−</mml:mo>
+<mml:mtext>ln</mml:mtext>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mo>−</mml:mo>
+<mml:mi>x</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo stretchy="false">]</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mo>∂</mml:mo>
+<mml:mo>⁡</mml:mo>
+<mml:mtext>ln</mml:mtext>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>t</mml:mi>
+<mml:mo>−</mml:mo>
+<mml:mi>τ</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:mfrac>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>
+<ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref>
+<ce:float-anchor refid="fig9"></ce:float-anchor> shows the relationship between the local Avrami exponent <ce:italic>n</ce:italic>(<ce:italic>x</ce:italic>) and the crystallized volume fraction <ce:italic>x</ce:italic> corresponding to five different annealing temperatures. By referring to the fact that <ce:italic>n</ce:italic>(<ce:italic>x</ce:italic>)<ce:hsp sp="0.25"></ce:hsp>≤<ce:hsp sp="0.25"></ce:hsp>2.0 when <ce:italic>x</ce:italic>(<ce:italic>t</ce:italic>) is below 4%, we may draw the conclusion that at the early stage the crystallization process is mainly governed by one-dimensional growth with a decreasing nucleation rate <ce:cross-ref refid="bib13">[13]</ce:cross-ref>, and enormous number of short-range ordering clusters act as overcritical nuclei in the supercooled liquid region. The growth of the overcritical nuclei and formation of new nuclei require simultaneous rearrangement of different species of atoms. Due to the dense randomly packed atomic configuration of multi-component amorphous alloy, diffusion of atoms is difficult, which retards the nucleation and growth, leading to a temporarily decreasing nucleation rate. As the crystallization proceeds, <ce:italic>n</ce:italic>(<ce:italic>x</ce:italic>) starts to increase and falls mostly in the range 2.4–3.1 until <ce:italic>x</ce:italic>(<ce:italic>t</ce:italic>) reaches 90%, revealing crystallization is mainly controlled by three-dimensional growth with nearly constant nucleation rate. The growth of the initial nuclei changes the composition of the matrix surrounding the nuclei. The compositional fluctuation facilitates the nucleation adjacent to the growing nuclei, leading to a higher but nearly constant nucleation rate compared to the nucleation rate at the initial crystallization stage.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">The crystallization kinetics of a bulk amorphous Cu<ce:inf loc="post">52.5</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Zr<ce:inf loc="post">11.5</ce:inf>Ni<ce:inf loc="post">6</ce:inf> alloy was characterized by DSC under isothermal and non-isothermal conditions. The average activation energy derived from the Arrhenius equation is much larger than that obtained from the Kissinger plot. The different temperatures at which crystallization occurs are responsible for the discrepancy in the activation energy. Under isothermal annealing, the initial crystallization stage when <ce:italic>x</ce:italic>(<ce:italic>t</ce:italic>)<ce:hsp sp="0.25"></ce:hsp>≤<ce:hsp sp="0.25"></ce:hsp>4% is governed by one-dimensional growth with a decreasing nucleation rate. As crystallization proceeds, the crystallization mode is mainly controlled by three-dimensional growth with nearly constant nucleation rate. The relatively small values of the incubation and crystallization times suggest the heterogeneous nuclei primarily originate from the quenched-in short-range ordering clusters.</ce:para>
+</ce:section>
+</ce:sections>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Telford</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Today</sb:maintitle>
+</sb:title>
+<sb:volume-nr>7</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>3</sb:issue-nr>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>36</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Takeuchi</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Trans. JIM</sb:maintitle>
+</sb:title>
+<sb:volume-nr>43</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1892</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Kurosaka</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>49</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2645</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Trans. JIM</sb:maintitle>
+</sb:title>
+<sb:volume-nr>43</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2921</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Trans. JIM</sb:maintitle>
+</sb:title>
+<sb:volume-nr>44</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2220</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.T.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.H.</ce:given-name>
+<ce:surname>Ping</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Hono</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Sakurai</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Trans. JIM</sb:maintitle>
+</sb:title>
+<sb:volume-nr>43</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2647</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.Z.</ce:given-name>
+<ce:surname>Jiang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Saida</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Kato</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Ohsuna</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>82</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>4041</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.R.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.L.</ce:given-name>
+<ce:surname>Gao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.F.</ce:given-name>
+<ce:surname>Ye</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.H.</ce:given-name>
+<ce:surname>Min</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Cheng</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.Y.</ce:given-name>
+<ce:surname>Teng</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>353</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>200</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.A.</ce:given-name>
+<ce:surname>Othman</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.H.</ce:given-name>
+<ce:surname>Amer</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.A.</ce:given-name>
+<ce:surname>Osman</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Dahshan</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Non-Cryst. Solids</sb:maintitle>
+</sb:title>
+<sb:volume-nr>351</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>130</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.L.</ce:given-name>
+<ce:surname>Gao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Shen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.F.</ce:given-name>
+<ce:surname>Sun</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.W.</ce:given-name>
+<ce:surname>Xing</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.Z.</ce:given-name>
+<ce:surname>Xian</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.D.</ce:given-name>
+<ce:surname>Zhou</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Lett.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>57</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1894</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.W.</ce:given-name>
+<ce:surname>Wei</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.Z.</ce:given-name>
+<ce:surname>Ding</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.Q.</ce:given-name>
+<ce:surname>Lei</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.Q.</ce:given-name>
+<ce:surname>Hu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Lett.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>37</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>263</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Qi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.J.</ce:given-name>
+<ce:surname>Fecht</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Character.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>47</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>215</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.W.</ce:given-name>
+<ce:surname>Christian</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The Theory of Transformation in Metals and Alloys</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1965</sb:date>
+<sb:publisher>
+<sb:name>Pergamon Press</sb:name>
+<sb:location>Oxford</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+<sb:comment>p. 489</sb:comment>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Z.J.</ce:given-name>
+<ce:surname>Yan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.F.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.R.</ce:given-name>
+<ce:surname>He</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.H.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.H.</ce:given-name>
+<ce:surname>Zhou</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Trans. JIM</sb:maintitle>
+</sb:title>
+<sb:volume-nr>44</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>709</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Saida</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Osuna</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Ohnuma</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Matsubara</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Sci. Tech. Adv. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>4</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>311</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib16">
+<ce:label>[16]</ce:label>
+<ce:other-ref>
+<ce:textref>D.W. Xing, Ph.D. Thesis, School of Materials Science and Engineering, Harbin Institute of Technology, Harbin, China, 2003.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

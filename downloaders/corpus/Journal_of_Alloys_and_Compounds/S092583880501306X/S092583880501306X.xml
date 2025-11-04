@@ -1,0 +1,1603 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S092583880501306X</prism:url><dc:identifier>doi:10.1016/j.jallcom.2005.07.058</dc:identifier><eid>1-s2.0-S092583880501306X</eid><prism:doi>10.1016/j.jallcom.2005.07.058</prism:doi><pii>S0925-8388(05)01306-X</pii><dc:title>Combustion synthesis of tantalum carbides TaC and Ta2C </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>415</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>66</prism:startingpage><prism:endingpage>72</prism:endingpage><prism:pagerange>66-72</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2006-05-18</prism:coverdate><prism:coverdisplaydate>18 May 2006</prism:coverdisplaydate><prism:copyright>Copyright © 2005 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Yeh, C.L.</dc:creator><dc:creator>Liu, E.W.</dc:creator><dc:description>
+                  The preparation of tantalum monocarbide TaC and hemicarbide Ta2C was conducted by self-propagating high-temperature synthesis (SHS) from elemental powder compacts in this study. Effects of starting stoichiometry, initial sample density, preheating temperature, and dilution by the final product on the combustion characteristics, as well as on the product composition were studied. Experimental observations indicate that with the progression of self-sustained combustion wave, the compact with a molar ratio of Ta:C=1:1 experiences substantial structure delamination, leading to considerable elongation of the burned sample. In contrast, the powder compact made up of Ta:C=2:1 almost retained its original shape after combustion. The flame-front propagation velocity was found to increase with initial sample density and temperature, but to decrease with diluent content. For both types of carbides, formation of the single-phase product was improved by increasing the sample green density. Complete conversion yielding TaC and Ta2C from the compacted samples with an initial density of 45% TMD was verified by the XRD analysis of end products. In addition, raising the sample temperature by prior heating was also proved to be effective in the enhancement of phase conversion. Based upon the dependence of flame-front velocity on combustion temperature, activation energies of 187.4 and 299.3kJ/mol were deduced for the formation of TaC and Ta2C by SHS, respectively.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Tantalum carbide</dcterms:subject><dcterms:subject>TaC</dcterms:subject><dcterms:subject>Ta2C</dcterms:subject><dcterms:subject>Combustion synthesis</dcterms:subject><dcterms:subject>SHS</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S092583880501306X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S092583880501306X" rel="scidir"/></coredata><objects><object category="thumbnail" height="42" mimetype="image/gif" multimediatype="GIF image file" ref="si1" size="1393" type="ALTIMG" width="257">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880501306X-si1.gif?httpAccept=%2A%2F%2A</object><object category="standard" height="253" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="105773" type="IMAGE-DOWNSAMPLED" width="677">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880501306X-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="47" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="4346" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880501306X-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="267" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr6" size="19014" type="IMAGE-DOWNSAMPLED" width="364">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880501306X-gr6.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="92" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="2311" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880501306X-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="428" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="86055" type="IMAGE-DOWNSAMPLED" width="362">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880501306X-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="4247" type="IMAGE-THUMBNAIL" width="79">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880501306X-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="269" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr7" size="15349" type="IMAGE-DOWNSAMPLED" width="366">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880501306X-gr7.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="92" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="2086" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880501306X-gr7.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="265" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr9" size="19546" type="IMAGE-DOWNSAMPLED" width="366">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880501306X-gr9.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="90" mimetype="image/gif" multimediatype="GIF image file" ref="gr9" size="2226" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880501306X-gr9.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="250" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="102177" type="IMAGE-DOWNSAMPLED" width="677">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880501306X-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="46" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="4561" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880501306X-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="259" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="17897" type="IMAGE-DOWNSAMPLED" width="364">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880501306X-gr4.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="89" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="2229" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880501306X-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="262" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr5" size="19243" type="IMAGE-DOWNSAMPLED" width="367">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880501306X-gr5.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="89" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="2309" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880501306X-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="265" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr8" size="18203" type="IMAGE-DOWNSAMPLED" width="365">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880501306X-gr8.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="91" mimetype="image/gif" multimediatype="GIF image file" ref="gr8" size="2101" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880501306X-gr8.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="512" mimetype="image/gif" multimediatype="GIF image file" ref="gr11" size="12436" type="IMAGE-DOWNSAMPLED" width="347">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880501306X-gr11.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr11" size="969" type="IMAGE-THUMBNAIL" width="63">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880501306X-gr11.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="540" mimetype="image/gif" multimediatype="GIF image file" ref="gr10" size="20044" type="IMAGE-DOWNSAMPLED" width="754">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880501306X-gr10.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="89" mimetype="image/gif" multimediatype="GIF image file" ref="gr10" size="1412" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880501306X-gr10.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>33646121501</scopus-id><scopus-eid>2-s2.0-33646121501</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/33646121501" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20050913">2005-09-13</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20050913">2005-09-13</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-03-29T07:36:02</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S092583880501306X</xocs:eid>
+<xocs:pii-formatted>S0925-8388(05)01306-X</xocs:pii-formatted>
+<xocs:pii-unformatted>S092583880501306X</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2005.07.058</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838806X02530</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.349087-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20060518</xocs:date-search-begin>
+<xocs:year-nav>2006</xocs:year-nav>
+<xocs:indexeddate epoch="1126569600">2005-09-13T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>415</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>415</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 415, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>15</xocs:sort-order>
+<xocs:first-fp>66</xocs:first-fp>
+<xocs:last-lp>72</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>66</xocs:first-page>
+<xocs:last-page>72</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20060518</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>18 May 2006</xocs:cover-date-text>
+<xocs:cover-date-start>2006-05-18</xocs:cover-date-start>
+<xocs:cover-date-year>2006</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Metallurgy</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2005 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>COMBUSTIONSYNTHESISTANTALUMCARBIDESTACTA2C</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>YEH</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>C</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental methods of approach</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Observation of combustion characteristics</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Measurement of combustion temperature</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Measurement of flame-front propagation velocity</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Composition analysis of combustion products</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>KHYZHUN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>179</xocs:ref-first-fp>
+<xocs:ref-last-lp>192</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>279</xocs:ref-first-fp>
+<xocs:ref-last-lp>283</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>BOWMAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1965</xocs:ref-pub-year>
+<xocs:ref-first-fp>6</xocs:ref-first-fp>
+<xocs:ref-last-lp>9</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>DESMAISONBRUT</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>1325</xocs:ref-first-fp>
+<xocs:ref-last-lp>1334</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>HOLT</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1986</xocs:ref-pub-year>
+<xocs:ref-first-fp>251</xocs:ref-first-fp>
+<xocs:ref-last-lp>259</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>MUNIR</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1989</xocs:ref-pub-year>
+<xocs:ref-first-fp>277</xocs:ref-first-fp>
+<xocs:ref-last-lp>365</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>MERZHANOV</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1994</xocs:ref-pub-year>
+<xocs:ref-first-fp>307</xocs:ref-first-fp>
+<xocs:ref-last-lp>336</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>VARMA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1992</xocs:ref-pub-year>
+<xocs:ref-first-fp>2179</xocs:ref-first-fp>
+<xocs:ref-last-lp>2194</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>MOORE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>243</xocs:ref-first-fp>
+<xocs:ref-last-lp>273</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>MOSSINO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>311</xocs:ref-first-fp>
+<xocs:ref-last-lp>332</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>SHKIRO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1978</xocs:ref-pub-year>
+<xocs:ref-first-fp>455</xocs:ref-first-fp>
+<xocs:ref-last-lp>460</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>KNYAZIK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1993</xocs:ref-pub-year>
+<xocs:ref-first-fp>85</xocs:ref-first-fp>
+<xocs:ref-last-lp>91</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13">
+<xocs:ref-normalized-surname>XUE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>229</xocs:ref-first-fp>
+<xocs:ref-last-lp>237</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>976</xocs:ref-first-fp>
+<xocs:ref-last-lp>982</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15">
+<xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>965</xocs:ref-first-fp>
+<xocs:ref-last-lp>973</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib16">
+<xocs:ref-normalized-surname>YEH</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>3807</xocs:ref-first-fp>
+<xocs:ref-last-lp>3815</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib17">
+<xocs:ref-normalized-surname>YEH</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>95</xocs:ref-first-fp>
+<xocs:ref-last-lp>104</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib18">
+<xocs:ref-normalized-surname>YEH</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>719</xocs:ref-first-fp>
+<xocs:ref-last-lp>729</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib19">
+<xocs:ref-normalized-surname>YEH</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>181</xocs:ref-first-fp>
+<xocs:ref-last-lp>191</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib20">
+<xocs:ref-normalized-surname>YEH</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>241</xocs:ref-first-fp>
+<xocs:ref-last-lp>249</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib21">
+<xocs:ref-normalized-surname>YEH</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>53</xocs:ref-first-fp>
+<xocs:ref-last-lp>58</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>YEHX2006X66</xocs:refkey3>
+<xocs:refkey4lp>YEHX2006X66X72</xocs:refkey4lp>
+<xocs:refkey4ai>YEHX2006X66XC</xocs:refkey4ai>
+<xocs:refkey5>YEHX2006X66X72XC</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(05)01306-X</xocs:pii-formatted>
+<xocs:pii-unformatted>S092583880501306X</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S092583880501306X</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2005.07.058</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-08T03:45:56.377246-04:00</xocs:timestamp>
+<xocs:cover-date-start>2006-05-18</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S092583880501306X-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880501306X/MAIN/application/pdf/1baf09ea63197f21264c1ca80c9c2fdb/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880501306X/MAIN/application/pdf/1baf09ea63197f21264c1ca80c9c2fdb/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>506960</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S092583880501306X-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880501306X/PREVIEW/image/png/807329e6e8ee3dc20bca9aaf9c3c5e21/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880501306X/PREVIEW/image/png/807329e6e8ee3dc20bca9aaf9c3c5e21/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>63368</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880501306X-si1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880501306X/STRIPIN/image/gif/258abac481e940c4519aca1fe018abc9/si1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880501306X/STRIPIN/image/gif/258abac481e940c4519aca1fe018abc9/si1.gif</xocs:ucs-locator>
+<xocs:file-basename>si1</xocs:file-basename>
+<xocs:filename>si1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1393</xocs:filesize>
+<xocs:pixel-height>42</xocs:pixel-height>
+<xocs:pixel-width>257</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880501306X-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880501306X/gr1/DOWNSAMPLED/image/jpeg/de508ff763bbc35f27e6762b667ca365/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880501306X/gr1/DOWNSAMPLED/image/jpeg/de508ff763bbc35f27e6762b667ca365/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>105773</xocs:filesize>
+<xocs:pixel-height>253</xocs:pixel-height>
+<xocs:pixel-width>677</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880501306X-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880501306X/gr1/THUMBNAIL/image/gif/8dd3706172ea4482a9c5e722e71ebe26/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880501306X/gr1/THUMBNAIL/image/gif/8dd3706172ea4482a9c5e722e71ebe26/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>4346</xocs:filesize>
+<xocs:pixel-height>47</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880501306X-gr6.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880501306X/gr6/DOWNSAMPLED/image/jpeg/f1c9c611fb095abe44b8bf82a724352f/gr6.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880501306X/gr6/DOWNSAMPLED/image/jpeg/f1c9c611fb095abe44b8bf82a724352f/gr6.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>19014</xocs:filesize>
+<xocs:pixel-height>267</xocs:pixel-height>
+<xocs:pixel-width>364</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880501306X-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880501306X/gr6/THUMBNAIL/image/gif/b7192c33f32fb4d22957d85b33d0a1c3/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880501306X/gr6/THUMBNAIL/image/gif/b7192c33f32fb4d22957d85b33d0a1c3/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2311</xocs:filesize>
+<xocs:pixel-height>92</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880501306X-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880501306X/gr3/DOWNSAMPLED/image/jpeg/8bb5e4d8c533dd39e511ce9080a4f988/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880501306X/gr3/DOWNSAMPLED/image/jpeg/8bb5e4d8c533dd39e511ce9080a4f988/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>86055</xocs:filesize>
+<xocs:pixel-height>428</xocs:pixel-height>
+<xocs:pixel-width>362</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880501306X-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880501306X/gr3/THUMBNAIL/image/gif/e6671dcc40d78b689f4c4076aacae580/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880501306X/gr3/THUMBNAIL/image/gif/e6671dcc40d78b689f4c4076aacae580/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>4247</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>79</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880501306X-gr7.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880501306X/gr7/DOWNSAMPLED/image/jpeg/569fc1dcd7798e5ee26bb22d90b664ba/gr7.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880501306X/gr7/DOWNSAMPLED/image/jpeg/569fc1dcd7798e5ee26bb22d90b664ba/gr7.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>15349</xocs:filesize>
+<xocs:pixel-height>269</xocs:pixel-height>
+<xocs:pixel-width>366</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880501306X-gr7.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880501306X/gr7/THUMBNAIL/image/gif/b15357509def539f02aa11bcddae6e52/gr7.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880501306X/gr7/THUMBNAIL/image/gif/b15357509def539f02aa11bcddae6e52/gr7.sml</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2086</xocs:filesize>
+<xocs:pixel-height>92</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880501306X-gr9.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880501306X/gr9/DOWNSAMPLED/image/jpeg/9aee25e56c288f31414c1e92fdbe658b/gr9.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880501306X/gr9/DOWNSAMPLED/image/jpeg/9aee25e56c288f31414c1e92fdbe658b/gr9.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>19546</xocs:filesize>
+<xocs:pixel-height>265</xocs:pixel-height>
+<xocs:pixel-width>366</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880501306X-gr9.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880501306X/gr9/THUMBNAIL/image/gif/1027e56c33aae4bf113738987860deb6/gr9.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880501306X/gr9/THUMBNAIL/image/gif/1027e56c33aae4bf113738987860deb6/gr9.sml</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2226</xocs:filesize>
+<xocs:pixel-height>90</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880501306X-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880501306X/gr2/DOWNSAMPLED/image/jpeg/32eec98e5b04210978b21a34582a456a/gr2.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880501306X/gr2/DOWNSAMPLED/image/jpeg/32eec98e5b04210978b21a34582a456a/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>102177</xocs:filesize>
+<xocs:pixel-height>250</xocs:pixel-height>
+<xocs:pixel-width>677</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880501306X-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880501306X/gr2/THUMBNAIL/image/gif/b15cc8e6121cf2fb15570e2d967695c1/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880501306X/gr2/THUMBNAIL/image/gif/b15cc8e6121cf2fb15570e2d967695c1/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>4561</xocs:filesize>
+<xocs:pixel-height>46</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880501306X-gr4.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880501306X/gr4/DOWNSAMPLED/image/jpeg/47d22de81bffe03e721772a5961cb69a/gr4.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880501306X/gr4/DOWNSAMPLED/image/jpeg/47d22de81bffe03e721772a5961cb69a/gr4.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>17897</xocs:filesize>
+<xocs:pixel-height>259</xocs:pixel-height>
+<xocs:pixel-width>364</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880501306X-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880501306X/gr4/THUMBNAIL/image/gif/74c407c6e361e6bd6aef28294de75a22/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880501306X/gr4/THUMBNAIL/image/gif/74c407c6e361e6bd6aef28294de75a22/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2229</xocs:filesize>
+<xocs:pixel-height>89</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880501306X-gr5.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880501306X/gr5/DOWNSAMPLED/image/jpeg/48c69a6bf309a8816a051edd7d59e283/gr5.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880501306X/gr5/DOWNSAMPLED/image/jpeg/48c69a6bf309a8816a051edd7d59e283/gr5.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>19243</xocs:filesize>
+<xocs:pixel-height>262</xocs:pixel-height>
+<xocs:pixel-width>367</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880501306X-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880501306X/gr5/THUMBNAIL/image/gif/27bc57840ca242432adfaa95b12ddd17/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880501306X/gr5/THUMBNAIL/image/gif/27bc57840ca242432adfaa95b12ddd17/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2309</xocs:filesize>
+<xocs:pixel-height>89</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880501306X-gr8.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880501306X/gr8/DOWNSAMPLED/image/jpeg/00f523c42acca3eab29b58eb5113b7b7/gr8.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880501306X/gr8/DOWNSAMPLED/image/jpeg/00f523c42acca3eab29b58eb5113b7b7/gr8.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>18203</xocs:filesize>
+<xocs:pixel-height>265</xocs:pixel-height>
+<xocs:pixel-width>365</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880501306X-gr8.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880501306X/gr8/THUMBNAIL/image/gif/dac436a83dc33e02a599c170326704a3/gr8.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880501306X/gr8/THUMBNAIL/image/gif/dac436a83dc33e02a599c170326704a3/gr8.sml</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2101</xocs:filesize>
+<xocs:pixel-height>91</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880501306X-gr11.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880501306X/gr11/DOWNSAMPLED/image/gif/42cf2de7c9c5f7628c325b0605ef8f5d/gr11.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880501306X/gr11/DOWNSAMPLED/image/gif/42cf2de7c9c5f7628c325b0605ef8f5d/gr11.gif</xocs:ucs-locator>
+<xocs:file-basename>gr11</xocs:file-basename>
+<xocs:filename>gr11.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>12436</xocs:filesize>
+<xocs:pixel-height>512</xocs:pixel-height>
+<xocs:pixel-width>347</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880501306X-gr11.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880501306X/gr11/THUMBNAIL/image/gif/bb879aedece94cdc79d4704a6b802dbd/gr11.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880501306X/gr11/THUMBNAIL/image/gif/bb879aedece94cdc79d4704a6b802dbd/gr11.sml</xocs:ucs-locator>
+<xocs:file-basename>gr11</xocs:file-basename>
+<xocs:filename>gr11.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>969</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>63</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880501306X-gr10.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880501306X/gr10/DOWNSAMPLED/image/gif/26032d09ed686357eb35b1ccfdac61ca/gr10.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880501306X/gr10/DOWNSAMPLED/image/gif/26032d09ed686357eb35b1ccfdac61ca/gr10.gif</xocs:ucs-locator>
+<xocs:file-basename>gr10</xocs:file-basename>
+<xocs:filename>gr10.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>20044</xocs:filesize>
+<xocs:pixel-height>540</xocs:pixel-height>
+<xocs:pixel-width>754</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880501306X-gr10.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880501306X/gr10/THUMBNAIL/image/gif/9d0f8dcc9f8bb183425ee7aac6f39e1e/gr10.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880501306X/gr10/THUMBNAIL/image/gif/9d0f8dcc9f8bb183425ee7aac6f39e1e/gr10.sml</xocs:ucs-locator>
+<xocs:file-basename>gr10</xocs:file-basename>
+<xocs:filename>gr10.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1412</xocs:filesize>
+<xocs:pixel-height>89</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>13027</aid>
+<ce:pii>S0925-8388(05)01306-X</ce:pii>
+<ce:doi>10.1016/j.jallcom.2005.07.058</ce:doi>
+<ce:copyright type="full-transfer" year="2005">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Recorded combustion images associated with formation of TaC from a 45% TMD sample with starting stoichiometry Ta:C<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1:1 and <ce:italic>T</ce:italic>
+<ce:inf loc="post">p</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>100<ce:hsp sp="0.25"></ce:hsp>°C.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Recorded combustion images associated with formation of Ta<ce:inf loc="post">2</ce:inf>C from a 35% TMD sample with starting stoichiometry Ta:C<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>2:1.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Photographs of burned samples composed of tantalum carbides: (a) TaC and (b) Ta<ce:inf loc="post">2</ce:inf>C.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Typical temperature profile illustrating SHS process of Ta<ce:inf loc="post">2</ce:inf>C formation.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Typical temperature profile illustrating SHS process of TaC formation.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Effects of preheating temperature and initial sample density on flame-front propagation velocity of samples prepared for TaC synthesis.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+<ce:figure id="fig7">
+<ce:label>Fig. 7</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Effect of initial sample density on flame-front propagation velocity of samples prepared for Ta<ce:inf loc="post">2</ce:inf>C synthesis.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr7"></ce:link>
+</ce:figure>
+<ce:figure id="fig8">
+<ce:label>Fig. 8</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Effect of diluent content on flame-front propagation velocity of samples in synthesis of TaC and Ta<ce:inf loc="post">2</ce:inf>C.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr8"></ce:link>
+</ce:figure>
+<ce:figure id="fig9">
+<ce:label>Fig. 9</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Relation between flame-front velocity and combustion temperature for determination of activation energies of TaC and Ta<ce:inf loc="post">2</ce:inf>C by SHS.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr9"></ce:link>
+</ce:figure>
+<ce:figure id="fig10">
+<ce:label>Fig. 10</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRD spectra of burned products obtained from Ta:C<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1:1 compacts with (a) 30% TMD and <ce:italic>T</ce:italic>
+<ce:inf loc="post">p</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>100<ce:hsp sp="0.25"></ce:hsp>°C, (b) 30% TMD and <ce:italic>T</ce:italic>
+<ce:inf loc="post">p</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>200<ce:hsp sp="0.25"></ce:hsp>°C, and (c) 45% TMD and <ce:italic>T</ce:italic>
+<ce:inf loc="post">p</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>25<ce:hsp sp="0.25"></ce:hsp>°C.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr10"></ce:link>
+</ce:figure>
+<ce:figure id="fig11">
+<ce:label>Fig. 11</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRD spectra of burned products obtained from Ta:C<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>2:1 compacts with (a) 30% TMD and (b) 45% TMD.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr11"></ce:link>
+</ce:figure>
+</ce:floats>
+<ce:title>Combustion synthesis of tantalum carbides TaC and Ta<ce:inf loc="post">2</ce:inf>C</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>C.L.</ce:given-name>
+<ce:surname>Yeh</ce:surname>
+<ce:cross-ref refid="cor1">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>E.W.</ce:given-name>
+<ce:surname>Liu</ce:surname>
+</ce:author>
+<ce:affiliation>
+<ce:textfn>Department of Mechanical and Automation Engineering, Da-Yeh University, 112 Shan-Jiau Rd., Da-Tsuen, Changhua 51505, Taiwan</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>⁎</ce:label>
+<ce:text>Corresponding author. Tel.: +886 4 8511888x2118; fax: +886 4 8511215.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="22" month="5" year="2005"></ce:date-received>
+<ce:date-accepted day="7" month="7" year="2005"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">The preparation of tantalum monocarbide TaC and hemicarbide Ta<ce:inf loc="post">2</ce:inf>C was conducted by self-propagating high-temperature synthesis (SHS) from elemental powder compacts in this study. Effects of starting stoichiometry, initial sample density, preheating temperature, and dilution by the final product on the combustion characteristics, as well as on the product composition were studied. Experimental observations indicate that with the progression of self-sustained combustion wave, the compact with a molar ratio of Ta:C<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1:1 experiences substantial structure delamination, leading to considerable elongation of the burned sample. In contrast, the powder compact made up of Ta:C<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>2:1 almost retained its original shape after combustion. The flame-front propagation velocity was found to increase with initial sample density and temperature, but to decrease with diluent content. For both types of carbides, formation of the single-phase product was improved by increasing the sample green density. Complete conversion yielding TaC and Ta<ce:inf loc="post">2</ce:inf>C from the compacted samples with an initial density of 45% TMD was verified by the XRD analysis of end products. In addition, raising the sample temperature by prior heating was also proved to be effective in the enhancement of phase conversion. Based upon the dependence of flame-front velocity on combustion temperature, activation energies of 187.4 and 299.3<ce:hsp sp="0.25"></ce:hsp>kJ/mol were deduced for the formation of TaC and Ta<ce:inf loc="post">2</ce:inf>C by SHS, respectively.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Tantalum carbide</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>TaC</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Ta<ce:inf loc="post">2</ce:inf>C</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Combustion synthesis</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>SHS</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Refractory metal carbides are promising ceramic materials, because these compounds exhibit unusual combinations of physical and chemical properties such as high hardness and high melting point (typical for semiconductors with covalent bonds) and good electrical and thermal conductivities (typical for compounds with metallic bonds) <ce:cross-ref refid="bib1">[1]</ce:cross-ref>. Additionally, many carbides of transition metals of the IVb and Vb groups crystallize in the NaCl structure, which is common in ionic compounds. Therefore, the chemical bond in those transition metal carbides is a superposition of covalent, metallic, and ionic components <ce:cross-ref refid="bib1">[1]</ce:cross-ref>.</ce:para>
+<ce:para view="all">Tantalum monocarbide TaC has a NaCl type structure and is characterized by high hardness, high melting point (3880<ce:hsp sp="0.25"></ce:hsp>°C), great electrical conductivity (42.1<ce:hsp sp="0.25"></ce:hsp>μΩ<ce:hsp sp="0.25"></ce:hsp>cm at 25<ce:hsp sp="0.25"></ce:hsp>°C), good resistance to chemical attack and thermal shock, and excellent resistance to oxidation <ce:cross-ref refid="bib2">[2]</ce:cross-ref>. These properties make it very attractive for high-temperature and electronic applications. The phase diagram of the Ta–C system shows another well-defined carbide, the hemicarbide Ta<ce:inf loc="post">2</ce:inf>C. Ta<ce:inf loc="post">2</ce:inf>C has a structure based upon a hexagonal closest-packed metal lattice with carbon atoms filling one half of the octahedral holes <ce:cross-ref refid="bib3">[3]</ce:cross-ref>. Tantalum hemicarbide is also featured by a high melting point of 3327<ce:hsp sp="0.25"></ce:hsp>°C. In addition, the hemicarbide Ta<ce:inf loc="post">2</ce:inf>C was found to possess a higher oxidation resistance in comparison to the monocarbide TaC <ce:cross-ref refid="bib4">[4]</ce:cross-ref>.</ce:para>
+<ce:para view="all">Transition metal carbides, especially titanium carbide (TiC), were successfully produced by means of combustion synthesis from elemental powder compacts <ce:cross-refs refid="bib5 bib6">[5,6]</ce:cross-refs>. Combustion synthesis with the advantages of time and energy savings has been recognized as an attractive alternative to the conventional methods of producing advanced materials, including carbides, borides, nitrides, hydrides, silicides, intermetallics, etc. <ce:cross-refs refid="bib6 bib7 bib8 bib9 bib10">[6–10]</ce:cross-refs>. Furthermore, combustion synthesis can be conducted in either of two modes, the self-propagating high-temperature synthesis (SHS) mode and the thermal explosion mode. Regarding the formation of tantalum carbides by combustion synthesis, a survey of literature indicates that existing studies focus mainly on the production of monocarbide TaC, but rarely on the hemicarbide Ta<ce:inf loc="post">2</ce:inf>C. Shkiro et al. <ce:cross-ref refid="bib11">[11]</ce:cross-ref> conducted experiments to prepare TaC by SHS from the sample compacts made up of Ta and carbon black powders, observing an unsteady propagation of combustion wave and an incomplete conversion with 12% of Ta powders left unreacted. Knyazik and Shteinberg <ce:cross-ref refid="bib12">[12]</ce:cross-ref> attempted to produce TaC by thermal explosion synthesis and found the presence of not only TaC but also Ta<ce:inf loc="post">2</ce:inf>C in the final product. With the activation of an imposed electric field across the pellet, steady propagation of self-sustaining combustion wave and formation of the single-phase TaC in the end product were achieved by Xue and Munir <ce:cross-ref refid="bib13">[13]</ce:cross-ref>. In addition, Xue and Munir <ce:cross-ref refid="bib13">[13]</ce:cross-ref> proposed a solid diffusion mechanism including diffusion of carbon into the tantalum matrix, resulting in the formation of a TaC layer encapsulating a tantalum core. Subsequent conversion to TaC is governed by the carbon diffusion through the TaC layer, which is considered as the rate-limiting step. To enhance the solid-phase diffusion in the interaction between Ta and C, Kim and Wooldridge <ce:cross-refs refid="bib14 bib15">[14,15]</ce:cross-refs> performed catalytically assisted combustion synthesis with the use of vaporized iodine and carbon dioxide as the gas-phase transport agents that were found to substantially increase the burning velocity and to greatly improve the conversion efficiency.</ce:para>
+<ce:para view="all">The objective of the present study was to experimentally investigate the formation of tantalum carbides TaC and Ta<ce:inf loc="post">2</ce:inf>C by SHS using compacted samples from elemental powders. Effects of the sample green density, initial sample temperature, and starting composition on the combustion characteristics, as well as on the final composition of burned products were studied. The flame-front propagation velocity and combustion temperature were measured as a function of the experimental variables. On the basis of the dependence of flame-front velocity on combustion wave temperature, which was determined by diluting the green compact with its final product, the activation energies associated with the formation of TaC and Ta<ce:inf loc="post">2</ce:inf>C by SHS were deduced in this study.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental methods of approach</ce:section-title>
+<ce:para view="all">Test samples used in this study were prepared by tantalum (Aldrich Chemical, −325 mesh, 99.9% purity) and carbon black (Showa Chemical Co., 22<ce:hsp sp="0.25"></ce:hsp>nm) powders, which were dry mixed in a ball mill for 10<ce:hsp sp="0.25"></ce:hsp>h with the molar compositions according to stoichiometric ratios of Ta:C<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1:1 and 2:1 for the synthesis of TaC and Ta<ce:inf loc="post">2</ce:inf>C, respectively. Mixed powders were then cold-pressed into cylindrical samples with a diameter of 7<ce:hsp sp="0.25"></ce:hsp>mm and a height of 12<ce:hsp sp="0.25"></ce:hsp>mm. In order to study the influence of sample green density on the synthesis of tantalum carbides, sample compacts were formed with initial packing densities ranging from 30 to 45% of the theoretical maximum density (TMD) of reactant mixtures. The effect of initial sample temperature was studied by heating up the sample compact prior to ignition and the preheating temperatures (<ce:italic>T</ce:italic>
+<ce:inf loc="post">p</ce:inf>) adopted in this study were 100 and 200<ce:hsp sp="0.25"></ce:hsp>°C.</ce:para>
+<ce:para view="all">The SHS experiments were conducted in a stainless-steel windowed combustion chamber under an atmosphere of high purity argon (99.99%). The sample holder was equipped with a 600<ce:hsp sp="0.25"></ce:hsp>W cartridge heater used to raise the initial temperature of test samples prior to ignition. The experimental setup and measurement approach were previously reported, which have been used to synthesize many transition metal nitrides and carbonitrides <ce:cross-refs refid="bib16 bib17 bib18">[16–18]</ce:cross-refs> and some intermetallics <ce:cross-refs refid="bib19 bib20 bib21">[19–21]</ce:cross-refs>. However, it was found that when the reaction was initiated by a heated tungsten coil with a voltage of 60<ce:hsp sp="0.25"></ce:hsp>V and a current of 1.5<ce:hsp sp="0.25"></ce:hsp>A, the combustion wave could not be well established and finally came to extinction. Therefore, a compacted pellet (2<ce:hsp sp="0.25"></ce:hsp>mm in height and 7<ce:hsp sp="0.25"></ce:hsp>mm in diameter) made up of the mixture of titanium (Ti) and carbon black (C) powders (with a ratio of Ti:C<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1:1) was placed on the top of the test sample to serve as the ignition enhancer in this study.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:section view="all">
+<ce:label>3.1</ce:label>
+<ce:section-title>Observation of combustion characteristics</ce:section-title>
+<ce:para view="all">Experimental observations of this study indicate that the combustion behavior of Ta–C powder compacts varies drastically with the starting stoichiometry of test samples. <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor> is representative of a typical sequence of the SHS process recorded from a compacted reactant with an initial composition of Ta:C<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1:1 and a preheating temperature of 100<ce:hsp sp="0.25"></ce:hsp>°C. As shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>, upon ignition a distinct and glaring combustion front forms and travels along the sample in a self-sustaining manner. With the advance of combustion wave, significant delamination of the burned sample was clearly observed, which resulted in serious structure fracturing and substantial elongation on the end product.</ce:para>
+<ce:para view="all">In the experiment of producing Ta<ce:inf loc="post">2</ce:inf>C, a typical combustion process is illustrated in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor>, within which the reaction of a sample composed of 2Ta<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>C was initiated without any preheating. In contrast to those observed in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>, neither structure cracking nor volume expansion on the burned sample is noticed in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>. <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref> shows that the combustion process is characterized by a self-propagating combustion front steadily spreading throughout the entire sample, and the compacted reactant essentially retains its original shape after the conversion to the final product. In addition to the fine exterior on the burned sample, <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref> indicates that the compact exhibits a distinct afterburning glow. That is, after the flame front reaches the bottom of the sample at about <ce:italic>t</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>0.63<ce:hsp sp="0.25"></ce:hsp>s, the luminosity on the burned sample fades away obviously, but from <ce:italic>t</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1.2<ce:hsp sp="0.25"></ce:hsp>s the brightness turns stronger and remains intense for a duration even longer than the flame-propagation period. This implies that the phase transformation is not only restricted to the combustion front, but also continues lengthily in bulk after the passage of the flame front. Based upon the observations of combustion processes, it is evident that the afterburning reaction in the sample of Ta:C<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1:1 (shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>) is not as pronounced as that of Ta:C<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>2:1 (shown in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>). It is believed that the lack of extensive afterburning reaction in the compact of Ta:C<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1:1 could be due to a greater degree of heat loss caused by the crevices formed on the burned sample.</ce:para>
+<ce:para view="all">Two burned samples recovered from the experiments synthesizing TaC and Ta<ce:inf loc="post">2</ce:inf>C are photographically displayed in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor>(a and b), respectively. The as-synthesized TaC pellet features numerous crevices and is noticeably taller than the Ta<ce:inf loc="post">2</ce:inf>C specimen, which exhibits a relatively smooth and shining exterior. In spite of striking difference in the outer appearance, the gold brown color of tantalum carbides is clearly seen on both burned samples.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.2</ce:label>
+<ce:section-title>Measurement of combustion temperature</ce:section-title>
+<ce:para view="all">A typical temperature profile measured on the surface of a sample with Ta:C<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>2:1 is presented in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor>. As depicted in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>, an abrupt rise in temperature signifies the rapid arrival of combustion front and the peak value corresponds to the flame-front temperature. After the passage of the flame front, the profile shows a sudden temperature drop, suggesting that the sample experiences a significant heat loss to the ambient. However, due to the occurrence of afterburning reaction, the decrease of sample temperature noticeably slows down following a short period of rapid decline. It is useful to note that the variation of sample temperature in the course of combustion is consistent with the observation of combustion images shown in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>.</ce:para>
+<ce:para view="all">In the experiment of forming the monocarbide TaC, the typical temperature profile shown in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="fig5"></ce:float-anchor> reveals a sharp peak similar to that in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>, and a rapid decline after reaching the maximum value. A comparison of temperature profiles shown in <ce:cross-refs refid="fig4 fig5">Figs. 4 and 5</ce:cross-refs> indicates that after the passage of combustion front, the decrease of temperature on the compact for the formation of TaC is more severe than that on the sample for Ta<ce:inf loc="post">2</ce:inf>C synthesis. This could be most likely attributed to the less pronounced afterburning reaction taking place in the sample of Ta:C<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1:1. Otherwise, this might be due to the cracking of the sample, resulting in the dislocation of the thermocouple which was originally attached on the sample surface.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.3</ce:label>
+<ce:section-title>Measurement of flame-front propagation velocity</ce:section-title>
+<ce:para view="all">The variation of flame-front propagation velocity (<ce:italic>V</ce:italic>
+<ce:inf loc="post">f</ce:inf>) with sample green density and preheating temperature is plotted in <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="fig6"></ce:float-anchor> for the synthesis of monocarbide TaC. It was found that the flame-front velocity was increased by increasing the initial sample density. This is caused by the fact that the sample with a higher compact density corresponds to the possession of a better degree of contact between reactant powders, which in turn enhances the heat transfer rate from the combustion front to the unburned region. Additionally, the flame velocity also increased with preheating temperature, primarily due to the increase of combustion temperature with initial sample temperature. However, it should be noted that for the 30% TMD sample composed of Ta:C<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1:1, the reaction was quenched under the condition without any prior heating and the self-sustained combustion was realized only when the compact was heated up to 100<ce:hsp sp="0.25"></ce:hsp>°C or above before ignition.</ce:para>
+<ce:para view="all">On the other hand, experimental results show the preheating is not required on the powder compacts made up of Ta:C<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>2:1. As a result, the velocity of self-propagating combustion wave in the synthesis of Ta<ce:inf loc="post">2</ce:inf>C was measured under different initial sample densities, as shown in <ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+<ce:float-anchor refid="fig7"></ce:float-anchor>. In agreement with the result presented in <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>, <ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref> indicates the increase of flame-front velocity with sample green density. Moreover, it was found that within the test conditions of this study the flame-front velocities associated with the synthesis of Ta<ce:inf loc="post">2</ce:inf>C (ranging from 14 to 18.6<ce:hsp sp="0.25"></ce:hsp>mm/s) were higher than those measured from the compacts prepared for the formation of TaC (between 7.5 and 10.5<ce:hsp sp="0.25"></ce:hsp>mm/s) reported in <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>.</ce:para>
+<ce:para view="all">While the green compacts are diluted by their final products, <ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>
+<ce:float-anchor refid="fig8"></ce:float-anchor> points out that both types of samples (including Ta<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>C and 2Ta<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>C) reveal a decrease in flame-front velocity as the amount of diluent increases. This is mainly because of the decrease of combustion temperature with increasing content of diluent in the green compact. Moreover, measured results show a distinct dependence of reaction front velocity on combustion temperature, which provides a basis for the determination of activation energy associated with the formation of tantalum carbides by SHS <ce:cross-refs refid="bib19 bib20 bib21">[19–21]</ce:cross-refs>. A relationship correlating combustion temperature, flame velocity, and activation energy is expressed in the following simplified form <ce:cross-refs refid="bib19 bib20 bib21">[19–21]</ce:cross-refs>
+<ce:display>
+<ce:formula>
+<ce:label>(1)</ce:label>
+<mml:math altimg="si1.gif" overflow="scroll">
+<mml:mrow>
+<mml:msup>
+<mml:mrow>
+<mml:mfenced close=")" open="(">
+<mml:mrow>
+<mml:mfrac>
+<mml:mrow>
+<mml:msub>
+<mml:mi>V</mml:mi>
+<mml:mtext>f</mml:mtext>
+</mml:msub>
+</mml:mrow>
+<mml:mrow>
+<mml:msub>
+<mml:mi>T</mml:mi>
+<mml:mtext>c</mml:mtext>
+</mml:msub>
+</mml:mrow>
+</mml:mfrac>
+</mml:mrow>
+</mml:mfenced>
+</mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:msup>
+<mml:mo>=</mml:mo>
+<mml:mi>f</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>n</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mfenced close=")" open="(">
+<mml:mrow>
+<mml:mfrac>
+<mml:mi>R</mml:mi>
+<mml:mrow>
+<mml:msub>
+<mml:mi>E</mml:mi>
+<mml:mtext>a</mml:mtext>
+</mml:msub>
+</mml:mrow>
+</mml:mfrac>
+</mml:mrow>
+</mml:mfenced>
+<mml:mi>K</mml:mi>
+<mml:mi> </mml:mi>
+<mml:mtext>exp</mml:mtext>
+<mml:mfenced close=")" open="(">
+<mml:mrow>
+<mml:mo>−</mml:mo>
+<mml:mfrac>
+<mml:mrow>
+<mml:msub>
+<mml:mi>E</mml:mi>
+<mml:mtext>a</mml:mtext>
+</mml:msub>
+</mml:mrow>
+<mml:mrow>
+<mml:mi>R</mml:mi>
+<mml:msub>
+<mml:mi>T</mml:mi>
+<mml:mtext>c</mml:mtext>
+</mml:msub>
+</mml:mrow>
+</mml:mfrac>
+</mml:mrow>
+</mml:mfenced>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>where <ce:italic>V</ce:italic>
+<ce:inf loc="post">f</ce:inf> is the velocity of combustion front, <ce:italic>T</ce:italic>
+<ce:inf loc="post">c</ce:inf> is the combustion temperature, <ce:italic>E</ce:italic>
+<ce:inf loc="post">a</ce:inf> is the activation energy of the reaction, <ce:italic>R</ce:italic> is the universal gas constant, <ce:italic>f</ce:italic>(<ce:italic>n</ce:italic>) is a function of the kinetic order of the reaction, and <ce:italic>K</ce:italic> is a constant which includes the heat capacity of the product, thermal conductivity, and the heat of reaction. As a result, the slope of a plot depicting ln(<ce:italic>V</ce:italic>
+<ce:inf loc="post">f</ce:inf>/<ce:italic>T</ce:italic>
+<ce:inf loc="post">c</ce:inf>)<ce:sup loc="post">2</ce:sup> versus 1/<ce:italic>T</ce:italic>
+<ce:inf loc="post">c</ce:inf> can provide the activation energy of the process. From the slopes of best-fit lines of all the data plotted in <ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref>
+<ce:float-anchor refid="fig9"></ce:float-anchor>, the deduced activation energies for combustion synthesis of TaC and Ta<ce:inf loc="post">2</ce:inf>C were found to be 187.4 and 299.3<ce:hsp sp="0.25"></ce:hsp>kJ/mol, respectively.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.4</ce:label>
+<ce:section-title>Composition analysis of combustion products</ce:section-title>
+<ce:para view="all">The XRD spectra obtained from the powder compacts with an initial composition of Ta:C<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1:1 under different test conditions are presented in <ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref>
+<ce:float-anchor refid="fig10"></ce:float-anchor>. <ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref>(a) reveals the formation of monocarbide TaC and the existence of a significant amount of elemental Ta unreacted. This result shows evidence of incomplete conversion in a 30% TMD sample under a preheating temperature of 100<ce:hsp sp="0.25"></ce:hsp>°C. However, the phase transformation was found to be effectively improved by increasing the initial sample temperature. As shown in <ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref>(b), under the case of <ce:italic>T</ce:italic>
+<ce:inf loc="post">p</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>200<ce:hsp sp="0.25"></ce:hsp>°C the end product is composed of a single-phase constituent TaC. In addition, the improvement of phase conversion to the fully reacted product was also achieved by increasing the sample green density. This is confirmed by <ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref>(c), which indicates the formation of stoichiometric TaC from a 45% TMD sample compact without any heating prior to ignition.</ce:para>
+<ce:para view="all">In the case of producing hemicarbide Ta<ce:inf loc="post">2</ce:inf>C, <ce:cross-ref refid="fig11">Fig. 11</ce:cross-ref>
+<ce:float-anchor refid="fig11"></ce:float-anchor>(a) shows that in addition to the dominant phase Ta<ce:inf loc="post">2</ce:inf>C there exists a small amount of monocarbide TaC being the intermediate phase in the burned product from a 30% TMD sample. Consistent with the finding observed in the synthesis of TaC, the conversion to Ta<ce:inf loc="post">2</ce:inf>C was enhanced by increasing the sample green density. As shown in <ce:cross-ref refid="fig11">Fig. 11</ce:cross-ref>(b), an end product composed entirely of the hemicarbide Ta<ce:inf loc="post">2</ce:inf>C was obtained from the sample with a green density of 45% TMD.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">This study presents a comprehensive investigation of the SHS process associated with the formation of tantalum monocarbide TaC and hemicarbide Ta<ce:inf loc="post">2</ce:inf>C. It was found that the combustion behavior varied with the starting stoichiometry of sample compacts, and the final composition of burned products was affected by the experimental parameters, including the sample green density and preheating temperature.</ce:para>
+<ce:para view="all">Experimental observations indicate that self-sustained combustion was achieved on both types of samples with Ta:C<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1:1 and 2:1. As the combustion wave advanced, the compact with an initial stoichiometry Ta:C<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1:1 cracked seriously, leading to considerable elongation of the burned sample. On the contrary, the sample of Ta:C<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>2:1 basically retained its original shape after conversion to the final product. Moreover, subsequent to the passage of the flame front the sample of Ta:C<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>2:1 exhibited a more pronounced afterburning stage than did the compact of Ta:C<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1:1, which was subjected to a greater heat loss due to the structure delamination.</ce:para>
+<ce:para view="all">In the synthesis of either of two carbides, the flame-front propagation velocity was found to increase with sample green density. The increase of sample green density not only results in a higher flame-front velocity, but also effectively improves the phase transformation. On the formation of TaC, the product obtained from a 30% TMD compact at a preheating temperature of 100<ce:hsp sp="0.25"></ce:hsp>°C consists of a significant amount of unreacted Ta. However, complete conversion to a fully reacted product TaC was achieved on a compact of 45% TMD. Likewise, in addition to the dominant phase Ta<ce:inf loc="post">2</ce:inf>C the presence of TaC was found as the intermediate phase in the final product of a 30% TMD compact with Ta:C<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>2:1, suggesting the incompleteness of phase conversion. By using the sample with a higher density such as 45% TMD, however, the interaction was improved and the formation of a single-phase product Ta<ce:inf loc="post">2</ce:inf>C was identified by the XRD analysis.</ce:para>
+<ce:para view="all">The influence of initial sample temperature was only investigated on the synthesis of monocarbide TaC, since the self-sustained combustion cannot be established on the low-density compact of Ta:C<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1:1 without heating up the sample prior to ignition. The increase of sample temperature by preheating was demonstrated to increase the flame-front velocity, as well as to enhance the formation of stoichiometric product TaC.</ce:para>
+<ce:para view="all">The dependence of flame-front velocity on combustion temperature was attained in this study by diluting the green compacts with their final products. As a consequence, the activation energies associated with combustion synthesis of TaC and Ta<ce:inf loc="post">2</ce:inf>C were determined to be 187.4 and 299.3<ce:hsp sp="0.25"></ce:hsp>kJ/mol, respectively.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgements</ce:section-title>
+<ce:para view="all">This research was sponsored by the National Science Council of Taiwan, ROC, under the grants of NSC 92-2212-E-212-015 and NSC 93-2212-E-212-002.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>O.Yu.</ce:given-name>
+<ce:surname>Khyzhun</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.A.</ce:given-name>
+<ce:surname>Zhurakovsky</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.K.</ce:given-name>
+<ce:surname>Sinelnichenko</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.A.</ce:given-name>
+<ce:surname>Kolyagin</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Electron Spectrosc. Relat. Phenom.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>82</sb:volume-nr>
+</sb:series>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>179</sb:first-page>
+<sb:last-page>192</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.J.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.B.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Q.M.</ce:given-name>
+<ce:surname>Wei</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.Z.</ce:given-name>
+<ce:surname>Zhai</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Lett.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>56</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>279</sb:first-page>
+<sb:last-page>283</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.L.</ce:given-name>
+<ce:surname>Bowman</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.C.</ce:given-name>
+<ce:surname>Wallace</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.L.</ce:given-name>
+<ce:surname>Yarnell</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.G.</ce:given-name>
+<ce:surname>Wenzel</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.K.</ce:given-name>
+<ce:surname>Storms</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Crystallogr.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>19</sb:volume-nr>
+</sb:series>
+<sb:date>1965</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>6</sb:first-page>
+<sb:last-page>9</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Desmaison-Brut</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Alexandre</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Desmaison</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Eur. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>17</sb:volume-nr>
+</sb:series>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1325</sb:first-page>
+<sb:last-page>1334</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.B.</ce:given-name>
+<ce:surname>Holt</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.A.</ce:given-name>
+<ce:surname>Munir</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>21</sb:volume-nr>
+</sb:series>
+<sb:date>1986</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>251</sb:first-page>
+<sb:last-page>259</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Z.A.</ce:given-name>
+<ce:surname>Munir</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>U.</ce:given-name>
+<ce:surname>Anselmi-Tamburini</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Rep.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>3</sb:volume-nr>
+</sb:series>
+<sb:date>1989</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>277</sb:first-page>
+<sb:last-page>365</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.G.</ce:given-name>
+<ce:surname>Merzhanov</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Combust. Sci. Technol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>98</sb:volume-nr>
+</sb:series>
+<sb:date>1994</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>307</sb:first-page>
+<sb:last-page>336</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Varma</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.P.</ce:given-name>
+<ce:surname>Lebrat</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Chem. Eng. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>47</sb:volume-nr>
+</sb:series>
+<sb:date>1992</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2179</sb:first-page>
+<sb:last-page>2194</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.J.</ce:given-name>
+<ce:surname>Moore</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.J.</ce:given-name>
+<ce:surname>Feng</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Prog. Mater. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>39</sb:volume-nr>
+</sb:series>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>243</sb:first-page>
+<sb:last-page>273</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Mossino</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Ceram. Int.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>30</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>311</sb:first-page>
+<sb:last-page>332</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>V.M.</ce:given-name>
+<ce:surname>Shkiro</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.A.</ce:given-name>
+<ce:surname>Nersisyan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.P.</ce:given-name>
+<ce:surname>Borovinskaya</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Combust. Explos. Shock Wave</sb:maintitle>
+</sb:title>
+<sb:volume-nr>14</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>4</sb:issue-nr>
+<sb:date>1978</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>455</sb:first-page>
+<sb:last-page>460</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>V.A.</ce:given-name>
+<ce:surname>Knyazik</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.S.</ce:given-name>
+<ce:surname>Shteinberg</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Syn. Proc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>1</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>2</sb:issue-nr>
+<sb:date>1993</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>85</sb:first-page>
+<sb:last-page>91</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Xue</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.A.</ce:given-name>
+<ce:surname>Munir</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Int. J. Self-Propag. High-Temp. Synth.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>5</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>3</sb:issue-nr>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>229</sb:first-page>
+<sb:last-page>237</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Kim</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.S.</ce:given-name>
+<ce:surname>Wooldridge</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>84</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>5</sb:issue-nr>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>976</sb:first-page>
+<sb:last-page>982</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Kim</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.S.</ce:given-name>
+<ce:surname>Wooldridge</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Comb. Flame</sb:maintitle>
+</sb:title>
+<sb:volume-nr>125</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>965</sb:first-page>
+<sb:last-page>973</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib16">
+<ce:label>[16]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.L.</ce:given-name>
+<ce:surname>Yeh</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.W.</ce:given-name>
+<ce:surname>Liu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.C.</ce:given-name>
+<ce:surname>Chang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Eur. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>24</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>15/16</sb:issue-nr>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>3807</sb:first-page>
+<sb:last-page>3815</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib17">
+<ce:label>[17]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.L.</ce:given-name>
+<ce:surname>Yeh</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.C.</ce:given-name>
+<ce:surname>Chuang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.W.</ce:given-name>
+<ce:surname>Liu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.C.</ce:given-name>
+<ce:surname>Chang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Ceram. Int.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>31</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>1</sb:issue-nr>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>95</sb:first-page>
+<sb:last-page>104</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib18">
+<ce:label>[18]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.L.</ce:given-name>
+<ce:surname>Yeh</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.D.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Ceram. Int.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>31</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>5</sb:issue-nr>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>719</sb:first-page>
+<sb:last-page>729</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib19">
+<ce:label>[19]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.L.</ce:given-name>
+<ce:surname>Yeh</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.Y.</ce:given-name>
+<ce:surname>Sung</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>384</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>181</sb:first-page>
+<sb:last-page>191</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib20">
+<ce:label>[20]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.L.</ce:given-name>
+<ce:surname>Yeh</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.C.</ce:given-name>
+<ce:surname>Yeh</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>388</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>241</sb:first-page>
+<sb:last-page>249</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib21">
+<ce:label>[21]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.L.</ce:given-name>
+<ce:surname>Yeh</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.C.</ce:given-name>
+<ce:surname>Hsu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>395</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>53</sb:first-page>
+<sb:last-page>58</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

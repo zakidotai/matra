@@ -1,0 +1,731 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838804009843</prism:url><dc:identifier>doi:10.1016/j.jallcom.2004.07.043</dc:identifier><eid>1-s2.0-S0925838804009843</eid><prism:doi>10.1016/j.jallcom.2004.07.043</prism:doi><pii>S0925-8388(04)00984-3</pii><dc:title>Production of Fe–Ti–Si alloys from the ilmenite ore and their magnetic properties </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>388</prism:volume><prism:issueidentifier>2</prism:issueidentifier><prism:startingpage>258</prism:startingpage><prism:endingpage>261</prism:endingpage><prism:pagerange>258-261</prism:pagerange><prism:number>2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2005-02-22</prism:coverdate><prism:coverdisplaydate>22 February 2005</prism:coverdisplaydate><prism:copyright>Copyright © 2004 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Saito, Tetsuji</dc:creator><dc:creator>Wakabayashi, Katsuji</dc:creator><dc:creator>Yamashita, Satoshi</dc:creator><dc:creator>Sasabe, Minoru</dc:creator><dc:description>
+                  We report a new smelting reduction process for the production of Fe–Ti–Si alloys directly from ilmenite (FeTiO3) ore by means of the molten silicon equilibrated with the molten slag materials containing CaO, SiO2, Al2O3, and CaF2. X-ray diffraction and microstructural studies revealed that metallic Fe–Ti–Si alloys were successfully produced from ilmenite ore by the direct reduction process. The resultant Fe–Ti–Si alloys consisted mostly of either the FeTiSi or FeTiSi2 phase depending on the amount of silicon used. It was found that these silicides exhibit attractively high Curie temperatures (T
+                     c), T
+                     c = 728K for the FeTiSi phase and T
+                     c = 917K for the FeTiSi2 phase. However, the saturation magnetization of the FeTiSi and FeTiSi2 phases was found to be relatively small compared to the other iron compounds.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Ilmenite</dcterms:subject><dcterms:subject>Fe–Ti–Si alloy</dcterms:subject><dcterms:subject>Slag materials</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838804009843" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838804009843" rel="scidir"/></coredata><objects><object category="thumbnail" height="21" mimetype="image/gif" multimediatype="GIF image file" ref="si1" size="996" type="ALTIMG" width="261">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804009843-si1.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="5154" type="IMAGE-THUMBNAIL" width="85">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804009843-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="325" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="58895" type="IMAGE-DOWNSAMPLED" width="297">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804009843-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="1938" type="IMAGE-THUMBNAIL" width="97">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804009843-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="234" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="7068" type="IMAGE-DOWNSAMPLED" width="244">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804009843-gr2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="90" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="4590" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804009843-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="461" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="162859" type="IMAGE-DOWNSAMPLED" width="641">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804009843-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="89" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="4476" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804009843-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="466" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="163527" type="IMAGE-DOWNSAMPLED" width="657">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804009843-gr4.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="1346" type="IMAGE-THUMBNAIL" width="99">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804009843-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="231" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="4427" type="IMAGE-DOWNSAMPLED" width="245">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804009843-gr5.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>11344264705</scopus-id><scopus-eid>2-s2.0-11344264705</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/11344264705" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20040911">2004-09-11</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20040911">2004-09-11</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-04-19T04:56:56</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838804009843</xocs:eid>
+<xocs:pii-formatted>S0925-8388(04)00984-3</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838804009843</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2004.07.043</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.2</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838800X02320</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.228461-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20050222</xocs:date-search-begin>
+<xocs:year-nav>2005</xocs:year-nav>
+<xocs:indexeddate epoch="1094860800">2004-09-11T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure body mmlmath affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>388</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>388</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>2</xocs:iss-first>
+<xocs:issue-list>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 388, Issue 2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>17</xocs:sort-order>
+<xocs:first-fp>258</xocs:first-fp>
+<xocs:last-lp>261</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>258</xocs:first-page>
+<xocs:last-page>261</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20050222</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>22 February 2005</xocs:cover-date-text>
+<xocs:cover-date-start>2005-02-22</xocs:cover-date-start>
+<xocs:cover-date-year>2005</xocs:cover-date-year>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2004 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>PRODUCTIONFETISIALLOYSILMENITEOREMAGNETICPROPERTIES</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>SAITO</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>T</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>KROLL</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1940</xocs:ref-pub-year>
+<xocs:ref-first-fp>35</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>361</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>FRAY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>26</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>1041</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>FRAY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>433</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>OKABE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>156</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>SASABE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>727</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>SAITOX2005X258</xocs:refkey3>
+<xocs:refkey4lp>SAITOX2005X258X261</xocs:refkey4lp>
+<xocs:refkey4ai>SAITOX2005X258XT</xocs:refkey4ai>
+<xocs:refkey5>SAITOX2005X258X261XT</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(04)00984-3</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838804009843</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838804009843</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2004.07.043</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-10T20:42:45.18554-04:00</xocs:timestamp>
+<xocs:cover-date-start>2005-02-22</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838804009843-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804009843/MAIN/application/pdf/b46e241f481444bc5fef2d2e40710451/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804009843/MAIN/application/pdf/b46e241f481444bc5fef2d2e40710451/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>661372</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838804009843-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804009843/PREVIEW/image/png/76c57f0e5189209a393ec46eb59e1839/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804009843/PREVIEW/image/png/76c57f0e5189209a393ec46eb59e1839/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>59375</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804009843-si1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804009843/STRIPIN/image/gif/5aa5369defe32964dcf8816841dde39b/si1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804009843/STRIPIN/image/gif/5aa5369defe32964dcf8816841dde39b/si1.gif</xocs:ucs-locator>
+<xocs:file-basename>si1</xocs:file-basename>
+<xocs:filename>si1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>996</xocs:filesize>
+<xocs:pixel-height>21</xocs:pixel-height>
+<xocs:pixel-width>261</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804009843-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804009843/gr1/THUMBNAIL/image/gif/b9fae0faaf3f1220592332ae444aa42c/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804009843/gr1/THUMBNAIL/image/gif/b9fae0faaf3f1220592332ae444aa42c/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>5154</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>85</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804009843-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804009843/gr1/DOWNSAMPLED/image/jpeg/8b8a766dd6128716765a3f6404539e4a/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804009843/gr1/DOWNSAMPLED/image/jpeg/8b8a766dd6128716765a3f6404539e4a/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>58895</xocs:filesize>
+<xocs:pixel-height>325</xocs:pixel-height>
+<xocs:pixel-width>297</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804009843-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804009843/gr2/THUMBNAIL/image/gif/1fe781a21dd08b39a906521600779440/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804009843/gr2/THUMBNAIL/image/gif/1fe781a21dd08b39a906521600779440/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1938</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>97</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804009843-gr2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804009843/gr2/DOWNSAMPLED/image/gif/2fc40ad601ce2668f979fdcad00b6fda/gr2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804009843/gr2/DOWNSAMPLED/image/gif/2fc40ad601ce2668f979fdcad00b6fda/gr2.gif</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>7068</xocs:filesize>
+<xocs:pixel-height>234</xocs:pixel-height>
+<xocs:pixel-width>244</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804009843-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804009843/gr3/THUMBNAIL/image/gif/5f922317021e0004b39297823ddbca30/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804009843/gr3/THUMBNAIL/image/gif/5f922317021e0004b39297823ddbca30/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>4590</xocs:filesize>
+<xocs:pixel-height>90</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804009843-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804009843/gr3/DOWNSAMPLED/image/jpeg/c93c989ebf9ead38f6b5ce8187a847e6/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804009843/gr3/DOWNSAMPLED/image/jpeg/c93c989ebf9ead38f6b5ce8187a847e6/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>162859</xocs:filesize>
+<xocs:pixel-height>461</xocs:pixel-height>
+<xocs:pixel-width>641</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804009843-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804009843/gr4/THUMBNAIL/image/gif/559e2604c763c259741019fcaa95eb87/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804009843/gr4/THUMBNAIL/image/gif/559e2604c763c259741019fcaa95eb87/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>4476</xocs:filesize>
+<xocs:pixel-height>89</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804009843-gr4.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804009843/gr4/DOWNSAMPLED/image/jpeg/82fe194c5ea5b4b81091bfb9443b00bc/gr4.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804009843/gr4/DOWNSAMPLED/image/jpeg/82fe194c5ea5b4b81091bfb9443b00bc/gr4.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>163527</xocs:filesize>
+<xocs:pixel-height>466</xocs:pixel-height>
+<xocs:pixel-width>657</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804009843-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804009843/gr5/THUMBNAIL/image/gif/ce67a6f4d0fd04b055de1d2f80fee01a/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804009843/gr5/THUMBNAIL/image/gif/ce67a6f4d0fd04b055de1d2f80fee01a/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1346</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>99</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804009843-gr5.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804009843/gr5/DOWNSAMPLED/image/gif/617dbef6c0a846c9aadd68469f97ce45/gr5.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804009843/gr5/DOWNSAMPLED/image/gif/617dbef6c0a846c9aadd68469f97ce45/gr5.gif</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>4427</xocs:filesize>
+<xocs:pixel-height>231</xocs:pixel-height>
+<xocs:pixel-width>245</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>11501</aid>
+<ce:pii>S0925-8388(04)00984-3</ce:pii>
+<ce:doi>10.1016/j.jallcom.2004.07.043</ce:doi>
+<ce:copyright type="full-transfer" year="2004">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Typical cross-sectional micrograph of the specimen in the crucible. The metallic specimen was seen at the bottom of the crucible.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRD patterns of the metallic specimens produced using (b) the required molar ratio of silicon and (a) half of the required molar ratio.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Scanning electron micrograph of the metallic specimen produced by the use of the required molar ratio of silicon and the corresponding X-ray mappings of titanium (Ti), iron (Fe), and silicon (Si). The matrix and two grain boundary phases (black and gray regions) were seen in the micrograph.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Scanning electron micrograph of the metallic specimen produced by the use of the half of the required molar ratio of silicon and the corresponding X-ray mappings of titanium (Ti), iron (Fe), and silicon (Si). The matrix and a grain boundary phase were seen in the micrograph.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Thermomagnetic curves of (a) FeTiSi and (b) FeTiSi<ce:inf loc="post">2</ce:inf> alloys measured at a field of 40<ce:hsp sp="0.25"></ce:hsp>kA/m in a helium atmosphere.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+</ce:floats>
+<ce:title>Production of Fe–Ti–Si alloys from the ilmenite ore and their magnetic properties</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>Tetsuji</ce:given-name>
+<ce:surname>Saito</ce:surname>
+<ce:cross-ref refid="cor1">*</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Katsuji</ce:given-name>
+<ce:surname>Wakabayashi</ce:surname>
+</ce:author>
+<ce:author>
+<ce:given-name>Satoshi</ce:given-name>
+<ce:surname>Yamashita</ce:surname>
+</ce:author>
+<ce:author>
+<ce:given-name>Minoru</ce:given-name>
+<ce:surname>Sasabe</ce:surname>
+</ce:author>
+<ce:affiliation>
+<ce:textfn>Department of Mechanical Science and Engineering, Chiba Institute of Technology, 2-17-1 Tsudanuma, Narashino, Chiba 275-0016, Japan</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>*</ce:label>
+<ce:text>Corresponding author.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="26" month="6" year="2004"></ce:date-received>
+<ce:date-accepted day="6" month="7" year="2004"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">We report a new smelting reduction process for the production of Fe–Ti–Si alloys directly from ilmenite (FeTiO<ce:inf loc="post">3</ce:inf>) ore by means of the molten silicon equilibrated with the molten slag materials containing CaO, SiO<ce:inf loc="post">2</ce:inf>, Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, and CaF<ce:inf loc="post">2</ce:inf>. X-ray diffraction and microstructural studies revealed that metallic Fe–Ti–Si alloys were successfully produced from ilmenite ore by the direct reduction process. The resultant Fe–Ti–Si alloys consisted mostly of either the FeTiSi or FeTiSi<ce:inf loc="post">2</ce:inf> phase depending on the amount of silicon used. It was found that these silicides exhibit attractively high Curie temperatures (<ce:italic>T</ce:italic>
+<ce:inf loc="post">c</ce:inf>), <ce:italic>T</ce:italic>
+<ce:inf loc="post">c</ce:inf> = 728<ce:hsp sp="0.25"></ce:hsp>K for the FeTiSi phase and <ce:italic>T</ce:italic>
+<ce:inf loc="post">c</ce:inf> = 917<ce:hsp sp="0.25"></ce:hsp>K for the FeTiSi<ce:inf loc="post">2</ce:inf> phase. However, the saturation magnetization of the FeTiSi and FeTiSi<ce:inf loc="post">2</ce:inf> phases was found to be relatively small compared to the other iron compounds.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Ilmenite</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Fe–Ti–Si alloy</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Slag materials</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Ilmenite ore is used for the production of titanium metal. In the titanium production process, ilmenite is first reduced to be rutile, then the rutile is reduced to be titanium metal by means of a metallothermic reduction process, called the Kroll process <ce:cross-ref refid="bib1">[1]</ce:cross-ref>. The Kroll process involves two steps; first the rutile (TiO<ce:inf loc="post">2</ce:inf>) is converted to be titanium tetrachloride (TiCl<ce:inf loc="post">4</ce:inf>) using chlorine (Cl<ce:inf loc="post">2</ce:inf>) gas, and this is then reduced by magnesium metal in a reactor at about 1100<ce:hsp sp="0.25"></ce:hsp>K. The resultant titanium metal is obtained at a deposit on the wall of the reactor, from where it is removed at the end of the reaction. Since this process is no continuous process, but a so-called batch-type process, the productivity is very low compared to that for other metals such as iron or copper. This low productivity gives rise to the higher price of titanium metal. A new titanium production technique is desired in the industry because this metal has many advantages such as high strength and high corrosion resistance.</ce:para>
+<ce:para view="all">Several attempts have been explored for the production of titanium metal from rutile <ce:cross-refs refid="bib2 bib3 bib4 bib5 bib6">[2–6]</ce:cross-refs>. One example is the direct electrochemical reduction of rutile using molten calcium chloride <ce:cross-ref refid="bib2">[2]</ce:cross-ref>. Another new technique is the so-called preform reduction process, based on the calciothermic reduction of preform containing titanium oxide <ce:cross-ref refid="bib6">[6]</ce:cross-ref>. However, these new processes are still underdeveloped and involve the reduction of rutile, not the ilmenite ore itself. From the economic and environmental points of view, it is essential to develop a new reduction process for ilmenite ore.</ce:para>
+<ce:para view="all">In a series of the thermodynamic studies of the molten CaO–SiO<ce:inf loc="post">2</ce:inf>–Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> slag materials and the molten silicon, we have found that the molten silicon equilibrated with the molten CaO–SiO<ce:inf loc="post">2</ce:inf>–Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>–CaF<ce:inf loc="post">2</ce:inf> slag materials can be used for the direct reduction of ilmenite. In this process, Fe–Ti–Si alloys are directly produced from the ilmenite. The structures and magnetic properties of the Fe–Ti–Si alloys were also studied.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental</ce:section-title>
+<ce:para view="all">Ilmenite (FeTiO<ce:inf loc="post">3</ce:inf>) and CaO, SiO<ce:inf loc="post">2</ce:inf>, Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, and CaF<ce:inf loc="post">2</ce:inf> powders were weighed in the proportions of 30<ce:hsp sp="0.25"></ce:hsp>mass% FeTiO<ce:inf loc="post">3</ce:inf>–37.8<ce:hsp sp="0.25"></ce:hsp>mass% CaO–16.8<ce:hsp sp="0.25"></ce:hsp>mass% SiO<ce:inf loc="post">2</ce:inf>–6.3<ce:hsp sp="0.25"></ce:hsp>mass% Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>–7.0<ce:hsp sp="0.25"></ce:hsp>mass% CaF<ce:inf loc="post">2</ce:inf> and then mixed by mortor and pestle. Mixtures of the powder of 20<ce:hsp sp="0.25"></ce:hsp>g in weight were poured into alumina crucibles. The powder mixtures were melted and superheated to 1773<ce:hsp sp="0.25"></ce:hsp>K under a flow of a nitrogen gas. Small amounts of silicon were injected into the molten samples and the samples were kept at 1773<ce:hsp sp="0.25"></ce:hsp>K for 1<ce:hsp sp="0.25"></ce:hsp>h under a flow of a nitrogen gas. After the reaction, the specimens were cooled down to room temperature in the furnace.</ce:para>
+<ce:para view="all">The specimens were removed from the crucibles and then cut for measurements. The phases in the specimens were characterized by X-ray diffraction (XRD) using Cu Kα radiation. The microstructures of the specimens were investigated under a scanning electron microscope (SEM) equipped with an electron probe microanalyzer (EPMA). The saturation magnetization of the specimens was measured by a vibrating sample magnetometer (VSM) with a maximum applied field of 1.6<ce:hsp sp="0.25"></ce:hsp>MA/m. The VSM was calibrated with a pure nickel sphere. The thermomagnetic properties of the specimens were examined at a heating rate of 0.16<ce:hsp sp="0.25"></ce:hsp>K/s in a helium atmosphere by a VSM with an applied field of 40<ce:hsp sp="0.25"></ce:hsp>kA/m.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussions</ce:section-title>
+<ce:para view="all">When the ilmenite (FeTiO<ce:inf loc="post">3</ce:inf>) ore is directly reduced by the molten silicon, one of the products is silicon dioxides (SiO<ce:inf loc="post">2</ce:inf>) and the others are pure titanium metal and iron silicides. Among the iron silicides, one of the most stable is FeSi<ce:inf loc="post">2</ce:inf> in the Fe–Si system alloys. Thus, we first assumed the reduction reaction in this process to be as follows;<ce:display>
+<ce:formula>
+<mml:math altimg="si1.gif" overflow="scroll">
+<mml:mrow>
+<mml:mtext>FeTi</mml:mtext>
+<mml:msub>
+<mml:mtext>O</mml:mtext>
+<mml:mn>3</mml:mn>
+</mml:msub>
+<mml:mo>+</mml:mo>
+<mml:mstyle scriptlevel="1">
+<mml:mfrac>
+<mml:mn>7</mml:mn>
+<mml:mn>2</mml:mn>
+</mml:mfrac>
+</mml:mstyle>
+<mml:mtext>Si</mml:mtext>
+<mml:mo>→</mml:mo>
+<mml:mtext>Ti</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:mtext>FeS</mml:mtext>
+<mml:msub>
+<mml:mtext>i</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:mo>+</mml:mo>
+<mml:mstyle scriptlevel="1">
+<mml:mfrac>
+<mml:mn>3</mml:mn>
+<mml:mn>2</mml:mn>
+</mml:mfrac>
+</mml:mstyle>
+<mml:mtext>Si</mml:mtext>
+<mml:msub>
+<mml:mtext>O</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>As seen in the above equation, a molar ratio of 3.5 times as much silicon as ilmenite was used in this experiment. For comparison, a molar ratio of half the required amount of silicon was also used. After the experiment, the crucible was cut into half to show the appearance of the specimen.</ce:para>
+<ce:para view="all">A typical cross-sectional micrograph of the specimen in the crucible is shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor>. Virtually the same micrograph was obtained from the specimen prepared using half of the required amount of silicon. The specimen in the crucible was clearly separated into two regions. The upper part of the specimen was grayish, which was considered to be the slag materials. On the other hand, the bottom part of the specimen has a metallic surface. Although only oxide and fluoride slag materials were used in the experiment, a metallic specimen was obtained in this process. Sasabe et al. have reported that the CaO–SiO<ce:inf loc="post">2</ce:inf>–Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> slag materials were equilibrated with the molten Si <ce:cross-ref refid="bib7">[7]</ce:cross-ref>. Since we used calcium fluoride CaF<ce:inf loc="post">2</ce:inf> as one of the slag materials, the CaO–SiO<ce:inf loc="post">2</ce:inf>–Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>–CaF<ce:inf loc="post">2</ce:inf> slag materials were also equilibrated with the molten Si. In other words, no reaction was assumed between the CaO–SiO<ce:inf loc="post">2</ce:inf>–Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>–CaF<ce:inf loc="post">2</ce:inf> slag materials and the molten Si. Thus, the ilmenite (FeTiO<ce:inf loc="post">3</ce:inf>) is the material reduced to be the metal in this process. The phases and structures of the metallic specimens were examined by XRD and SEM.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor> shows the XRD patterns of the metallic specimens produced using the required molar ratio of silicon and half of the required molar ratio. The XRD pattern of the metallic specimens produced using the required molar ratio of silicon is indexed to the FeTiSi<ce:inf loc="post">2</ce:inf> and Si phases. This indicates that the metallic specimen produced by the reduction of the ilmenite consists of the FeTiSi<ce:inf loc="post">2</ce:inf> phase. The finding that not the Ti and FeSi<ce:inf loc="post">2</ce:inf> phases but the FeTiSi<ce:inf loc="post">2</ce:inf> phase was obtained from ilmenite by means of the molten silicon was quite unexpected. On the other hand, no diffraction peaks of the FeTiSi<ce:inf loc="post">2</ce:inf> and Si phases are seen in the XRD pattern of the metallic specimens produced using half of required molar ratio. The diffraction peaks are well indexed to the FeTiSi and FeSi phases in the XRD pattern. When half of the required molar ratio of silicon was used in the experiment, the different silicides, FeTiSi and FeSi, were obtained from the ilmenite by means of the molten silicon. Although the metallic specimens can be produced from ilmenite ore by means of the molten silicon, the phases of the metallic specimens are found to be dependent on the molar ratio of molten silicon to ilmenite in this process.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor> shows the SEM micrograph of the metallic specimens produced using the required molar ratio of silicon and the corresponding X-ray mappings of titanium, iron, and silicon. Gray regions and black regions were found between the matrices in the SEM micrograph. Titanium, iron, and silicon were detected in the matrix, as expected for the TiFeSi<ce:inf loc="post">2</ce:inf> phase. No titanium or iron were detected in the black regions where silicon was enriched. This suggests that the black regions are the remaining silicon. According to the XRD studies, the specimen consists of the FeTiSi<ce:inf loc="post">2</ce:inf> and Si phases. However, thin layers of the gray regions are noticed between the FeTiSi<ce:inf loc="post">2</ce:inf> matrix and black Si phases. No iron was detected in the gray regions where titanium and silicon were detected. The composition of the gray regions was found to be TiSi<ce:inf loc="post">2</ce:inf>. Thus, the microstructural studies revealed the existence of a small amount of the TiSi<ce:inf loc="post">2</ce:inf> phase between the FeTiSi<ce:inf loc="post">2</ce:inf> matrix and remaining silicon.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor> shows the SEM micrograph of the metallic specimens produced using half of the required molar ratio of silicon and the corresponding X-ray mappings of titanium, iron, and silicon. The microstructure consists of two phases: the matrix and a second phase. Titanium, iron, and silicon were detected in the matrix, as expected for the FeTiSi phase. No titanium was detected in the second phase where iron and silicon were enriched. This implies that the second phase is the FeSi phase. Unlike the metallic specimens produced using the required molar ratio of silicon, no remaining silicon nor TiSi<ce:inf loc="post">2</ce:inf> phase are found in the microstructure of the metallic specimen produced using half of the required molar ratio. Further studies are essential to determine the reaction between ilmenite and molten silicon equilibrated with molten CaO–SiO<ce:inf loc="post">2</ce:inf>–Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>–CaF<ce:inf loc="post">2</ce:inf> slag materials.</ce:para>
+<ce:para view="all">The FeTiSi and FeTiSi<ce:inf loc="post">2</ce:inf> phases were successfully produced from ilmenite ore by means of molten silicon equilibrated with molten CaO–SiO<ce:inf loc="post">2</ce:inf>–Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>–CaF<ce:inf loc="post">2</ce:inf> slag materials. As far as we are aware, little is known about the properties of FeTiSi and TiFeSi<ce:inf loc="post">2</ce:inf> phases. We therefore, studied the magnetic properties of FeTiSi and FeTiSi<ce:inf loc="post">2</ce:inf>. For the magnetic measurements, FeTiSi and FeTiSi<ce:inf loc="post">2</ce:inf> alloys were prepared by arc-melting and subsequent annealing at 1273<ce:hsp sp="0.25"></ce:hsp>K for 24<ce:hsp sp="0.25"></ce:hsp>h in an argon atmosphere since the Fe–Ti–Si alloys produced by direct reduction of ilmenite contained some other phases. <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="fig5"></ce:float-anchor> shows the thermomagnetic curves of the FeTiSi and FeTiSi<ce:inf loc="post">2</ce:inf> alloys. It was found that these silicides exhibit attractively high Curie temperatures (<ce:italic>T</ce:italic>
+<ce:inf loc="post">c</ce:inf>): <ce:italic>T</ce:italic>
+<ce:inf loc="post">c</ce:inf> = 728<ce:hsp sp="0.25"></ce:hsp>K for the FeTiSi phase and <ce:italic>T</ce:italic>
+<ce:inf loc="post">c</ce:inf> = 917<ce:hsp sp="0.25"></ce:hsp>K for the FeTiSi<ce:inf loc="post">2</ce:inf> phase. However, the saturation magnetization studies revealed that the FeTiSi and FeTiSi<ce:inf loc="post">2</ce:inf> phases had a saturation magnetization of 3.77 × 10<ce:sup loc="post">−2</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>T and 1.72 × 10<ce:sup loc="post">−3</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>T, respectively. Although these silicides contained relatively large amounts of iron, their saturation magnetization was found to be relatively small compared to the other iron compounds.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">The use of molten silicon equilibrated with molten slag materials containing CaO, SiO<ce:inf loc="post">2</ce:inf>, Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, and CaF<ce:inf loc="post">2</ce:inf> for the direct reduction of ilmenite ore was studied. The Fe–Ti–Si alloys consisted of the FeTiSi<ce:inf loc="post">2</ce:inf> and Si phase together with a small amount of TiSi<ce:inf loc="post">2</ce:inf> phase when produced using a molar ratio of 3.5 times as much as ilmenite. On the other hand, the Fe–Ti–Si alloys consisted of the FeTiSi and FeSi phases when produced using a molar ratio of 1.75 times as much as ilmenite. In both cases, the Fe–Ti–Si alloys were produced directly from ilmenite (FeTiO<ce:inf loc="post">3</ce:inf>) ore by means of molten silicon in molten slag materials containing CaO, SiO<ce:inf loc="post">2</ce:inf>, Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, and CaF<ce:inf loc="post">2</ce:inf>. The Curie temperatures and saturation magnetizations of these phases were studied using a vibrating sample magnetometer. The FeTiSi phase exhibited a saturation magnetization of 3.77 × 10<ce:sup loc="post">−2</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>T and a Curie temperature of 728<ce:hsp sp="0.25"></ce:hsp>K. The FeTiSi<ce:inf loc="post">2</ce:inf> phase showed a low saturation magnetization of 1.72 × 10<ce:sup loc="post">−3</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>T and a Curie temperature of 917<ce:hsp sp="0.25"></ce:hsp>K.</ce:para>
+</ce:section>
+</ce:sections>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Kroll</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Tr. Electrochem.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>78</sb:volume-nr>
+</sb:series>
+<sb:date>1940</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>35</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.J.</ce:given-name>
+<ce:surname>Fray</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.W.</ce:given-name>
+<ce:surname>Farthing</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Nature</sb:maintitle>
+</sb:title>
+<sb:volume-nr>407</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>361</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.J.</ce:given-name>
+<ce:surname>Fray</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Met.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>53</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>26</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.J.</ce:given-name>
+<ce:surname>Fray</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.W.</ce:given-name>
+<ce:surname>Farthing</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metall. Trans. B</sb:maintitle>
+</sb:title>
+<sb:volume-nr>32B</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1041</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.J.</ce:given-name>
+<ce:surname>Fray</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Can. Metall. Quart.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>41</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>433</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.H.</ce:given-name>
+<ce:surname>Okabe</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Oda</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Mitsuda</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloy Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>364</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>156</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Sasabe</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Yamashita</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Shiomi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Tamura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Hosokawa</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Sano</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Tetsu-to-Hagane</sb:maintitle>
+</sb:title>
+<sb:volume-nr>87</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>727</sb:first-page>
+</sb:pages>
+</sb:host>
+<sb:comment>(in Japanese)</sb:comment>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

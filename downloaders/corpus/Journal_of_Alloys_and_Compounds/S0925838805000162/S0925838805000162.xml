@@ -1,0 +1,1015 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838805000162</prism:url><dc:identifier>doi:10.1016/j.jallcom.2005.01.009</dc:identifier><eid>1-s2.0-S0925838805000162</eid><prism:doi>10.1016/j.jallcom.2005.01.009</prism:doi><pii>S0925-8388(05)00016-2</pii><dc:title>Effects of Ti on the morphology of high purity iron alloys </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>396</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>224</prism:startingpage><prism:endingpage>227</prism:endingpage><prism:pagerange>224-227</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2005-06-21</prism:coverdate><prism:coverdisplaydate>21 June 2005</prism:coverdisplaydate><prism:copyright>Copyright © 2005 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Talas, S.</dc:creator><dc:creator>Cochrane, R.C.</dc:creator><dc:description>
+                  In this work, microstructural development in high purity iron based weld metals produced by a technique called “synthetic weld metal” is presented. Results indicate that higher Ti percentages (&gt;0.08wt.%) also yields acicular like structures in Fe. Ti additions to Fe–C–Mn and Fe–Mn alloys influences grain substructure formation; the gradual removal of C and Mn shows the role of Ti in modifying the development of overall microstructure of weld metal.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Metals</dcterms:subject><dcterms:subject>Microstructure</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838805000162" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838805000162" rel="scidir"/></coredata><objects><object category="standard" height="479" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="131785" type="IMAGE-DOWNSAMPLED" width="375">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805000162-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="3298" type="IMAGE-THUMBNAIL" width="73">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805000162-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="472" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="130409" type="IMAGE-DOWNSAMPLED" width="375">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805000162-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="3005" type="IMAGE-THUMBNAIL" width="74">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805000162-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="241" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="71235" type="IMAGE-DOWNSAMPLED" width="367">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805000162-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="82" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="4722" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805000162-gr3.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>18844433865</scopus-id><scopus-eid>2-s2.0-18844433865</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/18844433865" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20050204">2005-02-04</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20050204">2005-02-04</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-04-19T04:56:56</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838805000162</xocs:eid>
+<xocs:pii-formatted>S0925-8388(05)00016-2</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805000162</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2005.01.009</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838805X02389</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.346355-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20050621</xocs:date-search-begin>
+<xocs:year-nav>2005</xocs:year-nav>
+<xocs:indexeddate epoch="1107475200">2005-02-04T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>396</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>396</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 396, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>42</xocs:sort-order>
+<xocs:first-fp>224</xocs:first-fp>
+<xocs:last-lp>227</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>224</xocs:first-page>
+<xocs:last-page>227</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20050621</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>21 June 2005</xocs:cover-date-text>
+<xocs:cover-date-start>2005-06-21</xocs:cover-date-start>
+<xocs:cover-date-year>2005</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Metallurgy</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2005 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>EFFECTSTIMORPHOLOGYHIGHPURITYIRONALLOYS</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>TALAS</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>S</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental procedures</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>FARRAR</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1987</xocs:ref-pub-year>
+<xocs:ref-first-fp>3812</xocs:ref-first-fp>
+<xocs:ref-last-lp>3825</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>EVANS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>METALLURGYBASICWELDMETAL</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>EVANS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1982</xocs:ref-pub-year>
+<xocs:ref-first-fp>17</xocs:ref-first-fp>
+<xocs:ref-last-lp>31</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>EVANS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1986</xocs:ref-pub-year>
+<xocs:ref-first-fp>4</xocs:ref-first-fp>
+<xocs:ref-last-lp>20</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>EVANS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1991</xocs:ref-pub-year>
+<xocs:ref-first-fp>22</xocs:ref-first-fp>
+<xocs:ref-last-lp>33</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>SUH</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>1277</xocs:ref-first-fp>
+<xocs:ref-last-lp>1281</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>GREGG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>739</xocs:ref-first-fp>
+<xocs:ref-last-lp>748</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8"></xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>ABSON</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1986</xocs:ref-pub-year>
+<xocs:ref-first-fp>76</xocs:ref-first-fp>
+<xocs:ref-last-lp>101</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>COCHRANE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>207</xocs:ref-first-fp>
+<xocs:ref-last-lp>223</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>TITANIUMTECHNOLOGYINMICROALLOYEDSTEELS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>EAGAR</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1979</xocs:ref-pub-year>
+<xocs:ref-first-fp>31</xocs:ref-first-fp>
+<xocs:ref-last-lp>40</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>PROCEEDINGSWELDINGPHYSICALMETALLURGYFAILUREPHENOMENA</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>BYUN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>1593</xocs:ref-first-fp>
+<xocs:ref-last-lp>1606</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13">
+<xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>237</xocs:ref-first-fp>
+<xocs:ref-last-lp>260</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>JONES</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>2911</xocs:ref-first-fp>
+<xocs:ref-last-lp>2920</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15">
+<xocs:ref-normalized-surname>OSIO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>122</xocs:ref-first-fp>
+<xocs:ref-last-lp>133</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib16"></xocs:ref-info>
+<xocs:ref-info refid="bib17"></xocs:ref-info>
+<xocs:ref-info refid="bib18"></xocs:ref-info>
+<xocs:ref-info refid="bib19">
+<xocs:ref-normalized-surname>BOTT</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>1269</xocs:ref-first-fp>
+<xocs:ref-last-lp>1274</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>TALASX2005X224</xocs:refkey3>
+<xocs:refkey4lp>TALASX2005X224X227</xocs:refkey4lp>
+<xocs:refkey4ai>TALASX2005X224XS</xocs:refkey4ai>
+<xocs:refkey5>TALASX2005X224X227XS</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(05)00016-2</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805000162</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838805000162</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2005.01.009</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-10T20:45:00.008049-04:00</xocs:timestamp>
+<xocs:cover-date-start>2005-06-21</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838805000162-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805000162/MAIN/application/pdf/8bc34e2813ec73c8879584608730dc2a/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805000162/MAIN/application/pdf/8bc34e2813ec73c8879584608730dc2a/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>506613</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838805000162-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805000162/PREVIEW/image/png/de6136f5e56b0cfc58212902a8839550/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805000162/PREVIEW/image/png/de6136f5e56b0cfc58212902a8839550/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>57596</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805000162-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805000162/gr2/DOWNSAMPLED/image/jpeg/7e3940515ddc5cd3a6f414b268bbeb44/gr2.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805000162/gr2/DOWNSAMPLED/image/jpeg/7e3940515ddc5cd3a6f414b268bbeb44/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>131785</xocs:filesize>
+<xocs:pixel-height>479</xocs:pixel-height>
+<xocs:pixel-width>375</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805000162-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805000162/gr2/THUMBNAIL/image/gif/b7411b37360b9c4104f485d4c473c30e/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805000162/gr2/THUMBNAIL/image/gif/b7411b37360b9c4104f485d4c473c30e/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3298</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>73</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805000162-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805000162/gr1/DOWNSAMPLED/image/jpeg/b758f460b72259239e1b29216883c395/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805000162/gr1/DOWNSAMPLED/image/jpeg/b758f460b72259239e1b29216883c395/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>130409</xocs:filesize>
+<xocs:pixel-height>472</xocs:pixel-height>
+<xocs:pixel-width>375</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805000162-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805000162/gr1/THUMBNAIL/image/gif/bdf290a7f7b1155327cc69cb6015ae48/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805000162/gr1/THUMBNAIL/image/gif/bdf290a7f7b1155327cc69cb6015ae48/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3005</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>74</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805000162-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805000162/gr3/DOWNSAMPLED/image/jpeg/81068f685b9b02371abaf01faa300a16/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805000162/gr3/DOWNSAMPLED/image/jpeg/81068f685b9b02371abaf01faa300a16/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>71235</xocs:filesize>
+<xocs:pixel-height>241</xocs:pixel-height>
+<xocs:pixel-width>367</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805000162-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805000162/gr3/THUMBNAIL/image/gif/647f17030f338989c487d3a773c0b29f/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805000162/gr3/THUMBNAIL/image/gif/647f17030f338989c487d3a773c0b29f/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>4722</xocs:filesize>
+<xocs:pixel-height>82</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>11955</aid>
+<ce:pii>S0925-8388(05)00016-2</ce:pii>
+<ce:doi>10.1016/j.jallcom.2005.01.009</ce:doi>
+<ce:copyright type="full-transfer" year="2005">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Optical micrographs of: (a) CMnTi25; and (b) CMnTi35 alloys.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Optical images of: (a) MnTi alloy; and (b) acicular ferrite region of specimen.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Acicular structure observed in FeTi alloy.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:table colsep="0" frame="topbot" id="tbl1" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Compositional and some microstructural characteristics of each alloy studied in wt.% (O content is lower than 100<ce:hsp sp="0.25"></ce:hsp>ppm<ce:hsp sp="0.25"></ce:hsp>wt.% and N is below 60<ce:hsp sp="0.25"></ce:hsp>ppm<ce:hsp sp="0.25"></ce:hsp>wt.% in all specimens)</ce:simple-para>
+</ce:caption>
+<tgroup cols="7">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<colspec colname="col5"></colspec>
+<colspec colname="col6"></colspec>
+<colspec colname="col7"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Alloy</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">C</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Mn</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Average inclusion size (μm)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Inclusion density (incs/mm<sup loc="post">2</sup>)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Grain size (μm)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">CMnTi25</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.06</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.4</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.08</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.1</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1148</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">90</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">CMnTi35</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.06</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.4</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.085</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.88</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1210</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">60</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">MnTi</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.4</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.08</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.32</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">3302</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">34</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">FeTi</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.1</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.8</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">5876</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">36</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+</ce:floats>
+<ce:title>Effects of Ti on the morphology of high purity iron alloys</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Talas</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="cor1">*</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>R.C.</ce:given-name>
+<ce:surname>Cochrane</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation id="aff1">
+<ce:label>a</ce:label>
+<ce:textfn>Technical Education Faculty, A. Kocatepe University, Afyon, Turkey</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff2">
+<ce:label>b</ce:label>
+<ce:textfn>Department of Materials, SPEME, The University of Leeds, UK</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>*</ce:label>
+<ce:text>Corresponding author. Fax: +90 272 2281312.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="16" month="11" year="2004"></ce:date-received>
+<ce:date-revised day="27" month="12" year="2004"></ce:date-revised>
+<ce:date-accepted day="4" month="1" year="2005"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">In this work, microstructural development in high purity iron based weld metals produced by a technique called “synthetic weld metal” is presented. Results indicate that higher Ti percentages (&gt;0.08<ce:hsp sp="0.25"></ce:hsp>wt.%) also yields acicular like structures in Fe. Ti additions to Fe–C–Mn and Fe–Mn alloys influences grain substructure formation; the gradual removal of C and Mn shows the role of Ti in modifying the development of overall microstructure of weld metal.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Metals</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Microstructure</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Acicular ferrite provides relatively tough and strong microstructures, especially in low C and low alloyed steel weld metals produced by common welding processes <ce:cross-refs refid="bib1 bib2">[1,2]</ce:cross-refs>. C and Mn additions are the most studied elements because of their role in the development of morphology of ferrite, especially acicular ferrite (AF). Carbon helps the volume fraction of acicular ferrite increase, generally does not favour primary ferrite transformation products such as grain boundary ferrite <ce:cross-refs refid="bib3 bib4">[3,4]</ce:cross-refs>. The increase is however not limited to only C. Mn also provides solid solution hardening as well as lowering the transformation temperature in steels, leading to formation of acicular ferrite at some optimum level with C and Ti, such that an increase of 0.4<ce:hsp sp="0.25"></ce:hsp>wt.% Mn together with 0.08<ce:hsp sp="0.25"></ce:hsp>wt.% C increased the proportion of acicular ferrite by almost 70% <ce:cross-refs refid="bib2 bib3 bib4 bib5">[2–5]</ce:cross-refs>. This effect was attributed to the behaviour of certain alloying additions around inclusions, forming Mn depleted <ce:cross-ref refid="bib6">[6]</ce:cross-ref> or C depleted zones <ce:cross-ref refid="bib7">[7]</ce:cross-ref>. Similarly, with progressively increasing Ti content in C–Mn steel weld metals, Evans <ce:cross-refs refid="bib2 bib5">[2,5]</ce:cross-refs> concluded that Ti additions were essential to improve the morphology of ferrite in MMA (Manual Metal Arc Welding) weld metal deposits; only 27<ce:hsp sp="0.25"></ce:hsp>ppm<ce:hsp sp="0.25"></ce:hsp>wt.% Ti was necessary to trigger the formation of acicular ferrite structure in optimised C–Mn steel weld metals. Although Ti, Mn and C have marked effects on acicular ferrite formation, most steel weld metals also contain other elements as impurities, such as Al, due to steel making process. Therefore, it can be difficult to isolate the effect of Ti as other alloying elements are also known to severely modify steel weld microstructures. Such effects are also associated with the change in the amount of Mn and Ti in inclusions as well as solid state effect of C, Mn and Ti on the transformation behaviour of ferrite <ce:cross-refs refid="bib7 bib8 bib9 bib10">[7–10]</ce:cross-refs>.</ce:para>
+<ce:para view="all">In this paper the morphology of ferrite in Fe alloys containing Ti with or without C and Mn is investigated by remelting of high purity metal powders. C and Mn have been gradually removed from a CMnTi alloy in order to observe the effect of C and Mn in the presence of Ti.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental procedures</ce:section-title>
+<ce:para view="all">Commercially available high purity powders of C, Fe, Mn, and Ti were mixed to give a nominal composition of 0.07<ce:hsp sp="0.25"></ce:hsp>wt.% C and 1.4<ce:hsp sp="0.25"></ce:hsp>wt.% Mn and various amounts of Ti between 0.08 and 0.1<ce:hsp sp="0.25"></ce:hsp>wt.% Ti. The elemental powders used were better than 99.9% purity and contained approximately 100<ce:hsp sp="0.25"></ce:hsp>ppm<ce:hsp sp="0.25"></ce:hsp>wt.% impurities (mainly oxides and nitrides), whereas the purity of Ti powder was of 99.5% purity and typically contained 3100<ce:hsp sp="0.25"></ce:hsp>ppm<ce:hsp sp="0.25"></ce:hsp>wt.% impurities which were mainly oxides and chlorides. C was added in the form of high purity graphite. The mixture was then compacted using a 740<ce:hsp sp="0.25"></ce:hsp>MPa compaction pressure into pellets weighing 10<ce:hsp sp="0.25"></ce:hsp>g. Compacted pellets were dried for 15<ce:hsp sp="0.25"></ce:hsp>min at ∼120<ce:hsp sp="0.25"></ce:hsp>°C to prevent moisture build-up in the pellet prior to melting in the arc chamber. The pellets were then melted on a copper substrate continuously cooled with tap water using an Ar shielded Tungsten arc. A 10<ce:hsp sp="0.25"></ce:hsp>s melting time was used for all melting cycles on the basis of microscopic examination of specimens. A cooling rate in the range 12–15<ce:hsp sp="0.25"></ce:hsp>°C/s was achieved throughout and no mixing of Cu was detected in subsequent chemical analyses of specimens produced.</ce:para>
+<ce:para view="all">Specimens produced were sliced and subjected to metallographic examination using optical and SEM (Scanning Electron Microscope) of CamScan Series 4 operated at 20<ce:hsp sp="0.25"></ce:hsp>kV and fitted with Oxford Link EDS analyser. Inclusion data were obtained using SEM micrographs of alloys studied, the number of inclusions counted was in the range 160–460 for each specimen, depending on inclusion availability. Grain size measurements were carried out using optical micrographs of each alloy studied, based on the linear intercept method.</ce:para>
+<ce:para view="all">Specimen FeTi was taken from a series in which its Ti content was in the range 0.02–0.08<ce:hsp sp="0.25"></ce:hsp>wt.%, part of a work in reference <ce:cross-ref refid="bib8">[8]</ce:cross-ref>. Here, FeTi refers to Fe alloyed with 0.08<ce:hsp sp="0.25"></ce:hsp>wt.% Ti. Other specimens in FeTi series (up to 0.08<ce:hsp sp="0.25"></ce:hsp>wt.% Ti) are only used in showing the change in inclusion size and population and grain size, therefore will not be taken for further comparison.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:para view="all">Chemical analysis of specimens CMnTi, MnTi and FeTi is given in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+<ce:float-anchor refid="tbl1"></ce:float-anchor>. A consistently low level of O and N resulted from the effective shielding of the melting zone by Ar. Such low levels, less than 100<ce:hsp sp="0.25"></ce:hsp>ppm<ce:hsp sp="0.25"></ce:hsp>wt.% O<ce:inf loc="post">2</ce:inf>, are similar to those found in autogeneous laser welding <ce:cross-ref refid="bib10">[10]</ce:cross-ref> in steels containing Mn and Ti by which the deoxidation of the weld metal is achieved. Similarly, the ‘synthetic weld metal’ process produces similar levels owing to the rapid cleaning action associated with electromagnetic stirring by the arc; GTAW (Gas Tungsten Arc Welding) and vacuum melting methods are well known for their low levels of O and N <ce:cross-refs refid="bib11 bib12">[11,12]</ce:cross-refs>.</ce:para>
+<ce:para view="all">The percentage of Ti is higher in MnTi and FeTi series since CMnTi specimen contained C, in which various oxides of Ti and Mn and/or TiC may have formed in the liquid state and been lost to the slag. The O content of specimens was maintained close to 0.01<ce:hsp sp="0.25"></ce:hsp>wt.%, somewhat lower than that considered as an optimum value for acicular ferrite toughness <ce:cross-ref refid="bib9">[9]</ce:cross-ref>. The changes in inclusion characteristics in all specimens are likely related to number and type of alloying elements, <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>. The presence of C, for example, reduces O further by aggressively forming CO during the melting and Mn and Ti are lost to slag as oxides and freeing more Ti in solution. In the absence of C, this is not the case. With one type of deoxidiser, FeTi produces more inclusions since it is relatively difficult to combine to grow larger and float out after a certain stage of solidification.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor>a and b shows a systematic and progressive change in ferrite morphology with increased Ti content, in which the overall microstructure evolved into a more refined intergranular structure consisting of grain boundary ferrite, acicular ferrite (AF). One significant observation was the progressive replacement of grain boundary ferrite by intragranularly nucleated ferrite. In CMnTi25 alloy, <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>a, the microstructure consists predominantly of grain boundary ferrite, polygonal ferrite and ferrite side plate (FSP) structures in columnar grains, typical of low-C weld metal microstructures <ce:cross-refs refid="bib9 bib10">[9,10]</ce:cross-refs>. With higher Ti levels, CMnTi35 alloy, <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor>b, however, the microstructure is markedly finer consisting largely of acicular ferrite. This is consistent with the literature with an exception of high Ti content compared with 27<ce:hsp sp="0.25"></ce:hsp>ppm<ce:hsp sp="0.25"></ce:hsp>wt.% Ti in Evans’ work <ce:cross-ref refid="bib5">[5]</ce:cross-ref>. The triggering effect caused by low level Ti in his work may be attributed to the welding method used and the number and type of alloying additions in studied alloys, parameters that are not fully employed in this work.</ce:para>
+<ce:para view="all">It is clear from <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref> that the increase in Ti in CMnTi series seems to have caused a marked effect on the overall morphology of ferrite. It is likely that such result is not a consequence of changes in the columnar grain size decreasing from 90 to 60<ce:hsp sp="0.25"></ce:hsp>μm, which would be expected to promote primary ferrite transformation products such as polygonal (PF) and grain boundary ferrite (GF), as shown by others <ce:cross-refs refid="bib13 bib14">[13,14]</ce:cross-refs>. The overall change in composition, number and size of inclusions would be consistent with finer grain size as observed in this study. Complex inclusions, i.e. Ti oxy-nitrides were commonly observed in both specimens. Inclusions in alloy CMnTi25 were mainly of MnO.TiO<ce:inf loc="post">2</ce:inf>, whereas, at high Ti levels, i.e. specimen CMnTi35, pure TiN and/or oxide inclusions coated with a thin layer of TiN were detected in addition to TiO and TiO<ce:inf loc="post">2</ce:inf>. This might be responsible for higher percentage of acicular ferrite in specimen CMnTi35 (over 90%), leading us to the conclusion that a mixture of certain oxides and TiN can trigger the formation of acicular ferrite rather than single composition inclusion. The decrease in grain size would be related to finer inclusion size and higher relative density of inclusions that probably effectively slows the grain growth.</ce:para>
+<ce:para view="all">Removing C from the CMnTi35 alloy produced a unique structure with columnar grain boundaries clearly visible and decorated with polygonal ferrite as well as some ferrite with a feathery appearance, <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>a. The interior of the grains contained many packets of laths, which, again, had a slightly degenerate appearance, <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>b. The majority of the packets appeared to intersect with other packets or were seen sectioned parallel to one or other of their planar interfaces. Such packets may have nucleated directly from prior austenite grain boundaries and therefore grown as side plates or may have formed intragranularly on inclusions. Further growth then appeared to have occurred between the impinging laths to produce an interlocking structure.</ce:para>
+<ce:para view="all">In general, grain boundaries were well decorated with grain boundary ferrite allotriomorphs, which had clearly grown into the columnar grain in some places. It could, therefore, be argued that removal of C from CMnTi35 has promoted the formation of polygonal ferrite either because of a rise in transformation temperature or through the modification of composition of efficient type inclusions which were mainly of MnO.TiO<ce:inf loc="post">2</ce:inf> with little or no TiN layer. The presence of Mn could be responsible for modification of the transformation behaviour of austenite, being an austenite stabiliser, hence reducing transformation temperature thereby promoting the process leading to intragranular formation of ferrite <ce:cross-ref refid="bib15">[15]</ce:cross-ref> with Ti in solution. In addition, both Mn and Ti reduce the amount of O in the weld and hence raise the activity of N, which would be reflected in the formation of a greater number of nitrides or oxy-nitrides shown to be effective as nucleants for intragranular ferrite <ce:cross-ref refid="bib16">[16]</ce:cross-ref>. This is also valid for specimen FeTi.</ce:para>
+<ce:para view="all">As seen in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor>, the removal of Mn from specimen MnTi produced a microstructure with a very distinct polygonal ferrite grain structure and fine acicular structure that is confined to the centre of the columnar grains. The microstructure, in general, comprises large polygonal grains which might have grown from delta iron region of Fe–C phase diagram. The addition of Ti into Fe, or the removal of C and Mn, enlarges the delta iron field and eventually there is less interruption of austenite region <ce:cross-ref refid="bib17">[17]</ce:cross-ref>. Hence, the marked increase in polygonal or degenerate appearance in specimen FeTi is said to be consistent with an increase in transformation temperature as C and Mn are removed <ce:cross-ref refid="bib18">[18]</ce:cross-ref>. However, both the number of oxides and nitrides would be expected to increase with Ti content for a fixed amount of O. In this respect, the increase in Ti will cause more oxides to precipitate, generally of a smaller size assuming that the activity of O decreases with increasing Ti in pure Fe during the progress of solidification, as seen here. Any remaining N in the matrix would be expected to form TiN, and hence enhance the potent effect of such inclusions in the austenite matrix <ce:cross-refs refid="bib16 bib19">[16,19]</ce:cross-refs>. On the other hand, the deoxidation is more rapid as Ti content is raised and would lead to fewer inclusions which would tend to generate the opposite effects. The balance between inclusion population and size would then dictate the microstructural development during subsequent cooling. If too few inclusions are present no acicular ferrite results despite a larger columnar grain size whereas too many encourages polygonal ferrite despite sufficient nucleation sites. However, the equilibrium with a strong deoxidant such as Ti leaves soluble Ti in the iron matrix at the low O levels of this study. It is very likely therefore that there is a solid solubility effect of Ti responsible for AF formation.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">Effects of C and Mn on the formation of AF have been investigated and results indicate that C, Mn and Ti play a crucial role in changing the morphology of ferrite of pure iron. Ti in pure iron is also capable of producing acicular substructure. The formation of such substructure results possibly not only from Ti in solution but also certain inclusion types at ratio determined by the process parameters.</ce:para>
+</ce:section>
+</ce:sections>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.A.J.</ce:given-name>
+<ce:surname>Farrar</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>22</sb:volume-nr>
+</sb:series>
+<sb:date>1987</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>3812</sb:first-page>
+<sb:last-page>3825</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.M.</ce:given-name>
+<ce:surname>Evans</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Bailey</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Metallurgy of Basic Weld Metal</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1999</sb:date>
+<sb:publisher>
+<sb:name>Abington Publishing</sb:name>
+<sb:location>Cambridge</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.M.</ce:given-name>
+<ce:surname>Evans</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Oerlikon-Schweissmitt</sb:maintitle>
+</sb:title>
+<sb:volume-nr>40</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>99</sb:issue-nr>
+<sb:date>1982</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>17</sb:first-page>
+<sb:last-page>31</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.M.</ce:given-name>
+<ce:surname>Evans</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Oerlikon-Schweissmitt</sb:maintitle>
+</sb:title>
+<sb:volume-nr>44</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>114</sb:issue-nr>
+<sb:date>1986</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>4</sb:first-page>
+<sb:last-page>20</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.M.</ce:given-name>
+<ce:surname>Evans</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Oerlikon-Schweissmitt</sb:maintitle>
+</sb:title>
+<sb:volume-nr>49</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>125</sb:issue-nr>
+<sb:date>1991</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>22</sb:first-page>
+<sb:last-page>33</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.Y.</ce:given-name>
+<ce:surname>Suh</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Technol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>16</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1277</sb:first-page>
+<sb:last-page>1281</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.M.</ce:given-name>
+<ce:surname>Gregg</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.K.D.H.</ce:given-name>
+<ce:surname>Bhadeshia</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>45</sb:volume-nr>
+</sb:series>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>739</sb:first-page>
+<sb:last-page>748</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<ce:other-ref>
+<ce:textref>S. Talas, Ph.D. Thesis, The University of Leeds, 2001.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.J.</ce:given-name>
+<ce:surname>Abson</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Welding in the World</sb:maintitle>
+</sb:title>
+<sb:volume-nr>27</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>3/4</sb:issue-nr>
+<sb:date>1986</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>76</sb:first-page>
+<sb:last-page>101</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.C.</ce:given-name>
+<ce:surname>Cochrane</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.J.</ce:given-name>
+<ce:surname>Senogles</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>T.N.</ce:given-name>
+<ce:surname>Baker</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>Titanium Technology in Micro-alloyed Steels</sb:maintitle>
+</sb:title>
+<sb:date>1997</sb:date>
+<sb:publisher>
+<sb:name>The Institute of Materials</sb:name>
+<sb:location>London</sb:location>
+</sb:publisher>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>207</sb:first-page>
+<sb:last-page>223</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.W.</ce:given-name>
+<ce:surname>Eagar</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>R.J.</ce:given-name>
+<ce:surname>Cristoffel</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>Proceedings of the Welding-Physical Metallurgy and Failure Phenomena</sb:maintitle>
+</sb:title>
+<sb:conference>Schenectady, NY</sb:conference>
+<sb:date>1979</sb:date>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>31</sb:first-page>
+<sb:last-page>40</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.S.</ce:given-name>
+<ce:surname>Byun</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.H.</ce:given-name>
+<ce:surname>Shim</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.W.</ce:given-name>
+<ce:surname>Cho</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.N.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>51</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1593</sb:first-page>
+<sb:last-page>1606</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.A.</ce:given-name>
+<ce:surname>Farrar</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Technol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>12</sb:volume-nr>
+</sb:series>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>237</sb:first-page>
+<sb:last-page>260</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.J.</ce:given-name>
+<ce:surname>Jones</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.K.D.H.</ce:given-name>
+<ce:surname>Bhadeshia</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>45</sb:volume-nr>
+</sb:series>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2911</sb:first-page>
+<sb:last-page>2920</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.S.</ce:given-name>
+<ce:surname>Osio</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Liu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.L.</ce:given-name>
+<ce:surname>Olson</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>221</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>122</sb:first-page>
+<sb:last-page>133</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib16">
+<ce:label>[16]</ce:label>
+<ce:other-ref>
+<ce:textref>M.N. Ilman, Ph.D. Thesis, The University of Leeds, 2001.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib17">
+<ce:label>[17]</ce:label>
+<sb:reference>
+<sb:host>
+<sb:e-host>
+<ce:inter-ref xlink:href="http://web.met.kth.se/dct/pd/element/Fe-Ti.html" xlink:type="simple">http://web.met.kth.se/dct/pd/element/Fe-Ti.html</ce:inter-ref>
+</sb:e-host>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib18">
+<ce:label>[18]</ce:label>
+<sb:reference>
+<sb:host>
+<sb:e-host>
+<ce:inter-ref xlink:href="http://web.met.kth.se/dct/pd/element/Fe-Mn.html" xlink:type="simple">http://web.met.kth.se/dct/pd/element/Fe-Mn.html</ce:inter-ref>
+</sb:e-host>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib19">
+<ce:label>[19]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>I.D.</ce:given-name>
+<ce:surname>Bott</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.R.</ce:given-name>
+<ce:surname>Rios</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scripta Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>38</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>8</sb:issue-nr>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1269</sb:first-page>
+<sb:last-page>1274</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

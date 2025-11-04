@@ -1,0 +1,1233 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838805003397</prism:url><dc:identifier>doi:10.1016/j.jallcom.2005.04.007</dc:identifier><eid>1-s2.0-S0925838805003397</eid><prism:doi>10.1016/j.jallcom.2005.04.007</prism:doi><pii>S0925-8388(05)00339-7</pii><dc:title>Ti–V–Mn based alloys for hydrogen compression system </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>400</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>276</prism:startingpage><prism:endingpage>280</prism:endingpage><prism:pagerange>276-280</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2005-09-01</prism:coverdate><prism:coverdisplaydate>1 September 2005</prism:coverdisplaydate><prism:copyright>Copyright © 2005 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Dehouche, Z.</dc:creator><dc:creator>Savard, M.</dc:creator><dc:creator>Laurencelle, F.</dc:creator><dc:creator>Goyette, J.</dc:creator><dc:description>
+                  Ti–V–Mn based hydrides are one family of alloys with improved hydrogenation properties and they have a great potential to replace the AB5 alloys as the sorption materials in hydrogen compression systems, although there still are many problems associated with their use, including unstable reversible hydrogen capacity and unfavorable thermodynamic properties. To gain a better understanding on the effect of the substitution elements and to optimize the alloy composition for high storage capacity, the influence of the alloy stoichiometry was investigated. Ti–Zr–V–Mn alloys were prepared by arc melting technique and were annealed in vacuum at temperature above 900°C to obtain great sorption properties. Hydrogen absorption and desorption kinetics and PCT characteristics of these alloys at ambient temperature were measured and compared. These hydrogen storage features were also discussed in relation to the effect of alloy element compositions. Ti–Zr–V–Mn alloy cycling behavior was also examined.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Hydrogen storage materials</dcterms:subject><dcterms:subject>Gas–solid reactions</dcterms:subject><dcterms:subject>Ti–V–Mn based alloys</dcterms:subject><dcterms:subject>Cycling</dcterms:subject><dcterms:subject>Thermal compression</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838805003397" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838805003397" rel="scidir"/></coredata><objects><object category="standard" height="274" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr8" size="40364" type="IMAGE-DOWNSAMPLED" width="351">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805003397-gr8.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr8" size="3627" type="IMAGE-THUMBNAIL" width="120">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805003397-gr8.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="256" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="37351" type="IMAGE-DOWNSAMPLED" width="351">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805003397-gr4.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="91" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="3610" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805003397-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="244" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="28234" type="IMAGE-DOWNSAMPLED" width="341">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805003397-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="90" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="2988" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805003397-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="284" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr9" size="45851" type="IMAGE-DOWNSAMPLED" width="352">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805003397-gr9.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr9" size="3796" type="IMAGE-THUMBNAIL" width="115">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805003397-gr9.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="237" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr6" size="30672" type="IMAGE-DOWNSAMPLED" width="351">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805003397-gr6.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="84" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="3105" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805003397-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="420" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="119798" type="IMAGE-DOWNSAMPLED" width="753">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805003397-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="70" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="2803" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805003397-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="253" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr7" size="42363" type="IMAGE-DOWNSAMPLED" width="352">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805003397-gr7.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="90" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="3923" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805003397-gr7.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="254" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr5" size="25936" type="IMAGE-DOWNSAMPLED" width="347">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805003397-gr5.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="92" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="2791" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805003397-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="283" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="37340" type="IMAGE-DOWNSAMPLED" width="344">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805003397-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="3212" type="IMAGE-THUMBNAIL" width="113">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805003397-gr2.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>23844437306</scopus-id><scopus-eid>2-s2.0-23844437306</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/23844437306" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20050531">2005-05-31</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20050531">2005-05-31</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-04-17T10:08:11</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838805003397</xocs:eid>
+<xocs:pii-formatted>S0925-8388(05)00339-7</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805003397</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2005.04.007</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838805X02420</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20201123">2020-11-23T00:44:25.082939Z</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20050901</xocs:date-search-begin>
+<xocs:year-nav>2005</xocs:year-nav>
+<xocs:indexeddate epoch="1117497600">2005-05-31T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>400</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>400</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 400, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>50</xocs:sort-order>
+<xocs:first-fp>276</xocs:first-fp>
+<xocs:last-lp>280</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>276</xocs:first-page>
+<xocs:last-page>280</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20050901</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>1 September 2005</xocs:cover-date-text>
+<xocs:cover-date-start>2005-09-01</xocs:cover-date-start>
+<xocs:cover-date-year>2005</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Materials Science</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2005 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>TIVMNBASEDALLOYSFORHYDROGENCOMPRESSIONSYSTEM</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>DEHOUCHE</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>Z</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental procedure</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Cycling of Ti<ce:inf loc="post">0.9</ce:inf>Zr<ce:inf loc="post">0.1</ce:inf>V<ce:inf loc="post">0.3</ce:inf>Mn<ce:inf loc="post">1.3</ce:inf>
+</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Influence of the temperature and annealing atmosphere</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Influence of manganese in Ti<ce:inf loc="post">0.9</ce:inf>Zr<ce:inf loc="post">01</ce:inf>V<ce:inf loc="post">0.3</ce:inf>Mn<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf>
+</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Influence of vanadium in Ti<ce:inf loc="post">0.95</ce:inf>Zr<ce:inf loc="post">0.05</ce:inf>V<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf>Mn<ce:inf loc="post">
+<ce:italic>y</ce:italic>
+</ce:inf>
+</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.5</xocs:item-toc-label>
+<xocs:item-toc-section-title>Influence of zirconium in Ti<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+</ce:inf>Zr<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf>V<ce:inf loc="post">0.3</ce:inf>Mn<ce:inf loc="post">
+<ce:italic>y</ce:italic>
+</ce:inf>
+</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>DEHOUCHE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>224</xocs:ref-first-fp>
+<xocs:ref-last-lp>236</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>DEHOUCHE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>PROCEEDINGS1STANNUALREPORTPRESENTEDNATURALRESOURCESCANADA</xocs:ref-normalized-srctitle>
+<xocs:ref-normalized-article-title>DEVELOPMENTATHERMALHYDROGENCOMPRESSORBASEDMETALHYDRIDES</xocs:ref-normalized-article-title>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>DEHOUCHE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>PROCEEDINGS2NDANNUALREPORTPRESENTEDNATURALRESOURCESCANADA</xocs:ref-normalized-srctitle>
+<xocs:ref-normalized-article-title>DEVELOPMENTATHERMALHYDROGENCOMPRESSORBASEDMETALHYDRIDES</xocs:ref-normalized-article-title>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>SEMBOSHI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>210</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>MITROKHIN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>146</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>AKIBA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>461</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>HAGSTROM</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>127</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>PARK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>293</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>XU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>593</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>BOBET</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>359</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>AU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>53</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>SEMBOSHI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>917</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13">
+<xocs:ref-normalized-surname>DEHOUCHE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>269</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>DEHOUCHEX2005X276</xocs:refkey3>
+<xocs:refkey4lp>DEHOUCHEX2005X276X280</xocs:refkey4lp>
+<xocs:refkey4ai>DEHOUCHEX2005X276XZ</xocs:refkey4ai>
+<xocs:refkey5>DEHOUCHEX2005X276X280XZ</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:funding-list has-funding-info="1">
+<xocs:funding-addon-generated-timestamp>2020-11-19T10:39:37.634Z</xocs:funding-addon-generated-timestamp>
+<xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/nlp</xocs:funding-addon-type>
+<xocs:funding-source-document source-document-type="pii">S0925838805003397</xocs:funding-source-document>
+<xocs:funding>
+<xocs:funding-agency-matched-string>Ministère des Ressources Naturelles du Québec</xocs:funding-agency-matched-string>
+<xocs:funding-agency-acronym>MERN</xocs:funding-agency-acronym>
+<xocs:funding-agency>Ministère de l'Énergie et des Ressources Naturelles</xocs:funding-agency>
+<xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100005996</xocs:funding-agency-id>
+<xocs:funding-agency-country>http://sws.geonames.org/6251999/</xocs:funding-agency-country>
+</xocs:funding>
+<xocs:funding>
+<xocs:funding-agency-matched-string>Natural Resources Canada</xocs:funding-agency-matched-string>
+<xocs:funding-agency-acronym>NRCan</xocs:funding-agency-acronym>
+<xocs:funding-agency>Natural Resources Canada</xocs:funding-agency>
+<xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100000159</xocs:funding-agency-id>
+<xocs:funding-agency-country>http://sws.geonames.org/6251999/</xocs:funding-agency-country>
+</xocs:funding>
+<xocs:funding-text>This work was made in partnership with Stuart Energy Systems Inc. and has been supported financially by the Ministère des Ressources Naturelles du Québec and by Natural Resources Canada.</xocs:funding-text>
+</xocs:funding-list>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(05)00339-7</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805003397</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838805003397</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2005.04.007</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-10T16:23:38.201735-04:00</xocs:timestamp>
+<xocs:cover-date-start>2005-09-01</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838805003397-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805003397/MAIN/application/pdf/1ba87b1c7c7c8f24584dcf6c098992bf/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805003397/MAIN/application/pdf/1ba87b1c7c7c8f24584dcf6c098992bf/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>598222</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838805003397-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805003397/PREVIEW/image/png/2fd3cc08dad18d91127e939cafae5c3b/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805003397/PREVIEW/image/png/2fd3cc08dad18d91127e939cafae5c3b/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>64213</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805003397-gr8.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805003397/gr8/DOWNSAMPLED/image/jpeg/be3f9d59947f7cb980b67b68a41cab77/gr8.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805003397/gr8/DOWNSAMPLED/image/jpeg/be3f9d59947f7cb980b67b68a41cab77/gr8.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>40364</xocs:filesize>
+<xocs:pixel-height>274</xocs:pixel-height>
+<xocs:pixel-width>351</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805003397-gr8.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805003397/gr8/THUMBNAIL/image/gif/fec8f1d5dd4f9b00c59bcbe754d1c9e6/gr8.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805003397/gr8/THUMBNAIL/image/gif/fec8f1d5dd4f9b00c59bcbe754d1c9e6/gr8.sml</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3627</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>120</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805003397-gr4.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805003397/gr4/DOWNSAMPLED/image/jpeg/a77465847a429692fd4e4e9fcb21db19/gr4.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805003397/gr4/DOWNSAMPLED/image/jpeg/a77465847a429692fd4e4e9fcb21db19/gr4.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>37351</xocs:filesize>
+<xocs:pixel-height>256</xocs:pixel-height>
+<xocs:pixel-width>351</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805003397-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805003397/gr4/THUMBNAIL/image/gif/aabab9cf37adc1e8dbba4089dc28fb1d/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805003397/gr4/THUMBNAIL/image/gif/aabab9cf37adc1e8dbba4089dc28fb1d/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3610</xocs:filesize>
+<xocs:pixel-height>91</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805003397-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805003397/gr1/DOWNSAMPLED/image/jpeg/5d1bb168922547f0a147db43d079d629/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805003397/gr1/DOWNSAMPLED/image/jpeg/5d1bb168922547f0a147db43d079d629/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>28234</xocs:filesize>
+<xocs:pixel-height>244</xocs:pixel-height>
+<xocs:pixel-width>341</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805003397-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805003397/gr1/THUMBNAIL/image/gif/6d253698397610b684e4d8a8d6687a86/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805003397/gr1/THUMBNAIL/image/gif/6d253698397610b684e4d8a8d6687a86/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2988</xocs:filesize>
+<xocs:pixel-height>90</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805003397-gr9.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805003397/gr9/DOWNSAMPLED/image/jpeg/e5d4b1bfee22709e786acf1a68f85c86/gr9.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805003397/gr9/DOWNSAMPLED/image/jpeg/e5d4b1bfee22709e786acf1a68f85c86/gr9.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>45851</xocs:filesize>
+<xocs:pixel-height>284</xocs:pixel-height>
+<xocs:pixel-width>352</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805003397-gr9.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805003397/gr9/THUMBNAIL/image/gif/8f565ec80993927ec0a4893429fbba48/gr9.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805003397/gr9/THUMBNAIL/image/gif/8f565ec80993927ec0a4893429fbba48/gr9.sml</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3796</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>115</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805003397-gr6.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805003397/gr6/DOWNSAMPLED/image/jpeg/d6fb8d9825c6943af6c05513671ae7f4/gr6.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805003397/gr6/DOWNSAMPLED/image/jpeg/d6fb8d9825c6943af6c05513671ae7f4/gr6.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>30672</xocs:filesize>
+<xocs:pixel-height>237</xocs:pixel-height>
+<xocs:pixel-width>351</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805003397-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805003397/gr6/THUMBNAIL/image/gif/ee3790b9cd149b12c54f644fa2fcf142/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805003397/gr6/THUMBNAIL/image/gif/ee3790b9cd149b12c54f644fa2fcf142/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3105</xocs:filesize>
+<xocs:pixel-height>84</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805003397-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805003397/gr3/DOWNSAMPLED/image/jpeg/59222d4335cd86c3dc7230771c51c504/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805003397/gr3/DOWNSAMPLED/image/jpeg/59222d4335cd86c3dc7230771c51c504/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>119798</xocs:filesize>
+<xocs:pixel-height>420</xocs:pixel-height>
+<xocs:pixel-width>753</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805003397-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805003397/gr3/THUMBNAIL/image/gif/be93876b6352c55cab8ed11a2fc3d764/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805003397/gr3/THUMBNAIL/image/gif/be93876b6352c55cab8ed11a2fc3d764/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2803</xocs:filesize>
+<xocs:pixel-height>70</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805003397-gr7.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805003397/gr7/DOWNSAMPLED/image/jpeg/bc0f663f2abefcd91c4468a32922389e/gr7.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805003397/gr7/DOWNSAMPLED/image/jpeg/bc0f663f2abefcd91c4468a32922389e/gr7.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>42363</xocs:filesize>
+<xocs:pixel-height>253</xocs:pixel-height>
+<xocs:pixel-width>352</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805003397-gr7.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805003397/gr7/THUMBNAIL/image/gif/d703e91509cf77c65022ca4b6abde20f/gr7.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805003397/gr7/THUMBNAIL/image/gif/d703e91509cf77c65022ca4b6abde20f/gr7.sml</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3923</xocs:filesize>
+<xocs:pixel-height>90</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805003397-gr5.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805003397/gr5/DOWNSAMPLED/image/jpeg/29affcdfffd7bc8c12f80a25fd518e4f/gr5.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805003397/gr5/DOWNSAMPLED/image/jpeg/29affcdfffd7bc8c12f80a25fd518e4f/gr5.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>25936</xocs:filesize>
+<xocs:pixel-height>254</xocs:pixel-height>
+<xocs:pixel-width>347</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805003397-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805003397/gr5/THUMBNAIL/image/gif/f793fbe3c3dca213529e951509a2e42e/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805003397/gr5/THUMBNAIL/image/gif/f793fbe3c3dca213529e951509a2e42e/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2791</xocs:filesize>
+<xocs:pixel-height>92</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805003397-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805003397/gr2/DOWNSAMPLED/image/jpeg/7898fc98958e649c38e1754e4399e418/gr2.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805003397/gr2/DOWNSAMPLED/image/jpeg/7898fc98958e649c38e1754e4399e418/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>37340</xocs:filesize>
+<xocs:pixel-height>283</xocs:pixel-height>
+<xocs:pixel-width>344</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805003397-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805003397/gr2/THUMBNAIL/image/gif/39d00fad6e6b48514a5ba7d0896c2bfd/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805003397/gr2/THUMBNAIL/image/gif/39d00fad6e6b48514a5ba7d0896c2bfd/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3212</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>113</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>12171</aid>
+<ce:pii>S0925-8388(05)00339-7</ce:pii>
+<ce:doi>10.1016/j.jallcom.2005.04.007</ce:doi>
+<ce:copyright type="full-transfer" year="2005">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">PCT comparison for LmNi<ce:inf loc="post">4.9</ce:inf>Sn<ce:inf loc="post">0.1</ce:inf> and Ti<ce:inf loc="post">0.9</ce:inf>Zr<ce:inf loc="post">0.1</ce:inf>V<ce:inf loc="post">0.3</ce:inf>Mn<ce:inf loc="post">1.28</ce:inf>.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Desorption rate comparison for LmNi<ce:inf loc="post">4.9</ce:inf>Sn<ce:inf loc="post">0.1</ce:inf> and Ti<ce:inf loc="post">0.9</ce:inf>Zr<ce:inf loc="post">0.1</ce:inf>V<ce:inf loc="post">0.3</ce:inf>Mn<ce:inf loc="post">1.28</ce:inf>.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Volumetric hydrogen titration system and the user Screen software.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Dynamic measurements for Ti<ce:inf loc="post">0.9</ce:inf>Zr<ce:inf loc="post">0.1</ce:inf>V<ce:inf loc="post">0.3</ce:inf>Mn<ce:inf loc="post">1.3</ce:inf> alloy taken during activation, after 2 and after 235 cycles.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Pressure–composition isotherm of Ti<ce:inf loc="post">0.9</ce:inf>Zr<ce:inf loc="post">0.1</ce:inf>V<ce:inf loc="post">0.3</ce:inf>Mn<ce:inf loc="post">1.3</ce:inf> at 23<ce:hsp sp="0.25"></ce:hsp>°C taken after the second cycle.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Ti<ce:inf loc="post">0.9</ce:inf>Zr<ce:inf loc="post">0.1</ce:inf>V<ce:inf loc="post">0.3</ce:inf>Mn<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf>—PCT at 23<ce:hsp sp="0.25"></ce:hsp>°C at second cycle.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+<ce:figure id="fig7">
+<ce:label>Fig. 7</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Ti<ce:inf loc="post">0.9</ce:inf>Zr<ce:inf loc="post">01</ce:inf>V<ce:inf loc="post">0.3</ce:inf>Mn<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf> alloys activations at 23<ce:hsp sp="0.25"></ce:hsp>°C.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr7"></ce:link>
+</ce:figure>
+<ce:figure id="fig8">
+<ce:label>Fig. 8</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Ti<ce:inf loc="post">0.95</ce:inf>Zr<ce:inf loc="post">0.05</ce:inf>V<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf>Mn<ce:inf loc="post">
+<ce:italic>y</ce:italic>
+</ce:inf>—PCT at 23<ce:hsp sp="0.25"></ce:hsp>°C to second cycle.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr8"></ce:link>
+</ce:figure>
+<ce:figure id="fig9">
+<ce:label>Fig. 9</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Ti<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+</ce:inf>Zr<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf>V<ce:inf loc="post">0.3</ce:inf>Mn<ce:inf loc="post">
+<ce:italic>y</ce:italic>
+</ce:inf>—PCT at 23<ce:hsp sp="0.25"></ce:hsp>°C to second cycle.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr9"></ce:link>
+</ce:figure>
+</ce:floats>
+<ce:title>Ti–V–Mn based alloys for hydrogen compression system</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Dehouche</ce:surname>
+<ce:cross-ref refid="cor1">*</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Savard</ce:surname>
+</ce:author>
+<ce:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Laurencelle</ce:surname>
+</ce:author>
+<ce:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Goyette</ce:surname>
+</ce:author>
+<ce:affiliation>
+<ce:textfn>Institut de Recherche sur l’hydrogène, Université du Québec à Trois-Rivières, C.P. 500, Trois-Rivières, Qué., Canada G9A 5H7</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>*</ce:label>
+<ce:text>Corresponding author.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="23" month="3" year="2005"></ce:date-received>
+<ce:date-accepted day="6" month="4" year="2005"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">Ti–V–Mn based hydrides are one family of alloys with improved hydrogenation properties and they have a great potential to replace the AB<ce:inf loc="post">5</ce:inf> alloys as the sorption materials in hydrogen compression systems, although there still are many problems associated with their use, including unstable reversible hydrogen capacity and unfavorable thermodynamic properties. To gain a better understanding on the effect of the substitution elements and to optimize the alloy composition for high storage capacity, the influence of the alloy stoichiometry was investigated. Ti–Zr–V–Mn alloys were prepared by arc melting technique and were annealed in vacuum at temperature above 900<ce:hsp sp="0.25"></ce:hsp>°C to obtain great sorption properties. Hydrogen absorption and desorption kinetics and PCT characteristics of these alloys at ambient temperature were measured and compared. These hydrogen storage features were also discussed in relation to the effect of alloy element compositions. Ti–Zr–V–Mn alloy cycling behavior was also examined.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Hydrogen storage materials</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Gas–solid reactions</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Ti–V–Mn based alloys</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Cycling</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Thermal compression</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Hydrogen compression is a key component in hydrogen generators and Hydrogen Research Institute (HRI) believes that metal hydride based hydrogen compression may offer advantages over mechanical compression in terms of scalability (a near-continuous range of outputs is achievable, with highest cost effectiveness in small size systems), reliability and cost.</ce:para>
+<ce:para view="all">The use of the metal hydride technology to compress hydrogen implies a judicious strategy to select reactive alloys adapted to each of the compression stages. The experimental measurements of the thermodynamic and kinetic properties of various alloys were carried out. A first selection among various alloys of the AB<ce:inf loc="post">5</ce:inf> family allowing us to reach a pressure of 20<ce:hsp sp="0.25"></ce:hsp>atm has been carried out <ce:cross-refs refid="bib1 bib2">[1,2]</ce:cross-refs>. We have also started studying materials of the AB<ce:inf loc="post">2</ce:inf> family and have found interesting performances in terms of speed and flow of compression <ce:cross-ref refid="bib3">[3]</ce:cross-ref>.</ce:para>
+<ce:para view="all">The search for increased performances in term of capacity and flow of compression led us naturally towards the study of another family of materials using elements lighter than lanthanum or rare earths: AB<ce:inf loc="post">2</ce:inf>. This series of alloys, mainly based on the compounds containing titanium manganese (TiMn<ce:inf loc="post">2</ce:inf>, TiV<ce:inf loc="post">2</ce:inf>, TiCr<ce:inf loc="post">2</ce:inf>), meets these aims since they present, in solid–gas reaction, hydrogen capacities and rates of 20–50% higher than those obtained from materials derived from LaNi<ce:inf loc="post">5</ce:inf> (<ce:cross-refs refid="fig1 fig2">Figs. 1 and 2</ce:cross-refs>
+<ce:float-anchor refid="fig1"></ce:float-anchor>
+<ce:float-anchor refid="fig2"></ce:float-anchor>). Unfortunately, we came to realize rather quickly that their thermodynamic instability does not allow considering their use in the compressor at this moment. Our research on these alloys was therefore rather oriented towards the comprehension of the role of the various substitution components on the thermodynamics characteristics (stabilization of the plateaus, hysteresis ratios and hydrogen solubility), kinetics (improvement of the characteristics of loads and discharge) and lifespan.</ce:para>
+<ce:para view="all">The Ti-based alloys were studied extensively, because of their potential great sorption capacity at ambient temperature (∼2<ce:hsp sp="0.25"></ce:hsp>wt.%) with high reactivity rates <ce:cross-refs refid="bib4 bib5 bib6 bib7 bib8 bib9 bib10 bib11 bib12">[4–12]</ce:cross-refs>. Moreover, the position of the absorption and desorption plateaus (from 2 to 10<ce:hsp sp="0.25"></ce:hsp>atm) made them good candidates for the compressor project. In accordance with preceding measurements, new materials containing Ti–Zr–V–Mn were synthesized. The goal of these new measurements was to stabilize the storage capacity at 2% after the second cycle. To achieve this goal, certain materials underwent more than 200 cycles, various methods and temperatures of annealing were evaluated and various intermetallic stoichiometry (alloy composition formulations) were characterized. Following these measurements, it appeared that the properties of hydrogenation of this AB<ce:inf loc="post">2</ce:inf> type were largely influenced by the quantity of Mn in the material. Manganese has a point of evaporation much lower than other metals. Thus, the synthesis by arc melting is problematic for the reproducibility of the composition of Mn in the structure of the AB<ce:inf loc="post">2</ce:inf>. However, by proceeding systematically, the optimal quantity of Mn could be determined. Finally, the influence of the composition variations of V and Zr were also measured.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental procedure</ce:section-title>
+<ce:para view="all">The TiMn<ce:inf loc="post">2</ce:inf>-based alloy samples were prepared from pure elements (purity of Zr<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>99%, V<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>99.5% and Ti, Mn<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>99.9%) by arc melting under argon atmosphere with a non-consumable tungsten electrode and a water-cooled copper tray. Each ingot was melted several times in order to homogenize the alloy composition and then annealed under vacuum of 10<ce:sup loc="post">−3</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>mbar in quartz tube at least 900<ce:hsp sp="0.25"></ce:hsp>°C for 72<ce:hsp sp="0.25"></ce:hsp>h in order to obtain the equilibrium BCC structure. Chemical composition of the synthesized samples was not analysed, but the sample weight difference before and after a full treatment was negligible.</ce:para>
+<ce:para view="all">The sorption properties of materials were measured using a fully automated Sieverts hydrogen titration instrument (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor>). A detailed description of this experimental technique is available in <ce:cross-ref refid="bib13">[13]</ce:cross-ref>. The annealed samples were crushed in the glove box (under argon atmosphere) just before insertion into high-pressure sample cell and connected to the apparatus. Before starting activation experiment, the samples were outgassed for at least 1<ce:hsp sp="0.25"></ce:hsp>h at a vacuum pressure of 1<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>10<ce:sup loc="post">−3</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>mbar. The mass of studied samples is usually 1<ce:hsp sp="0.25"></ce:hsp>g. The hydrogen sorption rates were metered by a <ce:italic>Brooks</ce:italic> mass flow rate controller. The samples were then activated at a hydrogen pressure of 25<ce:hsp sp="0.25"></ce:hsp>atm and ambient temperature. The activation step eliminates surface barriers for hydrogen penetration and it prepares the alloy for repeated uses, to rapidly take up and release hydrogen. Finally, to complete the activation process, the alloys are also cycled.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:para view="all">Different Ti–Zr–V–Mn alloys with different Mn, V and Zr compositions are synthesized. The hydrogen sorption properties of these intermetallics were examined in order to develop the best alloy formulation having high hydrogen capacity, improved equilibrium plateau level and low hysteresis ratio.</ce:para>
+<ce:section view="all">
+<ce:label>3.1</ce:label>
+<ce:section-title>Cycling of Ti<ce:inf loc="post">0.9</ce:inf>Zr<ce:inf loc="post">0.1</ce:inf>V<ce:inf loc="post">0.3</ce:inf>Mn<ce:inf loc="post">1.3</ce:inf>
+</ce:section-title>
+<ce:para view="all">
+<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor> shows the sorption kinetics behaviour of Ti<ce:inf loc="post">0.9</ce:inf>Zr<ce:inf loc="post">0.1</ce:inf>V<ce:inf loc="post">0.3</ce:inf>Mn<ce:inf loc="post">1.3</ce:inf> alloy at ambient temperature (23<ce:hsp sp="0.25"></ce:hsp>°C) before and after 235 cycles, and the initial absorption activation for comparison. <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref> shows clearly that the degradation of the hydrogenation capacity appears only after the first cycle. Thereafter, this sample resists well to the cycling and it preserves a hydrogen capacity of 1.6<ce:hsp sp="0.25"></ce:hsp>wt.% H. We also observe an improvement of desorption kinetics during cycling. Hydrogen absorption and desorption isotherm taken at 23<ce:hsp sp="0.25"></ce:hsp>°C for activated Ti<ce:inf loc="post">0.9</ce:inf>Zr<ce:inf loc="post">0.1</ce:inf>V<ce:inf loc="post">0.3</ce:inf>Mn<ce:inf loc="post">1.3</ce:inf> sample is presented in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="fig5"></ce:float-anchor>. This result demonstrates good reversible hydrogen storage capacity. But the PCT curve shows two stepped plateau region, which reduces effective hydrogen capacity. It is also important to note that the sample show small hysteresis ratio and plateaus slope, which are helping in increasing the sorption cycle's efficiency.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.2</ce:label>
+<ce:section-title>Influence of the temperature and annealing atmosphere</ce:section-title>
+<ce:para view="all">In order to homogenize the phase structure, the alloys were annealed in vacuum quartz tubes at temperatures ranging from 900 to 1100<ce:hsp sp="0.25"></ce:hsp>°C. We noticed that all the samples containing manganese (Mn) oxidize at temperatures higher than 950<ce:hsp sp="0.25"></ce:hsp>°C. In this case, the Mn vapours can react with quartz (SiO<ce:inf loc="post">2</ce:inf>) and thus release oxygen, which oxidizes materials. Consequently, we have determined that the optimal temperature of annealing in the vacuum quartz tubes is 900<ce:hsp sp="0.25"></ce:hsp>°C. A set-up for a device making it possible to heat under atmosphere of argon or hydrogen is under construction. This could allow us to obtain higher temperatures of annealing and thus, perhaps, to stabilize the thermodynamic properties of the AB<ce:inf loc="post">2</ce:inf> by homogenizing more their structures.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.3</ce:label>
+<ce:section-title>Influence of manganese in Ti<ce:inf loc="post">0.9</ce:inf>Zr<ce:inf loc="post">01</ce:inf>V<ce:inf loc="post">0.3</ce:inf>Mn<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf>
+</ce:section-title>
+<ce:para view="all">The PCT isotherms of Ti<ce:inf loc="post">0.9</ce:inf>Zr<ce:inf loc="post">0.1</ce:inf>V<ce:inf loc="post">0.3</ce:inf>Mn<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf> with <ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1.18, 1.31 and 1.42 at 23<ce:hsp sp="0.25"></ce:hsp>°C show that the hysteresis and the plateau pressures are proportional to the quantity of Mn in the compound (<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="fig6"></ce:float-anchor>). It turned out that the Ti<ce:inf loc="post">0.9</ce:inf>Zr<ce:inf loc="post">0.1</ce:inf>V<ce:inf loc="post">0.3</ce:inf>Mn<ce:inf loc="post">1.31</ce:inf> alloy curve shows the high hydrogen absorbing capacity and best plateau slope. <ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+<ce:float-anchor refid="fig7"></ce:float-anchor> shows the first sorption kinetics behaviour of Ti<ce:inf loc="post">0.9</ce:inf>Zr<ce:inf loc="post">0.1</ce:inf>V<ce:inf loc="post">0.3</ce:inf>Mn<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf> alloys at 23<ce:hsp sp="0.25"></ce:hsp>°C. These results indicate that if we increase the quantity of Mn in the alloys starting from the above stoichiometry (Mn<ce:inf loc="post">1.3</ce:inf>), the equilibrium plateau pressure rises but if the quantity of Mn is reduced too much then the plateau pressure become too low and the alloy cannot desorb any more. In addition, it can be noted that increasing or decreasing amounts of manganese from the concentration of Mn<ce:inf loc="post">1.3</ce:inf> has a negative effect on the absorbing capacity.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.4</ce:label>
+<ce:section-title>Influence of vanadium in Ti<ce:inf loc="post">0.95</ce:inf>Zr<ce:inf loc="post">0.05</ce:inf>V<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf>Mn<ce:inf loc="post">
+<ce:italic>y</ce:italic>
+</ce:inf>
+</ce:section-title>
+<ce:para view="all">The PCT isotherms at 23<ce:hsp sp="0.25"></ce:hsp>°C of Ti<ce:inf loc="post">0.9</ce:inf>Zr<ce:inf loc="post">0.1</ce:inf>V<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf>Mn<ce:inf loc="post">
+<ce:italic>y</ce:italic>
+</ce:inf> with <ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>0.15, 0.20, 0.25 and 0.30 for average Mn composition <ce:italic>y</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1.32 show that the vanadium has a strong effect on the position of the equilibrium plateaux (<ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>
+<ce:float-anchor refid="fig8"></ce:float-anchor>). The results indicate also that the more vanadium is present in the alloys, the lower is the equilibrium plateaus pressure. The vanadium element has also a positive influence on the hydrogen capacity and sorption kinetics but it does not seem necessary that its quantity exceeds <ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>0.2. These results are consistent with the conclusion obtained by Au et al. <ce:cross-ref refid="bib11">[11]</ce:cross-ref> concerning the role of vanadium in Ti–Mn alloys.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.5</ce:label>
+<ce:section-title>Influence of zirconium in Ti<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+</ce:inf>Zr<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf>V<ce:inf loc="post">0.3</ce:inf>Mn<ce:inf loc="post">
+<ce:italic>y</ce:italic>
+</ce:inf>
+</ce:section-title>
+<ce:para view="all">The PCT isotherms at 23<ce:hsp sp="0.25"></ce:hsp>°C of Ti<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+</ce:inf>Zr<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf>V<ce:inf loc="post">0.3</ce:inf>Mn<ce:inf loc="post">
+<ce:italic>y</ce:italic>
+</ce:inf> with <ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>0.0, 0.05, 0.10 and 0.15 for average Mn composition <ce:italic>y</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1.33 show that the zirconium has also a strong influence (<ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref>
+<ce:float-anchor refid="fig9"></ce:float-anchor>) on the position of the equilibrium plateaus. Indeed, this element causes a drop in the plateaus pressures but it does not affect much the hydrogen storage capacity.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusion</ce:section-title>
+<ce:para view="all">Hydrogen absorbing properties of Ti-based alloys were investigated as a function of metal elements compositions. The modified multicomponent Ti–Zr–V–Mn alloys possess desirable sorption features: high hydrogen storage capacity and adjustable plateau pressure. From these results, it could be determined that the optimal stoichiometry formulation among studied Ti–Zr–V–Mn alloys is: Ti<ce:inf loc="post">0.95</ce:inf>Zr<ce:inf loc="post">0.05</ce:inf>V<ce:inf loc="post">0.2</ce:inf>Mn<ce:inf loc="post">1.3</ce:inf>. This alloy exhibits the best plateau pressures region needed for the reversible thermal compressor and superior hydrogen absorption capacity of 1.6<ce:hsp sp="0.25"></ce:hsp>wt.%. The Ti<ce:inf loc="post">0.9</ce:inf>Zr<ce:inf loc="post">0.1</ce:inf>V<ce:inf loc="post">0.3</ce:inf>Mn<ce:inf loc="post">1.3</ce:inf> alloy reveals high stability during cycling and small enhancement in hydrogen discharge rate. The results also show, in comparison to the concentration of vanadium and zirconium, the manganese amount in the alloys has a strong influence on absorbing capacity. It is planned to add other elements (Cr, Nb, Mo, Cu, etc.) to check if they could have a positive influence on the sorption reversibility by modifying the phases network link. Moreover, tests in a differential scanning calorimeter (DSC) under hydrogen pressure are anticipated so that the temperatures of transition between phases can be measured. In addition, this kind of measurements could give us information on the δ-Ti phase reported by Semboshi et al. <ce:cross-ref refid="bib12">[12]</ce:cross-ref>, which might be responsible for the degradation of the capacity after the second cycle. There are also a number of issues that need to be resolved, including the energy efficiency of the Ti–V–Mn based metal hydride hydrogen compression process, the impact of hydrogen generators gas impurities on Ti–V–Mn based metal hydride reaction kinetics and the impact that hydriding and high temperature dehydriding cycles have on Ti–V–Mn based alloy stability.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgements</ce:section-title>
+<ce:para view="all">This work was made in partnership with Stuart Energy Systems Inc. and has been supported financially by the Ministère des Ressources Naturelles du Québec and by Natural Resources Canada.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Dehouche</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Grimard</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Laurencelle</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Goyette</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.K.</ce:given-name>
+<ce:surname>Bose</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp</sb:maintitle>
+</sb:title>
+<sb:volume-nr>399</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>1–2</sb:issue-nr>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>224</sb:first-page>
+<sb:last-page>236</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Dehouche</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Laurencelle</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Goyette</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.K.</ce:given-name>
+<ce:surname>Bose</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Development of a thermal hydrogen compressor based on metal hydrides</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:title>
+<sb:maintitle>Proceedings of the 1st Annual Report Presented to Natural Resources Canada</sb:maintitle>
+</sb:title>
+<sb:conference>July</sb:conference>
+<sb:date>2003</sb:date>
+</sb:edited-book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Dehouche</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Laurencelle</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Goyette</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.K.</ce:given-name>
+<ce:surname>Bose</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Development of a thermal hydrogen compressor based on metal hydrides</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:title>
+<sb:maintitle>Proceedings of the 2nd Annual Report Presented to Natural Resources Canada</sb:maintitle>
+</sb:title>
+<sb:conference>April</sb:conference>
+<sb:date>2004</sb:date>
+</sb:edited-book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Semboshi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Masahashi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Hanada</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>352</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>210</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.V.</ce:given-name>
+<ce:surname>Mitrokhin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.N.</ce:given-name>
+<ce:surname>Bezuglaya</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.N.</ce:given-name>
+<ce:surname>Verbetsky</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>330–332</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>146</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Akiba</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Iba</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Intermetallics</sb:maintitle>
+</sb:title>
+<sb:volume-nr>6</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>461</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.T.</ce:given-name>
+<ce:surname>Hagstrom</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.N.</ce:given-name>
+<ce:surname>Klyamkin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.V.</ce:given-name>
+<ce:surname>Mescheryakova</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.D.</ce:given-name>
+<ce:surname>Lund</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>35</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>127</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.-G.</ce:given-name>
+<ce:surname>Park</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.-Y.</ce:given-name>
+<ce:surname>Jang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.-C.</ce:given-name>
+<ce:surname>Han</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.S.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.-Y.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>325</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>293</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.-H.</ce:given-name>
+<ce:surname>Xu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.-P.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.-X.</ce:given-name>
+<ce:surname>Geng</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Q.-D.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+</sb:title>
+<sb:volume-nr>26</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>593</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.L.</ce:given-name>
+<ce:surname>Bobet</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Chevalier</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Darriet</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Intermetallics</sb:maintitle>
+</sb:title>
+<sb:volume-nr>8</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>359</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Au</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Pourarian</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.G.</ce:given-name>
+<ce:surname>Sankar</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.E.</ce:given-name>
+<ce:surname>Wallace</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. B</sb:maintitle>
+</sb:title>
+<sb:volume-nr>33</sb:volume-nr>
+</sb:series>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>53</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Semboshi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Masahashi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Hanada</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>49</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>917</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Dehouche</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Djaozandry</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Goyette</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.K.</ce:given-name>
+<ce:surname>Bose</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>288</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>269</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

@@ -1,0 +1,1689 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838804010096</prism:url><dc:identifier>doi:10.1016/j.jallcom.2004.08.005</dc:identifier><eid>1-s2.0-S0925838804010096</eid><prism:doi>10.1016/j.jallcom.2004.08.005</prism:doi><pii>S0925-8388(04)01009-6</pii><dc:title>Effect of replacement of V by Fe and Nb on passive film behavior of Ti–6Al–4V in simulated body fluid conditions </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>389</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>144</prism:startingpage><prism:endingpage>152</prism:endingpage><prism:pagerange>144-152</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2005-03-08</prism:coverdate><prism:coverdisplaydate>8 March 2005</prism:coverdisplaydate><prism:copyright>Copyright © 2004 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Shukla, A.K.</dc:creator><dc:creator>Balasubramaniam, R.</dc:creator><dc:creator>Bhargava, S.</dc:creator><dc:description>
+                  The effect of replacing V in the alloy Ti–6Al–4V by Fe and Nb on the electrochemical behavior in simulated body fluid conditions has been addressed in the present study. Potentiodynamic polarization and electrochemical impedance spectroscopy (EIS) techniques were used to study the passivation behavior of Ti alloys (Ti–6Al–4V, Ti–6Al–4Fe and Ti–6Al–4Nb) as a function of immersion time in Hank's solution. The Fe and Nb containing alloys exhibited higher passive film resistance after immersion in Hank's solution as compared to Ti–6Al–4V alloy. The mechanical behavior of cast Ti–6Al–4Fe and Ti–6Al–4Nb was also evaluated. The cast Ti–6Al–4Nb alloy exhibited improved ductility compared to Ti–6Al–4Fe alloy. The fracture mode in Ti–6Al–4Fe was essentially brittle while Ti–6Al–4Nb exhibited mixed mode failure.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Ti alloys</dcterms:subject><dcterms:subject>Passive film behavior</dcterms:subject><dcterms:subject>Electrochemical impedance spectroscopy</dcterms:subject><dcterms:subject>Hank's solution</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838804010096" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838804010096" rel="scidir"/></coredata><objects><object category="thumbnail" height="20" mimetype="image/gif" multimediatype="GIF image file" ref="si1" size="534" type="ALTIMG" width="137">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804010096-si1.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="1297" type="IMAGE-THUMBNAIL" width="41">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804010096-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="808" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="152295" type="IMAGE-DOWNSAMPLED" width="357">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804010096-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="92" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="666" type="IMAGE-THUMBNAIL" width="37">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804010096-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="932" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="17091" type="IMAGE-DOWNSAMPLED" width="374">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804010096-gr2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="92" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="776" type="IMAGE-THUMBNAIL" width="37">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804010096-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="933" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="19020" type="IMAGE-DOWNSAMPLED" width="374">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804010096-gr3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="92" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="785" type="IMAGE-THUMBNAIL" width="37">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804010096-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="929" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="19554" type="IMAGE-DOWNSAMPLED" width="374">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804010096-gr4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="92" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="761" type="IMAGE-THUMBNAIL" width="36">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804010096-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="958" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="20365" type="IMAGE-DOWNSAMPLED" width="374">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804010096-gr5.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="1042" type="IMAGE-THUMBNAIL" width="77">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804010096-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="283" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr6" size="9819" type="IMAGE-DOWNSAMPLED" width="233">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804010096-gr6.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="1330" type="IMAGE-THUMBNAIL" width="121">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804010096-gr7.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="290" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="6019" type="IMAGE-DOWNSAMPLED" width="376">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804010096-gr7.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr8" size="1257" type="IMAGE-THUMBNAIL" width="123">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804010096-gr8.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="283" mimetype="image/gif" multimediatype="GIF image file" ref="gr8" size="5607" type="IMAGE-DOWNSAMPLED" width="374">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804010096-gr8.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr9" size="848" type="IMAGE-THUMBNAIL" width="56">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804010096-gr9.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="627" mimetype="image/gif" multimediatype="GIF image file" ref="gr9" size="11347" type="IMAGE-DOWNSAMPLED" width="377">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804010096-gr9.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr10" size="2684" type="IMAGE-THUMBNAIL" width="65">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804010096-gr10.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="514" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr10" size="72346" type="IMAGE-DOWNSAMPLED" width="357">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804010096-gr10.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>13444254187</scopus-id><scopus-eid>2-s2.0-13444254187</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/13444254187" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20040911">2004-09-11</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20040911">2004-09-11</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-04-19T04:56:56</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838804010096</xocs:eid>
+<xocs:pii-formatted>S0925-8388(04)01009-6</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838804010096</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2004.08.005</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.2</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838800X02368</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.228461-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20050308</xocs:date-search-begin>
+<xocs:year-nav>2005</xocs:year-nav>
+<xocs:indexeddate epoch="1094860800">2004-09-11T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>389</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>389</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 389, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>22</xocs:sort-order>
+<xocs:first-fp>144</xocs:first-fp>
+<xocs:last-lp>152</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>144</xocs:first-page>
+<xocs:last-page>152</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20050308</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>8 March 2005</xocs:cover-date-text>
+<xocs:cover-date-start>2005-03-08</xocs:cover-date-start>
+<xocs:cover-date-year>2005</xocs:cover-date-year>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2004 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>EFFECTREPLACEMENTVBYFENBPASSIVEFILMBEHAVIORTI6AL4VINSIMULATEDBODYFLUIDCONDITIONS</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>SHUKLA</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>A</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Microstructural characterization</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Potentiodynamic polarization</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Electrochemical impedance spectroscopy</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Mechanical properties</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>LONG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>1621</xocs:ref-first-fp>
+<xocs:ref-last-lp>1639</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>JACOBS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>268</xocs:ref-first-fp>
+<xocs:ref-last-lp>282</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>PAZZAGLIA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1986</xocs:ref-pub-year>
+<xocs:ref-first-fp>415</xocs:ref-first-fp>
+<xocs:ref-last-lp>418</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>U</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>DORR</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1990</xocs:ref-pub-year>
+<xocs:ref-first-fp>82</xocs:ref-first-fp>
+<xocs:ref-last-lp>95</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>LUCKEY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1983</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>EDITORSINTRODUCTIONINTITANIUMALLOYSINSURGICALIMPLANTS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>NIINOMI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>231</xocs:ref-first-fp>
+<xocs:ref-last-lp>236</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>SCALES</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1991</xocs:ref-pub-year>
+<xocs:ref-first-fp>534</xocs:ref-first-fp>
+<xocs:ref-last-lp>536</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>CHOUBEY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>288</xocs:ref-first-fp>
+<xocs:ref-last-lp>294</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>BOUKAMP</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1986</xocs:ref-pub-year>
+<xocs:ref-first-fp>31</xocs:ref-first-fp>
+<xocs:ref-last-lp>44</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>DONACHIE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>TITANIUMATECHNICALGUIDE</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>SAZOU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>627</xocs:ref-first-fp>
+<xocs:ref-last-lp>637</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>SAZOU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>77</xocs:ref-first-fp>
+<xocs:ref-last-lp>87</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13">
+<xocs:ref-normalized-surname>BOJINOV</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>58</xocs:ref-first-fp>
+<xocs:ref-last-lp>65</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>IBRIS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>53</xocs:ref-first-fp>
+<xocs:ref-last-lp>62</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15">
+<xocs:ref-normalized-surname>HODGSON</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>913</xocs:ref-first-fp>
+<xocs:ref-last-lp>923</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib16">
+<xocs:ref-normalized-surname>KOBAYASHI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>567</xocs:ref-first-fp>
+<xocs:ref-last-lp>574</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib17">
+<xocs:ref-normalized-surname>GONZALEZ</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>109</xocs:ref-first-fp>
+<xocs:ref-last-lp>115</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib18">
+<xocs:ref-normalized-surname>RAISTRICK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1987</xocs:ref-pub-year>
+<xocs:ref-first-fp>90</xocs:ref-first-fp>
+<xocs:ref-last-lp>91</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>THEORYINIMPEDANCESPECTROSCOPYEMPHASIZINGSOLIDMATERIALSSYSTEMS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib19">
+<xocs:ref-normalized-surname>HUKOVIC</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>3765</xocs:ref-first-fp>
+<xocs:ref-last-lp>3775</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>SHUKLAX2005X144</xocs:refkey3>
+<xocs:refkey4lp>SHUKLAX2005X144X152</xocs:refkey4lp>
+<xocs:refkey4ai>SHUKLAX2005X144XA</xocs:refkey4ai>
+<xocs:refkey5>SHUKLAX2005X144X152XA</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(04)01009-6</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838804010096</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838804010096</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2004.08.005</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-10T20:43:01.559588-04:00</xocs:timestamp>
+<xocs:cover-date-start>2005-03-08</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838804010096-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804010096/MAIN/application/pdf/e33930cc1b15e2ded8d9c4954cc3b6bb/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804010096/MAIN/application/pdf/e33930cc1b15e2ded8d9c4954cc3b6bb/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>425453</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>9</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838804010096-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804010096/PREVIEW/image/png/0e5c16b8a552be8a102186b90a0e6f14/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804010096/PREVIEW/image/png/0e5c16b8a552be8a102186b90a0e6f14/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>64952</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804010096-si1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804010096/STRIPIN/image/gif/88fd9e84b0158e2aba5e528c1af52849/si1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804010096/STRIPIN/image/gif/88fd9e84b0158e2aba5e528c1af52849/si1.gif</xocs:ucs-locator>
+<xocs:file-basename>si1</xocs:file-basename>
+<xocs:filename>si1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>534</xocs:filesize>
+<xocs:pixel-height>20</xocs:pixel-height>
+<xocs:pixel-width>137</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804010096-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804010096/gr1/THUMBNAIL/image/gif/f65fa7f08e1f2dcb664e1192f82b65fa/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804010096/gr1/THUMBNAIL/image/gif/f65fa7f08e1f2dcb664e1192f82b65fa/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1297</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>41</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804010096-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804010096/gr1/DOWNSAMPLED/image/jpeg/5847fa92dac54e72f97c90e906a644da/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804010096/gr1/DOWNSAMPLED/image/jpeg/5847fa92dac54e72f97c90e906a644da/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>152295</xocs:filesize>
+<xocs:pixel-height>808</xocs:pixel-height>
+<xocs:pixel-width>357</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804010096-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804010096/gr2/THUMBNAIL/image/gif/e459755f539ae91eaf33200ac9f503d4/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804010096/gr2/THUMBNAIL/image/gif/e459755f539ae91eaf33200ac9f503d4/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>666</xocs:filesize>
+<xocs:pixel-height>92</xocs:pixel-height>
+<xocs:pixel-width>37</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804010096-gr2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804010096/gr2/DOWNSAMPLED/image/gif/bd3a352de56728b58570da05eef33a86/gr2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804010096/gr2/DOWNSAMPLED/image/gif/bd3a352de56728b58570da05eef33a86/gr2.gif</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>17091</xocs:filesize>
+<xocs:pixel-height>932</xocs:pixel-height>
+<xocs:pixel-width>374</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804010096-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804010096/gr3/THUMBNAIL/image/gif/50a8508f9ac20e9951ed732d99ec5a9f/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804010096/gr3/THUMBNAIL/image/gif/50a8508f9ac20e9951ed732d99ec5a9f/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>776</xocs:filesize>
+<xocs:pixel-height>92</xocs:pixel-height>
+<xocs:pixel-width>37</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804010096-gr3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804010096/gr3/DOWNSAMPLED/image/gif/fdb3345344ad16b82030132ecafe5769/gr3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804010096/gr3/DOWNSAMPLED/image/gif/fdb3345344ad16b82030132ecafe5769/gr3.gif</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>19020</xocs:filesize>
+<xocs:pixel-height>933</xocs:pixel-height>
+<xocs:pixel-width>374</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804010096-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804010096/gr4/THUMBNAIL/image/gif/3ff78352a3bbbdfcf109f677e1e3fac7/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804010096/gr4/THUMBNAIL/image/gif/3ff78352a3bbbdfcf109f677e1e3fac7/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>785</xocs:filesize>
+<xocs:pixel-height>92</xocs:pixel-height>
+<xocs:pixel-width>37</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804010096-gr4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804010096/gr4/DOWNSAMPLED/image/gif/89386025ef0789364fe950f1247e84f8/gr4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804010096/gr4/DOWNSAMPLED/image/gif/89386025ef0789364fe950f1247e84f8/gr4.gif</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>19554</xocs:filesize>
+<xocs:pixel-height>929</xocs:pixel-height>
+<xocs:pixel-width>374</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804010096-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804010096/gr5/THUMBNAIL/image/gif/57b59d7e45b3719f8ddc4291fb558cda/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804010096/gr5/THUMBNAIL/image/gif/57b59d7e45b3719f8ddc4291fb558cda/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>761</xocs:filesize>
+<xocs:pixel-height>92</xocs:pixel-height>
+<xocs:pixel-width>36</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804010096-gr5.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804010096/gr5/DOWNSAMPLED/image/gif/2de9d8a32c36c7cb87735afcf3e2f61d/gr5.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804010096/gr5/DOWNSAMPLED/image/gif/2de9d8a32c36c7cb87735afcf3e2f61d/gr5.gif</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>20365</xocs:filesize>
+<xocs:pixel-height>958</xocs:pixel-height>
+<xocs:pixel-width>374</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804010096-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804010096/gr6/THUMBNAIL/image/gif/4608728cd9f682bcca65fd2624425919/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804010096/gr6/THUMBNAIL/image/gif/4608728cd9f682bcca65fd2624425919/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1042</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>77</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804010096-gr6.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804010096/gr6/DOWNSAMPLED/image/jpeg/52c3c87da596cbaf16e56c510ecf2862/gr6.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804010096/gr6/DOWNSAMPLED/image/jpeg/52c3c87da596cbaf16e56c510ecf2862/gr6.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>9819</xocs:filesize>
+<xocs:pixel-height>283</xocs:pixel-height>
+<xocs:pixel-width>233</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804010096-gr7.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804010096/gr7/THUMBNAIL/image/gif/a903f0cd258a13116b5b8a103d53f3f5/gr7.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804010096/gr7/THUMBNAIL/image/gif/a903f0cd258a13116b5b8a103d53f3f5/gr7.sml</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1330</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>121</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804010096-gr7.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804010096/gr7/DOWNSAMPLED/image/gif/fe8d52c3682e63a9e77a1993ed65d6d7/gr7.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804010096/gr7/DOWNSAMPLED/image/gif/fe8d52c3682e63a9e77a1993ed65d6d7/gr7.gif</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>6019</xocs:filesize>
+<xocs:pixel-height>290</xocs:pixel-height>
+<xocs:pixel-width>376</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804010096-gr8.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804010096/gr8/THUMBNAIL/image/gif/c00ac5b9ba1646c0ba7fccbdfb412304/gr8.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804010096/gr8/THUMBNAIL/image/gif/c00ac5b9ba1646c0ba7fccbdfb412304/gr8.sml</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1257</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>123</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804010096-gr8.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804010096/gr8/DOWNSAMPLED/image/gif/4716b99be77556235153af66b3482646/gr8.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804010096/gr8/DOWNSAMPLED/image/gif/4716b99be77556235153af66b3482646/gr8.gif</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>5607</xocs:filesize>
+<xocs:pixel-height>283</xocs:pixel-height>
+<xocs:pixel-width>374</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804010096-gr9.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804010096/gr9/THUMBNAIL/image/gif/d88feb9dbd6575d7fe2d5795a8c0ea00/gr9.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804010096/gr9/THUMBNAIL/image/gif/d88feb9dbd6575d7fe2d5795a8c0ea00/gr9.sml</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>848</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>56</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804010096-gr9.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804010096/gr9/DOWNSAMPLED/image/gif/ddf4bf898b3a06ea13f68a406d18e4ba/gr9.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804010096/gr9/DOWNSAMPLED/image/gif/ddf4bf898b3a06ea13f68a406d18e4ba/gr9.gif</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>11347</xocs:filesize>
+<xocs:pixel-height>627</xocs:pixel-height>
+<xocs:pixel-width>377</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804010096-gr10.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804010096/gr10/THUMBNAIL/image/gif/c845ce44ba8bbe4f29217d8fce9509eb/gr10.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804010096/gr10/THUMBNAIL/image/gif/c845ce44ba8bbe4f29217d8fce9509eb/gr10.sml</xocs:ucs-locator>
+<xocs:file-basename>gr10</xocs:file-basename>
+<xocs:filename>gr10.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2684</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>65</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804010096-gr10.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804010096/gr10/DOWNSAMPLED/image/jpeg/e21bd3b89d246d00ac6e13e4bd7636b9/gr10.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804010096/gr10/DOWNSAMPLED/image/jpeg/e21bd3b89d246d00ac6e13e4bd7636b9/gr10.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr10</xocs:file-basename>
+<xocs:filename>gr10.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>72346</xocs:filesize>
+<xocs:pixel-height>514</xocs:pixel-height>
+<xocs:pixel-width>357</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>11526</aid>
+<ce:pii>S0925-8388(04)01009-6</ce:pii>
+<ce:doi>10.1016/j.jallcom.2004.08.005</ce:doi>
+<ce:copyright type="full-transfer" year="2004">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Optical micrographs of (a) Ti–6Al–4V, (b) Ti–6Al–4Nb, and (c) Ti–6Al–4Fe. The microstructures were obtained on the area used for electrochemical testing in simulated body fluid.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Potentiodynamic polarization curves obtained after immersion of 1 and 168<ce:hsp sp="0.25"></ce:hsp>h in Hank's solution for (a) Ti–6Al–4V, (b) Ti–6Al–4Nb and (c) Ti–6Al–4Fe.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">EIS data for Ti–6Al–4V as a function of immersion time in Hank's solution: (a) Nyquist plots; (b) Bode phase plots; (c) Bode magnitude plots.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">EIS data for Ti–6Al–4Nb as a function of immersion time in Hank's solution: (a) Nyquist plots; (b) Bode phase plots; (c) Bode magnitude plots.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">EIS data for Ti–6Al–4Fe as a function of immersion time in Hank's solution: (a) Nyquist plots; (b) Bode phase plots; (c) Bode magnitude plots.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Model used to fit the EIS data obtained at different immersion times in Hank's solution for all the Ti based alloys: (a) equivalent circuit and (b) physical model.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+<ce:figure id="fig7">
+<ce:label>Fig. 7</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Passive film resistance (<ce:italic>R</ce:italic>
+<ce:inf loc="post">p</ce:inf>) as a function of immersion time in Hank's solution for Ti–6Al–4V, Ti–6Al–4Nb and Ti–6Al–4Fe alloys.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr7"></ce:link>
+</ce:figure>
+<ce:figure id="fig8">
+<ce:label>Fig. 8</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Constant phase element (<ce:italic>Q</ce:italic>
+<ce:inf loc="post">p</ce:inf>) as a function of immersion time in Hank's solution for Ti–6Al–4V, Ti–6Al–4Nb and Ti–6Al–4Fe alloys.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr8"></ce:link>
+</ce:figure>
+<ce:figure id="fig9">
+<ce:label>Fig. 9</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Duplicate engineering stress vs. engineering strain curves for (a) Ti–6Al–4Nb and (b) Ti–6Al–4Fe alloys.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr9"></ce:link>
+</ce:figure>
+<ce:figure id="fig10">
+<ce:label>Fig. 10</ce:label>
+<ce:caption>
+<ce:simple-para view="all">SEM micrographs of fracture surface of (a) Ti–6Al–4Fe and (b) Ti–6Al–4Nb alloy.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr10"></ce:link>
+</ce:figure>
+<ce:table colsep="0" frame="topbot" id="tbl1" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Values of parameters obtained by fitting <ce:italic>R</ce:italic>(QR) model to the EIS data obtained as a function of immersion time in Hank's solution for Ti–6Al–4V, Ti–6Al–4Nb and Ti–6Al–4Fe alloys</ce:simple-para>
+</ce:caption>
+<tgroup cols="7">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<colspec colname="col5"></colspec>
+<colspec colname="col6"></colspec>
+<colspec colname="col7"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Material</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Immersion time (h)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Chi-squared</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>R</italic>
+<inf loc="post">s</inf> (Ω<hsp sp="0.25"></hsp>cm<sup loc="post">−2</sup>)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>Q</italic>
+<inf loc="post">p</inf> (Ω<sup loc="post">−1</sup>
+<hsp sp="0.25"></hsp>s<sup loc="post">
+<italic>n</italic>
+</sup>
+<hsp sp="0.25"></hsp>cm<sup loc="post">−2</sup>)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>n</italic>
+</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>R</italic>
+<inf loc="post">p</inf> (Ω<hsp sp="0.25"></hsp>cm<sup loc="post">−2</sup>)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti–6Al–4V</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.073E−2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">18.13 (3.019)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">3.735E−5 (2.914)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.9271 (0.7315)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">3.174E5 (10.19)</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">24</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">3.964E−2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">5.804 (7.168)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.938E−5 (5.155)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.8956 (1.128)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.937E6 (76.87)</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">72</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.786E−2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">3.57 (6.066)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">3.38E−5 (4.32)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.9181 (0.9028)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.141E6 (42.09)</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">168</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">8.232E−3</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">3.301 (3.305)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">3.322E−5 (2.356)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.9244 (0.4858)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">9.667E5 (19.08)</entry>
+</row>
+<row>
+<entry align="left" nameend="col7" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<vsp sp="0.5"></vsp>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti–6Al–4Nb</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.598E−2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.492 (6.673)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.163E−5 (4.969)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.9559 (0.9011)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.005E5 (9.323)</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">24</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">4.542E−2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">5.433 (7.619)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.875E−5 (5.612)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.9404 (1.138)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.14E6 (30.54)</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">72</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">6.263E−4</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">5.42 (0.9142)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.762E−5 (0.6367)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.9338 (0.1297)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">4.618E6 (12.23)</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">168</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.095E−3</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">9.733 (1.117)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.594E−5 (0.8391)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.9397 (0.1802)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.899E7 (58.31)</entry>
+</row>
+<row>
+<entry align="left" nameend="col7" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<vsp sp="0.5"></vsp>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti–6Al–4Fe</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.873E−2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.008 (8.663)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.802E−5 (4.638)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.9494 (0.8373)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">6.219E5 (15.19)</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">24</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.225E−2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">7.574 (5.413)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.619E−5 (3.891)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.9175 (0.8106)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.507E6 (39.49)</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">72</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">9.705E−4</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">13.83 (1.029)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.858E−5 (0.8018)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.9125 (0.1846)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.046E7 (38.16)</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">168</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">5.153E−4</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">44.48 (0.6577)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.702E−5 (0.5831)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.9215 (0.1525)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.431E7 (57.91)</entry>
+</row>
+</tbody>
+</tgroup>
+<ce:legend>
+<ce:simple-para view="all">Values in brackets are the % errors in various parameters while fitting the experimental data to the proposed model.</ce:simple-para>
+</ce:legend>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl2" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Values of different material properties obtained from tensile test experiments for Ti–6Al–4Nb and Ti–6Al–4Fe alloys</ce:simple-para>
+</ce:caption>
+<tgroup cols="6">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<colspec colname="col5"></colspec>
+<colspec colname="col6"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Material</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Experiment no.</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ultimate tensile stress (MPa)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Yield stress (MPa)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Elongation (%)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Elastic modulus (GPa)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti–6Al–4Nb</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">710</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">678</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">8.14</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">4.34</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">729</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">699</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">11.2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">6.24</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti–6Al–4Fe</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">706</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">706</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">5.17</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">518</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">518</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.89</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+</ce:floats>
+<ce:title>Effect of replacement of V by Fe and Nb on passive film behavior of Ti–6Al–4V in simulated body fluid conditions</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>A.K.</ce:given-name>
+<ce:surname>Shukla</ce:surname>
+</ce:author>
+<ce:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Balasubramaniam</ce:surname>
+<ce:cross-ref refid="cor1">*</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Bhargava</ce:surname>
+</ce:author>
+<ce:affiliation>
+<ce:textfn>Department of Materials and Metallurgical Engineering, Indian Institute of Technology, Kanpur 208016, India</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>*</ce:label>
+<ce:text>Corresponding author. Tel.: +91 512 2597089; fax: +91 512 2590260.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="8" month="6" year="2004"></ce:date-received>
+<ce:date-revised day="2" month="8" year="2004"></ce:date-revised>
+<ce:date-accepted day="12" month="8" year="2004"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">The effect of replacing V in the alloy Ti–6Al–4V by Fe and Nb on the electrochemical behavior in simulated body fluid conditions has been addressed in the present study. Potentiodynamic polarization and electrochemical impedance spectroscopy (EIS) techniques were used to study the passivation behavior of Ti alloys (Ti–6Al–4V, Ti–6Al–4Fe and Ti–6Al–4Nb) as a function of immersion time in Hank's solution. The Fe and Nb containing alloys exhibited higher passive film resistance after immersion in Hank's solution as compared to Ti–6Al–4V alloy. The mechanical behavior of cast Ti–6Al–4Fe and Ti–6Al–4Nb was also evaluated. The cast Ti–6Al–4Nb alloy exhibited improved ductility compared to Ti–6Al–4Fe alloy. The fracture mode in Ti–6Al–4Fe was essentially brittle while Ti–6Al–4Nb exhibited mixed mode failure.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Ti alloys</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Passive film behavior</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Electrochemical impedance spectroscopy</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Hank's solution</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Corrosion, the gradual degradation of materials by electrochemical attack, is a concern particularly when a metallic implant is placed in the electrolytic environment provided by the human body <ce:cross-ref refid="bib1">[1]</ce:cross-ref>. Even though the freely corroding implant materials used in the past have been replaced with modern corrosion resistant superalloys, deleterious corrosion processes have been observed in certain clinical settings <ce:cross-ref refid="bib2">[2]</ce:cross-ref>. Ideally, a metallic implant should be completely inert in the body. However, that is rarely the case. The release of corrosion products may elicit an adverse biological reaction in the host, and several authors have reported increased concentrations of local and systemic trace metals in association with metal implants <ce:cross-refs refid="bib3 bib4">[3,4]</ce:cross-refs>. Titanium alloys possess attractive properties for biomedical applications, the most important being biocompatibility. The Ti–6Al–4V alloy has been successfully applied for biomedical applications <ce:cross-ref refid="bib5">[5]</ce:cross-ref>. Recently, vanadium-free Ti alloys have been developed to replace vanadium in Ti–6Al–4V <ce:cross-ref refid="bib6">[6]</ce:cross-ref> because of the reported toxicity and negative tissue response of vanadium ion in vivo <ce:cross-ref refid="bib7">[7]</ce:cross-ref>. Release of vanadium ions by the way of passive dissolution or another process involving wear can cause discoloration of the surrounding tissue or an inflammatory reaction causing pain and even leading to loosening owing to osteolysis <ce:cross-ref refid="bib7">[7]</ce:cross-ref>.</ce:para>
+<ce:para view="all">Vanadium is a beta phase stabilizer. On alloying V in Ti alloys with Al (alpha phase stabilizer), a two-phase alpha–beta structure is produced. The alpha–beta alloys can be mechanically processed and heat-treated to obtain improved mechanical properties. Nb and Fe are also beta phase stabilizers with added advantage of nontoxicity. In this regard, the effect of replacement of alloying element V in the alloy Ti–6Al–4V by Nb and Fe on the electrochemical and corrosion behavior in simulated physiological environment has been recently addressed <ce:cross-ref refid="bib8">[8]</ce:cross-ref>. The corrosion rates and potentiodynamic polarization nature were comparable <ce:cross-ref refid="bib8">[8]</ce:cross-ref>. In this research, special attention is focused on understanding the surface film nature as a function of immersion time in Hank's solution.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental</ce:section-title>
+<ce:para view="all">The titanium alloys (Ti–6Al–4V, Ti–6Al–4Fe and Ti–6Al–4Nb, all wt.%) used in the present study were obtained from the Defense Metallurgical Research Laboratory (DMRL), Hyderabad, India. The Ti–6Al–4Fe and Ti–6Al–4Nb alloys were received as pancakes (diameter of 6 and 1<ce:hsp sp="0.25"></ce:hsp>cm thickness) whereas Ti–6Al–4V was in a rolled sheet form (10<ce:hsp sp="0.25"></ce:hsp>cm × 10<ce:hsp sp="0.25"></ce:hsp>cm × 1<ce:hsp sp="0.25"></ce:hsp>cm). The pancake melts were melted in a water-cooled Cu crucible under partial pressure of high purity Ar gas. They were melted in a Lebold Hereaus furnace in the non-consumable mode of melting. Each pancake was melted four times.</ce:para>
+<ce:para view="all">Specimens for electrochemical studies were cut from the as-received samples using a diamond cutter (Buehler-ISOMET). The areas to be exposed for electrochemical studies were in the form of a square, 1<ce:hsp sp="0.25"></ce:hsp>cm × 1<ce:hsp sp="0.25"></ce:hsp>cm. The thickness of the sample was around 0.5<ce:hsp sp="0.25"></ce:hsp>cm. The samples from the pancake were cut from the central portion of the pancake and top surface was mounted for the experimental study. A covered wire lead was soldered to the back of the specimen and specimen was cold mounted using a thermosetting epoxy. The cold mounted specimen was then polished up to 4/0 finish on emery paper and then finally polished using distilled water mixed with 0.5<ce:hsp sp="0.25"></ce:hsp>μg alumina powder. The specimens were then washed with distilled water followed by ultrasonic cleaning with acetone. All this procedure was followed prior to each electrochemical experiment.</ce:para>
+<ce:para view="all">The specimen surfaces used in the polarization study was microstructurally characterized after electrochemical testing. The surfaces were etched in 10% HF + 5% HNO<ce:inf loc="post">3</ce:inf> (vol.%) etching reagent for 5 to 10<ce:hsp sp="0.25"></ce:hsp>s at room temperature. The microstructures were recorded using an optical microscope (Axiolab A, Zeiss, Germany), attached with a digital camera (CE, Japan).</ce:para>
+<ce:para view="all">The electrolyte used to simulate human body condition was Hank's solution. The composition of Hank's solution used was (in g/l) 8 NaCl, 0.4 KCl, 0.14 CaCl<ce:inf loc="post">2</ce:inf>, 0.06 MgSO<ce:inf loc="post">4</ce:inf>·7H<ce:inf loc="post">2</ce:inf>O, 0.06 NaH<ce:inf loc="post">2</ce:inf>PO<ce:inf loc="post">4</ce:inf>·2H<ce:inf loc="post">2</ce:inf>O, 0.35 NaHCO<ce:inf loc="post">3</ce:inf>, 1.00 glucose, 0.60 KH<ce:inf loc="post">2</ce:inf>PO<ce:inf loc="post">4</ce:inf> and 0.10 MgCl<ce:inf loc="post">2</ce:inf>·6H<ce:inf loc="post">2</ce:inf>O. Freshly prepared Hank's solution was used for each experiment. All the experiments were conducted at room temperature (30<ce:hsp sp="0.25"></ce:hsp>°C).</ce:para>
+<ce:para view="all">Electrochemical impedance spectroscopy (EIS) and potentiodynamic polarization studies were conducted in a specially designed cell. This cell consists of a cylindrical flask (diameter of 8.5<ce:hsp sp="0.25"></ce:hsp>cm and height of 11.5<ce:hsp sp="0.25"></ce:hsp>cm) with a cover on top, which had provisions in the form of circular openings of different sizes to permit the introduction of various electrodes. Potentiodynamic polarization experiments were conducted after 1 and 168<ce:hsp sp="0.25"></ce:hsp>h of immersion in Hank's solution. Polarization curves were obtained in a potential range of −250<ce:hsp sp="0.25"></ce:hsp>mV w.r.t. free corrosion potential to 1600<ce:hsp sp="0.25"></ce:hsp>mV (versus SCE) using a scan rate of 1<ce:hsp sp="0.25"></ce:hsp>mV/s. EIS was performed after 1, 24, 72 and 168<ce:hsp sp="0.25"></ce:hsp>h of immersion in Hank's solution. After obtaining the impedance spectra, the reference and counter electrodes were removed from the cell while the working electrode (i.e. sample) was allowed to remain undisturbed in the solution. The reference and counter electrodes were re-introduced before the start of further experiments.</ce:para>
+<ce:para view="all">EIS experiments were conducted using a potentiostat (Model EG&amp;G Parstat 2263). EIS measurements were performed by applying a sinusoidal potential perturbation of 10<ce:hsp sp="0.25"></ce:hsp>mV at the open circuit potentials. The impedance spectra were measured with frequency sweep from 100<ce:hsp sp="0.25"></ce:hsp>kHz to 10<ce:hsp sp="0.25"></ce:hsp>mHz in logarithmic increment. The impedance data was analyzed using the ZSimpWin 3.00 software (EG&amp;G, USA). The impedance data were fit to appropriate equivalent electrical circuit using a complex nonlinear least-squares fitting routine, using both the real and imaginary components of the data <ce:cross-ref refid="bib9">[9]</ce:cross-ref>. Different parameters obtained from the best-fit equivalent circuit were tabulated and analyzed.</ce:para>
+<ce:para view="all">Tensile tests were performed on the cast Ti–6Al–4Nb and Ti–6Al–4Fe alloys. Two tensile test samples were fabricated for each alloy. The samples were cut from the pancake such that the axis of the samples was along the radial direction of the pancake. Tensile test samples were polished carefully, especially the gauge length of the samples, using emery papers of different grades up to 4/0 finish. Tensile tests were conducted using Universal Testing Machine (Instron, Model 1195, UK). The full scale load was 20 KN and crosshead speed was 0.5<ce:hsp sp="0.25"></ce:hsp>mm/min. The fractured surfaces were observed in a scanning electron microscope (SEM) (JEOL JSM 840A).</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:section view="all">
+<ce:label>3.1</ce:label>
+<ce:section-title>Microstructural characterization</ce:section-title>
+<ce:para view="all">The surfaces that were electrochemically characterized were microstructurally analyzed. In the microstructures that would be presented, beta phase appears dark and the alpha phase light. The microstructures of the alloys are presented in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor>. All the alloys studied were alpha–beta alloys. Vanadium, niobium and iron are beta stabilizers while aluminum is an alpha stabilizer. Alpha was the dominant phase in all these alloys as evident from the microstructures. The structure of Ti–6Al–4V was fairly fine grained equiaxed alpha distributed in beta matrix (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>a). It has also been reported that, owing to a two-phase equiaxed microstructure, Ti–6Al–4V is more susceptible to corrosion as the compositional difference across the grain boundaries increases which leads to the galvanic cell formation <ce:cross-ref refid="bib5">[5]</ce:cross-ref>.</ce:para>
+<ce:para view="all">A typical Widmanstätten type of structure was observed in the microstructure of Ti–6Al–4Nb alloy (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>b). Grain boundary alpha was also observed in a transformed beta matrix. The plate-like alpha precipitates that nucleate and grow below the beta transus produce the Widmanstätten structure <ce:cross-ref refid="bib10">[10]</ce:cross-ref>. The plates often precipitate in colonies of the same crystallographic orientation as can be noticed in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>b, because of autocatalytic nucleation <ce:cross-ref refid="bib10">[10]</ce:cross-ref>. <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>c shows the microstructures of Ti–6Al–4Fe. Blocky and fine plate-like acicular alpha, transformed beta (dark) and alpha at prior beta grain boundaries can also be seen in microstructure of Ti–6Al–4Fe (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>c).</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.2</ce:label>
+<ce:section-title>Potentiodynamic polarization</ce:section-title>
+<ce:para view="all">The variation of free corrosion potential (FCP) with immersion time in the electrolyte was similar in nature for all the alloys. The potential moved towards noble potentials on immersion and stabilized by 1<ce:hsp sp="0.25"></ce:hsp>h. The potentiodynamic polarization curves after 1 and 168<ce:hsp sp="0.25"></ce:hsp>h of immersion in Hank's solution for Ti–6Al–4V, Ti–6Al–4Nb and Ti–6Al–4Fe alloys have been compared in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor>. The potentiodynamic polarization curves obtained immediately on stabilization of free corrosion potential have been provided by Choubey et al. <ce:cross-ref refid="bib8">[8]</ce:cross-ref>. The nature of polarization curves indicated stable passive behavior. The current density achieved a constant value of passive current density (<ce:italic>i</ce:italic>
+<ce:inf loc="post">pass</ce:inf>) on anodic polarization without exhibiting any active-passive transition.</ce:para>
+<ce:para view="all">The potentiodynamic polarization curves obtained after 168<ce:hsp sp="0.25"></ce:hsp>h of immersion in Hank's solution revealed wide fluctuations in current density near the zero current potential (ZCP). This was noticed for all the alloys. The black areas observed in the polarization curves for the Ti–6Al–4V and Ti–6Al–4Fe alloys (in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>a and c, respectively) after 168<ce:hsp sp="0.25"></ce:hsp>h immersion represent the current oscillation between the lowest and highest values as a function of potential. The data presented for the alloys after 168<ce:hsp sp="0.25"></ce:hsp>h immersion in each of these figures are from one experiment and not a compilation of several independent experiments. This kind of oscillation has also been reported in the literature <ce:cross-refs refid="bib11 bib12 bib13">[11–13]</ce:cross-refs> in the case of Fe in H<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> medium and was attributed to the competition between film formation and dissolution. Ibris and Rosca <ce:cross-ref refid="bib14">[14]</ce:cross-ref> in their study of Ti, Ti–7Al–4.5V and Ti–5Al–2.5Fe alloys in artificial saliva containing fluoride ions have also observed similar features and have attributed it to dissolution of passive layer by fluoride ions. It can be seen from <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref> that current oscillations were predominant in the transition between active and passive region. In this region, the oxide layer is still unstable in the corrosive media, i.e. Hank's solution. While the anodic reaction leads to an increase of the current, the film formation blocks the active surface of the electrode, leading to a decrease of the current. Simultaneous occurrence of these two phenomena may cause fluctuations in current density <ce:cross-ref refid="bib14">[14]</ce:cross-ref>. With increasing potential, the surface film becomes more stable and the passive region appears on the polarization curve. As this type of behavior was observed for potentiodynamic polarization experiments performed after 168<ce:hsp sp="0.25"></ce:hsp>h of immersion, this can be attributed to prolonged interaction of calcium and phosphate ions present in the Hank's solution with the surface film formed on titanium alloys. Hodgson et al. <ce:cross-ref refid="bib15">[15]</ce:cross-ref> have showed that calcium and phosphate ions present in the Hank's solution interact with the surface film on Ti alloys and change the surface properties.</ce:para>
+<ce:para view="all">It can be seen from the potentiodynamic polarization curves that the change in passive current density with immersion time was minimal for Ti–6Al–4V alloy (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>a) whereas for Ti–6Al–4Nb (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>b) and Ti–6Al–4Fe (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>c) alloys a decrease in passive current density was observed.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.3</ce:label>
+<ce:section-title>Electrochemical impedance spectroscopy</ce:section-title>
+<ce:para view="all">Impedance spectra have been presented as Nyquist, Bode phase and Bode magnitude plots in <ce:cross-refs refid="fig3 fig4 fig5">Figs. 3–5</ce:cross-refs>
+<ce:float-anchor refid="fig3"></ce:float-anchor>
+<ce:float-anchor refid="fig4"></ce:float-anchor>
+<ce:float-anchor refid="fig5"></ce:float-anchor> for Ti–6Al–4V, Ti–6Al–4Nb and Ti–6Al–4Fe alloys, respectively. The nature of the Nyquist plots is similar for all the alloys, consisting of an arc that can be extrapolated to a semicircle, which is associated with the corrosion process. The diameter of the semicircle corresponds to the polarization resistance (<ce:italic>R</ce:italic>
+<ce:inf loc="post">p</ce:inf>). From the Bode phase plots shown in <ce:cross-refs refid="fig3 fig4 fig5">Figs. 3–5</ce:cross-refs> it can be noted that, for all the alloys, the phase angle drops towards zero degree at very high frequencies, indicating that the impedance is dominated by solution resistance in this frequency range (no phase shift between current and potential results due to presence of a resistor in AC circuit). Moreover, it can also be noted that the phase angle drops slightly towards lower values in the low frequency region indicating the contribution of polarization resistance to the impedance. However, the phase remains close to −90° over a wide range of frequency indicating a near capacitive response for all the alloys. This behavior is indicative of a typical thin passive oxide film present on the surface <ce:cross-ref refid="bib16">[16]</ce:cross-ref>. Bode magnitude plots, presented in <ce:cross-refs refid="fig3 fig4 fig5">Figs. 3–5</ce:cross-refs>, were also similar in nature for all the alloys. Bode magnitude plots were characterized by two distinct regions. In the higher frequency region (1–100<ce:hsp sp="0.25"></ce:hsp>kHz), the Bode magnitude plots exhibited constant log<ce:hsp sp="0.25"></ce:hsp>|<ce:italic>Z</ce:italic>| values versus log<ce:hsp sp="0.25"></ce:hsp>(<ce:italic>f</ce:italic>) with a phase angle near 0°. This was due to response of the electrolyte resistance <ce:italic>R</ce:italic>
+<ce:inf loc="post">s</ce:inf> (resistive region). In the broad low and middle frequency range, the spectra displayed a linear slope of about −1. This is the characteristic response of a capacitive behavior of surface film <ce:cross-ref refid="bib17">[17]</ce:cross-ref>.</ce:para>
+<ce:para view="all">It can be observed from the Nyquist plots that the diameter of the extrapolated semicircle (when drawn) increased with immersion time in Hank's solution. This feature was observed in Nyquist plots for all the alloys.</ce:para>
+<ce:para view="all">It can be observed from Bode phase plots that the frequency range over which the phase angle is close to −90° increases with immersion time in the Hank's solution. This feature was also present in all the spectra collected for all the alloys. Increase in frequency range over which phase angle is close to −90° is indicative of film acquiring pure capacitive behavior. This observation suggested improvement in nature of surface film with immersion time. The nature of the Bode magnitude plots remained the same with immersion time in Hank's solution (<ce:cross-refs refid="fig3 fig4 fig5">Figs. 3–5</ce:cross-refs>). The flat portion of the curve (slope ≈ 0), present in high frequency region, marginally shifted its position. This was due to minor changes in solution resistance (<ce:italic>R</ce:italic>
+<ce:inf loc="post">s</ce:inf>) with immersion time in Hank's solution for different alloys. However, the solution resistance was quite low (generally below 20<ce:hsp sp="0.25"></ce:hsp>Ω<ce:hsp sp="0.25"></ce:hsp>cm<ce:sup loc="post">−2</ce:sup>) for all the alloys and also did not change drastically with immersion time in Hank's solution.</ce:para>
+<ce:para view="all">The equivalent circuit shown in <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="fig6"></ce:float-anchor>(a) was used to fit the experimental data. In this figure <ce:italic>R</ce:italic>
+<ce:inf loc="post">s</ce:inf> denotes solution resistance, <ce:italic>R</ce:italic>
+<ce:inf loc="post">p</ce:inf> passive film resistance and CPE constant phase element. The physical model (<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>b) for this equivalent circuit, <ce:italic>R</ce:italic>(QR), is the presence of a single layer on metal surface possessing resistance as well as capacitance <ce:cross-ref refid="bib17">[17]</ce:cross-ref>. The surface film is considered to be a parallel circuit of a resistor, due to the ionic conduction through the film, and a capacitor due to its dielectric properties <ce:cross-ref refid="bib18">[18]</ce:cross-ref>. The fitting procedure revealed that better agreement between theoretical and experimental data was obtained if a frequency dependent constant-phase element (CPE) was used instead of pure capacitance and Warburg impedance. The impedance of a constant phase element is defined in as <ce:cross-ref refid="bib18">[18]</ce:cross-ref>:<ce:display>
+<ce:formula>
+<mml:math altimg="si1.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>Z</mml:mi>
+<mml:mrow>
+<mml:mtext>CPE</mml:mtext>
+</mml:mrow>
+</mml:msub>
+<mml:mo>=</mml:mo>
+<mml:msup>
+<mml:mrow>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mi>Q</mml:mi>
+<mml:msup>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>j</mml:mi>
+<mml:mi>ω</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mi>n</mml:mi>
+</mml:msup>
+<mml:mo stretchy="false">]</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mo>−</mml:mo>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+</mml:msup>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>where <ce:italic>Q</ce:italic> and <ce:italic>n</ce:italic> are frequency independent parameters which usually depend on temperature and condition for <ce:italic>n</ce:italic> is −1 ≤ <ce:italic>n</ce:italic> ≤ 1 <ce:cross-ref refid="bib18">[18]</ce:cross-ref>. CPE describes an ideal capacitor for <ce:italic>n</ce:italic> = 1, an ideal resistor for <ce:italic>n</ce:italic> = 0 and −1 for a pure inductor <ce:cross-ref refid="bib18">[18]</ce:cross-ref>. Low values of Chi-squared and low% error in parameters were the main criteria while choosing the best-fit model. The nature of Nyquist, Bode phase and Bode magnitude plots were also considered while choosing the best-fit model.</ce:para>
+<ce:para view="all">Based on the fit of the of <ce:italic>R</ce:italic>(QR) model, the values of <ce:italic>R</ce:italic>
+<ce:inf loc="post">s</ce:inf>, <ce:italic>Q</ce:italic>
+<ce:inf loc="post">p</ce:inf>, <ce:italic>n</ce:italic> and <ce:italic>R</ce:italic>
+<ce:inf loc="post">p</ce:inf> were obtained. The % error, in different parameters, obtained while fitting the <ce:italic>R</ce:italic>(QR) model with experimental data has also been obtained. Chi-squared value was also calculated. Lower values of Chi-square indicate better fit. All the parameters (<ce:italic>R</ce:italic>
+<ce:inf loc="post">s</ce:inf>, <ce:italic>Q</ce:italic>
+<ce:inf loc="post">p</ce:inf>, <ce:italic>n</ce:italic> and <ce:italic>R</ce:italic>
+<ce:inf loc="post">p</ce:inf>) obtained for Ti–6Al–4V, Ti–6Al–4Nb and Ti–6Al–4Fe alloys based on the fitting procedure are tabulated in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+<ce:float-anchor refid="tbl1"></ce:float-anchor>.</ce:para>
+<ce:para view="all">The following conclusions can be derived by analyzing the data presented in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>. It can be seen that the values of <ce:italic>n</ce:italic> were very close to one (<ce:italic>n</ce:italic> &gt; 0.9) for all the alloys for all the immersion times. This indicated a near capacitive behavior of the passive films formed on the Ti alloys. The solution resistance values did not vary notably for different alloys (<ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>). The <ce:italic>R</ce:italic>
+<ce:inf loc="post">s</ce:inf> values (1–50<ce:hsp sp="0.25"></ce:hsp>Ω<ce:hsp sp="0.25"></ce:hsp>cm<ce:sup loc="post">−2</ce:sup>) obtained were relatively low compared to <ce:italic>R</ce:italic>
+<ce:inf loc="post">p</ce:inf> values (0.1–10<ce:hsp sp="0.25"></ce:hsp>MΩ<ce:hsp sp="0.25"></ce:hsp>cm<ce:sup loc="post">−2</ce:sup>). The solution resistance did not change significantly with immersion time in Hank's solution for all the alloys (<ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>).</ce:para>
+<ce:para view="all">The variation of passive film resistance (<ce:italic>R</ce:italic>
+<ce:inf loc="post">p</ce:inf>) with immersion time for Ti–6Al–4Nb, Ti–6Al–4V and Ti–6Al–4Fe are provided in <ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+<ce:float-anchor refid="fig7"></ce:float-anchor>, while the same for constant phase element (<ce:italic>Q</ce:italic>
+<ce:inf loc="post">p</ce:inf>) are shown in <ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>
+<ce:float-anchor refid="fig8"></ce:float-anchor>. It can be observed that passive film resistance for Ti–6Al–4Nb and Ti–6Al–4Fe alloys increased steadily with immersion time in Hank's solution, while it (<ce:italic>R</ce:italic>
+<ce:inf loc="post">p</ce:inf>) increased initially and then decreased for Ti–6Al–4V alloy (<ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>). Constant phase element (<ce:italic>Q</ce:italic>
+<ce:inf loc="post">p</ce:inf>) for Ti–6Al–4Nb and Ti–6Al–4Fe were almost the same at different immersion times in Hank's solution and these values were different from that of Ti–6Al–4V alloy (<ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>).</ce:para>
+<ce:para view="all">It had been reported in the literature <ce:cross-ref refid="bib19">[19]</ce:cross-ref> that the vanadium oxide formed on the surface of Ti–6Al–4V alloy dissolves and this dissolution of vanadium oxide is further enhanced by the presence of Cl<ce:sup loc="post">−</ce:sup> ions in Hank's solution. Therefore, vanadium as an alloying element does not contribute to improvement in the surface film nature on Ti–6Al–4V alloy. In present study, the change in passive film behavior of Ti–6Al–4V alloy with immersion time in Hank's solution (contains Cl<ce:sup loc="post">−</ce:sup> ions) indicated similar results and can be attributed to same phenomena <ce:cross-ref refid="bib19">[19]</ce:cross-ref>. Researchers have reported that Nb as alloying element has a stabilizing effect on surface films on Ti based alloys <ce:cross-ref refid="bib16">[16]</ce:cross-ref>. Hukovic et al. <ce:cross-ref refid="bib19">[19]</ce:cross-ref>, in their study on influence of Nb addition on passivity of Ti based implants in Hank's solution, proposed that Nb cations improve the passivation properties of surface film by annihilating the stoichiometric defects present on titanium oxide film. The present study has also revealed the beneficial effect of Fe replacement for V in Ti–6Al–4V. Increase in passive film resistance with immersion time in Hank's solution for Ti–5Al–2.5Fe alloy was also observed by Ibris and Rosca <ce:cross-ref refid="bib14">[14]</ce:cross-ref>.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.4</ce:label>
+<ce:section-title>Mechanical properties</ce:section-title>
+<ce:para view="all">Duplicate tensile stress–strain curves for Ti–6Al–4Nb and Ti–6Al–4Fe alloys are presented in <ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref>
+<ce:float-anchor refid="fig9"></ce:float-anchor>. Yielding was not observed for Ti–6Al–4Fe alloy. This alloy exhibited brittle fracture and yield stress was equated to ultimate tensile stress. Variation was observed in duplicated experiments for Ti–6Al–4Fe alloy (<ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>
+<ce:float-anchor refid="tbl2"></ce:float-anchor>). The duplicated values for ultimate tensile stress and yield stress from the two experiments were similar in case of Ti–6Al–4Nb alloy (<ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>).</ce:para>
+<ce:para view="all">SEM micrographs of the fractured surface for Ti–6Al–4Fe and Ti–6Al–4Nb alloys are provided in <ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref>
+<ce:float-anchor refid="fig10"></ce:float-anchor>. The micrographs of the fractured surface for Ti–6Al–4Fe alloy exhibited features of brittle fracture, i.e. flat cleaved facets near the surface (<ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref>a). Ductile/mixed mode failure was observed mostly in the inner region of the fractured surface. Based on these observations it can be proposed that a brittle crack nucleated near the surface and cleaved across the material and in the last stages some ductile failure took place. The large variation in the duplicate experiments can be attributed to the brittle failure mode. On the surface of Ti–6Al–4Nb alloy, features typical of ductile type of failures were observed across the surface (<ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref>b). This resulted in a predominantly ductile fracture mode for Ti–6Al–4Nb alloy. The higher ductility obtained for this alloy (<ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>) can be explained by these observations.</ce:para>
+<ce:para view="all">Various Ti alloys are reported to possess tensile strength (UTS) around 900<ce:hsp sp="0.25"></ce:hsp>MPa <ce:cross-ref refid="bib6">[6]</ce:cross-ref>. In the present study, the tensile strengths for Ti–6Al–4Nb and Ti–6Al–4Fe alloys were around 700<ce:hsp sp="0.25"></ce:hsp>MPa. The lower values of tensile strength for these alloys may be due to the cast structure of the two alloys. Microstructural conditions play a major role in determining mechanical properties of Ti based alloys.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">The passive film nature on Ti-based alloys (Ti–6Al–4V, Ti–6Al–4Nb, Ti–6Al–4Fe) formed in Hank's solution was studied using potentiodynamic polarization and electrochemical impedance spectroscopy (EIS) techniques. The effect of immersion time in Hank's solution on passive film nature was studied. All the Ti alloys revealed improvement in passive film resistance with immersion time in Hank's solution. This indicated that the passive film on Ti-alloys becomes more protective with immersion in Hank's solution. The alloying elements Nb and Fe were found to improve the passive film to a greater extent as compared to alloying element vanadium. The as-cast Ti–6Al–4Nb and Ti–6Al–4Fe alloys exhibited similar tensile strengths while, the Ti–6Al–4Nb alloy exhibited higher ductility compared to Ti–6Al–4Fe alloy. The fractured samples showed brittle fracture (presence of flat cleaved facets) in Ti–6Al–4Fe alloy, in contrast to mixed mode of fracture for Ti–6Al–4Nb alloy.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgements</ce:section-title>
+<ce:para view="all">The authors thank Dr. D. Banerjee, Director, Defence Metallurgical Research Laboratory, Hyderabad, India for providing the alloys used in the study.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Long</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.J.</ce:given-name>
+<ce:surname>Rack</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Biomaterials</sb:maintitle>
+</sb:title>
+<sb:volume-nr>19</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1621</sb:first-page>
+<sb:last-page>1639</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.J.</ce:given-name>
+<ce:surname>Jacobs</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.L.</ce:given-name>
+<ce:surname>Gilbert</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.M.</ce:given-name>
+<ce:surname>Urban</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Bone Joint Surg.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>8</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>268</sb:first-page>
+<sb:last-page>282</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>U.E.</ce:given-name>
+<ce:surname>Pazzaglia</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Minola</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Gualtieri</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Riccardi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Cecillani</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Orthop. Scand.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>57</sb:volume-nr>
+</sb:series>
+<sb:date>1986</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>415</sb:first-page>
+<sb:last-page>418</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>L.D.</ce:given-name>
+<ce:surname>Dorr</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Bloebaum</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Emmanual</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Meldrum</ce:surname>
+</sb:author>
+<sb:author>
+<ce:surname>Histologic</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Clin Orthop.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>261</sb:volume-nr>
+</sb:series>
+<sb:date>1990</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>82</sb:first-page>
+<sb:last-page>95</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.A.</ce:given-name>
+<ce:surname>Luckey</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Kubli</ce:surname>
+<ce:suffix>Jr.</ce:suffix>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Editors Introduction in, Titanium Alloys in Surgical Implants</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1983</sb:date>
+<sb:publisher>
+<sb:name>ASTM Publication STP 796-800, ASTM</sb:name>
+<sb:location>Phiadelphia</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+<sb:comment>1–3</sb:comment>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Niinomi</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>243</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>231</sb:first-page>
+<sb:last-page>236</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.T.</ce:given-name>
+<ce:surname>Scales</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Black</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Bone Joint Surg.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>73B</sb:volume-nr>
+</sb:series>
+<sb:date>1991</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>534</sb:first-page>
+<sb:last-page>536</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Choubey</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Balasubramaniam</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Basu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>381</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>288</sb:first-page>
+<sb:last-page>294</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>B.A.</ce:given-name>
+<ce:surname>Boukamp</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Solid State Ionics</sb:maintitle>
+</sb:title>
+<sb:volume-nr>20</sb:volume-nr>
+</sb:series>
+<sb:date>1986</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>31</sb:first-page>
+<sb:last-page>44</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.M.</ce:given-name>
+<ce:surname>Donachie</ce:surname>
+<ce:suffix>Jr.</ce:suffix>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Titanium a Technical Guide</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:edition>2nd ed.</sb:edition>
+<sb:date>2000</sb:date>
+<sb:publisher>
+<sb:name>ASM International</sb:name>
+</sb:publisher>
+</sb:book>
+</sb:host>
+<sb:comment>143–282</sb:comment>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Sazou</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Electrochim. Acta</sb:maintitle>
+</sb:title>
+<sb:volume-nr>42</sb:volume-nr>
+</sb:series>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>627</sb:first-page>
+<sb:last-page>637</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Sazou</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Pagitsas</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Electroanal. Chem.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>451</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>77</sb:first-page>
+<sb:last-page>87</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Bojinov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Betova</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Fabricius</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Laitinen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Raicheff</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Electroanal. Chem.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>475</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>58</sb:first-page>
+<sb:last-page>65</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Ibris</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.C.M.</ce:given-name>
+<ce:surname>Rosca</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Electroanal. Chem.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>526</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>53</sb:first-page>
+<sb:last-page>62</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.W.E.</ce:given-name>
+<ce:surname>Hodgson</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Mueller</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Forster</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Virtanen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Electrochim. Acta</sb:maintitle>
+</sb:title>
+<sb:volume-nr>47</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>913</sb:first-page>
+<sb:last-page>923</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib16">
+<ce:label>[16]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Kobayashi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.J.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Doi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Yoneyama</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Hamanaka</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Mater. Med.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>9</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>567</sb:first-page>
+<sb:last-page>574</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib17">
+<ce:label>[17]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.E.G.</ce:given-name>
+<ce:surname>González</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.C.M.</ce:given-name>
+<ce:surname>Rosca</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Electroanal. Chem.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>471</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>109</sb:first-page>
+<sb:last-page>115</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib18">
+<ce:label>[18]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>I.D.</ce:given-name>
+<ce:surname>Raistrick</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.R.</ce:given-name>
+<ce:surname>Macdonald</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.R.</ce:given-name>
+<ce:surname>Franceschetti</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>J.R.</ce:given-name>
+<ce:surname>Macdonald</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>Theory in Impedance Spectroscopy-Emphasizing Solid Materials and Systems</sb:maintitle>
+</sb:title>
+<sb:date>1987</sb:date>
+<sb:publisher>
+<sb:name>Wiley</sb:name>
+<sb:location>New York</sb:location>
+</sb:publisher>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>90</sb:first-page>
+<sb:last-page>91</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib19">
+<ce:label>[19]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.M.</ce:given-name>
+<ce:surname>Hukovic</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Kwokal</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Piljac</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Biomaterials</sb:maintitle>
+</sb:title>
+<sb:volume-nr>24</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>3765</sb:first-page>
+<sb:last-page>3775</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

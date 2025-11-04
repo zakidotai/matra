@@ -1,0 +1,2396 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838805015136</prism:url><dc:identifier>doi:10.1016/j.jallcom.2005.10.001</dc:identifier><eid>1-s2.0-S0925838805015136</eid><prism:doi>10.1016/j.jallcom.2005.10.001</prism:doi><pii>S0925-8388(05)01513-6</pii><dc:title>MOKE study of Co/Ti/(Gd–Co) multilayers near the magnetic compensation state </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>419</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>25</prism:startingpage><prism:endingpage>31</prism:endingpage><prism:pagerange>25-31</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2006-08-10</prism:coverdate><prism:coverdisplaydate>10 August 2006</prism:coverdisplaydate><prism:copyright>Copyright © 2005 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Svalov, A.V.</dc:creator><dc:creator>Fernandez, A.</dc:creator><dc:creator>Vas’kovskiy, V.O.</dc:creator><dc:creator>Kurlyandskaya, G.V.</dc:creator><dc:creator>Barandiarán, J.M.</dc:creator><dc:creator>Anton, R. Lopez</dc:creator><dc:creator>Tejedor, M.</dc:creator><dc:description>
+                  The magnetic behaviour of [Co/Ti/a-Gd0.36Co0.64/Ti]4/Co layered structures was studied by means of the transversal magneto-optic Kerr effect, with Ti spacers of different thicknesses. Within the Gd0.36Co0.64 amorphous layer, the Gd magnetic sub-lattice dominates at all investigated temperatures. The strong exchange interaction at the interfaces causes ‘macroscopic ferrimagnetic behaviour’ in the whole system. The existence of a magnetic compensation state in the complete multilayer system was manifested by the change of sign in the magneto-optic hysteresis loops and the increase of coercivity. The evolution of the critical field for a spin-orientation transition leading to a non-collinear magnetic state near the ‘compensation temperature’ can be described within molecular field theory. The influence of the non-magnetic spacer thickness on the characteristics of the compensation state is also discussed.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Ferrimagnet</dcterms:subject><dcterms:subject>Multilayers</dcterms:subject><dcterms:subject>Compensation state</dcterms:subject><dcterms:subject>Magneto-optical Kerr effect</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838805015136" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838805015136" rel="scidir"/></coredata><objects><object category="thumbnail" height="34" mimetype="image/gif" multimediatype="GIF image file" ref="si3" size="1115" type="ALTIMG" width="261">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015136-si3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="58" mimetype="image/gif" multimediatype="GIF image file" ref="si1" size="1747" type="ALTIMG" width="308">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015136-si1.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="14" mimetype="image/gif" multimediatype="GIF image file" ref="si2" size="488" type="ALTIMG" width="127">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015136-si2.gif?httpAccept=%2A%2F%2A</object><object category="standard" height="470" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="83731" type="IMAGE-DOWNSAMPLED" width="367">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015136-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="2222" type="IMAGE-THUMBNAIL" width="73">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015136-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="543" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="30882" type="IMAGE-DOWNSAMPLED" width="238">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015136-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="1857" type="IMAGE-THUMBNAIL" width="41">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015136-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="612" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="39067" type="IMAGE-DOWNSAMPLED" width="266">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015136-gr4.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="92" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="1795" type="IMAGE-THUMBNAIL" width="40">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015136-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="316" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr5" size="19407" type="IMAGE-DOWNSAMPLED" width="256">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015136-gr5.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="2314" type="IMAGE-THUMBNAIL" width="75">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015136-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="325" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr6" size="17141" type="IMAGE-DOWNSAMPLED" width="256">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015136-gr6.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="2044" type="IMAGE-THUMBNAIL" width="73">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015136-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="500" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr7" size="23077" type="IMAGE-DOWNSAMPLED" width="251">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015136-gr7.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="1583" type="IMAGE-THUMBNAIL" width="47">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015136-gr7.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="480" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr8" size="21362" type="IMAGE-DOWNSAMPLED" width="256">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015136-gr8.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr8" size="1545" type="IMAGE-THUMBNAIL" width="50">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015136-gr8.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="319" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr9" size="16977" type="IMAGE-DOWNSAMPLED" width="253">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015136-gr9.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr9" size="1881" type="IMAGE-THUMBNAIL" width="74">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015136-gr9.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="456" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="70988" type="IMAGE-DOWNSAMPLED" width="366">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015136-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="3080" type="IMAGE-THUMBNAIL" width="75">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015136-gr1.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>33745476585</scopus-id><scopus-eid>2-s2.0-33745476585</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/33745476585" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20051109">2005-11-09</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20051109">2005-11-09</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-03-29T07:36:02</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838805015136</xocs:eid>
+<xocs:pii-formatted>S0925-8388(05)01513-6</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805015136</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2005.10.001</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838806X02578</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.349087-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20060810</xocs:date-search-begin>
+<xocs:year-nav>2006</xocs:year-nav>
+<xocs:indexeddate epoch="1131494400">2005-11-09T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>419</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>419</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 419, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>7</xocs:sort-order>
+<xocs:first-fp>25</xocs:first-fp>
+<xocs:last-lp>31</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>25</xocs:first-page>
+<xocs:last-page>31</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20060810</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>10 August 2006</xocs:cover-date-text>
+<xocs:cover-date-start>2006-08-10</xocs:cover-date-start>
+<xocs:cover-date-year>2006</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Physics</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2005 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>MOKESTUDYCOTIGDCOMULTILAYERSNEARMAGNETICCOMPENSATIONSTATE</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>SVALOV</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>A</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental details</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>STILES</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>322</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-normalized-srctitle>MAGNETICMULTILAYERSGIANTMAGNETORESISTANCEFUNDAMENTALSAPPLICATIONS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>CAMLEY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1993</xocs:ref-pub-year>
+<xocs:ref-first-fp>3727</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>MORISHITA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1985</xocs:ref-pub-year>
+<xocs:ref-first-fp>37</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>KAMIGUCHI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1989</xocs:ref-pub-year>
+<xocs:ref-first-fp>1918</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>CHERIFI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1991</xocs:ref-pub-year>
+<xocs:ref-first-fp>7733</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>RICHOMME</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>416</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>ANDRES</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>094424</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>VASKOVSKIY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>295</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>SVALOV</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>5</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>CAMLEY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1988</xocs:ref-pub-year>
+<xocs:ref-first-fp>3413</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>MOTOKAWA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1991</xocs:ref-pub-year>
+<xocs:ref-first-fp>1355</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13">
+<xocs:ref-normalized-surname>TAKANASHI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1992</xocs:ref-pub-year>
+<xocs:ref-first-fp>3721</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>GORBUNOV</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>S60</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15">
+<xocs:ref-normalized-surname>TAKANASHI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1993</xocs:ref-pub-year>
+<xocs:ref-first-fp>242</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib16">
+<xocs:ref-normalized-surname>MERENKOV</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>137</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib17">
+<xocs:ref-normalized-surname>TAKANASHI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1993</xocs:ref-pub-year>
+<xocs:ref-first-fp>1585</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib18">
+<xocs:ref-normalized-surname>SUCIU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>229</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib19">
+<xocs:ref-normalized-surname>PATRIN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>155</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib20">
+<xocs:ref-normalized-surname>GONZALEZ</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>5061</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib21">
+<xocs:ref-normalized-surname>FAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>3138</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib22">
+<xocs:ref-normalized-surname>PING</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>7301</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib23">
+<xocs:ref-normalized-surname>MOFFATT</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1986</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>HANDBOOKBINARYPHASEDIAGRAMS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib24">
+<xocs:ref-normalized-surname>DEHESAMARTINEZ</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>024417</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib25">
+<xocs:ref-normalized-surname>BUSCHOW</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1988</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>FERROMAGNETICMATERIALS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib26">
+<xocs:ref-normalized-surname>LEPAGE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1990</xocs:ref-pub-year>
+<xocs:ref-first-fp>1152</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib27">
+<xocs:ref-normalized-surname>HAHN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>16041</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib28">
+<xocs:ref-normalized-surname>SAJIEDDINE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1994</xocs:ref-pub-year>
+<xocs:ref-first-fp>8815</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib29">
+<xocs:ref-normalized-surname>HOSOITO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>5289</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib30">
+<xocs:ref-normalized-surname>BELOV</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1972</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>ORIENTATIONALTRANSITIONINRAREEARTHMAGNETS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib31">
+<xocs:ref-normalized-surname>CHIKAZUMI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>PHYSICSFERROMAGNETISM</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib32">
+<xocs:ref-normalized-surname>VASKOVSKIY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>925</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>ENCYCLOPEDIANANOSCIENCENANOTECHNOLOGY</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib33">
+<xocs:ref-normalized-surname>DEMIRTAS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>4949</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>SVALOVX2006X25</xocs:refkey3>
+<xocs:refkey4lp>SVALOVX2006X25X31</xocs:refkey4lp>
+<xocs:refkey4ai>SVALOVX2006X25XA</xocs:refkey4ai>
+<xocs:refkey5>SVALOVX2006X25X31XA</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(05)01513-6</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805015136</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838805015136</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2005.10.001</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-08T03:48:30.273287-04:00</xocs:timestamp>
+<xocs:cover-date-start>2006-08-10</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838805015136-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015136/MAIN/application/pdf/703f038ccfc39879cdb048ba128d1e63/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015136/MAIN/application/pdf/703f038ccfc39879cdb048ba128d1e63/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>490294</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838805015136-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015136/PREVIEW/image/png/7b980b3e929a12dd0a6dc56e9623fbfa/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015136/PREVIEW/image/png/7b980b3e929a12dd0a6dc56e9623fbfa/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>64659</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015136-si3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015136/STRIPIN/image/gif/46c439a75dd48b57a36ee5b0db8ff97f/si3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015136/STRIPIN/image/gif/46c439a75dd48b57a36ee5b0db8ff97f/si3.gif</xocs:ucs-locator>
+<xocs:file-basename>si3</xocs:file-basename>
+<xocs:filename>si3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1115</xocs:filesize>
+<xocs:pixel-height>34</xocs:pixel-height>
+<xocs:pixel-width>261</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015136-si1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015136/STRIPIN/image/gif/9185e823a1d5a28609a6949b78343625/si1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015136/STRIPIN/image/gif/9185e823a1d5a28609a6949b78343625/si1.gif</xocs:ucs-locator>
+<xocs:file-basename>si1</xocs:file-basename>
+<xocs:filename>si1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1747</xocs:filesize>
+<xocs:pixel-height>58</xocs:pixel-height>
+<xocs:pixel-width>308</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015136-si2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015136/STRIPIN/image/gif/5a61767a48cb686902b423fd78f87a02/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015136/STRIPIN/image/gif/5a61767a48cb686902b423fd78f87a02/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si2</xocs:file-basename>
+<xocs:filename>si2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>488</xocs:filesize>
+<xocs:pixel-height>14</xocs:pixel-height>
+<xocs:pixel-width>127</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015136-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015136/gr2/DOWNSAMPLED/image/jpeg/c6baa8c8c319dd55638f1ef68781893a/gr2.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015136/gr2/DOWNSAMPLED/image/jpeg/c6baa8c8c319dd55638f1ef68781893a/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>83731</xocs:filesize>
+<xocs:pixel-height>470</xocs:pixel-height>
+<xocs:pixel-width>367</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015136-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015136/gr2/THUMBNAIL/image/gif/8ddec94afa70a0faf7dd34e7c1de8b31/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015136/gr2/THUMBNAIL/image/gif/8ddec94afa70a0faf7dd34e7c1de8b31/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2222</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>73</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015136-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015136/gr3/DOWNSAMPLED/image/jpeg/515b77f343b8ada47ea2b600c07411ed/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015136/gr3/DOWNSAMPLED/image/jpeg/515b77f343b8ada47ea2b600c07411ed/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>30882</xocs:filesize>
+<xocs:pixel-height>543</xocs:pixel-height>
+<xocs:pixel-width>238</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015136-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015136/gr3/THUMBNAIL/image/gif/67bd9cfa1570967901d7bcde4624060b/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015136/gr3/THUMBNAIL/image/gif/67bd9cfa1570967901d7bcde4624060b/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1857</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>41</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015136-gr4.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015136/gr4/DOWNSAMPLED/image/jpeg/911db783ca42b4ef408f3ac17094eabc/gr4.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015136/gr4/DOWNSAMPLED/image/jpeg/911db783ca42b4ef408f3ac17094eabc/gr4.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>39067</xocs:filesize>
+<xocs:pixel-height>612</xocs:pixel-height>
+<xocs:pixel-width>266</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015136-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015136/gr4/THUMBNAIL/image/gif/6e1dbc7621e754ca00d1a7da52ea4ff3/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015136/gr4/THUMBNAIL/image/gif/6e1dbc7621e754ca00d1a7da52ea4ff3/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1795</xocs:filesize>
+<xocs:pixel-height>92</xocs:pixel-height>
+<xocs:pixel-width>40</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015136-gr5.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015136/gr5/DOWNSAMPLED/image/jpeg/30d5d45a1598107d4728dde6ff57d18b/gr5.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015136/gr5/DOWNSAMPLED/image/jpeg/30d5d45a1598107d4728dde6ff57d18b/gr5.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>19407</xocs:filesize>
+<xocs:pixel-height>316</xocs:pixel-height>
+<xocs:pixel-width>256</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015136-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015136/gr5/THUMBNAIL/image/gif/159600395580255033455332416ed206/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015136/gr5/THUMBNAIL/image/gif/159600395580255033455332416ed206/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2314</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>75</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015136-gr6.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015136/gr6/DOWNSAMPLED/image/jpeg/e66e9aed290b6b42afb001658acd5469/gr6.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015136/gr6/DOWNSAMPLED/image/jpeg/e66e9aed290b6b42afb001658acd5469/gr6.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>17141</xocs:filesize>
+<xocs:pixel-height>325</xocs:pixel-height>
+<xocs:pixel-width>256</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015136-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015136/gr6/THUMBNAIL/image/gif/a21330d6dadc1c71d81c93e24ef780d7/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015136/gr6/THUMBNAIL/image/gif/a21330d6dadc1c71d81c93e24ef780d7/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2044</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>73</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015136-gr7.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015136/gr7/DOWNSAMPLED/image/jpeg/75ed5117e45d1316e3a502a26aa65517/gr7.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015136/gr7/DOWNSAMPLED/image/jpeg/75ed5117e45d1316e3a502a26aa65517/gr7.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>23077</xocs:filesize>
+<xocs:pixel-height>500</xocs:pixel-height>
+<xocs:pixel-width>251</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015136-gr7.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015136/gr7/THUMBNAIL/image/gif/7f10b6de397697ad5596f3c69b6846e7/gr7.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015136/gr7/THUMBNAIL/image/gif/7f10b6de397697ad5596f3c69b6846e7/gr7.sml</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1583</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>47</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015136-gr8.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015136/gr8/DOWNSAMPLED/image/jpeg/df0d751d5ed38a21a5d7ca04e7d7c6f3/gr8.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015136/gr8/DOWNSAMPLED/image/jpeg/df0d751d5ed38a21a5d7ca04e7d7c6f3/gr8.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>21362</xocs:filesize>
+<xocs:pixel-height>480</xocs:pixel-height>
+<xocs:pixel-width>256</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015136-gr8.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015136/gr8/THUMBNAIL/image/gif/980fd61d25783e726075bc41cc6d8a1d/gr8.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015136/gr8/THUMBNAIL/image/gif/980fd61d25783e726075bc41cc6d8a1d/gr8.sml</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1545</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>50</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015136-gr9.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015136/gr9/DOWNSAMPLED/image/jpeg/4d53c5f6c3afe3189ac2c2325828b076/gr9.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015136/gr9/DOWNSAMPLED/image/jpeg/4d53c5f6c3afe3189ac2c2325828b076/gr9.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>16977</xocs:filesize>
+<xocs:pixel-height>319</xocs:pixel-height>
+<xocs:pixel-width>253</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015136-gr9.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015136/gr9/THUMBNAIL/image/gif/5f618c94accd5c9f7a68dce88740aad8/gr9.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015136/gr9/THUMBNAIL/image/gif/5f618c94accd5c9f7a68dce88740aad8/gr9.sml</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1881</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>74</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015136-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015136/gr1/DOWNSAMPLED/image/jpeg/a332048cf0c65ebe4d96ead282bb8a50/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015136/gr1/DOWNSAMPLED/image/jpeg/a332048cf0c65ebe4d96ead282bb8a50/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>70988</xocs:filesize>
+<xocs:pixel-height>456</xocs:pixel-height>
+<xocs:pixel-width>366</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015136-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015136/gr1/THUMBNAIL/image/gif/afddcc847f70eac7ac059f3db020217c/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015136/gr1/THUMBNAIL/image/gif/afddcc847f70eac7ac059f3db020217c/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3080</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>75</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>13186</aid>
+<ce:pii>S0925-8388(05)01513-6</ce:pii>
+<ce:doi>10.1016/j.jallcom.2005.10.001</ce:doi>
+<ce:copyright type="full-transfer" year="2005">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Principal diagram of the (Gd–Co)-aligned and Co-aligned phases with respect to the temperature range. In the (Gd–Co)-aligned phase, the moments of the Gd–Co layers are large and aligned with the external field. In the Co-aligned phase at <ce:italic>T</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>&gt;<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>T</ce:italic>
+<ce:inf loc="post">comp</ce:inf>, the Gd–Co moments are small and the Co layers’ moments align with the field.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Surface images obtained by atomic force microscope for multilayered structures: [Co(7<ce:hsp sp="0.25"></ce:hsp>nm)/GdCo(24<ce:hsp sp="0.25"></ce:hsp>nm)]<ce:inf loc="post">4</ce:inf>/Co(7<ce:hsp sp="0.25"></ce:hsp>nm) (a); [Co(7<ce:hsp sp="0.25"></ce:hsp>nm)/Ti(1.5<ce:hsp sp="0.25"></ce:hsp>nm)/GdCo(24<ce:hsp sp="0.25"></ce:hsp>nm)/Ti(1.5<ce:hsp sp="0.25"></ce:hsp>nm)]<ce:inf loc="post">4</ce:inf>/Co(7<ce:hsp sp="0.25"></ce:hsp>nm) (b).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Normalized TMOKE hysteresis loops for a [Co(7<ce:hsp sp="0.25"></ce:hsp>nm)/GdCo(24<ce:hsp sp="0.25"></ce:hsp>nm)]<ce:inf loc="post">4</ce:inf>/Co(7<ce:hsp sp="0.25"></ce:hsp>nm) structure measured at different temperatures: 243<ce:hsp sp="0.25"></ce:hsp>K (a), 294<ce:hsp sp="0.25"></ce:hsp>K (b), 308<ce:hsp sp="0.25"></ce:hsp>K (c) and 320<ce:hsp sp="0.25"></ce:hsp>K (d). The loop height at 308<ce:hsp sp="0.25"></ce:hsp>K is chosen as the TMOKE signal unit. Only a few representative loops of those measured at different temperatures are shown. The breaks corresponding to the transition from a ferrimagnetic structure to a non-collinear state are indicated by arrows.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Normalized TMOKE hysteresis loops for [Co(7<ce:hsp sp="0.25"></ce:hsp>nm)/Ti(0.3<ce:hsp sp="0.25"></ce:hsp>nm)/GdCo(24<ce:hsp sp="0.25"></ce:hsp>nm)/Ti(0.3<ce:hsp sp="0.25"></ce:hsp>nm)]<ce:inf loc="post">4</ce:inf>/Co(7<ce:hsp sp="0.25"></ce:hsp>nm) structure measured at different temperatures: 272<ce:hsp sp="0.25"></ce:hsp>K (a), 291<ce:hsp sp="0.25"></ce:hsp>K (b), 295<ce:hsp sp="0.25"></ce:hsp>K (c) and 323<ce:hsp sp="0.25"></ce:hsp>K (d). The loop height at 272<ce:hsp sp="0.25"></ce:hsp>K is chosen as the TMOKE signal unit. Only a few representative loops of those measured at different temperatures are shown. The breaks corresponding to the transition from a ferrimagnetic structure to a non-collinear state are indicated by arrows.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Normalized Kerr loops for [Co(7<ce:hsp sp="0.25"></ce:hsp>nm)/Ti(0.5<ce:hsp sp="0.25"></ce:hsp>nm)/GdCo(24<ce:hsp sp="0.25"></ce:hsp>nm)/Ti(0.5<ce:hsp sp="0.25"></ce:hsp>nm)]<ce:inf loc="post">4</ce:inf>/Co(7<ce:hsp sp="0.25"></ce:hsp>nm) structure measured at different temperatures: 305<ce:hsp sp="0.25"></ce:hsp>K (a) and 363<ce:hsp sp="0.25"></ce:hsp>K (b). The loop height at 363<ce:hsp sp="0.25"></ce:hsp>K is chosen as the TMOKE signal unit. Only a few representative loops of those measured at different temperatures are shown. The breaks corresponding to transition from a ferrimagnetic structure to a non-collinear state are indicated by arrows.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Normalized Kerr loops for [Co(7<ce:hsp sp="0.25"></ce:hsp>nm)/Ti(1.5<ce:hsp sp="0.25"></ce:hsp>nm)/GdCo(24<ce:hsp sp="0.25"></ce:hsp>nm)/Ti(1.5<ce:hsp sp="0.25"></ce:hsp>nm)]<ce:inf loc="post">4</ce:inf>/Co(7<ce:hsp sp="0.25"></ce:hsp>nm) structure measured at different temperatures: 230<ce:hsp sp="0.25"></ce:hsp>K (a) and 345<ce:hsp sp="0.25"></ce:hsp>K (b). Only a few representative loops of those measured at different temperatures are shown.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+<ce:figure id="fig7">
+<ce:label>Fig. 7</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Temperature dependence of coercivity for different multilayered structures: [Co(7<ce:hsp sp="0.25"></ce:hsp>nm)/GdCo(24<ce:hsp sp="0.25"></ce:hsp>nm)]<ce:inf loc="post">4</ce:inf>/Co(7<ce:hsp sp="0.25"></ce:hsp>nm) (a); [Co(7<ce:hsp sp="0.25"></ce:hsp>nm)/Ti(0.3<ce:hsp sp="0.25"></ce:hsp>nm)/GdCo(24<ce:hsp sp="0.25"></ce:hsp>nm)/Ti(0.3<ce:hsp sp="0.25"></ce:hsp>nm)]<ce:inf loc="post">4</ce:inf>/Co(7<ce:hsp sp="0.25"></ce:hsp>nm) (b); [Co(7<ce:hsp sp="0.25"></ce:hsp>nm)/Ti(0.5<ce:hsp sp="0.25"></ce:hsp>nm)/GdCo(24<ce:hsp sp="0.25"></ce:hsp>nm)/Ti(0.5<ce:hsp sp="0.25"></ce:hsp>nm)]<ce:inf loc="post">4</ce:inf>/Co(7<ce:hsp sp="0.25"></ce:hsp>nm) (c).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr7"></ce:link>
+</ce:figure>
+<ce:figure id="fig8">
+<ce:label>Fig. 8</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Temperature dependencies of the critical field <ce:italic>H</ce:italic>
+<ce:inf loc="post">cr</ce:inf> for different multilayered structures (the experimental data are shown as points and the results of model calculations are shown as solid lines): [Co(7<ce:hsp sp="0.25"></ce:hsp>nm)/GdCo(24<ce:hsp sp="0.25"></ce:hsp>nm)]<ce:inf loc="post">4</ce:inf>/Co(7<ce:hsp sp="0.25"></ce:hsp>nm) (a); [Co(7<ce:hsp sp="0.25"></ce:hsp>nm)/Ti(0.3<ce:hsp sp="0.25"></ce:hsp>nm)/GdCo(24<ce:hsp sp="0.25"></ce:hsp>nm)/Ti(0.3<ce:hsp sp="0.25"></ce:hsp>nm)]<ce:inf loc="post">4</ce:inf>/Co(7<ce:hsp sp="0.25"></ce:hsp>nm) (b); [Co(7<ce:hsp sp="0.25"></ce:hsp>nm)/Ti(0.5<ce:hsp sp="0.25"></ce:hsp>nm)/GdCo(24<ce:hsp sp="0.25"></ce:hsp>nm)/Ti(0.5<ce:hsp sp="0.25"></ce:hsp>nm)]<ce:inf loc="post">4</ce:inf>/Co(7<ce:hsp sp="0.25"></ce:hsp>nm) (c).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr8"></ce:link>
+</ce:figure>
+<ce:figure id="fig9">
+<ce:label>Fig. 9</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Temperature dependence of magnetization for [Co(7<ce:hsp sp="0.25"></ce:hsp>nm)/GdCo(24<ce:hsp sp="0.25"></ce:hsp>nm)]<ce:inf loc="post">4</ce:inf>/Co(7<ce:hsp sp="0.25"></ce:hsp>nm) multilayers: (a) measured at external magnetic field of 150<ce:hsp sp="0.25"></ce:hsp>Oe (1) and 500<ce:hsp sp="0.25"></ce:hsp>Oe (2); temperature dependence of saturation magnetization for a Gd<ce:inf loc="post">0.36</ce:inf>Co<ce:inf loc="post">0.64</ce:inf> film (b).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr9"></ce:link>
+</ce:figure>
+</ce:floats>
+<ce:title>MOKE study of Co/Ti/(Gd–Co) multilayers near the magnetic compensation state</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>A.V.</ce:given-name>
+<ce:surname>Svalov</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Fernandez</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>V.O.</ce:given-name>
+<ce:surname>Vas’kovskiy</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>G.V.</ce:given-name>
+<ce:surname>Kurlyandskaya</ce:surname>
+<ce:cross-ref refid="aff3">
+<ce:sup loc="post">c</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="cor1">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>J.M.</ce:given-name>
+<ce:surname>Barandiarán</ce:surname>
+<ce:cross-ref refid="aff3">
+<ce:sup loc="post">c</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>R. Lopez</ce:given-name>
+<ce:surname>Anton</ce:surname>
+<ce:cross-ref refid="aff3">
+<ce:sup loc="post">c</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Tejedor</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation id="aff1">
+<ce:label>a</ce:label>
+<ce:textfn>Departamento de Física, Universidad de Oviedo, Avenida Calvo Sotelo s/n, 33007 Oviedo, Asturias, Spain</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff2">
+<ce:label>b</ce:label>
+<ce:textfn>Ural State University, Institute of Physics and Applied Mathematics, Lenin Avenue 51, 620083 Ekaterinburg, Russia</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff3">
+<ce:label>c</ce:label>
+<ce:textfn>Departamento de Electricidad y Electrónica, Facultad de Ciencia y Tecnología, Universidad del País Vasco, UPV/EHU, P.O. Box 644, 48080 Bilbao, Spain</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>⁎</ce:label>
+<ce:text>Corresponding author.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="7" month="9" year="2005"></ce:date-received>
+<ce:date-revised day="1" month="10" year="2005"></ce:date-revised>
+<ce:date-accepted day="3" month="10" year="2005"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">The magnetic behaviour of [Co/Ti/a-Gd<ce:inf loc="post">0.36</ce:inf>Co<ce:inf loc="post">0.64</ce:inf>/Ti]<ce:inf loc="post">4</ce:inf>/Co layered structures was studied by means of the transversal magneto-optic Kerr effect, with Ti spacers of different thicknesses. Within the Gd<ce:inf loc="post">0.36</ce:inf>Co<ce:inf loc="post">0.64</ce:inf> amorphous layer, the Gd magnetic sub-lattice dominates at all investigated temperatures. The strong exchange interaction at the interfaces causes ‘macroscopic ferrimagnetic behaviour’ in the whole system. The existence of a magnetic compensation state in the complete multilayer system was manifested by the change of sign in the magneto-optic hysteresis loops and the increase of coercivity. The evolution of the critical field for a spin-orientation transition leading to a non-collinear magnetic state near the ‘compensation temperature’ can be described within molecular field theory. The influence of the non-magnetic spacer thickness on the characteristics of the compensation state is also discussed.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Ferrimagnet</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Multilayers</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Compensation state</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Magneto-optical Kerr effect</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Magnetic layered systems have attracted much attention recently, both for their fundamental interest as well as for possible technological applications in magnetic storage devices and sensors <ce:cross-refs refid="bib1 bib2">[1,2]</ce:cross-refs>. Multilayers consisting of rare-earth (RE) and transition metal (TM) components form an interesting family within these systems. The antiferromagnetic interlayer coupling in RE/TM structures gives rise to a variety of magnetic configurations <ce:cross-ref refid="bib3">[3]</ce:cross-ref>. Characteristic ferrimagnetic behaviour, such as compensation phenomena of the magnetization and low-field spin-flop transitions have been observed <ce:cross-refs refid="bib4 bib5 bib6 bib7 bib8 bib9 bib10">[4–10]</ce:cross-refs> and explained in terms of molecular field theory <ce:cross-refs refid="bib8 bib11 bib12 bib13 bib14">[8,11–14]</ce:cross-refs> in RE/TM multilayers. The magnetization process of RE/TM multilayers was first described by Camley and Tilley <ce:cross-ref refid="bib11">[11]</ce:cross-ref>, as comprising three main phases: (a) the RE-aligned phase, where the RE magnetic moments are parallel to the magnetic field and TM moments are antiparallel; (b) the TM-aligned phase, with TM moments in the field direction and RE moments antiparallel to it; (c) the twisted phase, where RE and TM moments are away from the field direction when the applied field exceeds the critical value <ce:italic>H</ce:italic>
+<ce:inf loc="post">cr</ce:inf>.</ce:para>
+<ce:para view="all">RE/TM structures containing non-magnetic spacers between magnetic layers have not been studied in as much detail. Nevertheless, interesting peculiarities have been found for such systems: decrease of the strength of the coupling between magnetic layers with the increase of spacer thickness <ce:cross-refs refid="bib15 bib16">[15,16]</ce:cross-refs>; anomalous hysteresis loops <ce:cross-ref refid="bib17">[17]</ce:cross-ref>; biquadratic interlayer exchange coupling <ce:cross-ref refid="bib18">[18]</ce:cross-ref>; spin-glass-like behaviour of the magnetization in low fields <ce:cross-ref refid="bib19">[19]</ce:cross-ref>.</ce:para>
+<ce:para view="all">Real RE/TM multilayers are often far from ideal planar structures with perfect interfaces. For example, the existence of interdiffusion between the Co and the Gd layers was shown in the case of Gd/Co multilayers, which led to Co alloying throughout the Gd layer up to composition near the eutectic point (Gd<ce:inf loc="post">0.63</ce:inf>Co<ce:inf loc="post">0.37</ce:inf>) <ce:cross-ref refid="bib20">[20]</ce:cross-ref>. In addition, the Curie points of many RE components occur at a range of rather low temperatures, which makes them less attractive for applications. In technological applications, it is better to replace the RE layers by RE-rich RE–TM alloy layers <ce:cross-ref refid="bib21">[21]</ce:cross-ref>. The RE–TM alloy films are, in general, amorphous and present high structural stability, magnetic ordering temperatures which are far higher than room temperature<ce:bold>,</ce:bold> and monotonous change of the main magnetic characteristics as a function of composition. Interesting aspects to be studied in TM/(RE–TM) multilayers include, therefore, the exchange interaction between RE and RE–TM alloy layers and the magnetic properties of these structures, as well as the effect of non-magnetic spacers.</ce:para>
+<ce:para view="all">In the present study we describe the magnetic behaviour of [Co/Ti/Gd<ce:inf loc="post">0.36</ce:inf>Co<ce:inf loc="post">0.64</ce:inf>/Ti]<ce:inf loc="post">4</ce:inf>/Co multilayers, in which the Gd<ce:inf loc="post">0.36</ce:inf>Co<ce:inf loc="post">0.64</ce:inf> alloy plays the role of RE in classic RE/TM multilayers. Different thicknesses of the non-magnetic Ti layer have been used to study the effect of a non-magnetic spacer on the coupling between the pure Co and GdCo layers. Near the magnetic compensation temperature, the three different magnetic phases in multilayered structures were observed and studied.</ce:para>
+<ce:para view="all">The Gd<ce:inf loc="post">0.36</ce:inf>Co<ce:inf loc="post">0.64</ce:inf> composition of the amorphous RE–TM layer was selected so that, near room temperature, its saturation magnetization would be dominated by the Gd. Because of the negative Gd–Co and positive Co–Co exchange interaction near the interface, the total magnetic moments of Gd–Co and Co layers are antiparallel (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor>). Thus, [Co/Ti/(Gd–Co)/Ti]<ce:inf loc="post">4</ce:inf>/Co multilayers form a macroscopic ferrimagnet. At around room temperature the magnetization of the Gd<ce:inf loc="post">0.36</ce:inf>Co<ce:inf loc="post">0.64</ce:inf> layers decreases quickly, while the magnetization of the Co layer remains almost constant. Therefore, the [Co/Ti/(Gd–Co)/Ti]<ce:inf loc="post">4</ce:inf>/Co multilayers can show a magnetic compensation state for which the net magnetization is zero at a temperature <ce:italic>T</ce:italic>
+<ce:inf loc="post">comp</ce:inf>. The Gd–Co moment dominates for <ce:italic>T</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>&lt;<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>T</ce:italic>
+<ce:inf loc="post">comp</ce:inf>, while the Co moment does so at <ce:italic>T</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>&gt;<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>T</ce:italic>
+<ce:inf loc="post">comp</ce:inf> (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>).</ce:para>
+<ce:para view="all">Ti was chosen for the spacers because it has very limited interdiffusion with Co layers at low temperatures <ce:cross-ref refid="bib22">[22]</ce:cross-ref> and low solubility in RE elements <ce:cross-ref refid="bib23">[23]</ce:cross-ref> and, therefore, has a minimal influence on the structural–chemical condition of Gd–Co and Co layers. Further confirmation of this fact was obtained in the present study.</ce:para>
+</ce:section>
+<ce:section role="materials-methods" view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental details</ce:section-title>
+<ce:para view="all">[Co/Ti/Gd<ce:inf loc="post">0.36</ce:inf>Co<ce:inf loc="post">0.64</ce:inf>/Ti]<ce:inf loc="post">4</ce:inf>/Co multilayers were deposited using a three target RF sputtering system. Co and Gd<ce:inf loc="post">0.36</ce:inf>Co<ce:inf loc="post">0.64</ce:inf> single layer films were also prepared for comparison. The background pressure was 1<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>10<ce:sup loc="post">−6</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>mbar. Deposition was performed in Ar atmosphere with a partial pressure of 2<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>10<ce:sup loc="post">−4</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>mbar. Samples were deposited on glass substrates at room temperature. A mosaic target was used for preparation of the Gd<ce:inf loc="post">0.36</ce:inf>Co<ce:inf loc="post">0.64</ce:inf> layers. All multilayers had a fixed nominal thickness of 7<ce:hsp sp="0.25"></ce:hsp>nm for the Co layers and 24<ce:hsp sp="0.25"></ce:hsp>nm for the Gd<ce:inf loc="post">0.36</ce:inf>Co<ce:inf loc="post">0.64</ce:inf> layers. The thickness of the Ti spacer layers (<ce:italic>L</ce:italic>
+<ce:inf loc="post">Ti</ce:inf>) ranged from 0.3 to 1.5<ce:hsp sp="0.25"></ce:hsp>nm.</ce:para>
+<ce:para view="all">The deposition rates of Gd–Co, Co and Ti thin films were previously calibrated by low angle X-ray reflectometry and atomic force microscopy, yielding 0.058<ce:hsp sp="0.25"></ce:hsp>nm/s for Co, 0.067<ce:hsp sp="0.25"></ce:hsp>nm/s for Gd–Co and 0.05<ce:hsp sp="0.25"></ce:hsp>nm/s for Ti, respectively. Thereafter, the thickness of all layers was estimated from the deposition time by using these deposition rates.</ce:para>
+<ce:para view="all">Multilayer deposition was always started and finished with a Co layer. Gd–Co single layer films were covered in situ with a 20<ce:hsp sp="0.25"></ce:hsp>nm thick layer of Ti in order to avoid oxidation. A magnetic field of 100<ce:hsp sp="0.25"></ce:hsp>Oe was applied during deposition in order to induce magnetic anisotropy in the plane of the film. According to the transmission electron microscopy data, the Gd–Co layers were amorphous and the Co layers were polycrystalline with FCC-crystallites of 5<ce:hsp sp="0.25"></ce:hsp>nm average diameter.</ce:para>
+<ce:para view="all">The temperature interval near room temperature was analysed because the magnetic compensation state of [Co/Ti/(Gd<ce:inf loc="post">0.36</ce:inf>Co<ce:inf loc="post">0.64</ce:inf>)/Ti]<ce:inf loc="post">4</ce:inf>/Co multilayers was expected at these temperatures. The magnetic properties were measured using a SQUID magnetometer and a vibrating sample magnetometer (VSM). In order to study the transverse magneto-optic Kerr effect (TMOKE), the sample was mounted in a nitrogen cryostat, and was measured at temperatures between 180 and 340<ce:hsp sp="0.25"></ce:hsp>K with a maximum field of 650<ce:hsp sp="0.25"></ce:hsp>Oe applied in the sample plane along the easy axis. Visible white light was used, with an estimated penetration depth of about 30–40<ce:hsp sp="0.25"></ce:hsp>nm <ce:cross-ref refid="bib24">[24]</ce:cross-ref>, i.e. roughly one and a half times a multilayer period. For the wavelengths under consideration, the TMOKE signal comes almost entirely from the Co atoms <ce:cross-ref refid="bib25">[25]</ce:cross-ref>. Therefore, an inverted hysteresis loop can be observed when the Co magnetic moments are antiparallel to the external field. This occurs below the compensation temperature (<ce:italic>T</ce:italic>
+<ce:inf loc="post">comp</ce:inf>) when the magnetic moment of Gd<ce:inf loc="post">0.36</ce:inf>Co<ce:inf loc="post">0.64</ce:inf> layers are parallel to the applied field and the magnetic moment of Co layers are antiparallel (see <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>). Above <ce:italic>T</ce:italic>
+<ce:inf loc="post">comp</ce:inf> the moments of the Co layers are in the field direction and Gd<ce:inf loc="post">0.36</ce:inf>Co<ce:inf loc="post">0.64</ce:inf> layers moments are antiparallel.</ce:para>
+<ce:para view="all">The magnetization process of [Co/Ti/Gd<ce:inf loc="post">0.36</ce:inf>Co<ce:inf loc="post">0.64</ce:inf>/Ti]<ce:inf loc="post">4</ce:inf>/Co multilayer at certain conditions can be characterized by the presence of the break point on the TMOKE loop in the critical field, <ce:italic>H</ce:italic>
+<ce:inf loc="post">cr</ce:inf>. In this field, the moments of both the Co and Gd–Co layers jump into directions deviated from the axis of the applied field. The latter field increase causes a bending of Co and GdCo layers moments towards each other.</ce:para>
+<ce:para view="all">Regarding the influence of Ti on the structural–chemical condition of Gd–Co and Co layers, <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor> shows the surface structure of a multilayer without (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>a) and with (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>b) Ti spacers of 1.5<ce:hsp sp="0.25"></ce:hsp>nm thickness, obtained by atomic force microscopy (AFM). In both cases, the root-mean-square roughness (<ce:italic>R</ce:italic>
+<ce:inf loc="post">rms</ce:inf>) is quite low (0.6<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>0.1<ce:hsp sp="0.25"></ce:hsp>nm). Considering that the final surface roughness reflects, up to a certain point, the state of the internal interfaces in the multilayer, the relatively similar values for both samples seem to indicate that Ti layers, for <ce:italic>L</ce:italic>
+<ce:inf loc="post">Ti</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1.5<ce:hsp sp="0.25"></ce:hsp>nm, are continuous and flat, with little effect on the structure of the Co and Gd–Co layers.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:para view="all">For Gd–Co and Co single layer films, almost rectangular hysteresis loops with <ce:italic>H</ce:italic>
+<ce:inf loc="post">c</ce:inf> of about 10 and 60<ce:hsp sp="0.25"></ce:hsp>Oe, respectively (not shown here), were observed at all temperatures. <ce:cross-refs refid="fig3 fig4 fig5">Figs. 3–5</ce:cross-refs>
+<ce:float-anchor refid="fig3"></ce:float-anchor>
+<ce:float-anchor refid="fig4"></ce:float-anchor>
+<ce:float-anchor refid="fig5"></ce:float-anchor> show the TMOKE hysteresis loops obtained at different temperatures on the [Co/Ti/(Gd–Co)/Ti]<ce:inf loc="post">4</ce:inf>/Co structures with <ce:italic>L</ce:italic>
+<ce:inf loc="post">Ti</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>0, 0.3 and 0.5<ce:hsp sp="0.25"></ce:hsp>nm, respectively. In these samples, the sign of the Kerr signal changes from negative to positive when the temperature passes through the compensation temperature, <ce:italic>T</ce:italic>
+<ce:inf loc="post">comp</ce:inf>. This confirms that the saturation magnetization is dominated by the Co moments at temperatures above the compensation level, and by Gd moments at temperatures below it. The low field parts of hysteresis loops can be interpreted as being caused by the nucleation of magnetic domains and domain wall movement.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="fig6"></ce:float-anchor> shows the TMOKE hysteresis loops for <ce:italic>L</ce:italic>
+<ce:inf loc="post">Ti</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1.5<ce:hsp sp="0.25"></ce:hsp>nm. In this case, the hysteresis loops have very complicated shapes in all temperature ranges. The signal amplitude is practically constant. This behaviour is completely different from that of the other samples. The shape of each one of these loops can be interpreted as the sum of TMOKE signals from the layers of two different types. The magnetization process of the layer of one type can be independent of that for the other type of layer. At high field, Co magnetic moments of Gd–Co layers are antiparallel to the external field and Co moments of Co layers. Thus, the TMOKE signal from Co and Gd–Co layers compensate each other. When the external field decreases down to zero and changes the sign at low fields, the remagnetization process first occurs in Gd–Co layers which have low coercivity. This leads to an increase in the TMOKE signal. As the field increases, Co layer remagnetization appears, which leads to a decrease in the total TMOKE signal.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+<ce:float-anchor refid="fig7"></ce:float-anchor> shows the temperature dependence of coercivity (<ce:italic>H</ce:italic>
+<ce:inf loc="post">c</ce:inf>) for <ce:italic>L</ce:italic>
+<ce:inf loc="post">Ti</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>0, 0.3 and 0.5<ce:hsp sp="0.25"></ce:hsp>nm. These are typical of ferrimagnets near the compensation state.</ce:para>
+<ce:para view="all">TMOKE loops for <ce:italic>L</ce:italic>
+<ce:inf loc="post">Ti</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>0, 0.3 and 0.5<ce:hsp sp="0.25"></ce:hsp>nm show break points at certain temperatures and values of the external field (<ce:italic>H</ce:italic>
+<ce:inf loc="post">cr</ce:inf>), when the non-collinear magnetic phase sets in (<ce:cross-ref refid="fig3">Figs. 3b, c</ce:cross-ref>, <ce:cross-ref refid="fig4">4b, c</ce:cross-ref> and <ce:cross-ref refid="fig5">5</ce:cross-ref>). Note, that Gd<ce:inf loc="post">0.36</ce:inf>Co<ce:inf loc="post">0.64</ce:inf> layer is a ferrimagnet by itself, but its <ce:italic>H</ce:italic>
+<ce:inf loc="post">cr</ce:inf> is of the order of hundreds of kilo Oersteds because we are far from its compensation temperature of 470<ce:hsp sp="0.25"></ce:hsp>K. Therefore, when a non-collinear state appears in the [Co/Ti/(Gd–Co)/Ti]<ce:inf loc="post">4</ce:inf>/Co multilayers, the Co and Gd magnetic moments remain antiparallel within the Gd–Co amorphous layers. <ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>
+<ce:float-anchor refid="fig8"></ce:float-anchor> shows the temperature dependences of <ce:italic>H</ce:italic>
+<ce:inf loc="post">cr</ce:inf> for these structures. We were able to observe the spin-orientation transition only in a narrow temperature range, especially for samples with <ce:italic>L</ce:italic>
+<ce:inf loc="post">Ti</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>0 and 0.3<ce:hsp sp="0.25"></ce:hsp>nm. On the one hand, in the vicinity of <ce:italic>T</ce:italic>
+<ce:inf loc="post">comp</ce:inf> the experimental definition of the <ce:italic>H</ce:italic>
+<ce:inf loc="post">cr</ce:inf> is complicated because values of <ce:italic>H</ce:italic>
+<ce:inf loc="post">c</ce:inf> and <ce:italic>H</ce:italic>
+<ce:inf loc="post">cr</ce:inf> are close to each other; as <ce:italic>T</ce:italic>
+<ce:inf loc="post">comp</ce:inf> is approached, coercivity grows, whereas <ce:italic>H</ce:italic>
+<ce:inf loc="post">cr</ce:inf> decreases. On the other hand, for temperatures far from <ce:italic>T</ce:italic>
+<ce:inf loc="post">comp</ce:inf> a strong increase of <ce:italic>H</ce:italic>
+<ce:inf loc="post">cr</ce:inf> occurs and its value exceeds the measuring limit of the equipment. Available data indicate a linear change of <ce:italic>H</ce:italic>
+<ce:inf loc="post">cr</ce:inf> with temperature.</ce:para>
+<ce:para view="all">One way of calculating the magnetic properties of RE/TM multilayers is to obtain spin configurations in the framework of molecular field theory, since these spin maps allow the calculation of several magnitudes, such as <ce:italic>M</ce:italic>(<ce:italic>H</ce:italic>), <ce:italic>M</ce:italic>(<ce:italic>T</ce:italic>), <ce:italic>H</ce:italic>
+<ce:inf loc="post">cr</ce:inf>(<ce:italic>T</ce:italic>) <ce:cross-refs refid="bib11 bib12 bib13 bib26">[11–13,26]</ce:cross-refs>, which are well consistent with experimental data <ce:cross-refs refid="bib8 bib27 bib28 bib29">[8,27–29]</ce:cross-refs>. Such a method is necessary for RE/TM multilayers, where the exchange coupling constant between TM atoms (as given by the molecular field constant <ce:italic>λ</ce:italic>
+<ce:inf loc="post">TM</ce:inf>) is greater than the coupling (<ce:italic>λ</ce:italic>
+<ce:inf loc="post">RE</ce:inf>) between RE atoms by as much as one order of magnitude, and the absolute value of the antiferromagnetic exchange coupling between TM and RE atoms at the interface (<ce:italic>λ</ce:italic>) is intermediate between <ce:italic>λ</ce:italic>
+<ce:inf loc="post">TM</ce:inf> and <ce:italic>λ</ce:italic>
+<ce:inf loc="post">RE</ce:inf>
+<ce:cross-refs refid="bib8 bib27 bib28 bib29">[8,27–29]</ce:cross-refs>. This relationship between <ce:italic>λ</ce:italic>, <ce:italic>λ</ce:italic>
+<ce:inf loc="post">TM</ce:inf> and <ce:italic>λ</ce:italic>
+<ce:inf loc="post">RE</ce:inf> leads to the appearance of so-called twisted magnetic phase in the external field. This magnetic structure is formed basically in the RE layers, and can be characterized by angular and amplitude variations of the local magnetization <ce:cross-ref refid="bib11">[11]</ce:cross-ref>.</ce:para>
+<ce:para view="all">In TM/(RE–TM) multilayers, such as these we are dealing with, no such great difference between the interlayer exchange coupling constants occurs. Moreover, the exchange within layers is similar or even higher than that between layers. Therefore, these multilayers are more similar to standard (non-layered) ferrimagnets.</ce:para>
+<ce:para view="all">Let us calculate <ce:italic>H</ce:italic>
+<ce:inf loc="post">cr</ce:inf> in terms of the phenomenological model for isotropic ferrimagnets. The properties of the multilayered structure depend on the surface effect and the anisotropy. In a first approximation, however, many features observed in Co/(Gd–Co) multilayers can be reproduced using a simple model which includes only the Zeeman energy in the applied field <ce:italic>H</ce:italic> and the exchange energy between the layers, i.e. disregarding the anisotropy. This leads to the following formula for the energy density:<ce:display>
+<ce:formula id="eq1">
+<ce:label>(1)</ce:label>
+<mml:math altimg="si1.gif" overflow="scroll">
+<mml:mrow>
+<mml:mi>ε</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mo>−</mml:mo>
+<mml:msub>
+<mml:mi>l</mml:mi>
+<mml:mrow>
+<mml:mtext>GdCo</mml:mtext>
+</mml:mrow>
+</mml:msub>
+<mml:msub>
+<mml:mi>M</mml:mi>
+<mml:mrow>
+<mml:mtext>GdCo</mml:mtext>
+</mml:mrow>
+</mml:msub>
+<mml:mi>H</mml:mi>
+<mml:mi> </mml:mi>
+<mml:mi>cos</mml:mi>
+<mml:mo>⁡</mml:mo>
+<mml:msub>
+<mml:mi>θ</mml:mi>
+<mml:mn>1</mml:mn>
+</mml:msub>
+<mml:mo>−</mml:mo>
+<mml:msub>
+<mml:mi>l</mml:mi>
+<mml:mrow>
+<mml:mtext>Co</mml:mtext>
+</mml:mrow>
+</mml:msub>
+<mml:msub>
+<mml:mi>M</mml:mi>
+<mml:mrow>
+<mml:mtext>Co</mml:mtext>
+</mml:mrow>
+</mml:msub>
+<mml:mi>H</mml:mi>
+<mml:mi> </mml:mi>
+<mml:mi>cos</mml:mi>
+<mml:mo>⁡</mml:mo>
+<mml:msub>
+<mml:mi>θ</mml:mi>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:mo>−</mml:mo>
+<mml:mfrac>
+<mml:mi>λ</mml:mi>
+<mml:mi>L</mml:mi>
+</mml:mfrac>
+<mml:msub>
+<mml:mi>M</mml:mi>
+<mml:mrow>
+<mml:mtext>GdCo</mml:mtext>
+</mml:mrow>
+</mml:msub>
+<mml:msub>
+<mml:mi>M</mml:mi>
+<mml:mrow>
+<mml:mtext>Co</mml:mtext>
+</mml:mrow>
+</mml:msub>
+<mml:mi> </mml:mi>
+<mml:mi>cos</mml:mi>
+<mml:mo>⁡</mml:mo>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>θ</mml:mi>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:mo>−</mml:mo>
+<mml:msub>
+<mml:mi>θ</mml:mi>
+<mml:mn>1</mml:mn>
+</mml:msub>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>where <ce:italic>M</ce:italic>
+<ce:inf loc="post">GdCo</ce:inf> and <ce:italic>M</ce:italic>
+<ce:inf loc="post">Co</ce:inf> are the magnetizations of the Gd–Co and Co layers, <ce:italic>θ</ce:italic>
+<ce:inf loc="post">1</ce:inf> and <ce:italic>θ</ce:italic>
+<ce:inf loc="post">2</ce:inf> are their angles with the external field; <ce:italic>l</ce:italic>
+<ce:inf loc="post">GdCo</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>L</ce:italic>
+<ce:inf loc="post">Gd</ce:inf>/<ce:italic>L</ce:italic> and <ce:italic>l</ce:italic>
+<ce:inf loc="post">Co</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>L</ce:italic>
+<ce:inf loc="post">Co</ce:inf>/<ce:italic>L</ce:italic> are their respective volume fractions; <ce:italic>λ</ce:italic> is the interlayer exchange coupling constant. Here, <ce:italic>L</ce:italic>
+<ce:inf loc="post">GdCo</ce:inf> and <ce:italic>L</ce:italic>
+<ce:inf loc="post">Co</ce:inf> are the total thickness of Gd–Co and Co layers, respectively, and <ce:italic>L</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>L</ce:italic>
+<ce:inf loc="post">GdCo</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>L</ce:italic>
+<ce:inf loc="post">Co</ce:inf> is the total thickness of the multilayer. Eq. <ce:cross-ref refid="eq1">(1)</ce:cross-ref> coincides with the energy density of a standard (non-layered) ferrimagnet with two sublattices, of magnetization <ce:italic>M</ce:italic>
+<ce:inf loc="post">1</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>M</ce:italic>
+<ce:inf loc="post">GdCo</ce:inf>
+<ce:italic>l</ce:italic>
+<ce:inf loc="post">GdCo</ce:inf> and <ce:italic>M</ce:italic>
+<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>M</ce:italic>
+<ce:inf loc="post">Co</ce:inf>
+<ce:italic>l</ce:italic>
+<ce:inf loc="post">Co</ce:inf> and exchange constant <ce:italic>J</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>λ</ce:italic>/<ce:italic>L</ce:italic>. Following refs. <ce:cross-refs refid="bib30 bib31">[30,31]</ce:cross-refs>, for the standard ferrimagnet the critical field, in which there are deviations of both the <ce:italic>M</ce:italic>
+<ce:inf loc="post">1</ce:inf> and <ce:italic>M</ce:italic>
+<ce:inf loc="post">2</ce:inf> from the axis of the applied field, can be written as follow:<ce:display>
+<ce:formula>
+<ce:label>(2)</ce:label>
+<mml:math altimg="si2.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>H</mml:mi>
+<mml:mrow>
+<mml:mtext>cr</mml:mtext>
+</mml:mrow>
+</mml:msub>
+<mml:mo>=</mml:mo>
+<mml:mi>J</mml:mi>
+<mml:mo>|</mml:mo>
+<mml:msub>
+<mml:mi>M</mml:mi>
+<mml:mn>1</mml:mn>
+</mml:msub>
+<mml:mo>−</mml:mo>
+<mml:msub>
+<mml:mi>M</mml:mi>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:mo>|</mml:mo>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>The equation for <ce:italic>H</ce:italic>
+<ce:inf loc="post">cr</ce:inf> for multilayers studied in present work can be obtained by means of the corresponding substitution:<ce:display>
+<ce:formula id="eq2">
+<ce:label>(3)</ce:label>
+<mml:math altimg="si3.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>H</mml:mi>
+<mml:mrow>
+<mml:mtext>cr</mml:mtext>
+</mml:mrow>
+</mml:msub>
+<mml:mo>=</mml:mo>
+<mml:mfrac>
+<mml:mi>λ</mml:mi>
+<mml:mi>L</mml:mi>
+</mml:mfrac>
+<mml:mo>|</mml:mo>
+<mml:msub>
+<mml:mi>l</mml:mi>
+<mml:mrow>
+<mml:mtext>GdCo</mml:mtext>
+</mml:mrow>
+</mml:msub>
+<mml:msub>
+<mml:mi>M</mml:mi>
+<mml:mrow>
+<mml:mtext>GdCo</mml:mtext>
+</mml:mrow>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>T</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>−</mml:mo>
+<mml:msub>
+<mml:mi>l</mml:mi>
+<mml:mrow>
+<mml:mtext>Co</mml:mtext>
+</mml:mrow>
+</mml:msub>
+<mml:msub>
+<mml:mi>M</mml:mi>
+<mml:mrow>
+<mml:mtext>Co</mml:mtext>
+</mml:mrow>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>T</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>|</mml:mo>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>The value shown in square brackets is the total magnetization of the sample at the field less than <ce:italic>H</ce:italic>
+<ce:inf loc="post">cr</ce:inf>. It can be determined from an experiment. Using the data for the magnetization presented in <ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref>a<ce:float-anchor refid="fig9"></ce:float-anchor> (curve 1) one can describe satisfactorily the experimental temperature dependence of <ce:italic>H</ce:italic>
+<ce:inf loc="post">cr</ce:inf> for structures without Ti spacers by Eq. <ce:cross-ref refid="eq2">(3)</ce:cross-ref> with <ce:italic>λ</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>≈<ce:hsp sp="0.25"></ce:hsp>−9<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>10<ce:sup loc="post">−5</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>erg/G<ce:sup loc="post">2</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>cm<ce:sup loc="post">2</ce:sup> (<ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>a).</ce:para>
+<ce:para view="all">The value shown in square brackets can be calculated on the basis of <ce:italic>M</ce:italic>(<ce:italic>T</ce:italic>) data for Gd–Co layers. <ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref>b shows experimental <ce:italic>M</ce:italic>(<ce:italic>T</ce:italic>) dependence for Gd<ce:inf loc="post">0.36</ce:inf>Co<ce:inf loc="post">0.64</ce:inf> single layer film. Using these data, curve 1 in <ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref>a can be obtained if we assume that the spontaneous magnetization of the Co layers does not change appreciably in the temperature interval considered, and <ce:italic>M</ce:italic>
+<ce:inf loc="post">Co</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1385<ce:hsp sp="0.25"></ce:hsp>G. This number is close to one for bulk Co (1420<ce:hsp sp="0.25"></ce:hsp>G). It is known that Co magnetization in thin films decreases as the film thickness decreases <ce:cross-ref refid="bib32">[32]</ce:cross-ref>, therefore 1385<ce:hsp sp="0.25"></ce:hsp>G was considered as the magnetization value for the Co layers under consideration.</ce:para>
+<ce:para view="all">We must note that <ce:italic>M</ce:italic>(<ce:italic>T</ce:italic>) curves measured at different fields show slightly different behaviour, especially near <ce:italic>T</ce:italic>
+<ce:inf loc="post">comp</ce:inf> and the discrepancy is more appreciable below <ce:italic>T</ce:italic>
+<ce:inf loc="post">comp</ce:inf> (<ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref>a).</ce:para>
+<ce:para view="all">Most probably, it is connected to the formation of different spin configurations above and below <ce:italic>T</ce:italic>
+<ce:inf loc="post">comp</ce:inf> at <ce:italic>H</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>&gt;<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>H</ce:italic>
+<ce:inf loc="post">cr</ce:inf>. As was shown for Gd/Fe multilayers, the transition from an aligned to a twisted state is initiated at the surface if the minority moment corresponds to the surface, and in the interior when the majority moment corresponds to the surface <ce:cross-refs refid="bib26 bib27">[26,27]</ce:cross-refs>. Surface phase transition takes place at a lower field than that required for transition within the internal layers because of the specific conditions for exchange coupling at the surface. In our case, the outermost (surface and substrate) layers are the Co layers. The Co-aligned phase appears above <ce:italic>T</ce:italic>
+<ce:inf loc="post">comp</ce:inf>. Therefore, the canting starts in the interior at <ce:italic>T</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>&gt;<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>T</ce:italic>
+<ce:inf loc="post">comp</ce:inf>. At <ce:italic>T</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>&lt;<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>T</ce:italic>
+<ce:inf loc="post">comp</ce:inf>, the Gd-aligned phase occurs and one may expect transition into the non-collinear phase at lower fields. The temperature dependencies of the magnetization shown in <ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref>a confirm this supposition: the difference between curve 1 and curve 2 is more pronounced below <ce:italic>T</ce:italic>
+<ce:inf loc="post">comp</ce:inf>, i.e. non-collinear state occurs in lower fields in this temperature interval. Near <ce:italic>T</ce:italic>
+<ce:inf loc="post">comp</ce:inf> surface non-collinear phase can arise in the fields, which are lower then <ce:italic>H</ce:italic>
+<ce:inf loc="post">c</ce:inf>. Most likely that the MOKE loop shown in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>a describes the magnetization reversal in the sample, in which the surface non-collinear phase is already exist. It is necessary to apply a higher field in order to cause the extension of the non-collinear phase from the surface toward the center of the sample. Perhaps this is the reason of the absence a “kink” on the MOKE curves at <ce:italic>T</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>&lt;<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>T</ce:italic>
+<ce:inf loc="post">comp</ce:inf> for fields up to 650<ce:hsp sp="0.25"></ce:hsp>Oe.</ce:para>
+<ce:para view="all">Let us calculate <ce:italic>H</ce:italic>
+<ce:inf loc="post">cr</ce:inf> for <ce:italic>L</ce:italic>
+<ce:inf loc="post">Ti</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>0.3 and 0.5<ce:hsp sp="0.25"></ce:hsp>nm. Taking into account that values of <ce:italic>H</ce:italic>
+<ce:inf loc="post">c</ce:inf> and <ce:italic>H</ce:italic>
+<ce:inf loc="post">cr</ce:inf> are close to each other near <ce:italic>T</ce:italic>
+<ce:inf loc="post">comp</ce:inf>, and therefore it is difficult to obtain correctly the <ce:italic>M</ce:italic>(<ce:italic>T</ce:italic>) dependence for multilayer structures in this temperature interval, let us obtain the value of the contribution in the square brackets in Eq. <ce:cross-ref refid="eq2">(3)</ce:cross-ref> not experimentally, but by means of the calculation on the basis of <ce:italic>M</ce:italic>(<ce:italic>T</ce:italic>) data for Gd–Co layers as described above for <ce:italic>L</ce:italic>
+<ce:inf loc="post">Ti</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>0. We can see from <ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref> the <ce:italic>H</ce:italic>
+<ce:inf loc="post">cr</ce:inf>(<ce:italic>T</ce:italic>) experimental dependences can be satisfactorily described with <ce:italic>λ</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>≈<ce:hsp sp="0.25"></ce:hsp>−9<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>10<ce:sup loc="post">−5</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>erg/G<ce:sup loc="post">2</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>cm<ce:sup loc="post">2</ce:sup> for <ce:italic>L</ce:italic>
+<ce:inf loc="post">Ti</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>0.3<ce:hsp sp="0.25"></ce:hsp>nm and <ce:italic>λ</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>≈<ce:hsp sp="0.25"></ce:hsp>−3.3<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>10<ce:sup loc="post">−5</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>erg/G<ce:sup loc="post">2</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>cm<ce:sup loc="post">2</ce:sup> for <ce:italic>L</ce:italic>
+<ce:inf loc="post">Ti</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>0.5<ce:hsp sp="0.25"></ce:hsp>nm at <ce:italic>T</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>&gt;<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>T</ce:italic>
+<ce:inf loc="post">comp</ce:inf>. As mentioned above, the surface non-collinear phase may noticeably influence the formation of a non-collinear state in whole sample. Therefore, there it makes no sense to compare the experimental and calculated <ce:italic>H</ce:italic>
+<ce:inf loc="post">cr</ce:inf>(<ce:italic>T</ce:italic>) dependences at <ce:italic>T</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>&lt;<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>T</ce:italic>
+<ce:inf loc="post">comp</ce:inf> for <ce:italic>L</ce:italic>
+<ce:inf loc="post">Ti</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>0.5<ce:hsp sp="0.25"></ce:hsp>nm. It can be seen for the cases under consideration that <ce:italic>H</ce:italic>
+<ce:inf loc="post">cr</ce:inf>(<ce:italic>T</ce:italic>) shows a linear variation, due to the linear behaviour of <ce:italic>M</ce:italic>
+<ce:inf loc="post">GdCo</ce:inf>(<ce:italic>T</ce:italic>) in the temperature interval described.</ce:para>
+<ce:para view="all">Let us return now to the temperature dependence of <ce:italic>H</ce:italic>
+<ce:inf loc="post">c</ce:inf>, which reaches its maximum near <ce:italic>T</ce:italic>
+<ce:inf loc="post">comp</ce:inf> (<ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>). Other authors <ce:cross-ref refid="bib33">[33]</ce:cross-ref> observed a local minimum of coercivity of the [Fe(4<ce:hsp sp="0.25"></ce:hsp>nm)/Gd(4<ce:hsp sp="0.25"></ce:hsp>nm)]<ce:inf loc="post">4</ce:inf> multilayer around the <ce:italic>T</ce:italic>
+<ce:inf loc="post">comp</ce:inf> indicating a difference between this multilayered structure and a homogeneous ferrimagnet (for the latter the coercivity diverges as 1/<ce:italic>M</ce:italic>
+<ce:inf loc="post">s</ce:inf> when the ferrimagnet goes through the <ce:italic>T</ce:italic>
+<ce:inf loc="post">comp</ce:inf> due to the vanishing net magnetic moment). The comparison of these two results confirms that, unlike RE/TM multilayers, Co/(Gd–Co) multilayers can be considered to be very similar to homogenous ferrimagnets.</ce:para>
+<ce:para view="all">Regarding the Ti role in these multilayers, the results described above show that the interlayer interaction depends strongly on the non-magnetic spacer thickness. In effect, spacers with a thickness of 0.3<ce:hsp sp="0.25"></ce:hsp>nm have practically no influence on the exchange between Co and Gd–Co layers: samples with <ce:italic>L</ce:italic>
+<ce:inf loc="post">Ti</ce:inf> of 0 and 0.3<ce:hsp sp="0.25"></ce:hsp>nm have similar hysteresis loops, <ce:italic>H</ce:italic>
+<ce:inf loc="post">c</ce:inf>(<ce:italic>T</ce:italic>) and <ce:italic>H</ce:italic>
+<ce:inf loc="post">cr</ce:inf>(<ce:italic>T</ce:italic>) dependencies. The clearest indicator of there being no change in interaction is the fact that the value of <ce:italic>λ</ce:italic> is almost the same in both samples. The 0.5<ce:hsp sp="0.25"></ce:hsp>nm spacer strongly reduces the interaction. It is clear that a spacer with a thickness of 1.5<ce:hsp sp="0.25"></ce:hsp>nm completely destroys the interlayer coupling. As we mentioned above, the hysteresis loop (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>) can be interpreted as arising from sequential independent magnetizations of Gd–Co and Co layers. Thus, the introduction of Ti as a non-magnetic spacer is an effective way to influence the interlayer coupling.</ce:para>
+<ce:para view="all">Such a feature of the interlayer coupling can be related to structure transition of Ti spacers, as <ce:italic>L</ce:italic>
+<ce:inf loc="post">Ti</ce:inf> increases. It can be assumed that the Ti layers of a nominal thickness of 0.5<ce:hsp sp="0.25"></ce:hsp>nm deposited by the sputtering technique are not continuous, but display an island-like structure. The persistence of small areas of direct contact between Co and Gd–Co layers allows some interaction to take place. At low thickness, the Ti atoms do not form even an island-like structure, but rather behave like the additional atoms which decrease the density of magnetic atoms at the interfaces. Spacers of greater thickness can have higher continuity and completely destroy interlayer coupling at certain spacer thickness.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">In summary, the [Co/Ti/Gd<ce:inf loc="post">0.36</ce:inf>Co<ce:inf loc="post">0.64</ce:inf>/Ti]<ce:inf loc="post">4</ce:inf>/Co multilayered structure exhibits macroscopic ferrimagnetic behaviour manifested by: (i) the sign change of the TMOKE hysteresis loops, (ii) the increase of coercivity and (iii) the decrease of the field of spin-orientation transition from the collinear to a non-collinear state near the compensation temperature. The temperature dependence of the spin-orientation transition field can be described in the framework of molecular field theory for isotropic ferrimagnets. The introduction of Ti spacers with a thickness of 0.3<ce:hsp sp="0.25"></ce:hsp>nm has practically no influence on interlayer exchange interaction between Co and Gd–Co layers, whereas those of 1.5<ce:hsp sp="0.25"></ce:hsp>nm completely inhibit interlayer coupling.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgments</ce:section-title>
+<ce:para view="all">This work was supported by RFBR (grant 04-02-16485a), Spanish projects MAT2001-0082, MCT-03-MAT-06407 (M. Tejedor and A. Fernandez), “Ramon y Cajal” Fellowship of Basque Country University UPV-EHU and Spanish MEC (G.V. Kurlyandskaya). The authors wish to thank Dr. I. Orúe for the assistance with AFM measurements and SQUID measurements at sharing services of UPV-EHU.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.D.</ce:given-name>
+<ce:surname>Stiles</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Magn. Magn. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>200</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>322</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>U.</ce:given-name>
+<ce:surname>Hartman</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>Magnetic Multilayers and Giant Magnetoresistance: Fundamentals and Applications</sb:maintitle>
+</sb:title>
+<sb:date>1999</sb:date>
+<sb:publisher>
+<sb:name>Springer</sb:name>
+<sb:location>Berlin</sb:location>
+</sb:publisher>
+</sb:edited-book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.E.</ce:given-name>
+<ce:surname>Camley</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.L.</ce:given-name>
+<ce:surname>Stamps</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Phys. Condens. Matter</sb:maintitle>
+</sb:title>
+<sb:volume-nr>5</sb:volume-nr>
+</sb:series>
+<sb:date>1993</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>3727</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Morishita</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Togami</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Tsushima</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Phys. Soc. Jpn.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>54</sb:volume-nr>
+</sb:series>
+<sb:date>1985</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>37</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Kamiguchi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Hayakawa</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Fujimori</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>55</sb:volume-nr>
+</sb:series>
+<sb:date>1989</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1918</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Cherifi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Dufour</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Ph.</ce:given-name>
+<ce:surname>Bauer</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Marchal</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Ph.</ce:given-name>
+<ce:surname>Mangin</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Phys. Rev. B</sb:maintitle>
+</sb:title>
+<sb:volume-nr>44</sb:volume-nr>
+</sb:series>
+<sb:date>1991</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>7733</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Richomme</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Teillet</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Fnidiki</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Auric</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Ph.</ce:given-name>
+<ce:surname>Houdy</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Phys. Rev. B</sb:maintitle>
+</sb:title>
+<sb:volume-nr>54</sb:volume-nr>
+</sb:series>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>416</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.P.</ce:given-name>
+<ce:surname>Andrés</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Chico</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Colino</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.M.</ce:given-name>
+<ce:surname>Riveiro</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Phys. Rev. B</sb:maintitle>
+</sb:title>
+<sb:volume-nr>66</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>094424</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>V.O.</ce:given-name>
+<ce:surname>Vas’kovskiy</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.V.</ce:given-name>
+<ce:surname>Svalov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Vázquez</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Hernando</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.V.</ce:given-name>
+<ce:surname>Kurlyandskaya</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>García</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.V.</ce:given-name>
+<ce:surname>Gorbunov</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Magn. Magn. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>203</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>295</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.V.</ce:given-name>
+<ce:surname>Svalov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.O.</ce:given-name>
+<ce:surname>Vas’kovskiy</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.M.</ce:given-name>
+<ce:surname>Barandiarán</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.G.</ce:given-name>
+<ce:surname>Bebenin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.V.</ce:given-name>
+<ce:surname>Kurlyandskaya</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.V.</ce:given-name>
+<ce:surname>Gorbunov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Lezama</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Gutiérrez</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Schmool</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>327</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>5</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.E.</ce:given-name>
+<ce:surname>Camley</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.R.</ce:given-name>
+<ce:surname>Tilly</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Phys. Rev. B</sb:maintitle>
+</sb:title>
+<sb:volume-nr>37</sb:volume-nr>
+</sb:series>
+<sb:date>1988</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>3413</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Motokawa</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Dohnomae</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Phys. Soc. Jpn.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>60</sb:volume-nr>
+</sb:series>
+<sb:date>1991</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1355</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Takanashi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Kamiguchi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Fujimori</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Motokawa</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Phys. Soc. Jpn.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>61</sb:volume-nr>
+</sb:series>
+<sb:date>1992</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>3721</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.V.</ce:given-name>
+<ce:surname>Gorbunov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.O.</ce:given-name>
+<ce:surname>Vas’kovskiy</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.V.</ce:given-name>
+<ce:surname>Svalov</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Phys. Met. Metall.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>91</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>S60</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Takanashi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Fujimori</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Kurokawa</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Magn. Magn. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>126</sb:volume-nr>
+</sb:series>
+<sb:date>1993</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>242</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib16">
+<ce:label>[16]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.N.</ce:given-name>
+<ce:surname>Merenkov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.B.</ce:given-name>
+<ce:surname>Chizhik</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.L.</ce:given-name>
+<ce:surname>Gnatchenko</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Baran</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Szymczak</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.O.</ce:given-name>
+<ce:surname>Vas’kovskiy</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.V.</ce:given-name>
+<ce:surname>Svalov</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Low Temp. Phys.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>27</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>137</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib17">
+<ce:label>[17]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Takanashi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Kurokawa</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Fujimori</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>63</sb:volume-nr>
+</sb:series>
+<sb:date>1993</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1585</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib18">
+<ce:label>[18]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Suciu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.C.</ce:given-name>
+<ce:surname>Toussaint</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Voiron</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Magn. Magn. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>240</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>229</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib19">
+<ce:label>[19]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.S.</ce:given-name>
+<ce:surname>Patrin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.O.</ce:given-name>
+<ce:surname>Vas’kovskiy</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.A.</ce:given-name>
+<ce:surname>Velikanov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.V.</ce:given-name>
+<ce:surname>Svalov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.A.</ce:given-name>
+<ce:surname>Panova</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Phys. Lett. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>309</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>155</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib20">
+<ce:label>[20]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.A.</ce:given-name>
+<ce:surname>González</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.P.</ce:given-name>
+<ce:surname>Andrés</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.A.</ce:given-name>
+<ce:surname>Arranz</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.A.</ce:given-name>
+<ce:surname>López de la Torre</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.M.</ce:given-name>
+<ce:surname>Riveiro</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Phys. Condens. Matter</sb:maintitle>
+</sb:title>
+<sb:volume-nr>14</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>5061</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib21">
+<ce:label>[21]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.-H.</ce:given-name>
+<ce:surname>Fan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Brückl</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>83</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>3138</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib22">
+<ce:label>[22]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Wu.</ce:given-name>
+<ce:surname>Ping</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.Y.</ce:given-name>
+<ce:surname>Jiang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.D.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.L.</ce:given-name>
+<ce:surname>Bai</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.Y.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.G.</ce:given-name>
+<ce:surname>Liu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Appl. Phys.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>81</sb:volume-nr>
+</sb:series>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>7301</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib23">
+<ce:label>[23]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Moffatt</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The Handbook of Binary Phase Diagrams</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1986</sb:date>
+<sb:publisher>
+<sb:name>Genium</sb:name>
+<sb:location>New York</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib24">
+<ce:label>[24]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Dehesa-Martinez</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Blanco-Gutiérrez</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Vélez</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Díaz</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.M.</ce:given-name>
+<ce:surname>Alvarez-Prado</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.M.</ce:given-name>
+<ce:surname>Alameda</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Phys. Rev. B</sb:maintitle>
+</sb:title>
+<sb:volume-nr>64</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>024417</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib25">
+<ce:label>[25]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.H.J.</ce:given-name>
+<ce:surname>Buschow</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:book-series>
+<sb:editors>
+<sb:editor>
+<ce:given-name>E.P.</ce:given-name>
+<ce:surname>Wohlfarth</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>K.H.J.</ce:given-name>
+<ce:surname>Buschow</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:series>
+<sb:title>
+<sb:maintitle>Ferromagnetic Materials</sb:maintitle>
+</sb:title>
+<sb:volume-nr>vol. 4</sb:volume-nr>
+</sb:series>
+</sb:book-series>
+<sb:date>1988</sb:date>
+<sb:publisher>
+<sb:name>Elsevier</sb:name>
+<sb:location>Amsterdam</sb:location>
+</sb:publisher>
+</sb:edited-book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib26">
+<ce:label>[26]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.G.</ce:given-name>
+<ce:surname>Le Page</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.E.</ce:given-name>
+<ce:surname>Camley</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Phys. Rev. Lett.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>65</sb:volume-nr>
+</sb:series>
+<sb:date>1990</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1152</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib27">
+<ce:label>[27]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Hahn</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Loewenhaupt</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.Y.</ce:given-name>
+<ce:surname>Huang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.P.</ce:given-name>
+<ce:surname>Felcher</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.S.P.</ce:given-name>
+<ce:surname>Parkin</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Phys. Rev. B</sb:maintitle>
+</sb:title>
+<sb:volume-nr>52</sb:volume-nr>
+</sb:series>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>16041</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib28">
+<ce:label>[28]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Sajieddine</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Ph.</ce:given-name>
+<ce:surname>Bauer</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Cherifi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Dufour</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Marchal</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.E.</ce:given-name>
+<ce:surname>Camley</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Phys. Rev. B</sb:maintitle>
+</sb:title>
+<sb:volume-nr>49</sb:volume-nr>
+</sb:series>
+<sb:date>1994</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>8815</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib29">
+<ce:label>[29]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Hosoito</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Hashizume</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Ishimatsu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Phys. Condens. Matter</sb:maintitle>
+</sb:title>
+<sb:volume-nr>14</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>5289</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib30">
+<ce:label>[30]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.P.</ce:given-name>
+<ce:surname>Belov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.K.</ce:given-name>
+<ce:surname>Zvezdin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.M.</ce:given-name>
+<ce:surname>Kadomceva</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.Z.</ce:given-name>
+<ce:surname>Levitin</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Orientational Transition in Rare Earth Magnets</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1972</sb:date>
+<sb:publisher>
+<sb:name>Nauka</sb:name>
+<sb:location>Moscow</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+<sb:comment>(in Russian)</sb:comment>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib31">
+<ce:label>[31]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Chikazumi</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Physics of Ferromagnetism</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1997</sb:date>
+<sb:publisher>
+<sb:name>Clarendon Press</sb:name>
+<sb:location>Oxford</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib32">
+<ce:label>[32]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>V.O.</ce:given-name>
+<ce:surname>Vas’kovskiy</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.V.</ce:given-name>
+<ce:surname>Svalov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.V.</ce:given-name>
+<ce:surname>Kurlyandskaya</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:book-series>
+<sb:editors>
+<sb:editor>
+<ce:given-name>H.S.</ce:given-name>
+<ce:surname>Nalwa</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:series>
+<sb:title>
+<sb:maintitle>Encyclopedia of Nanoscience and Nanotechnology</sb:maintitle>
+</sb:title>
+<sb:volume-nr>vol. 4</sb:volume-nr>
+</sb:series>
+</sb:book-series>
+<sb:date>2004</sb:date>
+<sb:publisher>
+<sb:name>American Scientific Publishers</sb:name>
+</sb:publisher>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>925</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib33">
+<ce:label>[33]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Demirtas</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.R.</ce:given-name>
+<ce:surname>Koymen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Appl. Phys.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>95</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>4949</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

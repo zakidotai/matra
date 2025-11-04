@@ -1,0 +1,1207 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838804007923</prism:url><dc:identifier>doi:10.1016/j.jallcom.2004.04.147</dc:identifier><eid>1-s2.0-S0925838804007923</eid><prism:doi>10.1016/j.jallcom.2004.04.147</prism:doi><pii>S0925-8388(04)00792-3</pii><dc:title>Comparison of hydrogen absorption properties of Ti mechanically milled with hexagonal boron nitride (h-BN) and with graphite </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>386</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>202</prism:startingpage><prism:endingpage>206</prism:endingpage><prism:pagerange>202-206</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2005-01-11</prism:coverdate><prism:coverdisplaydate>11 January 2005</prism:coverdisplaydate><prism:copyright>Copyright © 2004 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Kondo, Toshihiko</dc:creator><dc:creator>Shindo, Kazuhiko</dc:creator><dc:creator>Sakurai, Yoji</dc:creator><dc:description>
+                  We compared the structural and hydrogen absorption properties of Ti mechanically milled with hexagonal boron nitride (h-BN) with those obtained when Ti was milled with graphite. With increasing milling time, the N and C atoms originating from h-BN and graphite dissolved into the interstitial sites of Ti, leading to the formation of the interstitial solid solutions, TiN and TiC, respectively. An investigation with X-ray photoelectron spectroscopy (XPS) suggested the existence of an interaction between Ti and N or C atoms due to their interstitial dissolution on the Ti surface. Milling with h-BN improved the kinetics of the hydrogen absorption of Ti as well as milling with graphite although the former required a longer milling time for full activation. The improvement in the kinetics can probably be attributed to the interstitial dissolution of N or C atoms on the Ti surface, which may provide the pathways for hydrogen penetration into Ti bulk. We revealed that the existence of the interstitial atoms on the Ti surface is an important factor in relation to the improvement in the hydrogen absorption kinetics of Ti.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Hydrogen storage material</dcterms:subject><dcterms:subject>Titanium</dcterms:subject><dcterms:subject>Hexagonal boron nitride</dcterms:subject><dcterms:subject>Graphite</dcterms:subject><dcterms:subject>Mechanical milling</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838804007923" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838804007923" rel="scidir"/></coredata><objects><object category="thumbnail" height="92" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="1117" type="IMAGE-THUMBNAIL" width="55">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804007923-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="552" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="16698" type="IMAGE-DOWNSAMPLED" width="329">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804007923-gr1.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="1663" type="IMAGE-THUMBNAIL" width="91">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804007923-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="278" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="7914" type="IMAGE-DOWNSAMPLED" width="271">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804007923-gr2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="1372" type="IMAGE-THUMBNAIL" width="91">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804007923-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="280" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="6608" type="IMAGE-DOWNSAMPLED" width="272">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804007923-gr3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="1376" type="IMAGE-THUMBNAIL" width="112">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804007923-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="244" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="5030" type="IMAGE-DOWNSAMPLED" width="293">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804007923-gr4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="1528" type="IMAGE-THUMBNAIL" width="116">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804007923-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="263" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="6575" type="IMAGE-DOWNSAMPLED" width="326">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804007923-gr5.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="2614" type="IMAGE-THUMBNAIL" width="114">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804007923-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="244" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="10146" type="IMAGE-DOWNSAMPLED" width="298">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804007923-gr6.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>10444275288</scopus-id><scopus-eid>2-s2.0-10444275288</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/10444275288" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20040714">2004-07-14</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20040714">2004-07-14</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-04-19T04:56:56</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838804007923</xocs:eid>
+<xocs:pii-formatted>S0925-8388(04)00792-3</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838804007923</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2004.04.147</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.2</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838800X02277</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.228461-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20050111</xocs:date-search-begin>
+<xocs:year-nav>2005</xocs:year-nav>
+<xocs:indexeddate epoch="1089763200">2004-07-14T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure body affil articletitle auth authfirstini authfull authkeywords authlast footnotes primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>386</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>386</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 386, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>35</xocs:sort-order>
+<xocs:first-fp>202</xocs:first-fp>
+<xocs:last-lp>206</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>202</xocs:first-page>
+<xocs:last-page>206</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20050111</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>11 January 2005</xocs:cover-date-text>
+<xocs:cover-date-start>2005-01-11</xocs:cover-date-start>
+<xocs:cover-date-year>2005</xocs:cover-date-year>
+<xocs:document-type>converted-article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2004 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>COMPARISONHYDROGENABSORPTIONPROPERTIESTIMECHANICALLYMILLEDHEXAGONALBORONNITRIDEHBNGRAPHITE</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>KONDO</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>T</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Sample preparation</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Analysis and characterization</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Structural changes with mechanical milling</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Properties of Ti surfaces in composites</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Hydrogen absorption properties</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="BIB1">
+<xocs:ref-normalized-surname>VIGEHOLM</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1980</xocs:ref-pub-year>
+<xocs:ref-first-fp>341</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="BIB2">
+<xocs:ref-normalized-surname>BELKBIR</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1981</xocs:ref-pub-year>
+<xocs:ref-first-fp>285</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="BIB3">
+<xocs:ref-normalized-surname>BOGDANOVIC</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>84</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="BIB4"></xocs:ref-info>
+<xocs:ref-info refid="BIB5">
+<xocs:ref-normalized-surname>BOGDANOVIC</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1980</xocs:ref-pub-year>
+<xocs:ref-first-fp>262</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="BIB6">
+<xocs:ref-normalized-surname>IMAMURA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>564</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="BIB7">
+<xocs:ref-normalized-surname>BOUARICHA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>245</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="BIB8">
+<xocs:ref-normalized-surname>IMAMURA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1983</xocs:ref-pub-year>
+<xocs:ref-first-fp>251</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="BIB9">
+<xocs:ref-normalized-surname>IWAKURA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>1659</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="BIB10"></xocs:ref-info>
+<xocs:ref-info refid="BIB11">
+<xocs:ref-normalized-surname>MCKENZIE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1990</xocs:ref-pub-year>
+<xocs:ref-first-fp>193</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="BIB12">
+<xocs:ref-normalized-surname>BYUN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>149</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="BIB13">
+<xocs:ref-normalized-surname>SLINKARD</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1981</xocs:ref-pub-year>
+<xocs:ref-first-fp>423</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="BIB14">
+<xocs:ref-normalized-surname>SIMON</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1976</xocs:ref-pub-year>
+<xocs:ref-first-fp>175</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="BIB15">
+<xocs:ref-normalized-surname>BIWER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1986</xocs:ref-pub-year>
+<xocs:ref-first-fp>339</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="BIB16">
+<xocs:ref-normalized-surname>GALUSKA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1988</xocs:ref-pub-year>
+<xocs:ref-first-fp>110</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="BIB17">
+<xocs:ref-normalized-surname>BURROW</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1986</xocs:ref-pub-year>
+<xocs:ref-first-fp>2463</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="BIB18">
+<xocs:ref-normalized-surname>VOLPIN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1975</xocs:ref-pub-year>
+<xocs:ref-first-fp>3366</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>KONDOX2005X202</xocs:refkey3>
+<xocs:refkey4lp>KONDOX2005X202X206</xocs:refkey4lp>
+<xocs:refkey4ai>KONDOX2005X202XT</xocs:refkey4ai>
+<xocs:refkey5>KONDOX2005X202X206XT</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(04)00792-3</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838804007923</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838804007923</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2004.04.147</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-10T20:42:06.407259-04:00</xocs:timestamp>
+<xocs:cover-date-start>2005-01-11</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838804007923-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804007923/MAIN/application/pdf/f3e836bb87d1ba38fb16bbf684e756b8/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804007923/MAIN/application/pdf/f3e836bb87d1ba38fb16bbf684e756b8/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>120916</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838804007923-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804007923/PREVIEW/image/png/e59449b2cf116d516a26f4801c22e9c4/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804007923/PREVIEW/image/png/e59449b2cf116d516a26f4801c22e9c4/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>66456</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804007923-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804007923/gr1/THUMBNAIL/image/gif/1ee806c3ba38fb7ca02d67cf5f0ef430/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804007923/gr1/THUMBNAIL/image/gif/1ee806c3ba38fb7ca02d67cf5f0ef430/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1117</xocs:filesize>
+<xocs:pixel-height>92</xocs:pixel-height>
+<xocs:pixel-width>55</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804007923-gr1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804007923/gr1/DOWNSAMPLED/image/gif/c9c2e8f2b554a0c4dcceae76be61535b/gr1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804007923/gr1/DOWNSAMPLED/image/gif/c9c2e8f2b554a0c4dcceae76be61535b/gr1.gif</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>16698</xocs:filesize>
+<xocs:pixel-height>552</xocs:pixel-height>
+<xocs:pixel-width>329</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804007923-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804007923/gr2/THUMBNAIL/image/gif/2391f0ece197118723bbb03030052a3a/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804007923/gr2/THUMBNAIL/image/gif/2391f0ece197118723bbb03030052a3a/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1663</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>91</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804007923-gr2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804007923/gr2/DOWNSAMPLED/image/gif/32222027588de5245c5be222b34cd087/gr2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804007923/gr2/DOWNSAMPLED/image/gif/32222027588de5245c5be222b34cd087/gr2.gif</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>7914</xocs:filesize>
+<xocs:pixel-height>278</xocs:pixel-height>
+<xocs:pixel-width>271</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804007923-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804007923/gr3/THUMBNAIL/image/gif/90a472732de24d20678791fec850008a/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804007923/gr3/THUMBNAIL/image/gif/90a472732de24d20678791fec850008a/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1372</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>91</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804007923-gr3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804007923/gr3/DOWNSAMPLED/image/gif/488b3363e18f95b163635bd8107b97c4/gr3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804007923/gr3/DOWNSAMPLED/image/gif/488b3363e18f95b163635bd8107b97c4/gr3.gif</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>6608</xocs:filesize>
+<xocs:pixel-height>280</xocs:pixel-height>
+<xocs:pixel-width>272</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804007923-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804007923/gr4/THUMBNAIL/image/gif/98071f8cb13429a0b41d565324fb6f1a/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804007923/gr4/THUMBNAIL/image/gif/98071f8cb13429a0b41d565324fb6f1a/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1376</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>112</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804007923-gr4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804007923/gr4/DOWNSAMPLED/image/gif/b973154c0331df3efa9e04534d154ca1/gr4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804007923/gr4/DOWNSAMPLED/image/gif/b973154c0331df3efa9e04534d154ca1/gr4.gif</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>5030</xocs:filesize>
+<xocs:pixel-height>244</xocs:pixel-height>
+<xocs:pixel-width>293</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804007923-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804007923/gr5/THUMBNAIL/image/gif/e0e9c1a02621d036ee78a14299c5b1f2/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804007923/gr5/THUMBNAIL/image/gif/e0e9c1a02621d036ee78a14299c5b1f2/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1528</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>116</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804007923-gr5.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804007923/gr5/DOWNSAMPLED/image/gif/c42ff949402a206c9e7c396821205108/gr5.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804007923/gr5/DOWNSAMPLED/image/gif/c42ff949402a206c9e7c396821205108/gr5.gif</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>6575</xocs:filesize>
+<xocs:pixel-height>263</xocs:pixel-height>
+<xocs:pixel-width>326</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804007923-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804007923/gr6/THUMBNAIL/image/gif/3275aa198e5a7217da7112fbf3670959/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804007923/gr6/THUMBNAIL/image/gif/3275aa198e5a7217da7112fbf3670959/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2614</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>114</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804007923-gr6.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804007923/gr6/DOWNSAMPLED/image/gif/83434542997b86e8198422fe7be61516/gr6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804007923/gr6/DOWNSAMPLED/image/gif/83434542997b86e8198422fe7be61516/gr6.gif</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>10146</xocs:filesize>
+<xocs:pixel-height>244</xocs:pixel-height>
+<xocs:pixel-width>298</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<converted-article docsubtype="fla" version="4.5.2" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>11371</aid>
+<ce:pii>S0925-8388(04)00792-3</ce:pii>
+<ce:doi>10.1016/j.jallcom.2004.04.147</ce:doi>
+<ce:copyright type="full-transfer" year="2004">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="FIG1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRD patterns of (a) sample A and (b) sample B milled for various times.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="FIG2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Ti 2p XPS spectra for (a) Ti milled without additives for 5<ce:hsp sp="0.25"></ce:hsp>h, (b) sample A milled for 5<ce:hsp sp="0.25"></ce:hsp>h, and (c) sample B milled for 5<ce:hsp sp="0.25"></ce:hsp>h. The dashed line indicates the binding energy for normal metallic Ti.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="FIG3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Dependence of Ti 2p XPS spectra on milling time. Sample A milled for (a) 20<ce:hsp sp="0.25"></ce:hsp>h and (b) 5<ce:hsp sp="0.25"></ce:hsp>h. Sample B milled for (c) 20<ce:hsp sp="0.25"></ce:hsp>h and (d) 5<ce:hsp sp="0.25"></ce:hsp>h.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="FIG4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Dependence of hydrogen absorption capacity of Ti on milling time at 25<ce:hsp sp="0.25"></ce:hsp>°C under a hydrogen pressure of 0.8<ce:hsp sp="0.25"></ce:hsp>MPa (○) in sample A and (•) in sample B.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="FIG5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRD patterns after hydrogen absorption. (a) Sample A milled for 1<ce:hsp sp="0.25"></ce:hsp>h and (b) sample B milled for 1<ce:hsp sp="0.25"></ce:hsp>h.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="FIG6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Hydrogen absorption curves of various Ti at 25<ce:hsp sp="0.25"></ce:hsp>°C under a hydrogen pressure of 0.8<ce:hsp sp="0.25"></ce:hsp>MPa. (+) Ti milled without additives for 5<ce:hsp sp="0.25"></ce:hsp>h, sample A milled for (○) 1<ce:hsp sp="0.25"></ce:hsp>h, (▵) 2<ce:hsp sp="0.25"></ce:hsp>h, (♢) 5<ce:hsp sp="0.25"></ce:hsp>h, and (▿) 20<ce:hsp sp="0.25"></ce:hsp>h; sample B milled for (•) 1<ce:hsp sp="0.25"></ce:hsp>h, (▴) 2<ce:hsp sp="0.25"></ce:hsp>h, (<ce:glyph name="lozf"></ce:glyph>) 5<ce:hsp sp="0.25"></ce:hsp>h, and (▾) 20<ce:hsp sp="0.25"></ce:hsp>h.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+</ce:floats>
+<ce:title>Comparison of hydrogen absorption properties of Ti mechanically milled with hexagonal boron nitride (h-BN) and with graphite</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>Toshihiko</ce:given-name>
+<ce:surname>Kondo</ce:surname>
+<ce:cross-ref refid="COR1">
+<ce:sup loc="post">∗</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Kazuhiko</ce:given-name>
+<ce:surname>Shindo</ce:surname>
+<ce:cross-ref refid="FN1">
+<ce:sup loc="post">1</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Yoji</ce:given-name>
+<ce:surname>Sakurai</ce:surname>
+</ce:author>
+<ce:affiliation>
+<ce:textfn>NTT Microsystem Integration Laboratories, Nippon Telegraph and Telephone Corporation, 3-1 Morinosato-Wakamiya, Atsugi-shi, Kanagawa 243-0198, Japan</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="COR1">
+<ce:label>*</ce:label>
+<ce:text>Corresponding author. Tel.: +81-46-240-2707; fax: +81-46-270-3721.</ce:text>
+</ce:correspondence>
+<ce:footnote id="FN1">
+<ce:label>1</ce:label>
+<ce:note-para>Present address: NTT R&amp;D Strategy Department, NTT Corporation, 3-1, Otemachi 2-Chome Chiyoda-ku, Tokyo 100-8116, Japan.</ce:note-para>
+</ce:footnote>
+</ce:author-group>
+<ce:date-received day="13" month="3" year="2004"></ce:date-received>
+<ce:date-accepted day="12" month="4" year="2004"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">We compared the structural and hydrogen absorption properties of Ti mechanically milled with hexagonal boron nitride (h-BN) with those obtained when Ti was milled with graphite. With increasing milling time, the N and C atoms originating from h-BN and graphite dissolved into the interstitial sites of Ti, leading to the formation of the interstitial solid solutions, TiN and TiC, respectively. An investigation with X-ray photoelectron spectroscopy (XPS) suggested the existence of an interaction between Ti and N or C atoms due to their interstitial dissolution on the Ti surface. Milling with h-BN improved the kinetics of the hydrogen absorption of Ti as well as milling with graphite although the former required a longer milling time for full activation. The improvement in the kinetics can probably be attributed to the interstitial dissolution of N or C atoms on the Ti surface, which may provide the pathways for hydrogen penetration into Ti bulk. We revealed that the existence of the interstitial atoms on the Ti surface is an important factor in relation to the improvement in the hydrogen absorption kinetics of Ti.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword" xml:lang="en">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Hydrogen storage material</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Titanium</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Hexagonal boron nitride</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Graphite</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Mechanical milling</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Mg and Ti are well known as lightweight hydrogen storage materials and hydrogen can be stored more safely and compactly in them than in its compressed or liquid forms. These materials are usually covered with thin layers of oxides or hydroxides and require activation treatment under high temperature (&gt;300<ce:hsp sp="0.25"></ce:hsp>°C) and hydrogen pressure (&gt;3<ce:hsp sp="0.25"></ce:hsp>MPa) before being used for storage and transport applications <ce:cross-refs refid="BIB1 BIB2 BIB3 BIB4">[1–4]</ce:cross-refs>.</ce:para>
+<ce:para view="all">Various Mg and Ti activation methods have been proposed based on surface modification. For instance, Mg modified by polycyclic aromatic compounds has good hydrogen absorption kinetics without being heated in a hydrogen atmosphere <ce:cross-ref refid="BIB5">[5]</ce:cross-ref>. Mg or Ti mechanically milled with graphite, which has a polycyclic aromatic framework, also exhibit improved hydrogen absorption kinetics <ce:cross-refs refid="BIB6 BIB7">[6,7]</ce:cross-refs>. These modifications are effective for some alloys containing Mg or Ti <ce:cross-refs refid="BIB7 BIB8 BIB9">[7–9]</ce:cross-refs>. It has been concluded that one of the reasons for the improvements in Mg systems is the interaction between Mg and aromatic compounds with charge transfer, which promotes the activation of hydrogen molecules <ce:cross-refs refid="BIB6 BIB8 BIB9">[6,8,9]</ce:cross-refs>. However, there has been no detailed examination of Mg and Ti modified by compounds other than carbon-based ones.</ce:para>
+<ce:para view="all">In this study, we focused on h-BN as an additive for the modification of hydrogen storage materials. h-BN and graphite have similar layered structures and mechanical properties, but different electronic properties; h-BN is an insulator and graphite is a semimetal as a result of the differences in their electronic band structures <ce:cross-refs refid="BIB10 BIB11">[10,11]</ce:cross-refs>. We can use h-BN as a probe for investigating the influence of electronic properties on modification. In addition, the hydrogen absorption properties in the Ti–h-BN system were unknown although the solid-phase reaction of Ti with h-BN caused by mechanical milling has been reported <ce:cross-ref refid="BIB12">[12]</ce:cross-ref>. We evaluated the structural and hydrogen absorption properties of Ti mechanically milled with h-BN and compared them with those of Ti milled with graphite.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental</ce:section-title>
+<ce:section view="all">
+<ce:label>2.1</ce:label>
+<ce:section-title>Sample preparation</ce:section-title>
+<ce:para view="all">Ti powder (Furuuchi Chemical, &lt;150<ce:hsp sp="0.25"></ce:hsp>μm, 99.9%) and h-BN (Denka, Denka Boron Nitride, 7<ce:hsp sp="0.25"></ce:hsp>μm, 99%) or graphite powder (Kansai Coke and Chemical, NG-7, 7<ce:hsp sp="0.25"></ce:hsp>μm, 99.99%) were mixed with a composition of Ti–50<ce:hsp sp="0.25"></ce:hsp>wt.% h-BN or graphite (weight ratio = 1:1). The mixture was placed in a tempered Cr-steel bowl (45<ce:hsp sp="0.25"></ce:hsp>ml) with a sealing o-ring together with 7<ce:hsp sp="0.25"></ce:hsp>mm diameter Cr–steel balls and then sealed in an argon atmosphere. Milling was carried out using a planetary ball mill apparatus (Fritsch, Pulverisette 7) at a rotation speed of 400<ce:hsp sp="0.25"></ce:hsp>rpm for 1–80<ce:hsp sp="0.25"></ce:hsp>h. The ball to powder weight ratio was 30:1. All the prepared samples were handled in a glove box filled with purified argon to avoid the influence of oxidation and moisture.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2.2</ce:label>
+<ce:section-title>Analysis and characterization</ce:section-title>
+<ce:para view="all">The structures of the prepared samples were characterized by X-ray diffraction (XRD, Rigaku, MultiFlex with Cu Kα radiation) measurements. The surface state of the prepared samples was evaluated by X-ray photoelectron spectroscopy (XPS, PHI, XPS5700 with Al Kα radiation). Some charged samples were neutralized with an electron gun. The C 1p peak of graphite or hydrocarbon (existing as background) at 284.6<ce:hsp sp="0.25"></ce:hsp>eV was used to calibrate the peak positions. The peaks were identified on the basis of reported values <ce:cross-refs refid="BIB13 BIB14 BIB15 BIB16 BIB17">[13–17]</ce:cross-refs>. The hydrogen absorption properties of the prepared samples were determined by the conventional volumetric method under a hydrogen pressure of 0.8<ce:hsp sp="0.25"></ce:hsp>MPa using an automatic Sievert apparatus (Lesca). The measurements were carried out at 25<ce:hsp sp="0.25"></ce:hsp>°C without any activation treatment at high temperature and hydrogen pressure. The purity of the hydrogen we used was 99.9999%. The sample weight for the measurement was 0.6<ce:hsp sp="0.25"></ce:hsp>g.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:section view="all">
+<ce:label>3.1</ce:label>
+<ce:section-title>Structural changes with mechanical milling</ce:section-title>
+<ce:para view="all">The XRD patterns of Ti–h-BN composite (sample A) and Ti–graphite composite (sample B) mechanically milled for various time periods are shown in <ce:cross-ref refid="FIG1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="FIG1"></ce:float-anchor>. The peaks attributed to h-BN and graphite weakened with increasing milling time and disappeared after milling for more than 5<ce:hsp sp="0.25"></ce:hsp>h. This indicates the disappearance of the long-range ordering of h-BN and graphite. There were no significant changes in the Ti peaks during the initial milling stage (up to 5 and 2<ce:hsp sp="0.25"></ce:hsp>h in samples A and B, respectively). After that, the Ti peaks weakened and the peaks attributed to TiN and TiC grew with increasing milling time in samples A and B, respectively. In both cases, only the peaks of the interstitial solid solutions were observed after milling for 80<ce:hsp sp="0.25"></ce:hsp>h. The formation of TiN and TiC is most likely due to the dissolution of N and C atoms originating from h-BN and graphite, respectively, into the interstitial sites of Ti. Another interstitial solid solution, TiB<ce:inf loc="post">2</ce:inf>, was not observed in sample A at any milling time in our study, although the formation of TiN/TiB<ce:inf loc="post">2</ce:inf> by the mechanical milling of Ti with h-BN has been reported <ce:cross-ref refid="BIB12">[12]</ce:cross-ref>. This difference is probably due to the milling conditions, especially the molar ratio of h-BN to Ti. When there is excess h-BN, the interstitial dissolution of N atoms is superior to that of B atoms because the atomic radius of N is almost the same as that of C and about 6% smaller than that of B. The residual B atoms may exist as amorphous B in the composites since no phases related to B atoms were detected by XRD. In sample A, a longer milling time was needed before the peaks of the corresponding interstitial solid solution appeared, indicating that Ti reacts with graphite more rapidly than with h-BN. We discuss the reason for this difference in the reactivity in the next section.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.2</ce:label>
+<ce:section-title>Properties of Ti surfaces in composites</ce:section-title>
+<ce:para view="all">The surface state is an important factor that affects the kinetics of hydrogen absorption in hydrogen storage materials. We used XPS to evaluate the Ti surface in composites. <ce:cross-ref refid="FIG2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="FIG2"></ce:float-anchor> shows Ti 2p XPS spectra for host Ti, Ti milled without additives for 5<ce:hsp sp="0.25"></ce:hsp>h, and samples A and B milled for 5<ce:hsp sp="0.25"></ce:hsp>h. In host Ti, we observed the Ti 2p<ce:inf loc="post">3/2</ce:inf> peak at 458.5<ce:hsp sp="0.25"></ce:hsp>eV attributed to TiO<ce:inf loc="post">2</ce:inf>
+<ce:cross-ref refid="BIB13">[13]</ce:cross-ref>, indicating that host Ti is covered with a layer of TiO<ce:inf loc="post">2</ce:inf> and that there is no metallic Ti on the surface. The new peak at 453.2<ce:hsp sp="0.25"></ce:hsp>eV after milling without additives corresponds to the appearance of metallic Ti on the surface <ce:cross-ref refid="BIB14">[14]</ce:cross-ref>. This indicates that the TiO<ce:inf loc="post">2</ce:inf> layer is destroyed by pulverization. Moreover, in samples A and B, similar peaks appeared at about 454.1<ce:hsp sp="0.25"></ce:hsp>eV, but the binding energy was about 0.9<ce:hsp sp="0.25"></ce:hsp>eV higher than that of normal metallic Ti, suggesting that milling with h-BN or graphite decreases the electron density around Ti. The decrease is probably due to the interaction between Ti and N or C atoms, in which N or C atoms begin to dissolve interstitially on the Ti surface. However, TiN and TiC are not formed on the Ti surface because the binding energies for Ti in both samples A and B were different from those for TiN and TiC, which are 455.2 and 454.9<ce:hsp sp="0.25"></ce:hsp>eV, respectively <ce:cross-refs refid="BIB15 BIB16">[15,16]</ce:cross-refs>. We believe that non-stoichiometric interstitial solid solutions are formed on the Ti surface. In fact, it has been reported that the Ti 2p<ce:inf loc="post">3/2</ce:inf> peaks for TiN<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf> (<ce:italic>x</ce:italic> = 0.12–0.96) are located between those for metallic Ti and TiN <ce:cross-ref refid="BIB17">[17]</ce:cross-ref>. The peak of the interacted Ti in sample B was more prominent than that in sample A. The peak attributed to TiO<ce:inf loc="post">2</ce:inf> was preserved in sample A, while its intensity was very weak in sample B. Even when the milling time was extended to 20<ce:hsp sp="0.25"></ce:hsp>h, we observed no significant changes in the shape of the spectra although the normalized peak intensities of the interacted Ti became strong, as shown in <ce:cross-ref refid="FIG3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="FIG3"></ce:float-anchor>. The changes in the peak intensities correspond to the increase in the interstitial N or C atoms on the surfaces of the composites. These results suggest that milling with graphite removes the TiO<ce:inf loc="post">2</ce:inf> layer from the Ti surface more effectively, resulting in greater interstitial dissolution on the Ti surface than found with h-BN. This seems to explain why Ti reacts with graphite more rapidly than with h-BN. Above all, the Ti surfaces in samples A and B are essentially different. This is probably due to the difference between the electronic properties of h-BN and graphite. Unlike h-BN, graphite has π electrons with high mobility and can act as a π ligand <ce:cross-ref refid="BIB18">[18]</ce:cross-ref>. Therefore, there is likely to be an interaction with the charge transfer between Ti and graphite, as reported for Mg–graphite and MgNi–graphite composites <ce:cross-refs refid="BIB6 BIB9">[6,9]</ce:cross-refs>. This interaction may play an important role in the removal of the TiO<ce:inf loc="post">2</ce:inf> layer and the prevention of Ti reoxidation by residual oxygen.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.3</ce:label>
+<ce:section-title>Hydrogen absorption properties</ce:section-title>
+<ce:para view="all">We evaluated the capacity and kinetics of hydrogen absorption at 25<ce:hsp sp="0.25"></ce:hsp>°C for the samples after milling for various time periods to investigate the influence of milling with h-BN or graphite on the hydrogen absorption properties of Ti. Here, the amount of absorbed hydrogen was converted to a Ti weight basis by excluding the h-BN or graphite weights of all the composites.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="FIG4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="FIG4"></ce:float-anchor> shows the dependence of the hydrogen absorption capacities of Ti on milling time in samples A and B. The hydrogen absorption capacities were approximately 4.2<ce:hsp sp="0.25"></ce:hsp>wt.% in both samples A and B milled for 1<ce:hsp sp="0.25"></ce:hsp>h. This value is equal to the theoretical hydrogen absorption of Ti. Moreover, peaks attributed to TiH<ce:inf loc="post">2</ce:inf> and h-BN or graphite were observed in the XRD patterns of the samples after hydrogen absorption, as shown in <ce:cross-ref refid="FIG5">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="FIG5"></ce:float-anchor>. These results support the view that Ti mainly absorbs hydrogen and that the hydrogen physisorption in h-BN or graphite is negligible under a hydrogen pressure of 0.8<ce:hsp sp="0.25"></ce:hsp>MPa. Although in both cases these hydrogen absorption capacities then decreased with increasing milling time, the decay of the capacity of sample A was slower than that of sample B. This tendency seems to correspond to the formation of interstitial solid solutions, as shown in <ce:cross-ref refid="FIG1">Fig. 1</ce:cross-ref>. The interstitial N or C atoms probably occupy the sites for hydrogen absorption in Ti, resulting in the reduction of the hydrogen absorption capacities.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="FIG6">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="FIG6"></ce:float-anchor> shows the hydrogen absorption curves of Ti in samples A and B. The Ti in both samples A and B could absorb hydrogen rapidly even at 25<ce:hsp sp="0.25"></ce:hsp>°C, while Ti milled without h-BN and graphite could not in spite of the existence of metallic Ti on the surface. The hydrogen absorption kinetics for Ti in sample A was improved with increasing milling time to the same degree as that in sample B although a longer milling time was required for sample A. This result together with XPS analyses suggests that the improvement in the kinetics is independent of the existence of the metallic Ti, but is attributed to the quantity of interstitial N or C atoms on the Ti surface. It may be that the phase boundaries induced by the interstitial dissolution of N or C atoms on the Ti surface act as pathways for hydrogen penetration into Ti bulk. Prolonged milling increases the number of pathways on the Ti surface, leading to further improvement in the hydrogen absorption kinetics. A longer milling time is required for the improvement in sample A because milling with h-BN does not induce the interstitial dissolution on the Ti surface more efficiently than milling with graphite, as described above.</ce:para>
+<ce:para view="all">The hydrogen absorption kinetics of Ti was improved by milling with h-BN as well as by milling with graphite, although the difference between the electronic properties of h-BN and graphite affected the Ti surface in composites, resulting in different improvement behavior. We believe that the most important factor related to this improvement is the interstitial dissolution of N or C atoms, which originate from h-BN or graphite, on the Ti surface.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusion</ce:section-title>
+<ce:para view="all">We investigated the structural and hydrogen absorption properties for Ti mechanically milled with h-BN for various milling times and compared the results with those obtained with graphite. The hydrogen absorption kinetics for both Ti milled with h-BN and Ti milled with graphite was improved with increasing milling time although a longer time was required with h-BN than with graphite. XPS analyses suggested that the improvement in the kinetics could be attributed to the interstitial dissolution of N or C atoms on the Ti surface, which may provide the pathways for hydrogen penetration into Ti bulk. We found that the improvement in the hydrogen absorption kinetics of Ti is not peculiar to milling with graphite. We consider that the improvement is essentially independent of the electronic properties of the additives, but depends on the interstitial atoms on the Ti surface.</ce:para>
+</ce:section>
+</ce:sections>
+<tail>
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="BIB1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Vigeholm</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Kjøller</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Larsen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Less-Common Met</sb:maintitle>
+</sb:title>
+<sb:volume-nr>74</sb:volume-nr>
+</sb:series>
+<sb:date>1980</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>341</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="BIB2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Belkbir</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Joy</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Gérard</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+</sb:title>
+<sb:volume-nr>6</sb:volume-nr>
+</sb:series>
+<sb:date>1981</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>285</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="BIB3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Bogdanović</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Bohmhammel</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Christ</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Reiser</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Schlichte</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Vehlen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>U.</ce:given-name>
+<ce:surname>Wolf</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp</sb:maintitle>
+</sb:title>
+<sb:volume-nr>282</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>84</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="BIB4">
+<ce:label>[4]</ce:label>
+<ce:other-ref>
+<ce:textref>M.W. Mueller, Titanium hydrides, in: Metal Hydrides, Academic Press, New York, 1968 (Chapter 8).</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="BIB5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Bogdanović</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Angew. Chem. Int. Ed. Engl</sb:maintitle>
+</sb:title>
+<sb:volume-nr>24</sb:volume-nr>
+</sb:series>
+<sb:date>1980</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>262</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="BIB6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Imamura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Takesue</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Akimoto</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Tabata</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp</sb:maintitle>
+</sb:title>
+<sb:volume-nr>293–295</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>564</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="BIB7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Bouaricha</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.P.</ce:given-name>
+<ce:surname>Dodelet</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Guay</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Huot</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Schulz</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp</sb:maintitle>
+</sb:title>
+<sb:volume-nr>325</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>245</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="BIB8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Imamura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Takahashi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Galleguillos</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Tsuchiya</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Less-Common Met</sb:maintitle>
+</sb:title>
+<sb:volume-nr>89</sb:volume-nr>
+</sb:series>
+<sb:date>1983</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>251</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="BIB9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Iwakura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.G.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Nohara</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Yorimitsu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Kuramoto</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Morikawa</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Electrochem. Soc</sb:maintitle>
+</sb:title>
+<sb:volume-nr>146</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1659</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="BIB10">
+<ce:label>[10]</ce:label>
+<ce:other-ref>
+<ce:textref>R. Thomson, in: R.J. Brotherton, et al. (Eds.), Progress in Boron Chemistry, vol. 2, Pergamon Press, London, 1970, p. 173.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="BIB11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.R.</ce:given-name>
+<ce:surname>McKenzie</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.G.</ce:given-name>
+<ce:surname>Sainty</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Green</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Forum</sb:maintitle>
+</sb:title>
+<sb:volume-nr>54–55</sb:volume-nr>
+</sb:series>
+<sb:date>1990</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>193</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="BIB12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.-S.</ce:given-name>
+<ce:surname>Byun</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.-H.</ce:given-name>
+<ce:surname>Shim</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.W.</ce:given-name>
+<ce:surname>Cho</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp</sb:maintitle>
+</sb:title>
+<sb:volume-nr>365</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>149</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="BIB13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.E.</ce:given-name>
+<ce:surname>Slinkard</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.B.</ce:given-name>
+<ce:surname>Degroot</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Catal</sb:maintitle>
+</sb:title>
+<sb:volume-nr>68</sb:volume-nr>
+</sb:series>
+<sb:date>1981</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>423</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="BIB14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Simon</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Perrin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Bardolle</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Microsc. Spectrosc. Electron</sb:maintitle>
+</sb:title>
+<sb:volume-nr>1</sb:volume-nr>
+</sb:series>
+<sb:date>1976</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>175</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="BIB15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>B.M.</ce:given-name>
+<ce:surname>Biwer</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.L.</ce:given-name>
+<ce:surname>Bernasek</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Electron Spectrosc. Relat. Phenom</sb:maintitle>
+</sb:title>
+<sb:volume-nr>40</sb:volume-nr>
+</sb:series>
+<sb:date>1986</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>339</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="BIB16">
+<ce:label>[16]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.A.</ce:given-name>
+<ce:surname>Galuska</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.C.</ce:given-name>
+<ce:surname>Uht</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Marquez</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Vac. Sci. Technol. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>6</sb:volume-nr>
+</sb:series>
+<sb:date>1988</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>110</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="BIB17">
+<ce:label>[17]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>B.J.</ce:given-name>
+<ce:surname>Burrow</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.E.</ce:given-name>
+<ce:surname>Morgan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.C.</ce:given-name>
+<ce:surname>Ellwanger</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Vac. Sci. Technol. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>4</sb:volume-nr>
+</sb:series>
+<sb:date>1986</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2463</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="BIB18">
+<ce:label>[18]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.E.</ce:given-name>
+<ce:surname>Vol’pin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Yu.N.</ce:given-name>
+<ce:surname>Novikov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.D.</ce:given-name>
+<ce:surname>Lapkina</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.I.</ce:given-name>
+<ce:surname>Kasatochkin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Yu.T.</ce:given-name>
+<ce:surname>Struchkov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.E.</ce:given-name>
+<ce:surname>Kazakov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.A.</ce:given-name>
+<ce:surname>Stukan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.A.</ce:given-name>
+<ce:surname>Povitskij</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Yu.S.</ce:given-name>
+<ce:surname>Karimov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.V.</ce:given-name>
+<ce:surname>Zvarikina</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Am. Chem. Soc</sb:maintitle>
+</sb:title>
+<sb:volume-nr>97</sb:volume-nr>
+</sb:series>
+<sb:date>1975</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>3366</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</converted-article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

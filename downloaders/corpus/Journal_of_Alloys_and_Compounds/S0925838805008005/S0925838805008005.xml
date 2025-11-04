@@ -1,0 +1,946 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838805008005</prism:url><dc:identifier>doi:10.1016/j.jallcom.2005.03.091</dc:identifier><eid>1-s2.0-S0925838805008005</eid><prism:doi>10.1016/j.jallcom.2005.03.091</prism:doi><pii>S0925-8388(05)00800-5</pii><dc:title>Structures and magnetic properties of Nd–Fe–Ti alloys produced by melt-spinning technique </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>402</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>242</prism:startingpage><prism:endingpage>245</prism:endingpage><prism:pagerange>242-245</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2005-10-27</prism:coverdate><prism:coverdisplaydate>27 October 2005</prism:coverdisplaydate><prism:copyright>Copyright © 2005 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Saito, Tetsuji</dc:creator><dc:creator>Wang, Wen Quan</dc:creator><dc:creator>Kamagata, Yasushi</dc:creator><dc:description>
+                  Nd3Fe29−x
+                     Ti
+                        x
+                      (x
+                     =1.5–2.0) alloys produced by the melt-spinning technique consisted of the Nd3(Fe,Ti)29 and amorphous phases. The amount of amorphous phase in the melt-spun ribbons increased as the Ti content increased. Annealing of the melt-spun ribbons resulted in the formation of the single Nd3(Fe,Ti)29 phase. The saturation magnetization of the Nd3(Fe,Ti)29 phase was found to be 120Am2
+                     kg−1 at room temperature.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Rare earth compound</dcterms:subject><dcterms:subject>Intermetallic compounds</dcterms:subject><dcterms:subject>Amorphous materials</dcterms:subject><dcterms:subject>Melt-spinning</dcterms:subject><dcterms:subject>Magnetic properties</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838805008005" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838805008005" rel="scidir"/></coredata><objects><object category="standard" height="222" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="5409" type="IMAGE-DOWNSAMPLED" width="274">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008005-gr4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="1576" type="IMAGE-THUMBNAIL" width="115">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008005-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="415" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="11044" type="IMAGE-DOWNSAMPLED" width="259">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008005-gr3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="1140" type="IMAGE-THUMBNAIL" width="58">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008005-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="344" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="8014" type="IMAGE-DOWNSAMPLED" width="273">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008005-gr1.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="1193" type="IMAGE-THUMBNAIL" width="74">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008005-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="340" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="5503" type="IMAGE-DOWNSAMPLED" width="279">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008005-gr2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="927" type="IMAGE-THUMBNAIL" width="77">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805008005-gr2.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>25844469692</scopus-id><scopus-eid>2-s2.0-25844469692</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/25844469692" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20050627">2005-06-27</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20050627">2005-06-27</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-04-17T10:08:11</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838805008005</xocs:eid>
+<xocs:pii-formatted>S0925-8388(05)00800-5</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805008005</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2005.03.091</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838805X02444</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.346355-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20051027</xocs:date-search-begin>
+<xocs:year-nav>2005</xocs:year-nav>
+<xocs:indexeddate epoch="1119830400">2005-06-27T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure body affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>402</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>402</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 402, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>45</xocs:sort-order>
+<xocs:first-fp>242</xocs:first-fp>
+<xocs:last-lp>245</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>242</xocs:first-page>
+<xocs:last-page>245</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20051027</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>27 October 2005</xocs:cover-date-text>
+<xocs:cover-date-start>2005-10-27</xocs:cover-date-start>
+<xocs:cover-date-year>2005</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Materials Science</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2005 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>STRUCTURESMAGNETICPROPERTIESNDFETIALLOYSPRODUCEDBYMELTSPINNINGTECHNIQUE</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>SAITO</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>T</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>SAGAWA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1984</xocs:ref-pub-year>
+<xocs:ref-first-fp>2083</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>COEY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1990</xocs:ref-pub-year>
+<xocs:ref-first-fp>L251</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>CADOGAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1994</xocs:ref-pub-year>
+<xocs:ref-first-fp>7114</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>HU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1994</xocs:ref-pub-year>
+<xocs:ref-first-fp>223</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>KALOGIROU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>335</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1994</xocs:ref-pub-year>
+<xocs:ref-first-fp>487</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>PSYCHARIS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>62</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>CADOGAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1994</xocs:ref-pub-year>
+<xocs:ref-first-fp>6318</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>LIAO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1989</xocs:ref-pub-year>
+<xocs:ref-first-fp>768</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>WECKER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1987</xocs:ref-pub-year>
+<xocs:ref-first-fp>990</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>OZAWA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>263</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>CARR</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1988</xocs:ref-pub-year>
+<xocs:ref-first-fp>147</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>SAITOX2005X242</xocs:refkey3>
+<xocs:refkey4lp>SAITOX2005X242X245</xocs:refkey4lp>
+<xocs:refkey4ai>SAITOX2005X242XT</xocs:refkey4ai>
+<xocs:refkey5>SAITOX2005X242X245XT</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(05)00800-5</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805008005</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838805008005</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2005.03.091</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-10T16:24:00.818782-04:00</xocs:timestamp>
+<xocs:cover-date-start>2005-10-27</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838805008005-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008005/MAIN/application/pdf/4c201c4aef00fe3ff3d30029011fd966/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008005/MAIN/application/pdf/4c201c4aef00fe3ff3d30029011fd966/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>164880</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838805008005-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008005/PREVIEW/image/png/b874ccc6c9d49b4aada310403ac0e0bc/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008005/PREVIEW/image/png/b874ccc6c9d49b4aada310403ac0e0bc/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>60852</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008005-gr4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008005/gr4/DOWNSAMPLED/image/gif/7527642f2d9973465d74d6fb98096c79/gr4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008005/gr4/DOWNSAMPLED/image/gif/7527642f2d9973465d74d6fb98096c79/gr4.gif</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>5409</xocs:filesize>
+<xocs:pixel-height>222</xocs:pixel-height>
+<xocs:pixel-width>274</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008005-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008005/gr4/THUMBNAIL/image/gif/f9d9edcacc9d07ea95e437d9c6290a03/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008005/gr4/THUMBNAIL/image/gif/f9d9edcacc9d07ea95e437d9c6290a03/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1576</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>115</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008005-gr3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008005/gr3/DOWNSAMPLED/image/gif/d31a48d9f1c3951cd07614769ec7b0a2/gr3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008005/gr3/DOWNSAMPLED/image/gif/d31a48d9f1c3951cd07614769ec7b0a2/gr3.gif</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>11044</xocs:filesize>
+<xocs:pixel-height>415</xocs:pixel-height>
+<xocs:pixel-width>259</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008005-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008005/gr3/THUMBNAIL/image/gif/099fc225705263b7764321d778b47b7c/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008005/gr3/THUMBNAIL/image/gif/099fc225705263b7764321d778b47b7c/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1140</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>58</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008005-gr1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008005/gr1/DOWNSAMPLED/image/gif/cbbdd2d7648ff3898ae0704da1257146/gr1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008005/gr1/DOWNSAMPLED/image/gif/cbbdd2d7648ff3898ae0704da1257146/gr1.gif</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>8014</xocs:filesize>
+<xocs:pixel-height>344</xocs:pixel-height>
+<xocs:pixel-width>273</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008005-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008005/gr1/THUMBNAIL/image/gif/28602bfc02226e593dd4149861ba16ee/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008005/gr1/THUMBNAIL/image/gif/28602bfc02226e593dd4149861ba16ee/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1193</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>74</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008005-gr2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008005/gr2/DOWNSAMPLED/image/gif/ae94203d4b28dd3cca083f897d8d1bcf/gr2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008005/gr2/DOWNSAMPLED/image/gif/ae94203d4b28dd3cca083f897d8d1bcf/gr2.gif</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>5503</xocs:filesize>
+<xocs:pixel-height>340</xocs:pixel-height>
+<xocs:pixel-width>279</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805008005-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805008005/gr2/THUMBNAIL/image/gif/b1cdfca96722132cd7b96b57e10180bf/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805008005/gr2/THUMBNAIL/image/gif/b1cdfca96722132cd7b96b57e10180bf/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>927</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>77</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>12597</aid>
+<ce:pii>S0925-8388(05)00800-5</ce:pii>
+<ce:doi>10.1016/j.jallcom.2005.03.091</ce:doi>
+<ce:copyright type="full-transfer" year="2005">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRD patterns of (a) Nd<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">27.5</ce:inf>Ti<ce:inf loc="post">1.5</ce:inf>, (b) Nd<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">27.3</ce:inf>Ti<ce:inf loc="post">1.7</ce:inf> and (c) Nd<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">27</ce:inf>Ti<ce:inf loc="post">2</ce:inf> melt-spun ribbons.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Thermomagnetic curves of (a) Nd<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">27.5</ce:inf>Ti<ce:inf loc="post">1.5</ce:inf>, (b) Nd<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">27.3</ce:inf>Ti<ce:inf loc="post">1.7</ce:inf> and (c) Nd<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">27</ce:inf>Ti<ce:inf loc="post">2</ce:inf> melt-spun ribbons.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRD patterns of Nd<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">27.5</ce:inf>Ti<ce:inf loc="post">1.5</ce:inf> melt-spun ribbons annealed at (a) 673<ce:hsp sp="0.25"></ce:hsp>K, (b) 773<ce:hsp sp="0.25"></ce:hsp>K, (c) 873<ce:hsp sp="0.25"></ce:hsp>K, (d) 973<ce:hsp sp="0.25"></ce:hsp>K, (e) 1073<ce:hsp sp="0.25"></ce:hsp>K and (f) 1173<ce:hsp sp="0.25"></ce:hsp>K for 1<ce:hsp sp="0.25"></ce:hsp>h.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Dependence of the saturation magnetization and coercivity of Nd<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">27.5</ce:inf>Ti<ce:inf loc="post">1.5</ce:inf> melt-spun ribbons on the annealing temperature.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+</ce:floats>
+<ce:title>Structures and magnetic properties of Nd–Fe–Ti alloys produced by melt-spinning technique</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>Tetsuji</ce:given-name>
+<ce:surname>Saito</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="cor1">*</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Wen Quan</ce:given-name>
+<ce:surname>Wang</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Yasushi</ce:given-name>
+<ce:surname>Kamagata</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation id="aff1">
+<ce:label>a</ce:label>
+<ce:textfn>Department of Mechanical Science and Engineering, Chiba Institute of Technology, 2-17-1 Tsudanuma, Narashino, Chiba 275-0016, Japan</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff2">
+<ce:label>b</ce:label>
+<ce:textfn>Department of Physics, Jilin University, JieFang Road 119, Changchun 130023, China</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>*</ce:label>
+<ce:text>Corresponding author.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="15" month="3" year="2005"></ce:date-received>
+<ce:date-accepted day="31" month="3" year="2005"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">Nd<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">29−<ce:italic>x</ce:italic>
+</ce:inf>Ti<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf> (<ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1.5–2.0) alloys produced by the melt-spinning technique consisted of the Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> and amorphous phases. The amount of amorphous phase in the melt-spun ribbons increased as the Ti content increased. Annealing of the melt-spun ribbons resulted in the formation of the single Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> phase. The saturation magnetization of the Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> phase was found to be 120<ce:hsp sp="0.25"></ce:hsp>Am<ce:sup loc="post">2</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>kg<ce:sup loc="post">−1</ce:sup> at room temperature.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Rare earth compound</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Intermetallic compounds</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Amorphous materials</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Melt-spinning</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Magnetic properties</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Since it was found that Nd–Fe–B permanent magnets exhibit excellent hard magnetic properties, research and development of new permanent magnetic materials has largely concentrated on rare earth-containing alloys <ce:cross-refs refid="bib1 bib2">[1,2]</ce:cross-refs>. One of the rare earth compounds for the new permanent magnetic materials is the R<ce:inf loc="post">3</ce:inf>(Fe,M)<ce:inf loc="post">29</ce:inf> (R: rare earth and M: transition metal) phase <ce:cross-ref refid="bib3">[3]</ce:cross-ref>. This R<ce:inf loc="post">3</ce:inf>(Fe,M)<ce:inf loc="post">29</ce:inf> phase is described as an alternate stacking of the R(Fe,M)<ce:inf loc="post">12</ce:inf> phase (tetragonal ThMn<ce:inf loc="post">12</ce:inf>-type structure) and the R<ce:inf loc="post">2</ce:inf>(Fe,M)<ce:inf loc="post">17</ce:inf> phase (rhombohedral Th<ce:inf loc="post">2</ce:inf>Zn<ce:inf loc="post">17</ce:inf>-type structure), which are very common intermetallic compounds in the field of rare earth permanent magnets. The complexity of the structural arrangement of the R<ce:inf loc="post">3</ce:inf>(Fe,M)<ce:inf loc="post">29</ce:inf> phase has given rise to the contradictory reports concerning the magnetocrystalline anisotropy of the R<ce:inf loc="post">3</ce:inf>(Fe,M)<ce:inf loc="post">29</ce:inf> phase <ce:cross-refs refid="bib4 bib5">[4,5]</ce:cross-refs>. Since the R<ce:inf loc="post">3</ce:inf>(Fe,M)<ce:inf loc="post">29</ce:inf> phase is an intermediate phase between the ThMn<ce:inf loc="post">12</ce:inf>- and Th<ce:inf loc="post">2</ce:inf>Zn<ce:inf loc="post">17</ce:inf>-type structures, production of the single R<ce:inf loc="post">3</ce:inf>(Fe,M)<ce:inf loc="post">29</ce:inf> phase is difficult and time consuming. For example, the Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> phase is usually produced by annealing of Nd–Fe–Ti alloy ingots at a high temperature of 1373<ce:hsp sp="0.25"></ce:hsp>K for a long period of 72–130<ce:hsp sp="0.25"></ce:hsp>h <ce:cross-refs refid="bib6 bib7">[6,7]</ce:cross-refs>. The annealed Nd–Fe–Ti alloy still contains a small amount of the α-Fe phase together with the Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> phase in most cases <ce:cross-refs refid="bib3 bib8">[3,8]</ce:cross-refs>. It has been reported that Nd–Fe–B alloys with a peritectic Nd<ce:inf loc="post">2</ce:inf>Fe<ce:inf loc="post">14</ce:inf>B phase, but without any primary α-Fe phase, can be directly obtained by annealing of amorphous Nd–Fe–B alloys produced by the melt-spinning technique <ce:cross-refs refid="bib9 bib10">[9,10]</ce:cross-refs>. The single Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> phase may be obtained by a short annealing of amorphous Nd–Fe–Ti alloys produced by the melt-spinning technique. In this study, the amorphous Nd–Fe–Ti alloys were produced by the melt-spinning technique and the structure and magnetic properties of the amorphous Nd–Fe–Ti melt-spun ribbons and those annealed specimens were investigated.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental</ce:section-title>
+<ce:para view="all">Nd<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">29−<ce:italic>x</ce:italic>
+</ce:inf>Ti<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf> (<ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1.5–2.0) alloys were prepared by arc melting in an argon atmosphere. Small quantities of the alloy ingots were placed in a quartz crucible with an orifice of 0.6<ce:hsp sp="0.25"></ce:hsp>mm in diameter at the bottom. The alloy ingots were induction-melted in an argon atmosphere and then ejected through the orifice under argon pressure onto a chromium-plated copper wheel rotating at a surface velocity of 50<ce:hsp sp="0.25"></ce:hsp>ms<ce:sup loc="post">−1</ce:sup>. The resultant melt-spun ribbons were obtained as fragmented pieces. Typical dimensions of the ribbon fragments were 10<ce:hsp sp="0.25"></ce:hsp>μm in thickness by 1<ce:hsp sp="0.25"></ce:hsp>mm wide and 100<ce:hsp sp="0.25"></ce:hsp>mm long. Heat treatments of the melt-spun ribbons were then carried out in an argon atmosphere at temperatures between 673 and 1173<ce:hsp sp="0.25"></ce:hsp>K for 1<ce:hsp sp="0.25"></ce:hsp>h. The specimens were examined by X-ray diffraction (XRD) using Cu Kα radiation. The magnetization of the powders was examined at a heating rate of 0.16<ce:hsp sp="0.25"></ce:hsp>K<ce:hsp sp="0.25"></ce:hsp>s<ce:sup loc="post">−1</ce:sup> in a vacuum using a vibrating sample magnetometer (VSM) at an applied field of 40<ce:hsp sp="0.25"></ce:hsp>kA<ce:hsp sp="0.25"></ce:hsp>m<ce:sup loc="post">−1</ce:sup>. The hysteresis loops of the specimens were measured at room temperature by VSM under a maximum applied field of 2.0<ce:hsp sp="0.25"></ce:hsp>MA<ce:hsp sp="0.25"></ce:hsp>m<ce:sup loc="post">−1</ce:sup>.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:para view="all">
+<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor> shows the XRD patterns of the Nd–Fe–Ti melt-spun ribbons. The XRD patterns of the Nd<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">27.5</ce:inf>Ti<ce:inf loc="post">1.5</ce:inf> melt-spun ribbon shows diffraction peaks of the Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> phase. The existence of a fairly broad halo-like peak at 2<ce:italic>θ</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>30–50° is also noted in the XRD pattern. The broad halo-like peak is a characteristic of an amorphous material. This indicates that the Nd<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">27.5</ce:inf>Ti<ce:inf loc="post">1.5</ce:inf> melt-spun ribbon contains the amorphous phase together with the Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> phase. The high cooling rate attained by melt-spinning results in the formation of the amorphous phase, as has also been reported for Nd–Fe–B melt-spun ribbons <ce:cross-ref refid="bib11">[11]</ce:cross-ref>. The diffraction peaks of the Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> phase become smaller and broader as the Ti content of the Nd–Fe–Ti melt-spun ribbon increases. This indicates that the amount of amorphous phase in the Nd–Fe–Ti melt-spun ribbon increases with increasing Ti content. A further increase in the Ti content of the Nd–Fe–Ti melt-spun ribbon may lead to fully amorphous Nd–Fe–Ti melt-spun ribbon. However, such an increase in the Ti content would deteriorate the formation of the Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> phase, which is usually obtained in Nd–Fe–Ti alloys with a Ti content of 4–5<ce:hsp sp="0.25"></ce:hsp>at% <ce:cross-ref refid="bib8">[8]</ce:cross-ref>. Therefore, we selected Nd–Fe–Ti melt-spun ribbons with Ti contents ranging from Nd<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">27.5</ce:inf>Ti<ce:inf loc="post">1.5</ce:inf> (4.69<ce:hsp sp="0.25"></ce:hsp>at% Ti) to Nd<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">27</ce:inf>Ti<ce:inf loc="post">2</ce:inf> (6.25<ce:hsp sp="0.25"></ce:hsp>at% Ti) for investigation in our experiments.</ce:para>
+<ce:para view="all">As far as we know, there have been no previous reports on the formation of the amorphous phase in Nd–Fe–Ti melt-spun ribbons. We therefore studied the magnetization of amorphous Nd–Fe–Ti melt-spun ribbons. <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor> shows the thermomagnetic curves of the Nd–Fe–Ti melt-spun ribbons. The thermomagnetic curve of the Nd<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">27.5</ce:inf>Ti<ce:inf loc="post">1.5</ce:inf> melt-spun ribbon shows two magnetic transitions at about 350 and 450<ce:hsp sp="0.25"></ce:hsp>K. The higher magnetic transition is the Curie temperature of the Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> phase. According to the results of the XRD studies, the Nd<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">27.5</ce:inf>Ti<ce:inf loc="post">1.5</ce:inf> melt-spun ribbon consisted of the Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> phase together with the amorphous phase. Thus, the lower magnetic transition is considered to be the Curie temperature of the amorphous phase. Virtually, the same thermomagnetic curves are obtained from the Nd<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">27.3</ce:inf>Ti<ce:inf loc="post">1.7</ce:inf> and Nd<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">27</ce:inf>Ti<ce:inf loc="post">2</ce:inf> melt-spun ribbons. A detailed inspection of the thermomagnetic curves reveals that the amount of Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> phase becomes smaller as the Ti content of the Nd–Fe–Ti melt-spun ribbon increases. This is consistent with the results of the XRD studies. The increase in magnetization at around 700<ce:hsp sp="0.25"></ce:hsp>K is believed to be due to crystallization from the amorphous Nd–Fe–Ti phase. The crystallized phase shows a magnetic transition at around 1050<ce:hsp sp="0.25"></ce:hsp>K, which corresponds to the Curie temperature of the α-Fe phase. XRD studies of the sample heated to 1073<ce:hsp sp="0.25"></ce:hsp>K during the thermomagnetic measurements confirmed that the sample consisted of the α-Fe phase together with the Nd<ce:inf loc="post">2</ce:inf>(Fe,Ti)<ce:inf loc="post">17</ce:inf> and Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> phases. This indicates that isochronal annealing results in the formation of the α-Fe and Nd<ce:inf loc="post">2</ce:inf>(Fe,Ti)<ce:inf loc="post">17</ce:inf> phases from the mixture of the Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> and amorphous phases.</ce:para>
+<ce:para view="all">The single Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> phase has been obtained by isothermal annealing of the Nd–Fe–Ti alloy ingots at a high temperature of 1373<ce:hsp sp="0.25"></ce:hsp>K for a long period of 72–130<ce:hsp sp="0.25"></ce:hsp>h <ce:cross-refs refid="bib6 bib7">[6,7]</ce:cross-refs>. Thus, isothermal annealing of the Nd–Fe–Ti melt-spun ribbons was carried out to form melt-spun ribbons with the Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> phase. <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor> shows the XRD patterns of the Nd<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">27.5</ce:inf>Ti<ce:inf loc="post">1.5</ce:inf> melt-spun ribbons annealed at temperatures between 673 and 1173<ce:hsp sp="0.25"></ce:hsp>K for 1<ce:hsp sp="0.25"></ce:hsp>h. The XRD pattern of the melt-spun ribbon annealed at 673<ce:hsp sp="0.25"></ce:hsp>K shows small and somewhat broad diffraction peaks of the Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> and α-Fe phases. However, the halo-like peak is evident in the XRD pattern. This indicates that the melt-spun ribbon annealed at 673<ce:hsp sp="0.25"></ce:hsp>K consists of an amorphous phase together with small amounts of the Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> and α-Fe phases. The halo-like peak is still noticed in the XRD pattern of the melt-spun ribbon annealed at 773<ce:hsp sp="0.25"></ce:hsp>K. Besides the diffraction peaks of the Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> and α-Fe phases, diffraction peaks of the Nd<ce:inf loc="post">2</ce:inf>(Fe,Ti)<ce:inf loc="post">17</ce:inf> phase are also found in the XRD pattern. Because of the primary crystallization of the α-Fe phase from the amorphous phase, the residual amorphous phase was enriched in Nd and Ti. This is why the Nd<ce:inf loc="post">2</ce:inf>(Fe,Ti)<ce:inf loc="post">17</ce:inf> phase, which is poorer in iron content than Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> phase, crystallized from the iron-poor amorphous phase. Evaluation of the respective amounts of Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> and Nd<ce:inf loc="post">2</ce:inf>(Fe,Ti)<ce:inf loc="post">17</ce:inf> phases is difficult due to the overlapping diffraction peaks. However, the Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> phase forms from the α-Fe and Nd<ce:inf loc="post">2</ce:inf>(Fe,Ti)<ce:inf loc="post">17</ce:inf> phases at a higher annealing temperature. Thus, the amount of Nd<ce:inf loc="post">2</ce:inf>(Fe,Ti)<ce:inf loc="post">17</ce:inf> phase can be estimated from the amount of α-Fe phase in the melt-spun ribbon. The diffraction peak of the α-Fe phase becomes larger until the amorphous phase diminishes at 873<ce:hsp sp="0.25"></ce:hsp>K. A further increase in the annealing temperature results in an increase in the amount of Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> phase and in a significant decrease in the amount of α-Fe phase. No noticeable diffraction peak of the α-Fe phase is found in the XRD pattern of the melt-spun ribbon annealed at 1173<ce:hsp sp="0.25"></ce:hsp>K. Although crystallization of the iron-rich Nd(Fe,Ti)<ce:inf loc="post">12</ce:inf> phase from the iron-poor amorphous phase is difficult, the Nd(Fe,Ti)<ce:inf loc="post">12</ce:inf> phase may form during high-temperature annealing. Identification of the diffraction peaks of the Nd(Fe,Ti)<ce:inf loc="post">12</ce:inf> phase is very difficult, however, because most of the diffraction peaks overlap those of the Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> phases. No clear non-overlapping peak of the Nd(Fe,Ti)<ce:inf loc="post">12</ce:inf> phase was found in the XRD pattern, suggesting that the amount of the Nd(Fe,Ti)<ce:inf loc="post">12</ce:inf> phase is negligible. Virtually, the same XRD patterns were obtained from the annealed Nd<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">27.3</ce:inf>Ti<ce:inf loc="post">1.7</ce:inf> and Nd<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">27</ce:inf>Ti<ce:inf loc="post">2</ce:inf> melt-spun ribbons. This indicates that the small difference in the Ti content of the Nd–Fe–Ti melt-spun ribbons, that is, the small difference in the amount of amorphous phase in the Nd–Fe–Ti melt-spun ribbons, does not alter the formation of the crystalline phase from the amorphous structure. The thermomagnetic curve of the Nd<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">27.5</ce:inf>Ti<ce:inf loc="post">1.5</ce:inf> melt-spun ribbon annealed at 1173<ce:hsp sp="0.25"></ce:hsp>K showed a single magnetic transition at 450<ce:hsp sp="0.25"></ce:hsp>K, confirming that the annealed Nd<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">27.5</ce:inf>Ti<ce:inf loc="post">1.5</ce:inf> melt-spun ribbon consists of the Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> phase.</ce:para>
+<ce:para view="all">The magnetic properties of the annealed Nd<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">29−<ce:italic>x</ce:italic>
+</ce:inf>Ti<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf> (<ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1.5–2.0) melt-spun ribbons were measured. Similar trends, that is, virtually the same saturation magnetization and coercivity values, were observed in the annealed Nd<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">29−<ce:italic>x</ce:italic>
+</ce:inf>Ti<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf> (<ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1.5–2.0) melt-spun ribbons. Thus, only the magnetic properties of the annealed Nd<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">27.5</ce:inf>Ti<ce:inf loc="post">1.5</ce:inf> melt-spun ribbons are shown here. <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor> shows the dependence of the saturation magnetization and coercivity on the annealing temperature of the Nd<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">27.5</ce:inf>Ti<ce:inf loc="post">1.5</ce:inf> melt-spun ribbons. The coercivity of the melt-spun ribbon annealed at 673<ce:hsp sp="0.25"></ce:hsp>K remains as low as that of the as-melt-spun ribbon, but increases to a peak value of 50<ce:hsp sp="0.25"></ce:hsp>kA<ce:hsp sp="0.25"></ce:hsp>m<ce:sup loc="post">−1</ce:sup> and then decreases as the annealing temperature increases. The highest coercivity of 50<ce:hsp sp="0.25"></ce:hsp>kA<ce:hsp sp="0.25"></ce:hsp>m<ce:sup loc="post">−1</ce:sup> is seen at 873<ce:hsp sp="0.25"></ce:hsp>K, where the melt-spun ribbon consists of a mixture of the α-Fe, Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> and Nd<ce:inf loc="post">2</ce:inf>(Fe,Ti)<ce:inf loc="post">17</ce:inf> phases. Since the α-Fe and Nd<ce:inf loc="post">2</ce:inf>(Fe,Ti)<ce:inf loc="post">17</ce:inf> phases are soft magnetic phases, the Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> phase is believed to be the origin of the coercivity. This would confirm that the Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> phase is the hard magnetic phase. The melt-spun ribbon with the Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> phase, obtained by annealing at 1173<ce:hsp sp="0.25"></ce:hsp>K, shows a lower coercivity than that with a mixture of the α-Fe, Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> and Nd<ce:inf loc="post">2</ce:inf>(Fe,Ti)<ce:inf loc="post">17</ce:inf> phases, where the crystallite size of the Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> phase is relatively small. This implies that the coercivity of the Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> phase is dependent on the crystallite size, as is the case for the hard magnetic Nd<ce:inf loc="post">2</ce:inf>Fe<ce:inf loc="post">14</ce:inf>B phase of Nd–Fe–B alloys <ce:cross-ref refid="bib12">[12]</ce:cross-ref>. The saturation magnetization increases from 90<ce:hsp sp="0.25"></ce:hsp>Am<ce:sup loc="post">2</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>kg<ce:sup loc="post">−1</ce:sup> at 673<ce:hsp sp="0.25"></ce:hsp>K to 180<ce:hsp sp="0.25"></ce:hsp>Am<ce:sup loc="post">2</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>kg<ce:sup loc="post">−1</ce:sup>at 873<ce:hsp sp="0.25"></ce:hsp>K and then decreases as the annealing temperature increases further to a value of 120<ce:hsp sp="0.25"></ce:hsp>Am<ce:sup loc="post">2</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>kg<ce:sup loc="post">−1</ce:sup>at 1173<ce:hsp sp="0.25"></ce:hsp>K. According to the results of the XRD studies, the existence of the α-Fe phase with a high saturation magnetization gives rise to the observed higher saturation magnetization of the melt-spun ribbons annealed at 773 and 873<ce:hsp sp="0.25"></ce:hsp>K. The saturation magnetization of the melt-spun ribbon annealed at 1173<ce:hsp sp="0.25"></ce:hsp>K, which consists of the Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> phase, is found to be 120<ce:hsp sp="0.25"></ce:hsp>Am<ce:sup loc="post">2</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>kg<ce:sup loc="post">−1</ce:sup>. This value is slightly smaller than the previously reported value of 139.6<ce:hsp sp="0.25"></ce:hsp>Am<ce:sup loc="post">2</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>kg<ce:sup loc="post">−1</ce:sup>
+<ce:cross-ref refid="bib5">[5]</ce:cross-ref>. The annealed Nd<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">27.3</ce:inf>Ti<ce:inf loc="post">1.7</ce:inf> and Nd<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">27.0</ce:inf>Ti<ce:inf loc="post">2.0</ce:inf> melt-spun ribbons with the Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> phase also exhibit the same saturation magnetization as the Nd<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">27.5</ce:inf>Ti<ce:inf loc="post">1.5</ce:inf> melt-spun ribbon. This confirms that the saturation magnetization of the Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> phase is 120<ce:hsp sp="0.25"></ce:hsp>Am<ce:sup loc="post">2</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>kg<ce:sup loc="post">−1</ce:sup> at room temperature.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">Nd<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">29−<ce:italic>x</ce:italic>
+</ce:inf>Ti<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf> (<ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1.5–2.0) alloys with the Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> and amorphous phases were produced by the melt-spinning technique. XRD studies and magnetic measurements revealed that the amount of amorphous phase in the melt-spun ribbons increased as the Ti content increased. The Curie temperature of the amorphous phase was found to be 350<ce:hsp sp="0.25"></ce:hsp>K. Although the melt-spun ribbon annealed at relatively lower temperatures contained some α-Fe and Nd<ce:inf loc="post">2</ce:inf>(Fe,Ti)<ce:inf loc="post">17</ce:inf> phases besides the Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> phase, the melt-spun ribbon annealed at 1173<ce:hsp sp="0.25"></ce:hsp>K for 1<ce:hsp sp="0.25"></ce:hsp>h consisted of the single Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> phase. Regardless of their Ti content, the saturation magnetization of the annealed melt-spun Nd<ce:inf loc="post">3</ce:inf>Fe<ce:inf loc="post">29−<ce:italic>x</ce:italic>
+</ce:inf>Ti<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf> (<ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1.5–2.0) melt-spun ribbons with the single Nd<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> phase was 120<ce:hsp sp="0.25"></ce:hsp>Am<ce:sup loc="post">2</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>kg<ce:sup loc="post">−1</ce:sup> at room temperature.</ce:para>
+</ce:section>
+</ce:sections>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Sagawa</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Fujimura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Togawa</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Yamamoto</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Matsuura</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Appl. Phys.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>55</sb:volume-nr>
+</sb:series>
+<sb:date>1984</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2083</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.M.D.</ce:given-name>
+<ce:surname>Coey</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Sun</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Magn. Magn. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>87</sb:volume-nr>
+</sb:series>
+<sb:date>1990</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>L251</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.M.</ce:given-name>
+<ce:surname>Cadogan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.S.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.L.</ce:given-name>
+<ce:surname>Davis</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Margarian</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.J.</ce:given-name>
+<ce:surname>Collocott</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.B.</ce:given-name>
+<ce:surname>Dunlop</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.B.</ce:given-name>
+<ce:surname>Gwan</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Appl. Phys.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>75</sb:volume-nr>
+</sb:series>
+<sb:date>1994</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>7114</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Hu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.B.</ce:given-name>
+<ce:surname>Yelon</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Solid State Commun.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>91</sb:volume-nr>
+</sb:series>
+<sb:date>1994</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>223</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>O.</ce:given-name>
+<ce:surname>Kalogirou</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.</ce:given-name>
+<ce:surname>Psycharis</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Saettas</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Niarchos</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Magn. Magn. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>146</sb:volume-nr>
+</sb:series>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>335</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.S.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.M.</ce:given-name>
+<ce:surname>Cadogan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.L.</ce:given-name>
+<ce:surname>Davis</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Margarian</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.B.</ce:given-name>
+<ce:surname>Dunlop</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Solid State Commun.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>90</sb:volume-nr>
+</sb:series>
+<sb:date>1994</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>487</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>V.</ce:given-name>
+<ce:surname>Psycharis</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>O.</ce:given-name>
+<ce:surname>Kalogirou</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Niarchos</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Gjoka</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>234</sb:volume-nr>
+</sb:series>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>62</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.M.</ce:given-name>
+<ce:surname>Cadogan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.S.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Margarian</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.B.</ce:given-name>
+<ce:surname>Dunlop</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.H.</ce:given-name>
+<ce:surname>Ryan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.J.</ce:given-name>
+<ce:surname>Collocott</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.L.</ce:given-name>
+<ce:surname>Davis</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Appl. Phys.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>76</sb:volume-nr>
+</sb:series>
+<sb:date>1994</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>6318</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>L.X.</ce:given-name>
+<ce:surname>Liao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Altounian</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Appl. Phys.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>66</sb:volume-nr>
+</sb:series>
+<sb:date>1989</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>768</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Wecker</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Schultz</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Appl. Phys.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>62</sb:volume-nr>
+</sb:series>
+<sb:date>1987</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>990</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Ozawa</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Saito</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Motegi</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>363</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>263</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.E.</ce:given-name>
+<ce:surname>Carr</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.A.</ce:given-name>
+<ce:surname>Davies</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.A.</ce:given-name>
+<ce:surname>Buckley</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>99</sb:volume-nr>
+</sb:series>
+<sb:date>1988</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>147</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

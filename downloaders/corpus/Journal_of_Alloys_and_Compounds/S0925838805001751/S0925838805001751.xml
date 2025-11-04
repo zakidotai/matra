@@ -1,0 +1,1419 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838805001751</prism:url><dc:identifier>doi:10.1016/j.jallcom.2005.02.035</dc:identifier><eid>1-s2.0-S0925838805001751</eid><prism:doi>10.1016/j.jallcom.2005.02.035</prism:doi><pii>S0925-8388(05)00175-1</pii><dc:title>Hydriding/dehydriding properties of nanocrystalline Mg87Ni3Al3M7 (M=Ti, Mn, Ce, La) alloys prepared by ball milling </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>398</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>139</prism:startingpage><prism:endingpage>144</prism:endingpage><prism:pagerange>139-144</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2005-08-02</prism:coverdate><prism:coverdisplaydate>2 August 2005</prism:coverdisplaydate><prism:copyright>Copyright © 2004 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Spassov, T.</dc:creator><dc:creator>Rangelova, V.</dc:creator><dc:creator>Solsona, P.</dc:creator><dc:creator>Baró, M.D.</dc:creator><dc:creator>Zander, D.</dc:creator><dc:creator>Köster, U.</dc:creator><dc:description>
+                  Nanocrystalline Mg87Ni3Al3M7 (M=Ti, Mn, Mm; Mm=Ce, La-rich mischmetal) hydrides were synthesized by reactive mechanical milling (RMM) in hydrogen atmosphere. Different degrees of the alloys hydrogenation were achieved varying the time of milling at a hydrogen pressure of 5atm. The influence of the alloying elements (Ti, Mn, Mm) on the amount of the hydrides formed during RMM as well as on the temperature and enthalpy of hydrogen desorption was determined. The amount of hydride formed during RMM was found to be almost the same in the three alloys (∼35wt.%); for the Ti containing alloy it was slightly higher. The Ti containing alloy reveals the lowest temperature of hydrogen desorption (∼210°C) and the hydride in the alloy with Mn decomposes at the highest temperature (∼240°C) among the three alloys studied. The enthalpy of H-desorption is highest for the sample alloyed with Mm (Ce, La), 70–72kJ/mol; the Ti and Mn containing magnesium alloys have similar enthalpies of hydride decomposition, 56–60kJ/mol. The alloys studied reveal higher equilibrium pressures of hydrogen absorption compared to nanocrystalline magnesium, indicating some thermodynamic destabilization of the hydride as a result of the alloying. Hydrogen absorption kinetics were studied at isothermal conditions at different temperatures and an influence of the alloying element was observed. The hydrogen absorption in the Ti containing alloy is substantially faster than in the alloys with Mn and Mm.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Magnesium alloys</dcterms:subject><dcterms:subject>Nanocrystalline</dcterms:subject><dcterms:subject>Reactive mechanical milling</dcterms:subject><dcterms:subject>Hydriding/dehydriding</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838805001751" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838805001751" rel="scidir"/></coredata><objects><object category="standard" height="230" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="7875" type="IMAGE-DOWNSAMPLED" width="293">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805001751-gr2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="2025" type="IMAGE-THUMBNAIL" width="119">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805001751-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="7" mimetype="image/gif" multimediatype="GIF image file" ref="fx1" size="103" type="IMAGE-DOWNSAMPLED" width="7">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805001751-fx1.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="63" mimetype="image/gif" multimediatype="GIF image file" ref="fx1" size="280" type="IMAGE-THUMBNAIL" width="67">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805001751-fx1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="496" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="9673" type="IMAGE-DOWNSAMPLED" width="303">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805001751-gr6.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="943" type="IMAGE-THUMBNAIL" width="57">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805001751-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="235" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="5093" type="IMAGE-DOWNSAMPLED" width="298">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805001751-gr7.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="1380" type="IMAGE-THUMBNAIL" width="119">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805001751-gr7.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="237" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="4352" type="IMAGE-DOWNSAMPLED" width="301">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805001751-gr4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="1230" type="IMAGE-THUMBNAIL" width="118">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805001751-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="231" mimetype="image/gif" multimediatype="GIF image file" ref="gr8" size="3565" type="IMAGE-DOWNSAMPLED" width="298">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805001751-gr8.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr8" size="1062" type="IMAGE-THUMBNAIL" width="120">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805001751-gr8.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="239" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="5045" type="IMAGE-DOWNSAMPLED" width="300">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805001751-gr5.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="1357" type="IMAGE-THUMBNAIL" width="117">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805001751-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="231" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="4122" type="IMAGE-DOWNSAMPLED" width="298">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805001751-gr3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="1194" type="IMAGE-THUMBNAIL" width="120">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805001751-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="614" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="96373" type="IMAGE-DOWNSAMPLED" width="374">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805001751-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="2325" type="IMAGE-THUMBNAIL" width="57">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805001751-gr1.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>27444437269</scopus-id><scopus-eid>2-s2.0-27444437269</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/27444437269" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20050324">2005-03-24</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20050324">2005-03-24</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-04-17T10:08:11</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838805001751</xocs:eid>
+<xocs:pii-formatted>S0925-8388(05)00175-1</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805001751</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2005.02.035</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838805X02407</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20200228">2020-02-28T18:03:45.104192Z</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20050802</xocs:date-search-begin>
+<xocs:year-nav>2005</xocs:year-nav>
+<xocs:indexeddate epoch="1111622400">2005-03-24T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>398</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>398</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 398, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>26</xocs:sort-order>
+<xocs:first-fp>139</xocs:first-fp>
+<xocs:last-lp>144</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>139</xocs:first-page>
+<xocs:last-page>144</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20050802</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>2 August 2005</xocs:cover-date-text>
+<xocs:cover-date-start>2005-08-02</xocs:cover-date-start>
+<xocs:cover-date-year>2005</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Metallurgy</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2004 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>HYDRIDINGDEHYDRIDINGPROPERTIESNANOCRYSTALLINEMG87NI3AL3M7MTIMNCELAALLOYSPREPAREDBYBALLMILLING</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>SPASSOV</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>T</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Morphology and microstructure of the as-milled alloys</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Thermal behavior of the as-milled alloys</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Kinetics of the alloys hydriding</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>LIANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>295</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>LIANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>247</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>HUOT</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>319</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>OELERICH</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>237</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>LIANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>286</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>HONG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>584</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>LIANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>239</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>KLASSEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>603</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>243</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>DELCHEV</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>98</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>SPASSOV</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>243</xocs:ref-first-fp>
+<xocs:ref-last-lp>250</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>SPASSOV</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>794</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13">
+<xocs:ref-normalized-surname>LUTTEROTTI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>101</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>SOLSONA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>66</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15">
+<xocs:ref-normalized-surname>LIANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>123</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib16">
+<xocs:ref-normalized-surname>LIANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>1179</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib17"></xocs:ref-info>
+<xocs:ref-info refid="bib18">
+<xocs:ref-normalized-surname>BARKHORDARIAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>213</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib19">
+<xocs:ref-normalized-surname>BARKHORDARIAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>242</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>SPASSOVX2005X139</xocs:refkey3>
+<xocs:refkey4lp>SPASSOVX2005X139X144</xocs:refkey4lp>
+<xocs:refkey4ai>SPASSOVX2005X139XT</xocs:refkey4ai>
+<xocs:refkey5>SPASSOVX2005X139X144XT</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:funding-list has-funding-info="1">
+<xocs:funding-addon-generated-timestamp>2020-02-23T18:03:33.207Z</xocs:funding-addon-generated-timestamp>
+<xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/nlp</xocs:funding-addon-type>
+<xocs:funding-source-document source-document-type="pii">S0925838805001751</xocs:funding-source-document>
+<xocs:funding>
+<xocs:funding-agency-matched-string>EU</xocs:funding-agency-matched-string>
+<xocs:funding-id>HPRN-CT-2002-00208</xocs:funding-id>
+<xocs:funding-agency-acronym>EC</xocs:funding-agency-acronym>
+<xocs:funding-agency>European Commission</xocs:funding-agency>
+<xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100000780</xocs:funding-agency-id>
+<xocs:funding-agency-country>http://sws.geonames.org/6695072/</xocs:funding-agency-country>
+</xocs:funding>
+<xocs:funding>
+<xocs:funding-agency-matched-string>Alexander von Humboldt Foundation</xocs:funding-agency-matched-string>
+<xocs:funding-agency>Alexander von Humboldt-Stiftung</xocs:funding-agency>
+<xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/100005156</xocs:funding-agency-id>
+<xocs:funding-agency-country>http://sws.geonames.org/2921044/</xocs:funding-agency-country>
+</xocs:funding>
+<xocs:funding-text>T.S. thanks the Alexander von Humboldt Foundation (Germany) for a grant and for the JEOL 5510 SEM donation. The work has been supported by the EU HPRN-CT-2002-00208.  </xocs:funding-text>
+</xocs:funding-list>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(05)00175-1</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805001751</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838805001751</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2005.02.035</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-10T16:23:09.885284-04:00</xocs:timestamp>
+<xocs:cover-date-start>2005-08-02</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838805001751-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805001751/MAIN/application/pdf/6aa3348b5f4d55bc05429429a44973f6/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805001751/MAIN/application/pdf/6aa3348b5f4d55bc05429429a44973f6/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>221542</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838805001751-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805001751/PREVIEW/image/png/b159cdd67c6162d304e7f1bf716c68a6/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805001751/PREVIEW/image/png/b159cdd67c6162d304e7f1bf716c68a6/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>65342</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805001751-gr2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805001751/gr2/DOWNSAMPLED/image/gif/a98e6254c0d06960d93b6c1a382653c0/gr2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805001751/gr2/DOWNSAMPLED/image/gif/a98e6254c0d06960d93b6c1a382653c0/gr2.gif</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>7875</xocs:filesize>
+<xocs:pixel-height>230</xocs:pixel-height>
+<xocs:pixel-width>293</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805001751-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805001751/gr2/THUMBNAIL/image/gif/b3fdc0387109d62ab2d89428363eb953/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805001751/gr2/THUMBNAIL/image/gif/b3fdc0387109d62ab2d89428363eb953/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2025</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>119</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805001751-fx1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805001751/fx1/DOWNSAMPLED/image/gif/dd40fbd3e7124b640745ebc7b80b30bf/fx1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805001751/fx1/DOWNSAMPLED/image/gif/dd40fbd3e7124b640745ebc7b80b30bf/fx1.gif</xocs:ucs-locator>
+<xocs:file-basename>fx1</xocs:file-basename>
+<xocs:filename>fx1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>103</xocs:filesize>
+<xocs:pixel-height>7</xocs:pixel-height>
+<xocs:pixel-width>7</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805001751-fx1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805001751/fx1/THUMBNAIL/image/gif/dfc56f0391c20ee039f1c7e549677c02/fx1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805001751/fx1/THUMBNAIL/image/gif/dfc56f0391c20ee039f1c7e549677c02/fx1.sml</xocs:ucs-locator>
+<xocs:file-basename>fx1</xocs:file-basename>
+<xocs:filename>fx1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>280</xocs:filesize>
+<xocs:pixel-height>63</xocs:pixel-height>
+<xocs:pixel-width>67</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805001751-gr6.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805001751/gr6/DOWNSAMPLED/image/gif/bdb0e6de58ca7b8fe99a0a5f200efe68/gr6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805001751/gr6/DOWNSAMPLED/image/gif/bdb0e6de58ca7b8fe99a0a5f200efe68/gr6.gif</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>9673</xocs:filesize>
+<xocs:pixel-height>496</xocs:pixel-height>
+<xocs:pixel-width>303</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805001751-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805001751/gr6/THUMBNAIL/image/gif/9b745cd79da9ec5fd25dbd6c96f5895a/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805001751/gr6/THUMBNAIL/image/gif/9b745cd79da9ec5fd25dbd6c96f5895a/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>943</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>57</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805001751-gr7.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805001751/gr7/DOWNSAMPLED/image/gif/f6b145ee02eb296d8c9907f29e34bf16/gr7.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805001751/gr7/DOWNSAMPLED/image/gif/f6b145ee02eb296d8c9907f29e34bf16/gr7.gif</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>5093</xocs:filesize>
+<xocs:pixel-height>235</xocs:pixel-height>
+<xocs:pixel-width>298</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805001751-gr7.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805001751/gr7/THUMBNAIL/image/gif/be99941bb6cd9bc989840dbce154b45d/gr7.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805001751/gr7/THUMBNAIL/image/gif/be99941bb6cd9bc989840dbce154b45d/gr7.sml</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1380</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>119</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805001751-gr4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805001751/gr4/DOWNSAMPLED/image/gif/46cf389058952fe1da38b01d7b9e7937/gr4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805001751/gr4/DOWNSAMPLED/image/gif/46cf389058952fe1da38b01d7b9e7937/gr4.gif</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>4352</xocs:filesize>
+<xocs:pixel-height>237</xocs:pixel-height>
+<xocs:pixel-width>301</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805001751-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805001751/gr4/THUMBNAIL/image/gif/e08105378f07d59480612266f9d5d84c/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805001751/gr4/THUMBNAIL/image/gif/e08105378f07d59480612266f9d5d84c/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1230</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>118</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805001751-gr8.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805001751/gr8/DOWNSAMPLED/image/gif/43ee684b971c39d4f816f74481246e38/gr8.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805001751/gr8/DOWNSAMPLED/image/gif/43ee684b971c39d4f816f74481246e38/gr8.gif</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>3565</xocs:filesize>
+<xocs:pixel-height>231</xocs:pixel-height>
+<xocs:pixel-width>298</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805001751-gr8.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805001751/gr8/THUMBNAIL/image/gif/0792d6050526c9be45a5785a13967794/gr8.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805001751/gr8/THUMBNAIL/image/gif/0792d6050526c9be45a5785a13967794/gr8.sml</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1062</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>120</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805001751-gr5.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805001751/gr5/DOWNSAMPLED/image/gif/05c508b8897809280ddc575e148cfb19/gr5.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805001751/gr5/DOWNSAMPLED/image/gif/05c508b8897809280ddc575e148cfb19/gr5.gif</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>5045</xocs:filesize>
+<xocs:pixel-height>239</xocs:pixel-height>
+<xocs:pixel-width>300</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805001751-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805001751/gr5/THUMBNAIL/image/gif/e72efed30f21f89c4a49cd5d4c333cbc/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805001751/gr5/THUMBNAIL/image/gif/e72efed30f21f89c4a49cd5d4c333cbc/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1357</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>117</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805001751-gr3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805001751/gr3/DOWNSAMPLED/image/gif/79d5adf86c494d36d62b40854bbd4b79/gr3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805001751/gr3/DOWNSAMPLED/image/gif/79d5adf86c494d36d62b40854bbd4b79/gr3.gif</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>4122</xocs:filesize>
+<xocs:pixel-height>231</xocs:pixel-height>
+<xocs:pixel-width>298</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805001751-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805001751/gr3/THUMBNAIL/image/gif/6670c6cb5ecdc1a0f25b7086ec1cb95b/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805001751/gr3/THUMBNAIL/image/gif/6670c6cb5ecdc1a0f25b7086ec1cb95b/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1194</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>120</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805001751-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805001751/gr1/DOWNSAMPLED/image/jpeg/4afb1ef9b6d45bedcb3212b82fa4d7a0/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805001751/gr1/DOWNSAMPLED/image/jpeg/4afb1ef9b6d45bedcb3212b82fa4d7a0/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>96373</xocs:filesize>
+<xocs:pixel-height>614</xocs:pixel-height>
+<xocs:pixel-width>374</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805001751-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805001751/gr1/THUMBNAIL/image/gif/850acb9db83495ddc58f94800a992edc/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805001751/gr1/THUMBNAIL/image/gif/850acb9db83495ddc58f94800a992edc/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2325</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>57</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>12062</aid>
+<ce:pii>S0925-8388(05)00175-1</ce:pii>
+<ce:doi>10.1016/j.jallcom.2005.02.035</ce:doi>
+<ce:copyright type="full-transfer" year="2004">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">SEM photographs of the as-milled material (a) and of an agglomerate (b).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRD patterns after different times of milling of Mg(87<ce:hsp sp="0.25"></ce:hsp>at.%)–Al(3<ce:hsp sp="0.25"></ce:hsp>at.%)–Ni(3<ce:hsp sp="0.25"></ce:hsp>at.%)–Mn(7<ce:hsp sp="0.25"></ce:hsp>at.%) under hydrogen atmosphere.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Thermogravimetric curves of the as-milled alloys (after RMM in hydrogen atmosphere for 15<ce:hsp sp="0.25"></ce:hsp>h).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Amount of hydride formed by RMM under hydrogen atmosphere as a function of milling time for Mg<ce:inf loc="post">87</ce:inf>Ni<ce:inf loc="post">3</ce:inf>Al<ce:inf loc="post">3</ce:inf>Mn<ce:inf loc="post">7</ce:inf> ((<ce:inline-figure baseline="0.0">
+<ce:link locator="fx1"></ce:link>
+</ce:inline-figure>) selected particle-size fraction &lt;20<ce:hsp sp="0.25"></ce:hsp>μm).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">DSC scans of the as-milled alloys (15<ce:hsp sp="0.25"></ce:hsp>h RMM).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">PCI of hydrogen absorption: (a) hydriding at 300<ce:hsp sp="0.25"></ce:hsp>°C (■) Mg<ce:inf loc="post">87</ce:inf>Ni<ce:inf loc="post">3</ce:inf>Al<ce:inf loc="post">3</ce:inf>Mn<ce:inf loc="post">7</ce:inf> (I cycle), (□) Mg<ce:inf loc="post">87</ce:inf>Ni<ce:inf loc="post">3</ce:inf>Al<ce:inf loc="post">3</ce:inf>Mn<ce:inf loc="post">7</ce:inf> (II cycle), (●) Mg<ce:inf loc="post">87</ce:inf>Ni<ce:inf loc="post">3</ce:inf>Al<ce:inf loc="post">3</ce:inf>Ti<ce:inf loc="post">7</ce:inf> (I cycle) and (▴) Mg<ce:inf loc="post">87</ce:inf>Ni<ce:inf loc="post">3</ce:inf>Al<ce:inf loc="post">3</ce:inf>Mm<ce:inf loc="post">7</ce:inf> (I cycle) and (b) hydriding/dehydriding of Mg<ce:inf loc="post">87</ce:inf>Ni<ce:inf loc="post">3</ce:inf>Al<ce:inf loc="post">3</ce:inf>Mn<ce:inf loc="post">7</ce:inf> (I cycle).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+<ce:figure id="fig7">
+<ce:label>Fig. 7</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Isothermal kinetics of hydrogen absorption.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr7"></ce:link>
+</ce:figure>
+<ce:figure id="fig8">
+<ce:label>Fig. 8</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Isothermal kinetics of hydrogen absorption for Mg<ce:inf loc="post">87</ce:inf>Ni<ce:inf loc="post">3</ce:inf>Al<ce:inf loc="post">3</ce:inf>Ti<ce:inf loc="post">7</ce:inf> at two different temperatures.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr8"></ce:link>
+</ce:figure>
+</ce:floats>
+<ce:title>Hydriding/dehydriding properties of nanocrystalline Mg<ce:inf loc="post">87</ce:inf>Ni<ce:inf loc="post">3</ce:inf>Al<ce:inf loc="post">3</ce:inf>M<ce:inf loc="post">7</ce:inf> (M<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>Ti, Mn, Ce, La) alloys prepared by ball milling</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Spassov</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="aff3">
+<ce:sup loc="post">c</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="cor1">*</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>V.</ce:given-name>
+<ce:surname>Rangelova</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Solsona</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>M.D.</ce:given-name>
+<ce:surname>Baró</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Zander</ce:surname>
+<ce:cross-ref refid="aff3">
+<ce:sup loc="post">c</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>U.</ce:given-name>
+<ce:surname>Köster</ce:surname>
+<ce:cross-ref refid="aff3">
+<ce:sup loc="post">c</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation id="aff1">
+<ce:label>a</ce:label>
+<ce:textfn>Department of Chemistry, University of Sofia “St. Kl. Ohridski”, 1 J. Bourchier Str., 1126 Sofia, Bulgaria</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff2">
+<ce:label>b</ce:label>
+<ce:textfn>Departament de Física, Facultat de Ciències, Universitat Autònoma de Barcelona, 08193 Bellaterra, Spain</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff3">
+<ce:label>c</ce:label>
+<ce:textfn>Department of Biochemical and Chemical Engineering, University of Dortmund, Dortmund, Germany</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>*</ce:label>
+<ce:text>Corresponding author.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="15" month="2" year="2005"></ce:date-received>
+<ce:date-accepted day="24" month="2" year="2005"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">Nanocrystalline Mg<ce:inf loc="post">87</ce:inf>Ni<ce:inf loc="post">3</ce:inf>Al<ce:inf loc="post">3</ce:inf>M<ce:inf loc="post">7</ce:inf> (M<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>Ti, Mn, Mm; Mm<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>Ce, La-rich mischmetal) hydrides were synthesized by reactive mechanical milling (RMM) in hydrogen atmosphere. Different degrees of the alloys hydrogenation were achieved varying the time of milling at a hydrogen pressure of 5<ce:hsp sp="0.25"></ce:hsp>atm. The influence of the alloying elements (Ti, Mn, Mm) on the amount of the hydrides formed during RMM as well as on the temperature and enthalpy of hydrogen desorption was determined. The amount of hydride formed during RMM was found to be almost the same in the three alloys (∼35<ce:hsp sp="0.25"></ce:hsp>wt.%); for the Ti containing alloy it was slightly higher. The Ti containing alloy reveals the lowest temperature of hydrogen desorption (∼210<ce:hsp sp="0.25"></ce:hsp>°C) and the hydride in the alloy with Mn decomposes at the highest temperature (∼240<ce:hsp sp="0.25"></ce:hsp>°C) among the three alloys studied. The enthalpy of H-desorption is highest for the sample alloyed with Mm (Ce, La), 70–72<ce:hsp sp="0.25"></ce:hsp>kJ/mol; the Ti and Mn containing magnesium alloys have similar enthalpies of hydride decomposition, 56–60<ce:hsp sp="0.25"></ce:hsp>kJ/mol. The alloys studied reveal higher equilibrium pressures of hydrogen absorption compared to nanocrystalline magnesium, indicating some thermodynamic destabilization of the hydride as a result of the alloying. Hydrogen absorption kinetics were studied at isothermal conditions at different temperatures and an influence of the alloying element was observed. The hydrogen absorption in the Ti containing alloy is substantially faster than in the alloys with Mn and Mm.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Magnesium alloys</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Nanocrystalline</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Reactive mechanical milling</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Hydriding/dehydriding</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">The interest to investigate magnesium and magnesium rich alloys for hydrogen storage is due to their high hydrogen storage capacity, light weight and low cost. Their relatively high hydrogen desorption temperature and enthalpy (high stability of the hydrides) and sluggish sorption kinetics are the main drawbacks of these materials. Although a number of studies are devoted to the thermodynamics and kinetics of hydriding/dehydriding in Mg-based alloys and composites still work is necessary to reduce the dehydriding temperature and enthalpy, while keeping a high hydrogen capacity.</ce:para>
+<ce:para view="all">Nanocrystalline Mg alloys prepared by ball milling (BM) or RMM possess good hydrogen sorption kinetics. Full hydriding/dehydriding at 300<ce:hsp sp="0.25"></ce:hsp>°C and moderate pressure can be achieved after several minutes. The H-sorption kinetics of nanocrystalline Mg have been further enhanced by adding different catalysts, e.g. Nb, Nb<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">5</ce:inf>
+<ce:cross-refs refid="bib1 bib2 bib3 bib4">[1–4]</ce:cross-refs>. Alloying magnesium with elements like Ti, Zr, Mn, Al, Mm and V improves the thermodynamics and kinetics of the hydriding/dehydriding process. Addition of e.g. Ti destabilizes the Mg<ce:inf loc="post">2</ce:inf>Ni-based hydrides <ce:cross-ref refid="bib5">[5]</ce:cross-ref> and improves the H-capacity, plateau pressure and hydriding kinetics <ce:cross-ref refid="bib6">[6]</ce:cross-ref>. Vanadium suppresses the formation of Mg(OH)<ce:inf loc="post">2</ce:inf> on the magnesium alloy surface and in this way improves the H-sorption kinetics <ce:cross-ref refid="bib7">[7]</ce:cross-ref>. Different transition metals have been added to Mg to achieve a thermodynamic destabilization of the hydride, thus lowering the desorption temperature <ce:cross-ref refid="bib8">[8]</ce:cross-ref>. Nanostructured Mg–FeTi<ce:inf loc="post">1.2</ce:inf> composite possesses a good combination of rapid H-absorption kinetics, high H-capacity, low working temperature and superior oxidation resistance <ce:cross-ref refid="bib9">[9]</ce:cross-ref>.</ce:para>
+<ce:para view="all">Recent studies on hydriding/dehydriding of Mg<ce:inf loc="post">87</ce:inf>Al<ce:inf loc="post">7</ce:inf>Ni<ce:inf loc="post">3</ce:inf>Mn<ce:inf loc="post">3</ce:inf>, prepared by RMM, showed a low temperature of hydride (MgH<ce:inf loc="post">2</ce:inf>) decomposition (230<ce:hsp sp="0.25"></ce:hsp>°C), relatively low enthalpy of H-desorption (55<ce:hsp sp="0.25"></ce:hsp>kJ/mol) and good dehydriding kinetics <ce:cross-ref refid="bib10">[10]</ce:cross-ref>. In addition an influence of the particle and grain size on the first dehydriding reaction was observed and a critical thickness of about 2<ce:hsp sp="0.25"></ce:hsp>μm of the impermeable hydride layer formed under the experimental conditions of RMM applied (∼5<ce:hsp sp="0.25"></ce:hsp>atm hydrogen pressure) was found <ce:cross-ref refid="bib10">[10]</ce:cross-ref>. Previous studies on the hydriding properties of rapidly quenched nanocrystalline and amorphous Mg alloys with similar composition (e.g. Mg<ce:inf loc="post">87</ce:inf>Ni<ce:inf loc="post">12</ce:inf>Y<ce:inf loc="post">1</ce:inf>) <ce:cross-refs refid="bib11 bib12">[11,12]</ce:cross-refs> showed a relatively low dehydriding temperature of 220<ce:hsp sp="0.25"></ce:hsp>°C as well, but slower kinetics of hydrogen absorption compared to other Mg–Ni rapidly quenched alloys <ce:cross-ref refid="bib12">[12]</ce:cross-ref>.</ce:para>
+<ce:para view="all">Due to the promising H-storage properties of Mg<ce:inf loc="post">87</ce:inf>Al<ce:inf loc="post">7</ce:inf>Ni<ce:inf loc="post">3</ce:inf>Mn<ce:inf loc="post">3</ce:inf>, obtained in our recent study <ce:cross-ref refid="bib10">[10]</ce:cross-ref>, in the present work the hydriding/dehydriding properties of nanocrystalline Mg<ce:inf loc="post">87</ce:inf>Ni<ce:inf loc="post">3</ce:inf>Al<ce:inf loc="post">3</ce:inf>M<ce:inf loc="post">7</ce:inf> (M<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>Ti, Mn, Ce, La) alloys, prepared by mechanical milling were investigated. In particular the influence of different alloying elements (Ti, Mn, Mm) and the nanostructure on the formation of MgH<ce:inf loc="post">2</ce:inf> during RMM under hydrogen atmosphere as well as on the thermodynamics and kinetics of hydriding/dehydriding of Mg<ce:inf loc="post">87</ce:inf>Ni<ce:inf loc="post">3</ce:inf>Al<ce:inf loc="post">3</ce:inf>M<ce:inf loc="post">7</ce:inf> was studied.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental</ce:section-title>
+<ce:para view="all">Elemental powders of pure magnesium, nickel, aluminum, manganese, titanium and La, Ce-rich mischmetal (Mm) have been used as starting materials. The ball milling was performed with a planetary ball mill (Fritsch P5) with rotation velocities of 300<ce:hsp sp="0.25"></ce:hsp>rpm, ball to powder mass ratio (<ce:italic>B</ce:italic>/<ce:italic>P</ce:italic>) of 15/1 under a hydrogen gas atmosphere of 5<ce:hsp sp="0.25"></ce:hsp>atm (reactive mechanical milling, RMM). The samples were handled in a glove box under argon atmosphere. Small amounts of the powder were taken from the mill at regular periods of time for morphological, structural and thermal analysis.</ce:para>
+<ce:para view="all">The morphology and the microstructure were analyzed by scanning electron microscopy (JEOL 5510 SEM) and X-ray diffraction (XRD) with Cu Kα radiation. For some of the alloys different particle size fractions were obtained by sieving the as-milled powders. The X-ray diffraction data were analyzed by a full pattern fitting procedure (Rietveld method) using the program MAUD <ce:cross-ref refid="bib13">[13]</ce:cross-ref>. As a result the lattice parameters, the amount of the different phases, the crystallite size and the internal strain were determined.</ce:para>
+<ce:para view="all">The thermal properties of the as-milled alloys were studied by thermogravimetry (TG) and differential scanning calorimetry (DSC) in argon as well as in hydrogen gas atmosphere, using Perkin-Elmer TGS-2 and Mettler differential scanning calorimeters. Pressure–composition isotherms (PCI) were measured by a Sieverts-type apparatus at different temperatures.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:section view="all">
+<ce:label>3.1</ce:label>
+<ce:section-title>Morphology and microstructure of the as-milled alloys</ce:section-title>
+<ce:para view="all">The as-milled under hydrogen atmosphere alloys were characterized with relatively narrow particle size distribution. The size of the particles depends strongly on the milling time. After 15–20<ce:hsp sp="0.25"></ce:hsp>h RMM the number of the small particles (&lt;5<ce:hsp sp="0.25"></ce:hsp>μm) substantially increases, although a small fraction of larger particles (5–20<ce:hsp sp="0.25"></ce:hsp>μm) still exists (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor>). In addition some agglomerations, composed of much smaller particles as well as very small particles (&lt;1<ce:hsp sp="0.25"></ce:hsp>μm) could also be seen (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>b). Although the three alloys studied reveal similar average particles size the alloy with Ti contains substantially larger amount of a much smaller particle-fraction of 100–500<ce:hsp sp="0.25"></ce:hsp>nm.</ce:para>
+<ce:para view="all">During RMM under hydrogen atmosphere of Mg (87<ce:hsp sp="0.25"></ce:hsp>at.%)–Al(3%)–Ni(3%)–M(7%), (M<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>Ti, Mn, Ce and La), the microstructure of the powders change continuously with the milling time. Typical phase composition and microstructure evolution as a function of the milling time is exemplary presented in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor> for the Mg<ce:inf loc="post">87</ce:inf>Ni<ce:inf loc="post">3</ce:inf>Al<ce:inf loc="post">3</ce:inf>Mn<ce:inf loc="post">7</ce:inf> alloy. From the XRD patterns in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>, using a full profile fitting procedure based on the Rietveld method, the grain size and the phase content were determined. The formation of β-MgH<ce:inf loc="post">2</ce:inf> was found to occur during milling for all alloys studied. With the time of milling the amount of the hydride increases and reaches an almost constant value of about 35–40<ce:hsp sp="0.25"></ce:hsp>wt.% after 15–20<ce:hsp sp="0.25"></ce:hsp>h. The main phases, obtained after 15<ce:hsp sp="0.25"></ce:hsp>h RMM, are MgH<ce:inf loc="post">2</ce:inf> (mainly β-MgH<ce:inf loc="post">2</ce:inf>, but also γ-MgH<ce:inf loc="post">2</ce:inf>), Mg, Mn, Ni; Al is dissolved into Mg. RMM for 15<ce:hsp sp="0.25"></ce:hsp>h leads to the formation of almost the same amount of MgH<ce:inf loc="post">2</ce:inf>, about 35<ce:hsp sp="0.25"></ce:hsp>wt.% (∼2.5<ce:hsp sp="0.25"></ce:hsp>wt.% hydrogen) for all alloys studied, as for the alloys with Ti and Mm it is only slightly larger (∼2.6<ce:hsp sp="0.25"></ce:hsp>wt.% hydrogen). A very thin layer (&lt;10<ce:hsp sp="0.25"></ce:hsp>nm) of MgO is also formed on the surface of the particles during RMM. At longer milling time (15–20<ce:hsp sp="0.25"></ce:hsp>h) the amount of the oxide reaches about 10–15<ce:hsp sp="0.25"></ce:hsp>wt.%. The alloys milled for 15<ce:hsp sp="0.25"></ce:hsp>h were nanocrystalline, with a mean grain size of about 7–10<ce:hsp sp="0.25"></ce:hsp>nm. The nanocrystal size does not change during subsequent milling.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.2</ce:label>
+<ce:section-title>Thermal behavior of the as-milled alloys</ce:section-title>
+<ce:para view="all">It was found by DSC and TG that thermal decomposition of the hydrides (mainly β-MgH<ce:inf loc="post">2</ce:inf>), formed during RMM, takes place at essentially lower temperatures (<ce:italic>T</ce:italic>
+<ce:inf loc="post">dec</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>210–240<ce:hsp sp="0.25"></ce:hsp>°C) compared to conventional polycrystalline MgH<ce:inf loc="post">2</ce:inf> (which decomposes at temperatures above 400<ce:hsp sp="0.25"></ce:hsp>°C) as well as to ball-milled nanocrystalline MgH<ce:inf loc="post">2</ce:inf> (about 300<ce:hsp sp="0.25"></ce:hsp>°C). Thermogravimetric analysis (TG), carried out in hydrogen atmosphere (1<ce:hsp sp="0.25"></ce:hsp>atm) (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor>), revealed that Mg<ce:inf loc="post">87</ce:inf>Ni<ce:inf loc="post">3</ce:inf>Al<ce:inf loc="post">3</ce:inf>Ti<ce:inf loc="post">7</ce:inf> alloy dehydrides at the lowest temperature (205–210<ce:hsp sp="0.25"></ce:hsp>°C) compared to the other two alloys studied. TG analysis in Ar atmosphere (1<ce:hsp sp="0.25"></ce:hsp>atm) confirmed the analysis in hydrogen atmosphere, as the hydrogen desorption temperatures determined are slightly lower, due to the higher driving force of the desorption process in Ar atmosphere. The small difference between the dehydriding temperatures obtained at high and small driving forces indicates that at the conditions of the thermal treatment applied in the present study the diffusion of hydrogen atoms is not the rate limiting process of the first dehydriding reaction. The substantially lowered temperature of hydride decomposition for the Mg<ce:inf loc="post">87</ce:inf>Ni<ce:inf loc="post">3</ce:inf>Al<ce:inf loc="post">3</ce:inf>M<ce:inf loc="post">7</ce:inf> is assumed to be due to the combined influence of alloying, the nanocrystallinity and the reduced particle size of the alloys. Further decrease of the dehydriding temperature with the increase of the hydride content in the alloys with more than 10° was detected by DSC, which has to be associated with the different thermodynamic stability of the hydride formed at the different stages of the RMM process. For hydride contents larger than 2.5<ce:hsp sp="0.25"></ce:hsp>wt.% the decomposition temperature is almost constant. During cycling the hydride decomposition temperature (<ce:italic>T</ce:italic>
+<ce:inf loc="post">dec</ce:inf>) does not change, which might indicate that some of the alloying elements (e.g. Al) remain dissolved in Mg after hydriding/dehydriding cycling.</ce:para>
+<ce:para view="all">The amount of hydrogen released during heating the as-milled samples was used to determine by an independent way the percentage of the hydrides formed by RMM. The results confirmed the values determined by the quantitative phase analysis of the XRD patterns. The increase of the hydride content as a function of the milling time is presented in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor> for the Mg<ce:inf loc="post">87</ce:inf>Ni<ce:inf loc="post">3</ce:inf>Al<ce:inf loc="post">3</ce:inf>Mn<ce:inf loc="post">7</ce:inf> alloy. It was proved that after an initial increase of the hydride amount with the time of milling under hydrogen atmosphere the amount of hydride reaches a value of about 35<ce:hsp sp="0.25"></ce:hsp>wt.% hydride for 15<ce:hsp sp="0.25"></ce:hsp>h of milling. It was observed that TG analysis of a particle-size fraction &lt;20<ce:hsp sp="0.25"></ce:hsp>μm, selected by sieving with 20<ce:hsp sp="0.25"></ce:hsp>μm sieve, revealed notably larger hydride amount compared to the unsieved powder, e.g. for 15<ce:hsp sp="0.25"></ce:hsp>h of milling the hydrogen released from the &lt;20<ce:hsp sp="0.25"></ce:hsp>μm fraction is 3.4<ce:hsp sp="0.25"></ce:hsp>wt.% corresponding to 2.5<ce:hsp sp="0.25"></ce:hsp>wt.% H for the unsieved material (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>). Further milling at these conditions leads to an increase of the hydride amount, but the rate of the hydride formation markedly decreases. This indicates the formation of a nearly impermeable hydride layer during RMM, which was estimated in a recent study to be about 2<ce:hsp sp="0.25"></ce:hsp>μm at similar conditions of RMM <ce:cross-ref refid="bib14">[14]</ce:cross-ref>. After 15<ce:hsp sp="0.25"></ce:hsp>h of RMM the amount of the MgO increases as well as traces of Mg<ce:inf loc="post">2</ce:inf>Ni are observed in the XRD patterns. The hydride evolution with the time of milling for the other two alloys studied is similar, as for the Ti-containing alloy the kinetics of hydride formation during RMM under hydrogen is a little bit faster.</ce:para>
+<ce:para view="all">DSC analysis reveals a similar temperature of MgH<ce:inf loc="post">2</ce:inf> decomposition compared to those determined by TG (<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="fig5"></ce:float-anchor>). The dehydriding of the alloys show a two peak endothermic effect. Whereas for the alloy with Mn the two peaks are separated, for the other two alloys they are overlapped. As it was already mentioned the presence of the low (β-MgH<ce:inf loc="post">2</ce:inf>) and high (γ-MgH<ce:inf loc="post">2</ce:inf>) temperature MgH<ce:inf loc="post">2</ce:inf> was detected in the three alloys by XRD, but the amount of the β-MgH<ce:inf loc="post">2</ce:inf> is essentially higher. Therefore, the two-peak endothermic effect cannot be explained only with the two MgH<ce:inf loc="post">2</ce:inf> phases formed during RMM and has to be further clarified. The enthalpy of dehydriding of the Mg alloys with different alloying elements was determined from the DSC curves. Assigning this enthalpy to the amount of the hydride in the alloys (determined by TG) the enthalpies of the hydride decomposition were obtained. The lowest value, 56<ce:hsp sp="0.25"></ce:hsp>kJ/mol H<ce:inf loc="post">2</ce:inf>, corresponds to dehydriding of Mg<ce:inf loc="post">87</ce:inf>Ni<ce:inf loc="post">3</ce:inf>Al<ce:inf loc="post">3</ce:inf>Mn<ce:inf loc="post">7</ce:inf>–H, which is substantially lower than the value for the pure MgH<ce:inf loc="post">2</ce:inf> (75<ce:hsp sp="0.25"></ce:hsp>kJ/mol H<ce:inf loc="post">2</ce:inf>) and is close to that determined recently for a similar alloy Mg<ce:inf loc="post">87</ce:inf>Ni<ce:inf loc="post">3</ce:inf>Al<ce:inf loc="post">7</ce:inf>Mn<ce:inf loc="post">3</ce:inf>
+<ce:cross-ref refid="bib10">[10]</ce:cross-ref>. The alloy with Mm shows the highest enthalpy of dehydriding, ∼70<ce:hsp sp="0.25"></ce:hsp>kJ/mol.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.3</ce:label>
+<ce:section-title>Kinetics of the alloys hydriding</ce:section-title>
+<ce:para view="all">The results on the hydrides thermal stability and the enthalpy of dehydriding of Mg<ce:inf loc="post">87</ce:inf>Ni<ce:inf loc="post">3</ce:inf>Al<ce:inf loc="post">3</ce:inf>M<ce:inf loc="post">7</ce:inf>–H (M<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>Ti, Mn, Ce, La) were accomplished with a volumetric study of the solid (metal/metal hydride)–gas (hydrogen) equilibrium during hydriding/dehydriding. Pressure–composition isotherms (PCI) at 300<ce:hsp sp="0.25"></ce:hsp>°C for the first hydriding/dehydriding of Mg<ce:inf loc="post">87</ce:inf>Ni<ce:inf loc="post">3</ce:inf>Al<ce:inf loc="post">3</ce:inf>M<ce:inf loc="post">7</ce:inf> alloys are presented in <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>a<ce:float-anchor refid="fig6"></ce:float-anchor>. Plateau regions, corresponding to the two-phase (α-Mg(H) and β-MgH<ce:inf loc="post">2</ce:inf>) coexistence, are observed for all alloys studied. The PCI curves for the alloys with Mn and Ti contain only one plateau, whereas the Mm containing powder shows two plateau regions, probably due to the formation of Ce and La hydrides (except MgH<ce:inf loc="post">2</ce:inf>) at higher hydrogen pressures. The equilibrium pressure of H-absorption for the Mg<ce:inf loc="post">87</ce:inf>Ni<ce:inf loc="post">3</ce:inf>Al<ce:inf loc="post">3</ce:inf>Ti<ce:inf loc="post">7</ce:inf> alloy is slightly higher than those for the other two alloys, but generally the alloys studied reveal higher equilibrium pressures, (<ce:italic>p</ce:italic>
+<ce:inf loc="post">eq</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>≈<ce:hsp sp="0.25"></ce:hsp>2<ce:hsp sp="0.25"></ce:hsp>atm), compared to that of nanocrystalline Mg, which is around 1–1.5<ce:hsp sp="0.25"></ce:hsp>atm <ce:cross-ref refid="bib8">[8]</ce:cross-ref> at the same temperature of 300<ce:hsp sp="0.25"></ce:hsp>°C. This result indicates some thermodynamic destabilization of the hydride (MgH<ce:inf loc="post">2</ce:inf>), as a result of the alloying and confirms the DSC results. Only recently Liang <ce:cross-ref refid="bib15">[15]</ce:cross-ref> has shown that Mg<ce:inf loc="post">91</ce:inf>Al<ce:inf loc="post">9</ce:inf> reveals a slightly higher plateau pressure than that of pure Mg, probably due to partial dissolution of Al in Mg. It was also reported that the solubility of Ti in Mg during MA significantly increases, up to 12.5<ce:hsp sp="0.25"></ce:hsp>at.% <ce:cross-ref refid="bib16">[16]</ce:cross-ref>. Liang <ce:cross-ref refid="bib15">[15]</ce:cross-ref> also showed that most of the Mg supersaturated solid solutions are not stable and decompose upon thermal treatment or hydrogenation. These recent findings are in very good agreement with the results obtained in the present study, showing only slightly higher plateau pressure for the Mg alloys with Ti and Al. The three alloys studied contain Al, which is most probably the main reason for the slightly higher <ce:italic>p</ce:italic>
+<ce:inf loc="post">eq</ce:inf>, compared to pure Mg. Only recently Al dissolution into Mg during ball milling was reported <ce:cross-ref refid="bib17">[17]</ce:cross-ref>. Among the alloys in the present study the Ti-containing sample reveals the highest <ce:italic>p</ce:italic>
+<ce:inf loc="post">eq</ce:inf>. The plateau pressure for nanocrystalline Mg<ce:inf loc="post">2</ce:inf>Ni is around 2<ce:hsp sp="0.25"></ce:hsp>atm <ce:cross-ref refid="bib8">[8]</ce:cross-ref>, which is comparable to those for the Mg-richer alloys in the present study. The plateau pressures of dehydriding of the alloys are about 1–1.5<ce:hsp sp="0.25"></ce:hsp>atm, as the equilibrium pressure of desorption for the Mm containing alloy shows the lowest value. The PCI curves show some hysteresis during cycling (hydriding/dehydriding) (<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>b), which is similar for all alloys studied (the hysteresis of the Ti containing alloy is slightly bigger), which is usually attributed to mechanical stress between the metal and the hydride phases or to kinetic constraints during the measurement, due to the low driving force in the plateau region <ce:cross-ref refid="bib8">[8]</ce:cross-ref>.</ce:para>
+<ce:para view="all">The amount of the hydrides formed by RMM, obtained from the first dehydriding reaction (cycle) in the PCI analysis, corresponds to those determined by TG. The second and third hydrogen absorption/desorption cycles show an increase of the amount of the hydride, as for the alloy with Mn, for example, it reaches about 4.5<ce:hsp sp="0.25"></ce:hsp>wt.% during the fourth cycle, which can be explained by an initial activation of the ball-milled alloys (<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>a). After continuous cycling the capacity decrease is only minor, which shows that the hydriding process is reversible. Due to the presence of 10–15<ce:hsp sp="0.25"></ce:hsp>wt.% MgO in the alloys milled for 15–20<ce:hsp sp="0.25"></ce:hsp>h the whole capacity of the alloys could not be reached.</ce:para>
+<ce:para view="all">The hydrogen absorption kinetics were followed at different temperatures and pressures in order to study the process at different driving force. Absorption kinetic curves for the three alloys at 8<ce:hsp sp="0.25"></ce:hsp>atm and 300<ce:hsp sp="0.25"></ce:hsp>°C are presented in <ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+<ce:float-anchor refid="fig7"></ce:float-anchor>. Mg<ce:inf loc="post">87</ce:inf>Al<ce:inf loc="post">3</ce:inf>Ni<ce:inf loc="post">3</ce:inf>Ti<ce:inf loc="post">7</ce:inf> shows the highest H-absorption rate, ∼0.25<ce:hsp sp="0.25"></ce:hsp>wt.% H/s. The absorption kinetics do not change with the hydrogen gas pressure in the range 4–10<ce:hsp sp="0.25"></ce:hsp>atm, indicating that the H-absorption process at these conditions is not diffusion controlled. In this pressure range at 300<ce:hsp sp="0.25"></ce:hsp>°C the driving force {(<ce:italic>P</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>−<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>P</ce:italic>
+<ce:inf loc="post">eq</ce:inf>)/<ce:italic>P</ce:italic>
+<ce:inf loc="post">eq</ce:inf>} changes from 1 to 4. For comparison the H-absorption rate of ball-milled nanocrystalline MgH<ce:inf loc="post">2</ce:inf> at 300<ce:hsp sp="0.25"></ce:hsp>°C and 8.4<ce:hsp sp="0.25"></ce:hsp>atm is in the range of 0.030–0.035<ce:hsp sp="0.25"></ce:hsp>wt.% H/s <ce:cross-ref refid="bib4">[4]</ce:cross-ref>. The addition of metal oxides during milling leads to a notable enhancement of both the absorption and desorption kinetics, 0.2–0.3<ce:hsp sp="0.25"></ce:hsp>wt.% H/s (for absorption) <ce:cross-ref refid="bib18">[18]</ce:cross-ref>. An interesting result is that the Ti containing alloy reveals much faster kinetics of H-absorption compared to the other alloys studied, which can be explained with a catalytic effect of Ti or with the finer particle size of the Ti containing alloy. Further studies are necessary to better understand the effect of the particle size (in the range 1–10<ce:hsp sp="0.25"></ce:hsp>μm) on the H-absorption kinetics.</ce:para>
+<ce:para view="all">The calculated H-absorption rates depend on the temperature (<ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>
+<ce:float-anchor refid="fig8"></ce:float-anchor>), as the absorption rate at 250<ce:hsp sp="0.25"></ce:hsp>°C is higher than at 300<ce:hsp sp="0.25"></ce:hsp>°C, which is due to the higher TD driving force of the absorption reaction at lower <ce:italic>T</ce:italic> at identical H-pressures. For calculating the activation energy of H-absorption the kinetics have been corrected to the same driving force therefore the value obtained is about 70–75<ce:hsp sp="0.25"></ce:hsp>kJ/mol. This value is comparable to that obtained by Borman and co-workers <ce:cross-ref refid="bib19">[19]</ce:cross-ref> for <ce:italic>n</ce:italic>-MgH<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>catalyst and lower than that determined recently by us for Mg<ce:inf loc="post">87</ce:inf>Al<ce:inf loc="post">7</ce:inf>Ni<ce:inf loc="post">3</ce:inf>Mn<ce:inf loc="post">3</ce:inf>
+<ce:cross-ref refid="bib10">[10]</ce:cross-ref>.</ce:para>
+<ce:para view="all">Preliminary hydrogen desorption kinetics study showed also high desorption rates for all alloys studied. A systematic investigation on the H-desorption kinetics and the influence of the alloying elements on the desorption process is underway.</ce:para>
+<ce:para view="all">Generally, all alloys studied show very good hydrogen sorption kinetics in spite of the existence of a thin MgO layer on the particles surface.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">Mg<ce:inf loc="post">87</ce:inf>Ni<ce:inf loc="post">3</ce:inf>Al<ce:inf loc="post">3</ce:inf>M<ce:inf loc="post">7</ce:inf> (M<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>Ti, Mn, Ce, La) hydrides with nanocrystalline microstructure were prepared by RMM in hydrogen atmosphere (5<ce:hsp sp="0.25"></ce:hsp>atm). The amount of the hydrides (mainly β-MgH<ce:inf loc="post">2</ce:inf>) depends on the milling time, as after 15<ce:hsp sp="0.25"></ce:hsp>h the rate of hydride formation decreases. The amount of the hydride formed during RMM for 20<ce:hsp sp="0.25"></ce:hsp>h was found to be almost the same in the three alloys (∼35<ce:hsp sp="0.25"></ce:hsp>wt.%), as for the Ti containing alloy it is only slightly higher.</ce:para>
+<ce:para view="all">Generally, the hydrided alloys in the present study show substantially lower temperatures of hydrogen desorption (210–240<ce:hsp sp="0.25"></ce:hsp>°C) compared to conventional polycrystalline MgH<ce:inf loc="post">2</ce:inf> as well as to ball-milled nanocrystalline MgH<ce:inf loc="post">2</ce:inf> with different catalytic additions due to the alloying elements and fine microstructure. The addition of Ti leads to the lowest temperature of hydrogen desorption (∼210<ce:hsp sp="0.25"></ce:hsp>°C) and the hydride in the alloy with Mn decomposes at the highest temperature (∼240<ce:hsp sp="0.25"></ce:hsp>°C) among the three alloys studied. The enthalpy of H-desorption is highest for the sample alloyed with Mm (Ce, La), 70<ce:hsp sp="0.25"></ce:hsp>kJ/mol; the Ti and Mn containing magnesium alloys have similar enthalpies of hydride decomposition, about 56–60<ce:hsp sp="0.25"></ce:hsp>kJ/mol<ce:hsp sp="0.25"></ce:hsp>H<ce:inf loc="post">2</ce:inf>. Although the hydriding equilibrium pressure, obtained by PCI analysis, depends weakly on the alloying elements it is higher than that of pure Mg and retains its value after hydriding/dehydriding cycling, which indicates that some of the elements (mainly Al) remain partially dissolved in Mg even after cycling.</ce:para>
+<ce:para view="all">The hydrogen absorption rates of the alloys studied were found to be very high in spite of the presence of small amount of MgO. The H-absorption in the Ti containing alloy is much faster than in the alloys with Mn and Mm, which has to be most probably associated with the catalytic effect of Ti or finer particle size of this alloy.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgements</ce:section-title>
+<ce:para view="all">T.S. thanks the Alexander von Humboldt Foundation (Germany) for a grant and for the JEOL 5510 SEM donation. The work has been supported by the EU HPRN-CT-2002-00208.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Liang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Huot</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Boily</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Van Neste</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Schulz</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>291</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>295</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Liang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Huot</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Boily</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Van Neste</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Schulz</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>292</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>247</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Huot</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.F.</ce:given-name>
+<ce:surname>Pelletier</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.B.</ce:given-name>
+<ce:surname>Lurio</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Sutton</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Schulz</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>348</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>319</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Oelerich</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Klassen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Bormann</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>315</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>237</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Liang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Huot</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Boily</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Van Neste</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Schulz</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>282</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>286</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Hong</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Kim</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>330–332</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>584</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Liang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Huot</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Boily</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Schulz</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>305</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>239</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Klassen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Oelerich</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Bormann</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Forum</sb:maintitle>
+</sb:title>
+<sb:volume-nr>360–362</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>603</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.M.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.Z.</ce:given-name>
+<ce:surname>Ding</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.Q.</ce:given-name>
+<ce:surname>Hu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>334</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>243</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Delchev</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Solsona</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Drenchev</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Drenchev</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Spassov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.D.</ce:given-name>
+<ce:surname>Baró</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>388</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>98</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Spassov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>U.</ce:given-name>
+<ce:surname>Köster</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>287</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>243</sb:first-page>
+<sb:last-page>250</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Spassov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Lyubenova</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>U.</ce:given-name>
+<ce:surname>Köster</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.D.</ce:given-name>
+<ce:surname>Baró</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>375–377</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>794</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Lutterotti</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Gialanella</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>46</sb:volume-nr>
+</sb:series>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>101</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Solsona</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Doppiu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Spassov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Suriñach</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.D.</ce:given-name>
+<ce:surname>Baró</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>381</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>66</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Liang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>370</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>123</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib16">
+<ce:label>[16]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Liang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Schulz</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>38</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1179</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib17">
+<ce:label>[17]</ce:label>
+<ce:other-ref>
+<ce:textref>S. Doppiu, P. Solsona, T. Spassov, G. Barkhordarian, M. Dornheim, T. Klassen, S. Suriñach, M.D. Baró, J. Alloys Comp., in press.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib18">
+<ce:label>[18]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Barkhordarian</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Klassen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Bormann</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scripta Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>49</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>213</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib19">
+<ce:label>[19]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Barkhordarian</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Klassen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Bormann</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>364</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>242</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

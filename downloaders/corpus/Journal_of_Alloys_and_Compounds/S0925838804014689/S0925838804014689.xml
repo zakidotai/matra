@@ -1,0 +1,1382 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838804014689</prism:url><dc:identifier>doi:10.1016/j.jallcom.2004.10.071</dc:identifier><eid>1-s2.0-S0925838804014689</eid><prism:doi>10.1016/j.jallcom.2004.10.071</prism:doi><pii>S0925-8388(04)01468-9</pii><dc:title>Preparation of Y3Al5O12:Cr powders by microwave-induced combustion process and their luminescent properties </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>395</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>227</prism:startingpage><prism:endingpage>230</prism:endingpage><prism:pagerange>227-230</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2005-05-31</prism:coverdate><prism:coverdisplaydate>31 May 2005</prism:coverdisplaydate><prism:copyright>Copyright © 2004 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Fu, Yen-Pei</dc:creator><dc:creator>Tsao, Shen</dc:creator><dc:creator>Hu, Chen-Ti</dc:creator><dc:description>
+                  A novel ceramic synthesis technique, microwave-induced combustion process was investigated for the production of Y3Al5O12:Cr powders with improved physical and luminescence properties. This technique involves the reaction of aluminum nitrate (Al(NO3)3·9H2O), yttrium nitrate hexahydrate (Y(NO3)3·6H2O), chromium nitrate (Cr(NO3)3·6H2O), and carbohydrazide (CO(N2H3)2) at microwave-oven and the whole process took only 30min. The powders of Y3Al5O12:Cr were further investigated by X-ray diffractometer (XRD), infrared spectroscopy (IR), and photoluminescence excitation and emission spectra (PL). The results showed that the formation temperature of YAG phase is significant low, compared to solid-state reaction route of constituent oxides. For luminescence property, the emission intensity of YAG:Cr powders synthesized by microwave-induced combustion increases gradually with Cr amount.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>YAG</dcterms:subject><dcterms:subject>Microwave-induced combustion</dcterms:subject><dcterms:subject>Luminescence</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838804014689" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838804014689" rel="scidir"/></coredata><objects><object category="standard" height="241" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="6895" type="IMAGE-DOWNSAMPLED" width="358">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804014689-gr5.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="84" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="1488" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804014689-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="266" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="9553" type="IMAGE-DOWNSAMPLED" width="363">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804014689-gr4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="92" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="1837" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804014689-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="268" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="9104" type="IMAGE-DOWNSAMPLED" width="358">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804014689-gr3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="1815" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804014689-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="286" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="12618" type="IMAGE-DOWNSAMPLED" width="370">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804014689-gr2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="2261" type="IMAGE-THUMBNAIL" width="121">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804014689-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="293" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="6625" type="IMAGE-DOWNSAMPLED" width="226">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804014689-gr1.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="1117" type="IMAGE-THUMBNAIL" width="72">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804014689-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="289" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="9068" type="IMAGE-DOWNSAMPLED" width="368">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804014689-gr6.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="1580" type="IMAGE-THUMBNAIL" width="119">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804014689-gr6.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>18144382999</scopus-id><scopus-eid>2-s2.0-18144382999</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/18144382999" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20050111">2005-01-11</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20050111">2005-01-11</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-04-19T04:56:56</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838804014689</xocs:eid>
+<xocs:pii-formatted>S0925-8388(04)01468-9</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838804014689</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2004.10.071</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838805X01980</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.346355-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20050531</xocs:date-search-begin>
+<xocs:year-nav>2005</xocs:year-nav>
+<xocs:indexeddate epoch="1105401600">2005-01-11T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast otherkwds primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>395</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>395</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 395, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>42</xocs:sort-order>
+<xocs:first-fp>227</xocs:first-fp>
+<xocs:last-lp>230</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>227</xocs:first-page>
+<xocs:last-page>230</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20050531</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>31 May 2005</xocs:cover-date-text>
+<xocs:cover-date-start>2005-05-31</xocs:cover-date-start>
+<xocs:cover-date-year>2005</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Materials Science</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2004 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>PREPARATIONY3AL5O12CRPOWDERSBYMICROWAVEINDUCEDCOMBUSTIONPROCESSLUMINESCENTPROPERTIES</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>FU</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>Y</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental procedures</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Sample synthesis</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Characterization</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgement</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>LOPEZ</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>1</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>OHNO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1987</xocs:ref-pub-year>
+<xocs:ref-first-fp>2072</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>RAUE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1989</xocs:ref-pub-year>
+<xocs:ref-first-fp>335</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>MACHAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1987</xocs:ref-pub-year>
+<xocs:ref-first-fp>134</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>SHKADAREVICH</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1989</xocs:ref-pub-year>
+<xocs:ref-first-fp>60</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>IZUMITANI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1991</xocs:ref-pub-year>
+<xocs:ref-first-fp>108</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>ZHOU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>628</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>IKESUE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>2545</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>1218</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>VEITH</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>3069</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>GEORGE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>701</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>YADA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>1941</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13">
+<xocs:ref-normalized-surname>TAKAMORI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1986</xocs:ref-pub-year>
+<xocs:ref-first-fp>1282</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>CLARK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>299</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15">
+<xocs:ref-normalized-surname>KINGSLEY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1988</xocs:ref-pub-year>
+<xocs:ref-first-fp>427</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib16">
+<xocs:ref-normalized-surname>JAIN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1981</xocs:ref-pub-year>
+<xocs:ref-first-fp>71</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib17">
+<xocs:ref-normalized-surname>GOPICHANDRAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>548</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib18">
+<xocs:ref-normalized-surname>PARK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>785</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib19">
+<xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1994</xocs:ref-pub-year>
+<xocs:ref-first-fp>1997</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib20">
+<xocs:ref-normalized-surname>SHEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>10882</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib21">
+<xocs:ref-normalized-surname>APTE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1992</xocs:ref-pub-year>
+<xocs:ref-first-fp>706</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib22">
+<xocs:ref-normalized-surname>SARAWATI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1987</xocs:ref-pub-year>
+<xocs:ref-first-fp>2529</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>FUX2005X227</xocs:refkey3>
+<xocs:refkey4lp>FUX2005X227X230</xocs:refkey4lp>
+<xocs:refkey4ai>FUX2005X227XY</xocs:refkey4ai>
+<xocs:refkey5>FUX2005X227X230XY</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(04)01468-9</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838804014689</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838804014689</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2004.10.071</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-10T20:44:49.15047-04:00</xocs:timestamp>
+<xocs:cover-date-start>2005-05-31</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838804014689-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804014689/MAIN/application/pdf/b41674b1e5e2eca2ee02fc0c5b11ac3d/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804014689/MAIN/application/pdf/b41674b1e5e2eca2ee02fc0c5b11ac3d/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>130001</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838804014689-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804014689/PREVIEW/image/png/f436fb5c4880cd87f71ac48a42268dc1/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804014689/PREVIEW/image/png/f436fb5c4880cd87f71ac48a42268dc1/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>61689</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804014689-gr5.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804014689/gr5/DOWNSAMPLED/image/gif/57178842c84c6b129c90cecc7e8417df/gr5.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804014689/gr5/DOWNSAMPLED/image/gif/57178842c84c6b129c90cecc7e8417df/gr5.gif</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>6895</xocs:filesize>
+<xocs:pixel-height>241</xocs:pixel-height>
+<xocs:pixel-width>358</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804014689-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804014689/gr5/THUMBNAIL/image/gif/b378ce66ed3cc95bf629fc3672203821/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804014689/gr5/THUMBNAIL/image/gif/b378ce66ed3cc95bf629fc3672203821/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1488</xocs:filesize>
+<xocs:pixel-height>84</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804014689-gr4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804014689/gr4/DOWNSAMPLED/image/gif/b2c66d25e7ab89302e68ab3905b95280/gr4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804014689/gr4/DOWNSAMPLED/image/gif/b2c66d25e7ab89302e68ab3905b95280/gr4.gif</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>9553</xocs:filesize>
+<xocs:pixel-height>266</xocs:pixel-height>
+<xocs:pixel-width>363</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804014689-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804014689/gr4/THUMBNAIL/image/gif/0912c157eb0f954de27fb2202fc911e2/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804014689/gr4/THUMBNAIL/image/gif/0912c157eb0f954de27fb2202fc911e2/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1837</xocs:filesize>
+<xocs:pixel-height>92</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804014689-gr3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804014689/gr3/DOWNSAMPLED/image/gif/0563b4e26cfdb5c5a537c7b0b37ca4f1/gr3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804014689/gr3/DOWNSAMPLED/image/gif/0563b4e26cfdb5c5a537c7b0b37ca4f1/gr3.gif</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>9104</xocs:filesize>
+<xocs:pixel-height>268</xocs:pixel-height>
+<xocs:pixel-width>358</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804014689-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804014689/gr3/THUMBNAIL/image/gif/9841bb243c73af925322f49900bc4fab/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804014689/gr3/THUMBNAIL/image/gif/9841bb243c73af925322f49900bc4fab/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1815</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804014689-gr2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804014689/gr2/DOWNSAMPLED/image/gif/3d7fd12676fc59c8e095f845cf6cc186/gr2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804014689/gr2/DOWNSAMPLED/image/gif/3d7fd12676fc59c8e095f845cf6cc186/gr2.gif</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>12618</xocs:filesize>
+<xocs:pixel-height>286</xocs:pixel-height>
+<xocs:pixel-width>370</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804014689-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804014689/gr2/THUMBNAIL/image/gif/aa5e0a3e46eb1d2c4e38550713153cbd/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804014689/gr2/THUMBNAIL/image/gif/aa5e0a3e46eb1d2c4e38550713153cbd/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2261</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>121</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804014689-gr1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804014689/gr1/DOWNSAMPLED/image/gif/e315bcf69d556d101f23d7909f60e197/gr1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804014689/gr1/DOWNSAMPLED/image/gif/e315bcf69d556d101f23d7909f60e197/gr1.gif</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>6625</xocs:filesize>
+<xocs:pixel-height>293</xocs:pixel-height>
+<xocs:pixel-width>226</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804014689-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804014689/gr1/THUMBNAIL/image/gif/3dd4caaa8a9ee1cc958eb1511552259b/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804014689/gr1/THUMBNAIL/image/gif/3dd4caaa8a9ee1cc958eb1511552259b/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1117</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>72</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804014689-gr6.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804014689/gr6/DOWNSAMPLED/image/gif/3660f28f04fc7def6857d70a737447d6/gr6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804014689/gr6/DOWNSAMPLED/image/gif/3660f28f04fc7def6857d70a737447d6/gr6.gif</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>9068</xocs:filesize>
+<xocs:pixel-height>289</xocs:pixel-height>
+<xocs:pixel-width>368</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804014689-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804014689/gr6/THUMBNAIL/image/gif/0048b231436048ec9a3fd1fc0c057b60/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804014689/gr6/THUMBNAIL/image/gif/0048b231436048ec9a3fd1fc0c057b60/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1580</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>119</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>11863</aid>
+<ce:pii>S0925-8388(04)01468-9</ce:pii>
+<ce:doi>10.1016/j.jallcom.2004.10.071</ce:doi>
+<ce:copyright type="full-transfer" year="2004">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Flowchart for the preparation of as-prepared YAG powders by microwave-induced combustion.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRD pattern of as-prepared YAG:Cr phosphors with various chromium concentrations annealed at 1100<ce:hsp sp="0.25"></ce:hsp>°C for 2<ce:hsp sp="0.25"></ce:hsp>h.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Emission spectra of YAG:Cr phosphors with various chromium concentrations.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Excitation spectra of YAG:Cr phosphors with various chromium concentrations.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Effects of Cr-doped amount on the emission peak (at 688<ce:hsp sp="0.25"></ce:hsp>nm) and excitation peak (at 461<ce:hsp sp="0.25"></ce:hsp>nm) intensity of YAG:Cr phosphors for 450<ce:hsp sp="0.25"></ce:hsp>nm excitation and 688<ce:hsp sp="0.25"></ce:hsp>nm emission, respectively.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Infrared spectra for YAG:Cr phosphors with various chromium concentrations.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+</ce:floats>
+<ce:title>Preparation of Y<ce:inf loc="post">3</ce:inf>Al<ce:inf loc="post">5</ce:inf>O<ce:inf loc="post">12</ce:inf>:Cr powders by microwave-induced combustion process and their luminescent properties</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>Yen-Pei</ce:given-name>
+<ce:surname>Fu</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="cor1">*</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Shen</ce:given-name>
+<ce:surname>Tsao</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Chen-Ti</ce:given-name>
+<ce:surname>Hu</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation id="aff1">
+<ce:label>a</ce:label>
+<ce:textfn>Department of Chemical Engineering, Wu-Feng Institute of Technology, Ming-Hsiung, Chiayi 621, Taiwan</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff2">
+<ce:label>b</ce:label>
+<ce:textfn>Department of Materials Science and Engineering, National Tsing-Hua University, Hsinchu 300, Taiwan</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>*</ce:label>
+<ce:text>Corresponding author. Tel.: +886 5 226 9281; fax: +886 5 226 9281.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="4" month="10" year="2004"></ce:date-received>
+<ce:date-accepted day="25" month="10" year="2004"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">A novel ceramic synthesis technique, microwave-induced combustion process was investigated for the production of Y<ce:inf loc="post">3</ce:inf>Al<ce:inf loc="post">5</ce:inf>O<ce:inf loc="post">12</ce:inf>:Cr powders with improved physical and luminescence properties. This technique involves the reaction of aluminum nitrate (Al(NO<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">3</ce:inf>·9H<ce:inf loc="post">2</ce:inf>O), yttrium nitrate hexahydrate (Y(NO<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">3</ce:inf>·6H<ce:inf loc="post">2</ce:inf>O), chromium nitrate (Cr(NO<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">3</ce:inf>·6H<ce:inf loc="post">2</ce:inf>O), and carbohydrazide (CO(N<ce:inf loc="post">2</ce:inf>H<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">2</ce:inf>) at microwave-oven and the whole process took only 30<ce:hsp sp="0.25"></ce:hsp>min. The powders of Y<ce:inf loc="post">3</ce:inf>Al<ce:inf loc="post">5</ce:inf>O<ce:inf loc="post">12</ce:inf>:Cr were further investigated by X-ray diffractometer (XRD), infrared spectroscopy (IR), and photoluminescence excitation and emission spectra (PL). The results showed that the formation temperature of YAG phase is significant low, compared to solid-state reaction route of constituent oxides. For luminescence property, the emission intensity of YAG:Cr powders synthesized by microwave-induced combustion increases gradually with Cr amount.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="pacs">
+<ce:section-title>PACS</ce:section-title>
+<ce:keyword>
+<ce:text>74.25.Gz</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>74.62.Bf</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>78.55.Hx</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>YAG</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Microwave-induced combustion</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Luminescence</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Inorganic luminescence materials are crystalline compounds that absorb energy and subsequently emit this absorbed energy as light <ce:cross-ref refid="bib1">[1]</ce:cross-ref>. Phosphors are composed of an inert host lattice and an optically excited activator, typically a 3d or 4f electron metal such as Ce<ce:sup loc="post">3+</ce:sup>, Cr<ce:sup loc="post">3+</ce:sup>, Eu<ce:sup loc="post">3+</ce:sup>, and Tb<ce:sup loc="post">3+</ce:sup>. Oxide phosphors were found to be suitable for field emission display (FED), vacuum fluorescent display (VFD), electroluminescent (EL) devices, and plasma panel display (PDP) devices.</ce:para>
+<ce:para view="all">Y<ce:inf loc="post">3</ce:inf>Al<ce:inf loc="post">5</ce:inf>O<ce:inf loc="post">12</ce:inf> (YAG) is an advanced ceramic with interesting optical and mechanical properties <ce:cross-refs refid="bib2 bib3">[2,3]</ce:cross-refs>. YAG is a refractory, hard oxide ceramic that does not damage easily under condition of high irradiance with an electron beam. Moreover, YAG doped with a lanthanide element can be widely used as solid-state laser material in the luminescence field and as window material for a variety of lamps <ce:cross-refs refid="bib4 bib5 bib6">[4–6]</ce:cross-refs>. Because YAG-based phosphors have high temperature chemical stability, they are expected to replace sulfide-based materials, which are currently used as main components in cathode ray tube (CRT) <ce:cross-ref refid="bib7">[7]</ce:cross-ref>.</ce:para>
+<ce:para view="all">YAG and YAG-based phosphors have been prepared by several techniques, such as solid-state reaction <ce:cross-refs refid="bib8 bib9">[8,9]</ce:cross-refs>, sol–gel <ce:cross-ref refid="bib10">[10]</ce:cross-ref>, coprecipitation method <ce:cross-refs refid="bib11 bib12">[11,12]</ce:cross-refs>, and hydrothermal method <ce:cross-ref refid="bib13">[13]</ce:cross-ref>. In this study, we used a new method called microwave-induced combustion to synthesise YAG:Cr powder. Microwave processing of materials is fundamentally different from conventional processing in terms of the heat generation mechanism. In a microwave oven, heat is generated within the sample itself by interaction of microwaves with material. In conventional heating, heat is generated by heating elements and then transferred to the sample surfaces <ce:cross-ref refid="bib14">[14]</ce:cross-ref>.</ce:para>
+<ce:para view="all">Microwave-induced combustion synthesis involves the dissolution metal nitrate and carbohydrazide in water <ce:cross-ref refid="bib15">[15]</ce:cross-ref>, and then heating the resulting solution in a microwave oven. After the solution reaches the point of spontaneous combustion, it begins to burn in solid form burning at high temperature. The combustion is not complete until all the flammable substances are all burnt yielding a powder that is highly friable and shows voids and pores formed by escaping gases during the combustion reaction. The whole process takes only a few minutes to YAG:Cr powder.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental procedures</ce:section-title>
+<ce:section view="all">
+<ce:label>2.1</ce:label>
+<ce:section-title>Sample synthesis</ce:section-title>
+<ce:para view="all">The synthesis process of the YAG:Cr powders involved the combustion of redox mixtures, in which metal nitrate acted as an oxidizing agent and carbohydrazide as a reducing agent. The initial composition of the solution containing aluminum nitrate, yttrium nitrate, chromium nitrate, and carbohydrazide was based on the total oxidizing and reducing valences of the oxidizer and fuel using concepts in propellant chemistry <ce:cross-ref refid="bib16">[16]</ce:cross-ref>.</ce:para>
+<ce:para view="all">The stoichiometry of the redox mixtures used for combustion was determined using the total oxidizing and reducing valences of the components which serve as numerical coefficients for the stoichiometric balance so that the equivalence ratio (<ce:italic>Φ</ce:italic>
+<ce:inf loc="post">e</ce:inf>) is unity and the energy released by combustion is maximum. According to this concept, the valences of some elements and ions are as follows: C<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>+4, H<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>+1, O<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>−2, divalent metal ions<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>−2, and trivalent metal ions<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>−3 <ce:cross-ref refid="bib17">[17]</ce:cross-ref>. The valence of nitrogen is considered to be zero. Accordingly, the oxidizing and reducing valences of the compounds used in the combustion mixtures can be calculated. In order to have the same oxidizing and reducing valences, the total ratio of the oxidizing and reducing valences was 1 <ce:cross-ref refid="bib18">[18]</ce:cross-ref>.</ce:para>
+<ce:para view="all">A flowchart for the preparation of as-prepared YAG powders is described in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor>. Stoichiometric amounts of yttrium nitrate hexahydate, aluminum nitrate, chromium nitrate, and carbohydrazide were dissolved in 15<ce:hsp sp="0.25"></ce:hsp>ml of deionized-distilled water in a crucible. The atomic ratios of Y:Al were set to be 3:5. As the literature report that dopant ratio was varied between 0.1 and 6<ce:hsp sp="0.25"></ce:hsp>mol% in the YAG powder to produce phosphor materials. In this study, the mole ratio of YAG:Cr was set from 100:1 to 100:5. The crucible containing the solution was placed in a microwave oven (CEM, MDS 81D, 650<ce:hsp sp="0.25"></ce:hsp>W). Initially, the solution boiled and underwent dehydration followed by decomposition with the evolution of large amount of gases. After the solution reached the point of spontaneous combustion, it began to burn with the release of much heat, vaporized all the solution instantly and burnt in solid at high temperature. The entire combustion process for producing YAG:Cr powders in the microwave oven took only 30<ce:hsp sp="0.25"></ce:hsp>min. A stoichiometric combustion reaction of metal nitrate with carbohydrazide to form YAG is as follows:<ce:display>
+<ce:formula>
+<ce:chem>3Y(NO<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">3</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>5Al(NO<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">3</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>15CO(N<ce:inf loc="post">2</ce:inf>H<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>Y<ce:inf loc="post">3</ce:inf>Al<ce:inf loc="post">5</ce:inf>O<ce:inf loc="post">12</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>15CO<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>45H<ce:inf loc="post">2</ce:inf>O<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>42N<ce:inf loc="post">2</ce:inf>
+</ce:chem>
+</ce:formula>
+</ce:display>
+</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2.2</ce:label>
+<ce:section-title>Characterization</ce:section-title>
+<ce:para view="all">A computer-interface X-ray powder diffractometer (XRD) with Cu Kα radiation (Rigaku D/Max-II) was used to identify the crystalline phase. Particle morphological features were observed using a scanning electron microscope (SEM; JEOL JSM-6500F). The emission and excitation spectra were obtained on a spectrofluorimeter (PL, Hitach F-4010) equipped with a 450<ce:hsp sp="0.25"></ce:hsp>W xenon lamp as the excitation source. Fourier transform infrared spectroscopy (FT-IR, Nicolet Magna 550 FT-IR) were used to measured YAG:Cr powder with the KBr pellet technique.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:para view="all">
+<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor> shows the X-ray diffraction patterns of as-prepared YAG:Cr powder with various Cr amount annealed at 1100<ce:hsp sp="0.25"></ce:hsp>°C for 2<ce:hsp sp="0.25"></ce:hsp>h. It indicates that both YAG (Y<ce:inf loc="post">3</ce:inf>Al<ce:inf loc="post">5</ce:inf>O<ce:inf loc="post">12</ce:inf>) and YAP (YAlO<ce:inf loc="post">3</ce:inf>) phases can be detected for Cr-doped amount from 1 to 3<ce:hsp sp="0.25"></ce:hsp>mol%. Further increase of Cr-doped amount above 3<ce:hsp sp="0.25"></ce:hsp>mol% for YAG:Cr powder lead to the enhancement in the YAG diffraction peak intensity due to the improvement of crystallinity, and no YAP phase could be identified. These results show that the formation of YAG phase using the microwave-induced combustion (∼1100<ce:hsp sp="0.25"></ce:hsp>°C) is rather low as compared to the conventional solid-state reaction. Much higher temperatures (&gt;1600<ce:hsp sp="0.25"></ce:hsp>°C) are required to prepare YAG in a solid-state reaction of constituent oxide to form YAG phase. The morphology of the YAG:Cr powders annealing at 1100<ce:hsp sp="0.25"></ce:hsp>°C for 2<ce:hsp sp="0.25"></ce:hsp>h. Evidently, we can see pores and voids can in all specimens, which result from the escaping gases during combustion. The particles of these specimens show highly agglomerated, nonuniform shape with rough surface, as well as pores and cracks. These porous powders are highly friable which facilitates easy grinding to obtain finer particle <ce:cross-ref refid="bib19">[19]</ce:cross-ref>. Besides, the broad particle size distribution was probably due to the occurrence of local reaction during combustion.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor> shows the emission spectra of the as-prepared YAG:Cr powder annealed at 1100<ce:hsp sp="0.25"></ce:hsp>°C for 2<ce:hsp sp="0.25"></ce:hsp>h. For emission spectra measurement, YAG:Cr powder was excited with 450<ce:hsp sp="0.25"></ce:hsp>nm wavelength from a xenon lamp. These results reveal that YAG:Cr powder prepared by microwave-induced combustion process is luminescent, two emission bands are observed at 688 and 706<ce:hsp sp="0.25"></ce:hsp>nm, which correspond to zero-phonon transition (688<ce:hsp sp="0.25"></ce:hsp>nm) and Stokes phonon sideband (706<ce:hsp sp="0.25"></ce:hsp>nm), respectively <ce:cross-ref refid="bib20">[20]</ce:cross-ref>. From the luminescence spectrum, we can observe that the YAG:Cr powder shows a red emission. The character of the emission spectrum clearly indicates the phase containing chromium ions is in the yttrium aluminum garnet crystal structure. Accordingly, the microwave-induced combustion not only yields homogeneous and stoichiometric products but also gives itself to substituting Cr<ce:sup loc="post">3+</ce:sup> for Y<ce:sup loc="post">3+</ce:sup> ions. <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor> displays the excitation spectra of YAG:Cr powders prepared by microwave-induced combustion process. It indicates that the excited wavelength is approximately at 462<ce:hsp sp="0.25"></ce:hsp>nm. In general, high emission intensity is desired for applications for YAG:Cr phosphors. <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="fig5"></ce:float-anchor> displays the effect of Cr-doped amount on the emission (at 688<ce:hsp sp="0.25"></ce:hsp>nm) and excitation peaks (at 462<ce:hsp sp="0.25"></ce:hsp>nm) intensity of YAG:Cr powders for 450<ce:hsp sp="0.25"></ce:hsp>nm excitation and 688<ce:hsp sp="0.25"></ce:hsp>nm emission, respectively. It indicates that the emission and excitation intensity increases with increasing Cr amount. The emission and excitation intensity of YAG doped with 5<ce:hsp sp="0.25"></ce:hsp>mol% Cr is highest than other dopant concentrations. As the amount of Cr less than 3<ce:hsp sp="0.25"></ce:hsp>mol%, the emission and excitation intensity is weak, which is due to the presence of YAlO<ce:inf loc="post">3</ce:inf> impurity phase as shown in the XRD pattern. Therefore, an appropriate Cr-doped amount is contributed to the luminescence properties for YAG:Cr powders.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="fig6"></ce:float-anchor> plots the FT-IR spectra of the YAG:Cr powder annealing at various temperatures. The band between 1500 and 1700<ce:hsp sp="0.25"></ce:hsp>cm<ce:sup loc="post">−1</ce:sup> is assigned to the asymmetric vibration of <ce:glyph name="sbnd"></ce:glyph>CH<ce:inf loc="post">2</ce:inf> group. Moreover, the band between 1600–1800 and 1570–1380<ce:hsp sp="0.25"></ce:hsp>cm<ce:sup loc="post">−1</ce:sup> is due to the asymmetric stretching vibration and the symmetric stretching vibration of the NO<ce:inf loc="post">3</ce:inf>
+<ce:sup loc="post">−</ce:sup> group, respectively <ce:cross-ref refid="bib7">[7]</ce:cross-ref>. The peaks at 770 and 625<ce:hsp sp="0.25"></ce:hsp>cm<ce:sup loc="post">−1</ce:sup> represent the characteristics (Al<ce:glyph name="sbnd"></ce:glyph>O) metal–oxygen vibrations, while the peaks at 708 and 551<ce:hsp sp="0.25"></ce:hsp>cm<ce:sup loc="post">−1</ce:sup> represent the characteristic (Y<ce:glyph name="sbnd"></ce:glyph>O) metal–oxygen vibrations <ce:cross-refs refid="bib21 bib22">[21,22]</ce:cross-refs>, which indicates the formation of YAG. Phase. Moreover, YAlO<ce:inf loc="post">3</ce:inf> content of impurities phase significantly influence the emission intensity of YAG:Cr powder.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">Using aluminum nitrate, yttrium nitrate hexahydrate, chromium nitrate, and carbohydrazide as the starting materials, YAG:Cr powders have been synthesized successfully by microwave-induced combustion with low annealing temperature (1100<ce:hsp sp="0.25"></ce:hsp>°C). The formation temperature of YAG phase is prominent low, compared to solid-state reaction. Furthermore, results of this study show that Cr-doped amount affect greatly the luminescence properties of YAG:Cr powders. The emission and excited intensity of YAG:Cr powders increases steadily with increasing Cr-doped amount. This method can be employed as a new route for synthesizing analogous phosphor materials.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgement</ce:section-title>
+<ce:para view="all">The authors would like to thank the National Science Council of the Republic of China for financially supporting this research under Contract No. NSC 93-2212-E-274-001.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>O.A.</ce:given-name>
+<ce:surname>Lopez</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>McKittrick</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.E.</ce:given-name>
+<ce:surname>Shea</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Lumin.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>71</sb:volume-nr>
+</sb:series>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Ohno</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Abe</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>134</sb:volume-nr>
+</sb:series>
+<sb:date>1987</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2072</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Raue</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.T.</ce:given-name>
+<ce:surname>Vink</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Welker</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Philips Tech. Rev.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>44</sb:volume-nr>
+</sb:series>
+<sb:date>1989</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>335</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Machan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Kurtz</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Bess</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Brinbaum</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Opt. Soc. Am.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>20</sb:volume-nr>
+</sb:series>
+<sb:date>1987</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>134</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.P.</ce:given-name>
+<ce:surname>Shkadarevich</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Opt. Soc. Am.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>22</sb:volume-nr>
+</sb:series>
+<sb:date>1989</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>60</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Izumitani</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Bull. Ceram. Soc. Jpn.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>26</sb:volume-nr>
+</sb:series>
+<sb:date>1991</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>108</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Zhou</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Lin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Yu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Lett.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>56</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>628</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Ikesue</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Kamata</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Yoshida</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>78</sb:volume-nr>
+</sb:series>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2545</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.M.</ce:given-name>
+<ce:surname>Yang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.M.</ce:given-name>
+<ce:surname>Jeng</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Chang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>79</sb:volume-nr>
+</sb:series>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1218</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Veith</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Mathur</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Kareiva</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Jilavi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Zimmer</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.</ce:given-name>
+<ce:surname>Huch</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Chem.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>9</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>3069</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.M.</ce:given-name>
+<ce:surname>George</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.C.</ce:given-name>
+<ce:surname>Mishra</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.S.</ce:given-name>
+<ce:surname>Nagar</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.C.</ce:given-name>
+<ce:surname>Jayadevan</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Therm. Anal.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>47</sb:volume-nr>
+</sb:series>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>701</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Yada</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Ohya</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Machida</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Kima</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Chem. Commun.</sb:maintitle>
+</sb:title>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1941</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Takamori</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.D.</ce:given-name>
+<ce:surname>David</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Am. Ceram. Soc. Bull.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>65</sb:volume-nr>
+</sb:series>
+<sb:date>1986</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1282</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.E.</ce:given-name>
+<ce:surname>Clark</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.H.</ce:given-name>
+<ce:surname>Sutton</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Ann. Rev. Mater. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>26</sb:volume-nr>
+</sb:series>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>299</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.J.</ce:given-name>
+<ce:surname>Kingsley</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.C.</ce:given-name>
+<ce:surname>Patil</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Lett.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>6</sb:volume-nr>
+</sb:series>
+<sb:date>1988</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>427</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib16">
+<ce:label>[16]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.R.</ce:given-name>
+<ce:surname>Jain</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.C.</ce:given-name>
+<ce:surname>Adiga</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.V.R.</ce:given-name>
+<ce:surname>Pai</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Comb. Flam.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>40</sb:volume-nr>
+</sb:series>
+<sb:date>1981</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>71</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib17">
+<ce:label>[17]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Gopi Chandran</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.C.</ce:given-name>
+<ce:surname>Patil</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.T.</ce:given-name>
+<ce:surname>Chandrappa</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Sci. Lett.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>14</sb:volume-nr>
+</sb:series>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>548</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib18">
+<ce:label>[18]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.K.</ce:given-name>
+<ce:surname>Park</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.S.</ce:given-name>
+<ce:surname>Han</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.K.</ce:given-name>
+<ce:surname>Kim</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.H.</ce:given-name>
+<ce:surname>Kim</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Sci. Lett.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>17</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>785</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib19">
+<ce:label>[19]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.C.</ce:given-name>
+<ce:surname>Stangle</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>9</sb:volume-nr>
+</sb:series>
+<sb:date>1994</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1997</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib20">
+<ce:label>[20]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.R.</ce:given-name>
+<ce:surname>Shen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.L.</ce:given-name>
+<ce:surname>Bray</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Phys. Rev. B</sb:maintitle>
+</sb:title>
+<sb:volume-nr>56</sb:volume-nr>
+</sb:series>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>10882</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib21">
+<ce:label>[21]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Apte</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Burke</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Pickup</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>7</sb:volume-nr>
+</sb:series>
+<sb:date>1992</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>706</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib22">
+<ce:label>[22]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>V.</ce:given-name>
+<ce:surname>Sarawati</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.V.N.</ce:given-name>
+<ce:surname>Rao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.V.</ce:given-name>
+<ce:surname>Rama Rao</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>22</sb:volume-nr>
+</sb:series>
+<sb:date>1987</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2529</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

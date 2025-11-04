@@ -1,0 +1,940 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838806002829</prism:url><dc:identifier>doi:10.1016/j.jallcom.2006.03.004</dc:identifier><eid>1-s2.0-S0925838806002829</eid><prism:doi>10.1016/j.jallcom.2006.03.004</prism:doi><pii>S0925-8388(06)00282-9</pii><dc:title>Thermoelectric detection of hard alpha inclusion in Ti–6Al–4V by magnetic sensing </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>427</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>183</prism:startingpage><prism:endingpage>189</prism:endingpage><prism:pagerange>183-189</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2007-01-16</prism:coverdate><prism:coverdisplaydate>16 January 2007</prism:coverdisplaydate><prism:copyright>Copyright © 2006 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Carreon, Hector</dc:creator><dc:description>
+                  Hard-alpha inclusions are low-density, hard, brittle regions of spuriously high nitrogen and oxygen content that occur in titanium alloys. Usually, these inclusions are cracked or include voids, so they are easy to detect by non-destructive means. The difficulty for NDT is detecting the uncracked hard-alpha inclusions. This problem is very critical to research since titanium alloys are used in aircraft engines and the material is made more brittle and subject to failure with the added nitrogen and oxygen content. This paper presents experimental data for the magnetic field produced by thermoelectric currents around uncracked hard-alpha inclusions in a Ti–6Al–4V specimen under external thermal excitation for different nitrogen content ranging from 1.6% to 5.9%. According to our preliminary results, the magnetic flux density measurements were found to be rather sensitive to changes in nitrogen content with the exception of the intrinsic material background magnetic signal that affected deeply the detectability of inclusions and imperfections in non-contacting thermoelectric measurements. Hopefully, these results can help identify a non-destructive test method that can detect material inclusions with a level of nitrogen that could be detrimental to Ti–6Al–4V alloy components.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Thermoelectric NDE</dcterms:subject><dcterms:subject>Magnetic detection</dcterms:subject><dcterms:subject>Hard alpha inclusion</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838806002829" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838806002829" rel="scidir"/></coredata><objects><object category="standard" height="209" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="27061" type="IMAGE-DOWNSAMPLED" width="357">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002829-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="73" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="1699" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002829-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="213" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="16519" type="IMAGE-DOWNSAMPLED" width="376">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002829-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="71" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="1304" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002829-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="949" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="85966" type="IMAGE-DOWNSAMPLED" width="497">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002829-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="1014" type="IMAGE-THUMBNAIL" width="49">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002829-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="476" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="45789" type="IMAGE-DOWNSAMPLED" width="492">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002829-gr4.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="1744" type="IMAGE-THUMBNAIL" width="96">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002829-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="476" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr5" size="43390" type="IMAGE-DOWNSAMPLED" width="492">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002829-gr5.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="1749" type="IMAGE-THUMBNAIL" width="96">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002829-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="258" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr6" size="14610" type="IMAGE-DOWNSAMPLED" width="358">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002829-gr6.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="90" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="1617" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002829-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="573" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr7" size="75279" type="IMAGE-DOWNSAMPLED" width="475">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002829-gr7.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="1720" type="IMAGE-THUMBNAIL" width="77">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002829-gr7.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>33751506701</scopus-id><scopus-eid>2-s2.0-33751506701</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/33751506701" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20060418">2006-04-18</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20060418">2006-04-18</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-03-29T20:46:52</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838806002829</xocs:eid>
+<xocs:pii-formatted>S0925-8388(06)00282-9</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838806002829</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2006.03.004</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838806X02657</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.326594-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20070116</xocs:date-search-begin>
+<xocs:year-nav>2007</xocs:year-nav>
+<xocs:indexeddate epoch="1145318400">2006-04-18T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>427</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>427</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 427, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>36</xocs:sort-order>
+<xocs:first-fp>183</xocs:first-fp>
+<xocs:last-lp>189</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>183</xocs:first-page>
+<xocs:last-page>189</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20070116</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>16 January 2007</xocs:cover-date-text>
+<xocs:cover-date-start>2007-01-16</xocs:cover-date-start>
+<xocs:cover-date-year>2007</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Metallurgy</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2006 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>THERMOELECTRICDETECTIONHARDALPHAINCLUSIONINTI6AL4VBYMAGNETICSENSING</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>CARREON</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>H</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>State of art</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental method</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>5</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>TAVRIN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>1710</xocs:ref-first-fp>
+<xocs:ref-last-lp>1716</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>REVIEWPROGRESSINQUANTITATIVENDE20</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>CARREON</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>6495</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>MASLOV</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>1081</xocs:ref-first-fp>
+<xocs:ref-last-lp>1084</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>CARREON</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2006</xocs:ref-pub-year>
+<xocs:ref-first-fp>22</xocs:ref-first-fp>
+<xocs:ref-last-lp>28</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>NAGY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>7481</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>NAYFEH</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>225</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>CARREON</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>339</xocs:ref-first-fp>
+<xocs:ref-last-lp>348</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>BRASCHE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1991</xocs:ref-pub-year>
+<xocs:ref-first-fp>1701</xocs:ref-first-fp>
+<xocs:ref-last-lp>1706</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>REVIEWPROGRESSINQUANTITATIVENDE10</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>BARTOS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>1513</xocs:ref-first-fp>
+<xocs:ref-last-lp>1520</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>TITANIUM95SCIENCETECHNOLOGYVOL2</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10"></xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>BLODGETT</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>1</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>CARREONX2007X183</xocs:refkey3>
+<xocs:refkey4lp>CARREONX2007X183X189</xocs:refkey4lp>
+<xocs:refkey4ai>CARREONX2007X183XH</xocs:refkey4ai>
+<xocs:refkey5>CARREONX2007X183X189XH</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(06)00282-9</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838806002829</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838806002829</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2006.03.004</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-09-19T15:05:18.821453-04:00</xocs:timestamp>
+<xocs:cover-date-start>2007-01-16</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838806002829-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002829/MAIN/application/pdf/8432012deaecbeea7340b68eaf4d88b2/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002829/MAIN/application/pdf/8432012deaecbeea7340b68eaf4d88b2/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>730386</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838806002829-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002829/PREVIEW/image/png/17ada0f666774d1718ebc66941b0f2f5/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002829/PREVIEW/image/png/17ada0f666774d1718ebc66941b0f2f5/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>68172</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002829-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002829/gr1/DOWNSAMPLED/image/jpeg/c31d814e3850ba1360bae5651886c3c2/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002829/gr1/DOWNSAMPLED/image/jpeg/c31d814e3850ba1360bae5651886c3c2/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>27061</xocs:filesize>
+<xocs:pixel-height>209</xocs:pixel-height>
+<xocs:pixel-width>357</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002829-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002829/gr1/THUMBNAIL/image/gif/21ad4df7455c7f0b2e00028ad168fa3d/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002829/gr1/THUMBNAIL/image/gif/21ad4df7455c7f0b2e00028ad168fa3d/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1699</xocs:filesize>
+<xocs:pixel-height>73</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002829-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002829/gr2/DOWNSAMPLED/image/jpeg/a62454663a93e8bd06ddca436ce4b511/gr2.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002829/gr2/DOWNSAMPLED/image/jpeg/a62454663a93e8bd06ddca436ce4b511/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>16519</xocs:filesize>
+<xocs:pixel-height>213</xocs:pixel-height>
+<xocs:pixel-width>376</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002829-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002829/gr2/THUMBNAIL/image/gif/ef9c47bdc2c774f4a1b9e459f77d8fff/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002829/gr2/THUMBNAIL/image/gif/ef9c47bdc2c774f4a1b9e459f77d8fff/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1304</xocs:filesize>
+<xocs:pixel-height>71</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002829-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002829/gr3/DOWNSAMPLED/image/jpeg/7bd3a6eb01d5a1328ab92e5145871df3/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002829/gr3/DOWNSAMPLED/image/jpeg/7bd3a6eb01d5a1328ab92e5145871df3/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>85966</xocs:filesize>
+<xocs:pixel-height>949</xocs:pixel-height>
+<xocs:pixel-width>497</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002829-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002829/gr3/THUMBNAIL/image/gif/4686838b0ae1dbb5a33e06eac95f464d/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002829/gr3/THUMBNAIL/image/gif/4686838b0ae1dbb5a33e06eac95f464d/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1014</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>49</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002829-gr4.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002829/gr4/DOWNSAMPLED/image/jpeg/176b5e55082c96d1067be64c24cf53ff/gr4.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002829/gr4/DOWNSAMPLED/image/jpeg/176b5e55082c96d1067be64c24cf53ff/gr4.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>45789</xocs:filesize>
+<xocs:pixel-height>476</xocs:pixel-height>
+<xocs:pixel-width>492</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002829-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002829/gr4/THUMBNAIL/image/gif/bb393bf454b95990282d954021bca66e/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002829/gr4/THUMBNAIL/image/gif/bb393bf454b95990282d954021bca66e/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1744</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>96</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002829-gr5.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002829/gr5/DOWNSAMPLED/image/jpeg/6ce50f6ed8209b97a3c766ebc0822cb1/gr5.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002829/gr5/DOWNSAMPLED/image/jpeg/6ce50f6ed8209b97a3c766ebc0822cb1/gr5.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>43390</xocs:filesize>
+<xocs:pixel-height>476</xocs:pixel-height>
+<xocs:pixel-width>492</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002829-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002829/gr5/THUMBNAIL/image/gif/9dcb1925e66bcce8aecb9938a6c68d44/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002829/gr5/THUMBNAIL/image/gif/9dcb1925e66bcce8aecb9938a6c68d44/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1749</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>96</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002829-gr6.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002829/gr6/DOWNSAMPLED/image/jpeg/36ec551399597ec5cf91263c343226f1/gr6.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002829/gr6/DOWNSAMPLED/image/jpeg/36ec551399597ec5cf91263c343226f1/gr6.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>14610</xocs:filesize>
+<xocs:pixel-height>258</xocs:pixel-height>
+<xocs:pixel-width>358</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002829-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002829/gr6/THUMBNAIL/image/gif/411e06b1f4d18f97d1219a209e2d0710/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002829/gr6/THUMBNAIL/image/gif/411e06b1f4d18f97d1219a209e2d0710/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1617</xocs:filesize>
+<xocs:pixel-height>90</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002829-gr7.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002829/gr7/DOWNSAMPLED/image/jpeg/e8df5296abb1f8fe93c61472910ee6a8/gr7.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002829/gr7/DOWNSAMPLED/image/jpeg/e8df5296abb1f8fe93c61472910ee6a8/gr7.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>75279</xocs:filesize>
+<xocs:pixel-height>573</xocs:pixel-height>
+<xocs:pixel-width>475</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002829-gr7.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002829/gr7/THUMBNAIL/image/gif/3ae9c87d5b9af36c902e7aaa5eb8e355/gr7.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002829/gr7/THUMBNAIL/image/gif/3ae9c87d5b9af36c902e7aaa5eb8e355/gr7.sml</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1720</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>77</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>13768</aid>
+<ce:pii>S0925-8388(06)00282-9</ce:pii>
+<ce:doi>10.1016/j.jallcom.2006.03.004</ce:doi>
+<ce:copyright type="full-transfer" year="2006">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Schematic diagram of non-contacting thermoelectric detection of material imperfections by magnetic monitoring of thermoelectric currents.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Experimental configuration for the characterization of the TiN inclusion.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Averaged magnetic signatures from the bottom and top sides of (a) 1N, (b) 2N, (c) 3N and (d) 5N specimen.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Averaged magnetic signatures for four directions of the bottom and top sides of all four specimens (the forward and backward scanning parts of the signatures were also averaged for better accuracy).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Averaged magnetic signatures for four directions of the bottom and top sides of all four specimens after baseline subtraction (the baseline was calculated as the average of the four bottom signatures).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Peak-to-peak magnetic signatures for all four specimens after baseline subtraction and averaged by the four specimen orientations (10<ce:hsp sp="0.25"></ce:hsp>nT/V detection sensitivity).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+<ce:figure id="fig7">
+<ce:label>Fig. 7</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Magnetic images of TiN inclusions with different nitrogen content (▿<ce:italic>T</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>≈<ce:hsp sp="0.25"></ce:hsp>12<ce:hsp sp="0.25"></ce:hsp>°C/cm, 2<ce:hsp sp="0.25"></ce:hsp>mm lift-off distance, 76.2<ce:hsp sp="0.25"></ce:hsp>mm<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>76.2<ce:hsp sp="0.25"></ce:hsp>mm scanning dimension). The measured peak magnetic flux density is also listed for the experimental results.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr7"></ce:link>
+</ce:figure>
+<ce:table colsep="0" frame="topbot" id="tbl1" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Nitrogen content in weight percent for the uncraked hard alpha inclusions</ce:simple-para>
+</ce:caption>
+<tgroup cols="2">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Specimen</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Nitrogen content (wt.%)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1N</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1.6</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2N</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">2.6</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">3N</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">3.5</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">5N</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">5.9</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+</ce:floats>
+<ce:title>Thermoelectric detection of hard alpha inclusion in Ti–6Al–4V by magnetic sensing</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>Hector</ce:given-name>
+<ce:surname>Carreon</ce:surname>
+<ce:cross-ref refid="cor1">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation>
+<ce:textfn>Instituto de Investigaciones Metalurgicas, Edif. “U” Ciudad Universitaria, Morelia, Mich. 58000-888, Mexico</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>⁎</ce:label>
+<ce:text>Tel.: +52 443 316 8355; fax: +52 443 322 3500.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="25" month="1" year="2006"></ce:date-received>
+<ce:date-revised day="4" month="3" year="2006"></ce:date-revised>
+<ce:date-accepted day="8" month="3" year="2006"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">Hard-alpha inclusions are low-density, hard, brittle regions of spuriously high nitrogen and oxygen content that occur in titanium alloys. Usually, these inclusions are cracked or include voids, so they are easy to detect by non-destructive means. The difficulty for NDT is detecting the uncracked hard-alpha inclusions. This problem is very critical to research since titanium alloys are used in aircraft engines and the material is made more brittle and subject to failure with the added nitrogen and oxygen content. This paper presents experimental data for the magnetic field produced by thermoelectric currents around uncracked hard-alpha inclusions in a Ti–6Al–4V specimen under external thermal excitation for different nitrogen content ranging from 1.6% to 5.9%. According to our preliminary results, the magnetic flux density measurements were found to be rather sensitive to changes in nitrogen content with the exception of the intrinsic material background magnetic signal that affected deeply the detectability of inclusions and imperfections in non-contacting thermoelectric measurements. Hopefully, these results can help identify a non-destructive test method that can detect material inclusions with a level of nitrogen that could be detrimental to Ti–6Al–4V alloy components.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Thermoelectric NDE</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Magnetic detection</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Hard alpha inclusion</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">It is well known that the non-contacting thermoelectric technique is very sensitive to the presence of foreign body inclusions, when the thermoelectric power of the affected region is significantly different from that of the surrounding medium <ce:cross-refs refid="bib1 bib2 bib3 bib4">[1–4]</ce:cross-refs>. In the self-referencing thermoelectric method the material imperfections naturally form thermocouples in the specimen itself and, in the presence of an externally induced temperature gradient, these innate thermocouples produce thermoelectric currents around the imperfections that can be detected measuring the magnetic flux density <ce:italic>B</ce:italic> by magnetic sensors from a significated lift-off distance between the tip of the sensor and the material surface imperfection as shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor>. Nagy and Nayfeh <ce:cross-ref refid="bib5">[5]</ce:cross-ref> developed theoretical models capable of predicting the magnetic field produced by thermoelectric currents around inclusions in a homogeneous host material under external thermal excitation. Some of these predictions were subsequently experimentally verified by author and et al. This holds in particular for the cases of surface-breaking and subsurface tin inclusions embedded in a copper specimen <ce:cross-refs refid="bib2 bib4">[2,4]</ce:cross-refs>. Also, it was pointed out in <ce:cross-refs refid="bib2 bib4 bib6 bib7">[2,4,6,7]</ce:cross-refs> that the detectability of small inclusions and subtle imperfections by the non-contacting thermoelectric method is limited by the adverse background (intrinsic thermoelectric anisotropy) of the material to be inspected. This intrinsic background signal in thermoelectric measurements is due to macrostructural features such as texture induced anisotropy, residual stress, cold work, heat treatment, etc.</ce:para>
+<ce:para view="all">The experimental results reported by author and et al. <ce:cross-refs refid="bib2 bib4">[2,4]</ce:cross-refs> clearly verify the feasibility of non-destructive evaluation of tin inclusions embedded in a copper specimen by thermoelectric means. The obvious next question to be addressed is whether the thermoelectric method is applicable to other engineering materials of special interest to the aerospace industry. In particular, it is very important to develop NDE techniques for high-strength, high-temperature engine materials such as titanium-base alloys. So, we conducted thermoelectric measurements on uncracked hard-alpha inclusions with different nitrogen content in Ti–6Al–4V. Like most engine materials, titanium-base alloys exhibit much lower thermal and electrical conductivity and more significant microstructural inhomogeneity and anisotropic texture than single-phase pure copper.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2</ce:label>
+<ce:section-title>State of art</ce:section-title>
+<ce:para view="all">Initiation sites for LCF failure of titanium-base alloys in the components of interest can occur at nitrogen-rich inclusions. These inclusions generally have a core of TiN, which is surrounded by a layer of α-titanium, which in turn is surrounded by a layer of β-titanium. These inclusions are frequently referred to as a “hard alpha” inclusions. Hard-alpha inclusions are high interstitial defects and are regions of much higher hardness than the surrounding material. The increased brittleness of alpha inclusions is the result of excess nitrogen and oxygen that increase the beta transus of the material. These inclusions may appear during the manufacturing process if the starting material is already contaminated, if the proper temperature is not maintained to break up the alpha regions, or the material becomes contaminated during the melt process <ce:cross-ref refid="bib8">[8]</ce:cross-ref>. The hard-alpha titanium with the added nitrogen is much more brittle than the base metal, and a study was done to experimentally show the transition from plastic deformation to brittle fracture.</ce:para>
+<ce:para view="all">Currently, hard-alpha inclusions can be detected only if they contain cracks or voids. This means that uncracked and non-voided hard-alpha inclusions go undetected and represent a major hidden problem. Several candidate methods for non-destructive evaluation were identified including mainly ultrasonics and photon induced positron annihilation. Present technology for ultrasonic detection of this type of defects includes a multizone system that uses multiple channels employing focused transducers and analog electronics. It uses four to eight transducers of 5<ce:hsp sp="0.25"></ce:hsp>MHz each focused at a different depth in the material, thus inspecting the material uniformly <ce:cross-ref refid="bib9">[9]</ce:cross-ref>. Another current method for detection is photon induced positron annihilation (PIPA) developed by Positron Systems. This method promises to detect smaller, buried inclusions that other non-destructive methods cannot detect. The principle of PIPA involves penetrating the material with a photon beam to create positrons. The positrons are attracted to the defects and when they eventually collide with electrons in the material and are destroyed, gamma ray energy is released. This energy is distinct and readable and allows for characterization of the defect. With this method, defects can be detected in their earliest stage before any failure can occur <ce:cross-ref refid="bib10">[10]</ce:cross-ref>.</ce:para>
+<ce:para view="all">The purpose of this investigation was to suggest an alternative non-destructive method of characterizing nitrogen-enriched specimens that are free from cracks and voids. We present experimental results for the particular case of uncracked hard-alpha inclusions in Ti–6Al–4V under external thermal excitation which truthfully captures the main features of the thermoelectrically generated magnetic field and predicts its nitrogen content ranging from 1.6% to 5.9%. And it also shows experimental evidence of the strong effect produced by highly anisotropic materials such as titanium-base alloys in thermoelectric NDE.</ce:para>
+</ce:section>
+<ce:section role="materials-methods" view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Experimental method</ce:section-title>
+<ce:para view="all">In this section, the experimental setup will be described and a procedure used to characterize the TiN inclusions with different nitrogen content embedded in a Ti–6AL–4V specimen. Also, it will be investigated how the magnetic signal to be detected depends on the physical properties of the host and the inclusion. We conducted thermoelectric measurements on four titanium specimens with uncracked hard-alpha inclusions with different nitrogen content namely 1.6%, 2.6%, 3.5% and 5.9% supplied by MLLP of AFRL. The TiN samples are representative of Ti–6Al–4V engine material since when nitrogen enters Ti–6Al–4V, the aluminum and vanadium is mostly replaced with nitrogen, thus leaving a mostly TiN inclusion like the specimens used in this investigation. Analysis of the nitrogen content in weight percent, for the uncracked hard-alpha inclusions, is shown in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+<ce:float-anchor refid="tbl1"></ce:float-anchor>. All compositions reported in this article are in weight percent. The four specimens with TiN inclusions with different nitrogen content were cut from Ti–6Al–4V block with the same dimensions 15.5<ce:hsp sp="0.25"></ce:hsp>mm<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>15.5<ce:hsp sp="0.25"></ce:hsp>mm<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>25<ce:hsp sp="0.25"></ce:hsp>mm. The TiN inclusions were cylindrical shapes with a diameter of ∼0.19<ce:hsp sp="0.25"></ce:hsp>mm diameter and ∼0.19<ce:hsp sp="0.25"></ce:hsp>mm of depth and with the center of each TiN inclusion at the level of the specimen surface (top side). <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor> shows a schematic diagram for the experimental arrangement used to study the different thermoelectric signatures produced by the uncracked hard-alpha inclusions embedded in Ti–6Al–4V. Each specimen was mounted into two copper supporters which were perforated by a series of holes and equipped with sealed heat exchangers to facilitate efficient heating and cooling and then mounted on a non-magnetic translation table for scanning. In order to get a better heat transfer between the specimen and the copper supporters, it was put a layer of heat sink compound silicone between them. The ends of the copper supporters were simultaneously heated and cooled by running water to temperatures of 85 and 10<ce:hsp sp="0.25"></ce:hsp>°C, respectively. However, the actual temperature difference between the ends of the Ti–6Al–4V specimen was monitored during the measurements by thermocouple thermometers and the temperature gradient was kept at 12<ce:hsp sp="0.25"></ce:hsp>°C/cm, which is more than sufficient to produce detectable magnetic signals in high-strength, high-temperature engine materials such as titanium-base alloys <ce:cross-ref refid="bib6">[6]</ce:cross-ref>.</ce:para>
+<ce:para view="all">A pair of fluxgate sensors configured in a differential arrangement was used to detect the thermoelectric signals from the specimen. The primary sensor, which is closer to the specimen, measures a stronger signal than the secondary sensor, while the two sensors exhibit essentially the same sensitivity for external sources at larger distances, which are rejected accordingly. In each case the so-called lift-off distance, i.e. the gap between the primary sensor and the surface of the specimen was 2<ce:hsp sp="0.25"></ce:hsp>mm. The specimen was scanned in normal sensor polarization. The magnetic signals produced by the TiN inclusions were detected by horizontally scanning the specimen at the center of the bar in a direction normal to the heat flux. <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref> also shows how the normal magnetic signatures can be recorded when scanning in the “width-direction” of the specimen.</ce:para>
+<ce:para view="all">In order to separate the magnetic signature of the TiN inclusion from the adverse intrinsic material background signature the following was performed. First, the scans were taken by rotating the specimen 90° around its axis to record the magnetic signature at four specimen orientations (0°, 90°, 180° and 270°) and secondly the specimen was flipped at top and bottom sides, respectively. Altogether, eight independent signatures can be measured using four specimen orientations and two specimen sides. However, all magnetic signatures were recorded on four titanium specimens with uncracked hard-alpha inclusions with different nitrogen content namely 1N, 2N, 3N and 5N. Therefore, the experimental data to be presented later represents 32 measurements. Because of the weak magnetic flux densities <ce:italic>B</ce:italic> (≈10<ce:hsp sp="0.25"></ce:hsp>pT and 300<ce:hsp sp="0.25"></ce:hsp>nT) created by the thermoelectric currents around the material imperfection zone with temperature gradients of ≈0.1–15<ce:hsp sp="0.25"></ce:hsp>°C/cm numerous additional measures were taken to assure that the magnetic signatures were recorded with minimal distortion and these measures are described in detail in Ref. <ce:cross-ref refid="bib2">[2]</ce:cross-ref>.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Results</ce:section-title>
+<ce:para view="all">In the next step, all specimens were inspected by the non-contacting thermoelectric technique described above. <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor> shows the average of six magnetic signatures recorded from the bottom side (right) and top side (left) of the Ti–6Al–4V specimen with different nitrogen content of hard alpha inclusions (a) 1N, (b) 2N, (c) 3N and (d) 5N as a function of the four specimen orientations (0°, 90°, 180° and 270°) at 2<ce:hsp sp="0.25"></ce:hsp>mm lift-off distance and 12<ce:hsp sp="0.25"></ce:hsp>°C/cm temperature gradient. In general, on the specimens at the top side (left) the peak-to-peak value of the measured magnetic flux density increased from 5 to 25<ce:hsp sp="0.25"></ce:hsp>nT as nitrogen content increased from 1.6% to 5.9% and the variation within the six series of repeated magnetic measurements was found to be at an acceptable level. In comparison, on the specimens at the bottom side (right) the peak-to-peak value of the magnetic flux density was approximately 65% lower. However, by comparing the magnetic signatures recorded after rotating the specimen around its principal (0°, 90°, 180° and 270°) axes it cannot be established whether the actual magnetic signature is dominated by the intrinsic thermoelectric anisotropy or the TiN inclusions. The measured magnetic signature of highly textured materials such as Ti–6Al–4V often exhibit a significative intrinsic thermoelectric background due to macrostructural features. The strong effect of the intrinsic material background magnetic signature limits the detectability of small, weak or subtle imperfections by the thermoelectric method <ce:cross-refs refid="bib2 bib4 bib6">[2,4,6]</ce:cross-refs>. Therefore the measured magnetic signature reported in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref> is due to a combination of the intrinsic material thermoelectric anisotropy and the TiN inclusion signature.</ce:para>
+<ce:para view="all">In order to separate them, <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor> shows the average of the magnetic signatures for the four specimen orientations (0°, 90°, 180° and 270°) of the top and bottom sides of all four specimens with different nitrogen content 1N, 2N, 3N and 5N (the forward and backward scanning parts of the signatures were averaged for better accuracy) and <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="fig5"></ce:float-anchor> shows the averaged magnetic signatures for the four specimen orientations (0°, 90°, 180° and 270°) of the bottom and top sides of all four specimens with different nitrogen content 1N, 2N, 3N and 5N after baseline subtraction (the baseline was calculated as the average of the four bottom signatures). As we can see the magnetic signature due to the different TiN inclusion nitrogen content is much higher comparing to the intrinsic material background anisotropy after baseline subtraction and averaged by the four specimen orientations. A number of important conclusions can be drawn from these results. First, the magnetic signature produced by TiN inclusions is proportional to the nitrogen content, which is very favorable from the point of view of quantitative detection assessment. Second, even the lowest nitrogen content TiN inclusion (1.6%) is well above the detection threshold of the non-contacting thermoelectric measurement, therefore the absolute sensitivity of the technique seems to be sufficient for most practical applications.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="fig6"></ce:float-anchor> shows the peak-to-peak magnetic flux density as a function of the nitrogen content of hard alpha inclusions embedded in a Ti–6Al–4V specimen. The left set of data represents the experimental results of the magnetic flux density at the top side of the specimen where the surface-breaking TiN inclusions are located while the right set of data represents the experimental results of the magnetic flux density at the bottom side of the specimen with different nitrogen content. In both cases the magnetic signature for all the specimens were corrected by the baseline subtraction and averaged by the four specimen orientations. Clearly, the measured magnetic flux density significantly increased with the nitrogen content of hard alpha inclusions at the top side of the Ti–6Al–4V specimen. While a relatively strong baseline signature is presented along the Ti–6Al–4Vspecimen at the bottom side. Since this baseline is essentially the same everywhere along the length of the specimen, its adverse effect on flaw detection is reduced by subtraction. However, the efficiency of baseline subtraction is badly reduced by inevitable local variations and experimental uncertainties, therefore, like other similar image processing tricks, it has its limitations in improving POD.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+<ce:float-anchor refid="fig7"></ce:float-anchor> shows the magnetic images recorded from the four Ti–N inclusions in Ti–6Al–4V at top side with different nitrogen content. The measured peak-to-peak magnetic flux density is also listed for the experimental results. These magnetic pictures were taken at 2<ce:hsp sp="0.25"></ce:hsp>mm distance above the specimen surface. This apparent lift-off distance is the distance between the tip of the fluxgate magnetometer and the specimen surface. The measured magnetic field distributions are very similar in shape to the results published by author et al. in the particular case of surface-breaking tin inclusions embedded in a copper specimen <ce:cross-ref refid="bib2">[2]</ce:cross-ref>. In this respect, the surface-breaking TiN inclusions measurements are representative of a real application since the base metal is a not necessarily homogeneous or texture-free such as copper specimen. As we expected, the main lobes get wider and the magnitude of the magnetic flux decreases when the nitrogen content is decreased and the spatial distribution of the field revealed some distortions. This particular feature is most probably associated with the intrinsic material background signature affected the POD of subtle material flaws in the non-contacting thermoelectric technique. This intrinsic material background signature is due to the manufacturing process used to fabricate stock materials (bar, billet, plate, etc.) that tend to induce a preferred crystallographic orientation due to the restricted nature of mechanical slip (dislocations), leaving the material with a remarkable macroscopic anisotropy <ce:cross-ref refid="bib11">[11]</ce:cross-ref>.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>5</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">In conclusion, the preliminary measurements clearly demonstrate that the non-contacting thermoelectric technique for QNDE material characterization is a very powerful one. The magnetic flux density measurements was found to be rather sensitive to changes in nitrogen content with the exception of the intrinsic material background magnetic signal that affected deeply the detectability of inclusions and imperfections in non-contacting thermoelectric measurements. This background signature is caused by the anisotropic texture and inhomogeneity of the specimen and is the subject of a separate study <ce:cross-refs refid="bib7 bib8">[7,8]</ce:cross-refs>. In this respect, the thermoelectric measurements realized in Ti–6AL–4V are more representative of a real application when the base metal is not necessarily homogeneous or texture-free. Currently, efforts are under way to establish the most effective methods of baseline compensation based on the specific features of the baseline signature.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgments</ce:section-title>
+<ce:para view="all">This work was partially supported by PROMEP-MEXICO. The author would like to acknowledge Nagy P.B. for their value contributions to this paper.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Tavrin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.S.</ce:given-name>
+<ce:surname>Krivoy</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.H.</ce:given-name>
+<ce:surname>Hinken</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.P.</ce:given-name>
+<ce:surname>Kallmeyer</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>D.O.</ce:given-name>
+<ce:surname>Thompson</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>D.E.</ce:given-name>
+<ce:surname>Chimenti</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>Review of Progress in Quantitative NDE, 20</sb:maintitle>
+</sb:title>
+<sb:date>2001</sb:date>
+<sb:publisher>
+<sb:name>AIP</sb:name>
+<sb:location>Melville</sb:location>
+</sb:publisher>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>1710</sb:first-page>
+<sb:last-page>1716</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Carreon</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.B.</ce:given-name>
+<ce:surname>Nagy</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.H.</ce:given-name>
+<ce:surname>Nayfeh</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Appl. Phys.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>88</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>6495</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Maslov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.K.</ce:given-name>
+<ce:surname>Kinra</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Eval.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>59</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1081</sb:first-page>
+<sb:last-page>1084</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Carreon</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>NDT. E. Int.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>39</sb:volume-nr>
+</sb:series>
+<sb:date>2006</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>22</sb:first-page>
+<sb:last-page>28</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>P.B.</ce:given-name>
+<ce:surname>Nagy</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.H.</ce:given-name>
+<ce:surname>Nayfeh</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Appl. Phys.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>87</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>7481</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.H.</ce:given-name>
+<ce:surname>Nayfeh</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Carreon</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.B.</ce:given-name>
+<ce:surname>Nagy</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Appl. Phys.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>91</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>225</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Carreon</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.I.</ce:given-name>
+<ce:surname>Faidi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.H.</ce:given-name>
+<ce:surname>Nayfeh</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.B.</ce:given-name>
+<ce:surname>Nagy</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>NDT. E. Int.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>36</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>339</sb:first-page>
+<sb:last-page>348</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>L.J.H.</ce:given-name>
+<ce:surname>Brasche</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>O.</ce:given-name>
+<ce:surname>Buck</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>D.O.</ce:given-name>
+<ce:surname>Thompson</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>D.E.</ce:given-name>
+<ce:surname>Chimenti</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>Review of Progress in Quantitative NDE, 10</sb:maintitle>
+</sb:title>
+<sb:date>1991</sb:date>
+<sb:publisher>
+<sb:name>AIP</sb:name>
+<sb:location>Melville</sb:location>
+</sb:publisher>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>1701</sb:first-page>
+<sb:last-page>1706</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.L.</ce:given-name>
+<ce:surname>Bartos</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.C.</ce:given-name>
+<ce:surname>Copley</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.S.</ce:given-name>
+<ce:surname>Gilmore</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.J.</ce:given-name>
+<ce:surname>Howard</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:title>
+<sb:maintitle>Titanium ’95: Science and Technology, vol. 2</sb:maintitle>
+</sb:title>
+<sb:date>1996</sb:date>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>1513</sb:first-page>
+<sb:last-page>1520</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<ce:other-ref>
+<ce:textref>NDT Update 13 (12) (2004).</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Blodgett</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Eylon</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Nondestruct. Eval.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>20</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

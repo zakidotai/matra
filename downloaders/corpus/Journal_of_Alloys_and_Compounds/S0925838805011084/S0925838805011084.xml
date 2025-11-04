@@ -1,0 +1,1476 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838805011084</prism:url><dc:identifier>doi:10.1016/j.jallcom.2005.06.025</dc:identifier><eid>1-s2.0-S0925838805011084</eid><prism:doi>10.1016/j.jallcom.2005.06.025</prism:doi><pii>S0925-8388(05)01108-4</pii><dc:title>Structure and properties of biomedical Co–Cr–Ti alloys </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>407</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>294</prism:startingpage><prism:endingpage>298</prism:endingpage><prism:pagerange>294-298</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2006-01-05</prism:coverdate><prism:coverdisplaydate>5 January 2006</prism:coverdisplaydate><prism:copyright>Copyright © 2005 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Matković, Tanja</dc:creator><dc:creator>Slokar, Ljerka</dc:creator><dc:creator>Matković, Prosper</dc:creator><dc:description>
+                  In this work 12 dental Co–Cr casting alloys containing titanium in the range of 4–12wt.% have been studied. Optical and SEM microscopy show that all samples have similar two phases dendritic microstructure. By means of X-ray diffraction two phases of similar compositions were identified as fcc and hcp Co-rich solid solutions. Hardness measurement reveals that hardness increases with titanium content and the percentage of hardener phase. The corrosion resistance of most as-cast alloys is prominent thanks to the presence of titanium. According to the microstructure, the corrosion resistance and the criterion that the hardness should be close to that of commercial Co–Cr base dental alloys, samples 3–5 can be excellent candidates for biomedical applications.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Co–Cr–Ti alloys</dcterms:subject><dcterms:subject>Dental alloys</dcterms:subject><dcterms:subject>Microstructure</dcterms:subject><dcterms:subject>Hardness</dcterms:subject><dcterms:subject>Corrosion resistance</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838805011084" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838805011084" rel="scidir"/></coredata><objects><object category="thumbnail" height="44" mimetype="image/gif" multimediatype="GIF image file" ref="si2" size="1161" type="ALTIMG" width="230">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011084-si2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="14" mimetype="image/gif" multimediatype="GIF image file" ref="si1" size="113" type="ALTIMG" width="8">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011084-si1.gif?httpAccept=%2A%2F%2A</object><object category="standard" height="271" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="66343" type="IMAGE-DOWNSAMPLED" width="339">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011084-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="4334" type="IMAGE-THUMBNAIL" width="117">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011084-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="447" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="9273" type="IMAGE-DOWNSAMPLED" width="339">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011084-gr3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="1008" type="IMAGE-THUMBNAIL" width="71">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011084-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="610" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="121063" type="IMAGE-DOWNSAMPLED" width="713">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011084-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="2116" type="IMAGE-THUMBNAIL" width="109">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011084-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="388" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="6456" type="IMAGE-DOWNSAMPLED" width="339">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011084-gr4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="923" type="IMAGE-THUMBNAIL" width="81">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011084-gr4.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>29244435762</scopus-id><scopus-eid>2-s2.0-29244435762</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/29244435762" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20050801">2005-08-01</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20050801">2005-08-01</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-03-29T03:54:28</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838805011084</xocs:eid>
+<xocs:pii-formatted>S0925-8388(05)01108-4</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805011084</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2005.06.025</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838805X0247X</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.349087-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20060105</xocs:date-search-begin>
+<xocs:year-nav>2006</xocs:year-nav>
+<xocs:indexeddate epoch="1122854400">2005-08-01T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body mmlmath affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>407</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>407</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 407, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>48</xocs:sort-order>
+<xocs:first-fp>294</xocs:first-fp>
+<xocs:last-lp>298</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>294</xocs:first-page>
+<xocs:last-page>298</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20060105</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>5 January 2006</xocs:cover-date-text>
+<xocs:cover-date-start>2006-01-05</xocs:cover-date-start>
+<xocs:cover-date-year>2006</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Materials Science</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2005 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>STRUCTUREPROPERTIESBIOMEDICALCOCRTIALLOYS</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>MATKOVIC</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>T</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Materials and methods</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>MARTI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>18</xocs:ref-first-fp>
+<xocs:ref-last-lp>21</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>KORBER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1993</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>ZAHNARTZLICHEWERKSTOFFKUNDEUNDTECHNOLOGIE</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>CAHN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1992</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>MATERIALSSCIENCETECHNOLOGYMEDICALDENTALMATERIALS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>LONGQUAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1993</xocs:ref-pub-year>
+<xocs:ref-first-fp>1312</xocs:ref-first-fp>
+<xocs:ref-last-lp>1316</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>KELLY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>18</xocs:ref-first-fp>
+<xocs:ref-last-lp>32</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>LOPEZESTEBAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>2921</xocs:ref-first-fp>
+<xocs:ref-last-lp>2930</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>PAAR</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1985</xocs:ref-pub-year>
+<xocs:ref-first-fp>410</xocs:ref-first-fp>
+<xocs:ref-last-lp>413</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>TAIRA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1989</xocs:ref-pub-year>
+<xocs:ref-first-fp>45</xocs:ref-first-fp>
+<xocs:ref-last-lp>50</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>IGARASHI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1985</xocs:ref-pub-year>
+<xocs:ref-first-fp>1195</xocs:ref-first-fp>
+<xocs:ref-last-lp>1199</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>IWAMA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>309</xocs:ref-first-fp>
+<xocs:ref-last-lp>317</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11"></xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>KULUMBURG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>514</xocs:ref-first-fp>
+<xocs:ref-last-lp>531</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13">
+<xocs:ref-normalized-surname>MONTEROOCAMPO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>2229</xocs:ref-first-fp>
+<xocs:ref-last-lp>2235</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>SAGE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1950</xocs:ref-pub-year>
+<xocs:ref-first-fp>139</xocs:ref-first-fp>
+<xocs:ref-last-lp>145</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15">
+<xocs:ref-normalized-surname>HALL</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1966</xocs:ref-pub-year>
+<xocs:ref-first-fp>61</xocs:ref-first-fp>
+<xocs:ref-last-lp>88</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib16">
+<xocs:ref-normalized-surname>MATKOVIC</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>293</xocs:ref-first-fp>
+<xocs:ref-last-lp>297</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>MATKOVICX2006X294</xocs:refkey3>
+<xocs:refkey4lp>MATKOVICX2006X294X298</xocs:refkey4lp>
+<xocs:refkey4ai>MATKOVICX2006X294XT</xocs:refkey4ai>
+<xocs:refkey5>MATKOVICX2006X294X298XT</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(05)01108-4</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805011084</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838805011084</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2005.06.025</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-08T03:04:47.619223-04:00</xocs:timestamp>
+<xocs:cover-date-start>2006-01-05</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838805011084-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011084/MAIN/application/pdf/09e8ab7fbf45ed79a00e1f9b875bdac3/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011084/MAIN/application/pdf/09e8ab7fbf45ed79a00e1f9b875bdac3/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>217301</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838805011084-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011084/PREVIEW/image/png/2f2652764441404e47529adb82c283be/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011084/PREVIEW/image/png/2f2652764441404e47529adb82c283be/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>61055</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011084-si2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011084/STRIPIN/image/gif/0ce51520f56ec4c04828eccbb7fa7fc9/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011084/STRIPIN/image/gif/0ce51520f56ec4c04828eccbb7fa7fc9/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si2</xocs:file-basename>
+<xocs:filename>si2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1161</xocs:filesize>
+<xocs:pixel-height>44</xocs:pixel-height>
+<xocs:pixel-width>230</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011084-si1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011084/STRIPIN/image/gif/4beab465c60ca06d7e1a55117829d88d/si1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011084/STRIPIN/image/gif/4beab465c60ca06d7e1a55117829d88d/si1.gif</xocs:ucs-locator>
+<xocs:file-basename>si1</xocs:file-basename>
+<xocs:filename>si1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>113</xocs:filesize>
+<xocs:pixel-height>14</xocs:pixel-height>
+<xocs:pixel-width>8</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011084-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011084/gr1/DOWNSAMPLED/image/jpeg/87c531e183778464f73d246bcbab41e2/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011084/gr1/DOWNSAMPLED/image/jpeg/87c531e183778464f73d246bcbab41e2/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>66343</xocs:filesize>
+<xocs:pixel-height>271</xocs:pixel-height>
+<xocs:pixel-width>339</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011084-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011084/gr1/THUMBNAIL/image/gif/fa4b146c25758512fe9844c7ac1703cc/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011084/gr1/THUMBNAIL/image/gif/fa4b146c25758512fe9844c7ac1703cc/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>4334</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>117</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011084-gr3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011084/gr3/DOWNSAMPLED/image/gif/06b6aa918d146fdc42cf3d59323648f5/gr3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011084/gr3/DOWNSAMPLED/image/gif/06b6aa918d146fdc42cf3d59323648f5/gr3.gif</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>9273</xocs:filesize>
+<xocs:pixel-height>447</xocs:pixel-height>
+<xocs:pixel-width>339</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011084-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011084/gr3/THUMBNAIL/image/gif/cdda2979c1e44734433189aa43e2e098/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011084/gr3/THUMBNAIL/image/gif/cdda2979c1e44734433189aa43e2e098/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1008</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>71</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011084-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011084/gr2/DOWNSAMPLED/image/jpeg/2637b7b83e39544351c4c088238b29ab/gr2.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011084/gr2/DOWNSAMPLED/image/jpeg/2637b7b83e39544351c4c088238b29ab/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>121063</xocs:filesize>
+<xocs:pixel-height>610</xocs:pixel-height>
+<xocs:pixel-width>713</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011084-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011084/gr2/THUMBNAIL/image/gif/82733719a041b67a27c2a5bf76c5c7a0/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011084/gr2/THUMBNAIL/image/gif/82733719a041b67a27c2a5bf76c5c7a0/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2116</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>109</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011084-gr4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011084/gr4/DOWNSAMPLED/image/gif/c631fe07375d2c0d0889903d78807b0d/gr4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011084/gr4/DOWNSAMPLED/image/gif/c631fe07375d2c0d0889903d78807b0d/gr4.gif</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>6456</xocs:filesize>
+<xocs:pixel-height>388</xocs:pixel-height>
+<xocs:pixel-width>339</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011084-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011084/gr4/THUMBNAIL/image/gif/ea945d0d5c236619d0b74d8e066fb4ac/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011084/gr4/THUMBNAIL/image/gif/ea945d0d5c236619d0b74d8e066fb4ac/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>923</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>81</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>12850</aid>
+<ce:pii>S0925-8388(05)01108-4</ce:pii>
+<ce:doi>10.1016/j.jallcom.2005.06.025</ce:doi>
+<ce:copyright type="full-transfer" year="2005">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Optical micrograph of the as-cast Co<ce:inf loc="post">61</ce:inf>Cr<ce:inf loc="post">35</ce:inf>Ti<ce:inf loc="post">4</ce:inf> alloy with two phases dendritic solidification microstructure.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">SEM micrograph of the as-cast Co<ce:inf loc="post">61</ce:inf>Cr<ce:inf loc="post">35</ce:inf>Ti<ce:inf loc="post">4</ce:inf> alloy and profile concentration (PK) along AA′ line for Co, Cr and Ti (a) secondary electrons (SEI) 3000×, (b) PK for sample with etching and (c) PK for sample without etching.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Selected region of XRD patterns of Co<ce:inf loc="post">61</ce:inf>Cr<ce:inf loc="post">35</ce:inf>Ti<ce:inf loc="post">4</ce:inf> alloy related to the different heat treatments.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Anodic polarization curve of Co<ce:inf loc="post">61</ce:inf>Cr<ce:inf loc="post">35</ce:inf>Ti<ce:inf loc="post">4</ce:inf> alloy examined in 0.9% NaCl at 20<ce:hsp sp="0.25"></ce:hsp>°C.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:table colsep="0" frame="topbot" id="tbl1" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Chemical composition and Vickers hardness of the as-cast and heat treated Co–Cr–Ti alloys (30<ce:hsp sp="0.25"></ce:hsp>N, 10<ce:hsp sp="0.25"></ce:hsp>s)</ce:simple-para>
+</ce:caption>
+<tgroup cols="5">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<colspec colname="col5"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Sample no.</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Alloy composition (at.%)</entry>
+<entry align="left" nameend="col5" namest="col3" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Hardness (HV)</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">As-cast</entry>
+<entry align="left" nameend="col5" namest="col4" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Heat treated 800<hsp sp="0.25"></hsp>°C, 10<hsp sp="0.25"></hsp>h</entry>
+</row>
+<row>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Air cooling</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Water cooling</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Co<inf loc="post">76</inf>Cr<inf loc="post">20</inf>Ti<inf loc="post">4</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">302</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">325</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">321</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Co<inf loc="post">71</inf>Cr<inf loc="post">25</inf>Ti<inf loc="post">4</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">305</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">341</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">331</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">3</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Co<inf loc="post">66</inf>Cr<inf loc="post">30</inf>Ti<inf loc="post">4</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">315</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">385</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">356</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">4</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Co<inf loc="post">61</inf>Cr<inf loc="post">35</inf>Ti<inf loc="post">4</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">363</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">426</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">415</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Co<inf loc="post">72</inf>Cr<inf loc="post">20</inf>Ti<inf loc="post">8</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">373</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">427</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">411</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">6</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Co<inf loc="post">67</inf>Cr<inf loc="post">25</inf>Ti<inf loc="post">8</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">392</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">445</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">444</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">7</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Co<inf loc="post">62</inf>Cr<inf loc="post">30</inf>Ti<inf loc="post">8</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">503</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">524</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">520</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">8</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Co<inf loc="post">57</inf>Cr<inf loc="post">35</inf>Ti<inf loc="post">8</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">662</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">681</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">723</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">9</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Co<inf loc="post">68</inf>Cr<inf loc="post">20</inf>Ti<inf loc="post">12</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">511</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">521</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">521</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">10</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Co<inf loc="post">63</inf>Cr<inf loc="post">25</inf>Ti<inf loc="post">12</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">557</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">559</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">526</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">11</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Co<inf loc="post">58</inf>Cr<inf loc="post">30</inf>Ti<inf loc="post">12</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">689</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">694</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">712</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">12</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Co<inf loc="post">53</inf>Cr<inf loc="post">35</inf>Ti<inf loc="post">12</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1012</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1031</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1061</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl2" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Chemical composition and microhardness (0.49<ce:hsp sp="0.25"></ce:hsp>N, 10<ce:hsp sp="0.25"></ce:hsp>s) of dendrites and interdendritic region for Co<ce:inf loc="post">61</ce:inf>Cr<ce:inf loc="post">35</ce:inf>Ti<ce:inf loc="post">4</ce:inf> alloy</ce:simple-para>
+</ce:caption>
+<tgroup cols="7">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<colspec colname="col5"></colspec>
+<colspec colname="col6"></colspec>
+<colspec colname="col7"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Alloy Co<inf loc="post">61</inf>Cr<inf loc="post">35</inf>Ti<inf loc="post">4</inf>
+</entry>
+<entry align="left" nameend="col4" namest="col2" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Composition (at.%)</entry>
+<entry align="left" nameend="col7" namest="col5" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Microhardness (HV)</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Co</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Cr</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">As-cast</entry>
+<entry align="left" nameend="col7" namest="col6" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Heat treated 800<hsp sp="0.25"></hsp>°C, 10<hsp sp="0.25"></hsp>h</entry>
+</row>
+<row>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Air cooling</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Water cooling</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Interdendritic region</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">63.07</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">34.65</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.27</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">452</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">495</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">471</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Dendrites</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">61.67</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">35.51</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.80</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">248</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">328</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">325</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl3" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">The results of quantitative metallography and hardness of Co<ce:inf loc="post">61</ce:inf>Cr<ce:inf loc="post">35</ce:inf>Ti<ce:inf loc="post">4</ce:inf> alloy for the different heat treatments</ce:simple-para>
+</ce:caption>
+<tgroup cols="5">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<colspec colname="col5"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Temperature of heat treatment (°C)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Dendrites region (%)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Interdendrites region (%)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Average area of grains (μm<sup loc="post">2</sup>)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Hardness (HV)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1000</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">18.02</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">81.98</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">33.27</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">415</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">800</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">29.68</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">70.32</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">54.37</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">371</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">400</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">50.11</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">49.89</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">112.88</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">325</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl4" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Electrode potential <ce:italic>E</ce:italic>
+<ce:inf loc="post">pitt</ce:inf> (vs. SCE) for Co–Cr–Ti alloys</ce:simple-para>
+</ce:caption>
+<tgroup cols="3">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Sample no.</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Alloy composition (at.%)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>E</italic>
+<inf loc="post">pitt</inf> (mV)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Co<inf loc="post">76</inf>Cr<inf loc="post">20</inf>Ti<inf loc="post">4</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">860</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Co<inf loc="post">71</inf>Cr<inf loc="post">25</inf>Ti<inf loc="post">4</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">995</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">3</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Co<inf loc="post">66</inf>Cr<inf loc="post">30</inf>Ti<inf loc="post">4</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1150</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">4</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Co<inf loc="post">61</inf>Cr<inf loc="post">35</inf>Ti<inf loc="post">4</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1030</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Co<inf loc="post">72</inf>Cr<inf loc="post">20</inf>Ti<inf loc="post">8</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1090</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">6</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Co<inf loc="post">67</inf>Cr<inf loc="post">25</inf>Ti<inf loc="post">8</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">860</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">7</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Co<inf loc="post">62</inf>Cr<inf loc="post">30</inf>Ti<inf loc="post">8</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">950</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">8</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Co<inf loc="post">57</inf>Cr<inf loc="post">35</inf>Ti<inf loc="post">8</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">930</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">9</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Co<inf loc="post">68</inf>Cr<inf loc="post">20</inf>Ti<inf loc="post">12</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1100</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">10</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Co<inf loc="post">63</inf>Cr<inf loc="post">25</inf>Ti<inf loc="post">12</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1130</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">11</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Co<inf loc="post">58</inf>Cr<inf loc="post">30</inf>Ti<inf loc="post">12</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1020</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">12</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Co<inf loc="post">53</inf>Cr<inf loc="post">35</inf>Ti<inf loc="post">12</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">990</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+</ce:floats>
+<ce:title>Structure and properties of biomedical Co–Cr–Ti alloys</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>Tanja</ce:given-name>
+<ce:surname>Matković</ce:surname>
+<ce:cross-ref refid="cor1">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Ljerka</ce:given-name>
+<ce:surname>Slokar</ce:surname>
+</ce:author>
+<ce:author>
+<ce:given-name>Prosper</ce:given-name>
+<ce:surname>Matković</ce:surname>
+</ce:author>
+<ce:affiliation>
+<ce:textfn>Faculty of Metallurgy, University of Zagreb, Aleja narodnih heroja 3, 44000 Sisak, Croatia</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>⁎</ce:label>
+<ce:text>Corresponding author.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="27" month="4" year="2005"></ce:date-received>
+<ce:date-revised day="9" month="6" year="2005"></ce:date-revised>
+<ce:date-accepted day="9" month="6" year="2005"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">In this work 12 dental Co–Cr casting alloys containing titanium in the range of 4–12<ce:hsp sp="0.25"></ce:hsp>wt.% have been studied. Optical and SEM microscopy show that all samples have similar two phases dendritic microstructure. By means of X-ray diffraction two phases of similar compositions were identified as fcc and hcp Co-rich solid solutions. Hardness measurement reveals that hardness increases with titanium content and the percentage of hardener phase. The corrosion resistance of most as-cast alloys is prominent thanks to the presence of titanium. According to the microstructure, the corrosion resistance and the criterion that the hardness should be close to that of commercial Co–Cr base dental alloys, samples 3–5 can be excellent candidates for biomedical applications.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Co–Cr–Ti alloys</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Dental alloys</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Microstructure</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Hardness</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Corrosion resistance</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Cobalt–chromium base alloys can be generally described as non-magnetic, wear, corrosion and heat resistant. Many properties of the alloys originate from the crystallographic nature of cobalt, the solid solution strengthening effect of chromium and alloying elements, the formation of extremely hard carbides and the corrosion resistance imparted by chromium <ce:cross-ref refid="bib1">[1]</ce:cross-ref>. These alloys have been used for many years as dental and surgical implants due to their excellent resistance to body fluids and biocompatibility <ce:cross-refs refid="bib2 bib3">[2,3]</ce:cross-refs>. The first medical use of Co–Cr base alloys was in the cast of dental implants. In order to achieve better performances and to improve their relatively poor ductility the addition of different alloying elements has been intensively studied <ce:cross-ref refid="bib4">[4]</ce:cross-ref>. Recently, it is also interesting to develop Co–Cr base alloys suitable for coating with ceramics, or so called enamelling alloys <ce:cross-refs refid="bib5 bib6">[5,6]</ce:cross-refs>.</ce:para>
+<ce:para view="all">In the past 2 decades, titanium and its alloys are the most commonly used dental and orthopaedic implant materials because of their outstanding properties. Titanium has many exceptional advantages, such as light weight, adequate strength, good corrosion resistance and excellent biocompatibility <ce:cross-refs refid="bib7 bib8">[7,8]</ce:cross-refs>. Therefore, it may be expected positive alloying effects of titanium on the biomedical and mechanical properties of the base alloy. The available data confirm that the addition of titanium to the traditional Co–Cr dental alloy can improve some physical properties <ce:cross-refs refid="bib9 bib10">[9,10]</ce:cross-refs>, but also show insufficiency in the investigation of this topic.</ce:para>
+<ce:para view="all">The purpose of this article is to present the results of an experimental study of the effect of titanium addition on the microstructure and some properties of Co–Cr alloys. Hardness and corrosion behaviour of the as-cast Co–Cr–Ti alloys would be evaluated with a hope of developing an alloy suitable for biomedical application.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Materials and methods</ce:section-title>
+<ce:para view="all">Twelve samples of Co–Cr–Ti alloys with titanium content in the range of 4–12<ce:hsp sp="0.25"></ce:hsp>at.% were prepared by melting the elements (with purity better than 99.9%) in a laboratory argon arc-furnace. To ensure homogeneity, the buttons (5<ce:hsp sp="0.25"></ce:hsp>g) were three times remelted. Casting of alloys was realised in the same equipment by means of specially constructed copper anode, which has served as the casting mould. In this way, cylindrical samples with dimensions about 7<ce:hsp sp="0.25"></ce:hsp>mm<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>12<ce:hsp sp="0.25"></ce:hsp>mm were produced directly.</ce:para>
+<ce:para view="all">Microstructural observation of the as-cast specimens was performed by an optical microscope and a scanning electron microanalyser (SEM) of type Jeol, JXA 50A. Samples were prepared using a standard metallographic technique of grinding with SiC abrasive paper and finally polishing with Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> suspension. Etching was made with a freshly prepared solution of 50<ce:hsp sp="0.25"></ce:hsp>ml HCl, 5<ce:hsp sp="0.25"></ce:hsp>ml HNO<ce:inf loc="post">3</ce:inf> and 50<ce:hsp sp="0.25"></ce:hsp>ml H<ce:inf loc="post">2</ce:inf>O warmed on 50<ce:hsp sp="0.25"></ce:hsp>°C, or with Krolls reagent (1–3<ce:hsp sp="0.25"></ce:hsp>ml 40% HF, 2–6<ce:hsp sp="0.25"></ce:hsp>ml HNO<ce:inf loc="post">3</ce:inf> conc., 100<ce:hsp sp="0.25"></ce:hsp>ml H<ce:inf loc="post">2</ce:inf>O). For quantitative optical metallography, corresponding programmes (Olympus, Image Tool) were used.</ce:para>
+<ce:para view="all">X-ray diffraction analysis was performed on polished discs surfaces in the range from 10° to 100° of 2<ce:italic>θ</ce:italic> value using Cu Kα radiation (Philips, PW 3710). Phase identification was carried out by the matching of each characteristic peak with the JCPDS file <ce:cross-ref refid="bib11">[11]</ce:cross-ref>. Heat treatment was performed on the sample discs approximately 5<ce:hsp sp="0.25"></ce:hsp>mm thick, which were cut off cylindrical samples and heated in a quartz tube filled with argon.</ce:para>
+<ce:para view="all">Hardness was measured by Vickers method (30<ce:hsp sp="0.25"></ce:hsp>N, 10<ce:hsp sp="0.25"></ce:hsp>s). Microhardness measurements were performed on the microhardness tester Leica, PW 3710.</ce:para>
+<ce:para view="all">To evaluate the chemical stability of the alloys the method of cyclic potentiodynamic anodic polarization was performed between −600 and +1400<ce:hsp sp="0.25"></ce:hsp>mV at a scanning rate of 2<ce:hsp sp="0.25"></ce:hsp>mVs<ce:sup loc="post">−1</ce:sup> in deareated 0.9% NaCl solution at the room temperature. The counter electrode and reference electrode were platinum and saturated calomel electrode (SCE), respectively. The cast disc samples were used as electrodes (working surface cca 34<ce:hsp sp="0.25"></ce:hsp>mm<ce:sup loc="post">2</ce:sup>) so that the non-test surfaces of the specimens were coated with epoxy resin. Surface preparation was done by grinding with 600 grit abrasive paper, followed by thorough cleaning in distilled water, degreasing with ethanol and drying. Pitting corrosion was stimulated by polarizing the specimens to noble potential until the passive oxide film on the metal surface breaks down. The parameter of interest is the pitting potential, <ce:italic>E</ce:italic>
+<ce:inf loc="post">pitt</ce:inf>, i.e. the potential of passive film breakdown.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:para view="all">The effect of titanium addition on the microstructure and properties of Co–Cr alloys was studied on 12 experimental samples with the composition close to that of the similar commercial as-cast dental alloys (<ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+<ce:float-anchor refid="tbl1"></ce:float-anchor>).</ce:para>
+<ce:para view="all">Observing the microstructure of as-cast Co–Cr-–Ti alloys under the optical and scanning electron microanalyser, after chemical etching, show that all samples have similar two phases eutectic dendritic microstructure. It consists of dendrites—dark phase and interdendritic region—light phase, as can be seen on the optical and SEM micrographs of sample 4 (<ce:cross-refs refid="fig1 fig2">Figs. 1 and 2</ce:cross-refs>a<ce:float-anchor refid="fig1"></ce:float-anchor>
+<ce:float-anchor refid="fig2"></ce:float-anchor>), which is selected as representative.</ce:para>
+<ce:para view="all">The chemical composition of these two phases were established by SEM and EDX point analyses. The correct average concentration of elements was obtained by using of BE-image (back-scattered electron image) on the sample without etching. Namely, the selective chemical etching leads to an enrichment or impoverishment of elements on the sample surface and to the probably wrong conclusions about the chemical composition of the phases, as in Refs. <ce:cross-refs refid="bib10 bib12">[10,12]</ce:cross-refs>. Evidence of this are the profile concentrations (PK) of elements Co, Cr and Ti along AA′ line for the same sample (No. 4) with and without etching (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref> b and c). The results from <ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>
+<ce:float-anchor refid="tbl2"></ce:float-anchor> confirm that chemical compositions of dendrites and interdendritic region are very close for the sample without etching.</ce:para>
+<ce:para view="all">X-ray diffraction analysis was performed on the representative alloy Co<ce:inf loc="post">61</ce:inf>Cr<ce:inf loc="post">35</ce:inf>Ti<ce:inf loc="post">4</ce:inf> in as-cast and heat-treated conditions. <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor> shows the X-ray diffraction (XRD) patterns related to the different heat treatments. As can be seen the as-cast sample consists of two phases identified as the Co-rich solid solution having fcc and hcp lattice. After the homogenisation treatments at 1000 and 800<ce:hsp sp="0.25"></ce:hsp>°C for 10<ce:hsp sp="0.25"></ce:hsp>h and quenching in water, the XRD patterns show also the presence of the fcc and hcp Co-rich solid solutions. The relative intensities of the X-ray diffraction peaks corresponding to the hcp phase increase, while those associated with the fcc phase decrease indicating that a phase transformation has taken place. This is in agreement with the data about the allotropic transformation of metastable fcc to hcp phase in a Co–Cr base alloys <ce:cross-ref refid="bib13">[13]</ce:cross-ref>. The corresponding amounts of fcc phase were calculated as the rest from the integrated intensities of the (2<ce:hsp sp="0.25"></ce:hsp>0<ce:hsp sp="0.25"></ce:hsp>0)<ce:inf loc="post">fcc</ce:inf> and (1<ce:hsp sp="0.25"></ce:hsp>0<ce:hsp sp="0.25"></ce:hsp>
+<mml:math altimg="si1.gif" overflow="scroll">
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+</mml:math>
+<ce:hsp sp="0.25"></ce:hsp>1)<ce:inf loc="post">hcp</ce:inf> peaks using relationship proposed by Sage and Guillaud <ce:cross-ref refid="bib14">[14]</ce:cross-ref>:<ce:display>
+<ce:formula>
+<mml:math altimg="si2.gif" overflow="scroll">
+<mml:mrow>
+<mml:mtext>wt</mml:mtext>
+<mml:mtext>.</mml:mtext>
+<mml:mo>%</mml:mo>
+<mml:mi> </mml:mi>
+<mml:mtext>hcp</mml:mtext>
+<mml:mo>=</mml:mo>
+<mml:mfrac>
+<mml:mrow>
+<mml:mn>100</mml:mn>
+<mml:mo>×</mml:mo>
+<mml:msup>
+<mml:mi>I</mml:mi>
+<mml:mrow>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+</mml:msup>
+</mml:mrow>
+<mml:mrow>
+<mml:msup>
+<mml:mi>I</mml:mi>
+<mml:mrow>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+</mml:msup>
+<mml:mo>+</mml:mo>
+<mml:mn>1.5</mml:mn>
+<mml:mo>×</mml:mo>
+<mml:msup>
+<mml:mi>I</mml:mi>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+</mml:mrow>
+</mml:msup>
+</mml:mrow>
+</mml:mfrac>
+<mml:mo>.</mml:mo>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>
+<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref> illustrated the amounts of non-transformed fcc phase for the as-cast and heat-treated conditions. The XRD pattern for the alloy treated at 400<ce:hsp sp="0.25"></ce:hsp>°C for 10<ce:hsp sp="0.25"></ce:hsp>h and quenched in water does not exhibit the fcc diffraction peaks. It shows the presence of the hcp phase and the intermetallic compound Co–Cr or σ-phase. The appearance of σ-phase is expected, because it is known that in the carbon-free systems in addition to the Co-rich solid solution, the σ-phase also occurs <ce:cross-ref refid="bib15">[15]</ce:cross-ref>.</ce:para>
+<ce:para view="all">The results of hardness measurement on the as-cast and heat treated samples (<ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>) revealed the strong influence of alloy chemistry on hardness values. The titanium content is more important than the chromium content, so that hardness increases about three times from samples 1–12. Contrary to this, hardness of alloys is not significantly influenced by heat treatment, as show its slightly increased values. From the results of the microhardness measurement on sample 4 (<ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>) it can be seen that interdendritic region has a greater microhardness than the dendrites. The reason for this is the different crystal structures of these two phases, considering that their chemical compositions are nearly the same. According to this, the hardness of sample 4 (<ce:cross-ref refid="tbl3">Table 3</ce:cross-ref>
+<ce:float-anchor refid="tbl3"></ce:float-anchor>) increases with the percentage of hardener phase, i.e. interdendritic region after different heat treatments, which are given in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>.</ce:para>
+<ce:para view="all">The resistance of as-cast alloys to localized attack was determined from cyclic anodic polarization tests in 0.9% NaCl solution. With this technique, through a potential cycle the passive, spontaneously formed surface oxide film breakdowns This is marked by a large and generally increasing polarizing current, due to the localized or pitting-type corrosion, as can be seen on the registered cyclic voltammogram of representative sample (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor>). Since a material with higher pitting potential can be considered as corrosion resistant, <ce:italic>E</ce:italic>
+<ce:inf loc="post">pitt</ce:inf> was used as the criterion for corrosion resistance of alloys. The values determined from the curves of cyclic anodic polarization are shown in <ce:cross-ref refid="tbl4">Table 4</ce:cross-ref>
+<ce:float-anchor refid="tbl4"></ce:float-anchor>. From these data, it can be seen that almost all as-cast Co–Cr–Ti alloys show similar and relatively high <ce:italic>E</ce:italic>
+<ce:inf loc="post">pitt</ce:inf> values, which are not significantly affected by the alloy composition. Prominent corrosion characteristics of these alloys can be therefore ascribed to the presence of titanium, as one of the most corrosion-resistant material used for biomedical applications. That also confirms our previous investigation of as-cast Co–Cr–Mo and Co–Cr–Ni alloys <ce:cross-ref refid="bib16">[16]</ce:cross-ref>, in them these alloys show less <ce:italic>E</ce:italic>
+<ce:inf loc="post">pitt</ce:inf> values than Co–Cr–Ti alloys in spite of similarity of compositions.</ce:para>
+<ce:para view="all">The results of the present article suggest, although most of the 12 experimental alloys reveal the appropriate microstructure and corrosion resistance, that samples 3–5 closely satisfied also the hardness values of commercial Co–Cr base dental alloys (∼350<ce:hsp sp="0.25"></ce:hsp>HV) and can be excellent candidates for biomedical applications.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">Investigation of cobalt–chromium alloys with addition of titanium in the range of 4–12<ce:hsp sp="0.25"></ce:hsp>wt.% revealed the following results:<ce:list>
+<ce:list-item>
+<ce:label>•</ce:label>
+<ce:para view="all">Optical microscopy, SEM and EDX point analyses show that all as-cast samples have similar, two phases dendritic solidification microstructure, which consists of dendrites and interdendritic region with nearly the same chemical composition.</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>•</ce:label>
+<ce:para view="all">The XRD analysis carried out on the as-cast alloy Co<ce:inf loc="post">61</ce:inf>Cr<ce:inf loc="post">35</ce:inf>Ti<ce:inf loc="post">4</ce:inf> reveals the fcc and hcp Co-rich solid solution. The allotropic transformation of metastable fcc to the hcp phase proceedes with the heat treatment at 1000 and 800<ce:hsp sp="0.25"></ce:hsp>°C and consequently to this decreases the percentage of the fcc phase. After the heat treatment at 400<ce:hsp sp="0.25"></ce:hsp>°C, in addition to the hcp solid solution the diffractogram displays the σ-phase.</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>•</ce:label>
+<ce:para view="all">Hardness values are strongly influenced by alloy composition, so that hardness increases primary with titanium content and than with chromium content. They are also dependent upon the percentage of hardener phase, i.e. the interdendritic region.</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>•</ce:label>
+<ce:para view="all">Most of experimental alloys reveal very good corrosion characteristics, because of the presence of titanium, known for excellent corrosion resistance.</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>•</ce:label>
+<ce:para view="all">According to the microstructure, corrosion resistance and hardness values the samples 3–5 have great potential in biomedical applications.</ce:para>
+</ce:list-item>
+</ce:list>
+</ce:para>
+</ce:section>
+</ce:sections>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Marti</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Injury</sb:maintitle>
+</sb:title>
+<sb:volume-nr>31</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>4</sb:issue-nr>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>18</sb:first-page>
+<sb:last-page>21</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Korber</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Ludwig</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Zahnartzliche Werkstoffkunde und Technologie</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1993</sb:date>
+<sb:publisher>
+<sb:name>Georg Thieme Verlag</sb:name>
+<sb:location>Stuttgart</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.W.</ce:given-name>
+<ce:surname>Cahn</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Haasen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.J.</ce:given-name>
+<ce:surname>Kramer</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:book-series>
+<sb:series>
+<sb:title>
+<sb:maintitle>Materials Science and Technology, Medical and Dental Materials</sb:maintitle>
+</sb:title>
+<sb:volume-nr>vol. 14</sb:volume-nr>
+</sb:series>
+</sb:book-series>
+<sb:date>1992</sb:date>
+<sb:publisher>
+<sb:name>D.F. Williams VCH Verlags</sb:name>
+<sb:location>Weinheim</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Longquan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.O.</ce:given-name>
+<ce:surname>Northwood</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Zhengwang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>28</sb:volume-nr>
+</sb:series>
+<sb:date>1993</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1312</sb:first-page>
+<sb:last-page>1316</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.R.</ce:given-name>
+<ce:surname>Kelly</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Nishimura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.D.</ce:given-name>
+<ce:surname>Campbell</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Prosthet. Dent.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>75</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>1</sb:issue-nr>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>18</sb:first-page>
+<sb:last-page>32</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Lopez- Esteban</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Saiz</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Fujino</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Oku</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Suganuma</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.P.</ce:given-name>
+<ce:surname>Tomsia</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Eur. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>23</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>15</sb:issue-nr>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2921</sb:first-page>
+<sb:last-page>2930</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.R.</ce:given-name>
+<ce:surname>Paar</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.K.</ce:given-name>
+<ce:surname>Gardner</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.W.</ce:given-name>
+<ce:surname>Toth</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Prosthet. Dent.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>54</sb:volume-nr>
+</sb:series>
+<sb:date>1985</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>410</sb:first-page>
+<sb:last-page>413</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Taira</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.B.</ce:given-name>
+<ce:surname>Moser</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.H.</ce:given-name>
+<ce:surname>Greener</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Dent. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>5</sb:volume-nr>
+</sb:series>
+<sb:date>1989</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>45</sb:first-page>
+<sb:last-page>50</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Igarashi</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Dent. Technol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>13</sb:volume-nr>
+</sb:series>
+<sb:date>1985</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1195</sb:first-page>
+<sb:last-page>1199</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.Y.</ce:given-name>
+<ce:surname>Iwama</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.D.</ce:given-name>
+<ce:surname>Preston</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Int. J. Prosthod.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>10</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>4</sb:issue-nr>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>309</sb:first-page>
+<sb:last-page>317</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<ce:other-ref>
+<ce:textref>Powder Diffraction File Search Manual, JCPDS International Centre for Diffraction Data, Swarthmore, 1982.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Kulumburg</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Kvas</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Wiedner</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Golob</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Warbichler</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Schmied</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.O.</ce:given-name>
+<ce:surname>Bratschko</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Prakt. Metallogr.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>38</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>9</sb:issue-nr>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>514</sb:first-page>
+<sb:last-page>531</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Montero-Ocampo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Juarez</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Salinas Rodriguez</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metall. Mater. Trans. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>33</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2229</sb:first-page>
+<sb:last-page>2235</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Sage</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Guillaud</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Rev. Met.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>49</sb:volume-nr>
+</sb:series>
+<sb:date>1950</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>139</sb:first-page>
+<sb:last-page>145</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>E.O.</ce:given-name>
+<ce:surname>Hall</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.H.</ce:given-name>
+<ce:surname>Algie</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metall. Rev.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>11</sb:volume-nr>
+</sb:series>
+<sb:date>1966</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>61</sb:first-page>
+<sb:last-page>88</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib16">
+<ce:label>[16]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Matković</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Matković</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Malina</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>366</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>293</sb:first-page>
+<sb:last-page>297</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

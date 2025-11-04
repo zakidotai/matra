@@ -1,0 +1,802 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838805011333</prism:url><dc:identifier>doi:10.1016/j.jallcom.2005.06.043</dc:identifier><eid>1-s2.0-S0925838805011333</eid><prism:doi>10.1016/j.jallcom.2005.06.043</prism:doi><pii>S0925-8388(05)01133-3</pii><dc:title>High hydrogen permeability in the Nb-rich Nb–Ti–Ni alloy </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>407</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>115</prism:startingpage><prism:endingpage>117</prism:endingpage><prism:pagerange>115-117</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2006-01-05</prism:coverdate><prism:coverdisplaydate>5 January 2006</prism:coverdisplaydate><prism:copyright>Copyright © 2005 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Luo, W.</dc:creator><dc:creator>Ishikawa, K.</dc:creator><dc:creator>Aoki, K.</dc:creator><dc:description>
+                  The microstructure and the hydrogen permeability of the Nb-rich Nb–Ti–Ni alloy, i.e., the Nb56Ti23Ni21 alloy were investigated and compared with those of the Nb40Ti30Ni30 alloy. The Nb56Ti23Ni21 alloy consisted of a combination of the primary phase bcc- (Nb, Ti) solid solution with the eutectic phase {bcc- (Nb, Ti)+B2-TiNi}. The volume fraction of the former and the latter phases were 62 and 38vol.%, respectively. The Nb56Ti23Ni21 alloy showed the higher Φ value of 3.47×10−8 (molH2
+                     m−1
+                     s−1
+                     Pa−0.5) at 673K, which is 1.8 times higher than that of the Nb40Ti30Ni30 alloy, which has been reported to be highest in the Nb–Ti–Ni system. The present work demonstrated that the Nb-rich Nb–Ti–Ni alloys consisting of only the primary phase bcc- (Nb, Ti) and the eutectic phase {bcc- (Nb, Ti)+B2-TiNi} are promising for the hydrogen permeation membrane.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Hydrogen absorbing materials</dcterms:subject><dcterms:subject>Metal hydrides</dcterms:subject><dcterms:subject>X-ray diffraction</dcterms:subject><dcterms:subject>Diffusion</dcterms:subject><dcterms:subject>Microstructure</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838805011333" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838805011333" rel="scidir"/></coredata><objects><object category="thumbnail" height="21" mimetype="image/gif" multimediatype="GIF image file" ref="si4" size="467" type="ALTIMG" width="91">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011333-si4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="21" mimetype="image/gif" multimediatype="GIF image file" ref="si3" size="419" type="ALTIMG" width="78">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011333-si3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="21" mimetype="image/gif" multimediatype="GIF image file" ref="si2" size="681" type="ALTIMG" width="155">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011333-si2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="21" mimetype="image/gif" multimediatype="GIF image file" ref="si1" size="467" type="ALTIMG" width="91">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011333-si1.gif?httpAccept=%2A%2F%2A</object><object category="standard" height="226" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="71029" type="IMAGE-DOWNSAMPLED" width="565">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011333-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="50" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="2357" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011333-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="224" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="7469" type="IMAGE-DOWNSAMPLED" width="343">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011333-gr3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="82" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="1777" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011333-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="232" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="5949" type="IMAGE-DOWNSAMPLED" width="343">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011333-gr1.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="85" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="1463" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011333-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="245" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="5590" type="IMAGE-DOWNSAMPLED" width="336">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011333-gr4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="91" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="1463" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805011333-gr4.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>29244443964</scopus-id><scopus-eid>2-s2.0-29244443964</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/29244443964" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20050809">2005-08-09</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20050809">2005-08-09</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-03-29T03:54:28</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838805011333</xocs:eid>
+<xocs:pii-formatted>S0925-8388(05)01133-3</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805011333</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2005.06.043</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838805X0247X</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.349087-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20060105</xocs:date-search-begin>
+<xocs:year-nav>2006</xocs:year-nav>
+<xocs:indexeddate epoch="1123545600">2005-08-09T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>407</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>407</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 407, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>19</xocs:sort-order>
+<xocs:first-fp>115</xocs:first-fp>
+<xocs:last-lp>117</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>115</xocs:first-page>
+<xocs:last-page>117</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20060105</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>5 January 2006</xocs:cover-date-text>
+<xocs:cover-date-start>2006-01-05</xocs:cover-date-start>
+<xocs:cover-date-year>2006</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Metallurgy</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2005 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>HIGHHYDROGENPERMEABILITYINNBRICHNBTINIALLOY</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>LUO</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>W</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Summary</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>NISHIMURA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1991</xocs:ref-pub-year>
+<xocs:ref-first-fp>90</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>81</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>HASHI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>215</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>HASHI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>1026</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>LUOX2006X115</xocs:refkey3>
+<xocs:refkey4lp>LUOX2006X115X117</xocs:refkey4lp>
+<xocs:refkey4ai>LUOX2006X115XW</xocs:refkey4ai>
+<xocs:refkey5>LUOX2006X115X117XW</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(05)01133-3</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805011333</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838805011333</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2005.06.043</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-08T03:04:47.622496-04:00</xocs:timestamp>
+<xocs:cover-date-start>2006-01-05</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838805011333-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011333/MAIN/application/pdf/f22fa0f76a45a6e445803d9d98bdd5bf/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011333/MAIN/application/pdf/f22fa0f76a45a6e445803d9d98bdd5bf/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>156284</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>3</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838805011333-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011333/PREVIEW/image/png/af38679aaa6b777aced4032ec9685e49/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011333/PREVIEW/image/png/af38679aaa6b777aced4032ec9685e49/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>64588</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011333-si4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011333/STRIPIN/image/gif/51e89b4d265b4948ef3dd7e3969e566b/si4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011333/STRIPIN/image/gif/51e89b4d265b4948ef3dd7e3969e566b/si4.gif</xocs:ucs-locator>
+<xocs:file-basename>si4</xocs:file-basename>
+<xocs:filename>si4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>467</xocs:filesize>
+<xocs:pixel-height>21</xocs:pixel-height>
+<xocs:pixel-width>91</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011333-si3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011333/STRIPIN/image/gif/b11429c318c533bf4df99878ef3435fa/si3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011333/STRIPIN/image/gif/b11429c318c533bf4df99878ef3435fa/si3.gif</xocs:ucs-locator>
+<xocs:file-basename>si3</xocs:file-basename>
+<xocs:filename>si3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>419</xocs:filesize>
+<xocs:pixel-height>21</xocs:pixel-height>
+<xocs:pixel-width>78</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011333-si2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011333/STRIPIN/image/gif/04a0b57a9f4183845090e241400f8a0b/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011333/STRIPIN/image/gif/04a0b57a9f4183845090e241400f8a0b/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si2</xocs:file-basename>
+<xocs:filename>si2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>681</xocs:filesize>
+<xocs:pixel-height>21</xocs:pixel-height>
+<xocs:pixel-width>155</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011333-si1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011333/STRIPIN/image/gif/51e89b4d265b4948ef3dd7e3969e566b/si4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011333/STRIPIN/image/gif/51e89b4d265b4948ef3dd7e3969e566b/si4.gif</xocs:ucs-locator>
+<xocs:file-basename>si1</xocs:file-basename>
+<xocs:filename>si1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>467</xocs:filesize>
+<xocs:pixel-height>21</xocs:pixel-height>
+<xocs:pixel-width>91</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011333-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011333/gr2/DOWNSAMPLED/image/jpeg/d8a8c7f248664d23ce247ea98e864f45/gr2.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011333/gr2/DOWNSAMPLED/image/jpeg/d8a8c7f248664d23ce247ea98e864f45/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>71029</xocs:filesize>
+<xocs:pixel-height>226</xocs:pixel-height>
+<xocs:pixel-width>565</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011333-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011333/gr2/THUMBNAIL/image/gif/9190058c59676e8e961441d2700e5330/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011333/gr2/THUMBNAIL/image/gif/9190058c59676e8e961441d2700e5330/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2357</xocs:filesize>
+<xocs:pixel-height>50</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011333-gr3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011333/gr3/DOWNSAMPLED/image/gif/6dbe1261bee939317ad213847c4fb3db/gr3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011333/gr3/DOWNSAMPLED/image/gif/6dbe1261bee939317ad213847c4fb3db/gr3.gif</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>7469</xocs:filesize>
+<xocs:pixel-height>224</xocs:pixel-height>
+<xocs:pixel-width>343</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011333-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011333/gr3/THUMBNAIL/image/gif/4ad6d8c1db5e354abaa2c43804f3aedc/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011333/gr3/THUMBNAIL/image/gif/4ad6d8c1db5e354abaa2c43804f3aedc/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1777</xocs:filesize>
+<xocs:pixel-height>82</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011333-gr1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011333/gr1/DOWNSAMPLED/image/gif/5ff6c8b71ae1a8f8ff604a1da2d4ae64/gr1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011333/gr1/DOWNSAMPLED/image/gif/5ff6c8b71ae1a8f8ff604a1da2d4ae64/gr1.gif</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>5949</xocs:filesize>
+<xocs:pixel-height>232</xocs:pixel-height>
+<xocs:pixel-width>343</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011333-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011333/gr1/THUMBNAIL/image/gif/f91d3b7d1cea3e0e6eafbcbb3128f10e/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011333/gr1/THUMBNAIL/image/gif/f91d3b7d1cea3e0e6eafbcbb3128f10e/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1463</xocs:filesize>
+<xocs:pixel-height>85</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011333-gr4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011333/gr4/DOWNSAMPLED/image/gif/98394b78efe4eabc6713f02c869c9a02/gr4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011333/gr4/DOWNSAMPLED/image/gif/98394b78efe4eabc6713f02c869c9a02/gr4.gif</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>5590</xocs:filesize>
+<xocs:pixel-height>245</xocs:pixel-height>
+<xocs:pixel-width>336</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805011333-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805011333/gr4/THUMBNAIL/image/gif/675f5736c0d2fdada9722811ba754065/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805011333/gr4/THUMBNAIL/image/gif/675f5736c0d2fdada9722811ba754065/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1463</xocs:filesize>
+<xocs:pixel-height>91</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>12875</aid>
+<ce:pii>S0925-8388(05)01133-3</ce:pii>
+<ce:doi>10.1016/j.jallcom.2005.06.043</ce:doi>
+<ce:copyright type="full-transfer" year="2005">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">An XRD pattern of the as-cast Nb<ce:inf loc="post">56</ce:inf>Ti<ce:inf loc="post">23</ce:inf>Ni<ce:inf loc="post">21</ce:inf> alloy.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">SEM photographs of the Nb<ce:inf loc="post">56</ce:inf>Ti<ce:inf loc="post">23</ce:inf>Ni<ce:inf loc="post">21</ce:inf> alloy. The right side photograph is the enlarged one of the eutectic phase which consists of layered (Nb, Ti) and TiNi microstructures.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">The plots of (<ce:italic>J</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>L</ce:italic>) vs. <mml:math altimg="si1.gif" overflow="scroll">
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msubsup>
+<mml:mi>P</mml:mi>
+<mml:mtext>u</mml:mtext>
+<mml:mrow>
+<mml:mn>0.5</mml:mn>
+</mml:mrow>
+</mml:msubsup>
+<mml:mo>−</mml:mo>
+<mml:msubsup>
+<mml:mi>P</mml:mi>
+<mml:mtext>d</mml:mtext>
+<mml:mrow>
+<mml:mn>0.5</mml:mn>
+</mml:mrow>
+</mml:msubsup>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math> for the Nb<ce:inf loc="post">56</ce:inf>Ti<ce:inf loc="post">23</ce:inf>Ni<ce:inf loc="post">21</ce:inf> alloy between 523 and 673<ce:hsp sp="0.25"></ce:hsp>K.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">The value of <ce:italic>Φ</ce:italic> for the Nb<ce:inf loc="post">56</ce:inf>Ti<ce:inf loc="post">23</ce:inf>Ni<ce:inf loc="post">21</ce:inf> and the Nb<ce:inf loc="post">40</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> alloys in the form of Arrhenius plot.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:table colsep="0" frame="topbot" id="tbl1" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Chemical compositions of the primary and the eutectic phases for the Nb<ce:inf loc="post">56</ce:inf>Ti<ce:inf loc="post">23</ce:inf>Ni<ce:inf loc="post">21</ce:inf> and the Nb<ce:inf loc="post">40</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> alloys</ce:simple-para>
+</ce:caption>
+<tgroup cols="8">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<colspec colname="col5"></colspec>
+<colspec colname="col6"></colspec>
+<colspec colname="col7"></colspec>
+<colspec colname="col8"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Alloy</entry>
+<entry align="left" nameend="col4" namest="col2" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Alloy composition (nominal) (mol%)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Phase</entry>
+<entry align="left" nameend="col8" namest="col6" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Chemical composition of the constituting phases (mol%)</entry>
+</row>
+<row>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Nb</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ni</entry>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Nb</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ni</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Nb<inf loc="post">56</inf>Ti<inf loc="post">23</inf>Ni<inf loc="post">21</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">56</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">23</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">21</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">(Nb, Ti)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">87</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">11</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">2</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">(Nb, Ti)<hsp sp="0.25"></hsp>+<hsp sp="0.25"></hsp>TiNi</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">21</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">37</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">42</entry>
+</row>
+<row>
+<entry align="left" nameend="col8" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<vsp sp="0.5"></vsp>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Nb<inf loc="post">40</inf>Ti<inf loc="post">30</inf>Ni<inf loc="post">30</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">40</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">30</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">30</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">(Nb, Ti)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">83</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">13</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">4</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">(Nb, Ti)<hsp sp="0.25"></hsp>+<hsp sp="0.25"></hsp>TiNi</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">21</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">38</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">41</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+</ce:floats>
+<ce:title>High hydrogen permeability in the Nb-rich Nb–Ti–Ni alloy</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Luo</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Ishikawa</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Aoki</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="cor1">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation id="aff1">
+<ce:label>a</ce:label>
+<ce:textfn>Department of Materials Science, Kitami Institute of Technology, 165 Koen-Cho, Kitami, Hokkaido 090-8507, Japan</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff2">
+<ce:label>b</ce:label>
+<ce:textfn>Graduate School of Kitami Institute of Technology, 165 Koen-Cho, Kitami, Hokkaido 090-8507, Japan</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>⁎</ce:label>
+<ce:text>Corresponding author. Tel.: +81 157 26 9452; fax: +81 157 26 9452.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="18" month="5" year="2005"></ce:date-received>
+<ce:date-accepted day="3" month="6" year="2005"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">The microstructure and the hydrogen permeability of the Nb-rich Nb–Ti–Ni alloy, i.e., the Nb<ce:inf loc="post">56</ce:inf>Ti<ce:inf loc="post">23</ce:inf>Ni<ce:inf loc="post">21</ce:inf> alloy were investigated and compared with those of the Nb<ce:inf loc="post">40</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> alloy. The Nb<ce:inf loc="post">56</ce:inf>Ti<ce:inf loc="post">23</ce:inf>Ni<ce:inf loc="post">21</ce:inf> alloy consisted of a combination of the primary phase bcc- (Nb, Ti) solid solution with the eutectic phase {bcc- (Nb, Ti)<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>B2-TiNi}. The volume fraction of the former and the latter phases were 62 and 38<ce:hsp sp="0.25"></ce:hsp>vol.%, respectively. The Nb<ce:inf loc="post">56</ce:inf>Ti<ce:inf loc="post">23</ce:inf>Ni<ce:inf loc="post">21</ce:inf> alloy showed the higher <ce:italic>Φ</ce:italic> value of 3.47<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>10<ce:sup loc="post">−8</ce:sup> (mol<ce:hsp sp="0.25"></ce:hsp>H<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>m<ce:sup loc="post">−1</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>s<ce:sup loc="post">−1</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>Pa<ce:sup loc="post">−0.5</ce:sup>) at 673<ce:hsp sp="0.25"></ce:hsp>K, which is 1.8 times higher than that of the Nb<ce:inf loc="post">40</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> alloy, which has been reported to be highest in the Nb–Ti–Ni system. The present work demonstrated that the Nb-rich Nb–Ti–Ni alloys consisting of only the primary phase bcc- (Nb, Ti) and the eutectic phase {bcc- (Nb, Ti)<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>B2-TiNi} are promising for the hydrogen permeation membrane.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Hydrogen absorbing materials</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Metal hydrides</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>X-ray diffraction</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Diffusion</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Microstructure</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Pd–Ag alloys are mainly used as a hydrogen permeation membrane for the separation and purification of hydrogen gas. However, since Pd is too expensive and scarce in resources, it is eagerly desired to develop non-palladium based and low cost hydrogen permeation alloys <ce:cross-ref refid="bib1">[1]</ce:cross-ref>. Although the hydrogen permeability <ce:italic>Φ</ce:italic> of the group 5A metals, i.e. vanadium, niobium and tantalum, is much higher than that of Pd and Pd–Ag alloys, these metals and their alloys break down by hydrogen embrittlement and can not be used as a hydrogen permeation membrane <ce:cross-ref refid="bib2">[2]</ce:cross-ref>. On the contrary, Hashi et al. have recently discovered that Nb-poor Nb–Ti–Ni alloys show a large resistance to the hydrogen embrittlement and the high hydrogen permeability <ce:cross-refs refid="bib3 bib4">[3,4]</ce:cross-refs>. They have shown that the <ce:italic>Φ</ce:italic> value increases with increasing Nb content, but the Nb content of the hydrogen permeable alloys is limited to below 40<ce:hsp sp="0.25"></ce:hsp>mol% <ce:cross-refs refid="bib3 bib4">[3,4]</ce:cross-refs>. For instance, <ce:italic>Φ</ce:italic> is measurable in the Nb<ce:inf loc="post">39</ce:inf>Ti<ce:inf loc="post">31</ce:inf>Ni<ce:inf loc="post">30</ce:inf> alloy. However, <ce:italic>Φ</ce:italic> is immeasurable in the Nb<ce:inf loc="post">42</ce:inf>Ti<ce:inf loc="post">20</ce:inf>Ni<ce:inf loc="post">38</ce:inf> and Nb<ce:inf loc="post">43</ce:inf>Ti<ce:inf loc="post">34</ce:inf>Ni<ce:inf loc="post">23</ce:inf> alloys, because the former alloy is brittle in the as-cast state and the latter one is broken down by the hydrogen embrittlement <ce:cross-refs refid="bib3 bib4">[3,4]</ce:cross-refs>. The hydrogen permeable Nb<ce:inf loc="post">39</ce:inf>Ti<ce:inf loc="post">31</ce:inf>Ni<ce:inf loc="post">30</ce:inf> alloy consists of the primary phase bcc- (Nb, Ti) and the eutectic phase {(Nb, Ti)<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>TiNi} phase. On the other hand, the Nb<ce:inf loc="post">42</ce:inf>Ti<ce:inf loc="post">20</ce:inf>Ni<ce:inf loc="post">38</ce:inf> alloy consists of the primary phase, the TiNi and brittle Nb<ce:inf loc="post">8</ce:inf>Ti<ce:inf loc="post">3</ce:inf>Ni<ce:inf loc="post">9</ce:inf> compounds, while the Nb<ce:inf loc="post">43</ce:inf>Ti<ce:inf loc="post">34</ce:inf>Ni<ce:inf loc="post">23</ce:inf> alloy consists of the primary phase, the eutectic phase and the TiNi compound. These experimental results suggest that the hydrogen permeability is measurable in the alloys consisting of only the primary phase and the eutectic phase, because these alloys are strong to the hydrogen embrittlement. It is expected that the alloys on the line connecting the eutectic and the primary compositions consist of both the primary phase and the eutectic one. Chemical compositions of the eutectic phase and the primary one in the Nb<ce:inf loc="post">39</ce:inf>Ti<ce:inf loc="post">31</ce:inf>Ni<ce:inf loc="post">30</ce:inf> alloy are expressed as Nb<ce:inf loc="post">20.5</ce:inf>Ti<ce:inf loc="post">38.5</ce:inf>Ni<ce:inf loc="post">41</ce:inf> and Nb<ce:inf loc="post">83</ce:inf>Ti<ce:inf loc="post">13</ce:inf>Ni<ce:inf loc="post">4</ce:inf>, respectively. Then, the Nb<ce:inf loc="post">56</ce:inf>Ti<ce:inf loc="post">23</ce:inf>Ni<ce:inf loc="post">21</ce:inf> alloy on the line connecting these two compositions may consist of only the primary phase and the eutectic one. In this letter, we report the microstructure and the hydrogen permeability <ce:italic>Φ</ce:italic> in the Nb-rich Nb<ce:inf loc="post">56</ce:inf>Ti<ce:inf loc="post">23</ce:inf>Ni<ce:inf loc="post">21</ce:inf> alloy.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental</ce:section-title>
+<ce:para view="all">The Nb<ce:inf loc="post">56</ce:inf>Ti<ce:inf loc="post">23</ce:inf>Ni<ce:inf loc="post">21</ce:inf> and Nb<ce:inf loc="post">40</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> alloys were prepared by arc melting using high purity Nb (99.9<ce:hsp sp="0.25"></ce:hsp>mass% purity), Ti (99.5<ce:hsp sp="0.25"></ce:hsp>mass% purity) and Ni (99.9<ce:hsp sp="0.25"></ce:hsp>mass% purity) in a purified argon atmosphere. In the present work, the alloy compositions are described in mol%. The as-cast alloys were cut into a disks of 12<ce:hsp sp="0.25"></ce:hsp>mm in diameter and 0.8<ce:hsp sp="0.25"></ce:hsp>mm in thickness with spark erosion wire-cutting machine. Both sides of the disks were polished with buff and α-alumina of 0.5<ce:hsp sp="0.25"></ce:hsp>μm particle size, and coated with Pd of a thickness of 190<ce:hsp sp="0.25"></ce:hsp>nm by the rf-sputtering machine to avoid oxidation. A microstructure of the as-cast samples was observed with a scanning electron microscope (SEM). Chemical compositions of the constituting phases were analyzed by using an energy dispersive X-ray spectrometer (EDS). Crystal structures of the alloys were identified with a powder X-ray diffractometer (XRD). The hydrogen permeability <ce:italic>Φ</ce:italic> was determined by using a hydrogen permeation measuring method, which has been described in details in the previous paper <ce:cross-ref refid="bib3">[3]</ce:cross-ref>. The hydrogen flux passing through the disk sample was measured by a flow meter. The hydrogen flux <ce:italic>J</ce:italic> is expressed as follows:<ce:display>
+<ce:formula>
+<ce:label>(1)</ce:label>
+<mml:math altimg="si2.gif" overflow="scroll">
+<mml:mrow>
+<mml:mi>J</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mi>Φ</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msubsup>
+<mml:mi>P</mml:mi>
+<mml:mtext>u</mml:mtext>
+<mml:mrow>
+<mml:mn>0.5</mml:mn>
+</mml:mrow>
+</mml:msubsup>
+<mml:mo>−</mml:mo>
+<mml:msubsup>
+<mml:mi>P</mml:mi>
+<mml:mtext>d</mml:mtext>
+<mml:mrow>
+<mml:mn>0.5</mml:mn>
+</mml:mrow>
+</mml:msubsup>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>/</mml:mo>
+<mml:mi>L</mml:mi>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>where <ce:italic>L</ce:italic> is the thickness of the disk, and <ce:italic>P</ce:italic>
+<ce:inf loc="post">u</ce:inf> and <ce:italic>P</ce:italic>
+<ce:inf loc="post">d</ce:inf> are a hydrogen pressure at the upstream and downstream sides, respectively. The value of <ce:italic>Φ</ce:italic> was calculated from the slope of the straight line plotted as the product of the hydrogen flux and the thickness of the disk <ce:italic>J</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>L</ce:italic> against the difference of square root of the partial hydrogen pressures <mml:math altimg="si3.gif" overflow="scroll">
+<mml:mrow>
+<mml:msubsup>
+<mml:mi>P</mml:mi>
+<mml:mtext>u</mml:mtext>
+<mml:mrow>
+<mml:mn>0.5</mml:mn>
+</mml:mrow>
+</mml:msubsup>
+<mml:mo>−</mml:mo>
+<mml:msubsup>
+<mml:mi>P</mml:mi>
+<mml:mtext>d</mml:mtext>
+<mml:mrow>
+<mml:mn>0.5</mml:mn>
+</mml:mrow>
+</mml:msubsup>
+</mml:mrow>
+</mml:math>.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:para view="all">
+<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor> shows an XRD pattern of the as-cast Nb<ce:inf loc="post">56</ce:inf>Ti<ce:inf loc="post">23</ce:inf>Ni<ce:inf loc="post">21</ce:inf> alloy. This alloy consists of the bcc- (Nb, Ti) solid solution and the B2-TiNi compound in the same way as the Nb<ce:inf loc="post">40</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> alloy (not shown). The lattice parameters of the (Nb, Ti) solid solution and the TiNi compound for the Nb<ce:inf loc="post">56</ce:inf>Ti<ce:inf loc="post">23</ce:inf>Ni<ce:inf loc="post">21</ce:inf> alloy are calculated to be 0.330 and 0.303<ce:hsp sp="0.25"></ce:hsp>nm, respectively.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor> shows SEM photographs of the Nb<ce:inf loc="post">56</ce:inf>Ti<ce:inf loc="post">23</ce:inf>Ni<ce:inf loc="post">21</ce:inf> alloy. The white phase is the primary (Nb, Ti) solid solution phase, and the dark one is the eutectic {(Nb, Ti)<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>TiNi} phase. The right side photograph is the enlarged one of the eutectic phase which consists of layered (Nb, Ti) and TiNi microstructures. Thus, the Nb<ce:inf loc="post">56</ce:inf>Ti<ce:inf loc="post">23</ce:inf>Ni<ce:inf loc="post">21</ce:inf> alloy consists of the primary phase and the eutectic one. The volume fraction of the primary and the eutectic phases for the Nb<ce:inf loc="post">56</ce:inf>Ti<ce:inf loc="post">23</ce:inf>Ni<ce:inf loc="post">21</ce:inf> alloy are 62 and 38<ce:hsp sp="0.25"></ce:hsp>vol.%, respectively. On the other hand, those of the primary and the eutectic phases for the Nb<ce:inf loc="post">40</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> alloy are 40 and 60<ce:hsp sp="0.25"></ce:hsp>vol.%, respectively. Chemical compositions of the primary and the eutectic phases for the Nb<ce:inf loc="post">56</ce:inf>Ti<ce:inf loc="post">23</ce:inf>Ni<ce:inf loc="post">21</ce:inf> and the Nb<ce:inf loc="post">40</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> alloys are tabulated in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+<ce:float-anchor refid="tbl1"></ce:float-anchor>. The chemical compositions of the primary phase and the eutectic one in the Nb<ce:inf loc="post">56</ce:inf>Ti<ce:inf loc="post">23</ce:inf>Ni<ce:inf loc="post">21</ce:inf> alloy are expressed as Nb<ce:inf loc="post">87</ce:inf>Ti<ce:inf loc="post">11</ce:inf>Ni<ce:inf loc="post">2</ce:inf> and Nb<ce:inf loc="post">21</ce:inf>Ti<ce:inf loc="post">37</ce:inf>Ni<ce:inf loc="post">42</ce:inf>, respectively, which are nearly the same as those of the Nb<ce:inf loc="post">40</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> alloy. That is, the primary phase is Nb-rich bcc-(Nb, Ti) solid solution dissolved with a small amount of Ni.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor> shows the plot of (<ce:italic>J</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>L</ce:italic>) versus <mml:math altimg="si4.gif" overflow="scroll">
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msubsup>
+<mml:mi>P</mml:mi>
+<mml:mtext>u</mml:mtext>
+<mml:mrow>
+<mml:mn>0.5</mml:mn>
+</mml:mrow>
+</mml:msubsup>
+<mml:mo>−</mml:mo>
+<mml:msubsup>
+<mml:mi>P</mml:mi>
+<mml:mtext>d</mml:mtext>
+<mml:mrow>
+<mml:mn>0.5</mml:mn>
+</mml:mrow>
+</mml:msubsup>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math> for the Nb<ce:inf loc="post">56</ce:inf>Ti<ce:inf loc="post">23</ce:inf>Ni<ce:inf loc="post">21</ce:inf> alloy between 523 and 673<ce:hsp sp="0.25"></ce:hsp>K. The linear relation coefficients <ce:italic>R</ce:italic>
+<ce:sup loc="post">2</ce:sup> are obtained by a linear regression analysis. The <ce:italic>R</ce:italic>
+<ce:sup loc="post">2</ce:sup> values are over 0.994 in the temperature range of 523–673<ce:hsp sp="0.25"></ce:hsp>K. Therefore, it is reasonable to calculate <ce:italic>Φ</ce:italic> from the slope of these straight lines.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor> shows the value of <ce:italic>Φ</ce:italic> for the Nb<ce:inf loc="post">56</ce:inf>Ti<ce:inf loc="post">23</ce:inf>Ni<ce:inf loc="post">21</ce:inf> and the Nb<ce:inf loc="post">40</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> alloys in the form of Arrhenius plot. The hydrogen permeability <ce:italic>Φ</ce:italic> of pure Pd obtained using the same apparatus and a same experimental procedure are also plotted for reference. The Nb<ce:inf loc="post">56</ce:inf>Ti<ce:inf loc="post">23</ce:inf>Ni<ce:inf loc="post">21</ce:inf> alloy shows higher <ce:italic>Φ</ce:italic> values than those of the Nb<ce:inf loc="post">40</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> alloy and Pd between 523 and 673<ce:hsp sp="0.25"></ce:hsp>K. The value of <ce:italic>Φ</ce:italic> for the Nb<ce:inf loc="post">56</ce:inf>Ti<ce:inf loc="post">23</ce:inf>Ni<ce:inf loc="post">21</ce:inf> alloy is 3.47<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>10<ce:sup loc="post">−8</ce:sup> (mol<ce:hsp sp="0.25"></ce:hsp>H<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>m<ce:sup loc="post">−1</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>s<ce:sup loc="post">−1</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>Pa<ce:sup loc="post">−0.5</ce:sup>) at 673<ce:hsp sp="0.25"></ce:hsp>K, which is 1.8 times higher than that of the Nb<ce:inf loc="post">40</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> alloy. Thus, the present work demonstrates that the Nb-rich Nb–Ti–Ni alloy consisting of only the primary phase (Nb, Ti) and eutectic phase {(Nb, Ti)<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>TiNi} shows a large resistance to hydrogen embrittlement and a high hydrogen permeability. Then, the further improvement of <ce:italic>Φ</ce:italic> is anticipated by increasing the amount of Nb content if the alloys consist of only the primary phase (Nb, Ti) and eutectic phase {(Nb, Ti)<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>TiNi}.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Summary</ce:section-title>
+<ce:para view="all">The Nb<ce:inf loc="post">56</ce:inf>Ti<ce:inf loc="post">23</ce:inf>Ni<ce:inf loc="post">21</ce:inf> alloy consists of the primary phase bcc- (Nb, Ti) solid solution and the eutectic phase {bcc- (Nb, Ti)<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>B2-TiNi}. The value of <ce:italic>Φ</ce:italic> for the Nb<ce:inf loc="post">56</ce:inf>Ti<ce:inf loc="post">23</ce:inf>Ni<ce:inf loc="post">21</ce:inf> alloy is 3.47<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>10<ce:sup loc="post">−8</ce:sup> (mol<ce:hsp sp="0.25"></ce:hsp>H<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>m<ce:sup loc="post">−1</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>s<ce:sup loc="post">−1</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>Pa<ce:sup loc="post">−0.5</ce:sup>) at 673<ce:hsp sp="0.25"></ce:hsp>K, which is 1.8 times higher than that of the Nb<ce:inf loc="post">40</ce:inf>Ti<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> alloy. The present work demonstrates that the Nb-rich Nb–Ti–Ni alloy consisting of only the primary phase and the eutectic phase shows a high hydrogen permeability and resistance to the hydrogen embrittlement.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgements</ce:section-title>
+<ce:para view="all">This work has been supported in part by a Grant-in-Aid for Scientific Research (B) of Japan Society for the Promotion of Science (JSPS), and by Industrial Technology Research Grant Program in ’04 from New Energy and Industrial Technology Department Organization (NEDO) of Japan.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Nishimura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Komaki</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Amano</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Trans. JIM</sb:maintitle>
+</sb:title>
+<sb:volume-nr>32</sb:volume-nr>
+</sb:series>
+<sb:date>1991</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>90</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Ozaki</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Komaki</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Nishimura</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Membr. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>224</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>81</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Hashi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Ishikawa</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Matsuda</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Aoki</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>368</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>215</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Hashi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Ishikawa</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Matsuda</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Aoki</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Trans.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>46</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1026</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

@@ -1,0 +1,1653 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838806002696</prism:url><dc:identifier>doi:10.1016/j.jallcom.2006.02.058</dc:identifier><eid>1-s2.0-S0925838806002696</eid><prism:doi>10.1016/j.jallcom.2006.02.058</prism:doi><pii>S0925-8388(06)00269-6</pii><dc:title>Microstructural evolution and formation mechanism of FCC titanium hydride in Ti–6Al–4V–xH alloys </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>427</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>229</prism:startingpage><prism:endingpage>234</prism:endingpage><prism:pagerange>229-234</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2007-01-16</prism:coverdate><prism:coverdisplaydate>16 January 2007</prism:coverdisplaydate><prism:copyright>Copyright © 2006 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Shan, D.B.</dc:creator><dc:creator>Zong, Y.Y.</dc:creator><dc:creator>Lu, T.F.</dc:creator><dc:creator>Lv, Y.</dc:creator><dc:description>
+                  The microstructural evolution and phase transformations in the hydrogenated (0–0.5wt.%) Ti6Al4V alloy were studied to reveal the influence of hydrogen on the characteristics of titanium alloys. The crystallographic, microstructural and formation mechanism for hydride behavior were investigated. Conclusive evidences for the face-centered cubic (FCC) δ hydride phase formation were found in the Ti6Al4V alloy by X-ray diffraction analysis (XRD) and transmission electron microscopy (TEM). The δ hydrides could precipitate not only from the α phase, but also from the β phase. The formation mechanisms of the δ hydrides formed in both phases were established. The equilibrium phase transformation sequence for the hydrogenated Ti6Al4V alloy during cooling was presented.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Ti6Al4V alloy</dcterms:subject><dcterms:subject>FCC δ hydride</dcterms:subject><dcterms:subject>Phase transformations</dcterms:subject><dcterms:subject>Formation mechanism</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838806002696" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838806002696" rel="scidir"/></coredata><objects><object category="thumbnail" height="17" mimetype="image/gif" multimediatype="GIF image file" ref="si5" size="761" type="ALTIMG" width="195">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002696-si5.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="17" mimetype="image/gif" multimediatype="GIF image file" ref="si4" size="280" type="ALTIMG" width="47">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002696-si4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="17" mimetype="image/gif" multimediatype="GIF image file" ref="si3" size="704" type="ALTIMG" width="208">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002696-si3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si2" size="240" type="ALTIMG" width="40">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002696-si2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="17" mimetype="image/gif" multimediatype="GIF image file" ref="si1" size="257" type="ALTIMG" width="41">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002696-si1.gif?httpAccept=%2A%2F%2A</object><object category="standard" height="187" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr8" size="36741" type="IMAGE-DOWNSAMPLED" width="383">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002696-gr8.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="61" mimetype="image/gif" multimediatype="GIF image file" ref="gr8" size="3314" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002696-gr8.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="425" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="167883" type="IMAGE-DOWNSAMPLED" width="565">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002696-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="5742" type="IMAGE-THUMBNAIL" width="124">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002696-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="270" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="28635" type="IMAGE-DOWNSAMPLED" width="368">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002696-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="92" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="2826" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002696-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="237" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="62034" type="IMAGE-DOWNSAMPLED" width="602">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002696-gr4.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="49" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="2294" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002696-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="236" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr5" size="71649" type="IMAGE-DOWNSAMPLED" width="618">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002696-gr5.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="48" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="2258" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002696-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="346" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="8147" type="IMAGE-DOWNSAMPLED" width="330">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002696-gr7.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="1289" type="IMAGE-THUMBNAIL" width="89">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002696-gr7.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="140" mimetype="image/gif" multimediatype="GIF image file" ref="gr9" size="17363" type="IMAGE-DOWNSAMPLED" width="557">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002696-gr9.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="31" mimetype="image/gif" multimediatype="GIF image file" ref="gr9" size="1369" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002696-gr9.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="231" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="61070" type="IMAGE-DOWNSAMPLED" width="565">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002696-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="51" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="1891" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002696-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="712" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr6" size="163223" type="IMAGE-DOWNSAMPLED" width="564">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002696-gr6.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="2753" type="IMAGE-THUMBNAIL" width="74">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002696-gr6.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>34248658736</scopus-id><scopus-eid>2-s2.0-34248658736</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/34248658736" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20060502">2006-05-02</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20060502">2006-05-02</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-03-29T20:46:52</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838806002696</xocs:eid>
+<xocs:pii-formatted>S0925-8388(06)00269-6</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838806002696</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2006.02.058</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838806X02657</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.326594-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20070116</xocs:date-search-begin>
+<xocs:year-nav>2007</xocs:year-nav>
+<xocs:indexeddate epoch="1146528000">2006-05-02T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>427</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>427</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 427, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>45</xocs:sort-order>
+<xocs:first-fp>229</xocs:first-fp>
+<xocs:last-lp>234</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>229</xocs:first-page>
+<xocs:last-page>234</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20070116</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>16 January 2007</xocs:cover-date-text>
+<xocs:cover-date-start>2007-01-16</xocs:cover-date-start>
+<xocs:cover-date-year>2007</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Materials Science</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2006 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>MICROSTRUCTURALEVOLUTIONFORMATIONMECHANISMFCCTITANIUMHYDRIDEINTI6AL4VXHALLOYS</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>SHAN</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>D</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Material and experimental details</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Microscopy observations</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>X-ray diffraction pattern analysis</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.3</xocs:item-toc-label>
+<xocs:item-toc-section-title>TEM investigations</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Discussion on the formation mechanism of the hydride</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>HARDIE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>155</xocs:ref-first-fp>
+<xocs:ref-last-lp>177</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>SENKOV</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>565</xocs:ref-first-fp>
+<xocs:ref-last-lp>576</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>TALGUTELMACHER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>621</xocs:ref-first-fp>
+<xocs:ref-last-lp>625</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>GERMAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1994</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>POWDERMETALLURGYSCIENCE</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>QAZI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>2453</xocs:ref-first-fp>
+<xocs:ref-last-lp>2463</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>SENKOV</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>1877</xocs:ref-first-fp>
+<xocs:ref-last-lp>1887</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>161</xocs:ref-first-fp>
+<xocs:ref-last-lp>168</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>SHIN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1986</xocs:ref-pub-year>
+<xocs:ref-first-fp>1261</xocs:ref-first-fp>
+<xocs:ref-last-lp>1264</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>NUMAKURA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1988</xocs:ref-pub-year>
+<xocs:ref-first-fp>2267</xocs:ref-first-fp>
+<xocs:ref-last-lp>2273</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>WOO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1985</xocs:ref-pub-year>
+<xocs:ref-first-fp>1897</xocs:ref-first-fp>
+<xocs:ref-last-lp>1906</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1994</xocs:ref-pub-year>
+<xocs:ref-first-fp>2555</xocs:ref-first-fp>
+<xocs:ref-last-lp>2560</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>XIAO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1992</xocs:ref-pub-year>
+<xocs:ref-first-fp>571</xocs:ref-first-fp>
+<xocs:ref-last-lp>576</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13">
+<xocs:ref-normalized-surname>QAZI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>137</xocs:ref-first-fp>
+<xocs:ref-last-lp>149</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>NUMARKURA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1984</xocs:ref-pub-year>
+<xocs:ref-first-fp>1799</xocs:ref-first-fp>
+<xocs:ref-last-lp>1807</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15">
+<xocs:ref-normalized-surname>ELIEZER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>220</xocs:ref-first-fp>
+<xocs:ref-last-lp>224</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib16">
+<xocs:ref-normalized-surname>TREFILOV</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>157</xocs:ref-first-fp>
+<xocs:ref-last-lp>161</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib17">
+<xocs:ref-normalized-surname>AARONSON</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1990</xocs:ref-pub-year>
+<xocs:ref-first-fp>2369</xocs:ref-first-fp>
+<xocs:ref-last-lp>2409</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib18">
+<xocs:ref-normalized-surname>SETOYAMA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>215</xocs:ref-first-fp>
+<xocs:ref-last-lp>220</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib19">
+<xocs:ref-normalized-surname>MORASCH</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>839</xocs:ref-first-fp>
+<xocs:ref-last-lp>845</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib20">
+<xocs:ref-normalized-surname>WIPF</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>190</xocs:ref-first-fp>
+<xocs:ref-last-lp>195</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>SHANX2007X229</xocs:refkey3>
+<xocs:refkey4lp>SHANX2007X229X234</xocs:refkey4lp>
+<xocs:refkey4ai>SHANX2007X229XD</xocs:refkey4ai>
+<xocs:refkey5>SHANX2007X229X234XD</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(06)00269-6</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838806002696</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838806002696</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2006.02.058</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-09-19T15:05:18.831422-04:00</xocs:timestamp>
+<xocs:cover-date-start>2007-01-16</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838806002696-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002696/MAIN/application/pdf/67778556ffd8a5c7df7a1e1351b747e6/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002696/MAIN/application/pdf/67778556ffd8a5c7df7a1e1351b747e6/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>1253752</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838806002696-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002696/PREVIEW/image/png/e8aba12425bcfffd4bf067ee21a098ac/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002696/PREVIEW/image/png/e8aba12425bcfffd4bf067ee21a098ac/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>66539</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002696-si5.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002696/STRIPIN/image/gif/3de95c920d4d9e20b4ce850fccafc2d1/si5.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002696/STRIPIN/image/gif/3de95c920d4d9e20b4ce850fccafc2d1/si5.gif</xocs:ucs-locator>
+<xocs:file-basename>si5</xocs:file-basename>
+<xocs:filename>si5.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>761</xocs:filesize>
+<xocs:pixel-height>17</xocs:pixel-height>
+<xocs:pixel-width>195</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002696-si4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002696/STRIPIN/image/gif/47d034e1a9a39d4b4c726f9462c49505/si4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002696/STRIPIN/image/gif/47d034e1a9a39d4b4c726f9462c49505/si4.gif</xocs:ucs-locator>
+<xocs:file-basename>si4</xocs:file-basename>
+<xocs:filename>si4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>280</xocs:filesize>
+<xocs:pixel-height>17</xocs:pixel-height>
+<xocs:pixel-width>47</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002696-si3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002696/STRIPIN/image/gif/7df998143c7c51a57fe8eb6faa7fd28f/si3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002696/STRIPIN/image/gif/7df998143c7c51a57fe8eb6faa7fd28f/si3.gif</xocs:ucs-locator>
+<xocs:file-basename>si3</xocs:file-basename>
+<xocs:filename>si3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>704</xocs:filesize>
+<xocs:pixel-height>17</xocs:pixel-height>
+<xocs:pixel-width>208</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002696-si2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002696/STRIPIN/image/gif/0f72b132225e061252e5d33af396c5ed/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002696/STRIPIN/image/gif/0f72b132225e061252e5d33af396c5ed/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si2</xocs:file-basename>
+<xocs:filename>si2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>240</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>40</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002696-si1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002696/STRIPIN/image/gif/91da1f4febf5fae5293874ab0c06c841/si1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002696/STRIPIN/image/gif/91da1f4febf5fae5293874ab0c06c841/si1.gif</xocs:ucs-locator>
+<xocs:file-basename>si1</xocs:file-basename>
+<xocs:filename>si1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>257</xocs:filesize>
+<xocs:pixel-height>17</xocs:pixel-height>
+<xocs:pixel-width>41</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002696-gr8.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002696/gr8/DOWNSAMPLED/image/jpeg/29123266353e37666b7b32d44d16fbff/gr8.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002696/gr8/DOWNSAMPLED/image/jpeg/29123266353e37666b7b32d44d16fbff/gr8.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>36741</xocs:filesize>
+<xocs:pixel-height>187</xocs:pixel-height>
+<xocs:pixel-width>383</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002696-gr8.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002696/gr8/THUMBNAIL/image/gif/bcc7de6b4868243fd8e7936ff8c99efd/gr8.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002696/gr8/THUMBNAIL/image/gif/bcc7de6b4868243fd8e7936ff8c99efd/gr8.sml</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3314</xocs:filesize>
+<xocs:pixel-height>61</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002696-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002696/gr2/DOWNSAMPLED/image/jpeg/91008fc7c5eccfffb1825807ab8dedf7/gr2.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002696/gr2/DOWNSAMPLED/image/jpeg/91008fc7c5eccfffb1825807ab8dedf7/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>167883</xocs:filesize>
+<xocs:pixel-height>425</xocs:pixel-height>
+<xocs:pixel-width>565</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002696-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002696/gr2/THUMBNAIL/image/gif/2ce521c6120b8c7139b42d0abc333da3/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002696/gr2/THUMBNAIL/image/gif/2ce521c6120b8c7139b42d0abc333da3/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>5742</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>124</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002696-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002696/gr3/DOWNSAMPLED/image/jpeg/f42db2029a1b73f86bd1a16718d8f87d/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002696/gr3/DOWNSAMPLED/image/jpeg/f42db2029a1b73f86bd1a16718d8f87d/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>28635</xocs:filesize>
+<xocs:pixel-height>270</xocs:pixel-height>
+<xocs:pixel-width>368</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002696-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002696/gr3/THUMBNAIL/image/gif/5c31cda657d0f4a0e0adbbcebec0fa0c/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002696/gr3/THUMBNAIL/image/gif/5c31cda657d0f4a0e0adbbcebec0fa0c/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2826</xocs:filesize>
+<xocs:pixel-height>92</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002696-gr4.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002696/gr4/DOWNSAMPLED/image/jpeg/a3e4768d1cb8eac2be5655baec7b7b02/gr4.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002696/gr4/DOWNSAMPLED/image/jpeg/a3e4768d1cb8eac2be5655baec7b7b02/gr4.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>62034</xocs:filesize>
+<xocs:pixel-height>237</xocs:pixel-height>
+<xocs:pixel-width>602</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002696-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002696/gr4/THUMBNAIL/image/gif/9921c6e002f548c1db0528942a5cf5e0/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002696/gr4/THUMBNAIL/image/gif/9921c6e002f548c1db0528942a5cf5e0/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2294</xocs:filesize>
+<xocs:pixel-height>49</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002696-gr5.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002696/gr5/DOWNSAMPLED/image/jpeg/1f57f2b091f7eeecf788bcd827b65f88/gr5.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002696/gr5/DOWNSAMPLED/image/jpeg/1f57f2b091f7eeecf788bcd827b65f88/gr5.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>71649</xocs:filesize>
+<xocs:pixel-height>236</xocs:pixel-height>
+<xocs:pixel-width>618</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002696-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002696/gr5/THUMBNAIL/image/gif/94cb1acd4b3fd9f2f70525de3f93750a/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002696/gr5/THUMBNAIL/image/gif/94cb1acd4b3fd9f2f70525de3f93750a/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2258</xocs:filesize>
+<xocs:pixel-height>48</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002696-gr7.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002696/gr7/DOWNSAMPLED/image/gif/e86d935ef2a7aa37752e2b1a35270a1c/gr7.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002696/gr7/DOWNSAMPLED/image/gif/e86d935ef2a7aa37752e2b1a35270a1c/gr7.gif</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>8147</xocs:filesize>
+<xocs:pixel-height>346</xocs:pixel-height>
+<xocs:pixel-width>330</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002696-gr7.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002696/gr7/THUMBNAIL/image/gif/b3ca5b4ebcd651571d70a12094604b7b/gr7.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002696/gr7/THUMBNAIL/image/gif/b3ca5b4ebcd651571d70a12094604b7b/gr7.sml</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1289</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>89</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002696-gr9.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002696/gr9/DOWNSAMPLED/image/gif/c9a549a7c9b951ae73016b8f2c25df87/gr9.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002696/gr9/DOWNSAMPLED/image/gif/c9a549a7c9b951ae73016b8f2c25df87/gr9.gif</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>17363</xocs:filesize>
+<xocs:pixel-height>140</xocs:pixel-height>
+<xocs:pixel-width>557</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002696-gr9.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002696/gr9/THUMBNAIL/image/gif/fd99a2ea68d4f236d0cbd61bb61ad439/gr9.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002696/gr9/THUMBNAIL/image/gif/fd99a2ea68d4f236d0cbd61bb61ad439/gr9.sml</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1369</xocs:filesize>
+<xocs:pixel-height>31</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002696-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002696/gr1/DOWNSAMPLED/image/jpeg/6507c3a295f15025c25e3aa725b61473/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002696/gr1/DOWNSAMPLED/image/jpeg/6507c3a295f15025c25e3aa725b61473/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>61070</xocs:filesize>
+<xocs:pixel-height>231</xocs:pixel-height>
+<xocs:pixel-width>565</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002696-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002696/gr1/THUMBNAIL/image/gif/9ba56fcfe3da5980eae67221f9092992/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002696/gr1/THUMBNAIL/image/gif/9ba56fcfe3da5980eae67221f9092992/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1891</xocs:filesize>
+<xocs:pixel-height>51</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002696-gr6.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002696/gr6/DOWNSAMPLED/image/jpeg/5e4cd0c83622f61a881e86355ba88592/gr6.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002696/gr6/DOWNSAMPLED/image/jpeg/5e4cd0c83622f61a881e86355ba88592/gr6.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>163223</xocs:filesize>
+<xocs:pixel-height>712</xocs:pixel-height>
+<xocs:pixel-width>564</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002696-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002696/gr6/THUMBNAIL/image/gif/2a013bb465d4e6f10eda67c6c2f38fe6/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002696/gr6/THUMBNAIL/image/gif/2a013bb465d4e6f10eda67c6c2f38fe6/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2753</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>74</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>13755</aid>
+<ce:pii>S0925-8388(06)00269-6</ce:pii>
+<ce:doi>10.1016/j.jallcom.2006.02.058</ce:doi>
+<ce:copyright type="full-transfer" year="2006">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Microstructure of the starting material: (a) TEM image showing α<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>β phase structure; (b) SAED pattern of the interface phase.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Microstructure of the Ti6Al4V alloy: (a) starting specimen; (b) hydrogenated 0.2<ce:hsp sp="0.25"></ce:hsp>wt.%; (c) hydrogenated 0.3<ce:hsp sp="0.25"></ce:hsp>wt.%; (d) hydrogenated 0.5<ce:hsp sp="0.25"></ce:hsp>wt.%.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRD patterns of the Ti6Al4V alloy: (a) before hydrogenation; (b) hydrogenated 0.2<ce:hsp sp="0.25"></ce:hsp>wt.%; (c) hydrogenated 0.3<ce:hsp sp="0.25"></ce:hsp>wt.%; (d) hydrogenated 0.5<ce:hsp sp="0.25"></ce:hsp>wt.%.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">TEM image of Ti6Al4V alloy containing 0.2<ce:hsp sp="0.25"></ce:hsp>wt.% hydrogen: (a) α lamellar structure; (b) δ hydride formed in α lath; (c) corresponding SAED pattern of hydride.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">TEM image of Ti6Al4V alloy containing 0.3<ce:hsp sp="0.25"></ce:hsp>wt.% hydrogen: (a) parallel hydride laths; (b) SAED pattern of parallel hydrides; (c) hydrides formed in α and β phases.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">TEM image of Ti6Al4V alloy containing 0.5<ce:hsp sp="0.25"></ce:hsp>wt.% hydrogen: (a) parallel hydrides; (b) corresponding SAED pattern of hydride and α lamella; (c) twins in hydrides; (d) corresponding SAED pattern shown [0<ce:hsp sp="0.25"></ce:hsp>1<ce:hsp sp="0.25"></ce:hsp>1]<ce:inf loc="post">δ</ce:inf>, <mml:math altimg="si1.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mn>0</mml:mn>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mo stretchy="false">]</mml:mo>
+</mml:mrow>
+<mml:mi mathvariant="normal">δ</mml:mi>
+</mml:msub>
+</mml:mrow>
+</mml:math>; (e) integral pattern; (f) faults in coarse α lath.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+<ce:figure id="fig7">
+<ce:label>Fig. 7</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Phase diagram for the Ti–H system <ce:cross-ref refid="bib18">[18]</ce:cross-ref>.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr7"></ce:link>
+</ce:figure>
+<ce:figure id="fig8">
+<ce:label>Fig. 8</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Schematic diagram for the formation mechanism of δ hydride: β<ce:inf loc="post">H</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>α<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>δ.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr8"></ce:link>
+</ce:figure>
+<ce:figure id="fig9">
+<ce:label>Fig. 9</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Schematic diagrams illustrating the microstructural evolution and phase transformations of Ti6Al4V alloy containing 0.2–0.5<ce:hsp sp="0.25"></ce:hsp>wt.% hydrogen during cooling.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr9"></ce:link>
+</ce:figure>
+</ce:floats>
+<ce:title>Microstructural evolution and formation mechanism of FCC titanium hydride in Ti–6Al–4V–<ce:italic>x</ce:italic>H alloys</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>D.B.</ce:given-name>
+<ce:surname>Shan</ce:surname>
+<ce:cross-ref refid="cor1">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Y.Y.</ce:given-name>
+<ce:surname>Zong</ce:surname>
+</ce:author>
+<ce:author>
+<ce:given-name>T.F.</ce:given-name>
+<ce:surname>Lu</ce:surname>
+</ce:author>
+<ce:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Lv</ce:surname>
+</ce:author>
+<ce:affiliation>
+<ce:textfn>Department of Materials Science and Engineering, Harbin Institute of Technology, China</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>⁎</ce:label>
+<ce:text>Corresponding author. Tel.: +86 451 86416221; fax: +86 451 86418732.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="27" month="12" year="2005"></ce:date-received>
+<ce:date-accepted day="27" month="2" year="2006"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">The microstructural evolution and phase transformations in the hydrogenated (0–0.5<ce:hsp sp="0.25"></ce:hsp>wt.%) Ti6Al4V alloy were studied to reveal the influence of hydrogen on the characteristics of titanium alloys. The crystallographic, microstructural and formation mechanism for hydride behavior were investigated. Conclusive evidences for the face-centered cubic (FCC) δ hydride phase formation were found in the Ti6Al4V alloy by X-ray diffraction analysis (XRD) and transmission electron microscopy (TEM). The δ hydrides could precipitate not only from the α phase, but also from the β phase. The formation mechanisms of the δ hydrides formed in both phases were established. The equilibrium phase transformation sequence for the hydrogenated Ti6Al4V alloy during cooling was presented.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Ti6Al4V alloy</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>FCC δ hydride</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Phase transformations</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Formation mechanism</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Titanium alloys have a large affinity for hydrogen, the addition of which has a considerable effect on their microstructures and mechanical properties <ce:cross-refs refid="bib1 bib2">[1,2]</ce:cross-refs>. At near-room temperatures, hydrogen causes embrittlement of titanium alloys because of the formation and subsequent brittle fracture of hydrides, which leads to a degradation in fracture-related mechanical properties <ce:cross-ref refid="bib3">[3]</ce:cross-ref>; on the other hand, hydrogen embrittlement provides an economic method for the production of titanium powder at high hydrogen concentration <ce:cross-ref refid="bib4">[4]</ce:cross-ref>. At elevated temperatures, hydrogen as a temporary alloying element in titanium alloys could refine the microstructure and improve the properties of the alloys due to the hydrogen enhanced-plasticity, hydrogen-induced phase transformations and the revisable reaction of hydrogen with titanium <ce:cross-refs refid="bib5 bib6 bib7">[5–7]</ce:cross-refs>. Consequently, materials scientists are interested in the hydrogen alloying behavior in titanium alloys.</ce:para>
+<ce:para view="all">Three types of titanium hydrides have been reported: face-centered tetragonal (FCT) (<ce:italic>c</ce:italic>/<ce:italic>a</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>&gt;<ce:hsp sp="0.25"></ce:hsp>1) γ hydride, FCC δ hydride and FCT (<ce:italic>c</ce:italic>/<ce:italic>a</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>&lt;<ce:hsp sp="0.25"></ce:hsp>1) ɛ hydride with the increase of the hydrogen content <ce:cross-ref refid="bib8">[8]</ce:cross-ref>. Much work has been worked on the γ hydride <ce:cross-refs refid="bib9 bib10">[9,10]</ce:cross-refs> and the δ hydride formed in α titanium alloys <ce:cross-refs refid="bib11 bib12">[11,12]</ce:cross-refs>. However, the microstructural features of the δ hydride in α/β titanium alloys are still not thoroughly investigated, especially for the δ hydride formed in the β phase. The aim of this paper is to study the effects of hydrogen on the microstructural evolution of the hydrogenated Ti6Al4V alloy and the hydrides formed in both α and β phases.</ce:para>
+</ce:section>
+<ce:section role="materials-methods" view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Material and experimental details</ce:section-title>
+<ce:para view="all">The material chosen for this study was a Ti6Al4V alloy, which consisted of α phase, transformed β microstructure and an interface phase formed at α and β phase boundaries, as shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>a<ce:float-anchor refid="fig1"></ce:float-anchor>. The selected-area electron diffraction pattern (SAED) of the interface suggested FCC structure, as shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>b. The phase transformation temperature of the starting alloy was around 1273<ce:hsp sp="0.25"></ce:hsp>K. Specimens were hydrogenated at 1123<ce:hsp sp="0.25"></ce:hsp>K for 1.5<ce:hsp sp="0.25"></ce:hsp>h under 1<ce:hsp sp="0.25"></ce:hsp>atm of hydrogenation treatment and then given furnace cooling to 873<ce:hsp sp="0.25"></ce:hsp>K followed by air-cooling to room temperature. Specimens with various amounts of hydrogen, in the range of 0.2–0.5<ce:hsp sp="0.25"></ce:hsp>wt.% were attained by controlling the hydrogen pressure.</ce:para>
+<ce:para view="all">Phase compositions and lattice parameters were measured by XRD using Cu Kα radiation at 40<ce:hsp sp="0.25"></ce:hsp>kV and 40<ce:hsp sp="0.25"></ce:hsp>mA. XRD was performed on the Ti6Al4V bars as well as the hydrogenated specimens using a D/Max-RB rotating anode X-ray diffractometer. The microstructural evolution was investigated by optical microscopy (OM) and scanning electron microscopy (SEM). TEM samples were prepared by electropolishing in a solution of 6<ce:hsp sp="0.25"></ce:hsp>vol.% HClO<ce:inf loc="post">4</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>34<ce:hsp sp="0.25"></ce:hsp>vol.% C<ce:inf loc="post">4</ce:inf>H<ce:inf loc="post">9</ce:inf>OH<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>60<ce:hsp sp="0.25"></ce:hsp>vol.% CH<ce:inf loc="post">3</ce:inf>OH. TEM observations were carried out on a Philips CM-12 microscope operated at 120<ce:hsp sp="0.25"></ce:hsp>kV.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:section view="all">
+<ce:label>3.1</ce:label>
+<ce:section-title>Microscopy observations</ce:section-title>
+<ce:para view="all">The microstructures of the Ti6Al4V alloy containing different hydrogen contents are shown in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor>. It can be seen that the starting Ti6Al4V specimen had an equiaxed α<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>β dual phase structure, with an average prior-α grain size of 19<ce:hsp sp="0.25"></ce:hsp>μm and an equiaxed α phase area fraction of 85% (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>a). After hydrogenation, needle α phase appeared in the specimens. Twenty-four percent prior equiaxed α phase retained when 0.2<ce:hsp sp="0.25"></ce:hsp>wt.% hydrogen was charged in the alloy. However, the α grain size decreased to 14<ce:hsp sp="0.25"></ce:hsp>μm due to the α<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>β phase transformation via α/β interfacial migration. Since the growth of lamella α was restricted by the boundaries of the prior equiaxed α grains, the α lamellas in this specimen were relatively short (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>b). The existence of the retained equiaxed α grains indicates that the specimen containing 0.2<ce:hsp sp="0.25"></ce:hsp>wt.% hydrogen is hydrogenated below the β-transus temperature. The specimens containing 0.3 and 0.5<ce:hsp sp="0.25"></ce:hsp>wt.% hydrogen had a coarse α lath structure and a fine needle α martensite structure with clear β grain boundaries, respectively. The two specimens had only needle α structure, and no equiaxed α grain was detected. The formation of needle α phase indicates that the two specimens are conducted in a single-phase β region or above the β-transus temperature. It was considered that hydrogen decreases the α<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>β phase transformation temperature because the hydrogen stabilizes the β phase. And these results are consistent with the reference data <ce:cross-ref refid="bib13">[13]</ce:cross-ref>. The morphology of the α structure is dependent on its formation temperature which is evaluated by the alloying composition and hydrogen content. The alloying composition was the same in this study and thus the hydrogen content was important in determining the α structure. Since an increase in the hydrogen content lowered the martensite start temperature of the Ti6Al4V alloy, the supercooling increased with increasing hydrogen content and, in turn, fine needle α formed, as shown in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>d.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.2</ce:label>
+<ce:section-title>X-ray diffraction pattern analysis</ce:section-title>
+<ce:para view="all">The XRD patterns of Ti6Al4V alloy containing different hydrogen are shown in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor>, respectively. The XRD pattern indicates that the starting Ti6Al4V specimen contains primary α phase and β phase. After hydrogenation, XRD patterns changed obviously. In this paper, the peaks of titanium hydride appeared and only suggested δ phase, which was confirmed by the TEM as would be discussed later. The results could be indexed using the crystal structure of the FCC δ hydride phase having a lattice parameter of 0.444<ce:hsp sp="0.25"></ce:hsp>nm. The δ hydride forms in the composition range from TiH<ce:inf loc="post">1.5</ce:inf> to TiH<ce:inf loc="post">2</ce:inf> and has a CaF<ce:inf loc="post">2</ce:inf> type structure with titanium atoms on an FCC lattice and hydrogen atoms randomly occupying tetrahedral interstitial sites <ce:cross-ref refid="bib14">[14]</ce:cross-ref>. Moreover, the relative intensities of the δ peaks increased gradually with increasing hydrogen content. There was no evidence of the existence of the FCT (<ce:italic>c</ce:italic>/<ce:italic>a</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>&gt;<ce:hsp sp="0.25"></ce:hsp>l) γ hydride phase. This was because according to the microscopy microstructure, the Ti6Al4V alloy containing 0.3 and 0.5<ce:hsp sp="0.25"></ce:hsp>wt.% hydrogen at 1123<ce:hsp sp="0.25"></ce:hsp>K were already in the β phase region from which only δ FCC hydride forms. The Ti6Al4V alloy hydrogenated with 0.2<ce:hsp sp="0.25"></ce:hsp>wt.% at 1123<ce:hsp sp="0.25"></ce:hsp>K was in the α<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>β phase region from which a mixture of both FCT and FCC hydrides forms <ce:cross-ref refid="bib8">[8]</ce:cross-ref>. The γ hydride precipitates in α-Ti containing very low (1–3<ce:hsp sp="0.25"></ce:hsp>at.%) hydrogen. The specimens investigated in this paper contained considerably much more hydrogen (0.2–0.5<ce:hsp sp="0.25"></ce:hsp>wt.%, in accordance with 9.7–19<ce:hsp sp="0.25"></ce:hsp>at.%), so only medium hydrogen-bearing FCC hydride formed. The formation of the δ phase led to the broadening of some α phase peaks due to the overlapping of α and δ phase peaks. The other reason for the peak widening was evidently caused by the presence of the hexagonal α′ martensite, with lattice parameters differing only slightly from that of the α phase because of the composition variations in these phases. The peaks moved to the lower angles because of the lattice expansion of α and β phases with the solution of hydrogen atoms.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.3</ce:label>
+<ce:section-title>TEM investigations</ce:section-title>
+<ce:para view="all">More detailed microstructural information is given by TEM. The TEM photographs of Ti6Al4V alloy containing 0.2, 0.3 and 0.5<ce:hsp sp="0.25"></ce:hsp>wt.% hydrogen are shown in <ce:cross-refs refid="fig4 fig5 fig6">Figs. 4–6</ce:cross-refs>
+<ce:float-anchor refid="fig4"></ce:float-anchor>
+<ce:float-anchor refid="fig5"></ce:float-anchor>
+<ce:float-anchor refid="fig6"></ce:float-anchor>, respectively. As can be seen that hydride can precipitate not only from HCP α lath but also from BCC β phase.</ce:para>
+<ce:para view="all">The specimen exhibited a mainly α lamellar structure with retained β present at colony boundaries (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>a). Additional, <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>b suggests that hydride phase can nucleate directly from the HCP α lath. The hydride plates formed inside alpha lath and grew from the phase boundary into the α matrix. The corresponding SAED pattern suggested FCC structure for the δ hydride with [0<ce:hsp sp="0.25"></ce:hsp>0<ce:hsp sp="0.25"></ce:hsp>1] zone axis (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>c).</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref> shows the TEM images of the specimen containing 0.3<ce:hsp sp="0.25"></ce:hsp>wt.% hydrogen. It can be seen that δ hydrides can precipitate from not only α phase but also β phase. <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>a is an image showing the α lamellar structure with retained beta present at colony boundaries and in the retained beta phase δ lamellar structure with α plates present at δ boundaries. The δ lamellar hydrides formed in β phase showed FCC crystal structure with <mml:math altimg="si2.gif" overflow="scroll">
+<mml:mrow>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>2</mml:mn>
+<mml:mo stretchy="false">]</mml:mo>
+</mml:mrow>
+</mml:math> zone axis, shown in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>b and the hydride formed in α lath with [0<ce:hsp sp="0.25"></ce:hsp>1<ce:hsp sp="0.25"></ce:hsp>1] zone axis the same with <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>c. It can be seen from <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref> that hydrides in specimen hydrogenated with 0.3<ce:hsp sp="0.25"></ce:hsp>wt.% were far more than that in specimen hydrogenated with 0.2<ce:hsp sp="0.25"></ce:hsp>wt.%.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>a is an image showing the specimen containing 0.5<ce:hsp sp="0.25"></ce:hsp>wt.% hydrogen also exhibited a mainly lamellar structure, although there are more extensive δ hydrides than in the specimen containing 0.3<ce:hsp sp="0.25"></ce:hsp>wt.% hydrogen. The corresponding SAED pattern is shown in <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>b, from which the orientation relationship between δ and α phases could be directed identified as: <mml:math altimg="si3.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>2</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>3</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mo stretchy="false">]</mml:mo>
+</mml:mrow>
+<mml:mi mathvariant="normal">α</mml:mi>
+</mml:msub>
+<mml:mo>/</mml:mo>
+<mml:mo>/</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>2</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mo stretchy="false">]</mml:mo>
+</mml:mrow>
+<mml:mi mathvariant="normal">δ</mml:mi>
+</mml:msub>
+<mml:mo>,</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mi mathvariant="normal">α</mml:mi>
+</mml:msub>
+<mml:mo>/</mml:mo>
+<mml:mo>/</mml:mo>
+</mml:mrow>
+</mml:math>(2<ce:hsp sp="0.25"></ce:hsp>2<ce:hsp sp="0.25"></ce:hsp>0)<ce:inf loc="post">δ</ce:inf>. <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>c shows the microscopy of the FCC δ hydride twins and <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>d is the corresponding SAED pattern, which shows the diffraction zones of [0<ce:hsp sp="0.25"></ce:hsp>1<ce:hsp sp="0.25"></ce:hsp>1]<ce:inf loc="post">δ</ce:inf> and <mml:math altimg="si4.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mn>0</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mo stretchy="false">]</mml:mo>
+</mml:mrow>
+<mml:mi mathvariant="normal">δ</mml:mi>
+</mml:msub>
+</mml:mrow>
+</mml:math>. <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>d also reveals the orientation relationship of adjacent twinned regions to be <mml:math altimg="si5.gif" overflow="scroll">
+<mml:mrow>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mn>0</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mo stretchy="false">]</mml:mo>
+<mml:mo>/</mml:mo>
+<mml:mo>/</mml:mo>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mn>0</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mo stretchy="false">]</mml:mo>
+<mml:mo>,</mml:mo>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>/</mml:mo>
+<mml:mo>/</mml:mo>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mn>11</mml:mn>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>, which is in fair accordance with the literature <ce:cross-ref refid="bib5">[5]</ce:cross-ref> data. <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>e shows that coarsened α lamellae penetrated the selected region and divided the region into several different regions where fine martensites with different orientations formed. There was no orthorhombic α″ found in this study, but HCP α′ martensite existed. Additionally, high densities of planar faults were observed in the coarse α laths, shown in <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>f.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.4</ce:label>
+<ce:section-title>Discussion on the formation mechanism of the hydride</ce:section-title>
+<ce:para view="all">The formation mechanism of hydride is the diffusion of atoms. This may be attributed to follow reasons: (1) Hydrogen atoms diffuse easily in titanium alloys. The hydrogen diffusivity of 4.96<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>10<ce:sup loc="post">−13</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>cm<ce:sup loc="post">2</ce:sup>/s at 298<ce:hsp sp="0.25"></ce:hsp>K can be obtained from the equation <ce:italic>D</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>3.0<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>10<ce:sup loc="post">−2</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>exp(−14.7/<ce:italic>RT</ce:italic>) where <ce:italic>R</ce:italic> is in kcal/mol<ce:hsp sp="0.25"></ce:hsp>K and <ce:italic>T</ce:italic> is temperature <ce:cross-ref refid="bib15">[15]</ce:cross-ref>. (2) The addition of hydrogen weakens the interatomic interaction of matrix, especially for the high hydrogen content (0.2–0.5<ce:hsp sp="0.25"></ce:hsp>wt.%) in this study <ce:cross-ref refid="bib16">[16]</ce:cross-ref>. (3) The composition difference between hydride and parent phase is large, which shear mechanism cannot realize <ce:cross-ref refid="bib17">[17]</ce:cross-ref>. Hydrides could precipitate in the retained β<ce:inf loc="post">H</ce:inf> phase and directly from the α lath during cooling from 1123<ce:hsp sp="0.25"></ce:hsp>K. So we separately discuss the two kinds of formation mechanisms of hydrides in α and β phases.</ce:para>
+<ce:para view="all">According to the Ti–H phase diagram <ce:cross-ref refid="bib18">[18]</ce:cross-ref>, as shown in <ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+<ce:float-anchor refid="fig7"></ce:float-anchor>, titanium containing 0.2–0.5<ce:hsp sp="0.25"></ce:hsp>wt.% hydrogen, beta phase decomposed partially into thick alpha lath and a mainly α lamellar structure with retained β present at colony boundaries forms during cooling from 1123 to 592<ce:hsp sp="0.25"></ce:hsp>K. Since the hydrogenation of titanium is an exothermic reaction, the cooling process promotes the hydrogenation of titanium <ce:cross-ref refid="bib19">[19]</ce:cross-ref>. However, the solid solubility of hydrogen in titanium alloys is certain, during cooling of the hydrogenated alloy to a temperature below 592<ce:hsp sp="0.25"></ce:hsp>K, the δ phase precipitates from both supersaturated unstable α and β phases. However, the supersaturation of hydrogen occurs firstly in the α laths due to the smaller solid solubility of hydrogen in α-Ti compared to β-Ti. On the other hand, because the volume misfit for the β<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>δ transition (8–11%) is quite larger than that for α<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>δ transition (0–5%) <ce:cross-ref refid="bib20">[20]</ce:cross-ref>, it is hard for the crystal structure to transform from BCC into FCC. So the titanium hydride precipitates firstly in the α laths, as shown in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>. The driving force of the hydride formation is the distortion of lattice caused by the solid solution of hydrogen in α phase. It appears that the formation of the δ phase is the result of a phase separation reaction: α<ce:inf loc="post">H</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>α(H-lean)<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>δ(H-rich). As a result of a phase separation reaction in which the α phase containing hydrogen separates into hydrogen rich and hydrogen lean regions, hydrogen rich regions transform to the δ phase. In fact, the decomposition of the alpha phase into α<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>δ lamellae is shown in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>a. Therefore, the δ phase may be considered as a pseudo-hexagonal phase with a lattice distortion resulting from a supersaturation in the α phase. To accommodate the excess hydrogen content, the supersaturated α lattice is no longer able to maintain its hexagonal symmetry and becomes a δ lattice. That is, α<ce:inf loc="post">H</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>α(H-lean)<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>δ(H-rich).</ce:para>
+<ce:para view="all">The retained β<ce:inf loc="post">H</ce:inf> phase (with hydrogen), which can resolve a great deal of hydrogen (up to 45<ce:hsp sp="0.25"></ce:hsp>at.% at 592<ce:hsp sp="0.25"></ce:hsp>K), exists between the α laths. When the hydrogenated specimens cooled to 592<ce:hsp sp="0.25"></ce:hsp>K, the eutectoid reaction β<ce:inf loc="post">H</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>α<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>δ takes place. During the eutectoid reaction, the formations of δ and α phases undergo a diffusion-controlled nucleation and growth. The δ phase prefers to precipitate at interfaces/interphases. This may be due to: (1) Around hydrogen atoms and interfaces/interphases both exist a strain field. These two kinds of strain fields may interact with each other, which lead to hydrogen atoms accumulated at interfaces/interphases. Thus, the density of hydrogen at interfaces/interphases is very high, which supplies the concentration fluctuation for the hydride formation. (2) The density of dislocation and defect is high and atoms are easy to diffuse at the boundaries, which supply the fluctuation of energy and structure for the hydride formation. In the eutectoid reaction, δ and α phases grow into the β phase with the lamellar structure after nucleation at boundaries, as shown in schematic diagram <ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>
+<ce:float-anchor refid="fig8"></ce:float-anchor>.</ce:para>
+<ce:para view="all">Due to the larger volume misfit between the hydride and matrix, lattice distortion of the matrix accompanies with the precipitation of hydride. The strain energy as a result of the lattice distortion will be accommodated elastically or plastically, such as the plastic deformation in the adjacent Ti matrix or the twinning of hydride (<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>f). High compression stress as a result of hydrogen gradient, which can lead to plastic deformation of superficial material, occurs on the superficial coat of the hydrogenated specimen. The local stress can lead to the production of a martensite structure in the hydrogenated specimens after cooling in air. Thus the needle α martensite precipitation β<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>α′ occurs. This kind of hydrogen inducing martensite transformation can be seen as processing inducing martensite transformation. Therefore, the equilibrium phase transformation sequence for the Ti6Al4V alloy containing 0.2–0.5<ce:hsp sp="0.25"></ce:hsp>wt.% hydrogen during cooling is β<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>α<ce:inf loc="post">lath</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>⇒<ce:hsp sp="0.25"></ce:hsp>α<ce:inf loc="post">H</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>α<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>δ<ce:hsp sp="0.25"></ce:hsp>⇒<ce:hsp sp="0.25"></ce:hsp>β<ce:inf loc="post">H</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>α<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>δ<ce:hsp sp="0.25"></ce:hsp>⇒<ce:hsp sp="0.25"></ce:hsp>β<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>α′. The corresponding schematic diagrams illustrating the microstructural evolution and phase transformations of Ti6Al4V alloy containing 0.2–0.5<ce:hsp sp="0.25"></ce:hsp>wt.% hydrogen during cooling are shown in <ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref>
+<ce:float-anchor refid="fig9"></ce:float-anchor>.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">The microstructural evolution and phase transformations were studied in the hydrogenated (0–0.5<ce:hsp sp="0.25"></ce:hsp>wt.%) Ti6Al4V alloy. The α<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>β phase transformation temperature decreases and the α lath structure becomes finer with increasing of hydrogen content. The FCC δ hydrides precipitate in the Ti6Al4V alloy containing 0.2–0.5<ce:hsp sp="0.25"></ce:hsp>wt.% hydrogen and the hydrides increase with the increase of hydrogen content. There is no orthorhombic α″ found in this study, but hexagonal-close-packed (HCP) α′ phase exists. The formation of δ hydride involving nucleation and growth is a diffusion mechanism. The hydrides with a lamellar structure can form in the residual β<ce:inf loc="post">H</ce:inf> phase by eutectoid reaction. The δ hydrides can also directly precipitate in α laths. The equilibrium phase transformation sequence for the Ti6Al4V alloy containing 0.2–0.5<ce:hsp sp="0.25"></ce:hsp>wt.% hydrogen during cooling is β<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>α<ce:inf loc="post">lath</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>⇒<ce:hsp sp="0.25"></ce:hsp>α<ce:inf loc="post">H</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>α<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>δ<ce:hsp sp="0.25"></ce:hsp>⇒<ce:hsp sp="0.25"></ce:hsp>β<ce:inf loc="post">H</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>α<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>δ<ce:hsp sp="0.25"></ce:hsp>⇒<ce:hsp sp="0.25"></ce:hsp>β<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>α′.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgments</ce:section-title>
+<ce:para view="all">The authors thank vice professor Qingchang Meng for useful discussions and technical assistance. The services of the Materials Analysis Department of Harbin Institute of Technology are greatly appreciated.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Hardie</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Ouyang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Corros. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>41</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>155</sb:first-page>
+<sb:last-page>177</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>O.N.</ce:given-name>
+<ce:surname>Senkov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.H.</ce:given-name>
+<ce:surname>Froes</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+</sb:title>
+<sb:volume-nr>24</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>565</sb:first-page>
+<sb:last-page>576</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Tal-Gutelmacher</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Eliezer</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloy Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>404–406</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>621</sb:first-page>
+<sb:last-page>625</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.A.M.</ce:given-name>
+<ce:surname>German</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Powder Metallurgy Science</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1994</sb:date>
+<sb:publisher>
+<sb:name>Metal Powder Industries Federation</sb:name>
+<sb:location>Princeton, NJ</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.I.</ce:given-name>
+<ce:surname>Qazi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>O.N.</ce:given-name>
+<ce:surname>Senkov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Rahim</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Genc</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.H.</ce:given-name>
+<ce:surname>Sam Froes</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metall. Mater. Trans. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>32</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2453</sb:first-page>
+<sb:last-page>2463</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>O.N.</ce:given-name>
+<ce:surname>Senkov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.J.</ce:given-name>
+<ce:surname>Jonas</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metall. Mater. Trans. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>27</sb:volume-nr>
+</sb:series>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1877</sb:first-page>
+<sb:last-page>1887</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.Q.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+</sb:title>
+<sb:volume-nr>22</sb:volume-nr>
+</sb:series>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>161</sb:first-page>
+<sb:last-page>168</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.S.</ce:given-name>
+<ce:surname>Shin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.K.</ce:given-name>
+<ce:surname>Birnbaum</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scripta Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>20</sb:volume-nr>
+</sb:series>
+<sb:date>1986</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1261</sb:first-page>
+<sb:last-page>1264</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Numakura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Koiwa</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Asano</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Izumi</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Metall.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>36</sb:volume-nr>
+</sb:series>
+<sb:date>1988</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2267</sb:first-page>
+<sb:last-page>2273</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>O.T.</ce:given-name>
+<ce:surname>Woo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.C.</ce:given-name>
+<ce:surname>Weatherly</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.E.</ce:given-name>
+<ce:surname>Coleman</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Metall.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>33</sb:volume-nr>
+</sb:series>
+<sb:date>1985</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1897</sb:first-page>
+<sb:last-page>1906</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.B.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Q.</ce:given-name>
+<ce:surname>Kang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.H.</ce:given-name>
+<ce:surname>Lai</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Met. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>42</sb:volume-nr>
+</sb:series>
+<sb:date>1994</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2555</sb:first-page>
+<sb:last-page>2560</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.Z.</ce:given-name>
+<ce:surname>Xiao</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scripta Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>27</sb:volume-nr>
+</sb:series>
+<sb:date>1992</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>571</sb:first-page>
+<sb:last-page>576</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.I.</ce:given-name>
+<ce:surname>Qazi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>O.N.</ce:given-name>
+<ce:surname>Senkov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Rahim</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.H.</ce:given-name>
+<ce:surname>Sam Froes</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>359</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>137</sb:first-page>
+<sb:last-page>149</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Numarkura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Koiwa</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Metall.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>32</sb:volume-nr>
+</sb:series>
+<sb:date>1984</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1799</sb:first-page>
+<sb:last-page>1807</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Eliezer</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Eliaz</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>O.N.</ce:given-name>
+<ce:surname>Senkov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.H.</ce:given-name>
+<ce:surname>Froes</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>280</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>220</sb:first-page>
+<sb:last-page>224</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib16">
+<ce:label>[16]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>V.I.</ce:given-name>
+<ce:surname>Trefilov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.A.</ce:given-name>
+<ce:surname>Morozov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.A.</ce:given-name>
+<ce:surname>Morozov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.D.</ce:given-name>
+<ce:surname>Dobrovolsky</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Ya.A.</ce:given-name>
+<ce:surname>Zaulichny</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.I.</ce:given-name>
+<ce:surname>Kopylova</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>O.Yu.</ce:given-name>
+<ce:surname>Khyzhun</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+</sb:title>
+<sb:volume-nr>24</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>157</sb:first-page>
+<sb:last-page>161</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib17">
+<ce:label>[17]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.I.</ce:given-name>
+<ce:surname>Aaronson</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Furuhara</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.M.</ce:given-name>
+<ce:surname>Rigsbee</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metall. Trans. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>21</sb:volume-nr>
+</sb:series>
+<sb:date>1990</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2369</sb:first-page>
+<sb:last-page>2409</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib18">
+<ce:label>[18]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Setoyama</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Matsunaga</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Muta</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Uno</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Yamanaka</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloy Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>381</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>215</sb:first-page>
+<sb:last-page>220</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib19">
+<ce:label>[19]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.R.</ce:given-name>
+<ce:surname>Morasch</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.F.</ce:given-name>
+<ce:surname>Bahr</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scripta Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>45</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>839</sb:first-page>
+<sb:last-page>845</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib20">
+<ce:label>[20]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Wipf</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Kappesser</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Werner</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloy Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>310</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>190</sb:first-page>
+<sb:last-page>195</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

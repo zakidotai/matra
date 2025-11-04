@@ -1,0 +1,1286 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838805019468</prism:url><dc:identifier>doi:10.1016/j.jallcom.2005.09.093</dc:identifier><eid>1-s2.0-S0925838805019468</eid><prism:doi>10.1016/j.jallcom.2005.09.093</prism:doi><pii>S0925-8388(05)01946-8</pii><dc:title>Microstructural features of the hydrogenation process in Ti grade 2 </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>424</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>193</prism:startingpage><prism:endingpage>198</prism:endingpage><prism:pagerange>193-198</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2006-11-09</prism:coverdate><prism:coverdisplaydate>9 November 2006</prism:coverdisplaydate><prism:copyright>Copyright © 2005 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Domizzi, G.</dc:creator><dc:creator>Luppo, M.I.</dc:creator><dc:creator>Vigna, G.</dc:creator><dc:description>
+                  This paper reports the first studies made with the final aim of obtaining Ti powder by the hydrogenation–dehydrogenation process. The hydrogenation of Ti grade 2, with two different initial microstructures, equiaxed and acicular α, was performed in a Sieverts’ device, at temperature higher than 600°C and pressures close to 0.1MPa. The evolution of the hydrogenating process was studied by comparing the microstructure changes and the variation of hydrogen pressure. For both analyzed microstructures, the process progresses by growing of a surface β phase layer with an absorption rate of 10−5 to 10−4
+                     gcm−2
+                     s−1. Then, Ti hydride precipitates on the surface and the rate decreases two orders of magnitude. Under this condition, obtaining of a fully hydrided material (atomic fraction: 1.6 H/Ti) becomes too slow. Although samples with 1.1 H/Ti are not so brittle as Ti hydride, it can be easily milled at room temperature and can be used to produce titanium powder at a competitive cost.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Titanium</dcterms:subject><dcterms:subject>Hydride</dcterms:subject><dcterms:subject>Hydrogen</dcterms:subject><dcterms:subject>Powder metallurgy</dcterms:subject><dcterms:subject>Scanning electron microscopy</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838805019468" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838805019468" rel="scidir"/></coredata><objects><object category="standard" height="300" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="11659" type="IMAGE-DOWNSAMPLED" width="389">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019468-gr5.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="1937" type="IMAGE-THUMBNAIL" width="121">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019468-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="518" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr7" size="111688" type="IMAGE-DOWNSAMPLED" width="339">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019468-gr7.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="2516" type="IMAGE-THUMBNAIL" width="61">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019468-gr7.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="255" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr11" size="65292" type="IMAGE-DOWNSAMPLED" width="339">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019468-gr11.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr11" size="4363" type="IMAGE-THUMBNAIL" width="124">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019468-gr11.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="259" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr12" size="26963" type="IMAGE-DOWNSAMPLED" width="373">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019468-gr12.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="87" mimetype="image/gif" multimediatype="GIF image file" ref="gr12" size="2800" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019468-gr12.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="265" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="55152" type="IMAGE-DOWNSAMPLED" width="339">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019468-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="3228" type="IMAGE-THUMBNAIL" width="120">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019468-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="265" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr6" size="64956" type="IMAGE-DOWNSAMPLED" width="339">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019468-gr6.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="4141" type="IMAGE-THUMBNAIL" width="119">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019468-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="458" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="27151" type="IMAGE-DOWNSAMPLED" width="387">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019468-gr1.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="2336" type="IMAGE-THUMBNAIL" width="79">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019468-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="254" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr8" size="66178" type="IMAGE-DOWNSAMPLED" width="339">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019468-gr8.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr8" size="4770" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019468-gr8.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="785" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr9" size="144293" type="IMAGE-DOWNSAMPLED" width="339">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019468-gr9.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr9" size="1154" type="IMAGE-THUMBNAIL" width="40">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019468-gr9.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="519" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr10" size="109236" type="IMAGE-DOWNSAMPLED" width="339">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019468-gr10.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr10" size="2082" type="IMAGE-THUMBNAIL" width="61">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019468-gr10.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="252" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr13" size="27568" type="IMAGE-DOWNSAMPLED" width="368">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019468-gr13.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="86" mimetype="image/gif" multimediatype="GIF image file" ref="gr13" size="2941" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019468-gr13.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="254" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="47906" type="IMAGE-DOWNSAMPLED" width="339">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019468-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="3788" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019468-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="815" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="132538" type="IMAGE-DOWNSAMPLED" width="342">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019468-gr4.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="1470" type="IMAGE-THUMBNAIL" width="39">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019468-gr4.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>33749165604</scopus-id><scopus-eid>2-s2.0-33749165604</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/33749165604" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20060130">2006-01-30</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20060130">2006-01-30</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-03-29T07:36:02</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838805019468</xocs:eid>
+<xocs:pii-formatted>S0925-8388(05)01946-8</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805019468</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2005.09.093</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838806X02621</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.349087-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20061109</xocs:date-search-begin>
+<xocs:year-nav>2006</xocs:year-nav>
+<xocs:indexeddate epoch="1138579200">2006-01-30T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>424</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>424</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 424, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>37</xocs:sort-order>
+<xocs:first-fp>193</xocs:first-fp>
+<xocs:last-lp>198</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>193</xocs:first-page>
+<xocs:last-page>198</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20061109</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>9 November 2006</xocs:cover-date-text>
+<xocs:cover-date-start>2006-11-09</xocs:cover-date-start>
+<xocs:cover-date-year>2006</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Materials Science</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2005 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>MICROSTRUCTURALFEATURESHYDROGENATIONPROCESSINTIGRADE2</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>DOMIZZI</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>G</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental procedure</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Metallographic observations</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Hydrogen absorption process</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Milling</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>FROES</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1980</xocs:ref-pub-year>
+<xocs:ref-first-fp>47</xocs:ref-first-fp>
+<xocs:ref-last-lp>54</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>SCHWANKE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>264</xocs:ref-first-fp>
+<xocs:ref-last-lp>270</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>FROES</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1985</xocs:ref-pub-year>
+<xocs:ref-first-fp>163</xocs:ref-first-fp>
+<xocs:ref-last-lp>167</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>HENRIQUES</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>443</xocs:ref-first-fp>
+<xocs:ref-last-lp>448</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>FROES</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>719</xocs:ref-first-fp>
+<xocs:ref-last-lp>733</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>HYDROGENEFFECTSINMATERIALS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>MANCHESTER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>238</xocs:ref-first-fp>
+<xocs:ref-last-lp>258</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>PHASEDIAGRAMSBINARYHYDROGENALLOYS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>LEWKOWICZ</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>239</xocs:ref-first-fp>
+<xocs:ref-last-lp>279</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8"></xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>LASER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1982</xocs:ref-pub-year>
+<xocs:ref-first-fp>37</xocs:ref-first-fp>
+<xocs:ref-last-lp>44</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>DOMIZZIX2006X193</xocs:refkey3>
+<xocs:refkey4lp>DOMIZZIX2006X193X198</xocs:refkey4lp>
+<xocs:refkey4ai>DOMIZZIX2006X193XG</xocs:refkey4ai>
+<xocs:refkey5>DOMIZZIX2006X193X198XG</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(05)01946-8</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805019468</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838805019468</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2005.09.093</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-08T03:51:52.638006-04:00</xocs:timestamp>
+<xocs:cover-date-start>2006-11-09</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838805019468-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019468/MAIN/application/pdf/fd37ff18513da82ccf19f77ca82d8e1d/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019468/MAIN/application/pdf/fd37ff18513da82ccf19f77ca82d8e1d/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>992239</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838805019468-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019468/PREVIEW/image/png/9936c9035bd8a17cea34169ff6563aeb/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019468/PREVIEW/image/png/9936c9035bd8a17cea34169ff6563aeb/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>66545</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019468-gr5.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019468/gr5/DOWNSAMPLED/image/gif/c99259778dc52f81a85e5b76ed9cb86a/gr5.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019468/gr5/DOWNSAMPLED/image/gif/c99259778dc52f81a85e5b76ed9cb86a/gr5.gif</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>11659</xocs:filesize>
+<xocs:pixel-height>300</xocs:pixel-height>
+<xocs:pixel-width>389</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019468-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019468/gr5/THUMBNAIL/image/gif/d3228d1581d1826029e77bfe0080af68/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019468/gr5/THUMBNAIL/image/gif/d3228d1581d1826029e77bfe0080af68/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1937</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>121</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019468-gr7.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019468/gr7/DOWNSAMPLED/image/jpeg/ca1b0f766f342f1f8c00f1029181aa71/gr7.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019468/gr7/DOWNSAMPLED/image/jpeg/ca1b0f766f342f1f8c00f1029181aa71/gr7.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>111688</xocs:filesize>
+<xocs:pixel-height>518</xocs:pixel-height>
+<xocs:pixel-width>339</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019468-gr7.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019468/gr7/THUMBNAIL/image/gif/734ad9096459b1ecd0e1ddb5a9a691c2/gr7.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019468/gr7/THUMBNAIL/image/gif/734ad9096459b1ecd0e1ddb5a9a691c2/gr7.sml</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2516</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>61</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019468-gr11.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019468/gr11/DOWNSAMPLED/image/jpeg/d670ca2000b5f99372fc70d95bc1184a/gr11.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019468/gr11/DOWNSAMPLED/image/jpeg/d670ca2000b5f99372fc70d95bc1184a/gr11.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr11</xocs:file-basename>
+<xocs:filename>gr11.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>65292</xocs:filesize>
+<xocs:pixel-height>255</xocs:pixel-height>
+<xocs:pixel-width>339</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019468-gr11.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019468/gr11/THUMBNAIL/image/gif/23c5392585b2b32bb6e7b5d1d8605898/gr11.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019468/gr11/THUMBNAIL/image/gif/23c5392585b2b32bb6e7b5d1d8605898/gr11.sml</xocs:ucs-locator>
+<xocs:file-basename>gr11</xocs:file-basename>
+<xocs:filename>gr11.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>4363</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>124</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019468-gr12.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019468/gr12/DOWNSAMPLED/image/jpeg/bc8fa0e82bb02bb5bf729beba1ad4e20/gr12.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019468/gr12/DOWNSAMPLED/image/jpeg/bc8fa0e82bb02bb5bf729beba1ad4e20/gr12.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr12</xocs:file-basename>
+<xocs:filename>gr12.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>26963</xocs:filesize>
+<xocs:pixel-height>259</xocs:pixel-height>
+<xocs:pixel-width>373</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019468-gr12.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019468/gr12/THUMBNAIL/image/gif/7338c012a007d51b57d3ae16ddf85ae2/gr12.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019468/gr12/THUMBNAIL/image/gif/7338c012a007d51b57d3ae16ddf85ae2/gr12.sml</xocs:ucs-locator>
+<xocs:file-basename>gr12</xocs:file-basename>
+<xocs:filename>gr12.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2800</xocs:filesize>
+<xocs:pixel-height>87</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019468-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019468/gr2/DOWNSAMPLED/image/jpeg/768fe360f97d18424637a816b1aafbc9/gr2.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019468/gr2/DOWNSAMPLED/image/jpeg/768fe360f97d18424637a816b1aafbc9/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>55152</xocs:filesize>
+<xocs:pixel-height>265</xocs:pixel-height>
+<xocs:pixel-width>339</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019468-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019468/gr2/THUMBNAIL/image/gif/875d5aec69d811313ec2df6381057a8a/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019468/gr2/THUMBNAIL/image/gif/875d5aec69d811313ec2df6381057a8a/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3228</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>120</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019468-gr6.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019468/gr6/DOWNSAMPLED/image/jpeg/c3ac17fea7e86811f516299a72795cf7/gr6.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019468/gr6/DOWNSAMPLED/image/jpeg/c3ac17fea7e86811f516299a72795cf7/gr6.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>64956</xocs:filesize>
+<xocs:pixel-height>265</xocs:pixel-height>
+<xocs:pixel-width>339</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019468-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019468/gr6/THUMBNAIL/image/gif/7eefde790dc9b86a64462be4916bbc40/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019468/gr6/THUMBNAIL/image/gif/7eefde790dc9b86a64462be4916bbc40/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>4141</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>119</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019468-gr1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019468/gr1/DOWNSAMPLED/image/gif/2410a949725392da971c4f0d5ee2a0e6/gr1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019468/gr1/DOWNSAMPLED/image/gif/2410a949725392da971c4f0d5ee2a0e6/gr1.gif</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>27151</xocs:filesize>
+<xocs:pixel-height>458</xocs:pixel-height>
+<xocs:pixel-width>387</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019468-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019468/gr1/THUMBNAIL/image/gif/64b9545633c4c1e566ae05fe896d98a0/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019468/gr1/THUMBNAIL/image/gif/64b9545633c4c1e566ae05fe896d98a0/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2336</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>79</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019468-gr8.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019468/gr8/DOWNSAMPLED/image/jpeg/761d54d832de58e677c24ce40b20c135/gr8.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019468/gr8/DOWNSAMPLED/image/jpeg/761d54d832de58e677c24ce40b20c135/gr8.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>66178</xocs:filesize>
+<xocs:pixel-height>254</xocs:pixel-height>
+<xocs:pixel-width>339</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019468-gr8.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019468/gr8/THUMBNAIL/image/gif/b92255094b9af77316e28ab0c6828b7c/gr8.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019468/gr8/THUMBNAIL/image/gif/b92255094b9af77316e28ab0c6828b7c/gr8.sml</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>4770</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019468-gr9.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019468/gr9/DOWNSAMPLED/image/jpeg/f8b383e801dd196ca0fc18457cf7d1b8/gr9.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019468/gr9/DOWNSAMPLED/image/jpeg/f8b383e801dd196ca0fc18457cf7d1b8/gr9.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>144293</xocs:filesize>
+<xocs:pixel-height>785</xocs:pixel-height>
+<xocs:pixel-width>339</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019468-gr9.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019468/gr9/THUMBNAIL/image/gif/93bd341e4353e5ae9921e9da6acbe2eb/gr9.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019468/gr9/THUMBNAIL/image/gif/93bd341e4353e5ae9921e9da6acbe2eb/gr9.sml</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1154</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>40</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019468-gr10.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019468/gr10/DOWNSAMPLED/image/jpeg/523f678d3b05c65b234ac00b756dbb05/gr10.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019468/gr10/DOWNSAMPLED/image/jpeg/523f678d3b05c65b234ac00b756dbb05/gr10.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr10</xocs:file-basename>
+<xocs:filename>gr10.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>109236</xocs:filesize>
+<xocs:pixel-height>519</xocs:pixel-height>
+<xocs:pixel-width>339</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019468-gr10.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019468/gr10/THUMBNAIL/image/gif/e5e0daac68ff1a4c699484a45c2bb28c/gr10.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019468/gr10/THUMBNAIL/image/gif/e5e0daac68ff1a4c699484a45c2bb28c/gr10.sml</xocs:ucs-locator>
+<xocs:file-basename>gr10</xocs:file-basename>
+<xocs:filename>gr10.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2082</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>61</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019468-gr13.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019468/gr13/DOWNSAMPLED/image/jpeg/87ba58f5643637f6f837c8dc9f47088e/gr13.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019468/gr13/DOWNSAMPLED/image/jpeg/87ba58f5643637f6f837c8dc9f47088e/gr13.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr13</xocs:file-basename>
+<xocs:filename>gr13.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>27568</xocs:filesize>
+<xocs:pixel-height>252</xocs:pixel-height>
+<xocs:pixel-width>368</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019468-gr13.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019468/gr13/THUMBNAIL/image/gif/3079baa944ed3d78e1e7ffb6dfb37b1b/gr13.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019468/gr13/THUMBNAIL/image/gif/3079baa944ed3d78e1e7ffb6dfb37b1b/gr13.sml</xocs:ucs-locator>
+<xocs:file-basename>gr13</xocs:file-basename>
+<xocs:filename>gr13.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2941</xocs:filesize>
+<xocs:pixel-height>86</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019468-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019468/gr3/DOWNSAMPLED/image/jpeg/54629b0031ffb97acc422c548350484f/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019468/gr3/DOWNSAMPLED/image/jpeg/54629b0031ffb97acc422c548350484f/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>47906</xocs:filesize>
+<xocs:pixel-height>254</xocs:pixel-height>
+<xocs:pixel-width>339</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019468-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019468/gr3/THUMBNAIL/image/gif/5f50b60f728312e418bc415e7201b25b/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019468/gr3/THUMBNAIL/image/gif/5f50b60f728312e418bc415e7201b25b/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3788</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019468-gr4.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019468/gr4/DOWNSAMPLED/image/jpeg/3d9bc623197c46b34466a2c716921282/gr4.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019468/gr4/DOWNSAMPLED/image/jpeg/3d9bc623197c46b34466a2c716921282/gr4.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>132538</xocs:filesize>
+<xocs:pixel-height>815</xocs:pixel-height>
+<xocs:pixel-width>342</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019468-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019468/gr4/THUMBNAIL/image/gif/f5df8a2e95cc9ea46edebaa585a84dda/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019468/gr4/THUMBNAIL/image/gif/f5df8a2e95cc9ea46edebaa585a84dda/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1470</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>39</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>13524</aid>
+<ce:pii>S0925-8388(05)01946-8</ce:pii>
+<ce:doi>10.1016/j.jallcom.2005.09.093</ce:doi>
+<ce:copyright type="full-transfer" year="2005">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Pressure vs. composition isotherm for the Ti–H system <ce:cross-ref refid="bib6">[6]</ce:cross-ref>.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">SEM micrograph of sample A in the as received condition.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Optical micrograph of sample B as remelted. At the corner, hydride particles aligned with the plates can be seen with SEM.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Microstructure of sample A3 (0.275 H/Ti). (a) Optical micrograph: the dark-etching constituent (surface) consists of proeutectoid α and eutectoid; the light-etching constituent (middle) is primary α with precipitated δ particles. (b) SEM micrograph: detail of the surface layer: α (dark) and δ hydride (light). (c) SEM detail of the middle of the sample: primary α plus particles of δ precipitates.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Ti–H phase diagram for <ce:italic>P</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>&lt;<ce:hsp sp="0.25"></ce:hsp>1<ce:hsp sp="0.25"></ce:hsp>MPa <ce:cross-ref refid="bib6">[6]</ce:cross-ref>.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">SEM micrograph of the sample A4 (0.9 H/Ti): proeutectoid δ and eutectoid.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+<ce:figure id="fig7">
+<ce:label>Fig. 7</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Optical micrograph of the sample A5 (1.1 H/Ti). (a) Surface hydride layer. (b) Proeutectoid δ and eutectoid (α, white and δ, grey) in the middle of the sample.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr7"></ce:link>
+</ce:figure>
+<ce:figure id="fig8">
+<ce:label>Fig. 8</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Optical micrograph of sample A7 (1.6 H/Ti), the whole sample has been transformed to hydride.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr8"></ce:link>
+</ce:figure>
+<ce:figure id="fig9">
+<ce:label>Fig. 9</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Sample B1 (0.265 H/Ti). (a) Optical and (b) SEM micrograph of the surface layer and (c) SEM micrograph in the middle.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr9"></ce:link>
+</ce:figure>
+<ce:figure id="fig10">
+<ce:label>Fig. 10</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Optical micrograph of the sample B2 (0.85 H/Ti): (a) near the surface and (b) in the middle of the thickness.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr10"></ce:link>
+</ce:figure>
+<ce:figure id="fig11">
+<ce:label>Fig. 11</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Optical micrograph of the sample B4 (1.37 H/Ti). Internal δ branches (light-etching).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr11"></ce:link>
+</ce:figure>
+<ce:figure id="fig12">
+<ce:label>Fig. 12</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Typical curve of hydrogen absorption process: hydrogen absorption rate and weight gain vs. time.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr12"></ce:link>
+</ce:figure>
+<ce:figure id="fig13">
+<ce:label>Fig. 13</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Temperature evolution and hydrogen absorption rate during hydrogenation process.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr13"></ce:link>
+</ce:figure>
+<ce:table colsep="0" frame="topbot" id="tbl1" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Material composition</ce:simple-para>
+</ce:caption>
+<tgroup cols="2">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Element</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">wt%</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">N</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.008</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">C<inf loc="post">max</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.08</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">H<inf loc="post">max</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.015</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Fe<inf loc="post">max</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.3</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">O</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.11</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Balance</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl2" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Results of the hydrogenation tests</ce:simple-para>
+</ce:caption>
+<tgroup cols="5">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<colspec colname="col5"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Sample</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">H/Ti</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Thickness (mm)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Surface layer (mm)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Metallographic constituents</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">A1</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.025</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1.94</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.04 (β)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Surface: pro α<hsp sp="0.25"></hsp>+<hsp sp="0.25"></hsp>eutectoid; middle: primary α<hsp sp="0.25"></hsp>+<hsp sp="0.25"></hsp>δ</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">A2</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.12</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.96</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.13 (β)</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">A3</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.275</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1.0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.4 (β)</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" nameend="col5" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<vsp sp="0.5"></vsp>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">A4</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.9</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.9</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">No</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">pro δ<hsp sp="0.25"></hsp>+<hsp sp="0.25"></hsp>eutectoid</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">A9</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.94</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1.7</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">No</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" nameend="col5" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<vsp sp="0.5"></vsp>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">A5</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1.1</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.94</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.1 (δ)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Surface: δ; middle: pro δ<hsp sp="0.25"></hsp>+<hsp sp="0.25"></hsp>eutectoid</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">A8</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1.1</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">2.07</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.5 (δ)</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">A6</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1.15</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1.92</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.15 (δ)</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" nameend="col5" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<vsp sp="0.5"></vsp>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">A7</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1.6</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1.85</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">No</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">δ</entry>
+</row>
+<row>
+<entry align="left" nameend="col5" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<vsp sp="0.5"></vsp>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">B1</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.265</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">4.5</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.7 (β)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Surface: pro δ<hsp sp="0.25"></hsp>+<hsp sp="0.25"></hsp>eutectoid; middle: primary α<hsp sp="0.25"></hsp>+<hsp sp="0.25"></hsp>δ</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">B2</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.85</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">2.86</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">No</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">pro δ<hsp sp="0.25"></hsp>+<hsp sp="0.25"></hsp>eutectoid</entry>
+</row>
+<row>
+<entry align="left" nameend="col5" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<vsp sp="0.5"></vsp>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">B5</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1.1</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1.0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.1 (δ)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Surface: δ; middle: pro δ<hsp sp="0.25"></hsp>+<hsp sp="0.25"></hsp>eutectoid</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">B6</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1.3</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.85</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0–0.3 (δ)</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">B3</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1.36</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">2.9</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.1 (δ)</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">B4</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1.37</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">4.77</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.2 (δ)</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+</ce:floats>
+<ce:title>Microstructural features of the hydrogenation process in Ti grade 2</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Domizzi</ce:surname>
+</ce:author>
+<ce:author>
+<ce:given-name>M.I.</ce:given-name>
+<ce:surname>Luppo</ce:surname>
+</ce:author>
+<ce:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Vigna</ce:surname>
+<ce:cross-ref refid="cor1">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation>
+<ce:textfn>Departamento Materiales, Centro Atómico Constituyentes, Comisión Nacional de Energía Atómica, U.A. Materiales-CAC-, Av. Del Libertador 8250, Buenos Aires 1429, Argentina</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>⁎</ce:label>
+<ce:text>Corresponding author. Tel.: +54 11 6772 7287; fax: +54 11 6772 7362.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="13" month="10" year="2004"></ce:date-received>
+<ce:date-revised day="28" month="4" year="2005"></ce:date-revised>
+<ce:date-accepted day="30" month="9" year="2005"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">This paper reports the first studies made with the final aim of obtaining Ti powder by the hydrogenation–dehydrogenation process. The hydrogenation of Ti grade 2, with two different initial microstructures, equiaxed and acicular α, was performed in a Sieverts’ device, at temperature higher than 600<ce:hsp sp="0.25"></ce:hsp>°C and pressures close to 0.1<ce:hsp sp="0.25"></ce:hsp>MPa. The evolution of the hydrogenating process was studied by comparing the microstructure changes and the variation of hydrogen pressure. For both analyzed microstructures, the process progresses by growing of a surface β phase layer with an absorption rate of 10<ce:sup loc="post">−5</ce:sup> to 10<ce:sup loc="post">−4</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>g<ce:hsp sp="0.25"></ce:hsp>cm<ce:sup loc="post">−2</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>s<ce:sup loc="post">−1</ce:sup>. Then, Ti hydride precipitates on the surface and the rate decreases two orders of magnitude. Under this condition, obtaining of a fully hydrided material (atomic fraction: 1.6 H/Ti) becomes too slow. Although samples with 1.1 H/Ti are not so brittle as Ti hydride, it can be easily milled at room temperature and can be used to produce titanium powder at a competitive cost.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Titanium</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Hydride</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Hydrogen</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Powder metallurgy</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Scanning electron microscopy</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Titanium alloys are widely used in chemical, automobile, aeronautic and biomedical industries due to their unique combination of biocompatibility, corrosion resistance and high specific strength. However, because of the high cost of raw materials, combined with the difficulty associated with forming and machining processes, several methods attempt to produce near-net shape configurations of the desired components in an effort to eliminate or minimize metalworking. Particularly, powder metallurgy is one of the most promising alternatives to obtain titanium near-net parts <ce:cross-refs refid="bib1 bib2 bib3">[1–3]</ce:cross-refs>.</ce:para>
+<ce:para view="all">One method to produce titanium powder is the hydride–dehydride (HDH) process. In Ti, as in another IVb group elements, it is possible to introduce high quantities of hydrogen at elevated temperatures. At room temperature, the solubility of hydrogen in these materials is quite low. During cooling, brittle hydrides are formed and the material can be easily milled at room temperature. Then, hydrogen is removed by heating the Ti powder at high temperature in high vacuum <ce:cross-refs refid="bib4 bib5">[4,5]</ce:cross-refs>.</ce:para>
+<ce:para view="all">The aim of the current work is to study the hydrogenation process of Ti grade 2 (commercial purity) to analyze the effect of the initial microstructure on the hydrogen absorption rate, the hydride distribution in the material and the pulverization.</ce:para>
+</ce:section>
+<ce:section role="materials-methods" view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental procedure</ce:section-title>
+<ce:para view="all">The as received material was a rolled and recrystallized Ti grade 2 strip whose composition is reported in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+<ce:float-anchor refid="tbl1"></ce:float-anchor>. A fraction of the strip was remelted, in an arc furnace with high-purity Ar atmosphere, to obtain buttons of approximately 20<ce:hsp sp="0.25"></ce:hsp>g. Therefore, two kinds of samples with different microstructural conditions were tested: sample A which were cut from the as received material and sample B extracted from the buttons.</ce:para>
+<ce:para view="all">Hydrogen absorption was performed in a Sieverts’ device, which consists of a chamber (a quartz tube) connected to a high vacuum system and to a hydrogen injection system (99.999 purity). The heat treatments were performed by moving the chamber into an instrumented furnace. Temperature was measured by means of a thermocouple installed inside the hydrogenation chamber some millimetres over the sample.</ce:para>
+<ce:para view="all">Hydrogen concentrations in the specimens were calculated by two methods: (1) from the difference between the initial and final pressures measured at room temperature, assuming ideal gas behaviour and (2) by weighing the samples before and after hydrogenation in a precision balance with an error of 10<ce:sup loc="post">−5</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>g.</ce:para>
+<ce:para view="all">The tests were carried out at temperatures higher than 600<ce:hsp sp="0.25"></ce:hsp>°C and pressures close to 0.1<ce:hsp sp="0.25"></ce:hsp>MPa. Under these conditions, the pressure during charging is hold over the equilibrium pressure of the β<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>δ transformation, as can be seen in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor>, and the sample can quite transform into hydride phase when the hydrogen concentration is over 1.6 H/Ti.</ce:para>
+<ce:para view="all">To assess the evolution of hydriding process the samples were charged with different global hydrogen concentration, as shown by vertical lines in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>. This was obtained by removing the chamber from the furnace at different times. Diffusion in the bulk and hydrogen ingress during cooling were avoided cooling the chamber with forced air.</ce:para>
+<ce:para view="all">Prior and after hydrogen charging, microstructural examination of transversal section was carried out using optical (OM) and scanning electron microscopes (SEM). Specimens were abraded with silicon carbide paper up to 2500 mesh. Then, they were chemical-mechanically polished using a cloth embedded with 0.5% HF solution and ammonium dichromate ashes. Finally, the samples were etched in a 3<ce:hsp sp="0.25"></ce:hsp>ml HNO<ce:inf loc="post">3</ce:inf>, 50<ce:hsp sp="0.25"></ce:hsp>ml distilled water and 1.5<ce:hsp sp="0.25"></ce:hsp>ml HF solution (Kroll's reagent).</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:section view="all">
+<ce:label>3.1</ce:label>
+<ce:section-title>Metallographic observations</ce:section-title>
+<ce:para view="all">
+<ce:cross-refs refid="fig2 fig3">Figs. 2 and 3</ce:cross-refs>
+<ce:float-anchor refid="fig2"></ce:float-anchor>
+<ce:float-anchor refid="fig3"></ce:float-anchor> show the microstructure of samples A and B, respectively, prior to hydrogen charging. The microstructure of sample A consisted of equiaxed α grains with an average diameter of 10<ce:hsp sp="0.25"></ce:hsp>μm, and low hydride density (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>). The original hydride particles (white) were distributed along grain boundaries.</ce:para>
+<ce:para view="all">Buttons (sample B) presented columnar α grains (100–1000<ce:hsp sp="0.25"></ce:hsp>μm) with plates inside, see <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>. Low density of hydrides aligned with the plates can be seen, with higher magnification, at the corner of <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>
+<ce:float-anchor refid="tbl2"></ce:float-anchor> shows the global concentration (expressed in atomic fraction, H/Ti), the thickness and the metallographic observations in each sample, after hydrogenation.</ce:para>
+<ce:para view="all">Optical micrographs (in samples A1–A3) show a surface layer that growths at the beginning of the hydrogenation process. The high density of δ hydrides indicates that the hydrogen concentration in the layer is higher than the average, <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>a<ce:float-anchor refid="fig4"></ce:float-anchor>. Inside this layer, β phase was formed at the hydrogenation temperature and then transformed, during cooling, to proeutectoid α plus eutectoid (α<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>δ), as it may be verified with higher magnification (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>b). In the middle of the samples, the primary α phase remained untransformed but hydrogen enriched. Hydride particles mainly precipitated along grain boundaries (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>c). So, a decreasing density of hydrides is observed from the surface to the middle of the samples.</ce:para>
+<ce:para view="all">In samples A4 and A9, the global hydrogen concentration is higher than the eutectoid one: 0.74 H/Ti (see <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="fig5"></ce:float-anchor>
+<ce:cross-ref refid="bib6">[6]</ce:cross-ref>), then α phase transformed to β phase throughout the cross section of the specimen. During cooling, proeutectoid δ and eutectoid (α<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>δ) transformations took place (<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="fig6"></ce:float-anchor>).</ce:para>
+<ce:para view="all">With higher hydrogen concentrations (samples A5, A6 and A8) a hydride layer is formed on the specimen surface (<ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>a<ce:float-anchor refid="fig7"></ce:float-anchor>). In the middle of these specimens the microstructure is similar to that observed in the sample A4 (Figs. <ce:cross-ref refid="fig6">6</ce:cross-ref> and <ce:cross-ref refid="fig7">7</ce:cross-ref>b).</ce:para>
+<ce:para view="all">Sample A7 with 1.6 H/Ti was quite transformed into hydride. Microcracks were produced throughout the specimen due to the hydride brittleness (<ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>
+<ce:float-anchor refid="fig8"></ce:float-anchor>).</ce:para>
+<ce:para view="all">Hydrogenation evolution in samples of the group B is similar to that of sample A.</ce:para>
+<ce:para view="all">Sample B1 presents a surface layer with a hydrogen concentration gradient (<ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref>a and b<ce:float-anchor refid="fig9"></ce:float-anchor>) and primary α phase with hydride plates in the middle of the specimen (<ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref>c). Sample B1 has the same global hydrogen as sample A3, but it was thicker. Therefore, its β layer was wider and had higher hydrogen concentration. Consequently, during cooling the layer transformed to proeutectoid δ (instead α) and eutectoid (<ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref>b).</ce:para>
+<ce:para view="all">In the sample B2, analogously to what has been observed in samples A4 and A9 with similar global concentration, the formation of β phase was attained throughout the thickness. Because of the non-uniformity of the initial columnar microstructure, the distribution of δ phase in sample B is less uniform than that observed in sample A: aligned coarse δ plates are precipitated and, between them, a finer lamellar eutectoide is produced (<ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref>
+<ce:float-anchor refid="fig10"></ce:float-anchor>).</ce:para>
+<ce:para view="all">For higher hydrogen concentrations (samples B3–B6), not only δ layer precipitated on the sample surface but coarse δ branches are too observed across the sample thickness (<ce:cross-ref refid="fig11">Fig. 11</ce:cross-ref>
+<ce:float-anchor refid="fig11"></ce:float-anchor>). This is the main difference in comparison to sample A.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.2</ce:label>
+<ce:section-title>Hydrogen absorption process</ce:section-title>
+<ce:para view="all">The hydrogen absorption rate and weight gain were calculated from the pressure decrease during hydrogenation (<ce:cross-ref refid="fig12">Fig. 12</ce:cross-ref>
+<ce:float-anchor refid="fig12"></ce:float-anchor>).</ce:para>
+<ce:para view="all">An incubation period, with hydrogen absorption rates in the order of 10<ce:sup loc="post">−6</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>g<ce:hsp sp="0.25"></ce:hsp>cm<ce:sup loc="post">−2</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>s<ce:sup loc="post">−1</ce:sup>, was found. Before the saturation of the α phase with hydrogen, an increase in the absorption rate and temperature was registered (<ce:cross-refs refid="fig12 fig13">Figs. 12 and 13</ce:cross-refs>
+<ce:float-anchor refid="fig13"></ce:float-anchor>, respectively). The temperature increment can be attributed to the exothermic reaction α<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>β because it is concurrent with the formation of a β surface layer (as it was verified by metallography). In this stage, the hydrogen absorption rate is in the order of 5<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>10<ce:sup loc="post">−5</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>g<ce:hsp sp="0.25"></ce:hsp>cm<ce:sup loc="post">−2</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>s<ce:sup loc="post">−1</ce:sup>, but it can rise up to 10<ce:sup loc="post">−4</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>g<ce:hsp sp="0.25"></ce:hsp>cm<ce:sup loc="post">−2</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>s<ce:sup loc="post">−1</ce:sup> as the temperature reaches its maximum value. Then, a stage where β phase is saturated with hydrogen starts. Finally, a noticeable decrease in the hydrogen absorption rate is registered (≈10<ce:sup loc="post">−7</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>g<ce:hsp sp="0.25"></ce:hsp>cm<ce:sup loc="post">−2</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>s<ce:sup loc="post">−1</ce:sup>), this is coincident with the observation of a δ layer growth on the surface sample. These results are in good agreement with a diffusion controlled process because it is well known that the hydrogen diffusion in δ phase is two orders of magnitude lower than the diffusion in α and β phases <ce:cross-refs refid="bib7 bib8">[7,8]</ce:cross-refs>. Moreover, Laser <ce:cross-ref refid="bib9">[9]</ce:cross-ref> found that for low pressure the hydrogenation is surface controlled but become diffusion controlled at pressures higher than 0.013<ce:hsp sp="0.25"></ce:hsp>MPa. In the present work, due to high partial pressure employed, it is expected that the process be hydrogen diffusion controlled.</ce:para>
+<ce:para view="all">Both groups of samples, A and B, do not present appreciable differences in hydrogen absorption.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.3</ce:label>
+<ce:section-title>Milling</ce:section-title>
+<ce:para view="all">Samples with global hydrogen concentration between 1.1 and 1.4 H/Ti can be milled at room temperature. However, due to the presence of a hydride surface layer the powder is very inhomogeneous in size.</ce:para>
+<ce:para view="all">When the sample has completely transformed to δ phase (more than 1.5 H/Ti) the powder is more homogeneous and the milling is easier. Unfortunately, the last stage of the hydrogenation becomes too slow because of the low hydrogen diffusion in the hydride phase.</ce:para>
+<ce:para view="all">The charging time is reduced if the hydrogen concentration is approximately 1 H/Ti. In this case no hydride layer is formed and a more uniform particle size could be obtained, even in melted samples. Nevertheless, the material brittleness is reduced and the time and energy of milling must be increased.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">The study of hydrogenation of Ti grade 2 with two different kinds of microstructures, equiaxed and acicular α, shows the following results:<ce:list>
+<ce:list-item>
+<ce:label>•</ce:label>
+<ce:para view="all">Both microstructures present similar hydrogenation kinetics: hydrogenation process begins with a short incubation period. Then, a surface β layer is formed, the exothermic reaction α<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>β increases the temperature and the absorption rate rises until 10<ce:sup loc="post">−4</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>g<ce:hsp sp="0.25"></ce:hsp>cm<ce:sup loc="post">−2</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>s<ce:sup loc="post">−1</ce:sup> approximately. When hydrogen concentration on the surface attains the terminal solid solubility in β phase, a hydride layer is precipitated. The hydrogenation process becomes controlled by H diffusion in δ phase and the hydrogen absorption rate decrease to 10<ce:sup loc="post">−7</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>g<ce:hsp sp="0.25"></ce:hsp>cm<ce:sup loc="post">−2</ce:sup>s<ce:sup loc="post">−1</ce:sup>.</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>•</ce:label>
+<ce:para view="all">In the remelted material hydride branches were observed inside the sample, besides of the hydride surface layer.</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>•</ce:label>
+<ce:para view="all">For hydrogen global contents higher than 1.1 H/Ti the embrittlement of Ti by hydride precipitates is high enough to produce powder. The milling is much easier when the material is completely transformed to hydride but the charging time is 2 orders of magnitude longer.</ce:para>
+</ce:list-item>
+</ce:list>
+</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgements</ce:section-title>
+<ce:para view="all">The authors wish to thank S. Bermúdez for her valuable assistance. This work was supported by SECYT under the Grant of PICT 2000-12-8946 project.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>F.H.</ce:given-name>
+<ce:surname>Froes</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Nylon</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.E.</ce:given-name>
+<ce:surname>Eichelman</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.M.</ce:given-name>
+<ce:surname>Burte</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Met.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>2</sb:volume-nr>
+</sb:series>
+<sb:date>1980</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>47</sb:first-page>
+<sb:last-page>54</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.M.</ce:given-name>
+<ce:surname>Schwanke</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.C.</ce:given-name>
+<ce:surname>Menegotto</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.M.</ce:given-name>
+<ce:surname>Gomes</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Schaeffer</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Key Eng. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>189–191</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>264</sb:first-page>
+<sb:last-page>270</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>F.H.</ce:given-name>
+<ce:surname>Froes</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Eylon</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Powder Metallurgy Int.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>17</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>4</sb:issue-nr>
+<sb:date>1985</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>163</sb:first-page>
+<sb:last-page>167</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>V.A.R.</ce:given-name>
+<ce:surname>Henriques</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Moreira da Silva</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Key Eng. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>189–191</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>443</sb:first-page>
+<sb:last-page>448</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>F.H.</ce:given-name>
+<ce:surname>Froes</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Eliezer</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.G.</ce:given-name>
+<ce:surname>Nelson</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>A.W.</ce:given-name>
+<ce:surname>Thompson</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>N.R.</ce:given-name>
+<ce:surname>Moody</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>Hydrogen Effects in Materials</sb:maintitle>
+</sb:title>
+<sb:date>1996</sb:date>
+<sb:publisher>
+<sb:name>TMS</sb:name>
+<sb:location>Jackson Lake</sb:location>
+</sb:publisher>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>719</sb:first-page>
+<sb:last-page>733</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>F.D.</ce:given-name>
+<ce:surname>Manchester</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>San</ce:surname>
+</sb:author>
+<sb:author>
+<ce:surname>Martin</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>F.D.</ce:given-name>
+<ce:surname>Manchester</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>Phase Diagrams of Binary Hydrogen Alloys</sb:maintitle>
+</sb:title>
+<sb:date>2000</sb:date>
+<sb:publisher>
+<sb:name>ASM International</sb:name>
+<sb:location>Materials Park, OH</sb:location>
+</sb:publisher>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>238</sb:first-page>
+<sb:last-page>258</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Lewkowicz</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Diffusion Defect Data</sb:maintitle>
+</sb:title>
+<sb:volume-nr>49 and 50</sb:volume-nr>
+</sb:series>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>239</sb:first-page>
+<sb:last-page>279</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<ce:other-ref>
+<ce:textref>B. Kappesser, H. Wipf, Journal de Physique IV, Colloque C8, supplément au Journal de Physique III 6 (Décembre 1996) C8–C73.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Laser</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Vac. Sci. Technol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>20</sb:volume-nr>
+</sb:series>
+<sb:date>1982</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>37</sb:first-page>
+<sb:last-page>44</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

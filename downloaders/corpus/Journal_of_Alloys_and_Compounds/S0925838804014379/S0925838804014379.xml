@@ -1,0 +1,1695 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838804014379</prism:url><dc:identifier>doi:10.1016/j.jallcom.2004.11.016</dc:identifier><eid>1-s2.0-S0925838804014379</eid><prism:doi>10.1016/j.jallcom.2004.11.016</prism:doi><pii>S0925-8388(04)01437-9</pii><dc:title>Isothermal section at 1000°C of the Nb–Ti–Si system </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>394</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>235</prism:startingpage><prism:endingpage>239</prism:endingpage><prism:pagerange>235-239</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2005-05-17</prism:coverdate><prism:coverdisplaydate>17 May 2005</prism:coverdisplaydate><prism:copyright>Copyright © 2004 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Xu, Honghui</dc:creator><dc:creator>Du, Yong</dc:creator><dc:creator>Chen, Hailin</dc:creator><dc:creator>He, Yuehui</dc:creator><dc:creator>Pan, Zhu</dc:creator><dc:creator>Schuster, J.C.</dc:creator><dc:creator>Wang, Richu</dc:creator><dc:description>
+                  The isothermal section at 1000°C of the Nb–Ti–Si system was constructed using a high-efficiency diffusion couple approach, supplemented with 10 alloys, the compositions of which were selected on the basis of the experimental results from the diffusion couple. Both the diffusion couple specimens and the alloys were examined by means of optical microscopy, scanning electron microscopy, and electron probe microanalysis. No ternary compound was found at this isothermal section. Seven three-phase equilibria were observed [1: Ti(Nb)Si2
+                     +Nb(Ti)Si2
+                     +Si, 2: Ti(Nb)Si2
+                     +Ti(Nb)Si+Ti(Nb)5Si4, 3: Ti(Nb)Si2
+                     +Nb(Ti)Si2
+                     +Ti(Nb)5Si4, 4: Ti(Nb)5Si4
+                     +Nb(Ti)Si2
+                     +Nb(Ti)5Si3, 5: Ti(Nb)5Si4
+                     +Ti(Nb)5Si3
+                     +Nb(Ti)5Si3, 6: Ti(Nb)5Si3
+                     +Nb(Ti)5Si3
+                     +(Ti,Nb)3Si and 7: Nb(Ti)5Si3
+                     +(Ti,Nb)3Si+(Nb,Ti,Si)]. The solubilities of Nb in Ti3Si, Ti5Si4 and TiSi2 were determined to be up to 60, 41 and 17.6at% Nb, respectively. The solubilities of Ti in Nb5Si3 and NbSi2 were measured to be about 31 and 13at% Ti, respectively.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Nb–Ti–Si ternary system</dcterms:subject><dcterms:subject>Diffusion couple</dcterms:subject><dcterms:subject>Phase equilibrium</dcterms:subject><dcterms:subject>EPMA</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838804014379" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838804014379" rel="scidir"/></coredata><objects><object category="standard" height="602" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="202249" type="IMAGE-DOWNSAMPLED" width="719">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804014379-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="4816" type="IMAGE-THUMBNAIL" width="111">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804014379-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="535" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="60746" type="IMAGE-DOWNSAMPLED" width="363">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804014379-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="1457" type="IMAGE-THUMBNAIL" width="63">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804014379-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="294" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="63824" type="IMAGE-DOWNSAMPLED" width="366">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804014379-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="4019" type="IMAGE-THUMBNAIL" width="116">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804014379-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="317" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="10350" type="IMAGE-DOWNSAMPLED" width="351">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804014379-gr4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="1736" type="IMAGE-THUMBNAIL" width="103">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804014379-gr4.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>17644395989</scopus-id><scopus-eid>2-s2.0-17644395989</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/17644395989" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20041225">2004-12-25</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20041225">2004-12-25</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-04-19T04:56:56</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838804014379</xocs:eid>
+<xocs:pii-formatted>S0925-8388(04)01437-9</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838804014379</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2004.11.016</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838805X01372</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.346355-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20050517</xocs:date-search-begin>
+<xocs:year-nav>2005</xocs:year-nav>
+<xocs:indexeddate epoch="1103932800">2004-12-25T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>394</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>394</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 394, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>47</xocs:sort-order>
+<xocs:first-fp>235</xocs:first-fp>
+<xocs:last-lp>239</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>235</xocs:first-page>
+<xocs:last-page>239</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20050517</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>17 May 2005</xocs:cover-date-text>
+<xocs:cover-date-start>2005-05-17</xocs:cover-date-start>
+<xocs:cover-date-year>2005</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Metallurgy</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2004 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>ISOTHERMALSECTION1000CNBTISISYSTEM</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>XU</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>H</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>SUBRAMANIAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1994</xocs:ref-pub-year>
+<xocs:ref-first-fp>491</xocs:ref-first-fp>
+<xocs:ref-last-lp>502</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>JACKSON</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>33</xocs:ref-first-fp>
+<xocs:ref-last-lp>39</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>BEWLAY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>2043</xocs:ref-first-fp>
+<xocs:ref-last-lp>2052</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>BEWLAY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>264</xocs:ref-first-fp>
+<xocs:ref-last-lp>278</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>BEWLAY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>577</xocs:ref-first-fp>
+<xocs:ref-last-lp>586</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>LIANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>561</xocs:ref-first-fp>
+<xocs:ref-last-lp>570</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>21</xocs:ref-first-fp>
+<xocs:ref-last-lp>27</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>KODENTSOV</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>207</xocs:ref-first-fp>
+<xocs:ref-last-lp>217</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>SCHLESINGER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1993</xocs:ref-pub-year>
+<xocs:ref-first-fp>502</xocs:ref-first-fp>
+<xocs:ref-last-lp>509</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>FERNANDES</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>993</xocs:ref-first-fp>
+<xocs:ref-last-lp>999</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>MURRAY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1990</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>BINARYALLOYPHASEDIAGRAMS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>SEIFERT</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>2</xocs:ref-first-fp>
+<xocs:ref-last-lp>13</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>XUX2005X235</xocs:refkey3>
+<xocs:refkey4lp>XUX2005X235X239</xocs:refkey4lp>
+<xocs:refkey4ai>XUX2005X235XH</xocs:refkey4ai>
+<xocs:refkey5>XUX2005X235X239XH</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(04)01437-9</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838804014379</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838804014379</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2004.11.016</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-10T20:44:32.787872-04:00</xocs:timestamp>
+<xocs:cover-date-start>2005-05-17</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838804014379-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804014379/MAIN/application/pdf/c553d2b5e789a7a5a7ca8122c353dd31/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804014379/MAIN/application/pdf/c553d2b5e789a7a5a7ca8122c353dd31/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>391236</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838804014379-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804014379/PREVIEW/image/png/777d1c7f7008c68c117708b1ad228b70/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804014379/PREVIEW/image/png/777d1c7f7008c68c117708b1ad228b70/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>66964</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804014379-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804014379/gr3/DOWNSAMPLED/image/jpeg/495c3dc8e2edd614826aed263f2878b3/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804014379/gr3/DOWNSAMPLED/image/jpeg/495c3dc8e2edd614826aed263f2878b3/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>202249</xocs:filesize>
+<xocs:pixel-height>602</xocs:pixel-height>
+<xocs:pixel-width>719</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804014379-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804014379/gr3/THUMBNAIL/image/gif/992afd490e52d3d8c760e8ff34da4954/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804014379/gr3/THUMBNAIL/image/gif/992afd490e52d3d8c760e8ff34da4954/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>4816</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>111</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804014379-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804014379/gr2/DOWNSAMPLED/image/jpeg/f28781d0e0e39f2f64b6ebcd870dd044/gr2.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804014379/gr2/DOWNSAMPLED/image/jpeg/f28781d0e0e39f2f64b6ebcd870dd044/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>60746</xocs:filesize>
+<xocs:pixel-height>535</xocs:pixel-height>
+<xocs:pixel-width>363</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804014379-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804014379/gr2/THUMBNAIL/image/gif/b748f307c8bc2b7d085c7df78c311171/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804014379/gr2/THUMBNAIL/image/gif/b748f307c8bc2b7d085c7df78c311171/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1457</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>63</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804014379-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804014379/gr1/DOWNSAMPLED/image/jpeg/3eff4d69c4fcb6a578f453f3591455e8/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804014379/gr1/DOWNSAMPLED/image/jpeg/3eff4d69c4fcb6a578f453f3591455e8/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>63824</xocs:filesize>
+<xocs:pixel-height>294</xocs:pixel-height>
+<xocs:pixel-width>366</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804014379-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804014379/gr1/THUMBNAIL/image/gif/70b4b5eb0ee2bfea669ed83928e5e956/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804014379/gr1/THUMBNAIL/image/gif/70b4b5eb0ee2bfea669ed83928e5e956/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>4019</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>116</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804014379-gr4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804014379/gr4/DOWNSAMPLED/image/gif/20d85b2d7e69b90cc6fba709bef39730/gr4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804014379/gr4/DOWNSAMPLED/image/gif/20d85b2d7e69b90cc6fba709bef39730/gr4.gif</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>10350</xocs:filesize>
+<xocs:pixel-height>317</xocs:pixel-height>
+<xocs:pixel-width>351</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804014379-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804014379/gr4/THUMBNAIL/image/gif/6c7b565de2e5687843f63a35afa5bcd5/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804014379/gr4/THUMBNAIL/image/gif/6c7b565de2e5687843f63a35afa5bcd5/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1736</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>103</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>11832</aid>
+<ce:pii>S0925-8388(04)01437-9</ce:pii>
+<ce:doi>10.1016/j.jallcom.2004.11.016</ce:doi>
+<ce:copyright type="full-transfer" year="2004">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Nb–Ti–Si isothermal section at 1000<ce:hsp sp="0.25"></ce:hsp>°C by Zhao et al. <ce:cross-ref refid="bib7">[7]</ce:cross-ref>.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Microstructure of an Nb–Ti–Si couple annealed at 1000<ce:hsp sp="0.25"></ce:hsp>°C for 440<ce:hsp sp="0.25"></ce:hsp>h: (a) Backscattered electron image; (b) schematic illustration of phase distribution for (a).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Backscattered electron (BSE) images of representative al1oys annealed at 1000<ce:hsp sp="0.25"></ce:hsp>°C for 264<ce:hsp sp="0.25"></ce:hsp>h (a) alloy 2 Si43.0–Nb45.0–Ti12.0; (b) alloy 5 Si22.0–Nb58.0–Ti20.0; (c) alloy 8 Si27.0–Nb15.0–Ti58.0; (d) alloy 9 Si22.0–Nb18.0–Ti60.0.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Isothermal section at 1000<ce:hsp sp="0.25"></ce:hsp>°C of the Nb–Ti–Si system according to the present work.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:table colsep="0" frame="topbot" id="tbl1" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Tie-line and tie-triangle data on the phase equilibria of the Ni–Ti–Si system at 1000<ce:hsp sp="0.25"></ce:hsp>°C obtained with EPMA from diffusion couple (in at%)</ce:simple-para>
+</ce:caption>
+<tgroup cols="9">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<colspec colname="col5"></colspec>
+<colspec colname="col6"></colspec>
+<colspec colname="col7"></colspec>
+<colspec colname="col8"></colspec>
+<colspec colname="col9"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" nameend="col9" namest="col1" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Tie-triangle</entry>
+</row>
+<row>
+<entry align="left" nameend="col3" namest="col1" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ti(Nb)Si<inf loc="post">2</inf>
+</entry>
+<entry align="left" nameend="col6" namest="col4" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ti(Nb)Si</entry>
+<entry align="left" nameend="col9" namest="col7" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ti(Nb)<inf loc="post">5</inf>Si<inf loc="post">4</inf>
+</entry>
+</row>
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Si</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Nb</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Si</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Nb</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Si</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Nb</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">65.30</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">6.51</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">28.19</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">50.17</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">5.26</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">44.77</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">44.51</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">14.90</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">40.59</entry>
+</row>
+<row>
+<entry align="left" nameend="col3" namest="col1" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ti(Nb)Si<inf loc="post">2</inf>
+</entry>
+<entry align="left" nameend="col6" namest="col4" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Nb(Ti)Si<inf loc="post">2</inf>
+</entry>
+<entry align="left" nameend="col9" namest="col7" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Si</entry>
+</row>
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Si</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Nb</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Si</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Nb</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Si</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Nb</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">66.92</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">17.10</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">15.98</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">67.15</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">19.82</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">13.03</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">100</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup cols="9">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<colspec colname="col5"></colspec>
+<colspec colname="col6"></colspec>
+<colspec colname="col7"></colspec>
+<colspec colname="col8"></colspec>
+<colspec colname="col9"></colspec>
+<tbody>
+<row>
+<entry align="left" nameend="col9" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Tie-line</entry>
+</row>
+<row>
+<entry align="left" nameend="col3" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Ti(Nb)Si<inf loc="post">2</inf>
+</entry>
+<entry align="left" nameend="col6" namest="col4" xmlns="http://www.elsevier.com/xml/common/dtd">Ti(Nb)Si</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Si</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Nb</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Si</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Nb</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">66.52</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.24</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">33.24</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">49.94</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.68</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">49.38</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">66.42</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">3.68</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">29.90</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">50.10</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">3.16</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">46.74</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" nameend="col3" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Ti(Nb)Si</entry>
+<entry align="left" nameend="col6" namest="col4" xmlns="http://www.elsevier.com/xml/common/dtd">Ti(Nb)<inf loc="post">5</inf>Si<inf loc="post">4</inf>
+</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Si</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Nb</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Si</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Nb</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">49.97</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1.02</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">49.01</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">44.45</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1.12</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">54.43</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">49.83</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">4.54</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">45.63</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">44.52</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">5.91</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">49.57</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" nameend="col3" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Ti(Nb)Si<inf loc="post">2</inf>
+</entry>
+<entry align="left" nameend="col6" namest="col4" xmlns="http://www.elsevier.com/xml/common/dtd">Ti(Nb)<inf loc="post">5</inf>Si<inf loc="post">4</inf>
+</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Si</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Nb</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Si</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Nb</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">64.70</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">10.89</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">24.41</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">45.03</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">19.69</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">35.28</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" nameend="col3" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Ti(Nb)<inf loc="post">5</inf>Si<inf loc="post">4</inf>
+</entry>
+<entry align="left" nameend="col6" namest="col4" xmlns="http://www.elsevier.com/xml/common/dtd">Ti(Nb)<inf loc="post">5</inf>Si<inf loc="post">3</inf>
+</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Si</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Nb</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Si</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Nb</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">44.38</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1.70</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">53.92</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">38.50</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1.62</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">59.88</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">44.22</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">6.71</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">49.07</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">38.63</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">5.80</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">55.57</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">44.26</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">10.43</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">45.31</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">38.55</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">9.76</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">51.69</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" nameend="col3" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Ti(Nb)Si<inf loc="post">2</inf>
+</entry>
+<entry align="left" nameend="col6" namest="col4" xmlns="http://www.elsevier.com/xml/common/dtd">Nb(Ti)Si<inf loc="post">2</inf>
+</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Si</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Nb</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Si</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Nb</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">66.65</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">17.63</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">15.72</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">66.85</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">20.40</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">12.75</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl2" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Phase equilibrium data for the Nb–Ti–Si system at 1000<ce:hsp sp="0.25"></ce:hsp>°C obtained with EPMA from the equilibrated alloys (in at%)</ce:simple-para>
+</ce:caption>
+<tgroup cols="9">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<colspec colname="col5"></colspec>
+<colspec colname="col6"></colspec>
+<colspec colname="col7"></colspec>
+<colspec colname="col8"></colspec>
+<colspec colname="col9"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">No.</entry>
+<entry align="left" nameend="col4" namest="col2" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Nominal composition</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Phases</entry>
+<entry align="left" nameend="col8" namest="col6" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Composition</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Remark</entry>
+</row>
+<row>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Si</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Nb</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Si</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Nb</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">44.0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">28.5</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">27.5</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti(Nb)<inf loc="post">5</inf>Si<inf loc="post">4</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">44.29</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">27.32</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">28.39</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Tie-line</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Nb(Ti)<inf loc="post">5</inf>Si<inf loc="post">3</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">40.14</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">33.75</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">26.11</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">43.0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">45.0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">12.0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Nb(Ti)Si<inf loc="post">2</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">66.30</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">27.58</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">6.12</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Tie-triangle</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Nb(Ti)<inf loc="post">5</inf>Si<inf loc="post">3</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">39.75</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">49.46</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">10.79</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti(Nb)<inf loc="post">5</inf>Si<inf loc="post">4</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">44.86</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">41.13</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">14.01</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">3</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">34.0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">55.0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">11.0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Nb(Ti)<inf loc="post">5</inf>Si<inf loc="post">3</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">36.93</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">49.45</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">13.62</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Tie-line</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">(Ti,Nb)<inf loc="post">3</inf>Si</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">25.38</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">58.85</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">15.77</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">(Ti,Nb)<inf loc="post">3</inf>Si</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">23.41</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">53.66</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">22.93</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Tie-line</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">(Ti,Nb,Si)</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.31</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">67.80</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">31.89</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">4</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">28.0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">39.5</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">32.5</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Nb(Ti)<inf loc="post">5</inf>Si<inf loc="post">3</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">37.78</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">36.25</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">25.97</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Tie-line</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">(Ti,Nb)<inf loc="post">3</inf>Si</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">25.42</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">41.56</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">33.02</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">22.0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">58.0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">20.0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Nb(Ti)<inf loc="post">5</inf>Si<inf loc="post">3</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">37.67</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">47.95</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">14.38</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Tie-line</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">(Ti,Nb)<inf loc="post">3</inf>Si</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">25.56</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">56.70</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">17.74</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">(Ti,Nb)<inf loc="post">3</inf>Si</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">24.41</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">56.99</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">18.60</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Tie-line</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">(Ti,Nb,Si)</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.16</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">71.11</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">28.73</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">6</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">20.0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">43.0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">37.0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">(Ti,Nb)<inf loc="post">3</inf>Si</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">24.73</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">43.68</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">31.59</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Tie-line</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">(Ti,Nb,Si)</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.29</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">53.25</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">46.46</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">7</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">34.0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">60.0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">6.0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti(Nb)<inf loc="post">5</inf>Si<inf loc="post">3</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">37.22</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">5.53</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">57.25</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Tie-line</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">(Ti,Nb)<inf loc="post">3</inf>Si</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">25.10</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">5.05</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">69.85</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">8</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">27.0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">15.0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">58.0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti(Nb)<inf loc="post">5</inf>Si<inf loc="post">3</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">37.23</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">13.58</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">49.19</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Tie-line</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">(Ti,Nb)<inf loc="post">3</inf>Si</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">25.01</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">14.66</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">60.33</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">(Ti,Nb)<inf loc="post">3</inf>Si</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">24.94</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">14.44</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">60.62</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Tie-line</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">(Ti,Nb,Si)</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.82</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">20.24</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">78.94</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">9</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">22.0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">18.0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">60.0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti(Nb)<inf loc="post">5</inf>Si<inf loc="post">3</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">37.01</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">14.37</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">48.62</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Tie-line</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">(Ti,Nb)<inf loc="post">3</inf>Si</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">24.97</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">21.03</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">54.00</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">(Ti,Nb)<inf loc="post">3</inf>Si</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">24.81</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">15.68</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">59.51</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Tie-line</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">(Ti,Nb,Si)</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.74</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">22.56</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">76.70</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">10</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">27.0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">19.0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">54.0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti(Nb)<inf loc="post">5</inf>Si<inf loc="post">3</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">37.37</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">15.15</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">47.48</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Tie-line</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">(Ti,Nb)<inf loc="post">3</inf>Si</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">25.30</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">23.77</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">50.93</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">(Ti,Nb)<inf loc="post">3</inf>Si</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">24.83</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">17.78</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">57.39</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Tie-line</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">(Ti,Nb,Si)</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.64</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">24.46</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">74.90</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+</ce:floats>
+<ce:title>Isothermal section at 1000<ce:hsp sp="0.25"></ce:hsp>°C of the Nb–Ti–Si system</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>Honghui</ce:given-name>
+<ce:surname>Xu</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Yong</ce:given-name>
+<ce:surname>Du</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="cor1">*</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Hailin</ce:given-name>
+<ce:surname>Chen</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Yuehui</ce:given-name>
+<ce:surname>He</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Zhu</ce:given-name>
+<ce:surname>Pan</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>J.C.</ce:given-name>
+<ce:surname>Schuster</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Richu</ce:given-name>
+<ce:surname>Wang</ce:surname>
+<ce:cross-ref refid="aff3">
+<ce:sup loc="post">c</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation id="aff1">
+<ce:label>a</ce:label>
+<ce:textfn>State Key Laboratory of Powder Metallurgy, Central South University, Changsha, Hunan 410083, PR China</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff2">
+<ce:label>b</ce:label>
+<ce:textfn>Department of Physical Chemistry, University of Vienna, A-1090 Wien, Austria</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff3">
+<ce:label>c</ce:label>
+<ce:textfn>Department of Materials Science and Engineering, Central South University, Changsha, Hunan 410083, PR China</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>*</ce:label>
+<ce:text>Corresponding author. Tel.: +86 731 8836 213; fax: +86 731 8710 855.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="30" month="10" year="2004"></ce:date-received>
+<ce:date-revised day="5" month="11" year="2004"></ce:date-revised>
+<ce:date-accepted day="9" month="11" year="2004"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">The isothermal section at 1000<ce:hsp sp="0.25"></ce:hsp>°C of the Nb–Ti–Si system was constructed using a high-efficiency diffusion couple approach, supplemented with 10 alloys, the compositions of which were selected on the basis of the experimental results from the diffusion couple. Both the diffusion couple specimens and the alloys were examined by means of optical microscopy, scanning electron microscopy, and electron probe microanalysis. No ternary compound was found at this isothermal section. Seven three-phase equilibria were observed [1: Ti(Nb)Si<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Nb(Ti)Si<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Si, 2: Ti(Nb)Si<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Ti(Nb)Si<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Ti(Nb)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">4</ce:inf>, 3: Ti(Nb)Si<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Nb(Ti)Si<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Ti(Nb)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">4</ce:inf>, 4: Ti(Nb)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">4</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Nb(Ti)Si<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Nb(Ti)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>, 5: Ti(Nb)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">4</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Ti(Nb)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Nb(Ti)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>, 6: Ti(Nb)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Nb(Ti)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>(Ti,Nb)<ce:inf loc="post">3</ce:inf>Si and 7: Nb(Ti)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>(Ti,Nb)<ce:inf loc="post">3</ce:inf>Si<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>(Nb,Ti,Si)]. The solubilities of Nb in Ti<ce:inf loc="post">3</ce:inf>Si, Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">4</ce:inf> and TiSi<ce:inf loc="post">2</ce:inf> were determined to be up to 60, 41 and 17.6<ce:hsp sp="0.25"></ce:hsp>at% Nb, respectively. The solubilities of Ti in Nb<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> and NbSi<ce:inf loc="post">2</ce:inf> were measured to be about 31 and 13<ce:hsp sp="0.25"></ce:hsp>at% Ti, respectively.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Nb–Ti–Si ternary system</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Diffusion couple</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Phase equilibrium</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>EPMA</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">The Nb–Nb<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> composites exhibit excellent high-temperature strength and creep resistance, but have poor high-temperature oxidation resistance and poor room temperature fracture toughness <ce:cross-refs refid="bib1 bib2 bib3">[1–3]</ce:cross-refs>. Alloying with Ti and Al can significantly improve the high-temperature oxidation resistance and room temperature fracture toughness of the Nb–Nb<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> composites. In order to efficiently develop this class of composites with superior properties, knowledge of the phase equilibria in the Nb–Ti–Si–Al quaternary system is necessary. Because of the complexity of the quaternary system, we must have a good understanding of the phase equilibria of the constituent ternaries prior to pursuing the resolution of the quaternary system. The CALPHAD (CALculation of PHAse Diagrams) method could be employed to calculate the phase equilibria in ternary systems, but the prediction must be justified via experiments.</ce:para>
+<ce:para view="all">Among the constituent ternaries of the Nb–Ti–Si–Al quaternary system, the Nb–Ti–Si system is one of the most important ternary systems worthy of detailed investigation. Bewlay et al. <ce:cross-refs refid="bib4 bib5">[4,5]</ce:cross-refs> investigated the ternary Nb–Ti–Si phase equilibria close to the Nb–Ti side using scanning electron microscopy (SEM), X-ray diffraction (XRD), and electron probe microanalysis (EPMA). The liquidus surface was defined by means of microstructural and micromechanical evidence <ce:cross-ref refid="bib4">[4]</ce:cross-ref>. The isothermal sections of the metal-rich side at 1500 and 1340<ce:hsp sp="0.25"></ce:hsp>°C were established through microstructural and microchemical observations <ce:cross-ref refid="bib5">[5]</ce:cross-ref>. Liang et al. <ce:cross-ref refid="bib6">[6]</ce:cross-ref> performed a thermodynamic modeling of the Nb–Ti–Si ternary system mainly by extrapolation from the three boundary systems. Recently, Zhao et al. <ce:cross-ref refid="bib7">[7]</ce:cross-ref> have constructed the isothermal sections of the Nb–Ti–Si system at 1000, 1150 and 1200<ce:hsp sp="0.25"></ce:hsp>°C in terms of the results obtained from diffusion multiples using SEM, EPMA, and electron backscatter diffraction (EBSD). The isothermal section at 1000<ce:hsp sp="0.25"></ce:hsp>°C measured by Zhao et al. <ce:cross-ref refid="bib7">[7]</ce:cross-ref> is reproduced in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor>. As can be seen in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>, some of the phase equilibrium relationships are presented with uncertainties. Although the diffusion couple technique is a powerful and efficient tool in phase diagram determination, a combination of the diffusion couple method with an investigation of selected equilibrated alloys is desirable in order to increase the reliability and precision of the information obtained about a ternary isotherm <ce:cross-ref refid="bib8">[8]</ce:cross-ref>. The present work aims at the experimental determination of the Nb–Ti–Si isothermal section at 1000<ce:hsp sp="0.25"></ce:hsp>°C by means of a diffusion couple approach with the aid of decisive alloys.</ce:para>
+<ce:para view="all">The binary Nb-Si phase diagram was assessed by Schlesinger et al. <ce:cross-ref refid="bib9">[9]</ce:cross-ref>, and thermodynamically evaluated by Fernandes et al. <ce:cross-ref refid="bib10">[10]</ce:cross-ref>. The Ti–Si phase diagram was reported in <ce:cross-refs refid="bib11 bib12">[11,12]</ce:cross-refs>. The Nb–Ti phase diagram <ce:cross-ref refid="bib11">[11]</ce:cross-ref> is a simple system without any intermetallic compound. At 1000<ce:hsp sp="0.25"></ce:hsp>°C, there are two intermetallic compounds in the Nb–Si binary system, namely Nb<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>, and NbSi<ce:inf loc="post">2</ce:inf>; five intermetallic compounds in the Ti–Si binary system, namely Ti<ce:inf loc="post">3</ce:inf>Si, TiSi, Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>, Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">4</ce:inf> and TiSi<ce:inf loc="post">2</ce:inf>.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental</ce:section-title>
+<ce:para view="all">5<ce:hsp sp="0.25"></ce:hsp>mm<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>5<ce:hsp sp="0.25"></ce:hsp>mm<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>12<ce:hsp sp="0.25"></ce:hsp>mm bars of Nb (99.8<ce:hsp sp="0.25"></ce:hsp>wt.% purity, Zhuzhou Cemented carbide Works, China) and Ti (99.9<ce:hsp sp="0.25"></ce:hsp>wt.% purity, Baoji Titanium Industry Co. Ltd., China), and 5<ce:hsp sp="0.25"></ce:hsp>mm<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>10<ce:hsp sp="0.25"></ce:hsp>mm<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>12<ce:hsp sp="0.25"></ce:hsp>mm plates of Si (99.99<ce:hsp sp="0.25"></ce:hsp>wt.% purity, Changsha Semiconductor Works, China) were used as the starting materials. The binary Nb–Ti couples were first prepared by diffusion welding the elemental bars in a silica capsule back-filled with high purity argon at 1100<ce:hsp sp="0.25"></ce:hsp>°C for 72<ce:hsp sp="0.25"></ce:hsp>h. One of the Nb–Ti couples and a Si block were ground, polished, cleaned, and then swathed together with Mo wires to make a Nb–Ti–Si diffusion couple, which was wrapped in Mo foil. Three well-prepared Nb–Ti–Si diffusion couples were sealed in a silica capsule back-filled with high purity argon, and annealed in an L4514-type diffusion furnace (Qingdao Instrument and Equipment Co. Ltd., China) at 1000<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>1<ce:hsp sp="0.25"></ce:hsp>°C for 440<ce:hsp sp="0.25"></ce:hsp>h. After completion of annealing, the samples were quenched in water.</ce:para>
+<ce:para view="all">After standard metallographic preparation, the Nb–Ti–Si couples were examined first using optical microscopy and then using SEM. Nearly all the phase boundaries could be observed in the backscattered electron image (BSE). The phase equilibria in the Nb–Ti–Si couple were determined by EPMA (JXA-8800R, JEOL, Japan). Subsequently, the compositions of 10 key alloys, as listed in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+<ce:float-anchor refid="tbl1"></ce:float-anchor>, were selected on the basis of the experimental results obtained with EPMA from the Nb–Ti–Si diffusion couple. The alloys were prepared by arc melting pure elements in an arc furnace under argon atmosphere using a non-consumable tungsten electrode. The buttons were remelted 6 times to improve their homogeneity. The samples were annealed in an L4514-type diffusion furnace at 1000<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>1<ce:hsp sp="0.25"></ce:hsp>°C for 264<ce:hsp sp="0.25"></ce:hsp>h. After annealing, the samples were quenched in water. The metallographic samples were first examined using optical microscopy, and then analyzed using EPMA.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:para view="all">The microstructure of an Nb–Ti–Si couple annealed at 1000<ce:hsp sp="0.25"></ce:hsp>°C for 440<ce:hsp sp="0.25"></ce:hsp>h is shown in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor>. The BSE images of several representative al1oys are presented in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor>. As can be seen in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>, the scales of the Ti(Nb)Si<ce:inf loc="post">2</ce:inf>, Ti(Nb)Si, Ti(Nb)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">4</ce:inf> and NbSi<ce:inf loc="post">2</ce:inf> phases on the Nb–Ti–Si couple were large enough to perform accurate EPMA measurement of the relevant phase equilibria. But, the scales of the Ti(Nb)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>, (Ti,Nb) <ce:inf loc="post">3</ce:inf>Si and Nb(Ti)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> phases were too small to get reliable data of the phase equilibria. The compositions of the 10 selected alloys were located in these phase fields.</ce:para>
+<ce:para view="all">In the following sections, TiSi<ce:inf loc="post">2</ce:inf> with Nb in solid solution is referred to as Ti(Nb)Si<ce:inf loc="post">2</ce:inf>, NbSi<ce:inf loc="post">2</ce:inf> with Ti in solid solution is referred to as Nb(Ti)Si<ce:inf loc="post">2</ce:inf>, and similarly the denotation of Ti(Nb)Si, Ti(Nb)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">4</ce:inf>, Ti(Nb)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>, Nb(Ti)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> has the same meaning. Ti<ce:inf loc="post">3</ce:inf>Si with Nb in solid solution is referred to as (Ti,Nb)<ce:inf loc="post">3</ce:inf>Si because the Ti<ce:inf loc="post">3</ce:inf>Si and Nb<ce:inf loc="post">3</ce:inf>Si are isomorphous. Similarly Ti with Nb and Si in solid solution is referred to as (Ti,Nb,Si).</ce:para>
+<ce:para view="all">The tie-line data and tie-triangle data obtained with EPMA from the Nb–Ti–Si diffusion couple are listed in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>. The data obtained from the equilibrated alloys are listed in <ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>
+<ce:float-anchor refid="tbl2"></ce:float-anchor>. Using these experimental data, the isothermal section at 1000<ce:hsp sp="0.25"></ce:hsp>°C was constructed in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor>.</ce:para>
+<ce:para view="all">The data on the boundary binary systems were in agreement with literature <ce:cross-refs refid="bib9 bib11">[9,11]</ce:cross-refs>. The following 7 three-phase equilibria were observed: Ti(Nb)Si<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Nb(Ti)Si<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Si, Ti(Nb)Si<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Ti(Nb)Si<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Ti(Nb)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">4</ce:inf>, Ti(Nb)Si<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Nb(Ti)Si<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Ti(Nb)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">4</ce:inf>, Ti(Nb)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">4</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Nb(Ti)Si<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Nb(Ti)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>, Ti(Nb)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">4</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Ti(Nb)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Nb(Ti)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>, Ti(Nb)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Nb(Ti)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>(Ti,Nb)<ce:inf loc="post">3</ce:inf>Si and Nb(Ti)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>(Ti,Nb)<ce:inf loc="post">3</ce:inf>Si<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>(Nb,Ti,Si), where the tie-triangle compositions corresponding to the three phase equilibria Ti(Nb)Si<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Nb(Ti)Si<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Si and Ti(Nb)Si<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Ti(Nb)Si<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Ti(Nb)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">4</ce:inf> were obtained from the Nb–Ti–Si couple and accurately determined because of the large scale of the relevant phases. The tie-triangle compositions for the Ti(Nb)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">4</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Nb(Ti)Si<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Nb(Ti)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> were obtained from alloy 2 (Si43.0-Nb45.0-Ti12.0) and well determined. The solubilities of Nb in Ti<ce:inf loc="post">3</ce:inf>Si, Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">4</ce:inf> and Ti(Nb)Si<ce:inf loc="post">2</ce:inf> were determined to be up to 60, 41 and 17.6<ce:hsp sp="0.25"></ce:hsp>at% Nb, respectively; the solubilities of Ti in Nb<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> and NbSi<ce:inf loc="post">2</ce:inf> about 31 and 13<ce:hsp sp="0.25"></ce:hsp>at% Ti, respectively. The solubilities of the third elements in NbSi<ce:inf loc="post">2</ce:inf>, TiSi<ce:inf loc="post">2</ce:inf>, TiSi, and Ti<ce:inf loc="post">3</ce:inf>Si are remarkably higher than the data published by Zhao et al. <ce:cross-ref refid="bib7">[7]</ce:cross-ref>. Moreover, the phase equilibrium relationships of Ti(Nb)Si<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Ti(Nb)Si<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Ti(Nb)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">4</ce:inf> and Ti(Nb)Si<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Ti(Nb)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">4</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Nb(Ti)Si<ce:inf loc="post">2</ce:inf> are different from the observed by Zhao et al. <ce:cross-ref refid="bib7">[7]</ce:cross-ref>, i.e., Ti(Nb)Si<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Ti(Nb)Si<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Nb(Ti)Si<ce:inf loc="post">2</ce:inf> and Nb(Ti)Si<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Ti(Nb)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">4</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Ti(Nb)Si (the micrograph of the Nb–Ti–Si diffusion couple had not been presented by Zhao et al. <ce:cross-ref refid="bib7">[7]</ce:cross-ref>, which included two of the relevant phases, Ti(Nb)Si<ce:inf loc="post">2</ce:inf> and Ti(Nb)Si as the evidence).</ce:para>
+<ce:para view="all">It should be mentioned that the annealing duration of 264<ce:hsp sp="0.25"></ce:hsp>h at 1000<ce:hsp sp="0.25"></ce:hsp>°C could not be enough to reach equilibria because of the low diffusivity of Nb at low temperatures. For example, the (Ti,Nb,Si) phase was remaining in the alloy 8 (Si27.0–Nb15.0–Ti58.0) after annealing as seen as in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>(c), and also small amount of Ti(Nb)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> was remaining in the alloy 9 (Si 22.0–Nb18.0–Ti60.0) as seen as in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>(d).</ce:para>
+<ce:para view="all">Bewlay et al. <ce:cross-ref refid="bib5">[5]</ce:cross-ref> suggested that Ti(Nb)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Nb(Ti)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>(Ti,Nb)<ce:inf loc="post">3</ce:inf>Si was in three-phase equilibrium in the temperature range of 1500–1150<ce:hsp sp="0.25"></ce:hsp>°C. Zhao et al. <ce:cross-ref refid="bib7">[7]</ce:cross-ref> revealed the existence of the same three-phase equilibrium relationship at 1000<ce:hsp sp="0.25"></ce:hsp>°C, but denoted it with dashed line without explicit experimental data. In the present work, convincing evidence for this phase equilibrium relationship has not been acquired. In the constructed isothermal section at 1000<ce:hsp sp="0.25"></ce:hsp>°C, the same three-phase equilibrium relationship was provisionally accepted. We think more work is required to confirm the phase equilibrium relationships for Ti(Nb)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">4</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Ti(Nb)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Nb(Ti)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> and Ti(Nb)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Nb(Ti)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>(Ti,Nb)<ce:inf loc="post">3</ce:inf>Si, and to accurately determine the tie-triangle data for the two three-phase equilibria and for two additional three-phase equilibria of Nb(Ti)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>(Ti,Nb)<ce:inf loc="post">3</ce:inf>Si<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>(Nb,Ti,Si) and Ti(Nb)Si<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Ti(Nb)Si<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Ti(Nb)<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">4</ce:inf>.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">The isothermal section at 1000<ce:hsp sp="0.25"></ce:hsp>°C of the Nb–Ti–Si system was constructed using a high-efficiency diffusion couple approach with the aid of 10 key alloys and better determined than before.</ce:para>
+<ce:para view="all">No ternary compound was found and seven three-phase equilibria were observed at the isothermal section. At 1000<ce:hsp sp="0.25"></ce:hsp>°C, the solubilities of Nb in Ti<ce:inf loc="post">3</ce:inf>Si, Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">4</ce:inf> and TiSi<ce:inf loc="post">2</ce:inf> were determined to be up to 60, 41 and 17.6<ce:hsp sp="0.25"></ce:hsp>at% Nb, respectively. The solubilities of Ti in Nb<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> and NbSi<ce:inf loc="post">2</ce:inf> were measured to be about 31 and 13<ce:hsp sp="0.25"></ce:hsp>at% Ti, respectively.</ce:para>
+<ce:para view="all">It has been demonstrated that the diffusion couple approach is powerful in constructing ternary phase diagrams, and especially useful in conjunction with the equilibrated alloys method.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgements</ce:section-title>
+<ce:para view="all">The financial support from National Advanced Materials Committee of PR China (grant no. 2003AA302520) is greatly acknowledged. One of the authors (Yong Du) acknowledges Furong Chair Professorship Program released by Hunan Province of PR China for financial support. Thanks are also due to researcher Shitong Li for his help in electron probe microanalysis.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>P.R.</ce:given-name>
+<ce:surname>Subramanian</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.G.</ce:given-name>
+<ce:surname>Mendiratta</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.M.</ce:given-name>
+<ce:surname>Dimiduk</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Res. Soc. Symp. Proc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>322</sb:volume-nr>
+</sb:series>
+<sb:date>1994</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>491</sb:first-page>
+<sb:last-page>502</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.R.</ce:given-name>
+<ce:surname>Jackson</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.P.</ce:given-name>
+<ce:surname>Bewlay</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.G.</ce:given-name>
+<ce:surname>Rowe</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.W.</ce:given-name>
+<ce:surname>Skelly</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.A.</ce:given-name>
+<ce:surname>Lipsitt</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Met.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>48</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>1</sb:issue-nr>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>33</sb:first-page>
+<sb:last-page>39</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>B.P.</ce:given-name>
+<ce:surname>Bewlay</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.R.</ce:given-name>
+<ce:surname>Jackson</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.C.</ce:given-name>
+<ce:surname>Zhao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.R.</ce:given-name>
+<ce:surname>Subramanian</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metall. Mater. Trans.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>34A</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2043</sb:first-page>
+<sb:last-page>2052</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>B.P.</ce:given-name>
+<ce:surname>Bewlay</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.R.</ce:given-name>
+<ce:surname>Jackson</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.A.</ce:given-name>
+<ce:surname>Lipsitt</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Phase Equilib.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>18</sb:volume-nr>
+</sb:series>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>264</sb:first-page>
+<sb:last-page>278</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>B.P.</ce:given-name>
+<ce:surname>Bewlay</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.R.</ce:given-name>
+<ce:surname>Jackson</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.R.</ce:given-name>
+<ce:surname>Bishop</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Phase Equilib.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>19</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>577</sb:first-page>
+<sb:last-page>586</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Liang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.A.</ce:given-name>
+<ce:surname>Chang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Intermetallics</sb:maintitle>
+</sb:title>
+<sb:volume-nr>7</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>561</sb:first-page>
+<sb:last-page>570</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.-C.</ce:given-name>
+<ce:surname>Zhao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.R.</ce:given-name>
+<ce:surname>Jackson</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.A.</ce:given-name>
+<ce:surname>Peluso</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>372A</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>21</sb:first-page>
+<sb:last-page>27</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.A.</ce:given-name>
+<ce:surname>Kodentsov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.F.</ce:given-name>
+<ce:surname>Bastin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.J.J.</ce:given-name>
+<ce:surname>van Loo</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloy Comp.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>320</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>207</sb:first-page>
+<sb:last-page>217</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.E.</ce:given-name>
+<ce:surname>Schlesinger</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Okamoto</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.B.</ce:given-name>
+<ce:surname>Gokhale</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Abbaschian</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Phase Equilib.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>14</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>4</sb:issue-nr>
+<sb:date>1993</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>502</sb:first-page>
+<sb:last-page>509</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>P.B.</ce:given-name>
+<ce:surname>Fernandes</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.C.</ce:given-name>
+<ce:surname>Coelho</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Ferreira</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.A.</ce:given-name>
+<ce:surname>Nunes</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Sundman</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Intermetallics</sb:maintitle>
+</sb:title>
+<sb:volume-nr>10</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>10</sb:issue-nr>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>993</sb:first-page>
+<sb:last-page>999</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.L.</ce:given-name>
+<ce:surname>Murray</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>T.B.</ce:given-name>
+<ce:surname>Massalski</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>Binary Alloy Phase Diagrams</sb:maintitle>
+</sb:title>
+<sb:edition>2nd ed.</sb:edition>
+<sb:date>1990</sb:date>
+<sb:publisher>
+<sb:name>ASM International</sb:name>
+<sb:location>Materials Park, OH</sb:location>
+</sb:publisher>
+</sb:edited-book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.J.</ce:given-name>
+<ce:surname>Seifert</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.L.</ce:given-name>
+<ce:surname>Lukas</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Petzow</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Z. Metallkd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>87</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>1</sb:issue-nr>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2</sb:first-page>
+<sb:last-page>13</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

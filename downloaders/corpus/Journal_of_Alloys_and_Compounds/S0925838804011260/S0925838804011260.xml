@@ -1,0 +1,1616 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838804011260</prism:url><dc:identifier>doi:10.1016/j.jallcom.2004.08.060</dc:identifier><eid>1-s2.0-S0925838804011260</eid><prism:doi>10.1016/j.jallcom.2004.08.060</prism:doi><pii>S0925-8388(04)01126-0</pii><dc:title>Effect of Ti–Al substitution on the electrochemical properties of amorphous MgNi-based secondary hydride electrodes </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>392</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>300</prism:startingpage><prism:endingpage>305</prism:endingpage><prism:pagerange>300-305</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2005-04-19</prism:coverdate><prism:coverdisplaydate>19 April 2005</prism:coverdisplaydate><prism:copyright>Copyright © 2004 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Liu, Jing-Wang</dc:creator><dc:creator>Yuan, Hua-Tang</dc:creator><dc:creator>Cao, Jian-Sheng</dc:creator><dc:creator>Wang, Yi-Jing</dc:creator><dc:description>
+                  A new amorphous Mg0.7Ti0.225Al0.075Ni alloy was prepared by means of mechanical alloying (MA), its discharge capacity reached 218.32mAhg−1 after 50 cycles, which retains 63.57% of the initial capacity of 343.44mAhg−1. On the surface of the alloy during cycling in the electrolyte of 5M KOH, the X-ray photoelectron spectroscopy (XPS) shows that the majority of magnesium and aluminum in the alloy exist in metallic state; Ti exists in the +3 oxidation state. Electrochemical impedance spectroscopy (EIS) shows that the aluminum lowered the charge transfer resistance. The structure of the alloy was characterized by X-ray diffraction (XRD) and scanning electron microscopy (SEM). And the improvement of cycle life of the electrode can be related to the formation of MgTi2O4. A study on the anti-corrosion properties in alkaline solution of the alloy electrode has been done, and it is shown that Ti and Al substitution of Mg improves the anti-corrosion properties significantly. It is found that Ti and Al substitution of Mg could improve the electrochemical behavior of MgNi-based electrodes.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Nickel-metal hydride battery</dcterms:subject><dcterms:subject>Hydrogen storage alloy</dcterms:subject><dcterms:subject>Amorphous electrochemical properties</dcterms:subject><dcterms:subject>Substitution</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838804011260" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838804011260" rel="scidir"/></coredata><objects><object category="standard" height="405" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="96630" type="IMAGE-DOWNSAMPLED" width="540">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804011260-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="4870" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804011260-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="220" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr6" size="16231" type="IMAGE-DOWNSAMPLED" width="287">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804011260-gr6.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="2620" type="IMAGE-THUMBNAIL" width="122">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804011260-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="222" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr5" size="18792" type="IMAGE-DOWNSAMPLED" width="276">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804011260-gr5.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="2557" type="IMAGE-THUMBNAIL" width="116">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804011260-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="478" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="51845" type="IMAGE-DOWNSAMPLED" width="336">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804011260-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="92" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="2310" type="IMAGE-THUMBNAIL" width="65">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804011260-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="218" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="22073" type="IMAGE-DOWNSAMPLED" width="287">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804011260-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="3035" type="IMAGE-THUMBNAIL" width="123">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804011260-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="490" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="71513" type="IMAGE-DOWNSAMPLED" width="643">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804011260-gr4.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="2748" type="IMAGE-THUMBNAIL" width="122">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804011260-gr4.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>15744405531</scopus-id><scopus-eid>2-s2.0-15744405531</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/15744405531" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20041028">2004-10-28</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20041028">2004-10-28</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-04-19T04:56:56</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838804011260</xocs:eid>
+<xocs:pii-formatted>S0925-8388(04)01126-0</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838804011260</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2004.08.060</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838805X01359</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.228461-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20050419</xocs:date-search-begin>
+<xocs:year-nav>2005</xocs:year-nav>
+<xocs:indexeddate epoch="1098921600">2004-10-28T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>392</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>392</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 392, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>51</xocs:sort-order>
+<xocs:first-fp>300</xocs:first-fp>
+<xocs:last-lp>305</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>300</xocs:first-page>
+<xocs:last-page>305</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20050419</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>19 April 2005</xocs:cover-date-text>
+<xocs:cover-date-start>2005-04-19</xocs:cover-date-start>
+<xocs:cover-date-year>2005</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Materials Science</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2004 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>EFFECTTIALSUBSTITUTIONELECTROCHEMICALPROPERTIESAMORPHOUSMGNIBASEDSECONDARYHYDRIDEELECTRODES</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>LIU</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental details</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Phase structure</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Discharge capacity and cycle life</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.3</xocs:item-toc-label>
+<xocs:item-toc-section-title>The effect on the properties of passivation film</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Corrosion of the alloys</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.5</xocs:item-toc-label>
+<xocs:item-toc-section-title>The effect on polarization resistance and the surface exchange current</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>Reference</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>SCHLAPBACH</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>353</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>BOLCICH</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1994</xocs:ref-pub-year>
+<xocs:ref-first-fp>605</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>GOO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>286</xocs:ref-first-fp>
+<xocs:ref-last-lp>293</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>ABE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>792</xocs:ref-first-fp>
+<xocs:ref-last-lp>795</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>HAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>219</xocs:ref-first-fp>
+<xocs:ref-last-lp>226</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>801</xocs:ref-first-fp>
+<xocs:ref-last-lp>806</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>258</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>YUAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>322</xocs:ref-first-fp>
+<xocs:ref-last-lp>326</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>RUGGERI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>547</xocs:ref-first-fp>
+<xocs:ref-last-lp>556</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>FINNIS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1990</xocs:ref-pub-year>
+<xocs:ref-first-fp>331</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>IWAKURA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>636</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>RUGGERI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>170</xocs:ref-first-fp>
+<xocs:ref-last-lp>178</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13">
+<xocs:ref-normalized-surname>HAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>L8</xocs:ref-first-fp>
+<xocs:ref-last-lp>L11</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>JIANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>117</xocs:ref-first-fp>
+<xocs:ref-last-lp>124</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15">
+<xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>243</xocs:ref-first-fp>
+<xocs:ref-last-lp>247</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib16">
+<xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>784</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib17">
+<xocs:ref-normalized-surname>SCHMIDT</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>056402-1-4</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib18">
+<xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>A543</xocs:ref-first-fp>
+<xocs:ref-last-lp>A545</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib19"></xocs:ref-info>
+<xocs:ref-info refid="bib20">
+<xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>244</xocs:ref-first-fp>
+<xocs:ref-last-lp>249</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib21">
+<xocs:ref-normalized-surname>BARNARTT</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1970</xocs:ref-pub-year>
+<xocs:ref-first-fp>1313</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>LIUX2005X300</xocs:refkey3>
+<xocs:refkey4lp>LIUX2005X300X305</xocs:refkey4lp>
+<xocs:refkey4ai>LIUX2005X300XJ</xocs:refkey4ai>
+<xocs:refkey5>LIUX2005X300X305XJ</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(04)01126-0</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838804011260</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838804011260</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2004.08.060</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-10T20:44:05.442528-04:00</xocs:timestamp>
+<xocs:cover-date-start>2005-04-19</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838804011260-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804011260/MAIN/application/pdf/249606175dbcc8e61deb2fe1316a993a/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804011260/MAIN/application/pdf/249606175dbcc8e61deb2fe1316a993a/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>387372</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838804011260-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804011260/PREVIEW/image/png/f442cbb463f1ac88b31befc7392cced5/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804011260/PREVIEW/image/png/f442cbb463f1ac88b31befc7392cced5/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>67362</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804011260-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804011260/gr2/DOWNSAMPLED/image/jpeg/2f9a945fc49a05c5ca348d95f0413a84/gr2.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804011260/gr2/DOWNSAMPLED/image/jpeg/2f9a945fc49a05c5ca348d95f0413a84/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>96630</xocs:filesize>
+<xocs:pixel-height>405</xocs:pixel-height>
+<xocs:pixel-width>540</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804011260-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804011260/gr2/THUMBNAIL/image/gif/7cd4713aed78781c3221976e1d44a3c7/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804011260/gr2/THUMBNAIL/image/gif/7cd4713aed78781c3221976e1d44a3c7/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>4870</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804011260-gr6.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804011260/gr6/DOWNSAMPLED/image/jpeg/3272de79c1d80aea1148963201dd9987/gr6.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804011260/gr6/DOWNSAMPLED/image/jpeg/3272de79c1d80aea1148963201dd9987/gr6.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>16231</xocs:filesize>
+<xocs:pixel-height>220</xocs:pixel-height>
+<xocs:pixel-width>287</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804011260-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804011260/gr6/THUMBNAIL/image/gif/cf94f1cfb25e498785b49a90ea1f5c30/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804011260/gr6/THUMBNAIL/image/gif/cf94f1cfb25e498785b49a90ea1f5c30/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2620</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>122</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804011260-gr5.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804011260/gr5/DOWNSAMPLED/image/jpeg/e4686b813443c9d6eb2c9da54e53e33e/gr5.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804011260/gr5/DOWNSAMPLED/image/jpeg/e4686b813443c9d6eb2c9da54e53e33e/gr5.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>18792</xocs:filesize>
+<xocs:pixel-height>222</xocs:pixel-height>
+<xocs:pixel-width>276</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804011260-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804011260/gr5/THUMBNAIL/image/gif/76286261e6036badf44fde5fd0387c95/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804011260/gr5/THUMBNAIL/image/gif/76286261e6036badf44fde5fd0387c95/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2557</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>116</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804011260-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804011260/gr1/DOWNSAMPLED/image/jpeg/aaafe52288f7bcbcab6a5c54b77f52b3/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804011260/gr1/DOWNSAMPLED/image/jpeg/aaafe52288f7bcbcab6a5c54b77f52b3/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>51845</xocs:filesize>
+<xocs:pixel-height>478</xocs:pixel-height>
+<xocs:pixel-width>336</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804011260-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804011260/gr1/THUMBNAIL/image/gif/faea79b39f6cf24ba6396235849c2689/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804011260/gr1/THUMBNAIL/image/gif/faea79b39f6cf24ba6396235849c2689/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2310</xocs:filesize>
+<xocs:pixel-height>92</xocs:pixel-height>
+<xocs:pixel-width>65</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804011260-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804011260/gr3/DOWNSAMPLED/image/jpeg/00679b84d4aed3326f7839c2f07c70fb/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804011260/gr3/DOWNSAMPLED/image/jpeg/00679b84d4aed3326f7839c2f07c70fb/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>22073</xocs:filesize>
+<xocs:pixel-height>218</xocs:pixel-height>
+<xocs:pixel-width>287</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804011260-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804011260/gr3/THUMBNAIL/image/gif/24dd5be67ae48e68ac2663874fa73550/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804011260/gr3/THUMBNAIL/image/gif/24dd5be67ae48e68ac2663874fa73550/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3035</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>123</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804011260-gr4.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804011260/gr4/DOWNSAMPLED/image/jpeg/a10b02d49c8e8d659b90c228a0468f0d/gr4.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804011260/gr4/DOWNSAMPLED/image/jpeg/a10b02d49c8e8d659b90c228a0468f0d/gr4.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>71513</xocs:filesize>
+<xocs:pixel-height>490</xocs:pixel-height>
+<xocs:pixel-width>643</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804011260-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804011260/gr4/THUMBNAIL/image/gif/e619de5a8324c03dc396b22ad2b918f9/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804011260/gr4/THUMBNAIL/image/gif/e619de5a8324c03dc396b22ad2b918f9/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2748</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>122</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>11625</aid>
+<ce:pii>S0925-8388(04)01126-0</ce:pii>
+<ce:doi>10.1016/j.jallcom.2004.08.060</ce:doi>
+<ce:copyright type="full-transfer" year="2004">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRD patterns of alloys and electrode: (A) as milled alloys of MgNi, Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.3</ce:inf>Ni and Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.225</ce:inf>Al<ce:inf loc="post">0.075</ce:inf>Ni; (B) after 50 cycles of Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.225</ce:inf>Al<ce:inf loc="post">0.075</ce:inf>Ni electrode.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">SEM micrographs of Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.225</ce:inf>Al<ce:inf loc="post">0.075</ce:inf>Ni alloy and electrode: (A) secondary electron image of the as milled alloy; (B) backscattered electron image of the as milled alloy; (C) secondary electron image of the electrode after 50 cycles; (D) backscattered electron image of the electrode after 50 cycles.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">The cycling discharge-ability of the MgNi, Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.3</ce:inf>Ni and Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.225</ce:inf>Al<ce:inf loc="post">0.075</ce:inf>Ni electrode alloys at 25<ce:hsp sp="0.25"></ce:hsp>°C.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XPS of Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.225</ce:inf>Al<ce:inf loc="post">0.075</ce:inf>Ni alloy as ball milled and after 50 cycles: (A) Mg 2p; (B) Ti 2p; (C) Al 2p; (D) O 1s.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Anodic polarization curves of MgNi, Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.3</ce:inf>Ni and Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.225</ce:inf>Al<ce:inf loc="post">0.075</ce:inf>Ni alloys.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Nyquist plot for MgNi, Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.3</ce:inf>Ni and Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.225</ce:inf>Al<ce:inf loc="post">0.075</ce:inf>Ni electrode.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+<ce:table colsep="0" frame="topbot" id="tbl1" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Cycle stability of the three alloys</ce:simple-para>
+</ce:caption>
+<tgroup cols="4">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Alloy</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">MgNi</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Mg<inf loc="post">0.7</inf>Ti<inf loc="post">0.3</inf>Ni</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Mg<inf loc="post">0.7</inf>Ti<inf loc="post">0.225</inf>Al<inf loc="post">0.075</inf>Ni</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">C1st (mAh<hsp sp="0.25"></hsp>g<sup loc="post">−1</sup>)</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">495.62</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">401.2</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">343.44</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">C25th (mAh<hsp sp="0.25"></hsp>g<sup loc="post">−1</sup>)</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">107.86</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">205</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">254.8</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">C50th (mAh<hsp sp="0.25"></hsp>g<sup loc="post">−1</sup>)</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">121.8</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">218.32</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">C25th/C1st (%)</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">21.76</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">51.10</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">74.19</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">C50th/C1st (%)</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">30.36</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">63.57</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl2" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Tafel fitting data of the MgNi, Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.3</ce:inf>Ni and Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.225</ce:inf>Al<ce:inf loc="post">0.075</ce:inf>Ni alloy electrodes</ce:simple-para>
+</ce:caption>
+<tgroup cols="3">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Alloy</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>i</italic>
+<inf loc="post">corr</inf> (mA/cm<sup loc="post">2</sup>)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>E</italic>
+<inf loc="post">corr</inf> (V)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">MgNi</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">5.32</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">−0.939</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Mg<inf loc="post">0.7</inf>Ti<inf loc="post">0.3</inf>Ni</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">6.49</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">−0.938</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Mg<inf loc="post">0.7</inf>Ti<inf loc="post">0.225</inf>Al<inf loc="post">0.075</inf>Ni</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">4.38</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">−0.902</entry>
+</row>
+</tbody>
+</tgroup>
+<ce:legend>
+<ce:simple-para view="all">Calculated based on Tafel equation <ce:cross-ref refid="bib15">[15]</ce:cross-ref>. <ce:italic>i</ce:italic>
+<ce:inf loc="post">corr</ce:inf>: corrosion current density; <ce:italic>E</ce:italic>
+<ce:inf loc="post">corr</ce:inf>: corrosion potential.</ce:simple-para>
+</ce:legend>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl3" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Simulated electrochemical parameters of the MgNi, Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.3</ce:inf>Ni and Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.225</ce:inf>Al<ce:inf loc="post">0.075</ce:inf>Ni alloys electrodes</ce:simple-para>
+</ce:caption>
+<tgroup cols="2">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Alloy</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>R</italic>
+<inf loc="post">ct</inf> (Ω)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">MgNi</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.48</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Mg<inf loc="post">0.7</inf>Ti<inf loc="post">0.3</inf>Ni</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.35</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Mg<inf loc="post">0.7</inf>Ti<inf loc="post">0.225</inf>Al<inf loc="post">0.075</inf>Ni</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.07</entry>
+</row>
+</tbody>
+</tgroup>
+<ce:legend>
+<ce:simple-para view="all">
+<ce:italic>R</ce:italic>
+<ce:inf loc="post">ct</ce:inf>: charge transfer resistance.</ce:simple-para>
+</ce:legend>
+</ce:table>
+</ce:floats>
+<ce:title>Effect of Ti–Al substitution on the electrochemical properties of amorphous MgNi-based secondary hydride electrodes</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>Jing-Wang</ce:given-name>
+<ce:surname>Liu</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="cor1">*</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Hua-Tang</ce:given-name>
+<ce:surname>Yuan</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Jian-Sheng</ce:given-name>
+<ce:surname>Cao</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Yi-Jing</ce:given-name>
+<ce:surname>Wang</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation id="aff1">
+<ce:label>a</ce:label>
+<ce:textfn>Department of Chemistry, Tianjin Normal University, Tianjin 300074, PR China</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff2">
+<ce:label>b</ce:label>
+<ce:textfn>Institute of New Energy Material Chemistry, Nankai University, 94 Weijin Road, Tianjin 300071, PR China</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>*</ce:label>
+<ce:text>Corresponding author. Tel.: +86 22 2350 4527; fax: +86 22 2350 2604.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="30" month="7" year="2004"></ce:date-received>
+<ce:date-revised day="30" month="8" year="2004"></ce:date-revised>
+<ce:date-accepted day="31" month="8" year="2004"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">A new amorphous Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.225</ce:inf>Al<ce:inf loc="post">0.075</ce:inf>Ni alloy was prepared by means of mechanical alloying (MA), its discharge capacity reached 218.32<ce:hsp sp="0.25"></ce:hsp>mAh<ce:hsp sp="0.25"></ce:hsp>g<ce:sup loc="post">−1</ce:sup> after 50 cycles, which retains 63.57% of the initial capacity of 343.44<ce:hsp sp="0.25"></ce:hsp>mAh<ce:hsp sp="0.25"></ce:hsp>g<ce:sup loc="post">−1</ce:sup>. On the surface of the alloy during cycling in the electrolyte of 5<ce:hsp sp="0.25"></ce:hsp>M KOH, the X-ray photoelectron spectroscopy (XPS) shows that the majority of magnesium and aluminum in the alloy exist in metallic state; Ti exists in the +3 oxidation state. Electrochemical impedance spectroscopy (EIS) shows that the aluminum lowered the charge transfer resistance. The structure of the alloy was characterized by X-ray diffraction (XRD) and scanning electron microscopy (SEM). And the improvement of cycle life of the electrode can be related to the formation of MgTi<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">4</ce:inf>. A study on the anti-corrosion properties in alkaline solution of the alloy electrode has been done, and it is shown that Ti and Al substitution of Mg improves the anti-corrosion properties significantly. It is found that Ti and Al substitution of Mg could improve the electrochemical behavior of MgNi-based electrodes.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Nickel-metal hydride battery</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Hydrogen storage alloy</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Amorphous electrochemical properties</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Substitution</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Immense efforts were undertaken worldwide to investigate synthesis, structure, and potential applications of hydrogen storage alloys <ce:cross-ref refid="bib1">[1]</ce:cross-ref>. The alloys are capable of reversibly storing large amounts of hydrogen via absorbing gaseous hydrogen at certain pressure and temperatures or by electrochemistry to form metal hydride (MH). Rechargeable alkaline Ni-MH batteries using metal hydride as negative materials have become the dominant advanced battery technology for portable electronic devices, electric tools, electric vehicle (EV), and hybrid electric vehicle (HEV) applications due to their high reversible energy storage capacity, excellent long-term cycling stability, and good electrochemical reaction kinetics. The various alloy families including AB<ce:inf loc="post">5</ce:inf>, AB<ce:inf loc="post">2</ce:inf>, AB, AB<ce:inf loc="post">3</ce:inf>, Mg-based alloy, and their composites have been largely investigated as negative materials of Ni/MH batteries.</ce:para>
+<ce:para view="all">Mg-based hydrogen storage alloys are considered as one of the most promising candidates of third generation alloys, because of their high discharge capacity, lower gravity and rich natural resources <ce:cross-ref refid="bib2">[2]</ce:cross-ref>. However, the practical application of Mg-based alloys is prevented by their poor hydriding/dihydriding kinetics at room temperature and their poor charge–discharge cycling stability.</ce:para>
+<ce:para view="all">The capacity degradation is associated with the irreversible oxidation of the alloy by the electrolyte (KOH) leading to the formation of a Mg(OH)<ce:inf loc="post">2</ce:inf> layer on the surface of the alloy particles <ce:cross-refs refid="bib3 bib4">[3,4]</ce:cross-refs>. In order to improve the cycle life, many efforts have been made on their electrochemical characteristics. Multi-component alloying has been found to be the most effective way to retard the corrosion and to improve the cycling capacity degradation <ce:cross-refs refid="bib5 bib6 bib7 bib8 bib9">[5–9]</ce:cross-refs>. Han et al. <ce:cross-ref refid="bib5">[5]</ce:cross-ref> and Zhang et al. <ce:cross-ref refid="bib6">[6]</ce:cross-ref> demonstrated that Ti is very effective as a partial substitute for Mg in MgNi alloy by improving the cycle life, and the Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.3</ce:inf>Ni alloy shows the best cycle life.</ce:para>
+<ce:para view="all">The analysis of Ruggeri et al. <ce:cross-ref refid="bib9">[9]</ce:cross-ref> and the studies of other research groups <ce:cross-refs refid="bib5 bib6">[5,6]</ce:cross-refs> have shown that a few elements can be used as candidates for partial substitution of Mg and Ni, and the elements should have properties such as:<ce:list>
+<ce:list-item>
+<ce:label>(i)</ce:label>
+<ce:para view="all">a higher vacancy formation energy than Mg <ce:cross-ref refid="bib10">[10]</ce:cross-ref>;</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>(ii)</ce:label>
+<ce:para view="all">they can form a passive film or oxide layer on the Mg-based alloy;</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>(iii)</ce:label>
+<ce:para view="all">the passive film is compact;</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>(iv)</ce:label>
+<ce:para view="all">the passive film is resistant to the penetration of KOH solution;</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>(v)</ce:label>
+<ce:para view="all">the passive film has some ability of hydrogen diffusion;</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>(vi)</ce:label>
+<ce:para view="all">improved ability to avoid cracking on cycling.</ce:para>
+</ce:list-item>
+</ce:list>
+</ce:para>
+<ce:para view="all">Among the substitution elements, Ti and Al seem to be the better choice, and Ti is the key element for improving the cycle life of MgNi-based electrodes. In this study, an amorphous quaternary Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.225</ce:inf>Al<ce:inf loc="post">0.075</ce:inf>Ni alloy was prepared by mechanical alloying (MA). The phase structure, electrochemical capacity and cycling stability of the alloy were tested. The effect of Ti and Al on the surface of the alloy was studied by means of X-ray photoelectron spectroscopy (XPS).</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental details</ce:section-title>
+<ce:para view="all">MgNi, Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.3</ce:inf>Ni and Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.225</ce:inf>Al<ce:inf loc="post">0.075</ce:inf>Ni alloys were prepared from mixed powers of pure Mg, Ti, Al and Ni by MA. MA was carried out using a planetary ball mill in a stainless steel vessel at a speed of 450<ce:hsp sp="0.25"></ce:hsp>rpm under argon atmosphere for 100<ce:hsp sp="0.25"></ce:hsp>h.</ce:para>
+<ce:para view="all">The crystal structure and surface configuration of the alloy were characterized by X-ray diffraction (Rigaku D/Max-2500, Cu α radiation), scanning electron microscopy (Hitachi X-650); the surface element analysis was performed on a PHI-5300 ESCA spectrometer (PHI Company, USA) using Mg Kα radiation.</ce:para>
+<ce:para view="all">Negative electrodes were constructed through mixing as-prepared composites with carbonyl nickel powders in a weight ratio of 1:3. The powder mixture was pressed under 30<ce:hsp sp="0.25"></ce:hsp>MPa pressure into a small pellet of 10<ce:hsp sp="0.25"></ce:hsp>mm in diameter and 1.5<ce:hsp sp="0.25"></ce:hsp>mm thickness.</ce:para>
+<ce:para view="all">Electrochemical measurements were conducted in a three-compartment cell using a Land battery test instrument. NiOOH/Ni(OH)<ce:inf loc="post">2</ce:inf> and Hg/HgO were used as the counter electrode and the reference electrode. In each charge–discharge cycle tests, the negative electrode was charged for 6<ce:hsp sp="0.25"></ce:hsp>h at 100<ce:hsp sp="0.25"></ce:hsp>mAg<ce:sup loc="post">−1</ce:sup> and discharged at 25<ce:hsp sp="0.25"></ce:hsp>mAg<ce:sup loc="post">−1</ce:sup> up to the cut-off voltage set at −0.5<ce:hsp sp="0.25"></ce:hsp>V (versus Hg/HgO). The electrolyte solution is a 5<ce:hsp sp="0.25"></ce:hsp>M KOH aqueous solution. The testing time between charge and discharge was 10<ce:hsp sp="0.25"></ce:hsp>min. After 50 charge–discharge cycles, the pellet was crushed to powder, and washed with distilled water and dried in a vacuum drier before testing.</ce:para>
+<ce:para view="all">A Solartron 1287 electrochemical interface (EI) coupled with a Solartron 1250 frequency response analyzer was used for polarization and EIS measurements. The AC amplitude was 5<ce:hsp sp="0.25"></ce:hsp>mV and the frequency range employed between 10<ce:sup loc="post">4</ce:sup> and 10<ce:sup loc="post">−2</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>Hz. The potentiodynamic polarization experiment was performed using the S1287 EI. The potential range employed was between −1.2 V and −0.2<ce:hsp sp="0.25"></ce:hsp>V (versus HgO/Hg). The sweep rate was 0.2<ce:hsp sp="0.25"></ce:hsp>mV/s. All the measurements were conducted at room temperature.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:section view="all">
+<ce:label>3.1</ce:label>
+<ce:section-title>Phase structure</ce:section-title>
+<ce:para view="all">In order to investigate the microstructures changes of the ternary Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.225</ce:inf>Al<ce:inf loc="post">0.075</ce:inf>Ni alloy during charge–discharge cycling, X-ray diffractometry for MgNi, Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.3</ce:inf>Ni and Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.225</ce:inf>Al<ce:inf loc="post">0.075</ce:inf>Ni alloy was carried out. As can be seen in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor>(A). In the XRD patterns of the three alloys after 100<ce:hsp sp="0.25"></ce:hsp>h milling, only broad peaks appear in the region of 40–45°, suggesting that the main phase of the alloy has an amorphous structure, and some weak Ni peaks co-exists with the main phase of Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.225</ce:inf>Al<ce:inf loc="post">0.075</ce:inf>Ni alloy. The ternary phase MgTi<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">4</ce:inf> was identified in the Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.3</ce:inf>Ni and Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.225</ce:inf>Al<ce:inf loc="post">0.075</ce:inf>Ni alloys. The XRD patterns of the electrodes after 50 charge–discharge cycles (recovered in the dehydrided state) are shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>(B). They have been zoomed to see the peaks ascribed to the active material (the larger peaks are attributed to nickel and nickel foam). Some oxide films may have formed on the alloy surface after cycling. However, the amount of oxide turns out to be too small to be observed by XRD. So oxide peaks were not detected <ce:cross-ref refid="bib7">[7]</ce:cross-ref>, even no diffraction peaks of Mg(OH)<ce:inf loc="post">2</ce:inf> can be found (not thick enough to be detected by XRD) <ce:cross-ref refid="bib8">[8]</ce:cross-ref>. However, as regards a surface passivation effect as reported for MgNi <ce:cross-ref refid="bib9">[9]</ce:cross-ref>, these facts indicate that the spinel MgTi<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">4</ce:inf> may be the main reason to prevent the alloy particles from degradation or oxidation.</ce:para>
+<ce:para view="all">The particles of Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.225</ce:inf>Al<ce:inf loc="post">0.075</ce:inf>Ni alloy milled 100<ce:hsp sp="0.25"></ce:hsp>h are cubical grains with large interfaces and defects, as shown in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor>(A). The grain size varies between 2 and 3<ce:hsp sp="0.25"></ce:hsp>μm in diameter. These observations do not all agree with results of the MgNi alloy reported by other authors <ce:cross-refs refid="bib12 bib13 bib14">[12–14]</ce:cross-refs>. The backscattered electron image in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>(B) indicates that all elements in the alloy are uniformly distributed.</ce:para>
+<ce:para view="all">The SEM micrographs of particles of the electrode after 50 charge–discharge cycles are shown in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>, It can be seen in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>(C) that a loose surface layer is formed on the gray amorphous particle matrix, and that the particle surface becomes smoother on cycling, the grain size varying between 2 and 3<ce:hsp sp="0.25"></ce:hsp>μm in diameter. The backscattered electron image shows a homogeneous distribution of the phases in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>(D), the bright phase corresponding to crystalline of Ni. The gray phase corresponding to the main phase suggests that the samples are still in the amorphous state. All those results agree with the XRD analysis shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>. <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref> also shows that there is no filamentous structure on the particles <ce:cross-ref refid="bib15">[15]</ce:cross-ref> and there is no clearer evidence that the size of the particles has become smaller. These observations do not agree with results reported for the MgNi electrode by other authors <ce:cross-refs refid="bib11 bib12 bib13 bib14 bib15">[11–15]</ce:cross-refs>, but they show that Al might improve the ability to avoid cracking.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.2</ce:label>
+<ce:section-title>Discharge capacity and cycle life</ce:section-title>
+<ce:para view="all">
+<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor> shows the discharge capacity at 25<ce:hsp sp="0.25"></ce:hsp>°C varying with cycle number for MgNi, Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.3</ce:inf>Ni and Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.225</ce:inf>Al<ce:inf loc="post">0.075</ce:inf>Ni alloy electrodes. In the case of the MgNi electrode, the discharge capacity decreased considerably with the increase in cycle number. Furthermore, the substitution of Mg by Ti and Al in the quaternary alloy improves evidently the cycling stability of the alloys. The discharge capacity at 50 cycles for the Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.225</ce:inf>Al<ce:inf loc="post">0.075</ce:inf>Ni alloy is still higher than 218.32<ce:hsp sp="0.25"></ce:hsp>mAh<ce:hsp sp="0.25"></ce:hsp>g<ce:sup loc="post">−1</ce:sup>.</ce:para>
+<ce:para view="all">Information on the cycling stability of the three alloys is given in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+<ce:float-anchor refid="tbl1"></ce:float-anchor>, where C1st refers to the discharge capacity at the first cycle, C25th refers to 25 cycles, and C50th refers to 50 cycles. From <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>, it is ascertained that Ti substitution for Mg improves the cycle life of MgNi, and Al substitution for Ti improves the cycle life of Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.3</ce:inf>Ni significantly.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.3</ce:label>
+<ce:section-title>The effect on the properties of passivation film</ce:section-title>
+<ce:para view="all">The only way to inhibit the corrosion of an Mg-based alloy is to build up a good passivation film on its external surface <ce:cross-ref refid="bib16">[16]</ce:cross-ref>. In order to find the reason for the improvement on cycling stability brought forth by Ti and Al, the corrosion products on the surface of the alloys before charging and after 50 charge–discharge cycles were investigated by means of XPS surface analysis. <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor>A–D shows XPS data for the surface of Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.225</ce:inf>Al<ce:inf loc="post">0.075</ce:inf>Ni alloy balled milled for 50 cycles. Both O 1s and Ti 2p peaks shift to higher binding energy during charging, and after 50 cycles, the Ti 2p peak exhibited a maximum at about 458.27<ce:hsp sp="0.25"></ce:hsp>eV, lower than 458.70<ce:hsp sp="0.25"></ce:hsp>eV of TiO<ce:inf loc="post">2</ce:inf> and higher than 455.10<ce:hsp sp="0.25"></ce:hsp>eV of TiO, indicating that the majority of Ti exists in the +3 oxidation state <ce:cross-ref refid="bib17">[17]</ce:cross-ref>, so that, this peak is most likely attributed to MgTi<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">4</ce:inf>. On the other hand, the peak binding energy of Mg and Al are lower, the majority of magnesium and aluminum in the alloy existing in metallic state even after 50 cycles <ce:cross-ref refid="bib5">[5]</ce:cross-ref>, and that agrees with the longer cycle life of the electrodes.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.4</ce:label>
+<ce:section-title>Corrosion of the alloys</ce:section-title>
+<ce:para view="all">There are many investigations about the corrosion behavior of Mg-based alloys, because the corrosion of Mg-based alloys is a barrier to its practical use <ce:cross-ref refid="bib18">[18]</ce:cross-ref>. In order to find a new method for improvement of the anti-corrosion behavior of the alloys, potentiodynamic polarization has been employed to investigate the corrosion behavior of Mg-based alloys. The potentiodynamic polarization of MgNi, Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.3</ce:inf>Ni and Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.225</ce:inf>Al<ce:inf loc="post">0.075</ce:inf>Ni alloys are shown in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="fig5"></ce:float-anchor> with the results obtained by Tafel fitting <ce:cross-ref refid="bib19">[19]</ce:cross-ref> and are summarized in <ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>
+<ce:float-anchor refid="tbl2"></ce:float-anchor>. The results reveal that in the Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.225</ce:inf>Al<ce:inf loc="post">0.075</ce:inf>Ni alloy, its values of E<ce:inf loc="post">corr</ce:inf> is higher than for MgNi and Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.3</ce:inf>Ni, and the corrosion rate (<ce:italic>i</ce:italic>
+<ce:inf loc="post">corr</ce:inf>) is lower than for MgNi and Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.3</ce:inf>Ni. These results suggest that the substitution of Mg by Ti and Al improves the anti-corrosion behavior of MgNi-based alloy.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.5</ce:label>
+<ce:section-title>The effect on polarization resistance and the surface exchange current</ce:section-title>
+<ce:para view="all">
+<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="fig6"></ce:float-anchor> shows the EIS Nyquist diagrams for the two electrode alloys at 50% DOD at the first cycle and their proposed equivalent circuit. It can be seen clearly that the spectra consist of three overlapping semicircles and a linear Warburg part <ce:cross-ref refid="bib20">[20]</ce:cross-ref>. On the basis of the circuit and by means of the non-linear least squares (NLLS) fitting program EQUIVCT, the charge transfer resistance values were obtained. The results are shown in <ce:cross-ref refid="tbl3">Table 3</ce:cross-ref>
+<ce:float-anchor refid="tbl3"></ce:float-anchor>.</ce:para>
+<ce:para view="all">The results reveal that in the Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.225</ce:inf>Al<ce:inf loc="post">0.075</ce:inf>Ni alloy, the values of the charge transfer resistance <ce:italic>R</ce:italic>
+<ce:inf loc="post">ct</ce:inf> is much lower than in MgNi and Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.3</ce:inf>Ni. These results suggest that in the Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.225</ce:inf>Al<ce:inf loc="post">0.075</ce:inf>Ni alloy, Ti helps to improve the charge transfer on the surface <ce:cross-ref refid="bib21">[21]</ce:cross-ref>, and Al helps to improve the charge transfer on the surface significantly.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">The amorphous Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.225</ce:inf>Al<ce:inf loc="post">0.075</ce:inf>Ni alloy was synthesized successfully by mechanical alloying, it possesses higher cycling capacity than other MgNi-based alloys. The discharge capacity of the 100<ce:hsp sp="0.25"></ce:hsp>h milled Mg<ce:inf loc="post">0.7</ce:inf>Ti<ce:inf loc="post">0.225</ce:inf>Al<ce:inf loc="post">0.075</ce:inf>Ni alloy at 25<ce:hsp sp="0.25"></ce:hsp>mAg<ce:sup loc="post">−1</ce:sup> discharge current density reached 218.32<ce:hsp sp="0.25"></ce:hsp>mAh<ce:hsp sp="0.25"></ce:hsp>g<ce:sup loc="post">−1</ce:sup> after 50th cycles. XPS showed that the majority of magnesium and aluminum in this alloy exist in the metallic state. It is worth to point out that from XRD and XPS analysis, a spinel MgTi<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">4</ce:inf> can be found, and no direct evidence of Mg(OH)<ce:inf loc="post">2</ce:inf> exists. Further detailed investigations on the effects of Ti and Al are now in progress.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgements</ce:section-title>
+<ce:para view="all">The work is subsidized by the National High Tech. ‘863’ (2001AA515022), the Special Founds for Major State Basic Project (G200026405) and the Natural Science Foundation of Tianjin, China (01360211) and Tian-Nan Union Found.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>Reference</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Schlapbach</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Züttel</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Nature</sb:maintitle>
+</sb:title>
+<sb:volume-nr>414</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>353</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.C.</ce:given-name>
+<ce:surname>Bolcich</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.A.</ce:given-name>
+<ce:surname>Yawuy</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.L.</ce:given-name>
+<ce:surname>Corso</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.A.</ce:given-name>
+<ce:surname>Pertti</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.O.</ce:given-name>
+<ce:surname>Anala</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+</sb:title>
+<sb:volume-nr>19</sb:volume-nr>
+</sb:series>
+<sb:date>1994</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>605</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>N.H.</ce:given-name>
+<ce:surname>Goo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.H.</ce:given-name>
+<ce:surname>Woo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.S.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>288</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>286</sb:first-page>
+<sb:last-page>293</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Abe</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Tachikawa</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Hatano</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Watanabe</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>332</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>792</sb:first-page>
+<sb:last-page>795</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.-C.</ce:given-name>
+<ce:surname>Han</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.S.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.-Y.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Züttel</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Schlapbach</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>306</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>219</sb:first-page>
+<sb:last-page>226</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.-K.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.-X.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.-Q.</ce:given-name>
+<ce:surname>Lei</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Q.-D.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+</sb:title>
+<sb:volume-nr>26</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>801</sb:first-page>
+<sb:last-page>806</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.Y.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.H.</ce:given-name>
+<ce:surname>Goo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.T.</ce:given-name>
+<ce:surname>Jeong</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.S.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>313</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>258</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Yuan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Q.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Song</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Liu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>353</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>322</sb:first-page>
+<sb:last-page>326</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Ruggeri</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Roué</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Huot</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Schulz</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Aymard</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.-M.</ce:given-name>
+<ce:surname>Tarascon</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Power Sources</sb:maintitle>
+</sb:title>
+<sb:volume-nr>112</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>547</sb:first-page>
+<sb:last-page>556</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.W.</ce:given-name>
+<ce:surname>Finnis</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Phys.: Condens. Matter</sb:maintitle>
+</sb:title>
+<sb:volume-nr>2</sb:volume-nr>
+</sb:series>
+<sb:date>1990</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>331</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Iwakura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Nohara</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Shin-Ya</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Kurosaka</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Miyanohara</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>330–332</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>636</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Ruggeri</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Roué</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Liang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Huot</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Schulz</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>343</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>170</sb:first-page>
+<sb:last-page>178</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.-C.</ce:given-name>
+<ce:surname>Han</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.-J.</ce:given-name>
+<ce:surname>Jiang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.-G.</ce:given-name>
+<ce:surname>Park</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.-J.</ce:given-name>
+<ce:surname>Jang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.-Y.</ce:given-name>
+<ce:surname>Chin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.-Y.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>285</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>L8</sb:first-page>
+<sb:last-page>L11</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.-J.</ce:given-name>
+<ce:surname>Jiang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Gasik</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Power Sources</sb:maintitle>
+</sb:title>
+<sb:volume-nr>89</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>117</sb:first-page>
+<sb:last-page>124</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Liu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Lei</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Sun</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Q.D.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Power Sources</sb:maintitle>
+</sb:title>
+<sb:volume-nr>58</sb:volume-nr>
+</sb:series>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>243</sb:first-page>
+<sb:last-page>247</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib16">
+<ce:label>[16]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Q.-D.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.-Q.</ce:given-name>
+<ce:surname>Lei</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>356–357</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>784</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib17">
+<ce:label>[17]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Schmidt</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Ratcliff</ce:surname>
+<ce:suffix>II</ce:suffix>
+</sb:author>
+<sb:author>
+<ce:given-name>P.G.</ce:given-name>
+<ce:surname>Radaelli</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Refson</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.M.</ce:given-name>
+<ce:surname>Harrison</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.W.</ce:given-name>
+<ce:surname>Cheong</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Phys. Rev. Lett.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>92</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>5</sb:issue-nr>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>056402-1-4</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib18">
+<ce:label>[18]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Yang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.S.E.</ce:given-name>
+<ce:surname>Yang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Gao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Yuan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Zhou</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>149</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>5</sb:issue-nr>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>A543</sb:first-page>
+<sb:last-page>A545</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib19">
+<ce:label>[19]</ce:label>
+<ce:other-ref>
+<ce:textref>D. Johnson, CVIEW for Windows, Ver. 2.3 [d]1990-2000, Scribner Associates Inc.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib20">
+<ce:label>[20]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Liu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Lei</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Q.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>346</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>244</sb:first-page>
+<sb:last-page>249</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib21">
+<ce:label>[21]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Barnartt</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Electrochim. Acta</sb:maintitle>
+</sb:title>
+<sb:volume-nr>15</sb:volume-nr>
+</sb:series>
+<sb:date>1970</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1313</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

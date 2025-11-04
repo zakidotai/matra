@@ -1,0 +1,2151 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838804008308</prism:url><dc:identifier>doi:10.1016/j.jallcom.2004.06.026</dc:identifier><eid>1-s2.0-S0925838804008308</eid><prism:doi>10.1016/j.jallcom.2004.06.026</prism:doi><pii>S0925-8388(04)00830-8</pii><dc:title>Transformation sequence and second phases in ternary Ti–Ni–W shape memory alloys with less than 2 at.% W </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>387</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>121</prism:startingpage><prism:endingpage>127</prism:endingpage><prism:pagerange>121-127</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2005-01-25</prism:coverdate><prism:coverdisplaydate>25 January 2005</prism:coverdisplaydate><prism:copyright>Copyright © 2004 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Hsieh, S.F.</dc:creator><dc:creator>Wu, S.K.</dc:creator><dc:creator>Lin, H.C.</dc:creator><dc:creator>Yang, C.H.</dc:creator><dc:description>
+                  Transformation sequence and second phases in Ti50−
+                     
+                        X
+                     Ni50W
+                        X
+                     , Ti50Ni50−
+                     
+                        X
+                     W
+                        X
+                      and Ti51Ni49−
+                     
+                        X
+                     W
+                        X
+                      alloys with X = 1–2at.% are investigated. Two different second-phase particles located at grain boundaries are observed. The lattice parameters of Ti50Ni49W1 martensite are calculated from the selected area diffraction patterns (SADP) and all of them are larger than those of Ti50Ni50 alloy. Experimental results indicate that the W atoms replace Ni atoms, instead of Ti ones in these alloys. In addition, Ti50−
+                     
+                        X
+                     Ni50W
+                        X
+                      and Ti51Ni49−
+                     
+                        X
+                     W
+                        X
+                      alloys have a two-stage B2 → R → B19′ transformation, but the Ti50Ni50−
+                     
+                        X
+                     W
+                        X
+                      alloy has a one-stage B2 → B19′ transformation because the former Ms temperatures are depressed significantly. The shape recovery of these alloys can be improved by the W solid-solution hardening. With higher matrix hardness in these alloys, there is better shape recovery.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Ti–Ni–W shape memory alloys</dcterms:subject><dcterms:subject>Transformation sequence</dcterms:subject><dcterms:subject>Second phases</dcterms:subject><dcterms:subject>Shape recovery</dcterms:subject><dcterms:subject>Lattice parameters</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838804008308" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838804008308" rel="scidir"/></coredata><objects><object category="standard" height="708" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="190002" type="IMAGE-DOWNSAMPLED" width="638">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008308-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="164" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="6247" type="IMAGE-THUMBNAIL" width="148">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008308-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="578" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="69485" type="IMAGE-DOWNSAMPLED" width="636">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008308-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="164" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="7463" type="IMAGE-THUMBNAIL" width="180">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008308-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="595" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="55524" type="IMAGE-DOWNSAMPLED" width="489">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008308-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="164" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="3955" type="IMAGE-THUMBNAIL" width="135">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008308-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="314" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="7867" type="IMAGE-DOWNSAMPLED" width="363">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008308-gr4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="164" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="3246" type="IMAGE-THUMBNAIL" width="189">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008308-gr4.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>10844224362</scopus-id><scopus-eid>2-s2.0-10844224362</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/10844224362" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20040731">2004-07-31</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20040731">2004-07-31</xocs:available-online-date>
+<xocs:ew-transaction-id>2011-02-15T22:32:05</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838804008308</xocs:eid>
+<xocs:pii-formatted>S0925-8388(04)00830-8</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838804008308</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2004.06.026</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.3</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838800X02290</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.228461-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20050125</xocs:date-search-begin>
+<xocs:year-nav>2005</xocs:year-nav>
+<xocs:indexeddate epoch="1091232000">2004-07-31T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>387</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>387</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 387, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>25</xocs:sort-order>
+<xocs:first-fp>121</xocs:first-fp>
+<xocs:last-lp>127</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>121</xocs:first-page>
+<xocs:last-page>127</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20050125</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>25 January 2005</xocs:cover-date-text>
+<xocs:cover-date-start>2005-01-25</xocs:cover-date-start>
+<xocs:cover-date-year>2005</xocs:cover-date-year>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2004 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>TRANSFORMATIONSEQUENCESECONDPHASESINTERNARYTINIWSHAPEMEMORYALLOYSLESS2W</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>HSIEH</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>S</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental procedure</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Second phases and martensite in Ti–Ni–W alloys</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Transformation sequence in Ti–Ni–W alloys</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Shape recovery on Ti–Ni–W alloys</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>Reference</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>MIYAZAKI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1986</xocs:ref-pub-year>
+<xocs:ref-first-fp>2045</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1989</xocs:ref-pub-year>
+<xocs:ref-first-fp>2043</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>NISHIDA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1984</xocs:ref-pub-year>
+<xocs:ref-first-fp>1293</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>LIN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1991</xocs:ref-pub-year>
+<xocs:ref-first-fp>2069</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>ECKELMEYER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1976</xocs:ref-pub-year>
+<xocs:ref-first-fp>667</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>WASILEWSKI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1975</xocs:ref-pub-year>
+<xocs:ref-first-fp>245</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>SHAPEMEMORYEFFECTSINALLOYS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>HWANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1983</xocs:ref-pub-year>
+<xocs:ref-first-fp>177</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1987</xocs:ref-pub-year>
+<xocs:ref-first-fp>359</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>LO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1990</xocs:ref-pub-year>
+<xocs:ref-first-fp>1571</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>ENAMI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1987</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>PROCICOMAT86</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>LO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1993</xocs:ref-pub-year>
+<xocs:ref-first-fp>747</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>NAM</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1990</xocs:ref-pub-year>
+<xocs:ref-first-fp>262</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13">
+<xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1990</xocs:ref-pub-year>
+<xocs:ref-first-fp>1807</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>NISHIDA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1986</xocs:ref-pub-year>
+<xocs:ref-first-fp>1505</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15">
+<xocs:ref-normalized-surname>LIN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1994</xocs:ref-pub-year>
+<xocs:ref-first-fp>184</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib16">
+<xocs:ref-normalized-surname>ENAMI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>C8-629</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib17">
+<xocs:ref-normalized-surname>LIN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1992</xocs:ref-pub-year>
+<xocs:ref-first-fp>59</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib18">
+<xocs:ref-normalized-surname>VILLARS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>HANDBOOKTERNARYALLOYPHASEDIAGRAMVOL10</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib19">
+<xocs:ref-normalized-surname>OTSUKA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1971</xocs:ref-pub-year>
+<xocs:ref-first-fp>457</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib20">
+<xocs:ref-normalized-surname>BRICKNELL</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1979</xocs:ref-pub-year>
+<xocs:ref-first-fp>693</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib21">
+<xocs:ref-normalized-surname>SCHAFFER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>SCIENCEDESIGNENGINEERINGMATERIALS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib22">
+<xocs:ref-normalized-surname>HSIEH</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>1665</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib23">
+<xocs:ref-normalized-surname>COHEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1950</xocs:ref-pub-year>
+<xocs:ref-first-fp>242</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>AMERICANSOCIETYFORMETALS</xocs:ref-normalized-srctitle>
+<xocs:ref-normalized-article-title>THERMODYNAMICSINPHYSICALMETALLURGY</xocs:ref-normalized-article-title>
+</xocs:ref-info>
+<xocs:ref-info refid="bib24">
+<xocs:ref-normalized-surname>HORNBOGEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1985</xocs:ref-pub-year>
+<xocs:ref-first-fp>595</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib25">
+<xocs:ref-normalized-surname>EUCKEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1984</xocs:ref-pub-year>
+<xocs:ref-first-fp>1343</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib26">
+<xocs:ref-normalized-surname>HONMA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1984</xocs:ref-pub-year>
+<xocs:ref-first-fp>89</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>SHAPEMEMORYALLOYS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib27">
+<xocs:ref-normalized-surname>NISHIDA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1987</xocs:ref-pub-year>
+<xocs:ref-first-fp>191</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib28">
+<xocs:ref-normalized-surname>LIN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1991</xocs:ref-pub-year>
+<xocs:ref-first-fp>1295</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>HSIEHX2005X121</xocs:refkey3>
+<xocs:refkey4lp>HSIEHX2005X121X127</xocs:refkey4lp>
+<xocs:refkey4ai>HSIEHX2005X121XS</xocs:refkey4ai>
+<xocs:refkey5>HSIEHX2005X121X127XS</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(04)00830-8</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838804008308</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838804008308</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2004.06.026</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2011-02-16T02:47:48.942881-05:00</xocs:timestamp>
+<xocs:cover-date-start>2005-01-25</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838804008308-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008308/MAIN/application/pdf/8a57ce2b07e615c92337c3e670502174/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008308/MAIN/application/pdf/8a57ce2b07e615c92337c3e670502174/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>573085</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838804008308-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008308/PREVIEW/image/png/5079b6d0632669628b599cb6307fc43c/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008308/PREVIEW/image/png/5079b6d0632669628b599cb6307fc43c/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>60588</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008308-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008308/gr1/DOWNSAMPLED/image/jpeg/e66a2af437f94f113f97f991f7fa5aa8/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008308/gr1/DOWNSAMPLED/image/jpeg/e66a2af437f94f113f97f991f7fa5aa8/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>190002</xocs:filesize>
+<xocs:pixel-height>708</xocs:pixel-height>
+<xocs:pixel-width>638</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008308-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008308/gr1/THUMBNAIL/image/gif/bb8f5938e72b038b1e0bd76b6e6de1a3/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008308/gr1/THUMBNAIL/image/gif/bb8f5938e72b038b1e0bd76b6e6de1a3/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>6247</xocs:filesize>
+<xocs:pixel-height>164</xocs:pixel-height>
+<xocs:pixel-width>148</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008308-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008308/gr2/DOWNSAMPLED/image/jpeg/ffe3d1f3930b9eec1b8594c04c64c78a/gr2.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008308/gr2/DOWNSAMPLED/image/jpeg/ffe3d1f3930b9eec1b8594c04c64c78a/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>69485</xocs:filesize>
+<xocs:pixel-height>578</xocs:pixel-height>
+<xocs:pixel-width>636</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008308-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008308/gr2/THUMBNAIL/image/gif/99130b00a354512b0f00942a7f2188d5/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008308/gr2/THUMBNAIL/image/gif/99130b00a354512b0f00942a7f2188d5/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>7463</xocs:filesize>
+<xocs:pixel-height>164</xocs:pixel-height>
+<xocs:pixel-width>180</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008308-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008308/gr3/DOWNSAMPLED/image/jpeg/bfe0f4d724a55a8868308d6eae4b2aeb/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008308/gr3/DOWNSAMPLED/image/jpeg/bfe0f4d724a55a8868308d6eae4b2aeb/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>55524</xocs:filesize>
+<xocs:pixel-height>595</xocs:pixel-height>
+<xocs:pixel-width>489</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008308-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008308/gr3/THUMBNAIL/image/gif/407311b3460e546f61b088d78ec1f09f/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008308/gr3/THUMBNAIL/image/gif/407311b3460e546f61b088d78ec1f09f/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3955</xocs:filesize>
+<xocs:pixel-height>164</xocs:pixel-height>
+<xocs:pixel-width>135</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008308-gr4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008308/gr4/DOWNSAMPLED/image/gif/12e3a88c8b9427ebfed1162cce62477c/gr4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008308/gr4/DOWNSAMPLED/image/gif/12e3a88c8b9427ebfed1162cce62477c/gr4.gif</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>7867</xocs:filesize>
+<xocs:pixel-height>314</xocs:pixel-height>
+<xocs:pixel-width>363</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008308-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008308/gr4/THUMBNAIL/image/gif/be0c64bdbf76b578c9e7125379fe4e76/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008308/gr4/THUMBNAIL/image/gif/be0c64bdbf76b578c9e7125379fe4e76/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3246</xocs:filesize>
+<xocs:pixel-height>164</xocs:pixel-height>
+<xocs:pixel-width>189</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>11394</aid>
+<ce:pii>S0925-8388(04)00830-8</ce:pii>
+<ce:doi>10.1016/j.jallcom.2004.06.026</ce:doi>
+<ce:copyright type="full-transfer" year="2004">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">The EPMA back-scattering electron images (BEIs) of the 950<ce:hsp sp="0.25"></ce:hsp>°C × 72<ce:hsp sp="0.25"></ce:hsp>h homogenized (a) Ti<ce:inf loc="post">49</ce:inf>Ni<ce:inf loc="post">50</ce:inf>W<ce:inf loc="post">1</ce:inf>, (b) Ti<ce:inf loc="post">48</ce:inf>Ni<ce:inf loc="post">50</ce:inf>W<ce:inf loc="post">2</ce:inf>, (c) Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">49</ce:inf>W<ce:inf loc="post">1</ce:inf>, (d) Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">48</ce:inf>W<ce:inf loc="post">2</ce:inf>, (e) Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">48</ce:inf>W<ce:inf loc="post">1</ce:inf> and (f) Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">47</ce:inf>W<ce:inf loc="post">2</ce:inf> alloys.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">(a) TEM bright-field image of the annealed Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">49</ce:inf>W<ce:inf loc="post">1</ce:inf> alloy, (b) SADP of (a) with [1<ce:hsp sp="0.25"></ce:hsp>0<ce:hsp sp="0.25"></ce:hsp>0]<ce:inf loc="post">M</ce:inf> zone axis, (c) SADP of (a) with [0<ce:hsp sp="0.25"></ce:hsp>1<ce:hsp sp="0.25"></ce:hsp>0]<ce:inf loc="post">M</ce:inf> zone axis, (d) SADP of (a) with [0<ce:hsp sp="0.25"></ce:hsp>0<ce:hsp sp="0.25"></ce:hsp>1]<ce:inf loc="post">M</ce:inf> zone axis.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">DSC curves for as-annealed Ti<ce:inf loc="post">49</ce:inf>Ni<ce:inf loc="post">50</ce:inf>W<ce:inf loc="post">1</ce:inf>, Ti<ce:inf loc="post">48</ce:inf>Ni<ce:inf loc="post">50</ce:inf>W<ce:inf loc="post">2</ce:inf>, Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">49</ce:inf>W<ce:inf loc="post">1</ce:inf>, Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">48</ce:inf>W<ce:inf loc="post">2</ce:inf>, Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">48</ce:inf>W<ce:inf loc="post">1</ce:inf> and Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">47</ce:inf>W<ce:inf loc="post">2</ce:inf> alloys on cooling and heating. M* and A* are the peak temperatures of forward and reverse martensitic transformation, respectively; and R* is a peak temperature for premartensitic transformation.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Transformation temperatures of M*, R*and A* vs. W content for the annealed Ti–Ni–W alloys.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:table colsep="0" frame="topbot" id="tbl1" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Compositional analyses by EPMA of Ti<ce:inf loc="post">50−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>Ni<ce:inf loc="post">50</ce:inf>W<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>, T<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">50−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>W<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic> and Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">49−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>W<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic> alloys with <ce:italic>X</ce:italic> = 1 and 2<ce:hsp sp="0.25"></ce:hsp>at.% homogenized at 950<ce:hsp sp="0.25"></ce:hsp>°C for 72<ce:hsp sp="0.25"></ce:hsp>h</ce:simple-para>
+</ce:caption>
+<tgroup cols="6">
+<colspec colname="1"></colspec>
+<colspec colname="2"></colspec>
+<colspec colname="3"></colspec>
+<colspec colname="4"></colspec>
+<colspec colname="5"></colspec>
+<colspec colname="6"></colspec>
+<thead valign="top">
+<row>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ti (at.%)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ni (at.%)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">W (at.%)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ti/(Ni + W) <bold>
+<italic>r</italic>
+</bold> ratio</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Remark</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" nameend="6" namest="1" xmlns="http://www.elsevier.com/xml/common/dtd">950<hsp sp="0.25"></hsp>°C × 72<hsp sp="0.25"></hsp>h as quenched</entry>
+</row>
+<row>
+<entry align="left" nameend="6" namest="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">49</inf>Ni<inf loc="post">50</inf>W<inf loc="post">1</inf>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">M</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">49.26 ± 0.15</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">50.45 ± 0.18</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.29 ± 0.08</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.971</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Matrix</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">W</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">10.25 ± 1.47</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">3.59 ± 0.72</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">86.16 ± 2.54</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">W-s</entry>
+</row>
+<row>
+<entry align="left" nameend="6" namest="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">48</inf>Ni<inf loc="post">50</inf>W<inf loc="post">2</inf>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">M</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">49.13 ± 0.20</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">50.54 ± 0.20</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.33 ± 0.10</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.966</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Matrix</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">W</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">9.60 ± 1.32</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">3.68 ± 0.64</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">86.72 ± 2.36</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">W-s</entry>
+</row>
+<row>
+<entry align="left" nameend="6" namest="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">50</inf>Ni<inf loc="post">49</inf>W<inf loc="post">1</inf>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">M</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">49.98 ± 0.24</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">49.71 ± 0.20</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.31 ± 0.10</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.999</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Matrix</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">W</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">15.17 ± 1.02</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">3.29 ± 0.57</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">81.54 ± 1.32</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">W-s</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">B</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">66.76 ± 0.25</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">32.94 ± 0.25</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.30 ± 0.07</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.008</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">2</inf>(Ni, W)</entry>
+</row>
+<row>
+<entry align="left" nameend="6" namest="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">50</inf>Ni<inf loc="post">48</inf>W<inf loc="post">2</inf>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">M</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">50.07 ± 0.20</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">49.55 ± 0.26</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.38 ± 0.08</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.003</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Matrix</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">W</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">14.49 ± 1.38</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">3.56 ± 0.53</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">81.95 ± 1.21</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">W-s</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">B</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">67.05 ± 0.20</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">32.68 ± 0.26</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.27 ± 0.07</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.035</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">2</inf>(Ni, W)</entry>
+</row>
+<row>
+<entry align="left" nameend="6" namest="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">51</inf>Ni<inf loc="post">48</inf>W<inf loc="post">1</inf>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">M</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">50.33 ± 0.20</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">49.32 ± 0.20</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.35 ± 0.07</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.013</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Matrix</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">W</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">14.26 ± 1.32</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">3.62 ± 0.45</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">82.12 ± 1.13</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">W-s</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">B</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">66.97 ± 0.28</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">32.71 ± 0.24</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.32 ± 0.06</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.028</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">2</inf>(Ni, W)</entry>
+</row>
+<row>
+<entry align="left" nameend="6" namest="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">51</inf>Ni<inf loc="post">47</inf>W<inf loc="post">2</inf>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">M</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">50.46 ± 0.18</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">49.17 ± 0.18</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.37 ± 0.06</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.019</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Matrix</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">W</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">13.94 ± 1.22</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">3.53 ± 0.48</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">82.53 ± 1.08</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">W-s</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">B</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">67.18 ± 0.20</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">32.53 ± 0.25</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.29 ± 0.07</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.047</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">2</inf>(Ni, W)</entry>
+</row>
+</tbody>
+</tgroup>
+<ce:legend>
+<ce:simple-para view="all">M: matrix; B: black particles; W: white particles (a tungsun-rich solid solution, W-s).</ce:simple-para>
+</ce:legend>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl2" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Significant parameters of the metals species in this study <ce:cross-ref refid="bib21">[21]</ce:cross-ref>
+</ce:simple-para>
+</ce:caption>
+<tgroup cols="5">
+<colspec colname="1"></colspec>
+<colspec colname="2"></colspec>
+<colspec colname="3"></colspec>
+<colspec colname="4"></colspec>
+<colspec colname="5"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Element</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Atomic radius (nm)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Electronegativity</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Valence state</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ionic radius (nm)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" morerows="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+<entry align="left" morerows="1" xmlns="http://www.elsevier.com/xml/common/dtd">0.147</entry>
+<entry align="left" morerows="1" xmlns="http://www.elsevier.com/xml/common/dtd">1.54</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">+2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.076</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">+4</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.064</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ni</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.125</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.91</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">+2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.078</entry>
+</row>
+<row>
+<entry align="left" morerows="1" xmlns="http://www.elsevier.com/xml/common/dtd">W</entry>
+<entry align="left" morerows="1" xmlns="http://www.elsevier.com/xml/common/dtd">0.137</entry>
+<entry align="left" morerows="1" xmlns="http://www.elsevier.com/xml/common/dtd">2.36</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">+4</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.068</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">+6</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.065</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl3" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Peak temperatures and specimen hardnesses, including matrix and second phase particles, for Ti<ce:inf loc="post">50−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>Ni<ce:inf loc="post">50</ce:inf>W<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>, T<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">50−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>W<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic> and Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">49−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>W<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic> alloys with <ce:italic>X</ce:italic> = 1 and 2<ce:hsp sp="0.25"></ce:hsp>at.%</ce:simple-para>
+</ce:caption>
+<tgroup cols="8">
+<colspec colname="1"></colspec>
+<colspec colname="2"></colspec>
+<colspec colname="3"></colspec>
+<colspec colname="4"></colspec>
+<colspec colname="5"></colspec>
+<colspec colname="6"></colspec>
+<colspec colname="7"></colspec>
+<colspec colname="8"></colspec>
+<tbody>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">M* (°C)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ms (°C)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">R* (°C)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">A* (°C)</entry>
+<entry align="left" nameend="8" namest="6" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Vickers hardness (Hv)</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" nameend="7" namest="6" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Matrix</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Particles</entry>
+</row>
+<row>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">27<hsp sp="0.25"></hsp>°C</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">92<hsp sp="0.25"></hsp>°C</entry>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">49</inf>Ni<inf loc="post">50</inf>W<inf loc="post">1</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">−38</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">−28</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">−17</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">−2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">263</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">273</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">295</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">48</inf>Ni<inf loc="post">50</inf>W<inf loc="post">2</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">−55</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">−37</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">−36</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">−16</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">272</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">280</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">298</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">50</inf>Ni<inf loc="post">49</inf>W<inf loc="post">1</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">57</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">63</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">−</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">90</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">214</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">265</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">50</inf>Ni<inf loc="post">48</inf>W<inf loc="post">2</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">51</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">55</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">−</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">80</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">223</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">269</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">51</inf>Ni<inf loc="post">48</inf>W<inf loc="post">1</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">41</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">50</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">48</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">74</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">235</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">256</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">274</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">51</inf>Ni<inf loc="post">47</inf>W<inf loc="post">2</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">31</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">43</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">39</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">64</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">242</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">262</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">281</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl4" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">The measured shape recovery, <ce:italic>R</ce:italic>
+<ce:inf loc="post">SME</ce:inf>, at different bending strain, <ce:italic>ɛ</ce:italic>
+<ce:inf loc="post">s</ce:inf>, and the volume fraction of second phase particles for Ti–Ni–W specimens</ce:simple-para>
+</ce:caption>
+<tgroup cols="4">
+<colspec colname="1"></colspec>
+<colspec colname="2"></colspec>
+<colspec colname="3"></colspec>
+<colspec colname="4"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">TiNiW alloys</entry>
+<entry align="left" nameend="3" namest="2" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Shape recovery, <italic>R</italic>
+<inf loc="post">SME</inf> (%)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Second phase (vol.%)</entry>
+</row>
+<row>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>ɛ<inf loc="post">s</inf>
+</italic> = 4%</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>ɛ<inf loc="post">s</inf>
+</italic> = 8%</entry>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">51</inf>Ni<inf loc="post">48</inf>W<inf loc="post">1</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">91.1</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">85.9</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">12</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">51</inf>Ni<inf loc="post">47</inf>W<inf loc="post">2</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">92.1</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">87.2</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">13</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">49</inf>Ni<inf loc="post">50</inf>W<inf loc="post">1</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">100</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">97.5</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">3</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">48</inf>Ni<inf loc="post">50</inf>W<inf loc="post">2</inf>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">100</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">98.6</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">6</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+</ce:floats>
+<ce:title>Transformation sequence and second phases in ternary Ti–Ni–W shape memory alloys with less than 2 at.% W</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>S.F.</ce:given-name>
+<ce:surname>Hsieh</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>S.K.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="cor1">*</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>H.C.</ce:given-name>
+<ce:surname>Lin</ce:surname>
+<ce:cross-ref refid="aff3">
+<ce:sup loc="post">c</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>C.H.</ce:given-name>
+<ce:surname>Yang</ce:surname>
+<ce:cross-ref refid="aff3">
+<ce:sup loc="post">c</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation id="aff1">
+<ce:label>a</ce:label>
+<ce:textfn>Department of Mold and Die Engineering, National Kaohsiung University of Applied Science, Kaohsiung, Taiwan 807, Republic of China</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff2">
+<ce:label>b</ce:label>
+<ce:textfn>Department of Materials Science and Engineering, National Taiwan University, Taipei, Taiwan 106, Republic of China</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff3">
+<ce:label>c</ce:label>
+<ce:textfn>Department of Materials Science, Feng Chia University, Taichung, Taiwan, Republic of China</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>*</ce:label>
+<ce:text>Corresponding author. Tel.: +886-2-23637846; fax: +886-2-23634562.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="10" month="5" year="2004"></ce:date-received>
+<ce:date-revised day="2" month="6" year="2004"></ce:date-revised>
+<ce:date-accepted day="2" month="6" year="2004"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">Transformation sequence and second phases in Ti<ce:inf loc="post">50−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>Ni<ce:inf loc="post">50</ce:inf>W<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>, Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">50−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>W<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic> and Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">49−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>W<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic> alloys with <ce:italic>X</ce:italic> = 1–2<ce:hsp sp="0.25"></ce:hsp>at.% are investigated. Two different second-phase particles located at grain boundaries are observed. The lattice parameters of Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">49</ce:inf>W<ce:inf loc="post">1</ce:inf> martensite are calculated from the selected area diffraction patterns (SADP) and all of them are larger than those of Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">50</ce:inf> alloy. Experimental results indicate that the W atoms replace Ni atoms, instead of Ti ones in these alloys. In addition, Ti<ce:inf loc="post">50−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>Ni<ce:inf loc="post">50</ce:inf>W<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic> and Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">49−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>W<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic> alloys have a two-stage B2 → R → B19′ transformation, but the Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">50−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>W<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic> alloy has a one-stage B2 → B19′ transformation because the former Ms temperatures are depressed significantly. The shape recovery of these alloys can be improved by the W solid-solution hardening. With higher matrix hardness in these alloys, there is better shape recovery.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Ti–Ni–W shape memory alloys</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Transformation sequence</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Second phases</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Shape recovery</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Lattice parameters</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">TiNi alloys are known as the most important shape memory alloys (SMAs) because of their superior properties in shape memory effect (SME) and pseudoelasticity (PE). This comes from the fact that TiNi alloys have very good ductility, strength, fatigue and corrosion resistance, recoverable strain, etc. It has been confirmed that TiNi SMA properties can be affected by various thermal-mechanical treatments, such as thermal cycling <ce:cross-ref refid="bib1">[1]</ce:cross-ref>, aging treatment in Ni-rich alloys <ce:cross-refs refid="bib2 bib3">[2,3]</ce:cross-refs> and cold rolling <ce:cross-ref refid="bib4">[4]</ce:cross-ref>. Furthermore, the addition of a third element to replace Ni and/or Ti has a substantial effect on phase transformation behavior in TiNi alloys. The starting temperature of the martensitic transformation, Ms, of TiNi alloys decreases following the substitution of Ni with V, Mn, Fe or Co <ce:cross-refs refid="bib5 bib6 bib7">[5–7]</ce:cross-refs>, but increases remarkably following the substitution of Ni with Au, Pd and Pt in amounts not less than 15–20<ce:hsp sp="0.25"></ce:hsp>at.% <ce:cross-refs refid="bib8 bib9 bib10">[8–10]</ce:cross-refs>. The two-stage martensitic transformation appears for some TiNiX ternary alloys, for example, B2 → R → B19′ for Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">47</ce:inf>Fe<ce:inf loc="post">3</ce:inf> alloy <ce:cross-ref refid="bib7">[7]</ce:cross-ref>, but B2 → B19 → B19′ for Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">40</ce:inf>Cu<ce:inf loc="post">10</ce:inf> alloy <ce:cross-refs refid="bib11 bib12">[11,12]</ce:cross-refs>. Here, B2 is the parent austenite, B19′ is the monoclinic martensite, R and B19 are the rhombohedral and orthorhombic premartensite, respectively. On the other hand, the addition of Nb in TiNi alloy can widen the transformation hysteresis to above 130<ce:hsp sp="0.25"></ce:hsp>°C and hence, extend the applications of coupling and sealing <ce:cross-ref refid="bib13">[13]</ce:cross-ref>.</ce:para>
+<ce:para view="all">It is well known that a small deviation from stoichiometry in TiNi SMAs can give rise to significant precipitation of second phases <ce:cross-refs refid="bib14 bib15">[14,15]</ce:cross-refs>. This in turn affects both the alloy’s strength and its shape memory effect. To our knowledge, the transformation behaviors and precipitated second phases of Ti–Ni–W ternary alloys with small amounts of W have been seldom reported <ce:cross-ref refid="bib16">[16]</ce:cross-ref>. The purpose of the present paper is to investigate the effect of substituted W on martensitic transformation sequence and precipitated second phases of Ti<ce:inf loc="post">50−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>Ni<ce:inf loc="post">50</ce:inf>W<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>, Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">50−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>W<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic> and Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">49−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>W<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic> alloys with <ce:italic>X</ce:italic> = 1–2<ce:hsp sp="0.25"></ce:hsp>at.%. The shape memory effect of these alloys is also briefly discussed.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental procedure</ce:section-title>
+<ce:para view="all">The conventional tungsten arc melting technique was employed to prepare Ti<ce:inf loc="post">50−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>Ni<ce:inf loc="post">50</ce:inf>W<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>, Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">50−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>W<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic> and Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">49−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>W<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic> alloys with <ce:italic>X</ce:italic> = 1–2<ce:hsp sp="0.25"></ce:hsp>at.%, i.e. Ti<ce:inf loc="post">49</ce:inf>Ni<ce:inf loc="post">50</ce:inf>W<ce:inf loc="post">1</ce:inf>, Ti<ce:inf loc="post">48</ce:inf>Ni<ce:inf loc="post">50</ce:inf>W<ce:inf loc="post">2</ce:inf>, Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">49</ce:inf>W<ce:inf loc="post">1</ce:inf>, Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">48</ce:inf>W<ce:inf loc="post">2</ce:inf>, Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">48</ce:inf>W<ce:inf loc="post">1</ce:inf> and Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">47</ce:inf>W<ce:inf loc="post">2</ce:inf> alloys (in atomic percent). In order to effectively introduce W into TiNi, a mother alloy of Ni 10<ce:hsp sp="0.25"></ce:hsp>wt.%W was prepared. Titanium (purity 99.7<ce:hsp sp="0.25"></ce:hsp>wt.%), nickel (purity 99.9<ce:hsp sp="0.25"></ce:hsp>wt.%) and tungsten in the mother alloy, totalling about 120<ce:hsp sp="0.25"></ce:hsp>g, were melted and remelted at least six times in an argon atmosphere. A pure titanium button was also melted and used as a getter. The as-melted buttons were homogenized at 950<ce:hsp sp="0.25"></ce:hsp>°C for 72<ce:hsp sp="0.25"></ce:hsp>h and then quenched in water. The buttons were cut into several plates with a low speed diamond saw, sealed in evacuated quartz tubes, annealed at 900<ce:hsp sp="0.25"></ce:hsp>°C × 2<ce:hsp sp="0.25"></ce:hsp>h and quenched in water. DSC measurements were made with a Dupont 2000 thermal analyzer equipped with a quantitative scanning system 910 DSC cell for controlled heating and cooling runs on sample encapsulated in an aluminum pan. The running temperature range was from −150<ce:hsp sp="0.25"></ce:hsp>°C to 250<ce:hsp sp="0.25"></ce:hsp>°C with a heating and cooling rate of 10<ce:hsp sp="0.25"></ce:hsp>°C/min. A quantitative analysis of the alloys, composition was performed by using a JOEL JXA-8900R electron probe microanalyzer (EPMA) equipped with a wavelength dispersive X-ray spectrometer (WDS) analysis system. The operating voltage of EPMA was 20<ce:hsp sp="0.25"></ce:hsp>kV and the software for quantification was the XM-97312 quantitative analysis program. The shape memory effect was examined by a bending test, as illustrated in a previous paper <ce:cross-ref refid="bib17">[17]</ce:cross-ref>. Microstructure observations were made by transmission electron microscopy (TEM) with a PHILIPS-CM200 microscope equipped with a conventional double-tilting stage. The TEM specimens were prepared by electropolishing at −10<ce:hsp sp="0.25"></ce:hsp>°C with an electrolyte consisting of 20% H<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> and 80% CH<ce:inf loc="post">3</ce:inf>OH by volume. The applied voltage for electropolishing was 20<ce:hsp sp="0.25"></ce:hsp>V.</ce:para>
+</ce:section>
+<ce:section id="sec1" view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:section view="all">
+<ce:label>3.1</ce:label>
+<ce:section-title>Second phases and martensite in Ti–Ni–W alloys</ce:section-title>
+<ce:para view="all">
+<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor>a–f show the EPMA back-scattering electron images (BEIs) of homogenized Ti<ce:inf loc="post">49</ce:inf>Ni<ce:inf loc="post">50</ce:inf>W<ce:inf loc="post">1</ce:inf>, Ti<ce:inf loc="post">48</ce:inf>Ni<ce:inf loc="post">50</ce:inf>W<ce:inf loc="post">2</ce:inf>, Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">49</ce:inf>W<ce:inf loc="post">1</ce:inf>, Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">48</ce:inf>W<ce:inf loc="post">2</ce:inf>, Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">48</ce:inf>W<ce:inf loc="post">1</ce:inf> and Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">47</ce:inf>W<ce:inf loc="post">2</ce:inf> alloys, respectively. There are three different contrast areas that can be observed in Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">49</ce:inf>W<ce:inf loc="post">1</ce:inf>, Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">48</ce:inf>W<ce:inf loc="post">2</ce:inf>, Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">48</ce:inf>W<ce:inf loc="post">1</ce:inf> and Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">47</ce:inf>W<ce:inf loc="post">2</ce:inf> alloys, including the gray matrix, the black particles and the white particles, as shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>c–f. Only gray matrix and white particles located around grain boundaries appear in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>a and b of Ti<ce:inf loc="post">49</ce:inf>Ni<ce:inf loc="post">50</ce:inf>W<ce:inf loc="post">1</ce:inf> and Ti<ce:inf loc="post">48</ce:inf>Ni<ce:inf loc="post">50</ce:inf>W<ce:inf loc="post">2</ce:inf> alloys, respectively. Chemical compositions of the matrix and second-phase particles determined by EPMA are given in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+<ce:float-anchor refid="tbl1"></ce:float-anchor>. The data shown in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref> are the averages taken of at least five tests for each area. The atomic ratios <ce:bold>
+<ce:italic>r</ce:italic>
+</ce:bold> = Ti/(Ni + W) for the matrix and black particles are also calculated in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>. Based on the 1227<ce:hsp sp="0.25"></ce:hsp>°C Ti–Ni–W ternary phase diagram <ce:cross-ref refid="bib18">[18]</ce:cross-ref> and backscattering electron characteristics of EPMA image, <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref> indicates that all the matrix in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref> is TiNi SMA containing a little W in solid solution. The amount of W atoms in the solid solution of the TiNi matrix increases slightly with an increase in the W content in Ti–Ni–W SMAs. The black particles are the Ti<ce:inf loc="post">2</ce:inf>(Ni, W) phase in Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">50−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>W<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>, Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">50−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>W<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic> alloys with <ce:italic>X</ce:italic> = 1 and 2<ce:hsp sp="0.25"></ce:hsp>at.%. All the white particles in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref> are the W-rich solid solution (W-s), in which large amounts of Ti and Ni can be accommodated. According to the <ce:bold>
+<ce:italic>r</ce:italic>
+</ce:bold> ratios of the matrix and black particles shown in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>, the W atoms in Ti–Ni–W SMAs are proposed to substitute into Ni atomic sites, instead of Ti sites. This characteristic is discussed further below.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor>a shows the TEM bright field image of martensite in an as-annealed Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">49</ce:inf>W<ce:inf loc="post">1</ce:inf> alloy. <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>b–d are the selected area diffraction patterns (SADPs) of this alloy, in which the foil is parallel to the [1<ce:hsp sp="0.25"></ce:hsp>0<ce:hsp sp="0.25"></ce:hsp>0]<ce:inf loc="post">M</ce:inf>, [0<ce:hsp sp="0.25"></ce:hsp>1<ce:hsp sp="0.25"></ce:hsp>0]<ce:inf loc="post">M</ce:inf> and [0<ce:hsp sp="0.25"></ce:hsp>0<ce:hsp sp="0.25"></ce:hsp>1]<ce:inf loc="post">M</ce:inf> direction, respectively. From the SADPs of <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>b–c, the lattice parameters of martensite in Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">49</ce:inf>W<ce:inf loc="post">1</ce:inf> alloy can be calculated as a monoclinic structure with <ce:italic>a</ce:italic> = 0.301<ce:hsp sp="0.25"></ce:hsp>nm, <ce:italic>b</ce:italic> = 0.423<ce:hsp sp="0.25"></ce:hsp>nm, <ce:italic>c</ce:italic> = 0.472<ce:hsp sp="0.25"></ce:hsp>nm and <ce:italic>β</ce:italic> = 97.5°. These parameters are all larger than those of the binary Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">50</ce:inf> alloy (<ce:italic>a</ce:italic> = 0.2889<ce:hsp sp="0.25"></ce:hsp>nm, <ce:italic>b</ce:italic> = 0.4120<ce:hsp sp="0.25"></ce:hsp>nm, <ce:italic>c</ce:italic> = 0.4622<ce:hsp sp="0.25"></ce:hsp>nm and <ce:italic>β</ce:italic> = 96.8° <ce:cross-ref refid="bib19">[19]</ce:cross-ref>). Bricknell et al. <ce:cross-ref refid="bib20">[20]</ce:cross-ref> reported that the factors affecting the crystal structure stability and the Ms transformation temperature in Ti–Ni–Cu SMAs are atomic size, relative ionic size, electronegativity and density of state at the Fermi level. The same phenomena may occur in Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">49</ce:inf>W<ce:inf loc="post">1</ce:inf> alloy. <ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>
+<ce:float-anchor refid="tbl2"></ce:float-anchor> shows the values of the relevant parameters for the three elements involved in this study <ce:cross-ref refid="bib21">[21]</ce:cross-ref>. In <ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>, W is larger than Ni but less than Ti in atomic size. W has also the electronegativity which is higher than Ni but is much higher than Ti. From the viewpoint of comparable electronegativity, W atoms in Ti–Ni–W SMAs should replace Ni atomic sites, instead of Ti ones. This characteristic is further confirmed by the fact that the lattice parameters of martensite in Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">49</ce:inf>W<ce:inf loc="post">1</ce:inf> alloy of <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref> are all larger than those in equiatomic TiNi alloy because the smaller Ni atoms are replaced by the larger W ones in this alloy.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.2</ce:label>
+<ce:section-title>Transformation sequence in Ti–Ni–W alloys</ce:section-title>
+<ce:para view="all">
+<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor>a–l show the experimental results of DSC measurements for the annealed Ti<ce:inf loc="post">49</ce:inf>Ni<ce:inf loc="post">50</ce:inf>W<ce:inf loc="post">1</ce:inf>, Ti<ce:inf loc="post">48</ce:inf>Ni<ce:inf loc="post">50</ce:inf>W<ce:inf loc="post">2</ce:inf>, Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">49</ce:inf>W<ce:inf loc="post">1</ce:inf>, Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">48</ce:inf>W<ce:inf loc="post">2</ce:inf>, Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">48</ce:inf>W<ce:inf loc="post">1</ce:inf> and Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">47</ce:inf>W<ce:inf loc="post">2</ce:inf> alloys on cooling (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>a–f) and heating (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>g–l) cycles. The peaks M* and A* (including Ms and As temperatures) appearing in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref> are associated with the forward and reverse martensitic transformation, respectively. <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>c, d, i and j for Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">49</ce:inf>W<ce:inf loc="post">1</ce:inf> and Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">48</ce:inf>W<ce:inf loc="post">2</ce:inf> alloys each exhibit a single exothermic and endothermic peak, respectively, on each cooling and heating curve. <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>a, b, e–h, k and l for Ti<ce:inf loc="post">49</ce:inf>Ni<ce:inf loc="post">50</ce:inf>W<ce:inf loc="post">1</ce:inf>, Ti<ce:inf loc="post">48</ce:inf>Ni<ce:inf loc="post">50</ce:inf>W<ce:inf loc="post">2</ce:inf>, Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">48</ce:inf>W<ce:inf loc="post">1</ce:inf> and Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">47</ce:inf>W<ce:inf loc="post">2</ce:inf> alloys, respectively, show double DSC peaks appearing on the cooling curve, but only one DSC peak on the heating curve. The single DSC peak occurring in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>c and d indicates that it is the B2 → B19′ one-stage martensitic transformation. Double DSC peaks appearing in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>a, b, e and f are associated with the B2 → R → B19′ two-stage martensitic transformation. Here R is the rhombohedral premartensite phase. The results of <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref> demonstrate that the transformation sequences of annealed Ti–Ni–W SMAs can be divided into two groups, the one-stage B2 → B19′ transformation appearing in Ti–Ni–W SMAs with the matrix having <ce:bold>
+<ce:italic>r</ce:italic> ≈</ce:bold> 1.0, and the two-stage B2 → R → B19′ transformation with the matrix having <ce:bold>
+<ce:italic>r</ce:italic>
+</ce:bold> &gt; 1.0 or <ce:bold>
+<ce:italic>r</ce:italic>
+</ce:bold> &lt; 1.0. Here <ce:bold>
+<ce:italic>r</ce:italic>
+</ce:bold> is the atomic ratio of Ti/(Ni + W), as defined in Section <ce:cross-ref refid="sec1">3</ce:cross-ref>.1. The former group includes Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">49</ce:inf>W<ce:inf loc="post">1</ce:inf> and Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">48</ce:inf>W<ce:inf loc="post">2</ce:inf> alloys, which can be regarded as the equivalent of Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">50</ce:inf> SMA since W atoms occupy Ni atomic sites in these alloys. From the same viewpoint, the latter group includes the Ti-rich Ti–Ni–W SMAs (Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">48</ce:inf>W<ce:inf loc="post">1</ce:inf> and Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">47</ce:inf>W<ce:inf loc="post">2</ce:inf> alloys) and Ni-rich ones (Ti<ce:inf loc="post">49</ce:inf>Ni<ce:inf loc="post">50</ce:inf>W<ce:inf loc="post">1</ce:inf> and Ti<ce:inf loc="post">48</ce:inf>Ni<ce:inf loc="post">50</ce:inf>W<ce:inf loc="post">2</ce:inf> alloys).</ce:para>
+<ce:para view="all">From <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>, all DSC results of M*(Ms), R* and A* temperatures are listed in <ce:cross-ref refid="tbl3">Table 3</ce:cross-ref>
+<ce:float-anchor refid="tbl3"></ce:float-anchor>. Specimen hardnesses, Hv, including the matrix and second phase particles, are also shown in <ce:cross-ref refid="tbl3">Table 3</ce:cross-ref>. From <ce:cross-ref refid="tbl3">Table 3</ce:cross-ref>, transformation peak temperatures M*, R* and A* versus W content (at.%) in Ti–Ni–W SMAs are plotted in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor>. From <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>, it is clear that the peak temperatures A*, R* and M* decrease with increasing amounts of W in Ti-rich and Ni-rich Ti–Ni–W SMAs, but not in Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">50−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>W<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic> alloys (the equivalent Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">50</ce:inf> SMA). At the same time, the Ms temperature can be further depressed to induce the R phase by using small amounts of W in Ni-rich Ti–Ni–W SMAs, rather than in Ti-rich ones. <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref> and <ce:cross-ref refid="tbl3">Table 3</ce:cross-ref> also show that transformation temperatures decrease, but the hardness increases, with increasing amounts of W in Ti-rich Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">49−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>W<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic> alloys and Ni-rich Ti<ce:inf loc="post">50−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>Ni<ce:inf loc="post">50</ce:inf>W<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic> alloys. This phenomenon also occurs in Ti-rich Ti<ce:inf loc="post">52</ce:inf>Ni<ce:inf loc="post">47</ce:inf>Al<ce:inf loc="post">1</ce:inf> alloy <ce:cross-ref refid="bib22">[22]</ce:cross-ref>, and can be ascribed to W solid-solution hardening. It is pointed out that any strengthening mechanism which can impede the transformation shear can lower the Ms(M*) transformation temperature because the martensite transformation involves a shear process <ce:cross-refs refid="bib23 bib24 bib25">[23–25]</ce:cross-refs>. Moreover, martensitic transformation can be retarded by the fine hard dispersed particles, which may result in transformation temperatures being much more depressed.</ce:para>
+<ce:para view="all">The <ce:bold>
+<ce:italic>r</ce:italic>
+</ce:bold> ratios of the matrix in Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">49</ce:inf>W<ce:inf loc="post">1</ce:inf> and Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">48</ce:inf>W<ce:inf loc="post">2</ce:inf> alloys are near 1.0, and their peak temperatures are almost the same as those of the equiatomic Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">50</ce:inf> alloy <ce:cross-ref refid="bib4">[4]</ce:cross-ref>. A similar result can also be found in a reported Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">49.5</ce:inf>W<ce:inf loc="post">0.5</ce:inf> alloy (As = 97<ce:hsp sp="0.25"></ce:hsp>°C, <ce:italic>A</ce:italic>
+<ce:inf loc="post">f</ce:inf> = 107<ce:hsp sp="0.25"></ce:hsp>°C, Ms = 65<ce:hsp sp="0.25"></ce:hsp>°C and <ce:italic>M</ce:italic>
+<ce:inf loc="post">f</ce:inf> = 33<ce:hsp sp="0.25"></ce:hsp>°C) <ce:cross-ref refid="bib16">[16]</ce:cross-ref>. <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>c and d show that there are many second phase particles around grain boundaries in Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">49</ce:inf>W<ce:inf loc="post">1</ce:inf> and Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">48</ce:inf>W<ce:inf loc="post">2</ce:inf> alloys. It is well known that M*(Ms) temperatures can be depressed due to the introduction of oxygen in the matrix of TiNi alloys <ce:cross-ref refid="bib26">[26]</ce:cross-ref>. But these oxygen atoms can be easily absorbed by the Ti<ce:inf loc="post">2</ce:inf>Ni phase to form the Ti<ce:inf loc="post">4</ce:inf>Ni<ce:inf loc="post">2</ce:inf>O oxide <ce:cross-refs refid="bib15 bib27">[15,27]</ce:cross-refs>. In Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">49</ce:inf>W<ce:inf loc="post">1</ce:inf> and Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">48</ce:inf>W<ce:inf loc="post">2</ce:inf> alloys, the oxygen atoms in the matrix can be absorbed by the Ti<ce:inf loc="post">2</ce:inf>(Ni, W) particles, and hence the oxygen content in the matrix can be reduced. This feature will contribute to raise transformation temperatures. However, the W dissolved in the TiNi matrix increases the hardness, which in turn depresses the transformation temperatures. These two compensation effects make that the transformation temperatures of Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">49</ce:inf>W<ce:inf loc="post">1</ce:inf> and Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">48</ce:inf>W<ce:inf loc="post">2</ce:inf> alloys are quite similar to those of Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">50</ce:inf> SMA.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.3</ce:label>
+<ce:section-title>Shape recovery on Ti–Ni–W alloys</ce:section-title>
+<ce:para view="all">The shape recovery was measured by bending tests. For this, the specimen is deformed in liquid nitrogen (−196<ce:hsp sp="0.25"></ce:hsp>°C) for Ti<ce:inf loc="post">49</ce:inf>Ni<ce:inf loc="post">50</ce:inf>W<ce:inf loc="post">1</ce:inf>, Ti<ce:inf loc="post">48</ce:inf>Ni<ce:inf loc="post">50</ce:inf>W<ce:inf loc="post">2</ce:inf>, Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">48</ce:inf>W<ce:inf loc="post">1</ce:inf> and Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">47</ce:inf>W<ce:inf loc="post">2</ce:inf> alloys, respectively, and then is heated above the <ce:italic>A</ce:italic>
+<ce:inf loc="post">f</ce:inf> temperature to complete the reverse martensitic transformation. Both Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">49</ce:inf>W<ce:inf loc="post">1</ce:inf> and Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">48</ce:inf>W<ce:inf loc="post">2</ce:inf> alloys have microstructures similar to Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">48</ce:inf>W<ce:inf loc="post">1</ce:inf> and Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">47</ce:inf>W<ce:inf loc="post">2</ce:inf> alloys, so bending tests are omitted for them. <ce:cross-ref refid="tbl4">Table 4</ce:cross-ref>
+<ce:float-anchor refid="tbl4"></ce:float-anchor> presents the measured shape recovery at different bending strain, <ce:italic>ɛ</ce:italic>
+<ce:inf loc="post">s</ce:inf>, for the aforementioned specimens. The volume fraction of the second phase particles in these specimens is also shown in <ce:cross-ref refid="tbl4">Table 4</ce:cross-ref>. <ce:cross-ref refid="tbl3">Table 3</ce:cross-ref> indicates that the hardness of these particles is greater than that of TiNi matrix. <ce:cross-refs refid="tbl3 tbl4">Tables 3 and 4</ce:cross-refs> show that the shape recovery is a function of the matrix hardness, bending strain and second phase volume. The shape recovery increases with increasing matrix hardness, but decreases with increasing amounts of bending strain and second phase. It is reported that the shape recovery of TiNi alloys can be increased by different strengthening/hardening processes <ce:cross-refs refid="bib17 bib28">[17,28]</ce:cross-refs>. In other words, if the matrix is strengthened, the slip of dislocations is more difficult than the movement of twin boundaries during the application of external stress. Hence, the permanent plastic strain is reduced and the shape recovery is improved. In the present study, the matrix of TiNi alloys can be solid-solution strengthened by the addition of 1–2<ce:hsp sp="0.25"></ce:hsp>at.% W, as shown in <ce:cross-ref refid="tbl3">Table 3</ce:cross-ref>. Hence, the shape recovery is increased. Although the shape recovery is also related to the existence of second phase particles, the effect coming from the volume of second phase particles is much less than that from solid-solution strengthening. For example, as can be seen from <ce:cross-ref refid="tbl4">Table 4</ce:cross-ref>, the volume of second phase particles in Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">47</ce:inf>W<ce:inf loc="post">2</ce:inf> alloy (about 13%) and in Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">48</ce:inf>W<ce:inf loc="post">1</ce:inf> alloy (about 12%) is almost the same as in Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">49</ce:inf> (about 10%) alloy <ce:cross-ref refid="bib15">[15]</ce:cross-ref>, both Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">47</ce:inf>W<ce:inf loc="post">2</ce:inf> (92.1%) and Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">48</ce:inf>W<ce:inf loc="post">1</ce:inf> (91.1%) have better shape recovery than Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">49</ce:inf> (88%) <ce:cross-ref refid="bib15">[15]</ce:cross-ref> since the former two have the harder matrix. Similar results can also be found in annealed Ti<ce:inf loc="post">49</ce:inf>Ni<ce:inf loc="post">50</ce:inf>W<ce:inf loc="post">1</ce:inf> and Ti<ce:inf loc="post">48</ce:inf>Ni<ce:inf loc="post">50</ce:inf>W<ce:inf loc="post">2</ce:inf> alloys. Therefore, in Ti–Ni–W SMAs, a higher solid-solution hardness in the matrix will provide better shape recovery.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusion</ce:section-title>
+<ce:para view="all">In homogenized Ti<ce:inf loc="post">50−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>Ni<ce:inf loc="post">50</ce:inf>W<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>, Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">50−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>W<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic> and Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">49−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>W<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic> SMAs with <ce:italic>X</ce:italic> = 1–2<ce:hsp sp="0.25"></ce:hsp>at.%, a small amount of W can be dissolved in the matrix, forming two different second phase particles, Ti<ce:inf loc="post">2</ce:inf>(Ni, W) and a tungsten-rich solid solution. DSC test results show that the martensitic transformation sequence of annealed Ti<ce:inf loc="post">50−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>Ni<ce:inf loc="post">50</ce:inf>W<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic> and Ti<ce:inf loc="post">51</ce:inf>Ni<ce:inf loc="post">49−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>W<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic> alloys with <ce:italic>X</ce:italic> = 1–2<ce:hsp sp="0.25"></ce:hsp>at.% is two-stage B2 → R → B19′, but that of Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">50−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic>W<ce:italic>
+<ce:inf loc="post">X</ce:inf>
+</ce:italic> with <ce:italic>X</ce:italic> = 1~2<ce:hsp sp="0.25"></ce:hsp>at.% is one-stage B2 → B19′. The transformation peak temperatures of the former-group alloys decrease with increasing W addition, but those of the latter group are almost identical to those of Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">50</ce:inf> alloy. The B19′ martensite structure of Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">49</ce:inf>W<ce:inf loc="post">1</ce:inf> alloy is calculated from the SADPs of TEM as <ce:italic>a</ce:italic> = 0.301<ce:hsp sp="0.25"></ce:hsp>nm, <ce:italic>b</ce:italic> = 0.423<ce:hsp sp="0.25"></ce:hsp>nm, <ce:italic>c</ce:italic> = 0.472<ce:hsp sp="0.25"></ce:hsp>nm and <ce:italic>β</ce:italic> = 97.5° and these parameters are all larger than those of the binary Ti<ce:inf loc="post">50</ce:inf>Ni<ce:inf loc="post">50</ce:inf> alloy. W is larger than Ni but smaller than Ti in atomic size, and is much higher than Ti but not so much higher than Ni in electronegativity. Accordingly, W atoms in Ti–Ni–W SMAs are proposed to replace Ni atoms, instead of Ti ones. EPMA results for the composition of the matrix and second phase particles also confirm this characteristic. The shape recovery of Ti–Ni–W SMAs can be improved by the W solid-solution hardening of the matrix. With higher matrix hardness in Ti–Ni–W alloys, there is better shape recovery.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgements</ce:section-title>
+<ce:para view="all">The authors gratefully acknowledge the financial support of this research by the National Science Council (NSC), Republic of China under Grants NSC 91-2216-E151-009 and NSC 92-2216-E002-008.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>Reference</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Miyazaki</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Igo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Otsuka</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Metall.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>34</sb:volume-nr>
+</sb:series>
+<sb:date>1986</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2045</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.K.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.C.</ce:given-name>
+<ce:surname>Lin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.S.</ce:given-name>
+<ce:surname>Chou</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scripta Metall.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>23</sb:volume-nr>
+</sb:series>
+<sb:date>1989</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2043</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Nishida</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Honma</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scripta Metall.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>18</sb:volume-nr>
+</sb:series>
+<sb:date>1984</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1293</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.C.</ce:given-name>
+<ce:surname>Lin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.K.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.S.</ce:given-name>
+<ce:surname>Chou</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.P.</ce:given-name>
+<ce:surname>Kao</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Metall.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>39</sb:volume-nr>
+</sb:series>
+<sb:date>1991</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2069</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.H.</ce:given-name>
+<ce:surname>Eckelmeyer</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scripta Metall.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>10</sb:volume-nr>
+</sb:series>
+<sb:date>1976</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>667</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Wasilewski</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Perkin</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>Shape Memory Effects in Alloys</sb:maintitle>
+</sb:title>
+<sb:date>1975</sb:date>
+<sb:publisher>
+<sb:name>Plenum</sb:name>
+<sb:location>New York, NY</sb:location>
+</sb:publisher>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>245</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.M.</ce:given-name>
+<ce:surname>Hwang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Meichle</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.B.</ce:given-name>
+<ce:surname>Salamon</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.M.</ce:given-name>
+<ce:surname>Wayman</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Phil. Mag.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>47A</sb:volume-nr>
+</sb:series>
+<sb:date>1983</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>177</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.K.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.M.</ce:given-name>
+<ce:surname>Wayman</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metallography</sb:maintitle>
+</sb:title>
+<sb:volume-nr>20</sb:volume-nr>
+</sb:series>
+<sb:date>1987</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>359</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.C.</ce:given-name>
+<ce:surname>Lo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.K.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.M.</ce:given-name>
+<ce:surname>Wayman</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scripta Metall.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>24</sb:volume-nr>
+</sb:series>
+<sb:date>1990</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1571</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Enami</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Yoshida</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Nenno</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Proc. ICOMAT-86</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1987</sb:date>
+<sb:publisher>
+<sb:name>The Japan Institute of Metals</sb:name>
+<sb:location>Nara, Japan</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.C.</ce:given-name>
+<ce:surname>Lo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.K.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.E.</ce:given-name>
+<ce:surname>Horng</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Metall. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>41</sb:volume-nr>
+</sb:series>
+<sb:date>1993</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>747</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Nam</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Saburi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Kawamura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Shimizu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Trans. JIM</sb:maintitle>
+</sb:title>
+<sb:volume-nr>31</sb:volume-nr>
+</sb:series>
+<sb:date>1990</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>262</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.S.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.C.</ce:given-name>
+<ce:surname>Zhao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.W.</ce:given-name>
+<ce:surname>Duerig</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.M.</ce:given-name>
+<ce:surname>Wayman</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scritpa Metall. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>24</sb:volume-nr>
+</sb:series>
+<sb:date>1990</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1807</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Nishida</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.M.</ce:given-name>
+<ce:surname>Wayman</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Honma</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metall. Trans.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>17A</sb:volume-nr>
+</sb:series>
+<sb:date>1986</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1505</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.C.</ce:given-name>
+<ce:surname>Lin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.K.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.C.</ce:given-name>
+<ce:surname>Lin</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Chem. Phys.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>37</sb:volume-nr>
+</sb:series>
+<sb:date>1994</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>184</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib16">
+<ce:label>[16]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Enami</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Hara</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Maeda</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. de Physique IV</sb:maintitle>
+</sb:title>
+</sb:series>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>C8-629</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib17">
+<ce:label>[17]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.C.</ce:given-name>
+<ce:surname>Lin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.K.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scripta Metall.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>26</sb:volume-nr>
+</sb:series>
+<sb:date>1992</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>59</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib18">
+<ce:label>[18]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Villars</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Prince</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Okamoto</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Handbook of Ternary Alloy Phase Diagram, vol. 10</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1995</sb:date>
+<sb:publisher>
+<sb:name>ASM International</sb:name>
+<sb:location>Pittsburgh, USA</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib19">
+<ce:label>[19]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Otsuka</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Sawamura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Shimizu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Phys. Stat. Sol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>5</sb:volume-nr>
+</sb:series>
+<sb:date>1971</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>457</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib20">
+<ce:label>[20]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.H.</ce:given-name>
+<ce:surname>Bricknell</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.H.</ce:given-name>
+<ce:surname>Melton</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>O.</ce:given-name>
+<ce:surname>Mercier</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metall. Trans.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>10A</sb:volume-nr>
+</sb:series>
+<sb:date>1979</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>693</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib21">
+<ce:label>[21]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.P.</ce:given-name>
+<ce:surname>Schaffer</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Saxena</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.D.</ce:given-name>
+<ce:surname>Antolovich</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.H.</ce:given-name>
+<ce:surname>Sanders</ce:surname>
+<ce:suffix>Jr.</ce:suffix>
+</sb:author>
+<sb:author>
+<ce:given-name>S.B.</ce:given-name>
+<ce:surname>Warner</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The Science and Design of Engineering Materials</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:edition>second ed.</sb:edition>
+<sb:date>1999</sb:date>
+<sb:publisher>
+<sb:name>McGraw-Hill</sb:name>
+<sb:location>New York</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib22">
+<ce:label>[22]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.F.</ce:given-name>
+<ce:surname>Hsieh</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.K.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>34</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1665</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib23">
+<ce:label>[23]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Cohen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.S.</ce:given-name>
+<ce:surname>Machlin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.G.</ce:given-name>
+<ce:surname>Paranjpe</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Thermodynamics in Physical Metallurgy.</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:title>
+<sb:maintitle>American Society for Metals</sb:maintitle>
+</sb:title>
+<sb:conference>Metals Park, OH</sb:conference>
+<sb:date>1950</sb:date>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>242</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib24">
+<ce:label>[24]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Hornbogen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Metall.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>33</sb:volume-nr>
+</sb:series>
+<sb:date>1985</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>595</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib25">
+<ce:label>[25]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Eucken</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Hornbogen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>19</sb:volume-nr>
+</sb:series>
+<sb:date>1984</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1343</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib26">
+<ce:label>[26]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Honma</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Funakubo</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>Shape Memory Alloys</sb:maintitle>
+</sb:title>
+<sb:date>1984</sb:date>
+<sb:publisher>
+<sb:name>Gordon and Breach</sb:name>
+</sb:publisher>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>89</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib27">
+<ce:label>[27]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Nishida</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.M.</ce:given-name>
+<ce:surname>Wayman</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>93</sb:volume-nr>
+</sb:series>
+<sb:date>1987</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>191</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib28">
+<ce:label>[28]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.C.</ce:given-name>
+<ce:surname>Lin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.K.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Metall.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>25</sb:volume-nr>
+</sb:series>
+<sb:date>1991</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1295</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

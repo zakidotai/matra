@@ -1,0 +1,751 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838805019134</prism:url><dc:identifier>doi:10.1016/j.jallcom.2005.12.033</dc:identifier><eid>1-s2.0-S0925838805019134</eid><prism:doi>10.1016/j.jallcom.2005.12.033</prism:doi><pii>S0925-8388(05)01913-4</pii><dc:title>Directly quenched bulk nanocrystalline (Pr, Dy)–(Fe, Co)–B–Zr–Ti hard magnets </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>423</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>99</prism:startingpage><prism:endingpage>101</prism:endingpage><prism:pagerange>99-101</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2006-10-26</prism:coverdate><prism:coverdisplaydate>26 October 2006</prism:coverdisplaydate><prism:copyright>Copyright © 2005 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><prism:issuename>E-MRS 2005, Symposium B, Multi-component Alloys and Intermetallic Compounds for Magnetic Applications and Nanotechnology and E-MRS 2005, Symposium D, Magnetoelectronics</prism:issuename><dc:creator>Pawlik, P.</dc:creator><dc:creator>Pawlik, K.</dc:creator><dc:creator>Davies, H.A.</dc:creator><dc:creator>Kaszuwara, W.</dc:creator><dc:creator>Wysłocki, J.J.</dc:creator><dc:creator>Harrison, N.</dc:creator><dc:creator>Todd, I.</dc:creator><dc:description>
+                  Samples of the Fe60Co13Pr9B14Ti3Zr1 alloy were produced in the form of: (a) ribbons of various thicknesses t by melt-spinning, (b) 1mm diameter rods and (c) thin-walled tubes of outer diameter (o.d.) 3mm, both by suction-casting methods. The microstructure of the thick ribbon samples (with t
+                     &gt;100μm) was shown to be a mixture of amorphous and nanocrystalline phases. Furthermore, the rod and tube samples were nanocrystalline in the as-cast state. Relatively high values of coercivity μ
+                     0J
+                     H
+                     c of ∼0.98 and 1.56T were measured, respectively, for the tube and ribbon samples.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Permanent magnets</dcterms:subject><dcterms:subject>Rapid-solidification</dcterms:subject><dcterms:subject>Magnetic measurements</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838805019134" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838805019134" rel="scidir"/></coredata><objects><object category="standard" height="296" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="57175" type="IMAGE-DOWNSAMPLED" width="473">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019134-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="78" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="2546" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019134-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="407" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="62005" type="IMAGE-DOWNSAMPLED" width="376">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019134-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="2614" type="IMAGE-THUMBNAIL" width="86">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019134-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="255" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="28696" type="IMAGE-DOWNSAMPLED" width="333">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019134-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="2874" type="IMAGE-THUMBNAIL" width="122">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019134-gr3.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>33748881200</scopus-id><scopus-eid>2-s2.0-33748881200</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/33748881200" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20060202">2006-02-02</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20060202">2006-02-02</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-03-29T07:36:02</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838805019134</xocs:eid>
+<xocs:pii-formatted>S0925-8388(05)01913-4</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805019134</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2005.12.033</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838806X0261X</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.349087-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20061026</xocs:date-search-begin>
+<xocs:year-nav>2006</xocs:year-nav>
+<xocs:indexeddate epoch="1138838400">2006-02-02T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confdate confeditor confloc contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings vol vol volfirst volissue webpdf webpdfpagecount figure body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>423</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>423</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 423, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>26</xocs:sort-order>
+<xocs:first-fp>99</xocs:first-fp>
+<xocs:last-lp>101</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>99</xocs:first-page>
+<xocs:last-page>101</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20061026</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>26 October 2006</xocs:cover-date-text>
+<xocs:cover-date-start>2006-10-26</xocs:cover-date-start>
+<xocs:cover-date-year>2006</xocs:cover-date-year>
+<xocs:title-editors-groups>
+<xocs:title-editors-group>
+<ce:title>E-MRS 2005, Symposium B, Multi-component Alloys and Intermetallic Compounds for Magnetic Applications and Nanotechnology and E-MRS 2005, Symposium D, Magnetoelectronics</ce:title>
+<xocs:conference-info>
+<xocs:full-name>The European Materials Research Society (E-MRS) Fall Meeting 2005</xocs:full-name>
+<xocs:venue>Warsaw, Poland</xocs:venue>
+<xocs:conference-date-text>5–9 September 2005</xocs:conference-date-text>
+<xocs:date-range>
+<xocs:start-date>20050905</xocs:start-date>
+<xocs:end-date>20050909</xocs:end-date>
+</xocs:date-range>
+</xocs:conference-info>
+<ce:editors>
+<ce:author-group>
+<ce:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Talik</ce:surname>
+</ce:author>
+</ce:author-group>
+<ce:author-group>
+<ce:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Idzikowski</ce:surname>
+</ce:author>
+</ce:author-group>
+<ce:author-group>
+<ce:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Suski</ce:surname>
+</ce:author>
+</ce:author-group>
+</ce:editors>
+</xocs:title-editors-group>
+</xocs:title-editors-groups>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Contributed papers</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2005 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>DIRECTLYQUENCHEDBULKNANOCRYSTALLINEPRDYFECOBZRTIHARDMAGNETS</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>PAWLIK</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>P</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Sample preparation and experimental methods</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>2059</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>1543</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>8834</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>PAWLIK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>755</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>PAWLIK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>601</xocs:ref-first-fp>
+<xocs:ref-last-lp>608</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>PROCEEDINGS18THINTERNATIONALWORKSHOPHIGHPERFORMANCEMAGNETSAPPLICATIONS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>PAWLIK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>1243</xocs:ref-first-fp>
+<xocs:ref-last-lp>1246</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>HIROSAWA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>655</xocs:ref-first-fp>
+<xocs:ref-last-lp>666</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>PROCEEDINGS18THINTERNATIONALWORKSHOPHIGHPERFORMANCEMAGNETSAPPLICATIONS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>PAWLIKX2006X99</xocs:refkey3>
+<xocs:refkey4lp>PAWLIKX2006X99X101</xocs:refkey4lp>
+<xocs:refkey4ai>PAWLIKX2006X99XP</xocs:refkey4ai>
+<xocs:refkey5>PAWLIKX2006X99X101XP</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(05)01913-4</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805019134</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838805019134</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2005.12.033</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-08T03:51:03.413475-04:00</xocs:timestamp>
+<xocs:cover-date-start>2006-10-26</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838805019134-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019134/MAIN/application/pdf/84f7418917688dacbcb972fcdd02ff05/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019134/MAIN/application/pdf/84f7418917688dacbcb972fcdd02ff05/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>236050</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>3</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838805019134-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019134/PREVIEW/image/png/44937aaecb1ae271adaf32d78a97e591/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019134/PREVIEW/image/png/44937aaecb1ae271adaf32d78a97e591/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>69061</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019134-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019134/gr2/DOWNSAMPLED/image/jpeg/a49b4b8e6fbbbb0d45e2db9a7ea64a9f/gr2.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019134/gr2/DOWNSAMPLED/image/jpeg/a49b4b8e6fbbbb0d45e2db9a7ea64a9f/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>57175</xocs:filesize>
+<xocs:pixel-height>296</xocs:pixel-height>
+<xocs:pixel-width>473</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019134-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019134/gr2/THUMBNAIL/image/gif/d349c2fa52faab8dceb719dc94788681/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019134/gr2/THUMBNAIL/image/gif/d349c2fa52faab8dceb719dc94788681/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2546</xocs:filesize>
+<xocs:pixel-height>78</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019134-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019134/gr1/DOWNSAMPLED/image/jpeg/5ad727941b5de3e37ea0e5421fd59fe5/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019134/gr1/DOWNSAMPLED/image/jpeg/5ad727941b5de3e37ea0e5421fd59fe5/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>62005</xocs:filesize>
+<xocs:pixel-height>407</xocs:pixel-height>
+<xocs:pixel-width>376</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019134-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019134/gr1/THUMBNAIL/image/gif/a151bdbc90cc9fa1ae6d963ac3d9c069/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019134/gr1/THUMBNAIL/image/gif/a151bdbc90cc9fa1ae6d963ac3d9c069/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2614</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>86</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019134-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019134/gr3/DOWNSAMPLED/image/jpeg/ab48f7ae3f9a2c985c1ed24fc14f99bf/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019134/gr3/DOWNSAMPLED/image/jpeg/ab48f7ae3f9a2c985c1ed24fc14f99bf/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>28696</xocs:filesize>
+<xocs:pixel-height>255</xocs:pixel-height>
+<xocs:pixel-width>333</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019134-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019134/gr3/THUMBNAIL/image/gif/7b66c8c99e6cc24b1d28383b367b39e7/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019134/gr3/THUMBNAIL/image/gif/7b66c8c99e6cc24b1d28383b367b39e7/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2874</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>122</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>13491</aid>
+<ce:pii>S0925-8388(05)01913-4</ce:pii>
+<ce:doi>10.1016/j.jallcom.2005.12.033</ce:doi>
+<ce:copyright type="full-transfer" year="2005">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">X-ray diffraction patterns for the as-cast Fe<ce:inf loc="post">60</ce:inf>Co<ce:inf loc="post">13</ce:inf>Pr<ce:inf loc="post">9</ce:inf>B<ce:inf loc="post">14</ce:inf>Ti<ce:inf loc="post">3</ce:inf>Zr<ce:inf loc="post">1</ce:inf> alloy: (a) <ce:italic>t</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>100–140<ce:hsp sp="0.25"></ce:hsp>μm thick ribbon; (b) 1<ce:hsp sp="0.25"></ce:hsp>mm diameter rods and 3<ce:hsp sp="0.25"></ce:hsp>mm o.d. thin-walled tubes.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">TEM photograph (a) and corresponding electron diffraction pattern (b) for as-cast 3<ce:hsp sp="0.25"></ce:hsp>mm o.d. tube of the Fe<ce:inf loc="post">60</ce:inf>Co<ce:inf loc="post">13</ce:inf>Pr<ce:inf loc="post">9</ce:inf>B<ce:inf loc="post">14</ce:inf>Ti<ce:inf loc="post">3</ce:inf>Zr<ce:inf loc="post">1</ce:inf> alloy. In the photograph, agglomerates of nanocrystals &lt;10<ce:hsp sp="0.25"></ce:hsp>nm diameter are marked as (A), and large crystallites ∼250<ce:hsp sp="0.25"></ce:hsp>nm diameter as (B).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">The hysteresis loops measured for the as-cast 3<ce:hsp sp="0.25"></ce:hsp>mm o.d. thin-walled tube, and 140<ce:hsp sp="0.25"></ce:hsp>μm thick ribbon samples of the Fe<ce:inf loc="post">60</ce:inf>Co<ce:inf loc="post">13</ce:inf>Pr<ce:inf loc="post">9</ce:inf>B<ce:inf loc="post">14</ce:inf>Ti<ce:inf loc="post">3</ce:inf>Zr<ce:inf loc="post">1</ce:inf> alloy.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+</ce:floats>
+<ce:title>Directly quenched bulk nanocrystalline (Pr, Dy)–(Fe, Co)–B–Zr–Ti hard magnets</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Pawlik</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="cor1">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Pawlik</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>H.A.</ce:given-name>
+<ce:surname>Davies</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Kaszuwara</ce:surname>
+<ce:cross-ref refid="aff3">
+<ce:sup loc="post">c</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>J.J.</ce:given-name>
+<ce:surname>Wysłocki</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Harrison</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Todd</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation id="aff1">
+<ce:label>a</ce:label>
+<ce:textfn>Institute of Physics, Częstochowa University of Technology, Al. Armii Krajowej 19, 42-200 Częstochowa, Poland</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff2">
+<ce:label>b</ce:label>
+<ce:textfn>Department of Engineering Materials, Center for Advanced Magnetic Materials and Devices, The University of Sheffield, Sheffield S1 3JD, UK</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff3">
+<ce:label>c</ce:label>
+<ce:textfn>Department of Engineering Materials, Nanocenter, Warsaw University of Technology, ul. Wołoska, 141 Warsaw, Poland</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>⁎</ce:label>
+<ce:text>Corresponding author. Tel.: +48 34 32 50 795; fax: +48 34 32 50 795.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">Samples of the Fe<ce:inf loc="post">60</ce:inf>Co<ce:inf loc="post">13</ce:inf>Pr<ce:inf loc="post">9</ce:inf>B<ce:inf loc="post">14</ce:inf>Ti<ce:inf loc="post">3</ce:inf>Zr<ce:inf loc="post">1</ce:inf> alloy were produced in the form of: (a) ribbons of various thicknesses <ce:italic>t</ce:italic> by melt-spinning, (b) 1<ce:hsp sp="0.25"></ce:hsp>mm diameter rods and (c) thin-walled tubes of outer diameter (o.d.) 3<ce:hsp sp="0.25"></ce:hsp>mm, both by suction-casting methods. The microstructure of the thick ribbon samples (with <ce:italic>t</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>&gt;<ce:hsp sp="0.25"></ce:hsp>100<ce:hsp sp="0.25"></ce:hsp>μm) was shown to be a mixture of amorphous and nanocrystalline phases. Furthermore, the rod and tube samples were nanocrystalline in the as-cast state. Relatively high values of coercivity <ce:italic>μ</ce:italic>
+<ce:inf loc="post">0J</ce:inf>
+<ce:italic>H</ce:italic>
+<ce:inf loc="post">c</ce:inf> of ∼0.98 and 1.56<ce:hsp sp="0.25"></ce:hsp>T were measured, respectively, for the tube and ribbon samples.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Permanent magnets</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Rapid-solidification</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Magnetic measurements</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">A new group of Fe–Co–RE–B-type (RE<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>Nd, Pr, Dy) bulk alloy glasses are of considerable interest due to the possibility of processing nanocomposite magnets by subsequent annealing <ce:cross-refs refid="bib1 bib2 bib3">[1–3]</ce:cross-refs>. It was demonstrated experimentally that the addition of 1<ce:hsp sp="0.25"></ce:hsp>at.% of Zr to the (Fe, Co)<ce:inf loc="post">73.5</ce:inf>(Pr, Dy)<ce:inf loc="post">4.5</ce:inf>Zr<ce:inf loc="post">1</ce:inf>B<ce:inf loc="post">20</ce:inf>-type alloys led to a significant improvement of glass forming ability (GFA) of the alloys, so that it was possible to process 1<ce:hsp sp="0.25"></ce:hsp>mm diameter, fully amorphous samples by radial cooling <ce:cross-ref refid="bib4">[4]</ce:cross-ref>. Annealing of the samples resulted in a formation of nanocrystalline structure, consisting of the hard magnetic (Pr, Dy)<ce:inf loc="post">2</ce:inf>(Fe, Co)<ce:inf loc="post">14</ce:inf>B phase, and soft magnetic (Fe, Co)<ce:inf loc="post">3</ce:inf>B and α-(Fe, Co) phases. However, due to a low concentration of RE atoms in the alloy, and somewhat detrimental influence of the Zr on the magnetic properties, only rather modest values of <ce:inf loc="post">J</ce:inf>
+<ce:italic>H</ce:italic>
+<ce:inf loc="post">c</ce:inf> (up to 180<ce:hsp sp="0.25"></ce:hsp>kA/m) and (<ce:italic>BH</ce:italic>)<ce:inf loc="post">max</ce:inf> of (∼47<ce:hsp sp="0.25"></ce:hsp>kJ/m<ce:sup loc="post">3</ce:sup>), were measured <ce:cross-refs refid="bib5 bib6">[5,6]</ce:cross-refs>.</ce:para>
+<ce:para view="all">An intensive search for low RE alloys, having better magnetic properties resulted in development of Nd–Fe–B–Ti–C nanocrystalline hard magnetic ribbons <ce:cross-ref refid="bib7">[7]</ce:cross-ref>. It was shown that good hard magnetic properties could be obtained by strip casting alloys ∼8.5–9<ce:hsp sp="0.25"></ce:hsp>at.% of Nd, in thickness of ∼100<ce:hsp sp="0.25"></ce:hsp>μm. A nanocrystalline structure, with relatively large volume fraction of Nd<ce:inf loc="post">2</ce:inf>Fe<ce:inf loc="post">14</ce:inf>B hard magnetic phase, resulted in good magnetic properties in as-cast state. Subsequent annealing at various temperatures resulted in further increases in <ce:inf loc="post">J</ce:inf>
+<ce:italic>H</ce:italic>
+<ce:inf loc="post">c</ce:inf> and (<ce:italic>BH</ce:italic>)<ce:inf loc="post">max</ce:inf>. These results suggest the possibility of processing nanocrystalline hard magnetic samples in even larger section thicknesses.</ce:para>
+<ce:para view="all">Therefore, the aim of the present study was to investigate the casting of hard magnetic bulk nanocrystalline samples by radial cooling in copper dies. Suction die-casting facilitates the production of rod- and tube-shaped samples that can be sliced into tablet- and ring-shaped elements that could be employed as magnetic components in miniature stepper motors or superconducting bearings.</ce:para>
+</ce:section>
+<ce:section role="materials-methods" view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Sample preparation and experimental methods</ce:section-title>
+<ce:para view="all">Samples of the Fe<ce:inf loc="post">60</ce:inf>Co<ce:inf loc="post">13</ce:inf>Pr<ce:inf loc="post">9</ce:inf>B<ce:inf loc="post">14</ce:inf>Ti<ce:inf loc="post">3</ce:inf>Zr<ce:inf loc="post">1</ce:inf> alloy, were produced by arc-melting, under an Ar atmosphere, high purity constituent elements Fe, Co, Pr, Dy, Ti, Zr together with pre-alloyed Fe–B having a known, chemically analyzed composition. The alloy was subsequently melt spun in a controlled atmosphere to obtain ribbon samples of various thicknesses <ce:italic>t</ce:italic> up to ∼140<ce:hsp sp="0.25"></ce:hsp>μm. Adjustment of the pressure difference between the suction-casting chambers allowed the casting of 1<ce:hsp sp="0.25"></ce:hsp>mm diameter rods and of 3<ce:hsp sp="0.25"></ce:hsp>mm outer diameter (o.d.) thin-walled tubes (having a wall thickness of ∼0.2<ce:hsp sp="0.25"></ce:hsp>mm). The phase structure of the samples was investigated by X-ray diffractometry (XRD) with Co Kα radiation. The room temperature magnetic parameters were measured using an Oxford “Maglab’ VSM operating in external magnetic fields up to 9<ce:hsp sp="0.25"></ce:hsp>T. The microstructure of the as-cast samples was examined by transmission electron microscopy (TEM).</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:para view="all">X-ray diffraction scans for the as-cast Fe<ce:inf loc="post">60</ce:inf>Co<ce:inf loc="post">13</ce:inf>Pr<ce:inf loc="post">9</ce:inf>B<ce:inf loc="post">14</ce:inf>Ti<ce:inf loc="post">3</ce:inf>Zr<ce:inf loc="post">1</ce:inf> alloy ribbons revealed a fully amorphous structure for the samples having <ce:italic>t</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>≲<ce:hsp sp="0.25"></ce:hsp>100<ce:hsp sp="0.25"></ce:hsp>μm, while thicker specimens (<ce:italic>t</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>∼<ce:hsp sp="0.25"></ce:hsp>100–140<ce:hsp sp="0.25"></ce:hsp>μm) contained a nanocrystalline phase embedded within the amorphous matrix (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>a<ce:float-anchor refid="fig1"></ce:float-anchor>). Phase analysis of the thick ribbons revealed that the only crystalline phase that precipitated during rapid-solidification process was hard magnetic Pr<ce:inf loc="post">2</ce:inf>(Fe, Co)<ce:inf loc="post">14</ce:inf>B. Larger half peak breadths for the crystalline peaks for the roll-contact surface than for non-contact surface of ribbon specimens, suggested a gradient of cooling rate away from the former and a heterogeneous microstructure in the cross-section.</ce:para>
+<ce:para view="all">XRD scans for an as-cast 1<ce:hsp sp="0.25"></ce:hsp>mm diameter rod and a 3<ce:hsp sp="0.25"></ce:hsp>mm o.d. tube are shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>b. Measurements were performed on samples prepared by crushing bulk samples to powder in order to obtain material representative of the entire volume of the rods and tubes, in each case. Analysis of crystalline peaks indicated the presence of the Pr<ce:inf loc="post">2</ce:inf>(Fe, Co)<ce:inf loc="post">14</ce:inf>B phase in both the rod and tube samples. Broadening of the crystalline peaks for both sample types indicated a nanoscale structure for this magnetic phase. Furthermore, bulk samples may contain amorphous components in their microstructures.</ce:para>
+<ce:para view="all">A TEM photograph for the as-cast 3<ce:hsp sp="0.25"></ce:hsp>mm o.d. tube, together with the electron diffraction pattern corresponding to whole observed area of the sample, are shown in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor>. A heterogeneous microstructure, that consists of large crystallites (of diameter ∼250<ce:hsp sp="0.25"></ce:hsp>nm—area B in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>a) mixed with agglomerates of very small nanocrystals of the diameter &lt;10<ce:hsp sp="0.25"></ce:hsp>nm (area A in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>a), is evident. The electron diffraction pattern (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>b) is characteristic of a heterogeneous microstructure based on a range of micro- to nano-metric size crystallites. The electron diffraction analysis confirmed the presence of the crystalline 2-14-1 phase.</ce:para>
+<ce:para view="all">The magnetic hysteresis loops measured for both the as-cast tube and thick ribbon samples of the Fe<ce:inf loc="post">60</ce:inf>Co<ce:inf loc="post">13</ce:inf>Pr<ce:inf loc="post">9</ce:inf>B<ce:inf loc="post">14</ce:inf>Ti<ce:inf loc="post">3</ce:inf>Zr<ce:inf loc="post">1</ce:inf> alloy are shown in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor>. Relatively high values of coercive field <ce:italic>μ</ce:italic>
+<ce:inf loc="post">0J</ce:inf>
+<ce:italic>H</ce:italic>
+<ce:inf loc="post">c</ce:inf> of ∼0.98<ce:hsp sp="0.25"></ce:hsp>T and a moderate remanence to saturation polarization ratio <ce:italic>J</ce:italic>
+<ce:inf loc="post">r</ce:inf>/<ce:italic>J</ce:italic>
+<ce:inf loc="post">s</ce:inf> of ∼0.46, were measured for the 3<ce:hsp sp="0.25"></ce:hsp>mm o.d. tube. Similar magnetic properties were determined for the as-cast 1<ce:hsp sp="0.25"></ce:hsp>mm diameter rod samples. As the measurements were not corrected for self demagnetization, one can expect that the correction would increase <ce:italic>J</ce:italic>
+<ce:inf loc="post">r/</ce:inf>
+<ce:italic>J</ce:italic>
+<ce:inf loc="post">s</ce:inf> ratio for this sample. A substantially higher <ce:italic>μ</ce:italic>
+<ce:inf loc="post">0J</ce:inf>
+<ce:italic>H</ce:italic>
+<ce:inf loc="post">c</ce:inf> up to 1.56<ce:hsp sp="0.25"></ce:hsp>T, was measured in-plane for the 140<ce:hsp sp="0.25"></ce:hsp>μm thick ribbon samples, <ce:italic>J</ce:italic>
+<ce:inf loc="post">r</ce:inf>/<ce:italic>J</ce:italic>
+<ce:inf loc="post">s</ce:inf> was 0.5, indicating no significant overall intercrystalline exchange coupling. The kink in the second quadrant of the hysteresis loop for the ribbon sample is considered to be due to the presence of two magnetic phases: the hard magnetic nanocrystalline 2-14-1 phase and soft magnetic amorphous matrix. The better magnetic properties for the ribbon than for the bulk samples is probably due to more uniform scale of the crystalline structure and possibly more uniform separation of the hard magnetic nanocrystals by the amorphous matrix. Further studies on effects of annealing the samples and of compositional modifications to improve the magnetic properties are in progress.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">It was shown that the Fe<ce:inf loc="post">60</ce:inf>Co<ce:inf loc="post">13</ce:inf>Pr<ce:inf loc="post">9</ce:inf>B<ce:inf loc="post">14</ce:inf>Ti<ce:inf loc="post">3</ce:inf>Zr<ce:inf loc="post">1</ce:inf> alloy bulk nanocrystalline magnets can be produced by direct quenching. XRD phase analysis revealed that the bulk samples consisted mainly of the nanocrystalline hard magnetic Pr<ce:inf loc="post">2</ce:inf>(Fe, Co)<ce:inf loc="post">14</ce:inf>B phase, while TEM revealed a heterogeneous mixture of large crystallites (diameter of ∼250<ce:hsp sp="0.25"></ce:hsp>nm) and agglomerates of small nanocrystallites (diameter<ce:hsp sp="0.25"></ce:hsp>&lt;<ce:hsp sp="0.25"></ce:hsp>10<ce:hsp sp="0.25"></ce:hsp>nm) for the tube sample. The 140<ce:hsp sp="0.25"></ce:hsp>μm thick as-cast ribbon samples consisted of the hard magnetic 2-14-1 phase embedded within an amorphous matrix. Larger values of <ce:italic>μ</ce:italic>
+<ce:inf loc="post">0J</ce:inf>
+<ce:italic>H</ce:italic>
+<ce:inf loc="post">c</ce:inf> and <ce:italic>J</ce:italic>
+<ce:inf loc="post">r</ce:inf>/<ce:italic>J</ce:italic>
+<ce:inf loc="post">s</ce:inf> ratio were measured for the thick ribbons than for the bulk samples, that might be related to finer crystalline structure of the ribbon samples. The properties achieved so far indicate promise for further improvements, by compositional and processing optimization, for possible practical applications in miniature magnets.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgments</ce:section-title>
+<ce:para view="all">This research was supported by Polish Scientific Research Committee (KBN) (project nos. 3T08A 063 27 and 3T08C 008 28) and by the U.K. Engineering and Physical Sciences Research Council.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Matsusita</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Kimura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Trans. JIM</sb:maintitle>
+</sb:title>
+<sb:volume-nr>42</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2059</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Matsusita</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Trans. JIM</sb:maintitle>
+</sb:title>
+<sb:volume-nr>42</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1543</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Appl. Phys.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>91</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>8834</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Pawlik</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.A.</ce:given-name>
+<ce:surname>Davies</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scr. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>49</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>755</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Pawlik</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Marinescu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.A.</ce:given-name>
+<ce:surname>Davies</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.J.</ce:given-name>
+<ce:surname>Harrison</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Todd</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.J.</ce:given-name>
+<ce:surname>Wyslocki</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:title>
+<sb:maintitle>Proceedings of the 18th International Workshop on High Performance Magnets and their Applications</sb:maintitle>
+</sb:title>
+<sb:conference>29 August–2 September 2004, Annecy, France</sb:conference>
+<sb:date>2004</sb:date>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>601</sb:first-page>
+<sb:last-page>608</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Pawlik</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.A.</ce:given-name>
+<ce:surname>Davies</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Kaszuwara</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.J.</ce:given-name>
+<ce:surname>Wysłocki</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Magn. Magn. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>290–291</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1243</sb:first-page>
+<sb:last-page>1246</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Hirosawa</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Kanekiyo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Shigemoto</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Miyoshi</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:title>
+<sb:maintitle>Proceedings of the 18th International Workshop on High Performance Magnets and their Applications</sb:maintitle>
+</sb:title>
+<sb:conference>29 August–2 September 2004, Annecy, France</sb:conference>
+<sb:date>2004</sb:date>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>655</sb:first-page>
+<sb:last-page>666</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

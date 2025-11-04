@@ -1,0 +1,1237 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838805010819</prism:url><dc:identifier>doi:10.1016/j.jallcom.2005.06.014</dc:identifier><eid>1-s2.0-S0925838805010819</eid><prism:doi>10.1016/j.jallcom.2005.06.014</prism:doi><pii>S0925-8388(05)01081-9</pii><dc:title>Thermal stability and creep behavior of Ti–V–Cr burn-resistant alloys </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>407</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>118</prism:startingpage><prism:endingpage>124</prism:endingpage><prism:pagerange>118-124</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2006-01-05</prism:coverdate><prism:coverdisplaydate>5 January 2006</prism:coverdisplaydate><prism:copyright>Copyright © 2005 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Zhao, Y.Q.</dc:creator><dc:creator>Qu, H.L.</dc:creator><dc:creator>Wang, M.M.</dc:creator><dc:creator>Wu, H.</dc:creator><dc:creator>Zhu, K.Y.</dc:creator><dc:description>
+                  The thermal stability and creep behavior of Ti–35V–15Cr (35V alloy) and Ti–25V–15Cr (25V alloy) burn-resistant titanium alloys are researched. The results show that post-exposure tensile properties deteriorated with the increase in exposure temperature (450–600°C). The decrease in tensile properties of the 35V alloy results from the combination of surface oxidation and microstructural changes and the decrease in tensile properties of the 25V alloy results from surface oxidation. The main change of the microstructure during thermal exposure is the heterogeneous precipitation of α phase on β grain boundaries. Increased vanadium content in the alloy shows an adverse effect on alloys’ thermal stability. The creep resistance of the 35V alloy is little better that that of the 25V alloy. During creep exposure at 540°C for 100h, the heterogeneous precipitation of α phase on β grain boundaries in 35V alloy strengthens the grain boundary, leading to increases in the creep resistance, while the heterogeneous precipitation of α phase in grains and grain boundaries in the 25V alloy is rod-like, leading to decreases in the creep resistance.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Burn-resistant titanium alloys</dcterms:subject><dcterms:subject>Thermal stability</dcterms:subject><dcterms:subject>Creep behavior</dcterms:subject><dcterms:subject>Phase transformations</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838805010819" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838805010819" rel="scidir"/></coredata><objects><object category="standard" height="241" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="52547" type="IMAGE-DOWNSAMPLED" width="367">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805010819-gr4.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="82" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="4217" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805010819-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="272" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="56282" type="IMAGE-DOWNSAMPLED" width="762">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805010819-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="45" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="1902" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805010819-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="599" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr7" size="160843" type="IMAGE-DOWNSAMPLED" width="564">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805010819-gr7.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="3996" type="IMAGE-THUMBNAIL" width="88">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805010819-gr7.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="266" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="7533" type="IMAGE-DOWNSAMPLED" width="366">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805010819-gr1.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="91" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="1623" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805010819-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="242" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr9" size="44703" type="IMAGE-DOWNSAMPLED" width="367">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805010819-gr9.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="82" mimetype="image/gif" multimediatype="GIF image file" ref="gr9" size="4006" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805010819-gr9.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="255" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="32951" type="IMAGE-DOWNSAMPLED" width="358">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805010819-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="89" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="2171" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805010819-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="640" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr5" size="94980" type="IMAGE-DOWNSAMPLED" width="555">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805010819-gr5.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="2296" type="IMAGE-THUMBNAIL" width="81">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805010819-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="354" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr6" size="87659" type="IMAGE-DOWNSAMPLED" width="560">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805010819-gr6.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="79" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="3972" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805010819-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="193" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr8" size="89416" type="IMAGE-DOWNSAMPLED" width="775">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805010819-gr8.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="31" mimetype="image/gif" multimediatype="GIF image file" ref="gr8" size="3029" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805010819-gr8.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>29244462311</scopus-id><scopus-eid>2-s2.0-29244462311</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/29244462311" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20050728">2005-07-28</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20050728">2005-07-28</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-03-29T03:54:28</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838805010819</xocs:eid>
+<xocs:pii-formatted>S0925-8388(05)01081-9</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805010819</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2005.06.014</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838805X0247X</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.349087-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20060105</xocs:date-search-begin>
+<xocs:year-nav>2006</xocs:year-nav>
+<xocs:indexeddate epoch="1122508800">2005-07-28T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>407</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>407</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 407, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>20</xocs:sort-order>
+<xocs:first-fp>118</xocs:first-fp>
+<xocs:last-lp>124</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>118</xocs:first-page>
+<xocs:last-page>124</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20060105</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>5 January 2006</xocs:cover-date-text>
+<xocs:cover-date-start>2006-01-05</xocs:cover-date-start>
+<xocs:cover-date-year>2006</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Metallurgy</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2005 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>THERMALSTABILITYCREEPBEHAVIORTIVCRBURNRESISTANTALLOYS</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>ZHAO</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>Y</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental procedure</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Thermal stability</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Creep behavior</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Discussion</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Thermal stability</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4.1.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Effect of surface oxidation on thermal stability</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4.1.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Changes of microstructure during thermal exposure</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Creep resistance</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>5</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1"></xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>2889</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>1073</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4"></xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>77</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>677</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>190</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>167</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>211</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>153</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11"></xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>5777</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13">
+<xocs:ref-normalized-surname>ZHU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>2387</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>SHAMBLER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1970</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>SCIENCETECHNOLOGYAPPLICATIONTITANIUM</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15">
+<xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>45</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib16">
+<xocs:ref-normalized-surname>DUERIG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1983</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>BETATITANIUMALLOYSIN1980S</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>ZHAOX2006X118</xocs:refkey3>
+<xocs:refkey4lp>ZHAOX2006X118X124</xocs:refkey4lp>
+<xocs:refkey4ai>ZHAOX2006X118XY</xocs:refkey4ai>
+<xocs:refkey5>ZHAOX2006X118X124XY</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(05)01081-9</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805010819</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838805010819</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2005.06.014</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-08T03:04:47.622496-04:00</xocs:timestamp>
+<xocs:cover-date-start>2006-01-05</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838805010819-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805010819/MAIN/application/pdf/d9455abcd9f3fbf50f2edd0d0c35380d/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805010819/MAIN/application/pdf/d9455abcd9f3fbf50f2edd0d0c35380d/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>558951</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838805010819-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805010819/PREVIEW/image/png/1a3f532112d7dd1c1b8bffc90fce2722/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805010819/PREVIEW/image/png/1a3f532112d7dd1c1b8bffc90fce2722/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>64414</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805010819-gr4.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805010819/gr4/DOWNSAMPLED/image/jpeg/d62c752965bdd8259e04e5b38a38c3c2/gr4.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805010819/gr4/DOWNSAMPLED/image/jpeg/d62c752965bdd8259e04e5b38a38c3c2/gr4.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>52547</xocs:filesize>
+<xocs:pixel-height>241</xocs:pixel-height>
+<xocs:pixel-width>367</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805010819-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805010819/gr4/THUMBNAIL/image/gif/19a8bdc1e4e1888830737644f18b8caf/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805010819/gr4/THUMBNAIL/image/gif/19a8bdc1e4e1888830737644f18b8caf/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>4217</xocs:filesize>
+<xocs:pixel-height>82</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805010819-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805010819/gr2/DOWNSAMPLED/image/jpeg/91962c1ed4c0bf32a26cff824601656c/gr2.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805010819/gr2/DOWNSAMPLED/image/jpeg/91962c1ed4c0bf32a26cff824601656c/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>56282</xocs:filesize>
+<xocs:pixel-height>272</xocs:pixel-height>
+<xocs:pixel-width>762</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805010819-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805010819/gr2/THUMBNAIL/image/gif/646ff28bff6c92a6354b60cd773d5409/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805010819/gr2/THUMBNAIL/image/gif/646ff28bff6c92a6354b60cd773d5409/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1902</xocs:filesize>
+<xocs:pixel-height>45</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805010819-gr7.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805010819/gr7/DOWNSAMPLED/image/jpeg/a3e8b247b2b35d2aba168dd0adb303ad/gr7.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805010819/gr7/DOWNSAMPLED/image/jpeg/a3e8b247b2b35d2aba168dd0adb303ad/gr7.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>160843</xocs:filesize>
+<xocs:pixel-height>599</xocs:pixel-height>
+<xocs:pixel-width>564</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805010819-gr7.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805010819/gr7/THUMBNAIL/image/gif/4b4f68313d4237b39292f1a7a10a2674/gr7.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805010819/gr7/THUMBNAIL/image/gif/4b4f68313d4237b39292f1a7a10a2674/gr7.sml</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3996</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>88</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805010819-gr1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805010819/gr1/DOWNSAMPLED/image/gif/56cd920d789795f6c16b0548d031e6af/gr1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805010819/gr1/DOWNSAMPLED/image/gif/56cd920d789795f6c16b0548d031e6af/gr1.gif</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>7533</xocs:filesize>
+<xocs:pixel-height>266</xocs:pixel-height>
+<xocs:pixel-width>366</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805010819-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805010819/gr1/THUMBNAIL/image/gif/c895bd79169178280103ced4c55e3afb/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805010819/gr1/THUMBNAIL/image/gif/c895bd79169178280103ced4c55e3afb/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1623</xocs:filesize>
+<xocs:pixel-height>91</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805010819-gr9.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805010819/gr9/DOWNSAMPLED/image/jpeg/6a5f29ef4b78909023e1657e4f27fdf5/gr9.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805010819/gr9/DOWNSAMPLED/image/jpeg/6a5f29ef4b78909023e1657e4f27fdf5/gr9.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>44703</xocs:filesize>
+<xocs:pixel-height>242</xocs:pixel-height>
+<xocs:pixel-width>367</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805010819-gr9.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805010819/gr9/THUMBNAIL/image/gif/e5d2844cb7557ba7f6cd6ff7a6020455/gr9.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805010819/gr9/THUMBNAIL/image/gif/e5d2844cb7557ba7f6cd6ff7a6020455/gr9.sml</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>4006</xocs:filesize>
+<xocs:pixel-height>82</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805010819-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805010819/gr3/DOWNSAMPLED/image/jpeg/127ded0d467a2ee7c17122034719a412/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805010819/gr3/DOWNSAMPLED/image/jpeg/127ded0d467a2ee7c17122034719a412/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>32951</xocs:filesize>
+<xocs:pixel-height>255</xocs:pixel-height>
+<xocs:pixel-width>358</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805010819-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805010819/gr3/THUMBNAIL/image/gif/c3ef0fcf9ac6adfc7c762f92a266e501/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805010819/gr3/THUMBNAIL/image/gif/c3ef0fcf9ac6adfc7c762f92a266e501/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2171</xocs:filesize>
+<xocs:pixel-height>89</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805010819-gr5.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805010819/gr5/DOWNSAMPLED/image/jpeg/199dca95a2ae530a3b0c46c6c3df445c/gr5.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805010819/gr5/DOWNSAMPLED/image/jpeg/199dca95a2ae530a3b0c46c6c3df445c/gr5.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>94980</xocs:filesize>
+<xocs:pixel-height>640</xocs:pixel-height>
+<xocs:pixel-width>555</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805010819-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805010819/gr5/THUMBNAIL/image/gif/00a86f1a3e2bd244a50369cac78cecf8/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805010819/gr5/THUMBNAIL/image/gif/00a86f1a3e2bd244a50369cac78cecf8/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2296</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>81</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805010819-gr6.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805010819/gr6/DOWNSAMPLED/image/jpeg/67b2228f2997448b70ecaff6faf33f30/gr6.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805010819/gr6/DOWNSAMPLED/image/jpeg/67b2228f2997448b70ecaff6faf33f30/gr6.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>87659</xocs:filesize>
+<xocs:pixel-height>354</xocs:pixel-height>
+<xocs:pixel-width>560</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805010819-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805010819/gr6/THUMBNAIL/image/gif/dc86787e19ba5e3fefaa3e75f62f738a/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805010819/gr6/THUMBNAIL/image/gif/dc86787e19ba5e3fefaa3e75f62f738a/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3972</xocs:filesize>
+<xocs:pixel-height>79</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805010819-gr8.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805010819/gr8/DOWNSAMPLED/image/jpeg/4871194de88dadb714aeb552cf742865/gr8.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805010819/gr8/DOWNSAMPLED/image/jpeg/4871194de88dadb714aeb552cf742865/gr8.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>89416</xocs:filesize>
+<xocs:pixel-height>193</xocs:pixel-height>
+<xocs:pixel-width>775</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805010819-gr8.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805010819/gr8/THUMBNAIL/image/gif/2a3306a7c7c6289fecd197af158a6b57/gr8.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805010819/gr8/THUMBNAIL/image/gif/2a3306a7c7c6289fecd197af158a6b57/gr8.sml</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3029</xocs:filesize>
+<xocs:pixel-height>31</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>12842</aid>
+<ce:pii>S0925-8388(05)01081-9</ce:pii>
+<ce:doi>10.1016/j.jallcom.2005.06.014</ce:doi>
+<ce:copyright type="full-transfer" year="2005">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Relationship between temperature and RA exposure at different temperatures.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Relationship between creep strain and time of Ti–35V–15Cr 35V alloy, (a) and Ti–25V–15Cr 25V alloy, (b).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Mass gains of the 35V and 25V alloys exposed to air at different temperatures for 100<ce:hsp sp="0.25"></ce:hsp>h.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">SEM images close to surface of the 35V alloy exposed at 600<ce:hsp sp="0.25"></ce:hsp>°C for 100<ce:hsp sp="0.25"></ce:hsp>h.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">TEM images of the 35V and 25V alloys exposed at different temperatures (a) grain boundary α phase on unexposed 25V alloy; (b) ED pattern and identification of α precipitates on grain boundary in the 25V alloy; (c) parallel α laths growing from grain boundary when the 25V alloy exposed at 450<ce:hsp sp="0.25"></ce:hsp>°C for 100<ce:hsp sp="0.25"></ce:hsp>h; (d) discontinuous grain boundary α phase in the 35V alloy exposed at 600<ce:hsp sp="0.25"></ce:hsp>°C for 100<ce:hsp sp="0.25"></ce:hsp>h.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">SEM images of the 35V and 25V alloys exposed at different temperatures. (a) The 25V alloy exposed at 450<ce:hsp sp="0.25"></ce:hsp>°C; (b) the 25V alloy exposed at 600<ce:hsp sp="0.25"></ce:hsp>°C; (c) the 35V alloy exposed at 600<ce:hsp sp="0.25"></ce:hsp>°C.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+<ce:figure id="fig7">
+<ce:label>Fig. 7</ce:label>
+<ce:caption>
+<ce:simple-para view="all">SEM examination of polished cross-sections (a) α precipitates in the 25V alloy exposed at 540<ce:hsp sp="0.25"></ce:hsp>°C for 100<ce:hsp sp="0.25"></ce:hsp>h; (b) α precipitates in the 35V alloy exposed at 540<ce:hsp sp="0.25"></ce:hsp>°C for 100<ce:hsp sp="0.25"></ce:hsp>h; (c) morphology of the 25V alloy exposed at 600<ce:hsp sp="0.25"></ce:hsp>°C for 100<ce:hsp sp="0.25"></ce:hsp>h at low magnification; (d) morphology of the 35V alloy exposed at 600<ce:hsp sp="0.25"></ce:hsp>°C for 100<ce:hsp sp="0.25"></ce:hsp>h at low magnification; (e) grain boundary of the 25V alloy exposed at 600<ce:hsp sp="0.25"></ce:hsp>°C for 100<ce:hsp sp="0.25"></ce:hsp>h at high magnification; (f) grain boundary of the 35V alloy exposed at 600<ce:hsp sp="0.25"></ce:hsp>°C for 100<ce:hsp sp="0.25"></ce:hsp>h at high magnification.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr7"></ce:link>
+</ce:figure>
+<ce:figure id="fig8">
+<ce:label>Fig. 8</ce:label>
+<ce:caption>
+<ce:simple-para view="all">SEM images of the 35V alloy (a, b) and the 25V alloy (c) after creep exposure at 540<ce:hsp sp="0.25"></ce:hsp>°C and 250<ce:hsp sp="0.25"></ce:hsp>MPa for 100<ce:hsp sp="0.25"></ce:hsp>h.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr8"></ce:link>
+</ce:figure>
+<ce:figure id="fig9">
+<ce:label>Fig. 9</ce:label>
+<ce:caption>
+<ce:simple-para view="all">TEM image of interaction between α phase and dislocations.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr9"></ce:link>
+</ce:figure>
+<ce:table colsep="0" frame="topbot" id="tbl1" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Chemical composition of the two alloys</ce:simple-para>
+</ce:caption>
+<tgroup cols="6">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<colspec colname="col5"></colspec>
+<colspec colname="col6"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Alloy</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">V (wt.%)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Cr (wt.%)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Si (wt.%)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">H (wt.%)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">O (wt.%)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">35V</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">34.0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">13.4</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">&lt;0.04</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.001</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.09</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">25V</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">22.9</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">14.1</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">&lt;0.04</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.005</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.10</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+</ce:floats>
+<ce:title>Thermal stability and creep behavior of Ti–V–Cr burn-resistant alloys</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>Y.Q.</ce:given-name>
+<ce:surname>Zhao</ce:surname>
+<ce:cross-ref refid="cor1">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>H.L.</ce:given-name>
+<ce:surname>Qu</ce:surname>
+</ce:author>
+<ce:author>
+<ce:given-name>M.M.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</ce:author>
+<ce:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</ce:author>
+<ce:author>
+<ce:given-name>K.Y.</ce:given-name>
+<ce:surname>Zhu</ce:surname>
+</ce:author>
+<ce:affiliation>
+<ce:textfn>Northwest Institute for Nonferrous Metal Research (NIN), P.O. Box 51, 710016 Xi’an, PR China</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>⁎</ce:label>
+<ce:text>Corresponding author. Tel.: +86 29 8623 1078; fax: +86 29 8623 1103.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="18" month="4" year="2005"></ce:date-received>
+<ce:date-revised day="4" month="6" year="2005"></ce:date-revised>
+<ce:date-accepted day="6" month="6" year="2005"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">The thermal stability and creep behavior of Ti–35V–15Cr (35V alloy) and Ti–25V–15Cr (25V alloy) burn-resistant titanium alloys are researched. The results show that post-exposure tensile properties deteriorated with the increase in exposure temperature (450–600<ce:hsp sp="0.25"></ce:hsp>°C). The decrease in tensile properties of the 35V alloy results from the combination of surface oxidation and microstructural changes and the decrease in tensile properties of the 25V alloy results from surface oxidation. The main change of the microstructure during thermal exposure is the heterogeneous precipitation of α phase on β grain boundaries. Increased vanadium content in the alloy shows an adverse effect on alloys’ thermal stability. The creep resistance of the 35V alloy is little better that that of the 25V alloy. During creep exposure at 540<ce:hsp sp="0.25"></ce:hsp>°C for 100<ce:hsp sp="0.25"></ce:hsp>h, the heterogeneous precipitation of α phase on β grain boundaries in 35V alloy strengthens the grain boundary, leading to increases in the creep resistance, while the heterogeneous precipitation of α phase in grains and grain boundaries in the 25V alloy is rod-like, leading to decreases in the creep resistance.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Burn-resistant titanium alloys</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Thermal stability</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Creep behavior</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Phase transformations</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">In order to solve the problem of “titanium fire” which may occur in aeroengines under operating conditions, and meet the requirement for high-performance aerospace materials, burn-resistant titanium alloys have been studied during recent years. Different compositions of Ti–V–Cr burn-resistant alloys have been developed in different countries: Ti–35V–15Cr (wt.%), designated as alloy C, was developed in USA by Pratt and Whitney <ce:cross-ref refid="bib1">[1]</ce:cross-ref>; Ti–25V–15Cr–C–Al (wt.%) was developed by IRC in UK <ce:cross-ref refid="bib2">[2]</ce:cross-ref> and Ti–25V–15Cr–<ce:italic>x</ce:italic>Si (wt.%) by the present authors from NIN in China <ce:cross-ref refid="bib3">[3]</ce:cross-ref>. There have been some reports on their processability <ce:cross-ref refid="bib4">[4]</ce:cross-ref>, burn-resistant mechanisms <ce:cross-refs refid="bib5 bib6 bib7 bib8">[5–8]</ce:cross-refs>, oxidation behavior <ce:cross-ref refid="bib9">[9]</ce:cross-ref> and microstructure–properties relationships <ce:cross-ref refid="bib10">[10]</ce:cross-ref>.</ce:para>
+<ce:para view="all">Ti–35V–15Cr and Ti–25V–15Cr, whose molybdenum equivalents are 47 and 42, respectively <ce:cross-ref refid="bib11">[11]</ce:cross-ref>, are fully β stabilized titanium alloys. β-Ti alloys are attractive in terms of their ability to achieve high strength and they are cold formable in many cases, but they have found only limited applications in airframe components and in corrosive environments. The thermal stability and creep behavior of burn-resistant alloys are essential since these alloys are new-type β-titanium alloys designed to be used under high temperature service conditions. Comprehensive research work on thermal stability and creep behavior has been done on α, near-α, and α<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>β-type high-temperature titanium alloys, limited research has been performed on β-titanium alloys. Li et al. researched the thermal stability of Ti–25V–15Cr–C–Al alloy <ce:cross-refs refid="bib2 bib12">[2,12]</ce:cross-refs>. Their main results are that the amount of α precipitation increases with exposure time and the properties are not significantly degraded by the α precipitation, α precipitation being the factor causing grain boundary embrittlement. But these authors did not research the thermal stability of Ti–25V–15Cr and Ti–35V–15Cr alloys. This paper studies the ability of Ti–25V–15Cr and Ti–35V–15Cr alloys to maintain a stable microstructure and a high level of mechanical properties and creep resistance after exposure to different time, temperature and tensile stress combinations, so as to provide in-depth knowledge of their mechanical behavior and evaluate their potential application temperatures.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental procedure</ce:section-title>
+<ce:para view="all">The materials used in this paper were alloy bars of 11.5<ce:hsp sp="0.25"></ce:hsp>mm in diameter of Ti–35V–15Cr (35V alloy) and Ti–25V–15Cr (25V alloy). They were manufactured by the Northwest Institute for Nonferrous Metal Research (NIN). Their chemical compositions differ slightly from the target compositions (<ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+<ce:float-anchor refid="tbl1"></ce:float-anchor>). After heat treatment, one part of the material was machined into 5<ce:hsp sp="0.25"></ce:hsp>mm diameter standard tensile specimens. The specimens were exposed in air at 450, 500, 540 and 600<ce:hsp sp="0.25"></ce:hsp>°C for 100<ce:hsp sp="0.25"></ce:hsp>h, while stressed at 250<ce:hsp sp="0.25"></ce:hsp>MPa. During the above-mentioned exposures, surface oxide had formed on the specimens depending on the temperature. The materials exposed at 600<ce:hsp sp="0.25"></ce:hsp>°C for 100<ce:hsp sp="0.25"></ce:hsp>h were machined into 5<ce:hsp sp="0.25"></ce:hsp>mm diameter tensile specimens in order to remove the oxide layer that had formed during thermal exposures. Finally, the ambient tensile properties of all the specimens were determined by comparing specimens with oxide retained to those with the oxide removed. The creep behavior of the two alloys was examined using standard creep specimens after creep exposure at 540<ce:hsp sp="0.25"></ce:hsp>°C and 250<ce:hsp sp="0.25"></ce:hsp>MPa for 100<ce:hsp sp="0.25"></ce:hsp>h. A Philips S-2700 SEM was used for imaging and a DX-4 spectrometer was used for EDX analysis. TEM specimens were prepared by twin jet polishing using a solution consisting of 95% methanol and 5% HClO<ce:inf loc="post">4</ce:inf>. TEM was carried out on a JEM-200CX transmission electron microscope.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results</ce:section-title>
+<ce:section view="all">
+<ce:label>3.1</ce:label>
+<ce:section-title>Thermal stability</ce:section-title>
+<ce:para view="all">After being exposed under different conditions, ambient tensile properties of all specimens were determined and the results were shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor>. After thermal exposure, the two alloys had a little reduction in strength, but an obvious reduction in ductility, especially for the 35V alloy. Ductility of the two alloys decreased gradually with increased exposure temperature. Thermal stability of the 35V alloy exposed at 600<ce:hsp sp="0.25"></ce:hsp>°C without surface oxide was also better than that of specimens exposed at 450<ce:hsp sp="0.25"></ce:hsp>°C with surface oxide.</ce:para>
+<ce:para view="all">Comparing the 35V alloys and the 25V alloy exposed at 540<ce:hsp sp="0.25"></ce:hsp>°C for 200<ce:hsp sp="0.25"></ce:hsp>h and 600<ce:hsp sp="0.25"></ce:hsp>°C for 100<ce:hsp sp="0.25"></ce:hsp>h with surface oxide retained or removed, the surface oxide had a significant influence on alloys properties after being exposed for a long time <ce:cross-ref refid="bib13">[13]</ce:cross-ref>. Considering tensile properties after exposure at 540 and 600<ce:hsp sp="0.25"></ce:hsp>°C without surface oxide, the 25V alloy showed better thermal stability than the 35V alloy, as shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.2</ce:label>
+<ce:section-title>Creep behavior</ce:section-title>
+<ce:para view="all">
+<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor> showed the relationship between the creep strain and time of the 35V and 25V alloys. 25V alloy had bad creep resistance, which was unloaded for fracture or large deformation before 100<ce:hsp sp="0.25"></ce:hsp>h time creep. It was clear that the residual and total strain increase obviously with the increase in creep time judged from the creep curves. The stable creep stage of the two alloys is not clear, especially the creep ratio of 25V alloy increased greatly with the time and cracks at last. At present experimental conditions, the creep resistance of the 25V alloy was worse than that of the 35V alloy. Generally speaking, the creep resistance of the 35V and 25V alloys was not good.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Discussion</ce:section-title>
+<ce:section view="all">
+<ce:label>4.1</ce:label>
+<ce:section-title>Thermal stability</ce:section-title>
+<ce:section view="all">
+<ce:label>4.1.1</ce:label>
+<ce:section-title>Effect of surface oxidation on thermal stability</ce:section-title>
+<ce:para view="all">Oxidation is one of the main factors that cause the deterioration of titanium alloys. Since the thermally grown oxide is more brittle than the substrate, it is always the origin of cracking. When a titanium alloy oxidized in air at high temperature, not only a surface oxidation layer is formed but also an oxygen diffusion layer between the oxide and the alloy substrate. The depth of the crack formed is at least equal to the thickness of the oxide and oxygen diffusion layer <ce:cross-ref refid="bib14">[14]</ce:cross-ref>. The thickness of oxide and oxygen diffusion layer depends on exposure temperature and time and chemical composition of the alloy substrate.</ce:para>
+<ce:para view="all">When exposed at different temperatures from 450 to 600<ce:hsp sp="0.25"></ce:hsp>°C for 100<ce:hsp sp="0.25"></ce:hsp>h, both the 35V and the 25V alloys experienced different degrees of oxidation on their surfaces, as shown in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor>
+<ce:cross-ref refid="bib15">[15]</ce:cross-ref>. When exposed at a temperature lower than 550<ce:hsp sp="0.25"></ce:hsp>°C, both the 35V and the 25V alloys exhibited little mass gain, indicating that their mechanical properties may not be affected significantly by oxidation. However, oxidation rates increased quickly as temperature increased above 550<ce:hsp sp="0.25"></ce:hsp>°C. At 600<ce:hsp sp="0.25"></ce:hsp>°C, a thick oxide was observed spalling off the surface after tensile testing. That oxide layer was responsible for a severe loss of the ductility. Fractograph analysis revealed that brittle intergranular failure tended to occur in the 35V and the 25V alloys (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor>).</ce:para>
+<ce:para view="all">The surface factor <ce:italic>R</ce:italic>
+<ce:inf loc="post">s</ce:inf> is a parameter that is being used to estimate quantitatively the influence of a surface oxide on the mechanical properties of an alloy <ce:cross-ref refid="bib16">[16]</ce:cross-ref>. It is defined as follows: <ce:italic>R</ce:italic>
+<ce:inf loc="post">s</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>(Δ<ce:italic>Ψ</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>−<ce:hsp sp="0.25"></ce:hsp>Δ<ce:italic>Ψ</ce:italic>
+<ce:inf loc="post">0</ce:inf>)/Δ<ce:italic>Ψ</ce:italic>, where Δ<ce:italic>Ψ</ce:italic> is the variation of reduction of area (RA) after thermal exposure with surface oxide and Δ<ce:italic>Ψ</ce:italic>
+<ce:inf loc="post">0</ce:inf> is the variation of RA after thermal exposure without surface oxide. It has been calculated that <ce:italic>R</ce:italic>
+<ce:inf loc="post">s</ce:inf> for the 25V alloy was 10.3% and <ce:italic>R</ce:italic>
+<ce:inf loc="post">s</ce:inf> for the 35V alloy was 26.1%, which indicated that surface oxidation had a small part of contribution to alloys properties deterioration, while the larger part came from the change of their microstructures during thermal exposure. Surface oxidation had greater effect on thermal stability in the 35V alloy than in the 25V alloy. As the 35V alloy possesses a higher V content than the 25V alloy, it is worth noting that the present results are consistent with the deleterious influence of V on the oxidation behavior of titanium alloys <ce:cross-ref refid="bib15">[15]</ce:cross-ref>.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>4.1.2</ce:label>
+<ce:section-title>Changes of microstructure during thermal exposure</ce:section-title>
+<ce:para view="all">It can be observed from TEM (<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="fig5"></ce:float-anchor>) that there were a small amount of discontinuous precipitates on grains boundaries of the unexposed 35V and 25V alloys (<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>a), while there were few precipitates within grains. The precipitates were identified to be α phase by electronic diffraction (<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>b). When the two alloys were exposed at 450<ce:hsp sp="0.25"></ce:hsp>°C for 100<ce:hsp sp="0.25"></ce:hsp>h, the number of α precipitates increased and distributed heterogeneously. There was a strong tendency for α phase to precipitate on β grain boundaries. The α precipitates were mostly plate-shaped and some parallel α laths grown from grain boundaries (<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>c). With increased temperature (450–540<ce:hsp sp="0.25"></ce:hsp>°C), α precipitated nucleate and grown within grains, while those on grain boundaries became gradually continuous and parallel α laths growing from grain boundaries coarsen. After exposure at 600<ce:hsp sp="0.25"></ce:hsp>°C for 100<ce:hsp sp="0.25"></ce:hsp>h, there was very little amount of α precipitates in the 35V and 25V alloys, mainly concentrated discontinuously on grain boundaries (<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>d). The dissolution of α phase, especially the grain boundary α phase, would do great benefit to the ductility of the alloy.</ce:para>
+<ce:para view="all">SEM observations (<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="fig6"></ce:float-anchor>) on fracture surfaces of specimens showed that all thermal exposed specimens failed by brittle intergranular fracture, except for the 25V alloy exposed at 600<ce:hsp sp="0.25"></ce:hsp>°C, which failed by ductile intergranular fracture. These observations revealed that grain boundary α phase weakened the boundaries and so induced the intergranular fracture. Almost all the fracture surfaces of the 35V alloy were smoother than those of the 25V alloy. EDX analysis showed that intergranular facets of the 35V and 25V alloys were poor in chromium, 8.9–11<ce:hsp sp="0.25"></ce:hsp>wt.% and 10.9–11.1<ce:hsp sp="0.25"></ce:hsp>wt.%, respectively, which was consistent with the lower concentration of β alloying elements, such as chromium, which were contained in α phase.</ce:para>
+<ce:para view="all">From TEM examination, it seemed that there was a stronger tendency in the 35V alloy than in the 25V alloy for α precipitates to agglomerate on grain boundaries. In order to demonstrate it, polished and then etched cross-sections of the specimens were observed under SEM (<ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+<ce:float-anchor refid="fig7"></ce:float-anchor>). It was shown that there were always fewer amounts of α precipitates in the 35V and 25V alloys, appearing as small white dots in <ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>a and b. These observations were in agreement with phase diagrams of titanium alloys since there were more β-stabilizing elements in the 35V alloy than in the 25V alloy. We also could see that grain boundaries of the 35V and 25V alloys exposed under the same condition had a quite different morphology. For example, considering the specimens exposed at 600<ce:hsp sp="0.25"></ce:hsp>°C (<ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>c–f), and observed at a low magnification, we could find that all specimens of the 35V alloy had more delineated and straight grain boundaries than those of the 25V alloy. Then at a higher magnification, continuous α layers were present on grain boundaries of the 35V alloy whereas only sparse α precipitates appeared on grain boundaries of the 25V alloy. It can be observed that grain boundary α phase was heavily marked and that may be explained by the lower chromium content in that phase inducing a more severe chemical etching. Therefore, it was suggested that there was a tendency that more α phase precipitates on grain boundaries in the 35V alloy than in the 25V alloy, especially after thermal exposure, which contributed a lot to the decrease in mechanical properties exhibited on the 35V alloy as compared with the 25V alloy.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section view="all">
+<ce:label>4.2</ce:label>
+<ce:section-title>Creep resistance</ce:section-title>
+<ce:para view="all">α Phases precipitated in the 25V alloy with low V content well distributed in grains and/or on grain boundaries (<ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>
+<ce:float-anchor refid="fig8"></ce:float-anchor>), and at the mean time lots of dislocations were easily discovered around the α phases (<ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref>
+<ce:float-anchor refid="fig9"></ce:float-anchor>), which retarded the movement of the dislocations. However, most of α phases distributed in grains and grain boundaries, causing stress concentration on grain boundaries and the matrices understanding bigger stress. The α precipitates distributed heterogeneously within grains decreased the deformation resistance of the inter-grains, which leads to the sliding of grain boundaries and increase of residual strain, resulting in decrease in creep resistance. The creep resistance of the 35V alloy was better than that of the 25V alloy. This was because of most of α precipitates in the 35V alloy distributing as continuous α layer or plate-like α on grain boundaries (<ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>a and b). This grain boundary α was good to strength, however, was bad to plasticity, reducing the sliding of grain boundary and sliding strength, which increased the creep resistance.</ce:para>
+<ce:para view="all">Both the 35V alloy and the 25V alloy had the same alloying elements, i.e. V and Cr, and the only difference is content of V. Both Cr and V are β phase stabilizing elements, which have the effect of solution strengthening. Cr forms an infinite solubility with Ti, while V is no limited with Ti. The V content in the 35V alloy is 10% higher than that of the 25V alloy, therefore the strengthening influence in the 35V alloy is bigger. This was also one of the reasons for the 35V alloy having better creep resistance.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section view="all">
+<ce:label>5</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">
+<ce:list>
+<ce:list-item>
+<ce:label>(1)</ce:label>
+<ce:para view="all">Thermal stability of the Ti–35V–15Cr and the Ti–25V–15Cr deteriorates with the increase of temperature. An analysis of tensile tests results reveals that surface oxidation only contributes to a small part to the degradation of properties of the two alloys whereas the main part arises from the change of their microstructure during thermal exposure. It has been found that the 25V alloy has a better thermal stability than the 35V alloy.</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>(2)</ce:label>
+<ce:para view="all">The 35V alloy has better creep resistance than the 25V alloy, mainly for the distribution of α phases on grain boundaries.</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>(3)</ce:label>
+<ce:para view="all">The main change of the microstructure during thermal and creep exposure of the 35V and 25V alloys is the heterogeneous precipitation of α phase on β grain boundaries. Also, parallel α laths grow from some grain boundaries within the grains. There are more α phase precipitates in the 25V alloy than in the 35V alloy owing to the lower content of β stabilizing elements in the 25V alloy.</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>(4)</ce:label>
+<ce:para view="all">Precipitation of grain boundary α phase is found to be the main cause for intergranular fracture and tensile properties degradation. The precipitation of α phase on grain boundaries decreases with the increase in the thermal exposure temperature and a concomitant improvement of the ductility has been observed.</ce:para>
+</ce:list-item>
+</ce:list>
+</ce:para>
+</ce:section>
+</ce:sections>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<ce:other-ref>
+<ce:textref>D.M. Berczik, U.S. Patent Application, 5,176,762 (1993).</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.G.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.A.</ce:given-name>
+<ce:surname>Blenkinsop</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.H.</ce:given-name>
+<ce:surname>Loretto</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Rugg</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>10</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2889</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.Q.</ce:given-name>
+<ce:surname>Zhao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.Y.</ce:given-name>
+<ce:surname>Zhu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.L.</ce:given-name>
+<ce:surname>Qu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Technol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>16</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1073</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<ce:other-ref>
+<ce:textref>P.A. Russo, S.R. Seagle, in: P.A. Blenkinsop, W.J. Evans, H.M. Flower (Eds.), Titanium 95: Science and Technology, The University Press, Cambridge, UK, p. 841.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.Q.</ce:given-name>
+<ce:surname>Zhao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.L.</ce:given-name>
+<ce:surname>Qu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.Y.</ce:given-name>
+<ce:surname>Zhu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Rare Metal Mater. Eng.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>28</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>77</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.Q.</ce:given-name>
+<ce:surname>Zhao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Zhou</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.Y.</ce:given-name>
+<ce:surname>Zhu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.L.</ce:given-name>
+<ce:surname>Qu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Sci. Technol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>6</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>677</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.Q.</ce:given-name>
+<ce:surname>Zhao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.L.</ce:given-name>
+<ce:surname>Qu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.Y.</ce:given-name>
+<ce:surname>Zhu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>284</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>190</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.Q.</ce:given-name>
+<ce:surname>Zhao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.Y.</ce:given-name>
+<ce:surname>Zhu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.L.</ce:given-name>
+<ce:surname>Qu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>267</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>167</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.Q.</ce:given-name>
+<ce:surname>Zhao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.L.</ce:given-name>
+<ce:surname>Qu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.Y.</ce:given-name>
+<ce:surname>Zhu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>316</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>211</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.Q.</ce:given-name>
+<ce:surname>Zhao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.Y.</ce:given-name>
+<ce:surname>Zhu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.L.</ce:given-name>
+<ce:surname>Qu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>282</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>153</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<ce:other-ref>
+<ce:textref>D. Eylon, in: S. Fujishiro, D. Eylon, T. Kishi (Eds.), Metallurgy and Technology of Practical Titanium Alloys, Tokyo, Japan, 1994, p. 29, printed in the United States of America, Library of Congress Catalog 94–73534.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.G.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.A.</ce:given-name>
+<ce:surname>Blenkinsop</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.H.</ce:given-name>
+<ce:surname>Loretto</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>16</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>5777</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.Y.</ce:given-name>
+<ce:surname>Zhu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.Q.</ce:given-name>
+<ce:surname>Zhao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.H.</ce:given-name>
+<ce:surname>Jin</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>39</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2387</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.E.</ce:given-name>
+<ce:surname>Shambler</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The Science, Technology and Application of Titanium</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1970</sb:date>
+</sb:book>
+</sb:host>
+<sb:comment>p. 199</sb:comment>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.Q.</ce:given-name>
+<ce:surname>Zhao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.L.</ce:given-name>
+<ce:surname>Qu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.Y.</ce:given-name>
+<ce:surname>Zhu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Chin. J. Rare Metal Mater. Eng.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>32</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>45</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib16">
+<ce:label>[16]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.W.</ce:given-name>
+<ce:surname>Duerig</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.C.S.</ce:given-name>
+<ce:surname>Williams</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Beta Titanium Alloys in the 1980's</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1983</sb:date>
+<sb:publisher>
+<sb:name>Titanium Committee of AIME</sb:name>
+<sb:location>Atlanta, Georgia</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+<sb:comment>p. 19</sb:comment>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

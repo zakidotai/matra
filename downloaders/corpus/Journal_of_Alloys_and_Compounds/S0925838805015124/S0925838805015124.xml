@@ -1,0 +1,2901 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838805015124</prism:url><dc:identifier>doi:10.1016/j.jallcom.2005.09.067</dc:identifier><eid>1-s2.0-S0925838805015124</eid><prism:doi>10.1016/j.jallcom.2005.09.067</prism:doi><pii>S0925-8388(05)01512-4</pii><dc:title>Effect of Ti-doping on the dehydrogenation kinetic parameters of lithium aluminum hydride </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>419</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>40</prism:startingpage><prism:endingpage>44</prism:endingpage><prism:pagerange>40-44</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2006-08-10</prism:coverdate><prism:coverdisplaydate>10 August 2006</prism:coverdisplaydate><prism:copyright>Copyright © 2005 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Andreasen, Anders</dc:creator><dc:description>
+                  The effect of Ti-doping on the dehydrogenation kinetics of lithium aluminum hydride has been investigated in this paper. For the decomposition of lithium aluminum hydride into trilithium hexahydridoaluminate apparent activation energies of 81 and 89 kJ/mol are found for the un-doped and Ti-doped sample, respectively. For the decomposition of trilithium hexahydridoaluminate into lithium hydride apparent activation energies of 108 and 103 kJ/mol are found. The differences in apparent activation energies between the un-doped and the Ti-doped sample are within experimental uncertainty, suggesting that the effect of Ti-doping on the kinetic parameters of dehydrogenation of lithium aluminum hydride, is mainly a prefactor effect.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Hydrogen storage materials</dcterms:subject><dcterms:subject>High energy ball milling</dcterms:subject><dcterms:subject>X-ray diffraction</dcterms:subject><dcterms:subject>Thermal analysis</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838805015124" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838805015124" rel="scidir"/></coredata><objects><object category="thumbnail" height="40" mimetype="image/gif" multimediatype="GIF image file" ref="si40" size="1108" type="ALTIMG" width="189">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si40.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="30" mimetype="image/gif" multimediatype="GIF image file" ref="si28" size="389" type="ALTIMG" width="52">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si28.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="64" mimetype="image/gif" multimediatype="GIF image file" ref="si26" size="972" type="ALTIMG" width="129">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si26.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="14" mimetype="image/gif" multimediatype="GIF image file" ref="si9" size="128" type="ALTIMG" width="10">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si9.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="7" mimetype="image/gif" multimediatype="GIF image file" ref="si8" size="114" type="ALTIMG" width="11">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si8.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="5" mimetype="image/gif" multimediatype="GIF image file" ref="si7" size="102" type="ALTIMG" width="7">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si7.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="5" mimetype="image/gif" multimediatype="GIF image file" ref="si6" size="102" type="ALTIMG" width="7">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si6.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="5" mimetype="image/gif" multimediatype="GIF image file" ref="si5" size="102" type="ALTIMG" width="7">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si5.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="13" mimetype="image/gif" multimediatype="GIF image file" ref="si48" size="152" type="ALTIMG" width="19">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si48.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="13" mimetype="image/gif" multimediatype="GIF image file" ref="si47" size="173" type="ALTIMG" width="22">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si47.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="14" mimetype="image/gif" multimediatype="GIF image file" ref="si46" size="145" type="ALTIMG" width="11">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si46.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="5" mimetype="image/gif" multimediatype="GIF image file" ref="si45" size="102" type="ALTIMG" width="7">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si45.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="13" mimetype="image/gif" multimediatype="GIF image file" ref="si44" size="152" type="ALTIMG" width="19">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si44.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="13" mimetype="image/gif" multimediatype="GIF image file" ref="si43" size="173" type="ALTIMG" width="22">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si43.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="14" mimetype="image/gif" multimediatype="GIF image file" ref="si42" size="145" type="ALTIMG" width="11">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si42.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="8" mimetype="image/gif" multimediatype="GIF image file" ref="si41" size="116" type="ALTIMG" width="9">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si41.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="34" mimetype="image/gif" multimediatype="GIF image file" ref="si4" size="749" type="ALTIMG" width="171">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="8" mimetype="image/gif" multimediatype="GIF image file" ref="si39" size="116" type="ALTIMG" width="9">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si39.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="31" mimetype="image/gif" multimediatype="GIF image file" ref="si38" size="322" type="ALTIMG" width="61">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si38.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="11" mimetype="image/gif" multimediatype="GIF image file" ref="si37" size="218" type="ALTIMG" width="46">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si37.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="11" mimetype="image/gif" multimediatype="GIF image file" ref="si36" size="223" type="ALTIMG" width="52">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si36.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="11" mimetype="image/gif" multimediatype="GIF image file" ref="si35" size="224" type="ALTIMG" width="45">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si35.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="5" mimetype="image/gif" multimediatype="GIF image file" ref="si34" size="102" type="ALTIMG" width="7">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si34.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="5" mimetype="image/gif" multimediatype="GIF image file" ref="si33" size="102" type="ALTIMG" width="7">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si33.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="43" mimetype="image/gif" multimediatype="GIF image file" ref="si32" size="1884" type="ALTIMG" width="369">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si32.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="11" mimetype="image/gif" multimediatype="GIF image file" ref="si31" size="263" type="ALTIMG" width="53">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si31.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="11" mimetype="image/gif" multimediatype="GIF image file" ref="si30" size="218" type="ALTIMG" width="46">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si30.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="34" mimetype="image/gif" multimediatype="GIF image file" ref="si3" size="995" type="ALTIMG" width="219">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="23" mimetype="image/gif" multimediatype="GIF image file" ref="si29" size="182" type="ALTIMG" width="18">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si29.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="13" mimetype="image/gif" multimediatype="GIF image file" ref="si27" size="173" type="ALTIMG" width="22">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si27.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="13" mimetype="image/gif" multimediatype="GIF image file" ref="si25" size="173" type="ALTIMG" width="22">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si25.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="14" mimetype="image/gif" multimediatype="GIF image file" ref="si24" size="145" type="ALTIMG" width="11">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si24.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="13" mimetype="image/gif" multimediatype="GIF image file" ref="si23" size="152" type="ALTIMG" width="19">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si23.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="34" mimetype="image/gif" multimediatype="GIF image file" ref="si22" size="1330" type="ALTIMG" width="300">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si22.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si21" size="683" type="ALTIMG" width="159">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si21.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="5" mimetype="image/gif" multimediatype="GIF image file" ref="si20" size="102" type="ALTIMG" width="7">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si20.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="34" mimetype="image/gif" multimediatype="GIF image file" ref="si2" size="1019" type="ALTIMG" width="232">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="5" mimetype="image/gif" multimediatype="GIF image file" ref="si19" size="102" type="ALTIMG" width="7">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si19.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="5" mimetype="image/gif" multimediatype="GIF image file" ref="si18" size="102" type="ALTIMG" width="7">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si18.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="5" mimetype="image/gif" multimediatype="GIF image file" ref="si17" size="102" type="ALTIMG" width="7">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si17.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="11" mimetype="image/gif" multimediatype="GIF image file" ref="si16" size="232" type="ALTIMG" width="54">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si16.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="15" mimetype="image/gif" multimediatype="GIF image file" ref="si15" size="319" type="ALTIMG" width="69">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si15.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="11" mimetype="image/gif" multimediatype="GIF image file" ref="si14" size="227" type="ALTIMG" width="59">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si14.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="11" mimetype="image/gif" multimediatype="GIF image file" ref="si13" size="256" type="ALTIMG" width="60">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si13.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="11" mimetype="image/gif" multimediatype="GIF image file" ref="si12" size="274" type="ALTIMG" width="60">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si12.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="14" mimetype="image/gif" multimediatype="GIF image file" ref="si11" size="243" type="ALTIMG" width="42">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si11.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="5" mimetype="image/gif" multimediatype="GIF image file" ref="si10" size="102" type="ALTIMG" width="7">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si10.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="5" mimetype="image/gif" multimediatype="GIF image file" ref="si1" size="102" type="ALTIMG" width="7">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-si1.gif?httpAccept=%2A%2F%2A</object><object category="standard" height="204" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="21141" type="IMAGE-DOWNSAMPLED" width="364">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-gr4.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="70" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="2615" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="251" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr5" size="25204" type="IMAGE-DOWNSAMPLED" width="366">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-gr5.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="86" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="2789" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="271" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="26421" type="IMAGE-DOWNSAMPLED" width="372">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="91" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="2796" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="172" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="13465" type="IMAGE-DOWNSAMPLED" width="364">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="59" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="1953" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="283" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="5147" type="IMAGE-DOWNSAMPLED" width="324">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-gr6.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="1162" type="IMAGE-THUMBNAIL" width="107">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="283" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="5922" type="IMAGE-DOWNSAMPLED" width="327">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-gr3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="1243" type="IMAGE-THUMBNAIL" width="108">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015124-gr3.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>33746992688</scopus-id><scopus-eid>2-s2.0-33746992688</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/33746992688" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20051116">2005-11-16</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20051116">2005-11-16</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-03-29T07:36:02</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838805015124</xocs:eid>
+<xocs:pii-formatted>S0925-8388(05)01512-4</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805015124</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2005.09.067</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838806X02578</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.349087-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20060810</xocs:date-search-begin>
+<xocs:year-nav>2006</xocs:year-nav>
+<xocs:indexeddate epoch="1132099200">2005-11-16T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>419</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>419</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 419, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>9</xocs:sort-order>
+<xocs:first-fp>40</xocs:first-fp>
+<xocs:last-lp>44</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>40</xocs:first-page>
+<xocs:last-page>44</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20060810</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>10 August 2006</xocs:cover-date-text>
+<xocs:cover-date-start>2006-08-10</xocs:cover-date-start>
+<xocs:cover-date-year>2006</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Chemistry</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2005 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>EFFECTTIDOPINGDEHYDROGENATIONKINETICPARAMETERSLITHIUMALUMINUMHYDRIDE</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>ANDREASEN</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>A</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Initial materials characterization</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Dehydrogenation kinetics of as-received LiAlH<ce:inf loc="post">4</ce:inf>
+</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Catalytic doping and stability of LiAlH<ce:inf loc="post">4</ce:inf>
+</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Dehydrogenation kinetics of Ti-doped samples</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.5</xocs:item-toc-label>
+<xocs:item-toc-section-title>Effect of Ti-doping on the kinetic parameters</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgment</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>BOGDANOVIC</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>1</xocs:ref-first-fp>
+<xocs:ref-last-lp>9</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>DILTS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1972</xocs:ref-pub-year>
+<xocs:ref-first-fp>1230</xocs:ref-first-fp>
+<xocs:ref-last-lp>1236</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>DYMOVA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1994</xocs:ref-pub-year>
+<xocs:ref-first-fp>279</xocs:ref-first-fp>
+<xocs:ref-last-lp>285</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>BLANCHARD</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>54</xocs:ref-first-fp>
+<xocs:ref-last-lp>59</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>11214</xocs:ref-first-fp>
+<xocs:ref-last-lp>11220</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>BALEMA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>69</xocs:ref-first-fp>
+<xocs:ref-last-lp>74</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>BRINKS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>222</xocs:ref-first-fp>
+<xocs:ref-last-lp>227</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8"></xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>BALEMA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>1665</xocs:ref-first-fp>
+<xocs:ref-last-lp>1666</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>BALEMA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>108</xocs:ref-first-fp>
+<xocs:ref-last-lp>114</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>BRINKS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>291</xocs:ref-first-fp>
+<xocs:ref-last-lp>295</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>MCCARTHY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1968</xocs:ref-pub-year>
+<xocs:ref-first-fp>4009</xocs:ref-first-fp>
+<xocs:ref-last-lp>4014</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13"></xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>HAUBACK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>184</xocs:ref-first-fp>
+<xocs:ref-last-lp>189</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15">
+<xocs:ref-normalized-surname>WIBERG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1971</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>HYDRIDESELEMENTSMAINGROUPSIIV</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib16">
+<xocs:ref-normalized-surname>ANDREI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>4350</xocs:ref-first-fp>
+<xocs:ref-last-lp>4356</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib17">
+<xocs:ref-normalized-surname>ZALUSKI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>71</xocs:ref-first-fp>
+<xocs:ref-last-lp>78</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib18">
+<xocs:ref-normalized-surname>KISSINGER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1957</xocs:ref-pub-year>
+<xocs:ref-first-fp>1702</xocs:ref-first-fp>
+<xocs:ref-last-lp>1706</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib19">
+<xocs:ref-normalized-surname>BRINKS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>215</xocs:ref-first-fp>
+<xocs:ref-last-lp>221</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib20">
+<xocs:ref-normalized-surname>BOGDANOVIC</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>246</xocs:ref-first-fp>
+<xocs:ref-last-lp>255</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib21">
+<xocs:ref-normalized-surname>MAJZOUB</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>363</xocs:ref-first-fp>
+<xocs:ref-last-lp>367</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib22"></xocs:ref-info>
+<xocs:ref-info refid="bib23"></xocs:ref-info>
+<xocs:ref-info refid="bib24">
+<xocs:ref-normalized-surname>SANDROCK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>686</xocs:ref-first-fp>
+<xocs:ref-last-lp>701</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib25">
+<xocs:ref-normalized-surname>LUO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>224</xocs:ref-first-fp>
+<xocs:ref-last-lp>231</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib26">
+<xocs:ref-normalized-surname>SANDROCK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>299</xocs:ref-first-fp>
+<xocs:ref-last-lp>308</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib27">
+<xocs:ref-normalized-surname>KIYOBAYASHI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>7671</xocs:ref-first-fp>
+<xocs:ref-last-lp>7674</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib28"></xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>ANDREASENX2006X40</xocs:refkey3>
+<xocs:refkey4lp>ANDREASENX2006X40X44</xocs:refkey4lp>
+<xocs:refkey4ai>ANDREASENX2006X40XA</xocs:refkey4ai>
+<xocs:refkey5>ANDREASENX2006X40X44XA</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(05)01512-4</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805015124</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838805015124</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2005.09.067</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-08T03:48:30.27518-04:00</xocs:timestamp>
+<xocs:cover-date-start>2006-08-10</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/MAIN/application/pdf/45710fc6103303b3e4571c1a42556643/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/MAIN/application/pdf/45710fc6103303b3e4571c1a42556643/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>269320</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/PREVIEW/image/png/2b380e1faaebaff9ac5d07b776d622e9/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/PREVIEW/image/png/2b380e1faaebaff9ac5d07b776d622e9/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>59339</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si40.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/78f71aed60e8a84a776931952491e0c7/si40.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/78f71aed60e8a84a776931952491e0c7/si40.gif</xocs:ucs-locator>
+<xocs:file-basename>si40</xocs:file-basename>
+<xocs:filename>si40.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1108</xocs:filesize>
+<xocs:pixel-height>40</xocs:pixel-height>
+<xocs:pixel-width>189</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si28.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/101026a7ab5587396f90596825835d85/si28.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/101026a7ab5587396f90596825835d85/si28.gif</xocs:ucs-locator>
+<xocs:file-basename>si28</xocs:file-basename>
+<xocs:filename>si28.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>389</xocs:filesize>
+<xocs:pixel-height>30</xocs:pixel-height>
+<xocs:pixel-width>52</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si26.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/40d36989e248801b2d9e6dbfd5b6e49b/si26.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/40d36989e248801b2d9e6dbfd5b6e49b/si26.gif</xocs:ucs-locator>
+<xocs:file-basename>si26</xocs:file-basename>
+<xocs:filename>si26.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>972</xocs:filesize>
+<xocs:pixel-height>64</xocs:pixel-height>
+<xocs:pixel-width>129</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si9.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/b03e0e79ff743bc0dd900f596f20dff4/si9.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/b03e0e79ff743bc0dd900f596f20dff4/si9.gif</xocs:ucs-locator>
+<xocs:file-basename>si9</xocs:file-basename>
+<xocs:filename>si9.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>128</xocs:filesize>
+<xocs:pixel-height>14</xocs:pixel-height>
+<xocs:pixel-width>10</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si8.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/e4575308b665f2203f760eb9df49ae04/si8.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/e4575308b665f2203f760eb9df49ae04/si8.gif</xocs:ucs-locator>
+<xocs:file-basename>si8</xocs:file-basename>
+<xocs:filename>si8.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>114</xocs:filesize>
+<xocs:pixel-height>7</xocs:pixel-height>
+<xocs:pixel-width>11</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si7.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/dd3fee785dfd7dd565fd7e5b7a7045ae/si6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/dd3fee785dfd7dd565fd7e5b7a7045ae/si6.gif</xocs:ucs-locator>
+<xocs:file-basename>si7</xocs:file-basename>
+<xocs:filename>si7.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>102</xocs:filesize>
+<xocs:pixel-height>5</xocs:pixel-height>
+<xocs:pixel-width>7</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si6.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/dd3fee785dfd7dd565fd7e5b7a7045ae/si6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/dd3fee785dfd7dd565fd7e5b7a7045ae/si6.gif</xocs:ucs-locator>
+<xocs:file-basename>si6</xocs:file-basename>
+<xocs:filename>si6.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>102</xocs:filesize>
+<xocs:pixel-height>5</xocs:pixel-height>
+<xocs:pixel-width>7</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si5.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/dd3fee785dfd7dd565fd7e5b7a7045ae/si6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/dd3fee785dfd7dd565fd7e5b7a7045ae/si6.gif</xocs:ucs-locator>
+<xocs:file-basename>si5</xocs:file-basename>
+<xocs:filename>si5.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>102</xocs:filesize>
+<xocs:pixel-height>5</xocs:pixel-height>
+<xocs:pixel-width>7</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si48.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/4621c1004b7cfa02eaaffe9fc5bc4a08/si44.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/4621c1004b7cfa02eaaffe9fc5bc4a08/si44.gif</xocs:ucs-locator>
+<xocs:file-basename>si48</xocs:file-basename>
+<xocs:filename>si48.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>152</xocs:filesize>
+<xocs:pixel-height>13</xocs:pixel-height>
+<xocs:pixel-width>19</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si47.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/61134c98b2bfcbeeef62e1f5aef40c55/si43.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/61134c98b2bfcbeeef62e1f5aef40c55/si43.gif</xocs:ucs-locator>
+<xocs:file-basename>si47</xocs:file-basename>
+<xocs:filename>si47.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>173</xocs:filesize>
+<xocs:pixel-height>13</xocs:pixel-height>
+<xocs:pixel-width>22</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si46.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/a98e7d5f5ad28357904eb18f569d4693/si46.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/a98e7d5f5ad28357904eb18f569d4693/si46.gif</xocs:ucs-locator>
+<xocs:file-basename>si46</xocs:file-basename>
+<xocs:filename>si46.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>145</xocs:filesize>
+<xocs:pixel-height>14</xocs:pixel-height>
+<xocs:pixel-width>11</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si45.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/dd3fee785dfd7dd565fd7e5b7a7045ae/si6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/dd3fee785dfd7dd565fd7e5b7a7045ae/si6.gif</xocs:ucs-locator>
+<xocs:file-basename>si45</xocs:file-basename>
+<xocs:filename>si45.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>102</xocs:filesize>
+<xocs:pixel-height>5</xocs:pixel-height>
+<xocs:pixel-width>7</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si44.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/4621c1004b7cfa02eaaffe9fc5bc4a08/si44.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/4621c1004b7cfa02eaaffe9fc5bc4a08/si44.gif</xocs:ucs-locator>
+<xocs:file-basename>si44</xocs:file-basename>
+<xocs:filename>si44.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>152</xocs:filesize>
+<xocs:pixel-height>13</xocs:pixel-height>
+<xocs:pixel-width>19</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si43.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/61134c98b2bfcbeeef62e1f5aef40c55/si43.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/61134c98b2bfcbeeef62e1f5aef40c55/si43.gif</xocs:ucs-locator>
+<xocs:file-basename>si43</xocs:file-basename>
+<xocs:filename>si43.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>173</xocs:filesize>
+<xocs:pixel-height>13</xocs:pixel-height>
+<xocs:pixel-width>22</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si42.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/a98e7d5f5ad28357904eb18f569d4693/si46.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/a98e7d5f5ad28357904eb18f569d4693/si46.gif</xocs:ucs-locator>
+<xocs:file-basename>si42</xocs:file-basename>
+<xocs:filename>si42.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>145</xocs:filesize>
+<xocs:pixel-height>14</xocs:pixel-height>
+<xocs:pixel-width>11</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si41.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/d8d19d6352826b1788d1e637b6ce6fa3/si41.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/d8d19d6352826b1788d1e637b6ce6fa3/si41.gif</xocs:ucs-locator>
+<xocs:file-basename>si41</xocs:file-basename>
+<xocs:filename>si41.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>116</xocs:filesize>
+<xocs:pixel-height>8</xocs:pixel-height>
+<xocs:pixel-width>9</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/77507497c08723c5b3679e100623fe9e/si4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/77507497c08723c5b3679e100623fe9e/si4.gif</xocs:ucs-locator>
+<xocs:file-basename>si4</xocs:file-basename>
+<xocs:filename>si4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>749</xocs:filesize>
+<xocs:pixel-height>34</xocs:pixel-height>
+<xocs:pixel-width>171</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si39.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/d8d19d6352826b1788d1e637b6ce6fa3/si41.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/d8d19d6352826b1788d1e637b6ce6fa3/si41.gif</xocs:ucs-locator>
+<xocs:file-basename>si39</xocs:file-basename>
+<xocs:filename>si39.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>116</xocs:filesize>
+<xocs:pixel-height>8</xocs:pixel-height>
+<xocs:pixel-width>9</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si38.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/d5d0dd715dc58f72b97547946f8c2856/si38.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/d5d0dd715dc58f72b97547946f8c2856/si38.gif</xocs:ucs-locator>
+<xocs:file-basename>si38</xocs:file-basename>
+<xocs:filename>si38.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>322</xocs:filesize>
+<xocs:pixel-height>31</xocs:pixel-height>
+<xocs:pixel-width>61</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si37.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/563c3a2f2a6a7ef0ce6ee005e3a0cb46/si37.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/563c3a2f2a6a7ef0ce6ee005e3a0cb46/si37.gif</xocs:ucs-locator>
+<xocs:file-basename>si37</xocs:file-basename>
+<xocs:filename>si37.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>218</xocs:filesize>
+<xocs:pixel-height>11</xocs:pixel-height>
+<xocs:pixel-width>46</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si36.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/f0a514147c09ee2c38fd50e8061a4571/si36.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/f0a514147c09ee2c38fd50e8061a4571/si36.gif</xocs:ucs-locator>
+<xocs:file-basename>si36</xocs:file-basename>
+<xocs:filename>si36.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>223</xocs:filesize>
+<xocs:pixel-height>11</xocs:pixel-height>
+<xocs:pixel-width>52</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si35.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/86ba632fcc9cf3dd24bb3d23e8ca4723/si35.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/86ba632fcc9cf3dd24bb3d23e8ca4723/si35.gif</xocs:ucs-locator>
+<xocs:file-basename>si35</xocs:file-basename>
+<xocs:filename>si35.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>224</xocs:filesize>
+<xocs:pixel-height>11</xocs:pixel-height>
+<xocs:pixel-width>45</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si34.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/dd3fee785dfd7dd565fd7e5b7a7045ae/si6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/dd3fee785dfd7dd565fd7e5b7a7045ae/si6.gif</xocs:ucs-locator>
+<xocs:file-basename>si34</xocs:file-basename>
+<xocs:filename>si34.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>102</xocs:filesize>
+<xocs:pixel-height>5</xocs:pixel-height>
+<xocs:pixel-width>7</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si33.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/dd3fee785dfd7dd565fd7e5b7a7045ae/si6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/dd3fee785dfd7dd565fd7e5b7a7045ae/si6.gif</xocs:ucs-locator>
+<xocs:file-basename>si33</xocs:file-basename>
+<xocs:filename>si33.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>102</xocs:filesize>
+<xocs:pixel-height>5</xocs:pixel-height>
+<xocs:pixel-width>7</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si32.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/84084879243891d3a0189a3895165c4c/si32.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/84084879243891d3a0189a3895165c4c/si32.gif</xocs:ucs-locator>
+<xocs:file-basename>si32</xocs:file-basename>
+<xocs:filename>si32.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1884</xocs:filesize>
+<xocs:pixel-height>43</xocs:pixel-height>
+<xocs:pixel-width>369</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si31.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/808e210dafec590ae2d113f02a8eb205/si31.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/808e210dafec590ae2d113f02a8eb205/si31.gif</xocs:ucs-locator>
+<xocs:file-basename>si31</xocs:file-basename>
+<xocs:filename>si31.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>263</xocs:filesize>
+<xocs:pixel-height>11</xocs:pixel-height>
+<xocs:pixel-width>53</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si30.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/563c3a2f2a6a7ef0ce6ee005e3a0cb46/si37.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/563c3a2f2a6a7ef0ce6ee005e3a0cb46/si37.gif</xocs:ucs-locator>
+<xocs:file-basename>si30</xocs:file-basename>
+<xocs:filename>si30.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>218</xocs:filesize>
+<xocs:pixel-height>11</xocs:pixel-height>
+<xocs:pixel-width>46</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/1aabab02acb574b8aa69b8c151eca95d/si3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/1aabab02acb574b8aa69b8c151eca95d/si3.gif</xocs:ucs-locator>
+<xocs:file-basename>si3</xocs:file-basename>
+<xocs:filename>si3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>995</xocs:filesize>
+<xocs:pixel-height>34</xocs:pixel-height>
+<xocs:pixel-width>219</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si29.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/73af944fd16fc556c34efcbdeff654e5/si29.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/73af944fd16fc556c34efcbdeff654e5/si29.gif</xocs:ucs-locator>
+<xocs:file-basename>si29</xocs:file-basename>
+<xocs:filename>si29.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>182</xocs:filesize>
+<xocs:pixel-height>23</xocs:pixel-height>
+<xocs:pixel-width>18</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si27.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/61134c98b2bfcbeeef62e1f5aef40c55/si43.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/61134c98b2bfcbeeef62e1f5aef40c55/si43.gif</xocs:ucs-locator>
+<xocs:file-basename>si27</xocs:file-basename>
+<xocs:filename>si27.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>173</xocs:filesize>
+<xocs:pixel-height>13</xocs:pixel-height>
+<xocs:pixel-width>22</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si25.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/61134c98b2bfcbeeef62e1f5aef40c55/si43.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/61134c98b2bfcbeeef62e1f5aef40c55/si43.gif</xocs:ucs-locator>
+<xocs:file-basename>si25</xocs:file-basename>
+<xocs:filename>si25.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>173</xocs:filesize>
+<xocs:pixel-height>13</xocs:pixel-height>
+<xocs:pixel-width>22</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si24.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/a98e7d5f5ad28357904eb18f569d4693/si46.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/a98e7d5f5ad28357904eb18f569d4693/si46.gif</xocs:ucs-locator>
+<xocs:file-basename>si24</xocs:file-basename>
+<xocs:filename>si24.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>145</xocs:filesize>
+<xocs:pixel-height>14</xocs:pixel-height>
+<xocs:pixel-width>11</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si23.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/4621c1004b7cfa02eaaffe9fc5bc4a08/si44.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/4621c1004b7cfa02eaaffe9fc5bc4a08/si44.gif</xocs:ucs-locator>
+<xocs:file-basename>si23</xocs:file-basename>
+<xocs:filename>si23.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>152</xocs:filesize>
+<xocs:pixel-height>13</xocs:pixel-height>
+<xocs:pixel-width>19</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si22.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/20bb1b9ca593fdd3b66a1d9974e55efa/si22.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/20bb1b9ca593fdd3b66a1d9974e55efa/si22.gif</xocs:ucs-locator>
+<xocs:file-basename>si22</xocs:file-basename>
+<xocs:filename>si22.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1330</xocs:filesize>
+<xocs:pixel-height>34</xocs:pixel-height>
+<xocs:pixel-width>300</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si21.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/dca551e61f3ca28e7e863333da329d30/si21.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/dca551e61f3ca28e7e863333da329d30/si21.gif</xocs:ucs-locator>
+<xocs:file-basename>si21</xocs:file-basename>
+<xocs:filename>si21.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>683</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>159</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si20.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/dd3fee785dfd7dd565fd7e5b7a7045ae/si6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/dd3fee785dfd7dd565fd7e5b7a7045ae/si6.gif</xocs:ucs-locator>
+<xocs:file-basename>si20</xocs:file-basename>
+<xocs:filename>si20.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>102</xocs:filesize>
+<xocs:pixel-height>5</xocs:pixel-height>
+<xocs:pixel-width>7</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/1e1439d84f9d156a3c61ab93749868a5/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/1e1439d84f9d156a3c61ab93749868a5/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si2</xocs:file-basename>
+<xocs:filename>si2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1019</xocs:filesize>
+<xocs:pixel-height>34</xocs:pixel-height>
+<xocs:pixel-width>232</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si19.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/dd3fee785dfd7dd565fd7e5b7a7045ae/si6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/dd3fee785dfd7dd565fd7e5b7a7045ae/si6.gif</xocs:ucs-locator>
+<xocs:file-basename>si19</xocs:file-basename>
+<xocs:filename>si19.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>102</xocs:filesize>
+<xocs:pixel-height>5</xocs:pixel-height>
+<xocs:pixel-width>7</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si18.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/dd3fee785dfd7dd565fd7e5b7a7045ae/si6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/dd3fee785dfd7dd565fd7e5b7a7045ae/si6.gif</xocs:ucs-locator>
+<xocs:file-basename>si18</xocs:file-basename>
+<xocs:filename>si18.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>102</xocs:filesize>
+<xocs:pixel-height>5</xocs:pixel-height>
+<xocs:pixel-width>7</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si17.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/dd3fee785dfd7dd565fd7e5b7a7045ae/si6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/dd3fee785dfd7dd565fd7e5b7a7045ae/si6.gif</xocs:ucs-locator>
+<xocs:file-basename>si17</xocs:file-basename>
+<xocs:filename>si17.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>102</xocs:filesize>
+<xocs:pixel-height>5</xocs:pixel-height>
+<xocs:pixel-width>7</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si16.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/a838df7cf52eb6dfe3660a7089bed8d1/si16.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/a838df7cf52eb6dfe3660a7089bed8d1/si16.gif</xocs:ucs-locator>
+<xocs:file-basename>si16</xocs:file-basename>
+<xocs:filename>si16.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>232</xocs:filesize>
+<xocs:pixel-height>11</xocs:pixel-height>
+<xocs:pixel-width>54</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si15.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/e8ab65bf70ad7f09a4529589363fc04d/si15.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/e8ab65bf70ad7f09a4529589363fc04d/si15.gif</xocs:ucs-locator>
+<xocs:file-basename>si15</xocs:file-basename>
+<xocs:filename>si15.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>319</xocs:filesize>
+<xocs:pixel-height>15</xocs:pixel-height>
+<xocs:pixel-width>69</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si14.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/d9b2ad17fbacb231fb388b514f9a7443/si14.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/d9b2ad17fbacb231fb388b514f9a7443/si14.gif</xocs:ucs-locator>
+<xocs:file-basename>si14</xocs:file-basename>
+<xocs:filename>si14.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>227</xocs:filesize>
+<xocs:pixel-height>11</xocs:pixel-height>
+<xocs:pixel-width>59</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si13.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/75592dadbf2f91ef6890ff6807dd510f/si13.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/75592dadbf2f91ef6890ff6807dd510f/si13.gif</xocs:ucs-locator>
+<xocs:file-basename>si13</xocs:file-basename>
+<xocs:filename>si13.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>256</xocs:filesize>
+<xocs:pixel-height>11</xocs:pixel-height>
+<xocs:pixel-width>60</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si12.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/4c6ee8fcef58b4596ad9d68d7d503a73/si12.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/4c6ee8fcef58b4596ad9d68d7d503a73/si12.gif</xocs:ucs-locator>
+<xocs:file-basename>si12</xocs:file-basename>
+<xocs:filename>si12.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>274</xocs:filesize>
+<xocs:pixel-height>11</xocs:pixel-height>
+<xocs:pixel-width>60</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si11.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/daf0487e6a95398d6c901e3ea3fb6dce/si11.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/daf0487e6a95398d6c901e3ea3fb6dce/si11.gif</xocs:ucs-locator>
+<xocs:file-basename>si11</xocs:file-basename>
+<xocs:filename>si11.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>243</xocs:filesize>
+<xocs:pixel-height>14</xocs:pixel-height>
+<xocs:pixel-width>42</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si10.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/dd3fee785dfd7dd565fd7e5b7a7045ae/si6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/dd3fee785dfd7dd565fd7e5b7a7045ae/si6.gif</xocs:ucs-locator>
+<xocs:file-basename>si10</xocs:file-basename>
+<xocs:filename>si10.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>102</xocs:filesize>
+<xocs:pixel-height>5</xocs:pixel-height>
+<xocs:pixel-width>7</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-si1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/STRIPIN/image/gif/dd3fee785dfd7dd565fd7e5b7a7045ae/si6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/STRIPIN/image/gif/dd3fee785dfd7dd565fd7e5b7a7045ae/si6.gif</xocs:ucs-locator>
+<xocs:file-basename>si1</xocs:file-basename>
+<xocs:filename>si1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>102</xocs:filesize>
+<xocs:pixel-height>5</xocs:pixel-height>
+<xocs:pixel-width>7</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-gr4.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/gr4/DOWNSAMPLED/image/jpeg/0d74fc13486b4be116964199ad0dc4df/gr4.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/gr4/DOWNSAMPLED/image/jpeg/0d74fc13486b4be116964199ad0dc4df/gr4.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>21141</xocs:filesize>
+<xocs:pixel-height>204</xocs:pixel-height>
+<xocs:pixel-width>364</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/gr4/THUMBNAIL/image/gif/27827e9f182082a5f1ef8f1903efe96c/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/gr4/THUMBNAIL/image/gif/27827e9f182082a5f1ef8f1903efe96c/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2615</xocs:filesize>
+<xocs:pixel-height>70</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-gr5.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/gr5/DOWNSAMPLED/image/jpeg/33c5d85d4b65fd2bc417be85448050e1/gr5.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/gr5/DOWNSAMPLED/image/jpeg/33c5d85d4b65fd2bc417be85448050e1/gr5.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>25204</xocs:filesize>
+<xocs:pixel-height>251</xocs:pixel-height>
+<xocs:pixel-width>366</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/gr5/THUMBNAIL/image/gif/7582eca2bb3936fd623bf7fde930f023/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/gr5/THUMBNAIL/image/gif/7582eca2bb3936fd623bf7fde930f023/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2789</xocs:filesize>
+<xocs:pixel-height>86</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/gr2/DOWNSAMPLED/image/jpeg/1187099d6aa902c785ac710e72ec7711/gr2.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/gr2/DOWNSAMPLED/image/jpeg/1187099d6aa902c785ac710e72ec7711/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>26421</xocs:filesize>
+<xocs:pixel-height>271</xocs:pixel-height>
+<xocs:pixel-width>372</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/gr2/THUMBNAIL/image/gif/6d6720398d0f33d719ee8566f91cfaaa/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/gr2/THUMBNAIL/image/gif/6d6720398d0f33d719ee8566f91cfaaa/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2796</xocs:filesize>
+<xocs:pixel-height>91</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/gr1/DOWNSAMPLED/image/jpeg/afb00ec0b955c1fcb540abf4003b05a8/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/gr1/DOWNSAMPLED/image/jpeg/afb00ec0b955c1fcb540abf4003b05a8/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>13465</xocs:filesize>
+<xocs:pixel-height>172</xocs:pixel-height>
+<xocs:pixel-width>364</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/gr1/THUMBNAIL/image/gif/66a58764bbfa44b666b3936163a5e5b1/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/gr1/THUMBNAIL/image/gif/66a58764bbfa44b666b3936163a5e5b1/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1953</xocs:filesize>
+<xocs:pixel-height>59</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-gr6.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/gr6/DOWNSAMPLED/image/gif/5f61e954be93df58faf9ee24a7e2fc79/gr6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/gr6/DOWNSAMPLED/image/gif/5f61e954be93df58faf9ee24a7e2fc79/gr6.gif</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>5147</xocs:filesize>
+<xocs:pixel-height>283</xocs:pixel-height>
+<xocs:pixel-width>324</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/gr6/THUMBNAIL/image/gif/0414b60c60880777b2c96bbfa0a5299b/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/gr6/THUMBNAIL/image/gif/0414b60c60880777b2c96bbfa0a5299b/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1162</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>107</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-gr3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/gr3/DOWNSAMPLED/image/gif/bf5804ef0cd29e18715db56b4f40c4ae/gr3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/gr3/DOWNSAMPLED/image/gif/bf5804ef0cd29e18715db56b4f40c4ae/gr3.gif</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>5922</xocs:filesize>
+<xocs:pixel-height>283</xocs:pixel-height>
+<xocs:pixel-width>327</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015124-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015124/gr3/THUMBNAIL/image/gif/a8af3b0c566b71c823f35cf981bac620/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015124/gr3/THUMBNAIL/image/gif/a8af3b0c566b71c823f35cf981bac620/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1243</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>108</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>13185</aid>
+<ce:pii>S0925-8388(05)01512-4</ce:pii>
+<ce:doi>10.1016/j.jallcom.2005.09.067</ce:doi>
+<ce:copyright type="full-transfer" year="2005">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRPD pattern of as-received LiAlH<ce:inf loc="post">4</ce:inf>.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Dehydrogenation of as-received LiAlH<ce:inf loc="post">4</ce:inf> investigated by DSC.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Kissinger plot for dehydrogenation of as-received LiAlH<ce:inf loc="post">4</ce:inf>.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRPD of LiAlH<ce:inf loc="post">4</ce:inf>doped with 2 mol% TiCl<ce:inf loc="post">3⋅</ce:inf>1/3AlCl<ce:inf loc="post">3</ce:inf>ball milled for 1 min at 100 rpm and 5 min at 400 rpm, respectively.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">DSC for LiAlH<ce:inf loc="post">4</ce:inf> doped with 2 mol% TiCl<ce:inf loc="post">3⋅</ce:inf>1/3AlCl<ce:inf loc="post">3</ce:inf> ball milled for 1 min at 100 rpm at different apllied heating rates.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Kisinger analysis for LiAlH<ce:inf loc="post">4</ce:inf> doped with 2 mol% TiCl<ce:inf loc="post">3⋅</ce:inf>1/3AlCl<ce:inf loc="post">3</ce:inf> ball milled for 1 min at 100 rpm.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+</ce:floats>
+<ce:title>Effect of Ti-doping on the dehydrogenation kinetic parameters of lithium aluminum hydride</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>Anders</ce:given-name>
+<ce:surname>Andreasen</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="cor1">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation id="aff1">
+<ce:label>a</ce:label>
+<ce:textfn>Materials Research Department, Risø National Laboratory, DK-4000 Roskilde, Denmark</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff2">
+<ce:label>b</ce:label>
+<ce:textfn>Interdisciplinary Research Center for Catalysis, Department of Chemical Engineering, Technical University of Denmark, DK-2800 Lyngby, Denmark</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>⁎</ce:label>
+<ce:text>Present address: MAN B&amp;W A/S, Basic Research and Emission, Teglholmsgade 41, DK-2450 Copenhangen SV, Denmark. Tel.: +45 3385 2902; fax: +45 3385 1041.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="6" month="9" year="2005"></ce:date-received>
+<ce:date-revised day="27" month="9" year="2005"></ce:date-revised>
+<ce:date-accepted day="29" month="9" year="2005"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">The effect of Ti-doping on the dehydrogenation kinetics of lithium aluminum hydride has been investigated in this paper. For the decomposition of lithium aluminum hydride into trilithium hexahydridoaluminate apparent activation energies of 81 and 89 kJ/mol are found for the un-doped and Ti-doped sample, respectively. For the decomposition of trilithium hexahydridoaluminate into lithium hydride apparent activation energies of 108 and 103 kJ/mol are found. The differences in apparent activation energies between the un-doped and the Ti-doped sample are within experimental uncertainty, suggesting that the effect of Ti-doping on the kinetic parameters of dehydrogenation of lithium aluminum hydride, is mainly a prefactor effect.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Hydrogen storage materials</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>High energy ball milling</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>X-ray diffraction</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Thermal analysis</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section id="sec1" view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Since the discovery of reversible solid state hydrogen storage in NaAlH<ce:inf loc="post">4</ce:inf>
+<ce:cross-ref refid="bib1">[1]</ce:cross-ref> , the alanates and borohydrides, in general, have been subject to an intense research effort. Until present date, main focus has been on NaAlH<ce:inf loc="post">4</ce:inf>although it does not fully meet the DOE targets for gravimetric hydrogen storage density and thermodynamics. LiAlH<ce:inf loc="post">4</ce:inf>, on the other hand, has a higher gravimetric hydrogen density and thermodynamics allow hydrogen desorption at 1 bar even below 100 <mml:math altimg="si1.gif" overflow="scroll">
+<mml:mo>°</mml:mo>
+</mml:math>C, but it has not been investigated as thoroughly as NaAlH<ce:inf loc="post">4</ce:inf>.</ce:para>
+<ce:para view="all">Hydrogen desorbs from LiAlH<ce:inf loc="post">4</ce:inf> in a three-step decomposition, <ce:cross-ref refid="eqn1">(R1)</ce:cross-ref>–<ce:cross-ref refid="eqn3">(R3)</ce:cross-ref>
+<ce:cross-refs refid="bib2 bib3 bib4">[2–4]</ce:cross-refs>:</ce:para>
+<ce:para view="all">
+<ce:display>
+<ce:formula id="eqn1">
+<ce:label>(1)</ce:label>
+<mml:math altimg="si2.gif" overflow="scroll">
+<mml:msub>
+<mml:mrow>
+<mml:mtext>LiAlH</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>4</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mo>→</mml:mo>
+<mml:mfrac>
+<mml:mrow>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+</mml:mrow>
+</mml:mfrac>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>Li</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>AlH</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>6</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mo>+</mml:mo>
+<mml:mfrac>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+</mml:mrow>
+</mml:mfrac>
+<mml:mtext>Al</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>H</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msub>
+</mml:math>
+</ce:formula>
+</ce:display>
+</ce:para>
+<ce:para view="all">
+<ce:display>
+<ce:formula id="eqn2">
+<ce:label>(2)</ce:label>
+<mml:math altimg="si3.gif" overflow="scroll">
+<mml:mfrac>
+<mml:mrow>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+</mml:mrow>
+</mml:mfrac>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>Li</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>AlH</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>6</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mo>→</mml:mo>
+<mml:mtext>LiH</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:mfrac>
+<mml:mrow>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+</mml:mrow>
+</mml:mfrac>
+<mml:mtext>Al</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:mfrac>
+<mml:mrow>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:mfrac>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>H</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msub>
+</mml:math>
+</ce:formula>
+</ce:display>
+</ce:para>
+<ce:para view="all">
+<ce:display>
+<ce:formula id="eqn3">
+<ce:label>(3)</ce:label>
+<mml:math altimg="si4.gif" overflow="scroll">
+<mml:mtext>LiH</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:mtext>Al</mml:mtext>
+<mml:mo>→</mml:mo>
+<mml:mtext>LiAl</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:mfrac>
+<mml:mrow>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:mfrac>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>H</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msub>
+</mml:math>
+</ce:formula>
+</ce:display>
+</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="eqn1">(R1)</ce:cross-ref>–<ce:cross-ref refid="eqn3">(R3)</ce:cross-ref> proceeds with a theoretical hydrogen release of 5.3, 2.6, and 2.6 wt.%, respectively.</ce:para>
+<ce:para view="all">In thermal analysis, <ce:cross-ref refid="eqn1">(R1)</ce:cross-ref> occurs around 112–220 <mml:math altimg="si5.gif" overflow="scroll">
+<mml:mo>°</mml:mo>
+</mml:math> C <ce:cross-refs refid="bib5 bib6 bib7">[5–7]</ce:cross-refs> and is usually initiated by the melting of LiAlH<ce:inf loc="post">4</ce:inf> (endothermic), unless very low heating rates are applied, which is subsequently transformed into solid Li<ce:inf loc="post">3</ce:inf>AlH<ce:inf loc="post">6</ce:inf> and Al during release of hydrogen gas (exothermic). <ce:cross-ref refid="eqn2">(R2)</ce:cross-ref> takes place around 127–260 <mml:math altimg="si6.gif" overflow="scroll">
+<mml:mo>°</mml:mo>
+</mml:math> C (endothermic) <ce:cross-refs refid="bib3 bib4">[3,4]</ce:cross-refs>. <ce:cross-ref refid="eqn3">(R3)</ce:cross-ref>(endothermic) proceeds at elevated temperatures around 350–400 <mml:math altimg="si7.gif" overflow="scroll">
+<mml:mo>°</mml:mo>
+</mml:math> C <ce:cross-ref refid="bib4">[4]</ce:cross-ref>.</ce:para>
+<ce:para view="all">Both ball milling and doping with VCl<ce:inf loc="post">3</ce:inf>, TiCl<ce:inf loc="post">3</ce:inf>, or TiCl<ce:inf loc="post">3⋅</ce:inf>1/3AlCl<ce:inf loc="post">3</ce:inf>results in a lowering of the decomposition temperature of both <ce:cross-ref refid="eqn1">(R1)</ce:cross-ref> and <ce:cross-ref refid="eqn2">(R2)</ce:cross-ref>
+<ce:cross-refs refid="bib4 bib5 bib6 bib8">[4–6,8]</ce:cross-refs>. Pure LiAlH<ce:inf loc="post">4</ce:inf>does not decompose during ball milling at ambient temperatures <ce:cross-ref refid="bib6">[6]</ce:cross-ref> , whereas LiAlH<ce:inf loc="post">4</ce:inf>doped with catalytic additives rapidly decomposes during milling <ce:cross-refs refid="bib4 bib6 bib9 bib10">[4,6,9,10]</ce:cross-refs>. Slow decomposition after doping has even been monitored during storage under ambient conditions <ce:cross-ref refid="bib11">[11]</ce:cross-ref>.</ce:para>
+<ce:para view="all">The kinetic parameters of <ce:cross-ref refid="eqn1">(R1)</ce:cross-ref> and <ce:cross-ref refid="eqn2">(R2)</ce:cross-ref> in terms of apparent activation energies and prefactors, including the influence of catalytic doping, have only been evaluated to a limited extent <ce:cross-refs refid="bib5 bib12 bib13">[5,12,13]</ce:cross-refs>. Further, no solid conclusions about the influence of doping on the kinetic parameters can be drawn due to contradicting results <ce:cross-refs refid="bib5 bib13">[5,13]</ce:cross-refs>. This serves as a main motivation for studying the influence of Ti-doping on the dehydrogenation kinetics of both <ce:cross-ref refid="eqn1">(R1)</ce:cross-ref> and <ce:cross-ref refid="eqn2">(R2)</ce:cross-ref>.</ce:para>
+</ce:section>
+<ce:section id="sec2" view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental</ce:section-title>
+<ce:para view="all">Lithium aluminum hydride, LiAlH<ce:inf loc="post">4</ce:inf>(purity 95% minimum, typically 97%), was obtained in powder form. Doping of LiAlH<ce:inf loc="post">4</ce:inf> was carried out by ball milling with 2 mol% TiCl<ce:inf loc="post">3⋅</ce:inf>1/3AlCl<ce:inf loc="post">3</ce:inf> (purity 76–78% TiCl<ce:inf loc="post">3</ce:inf>). All chemicals were purchased from Alfa Aesar (Johnson Matthey). All materials handling was carried out in the presence of a drying agent within an argon-filled glove box.</ce:para>
+<ce:para view="all">Ball milling was utilized with a Retsch PM 100 planetary ball mill using a wolfram carbide (WC) vial with a WC-coated aluminum lid sealed with a rubber O-ring. Three WC balls with a diameter of approx. 20 mm and a weight of approx. 60 g each were used for all ball milling experiments. Typically 4–5 g of sample was ball milled giving a ball-to-sample mass ratio of 36–45:1.</ce:para>
+<ce:para view="all">X-ray powder diffraction (XRPD) was performed with a Bragg-Brantano STOE diffractometer (50 kV, 300 mA, Cu K<mml:math altimg="si8.gif" overflow="scroll">
+<mml:mstyle mathvariant="normal">
+<mml:mi>α</mml:mi>
+</mml:mstyle>
+</mml:math> 12 radiation with <mml:math altimg="si9.gif" overflow="scroll">
+<mml:mover accent="true">
+<mml:mrow>
+<mml:mi>λ</mml:mi>
+</mml:mrow>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+</mml:math> = 1.5418 Å). Powdered samples were pressed into 13 mm diameter pellets with a hight of a few mm using a pressing tool placed in the glove box. While still in the glove box, a pellet was placed in a specially designed air tight sample holder with an aluminum foil X-ray window. The holder was assembled and transported to the diffractometer for subsequent XRPD analysis.</ce:para>
+<ce:para view="all">A Seiko DSC 120 U instrument was used for differential scanning calorimetry (DSC) experiments. Typically 3–7 mg of sample was loaded in an alumina crucible in the glove box. The crucible was placed in a sealed plastic bottle in order to protect it against air exposure during transportation from the glove box to the DSC instrument. However, a few seconds of air exposure could not be avoided when the sample was transferred from the plastic bottle to the DSC apparatus. An empty crucible was used as a reference. The sample was heated from room temperature to 300 <mml:math altimg="si10.gif" overflow="scroll">
+<mml:mo>°</mml:mo>
+</mml:math> C under an argon atmosphere with a flow of approx. 850 ml/min applying different heating rates.</ce:para>
+</ce:section>
+<ce:section id="sec3" view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:section id="sec4" view="all">
+<ce:label>3.1</ce:label>
+<ce:section-title>Initial materials characterization</ce:section-title>
+<ce:para view="all">
+<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor> shows the XRPD pattern of the as-received LiAlH<ce:inf loc="post">4</ce:inf>. All observed peaks except one (marked with an asterisk) can by indexed as belonging to a monoclinic unit cell (<mml:math altimg="si11.gif" overflow="scroll">
+<mml:mi>P</mml:mi>
+<mml:msub>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mo>/</mml:mo>
+<mml:mi>c</mml:mi>
+</mml:math>) with unit cell parameters <mml:math altimg="si12.gif" overflow="scroll">
+<mml:mi>a</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>4.83</mml:mn>
+</mml:math>  Å, <mml:math altimg="si13.gif" overflow="scroll">
+<mml:mi>b</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>7.83</mml:mn>
+</mml:math>  Å, <mml:math altimg="si14.gif" overflow="scroll">
+<mml:mi>c</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>7.92</mml:mn>
+</mml:math>  Å, and <mml:math altimg="si15.gif" overflow="scroll">
+<mml:mi>β</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>112.3</mml:mn>
+</mml:math>  ° in agreement with previous observations of the crystal structure of LiAlH<ce:inf loc="post">4</ce:inf>/LiAlD<ce:inf loc="post">4</ce:inf>
+<ce:cross-ref refid="bib14">[14]</ce:cross-ref>. The unexplained peak around <mml:math altimg="si16.gif" overflow="scroll">
+<mml:mn>2</mml:mn>
+<mml:mi>θ</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>35</mml:mn>
+</mml:math> ° corresponds well with the strongest reflection of LiCl, suggesting that LiCl is present as an impurity as also suggested by Hauback et al. <ce:cross-refs refid="bib4 bib14">[4,14]</ce:cross-refs>. LiCl might originate from the preparation procedure <ce:cross-ref refid="bib15">[15]</ce:cross-ref>. No other impurities, e.g. hydroxides <ce:cross-ref refid="bib4">[4]</ce:cross-ref> or oxides <ce:cross-ref refid="bib16">[16]</ce:cross-ref> are found, suggesting that these are either absent or in an X-ray amorphous state.</ce:para>
+</ce:section>
+<ce:section id="sec5" view="all">
+<ce:label>3.2</ce:label>
+<ce:section-title>Dehydrogenation kinetics of as-received LiAlH<ce:inf loc="post">4</ce:inf>
+</ce:section-title>
+<ce:para view="all">The as-received LiAlH<ce:inf loc="post">4</ce:inf> powder has been investigated by DSC applying different heating rates cf. <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor>. DSC traces shows the following features: an exothermic peak at 150 <mml:math altimg="si17.gif" overflow="scroll">
+<mml:mo>°</mml:mo>
+</mml:math>C, an endothermic peak around 170 <mml:math altimg="si18.gif" overflow="scroll">
+<mml:mo>°</mml:mo>
+</mml:math> C, an exothermic peak at 178–198 <mml:math altimg="si19.gif" overflow="scroll">
+<mml:mo>°</mml:mo>
+</mml:math> C, and an endothermic peak around 227–247 <mml:math altimg="si20.gif" overflow="scroll">
+<mml:mo>°</mml:mo>
+</mml:math> C.</ce:para>
+<ce:para view="all">The first exotherm has previously been assigned to the interaction of LiAlH<ce:inf loc="post">4</ce:inf> with surface hydroxyl impurities <ce:cross-ref refid="bib3">[3]</ce:cross-ref> , and the first endotherm corresponds to the melting of LiAlH<ce:inf loc="post">4</ce:inf>
+<ce:cross-refs refid="bib2 bib3">[2,3]</ce:cross-refs>:</ce:para>
+<ce:para view="all">
+<ce:display>
+<ce:formula>
+<ce:label>(4)</ce:label>
+<mml:math altimg="si21.gif" overflow="scroll">
+<mml:msub>
+<mml:mrow>
+<mml:mtext>LiAlH</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>4</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mtext>s</mml:mtext>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mo>→</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>LiAlH</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>4</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mtext>l</mml:mtext>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>The position of the melting point of LiAlH<ce:inf loc="post">4</ce:inf>is rather insensitive to the choice of heating rate. The melting of LiAlH<ce:inf loc="post">4</ce:inf> is immediately followed by the second exotherm corresponding to the decomposition of liquid LiAlH<ce:inf loc="post">4</ce:inf>
+<ce:cross-refs refid="bib2 bib3">[2,3]</ce:cross-refs>:</ce:para>
+<ce:para view="all">
+<ce:display>
+<ce:formula>
+<ce:label>(5)</ce:label>
+<mml:math altimg="si22.gif" overflow="scroll">
+<mml:msub>
+<mml:mrow>
+<mml:mtext>LiAlH</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>4</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mtext>l</mml:mtext>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mo>→</mml:mo>
+<mml:mfrac>
+<mml:mrow>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+</mml:mrow>
+</mml:mfrac>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>Li</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>AlH</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>6</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mtext>s</mml:mtext>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mo>+</mml:mo>
+<mml:mfrac>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+</mml:mrow>
+</mml:mfrac>
+<mml:mtext>Al</mml:mtext>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mtext>s</mml:mtext>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mo>+</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>H</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:mtext>g</mml:mtext>
+</mml:mrow>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>The second endotherm corresponds to the decomposition of Li<ce:inf loc="post">3</ce:inf>AlH<ce:inf loc="post">6</ce:inf>as described by <ce:cross-ref refid="eqn2">(R2)</ce:cross-ref>
+<ce:cross-refs refid="bib2 bib3 bib6 bib17">[2,3,6,17]</ce:cross-refs>.</ce:para>
+<ce:para view="all">By performing a Kissinger analysis <ce:cross-ref refid="bib18">[18]</ce:cross-ref> , i.e. an analysis of the sensitivity of the peak positions, in terms of <mml:math altimg="si23.gif" overflow="scroll">
+<mml:msub>
+<mml:mrow>
+<mml:mi>T</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>m</mml:mtext>
+</mml:mrow>
+</mml:msub>
+</mml:math> the temperature of the peak maximum, to the applied heating rate, <mml:math altimg="si24.gif" overflow="scroll">
+<mml:mi>β</mml:mi>
+</mml:math>, the apparent activation energy, <mml:math altimg="si25.gif" overflow="scroll">
+<mml:msub>
+<mml:mrow>
+<mml:mi>E</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>A</mml:mtext>
+</mml:mrow>
+</mml:msub>
+</mml:math>, can be obtained from the following equation:</ce:para>
+<ce:para view="all">
+<ce:display>
+<ce:formula>
+<ce:label>(6)</ce:label>
+<mml:math altimg="si26.gif" overflow="scroll">
+<mml:mfrac>
+<mml:mrow>
+<mml:mi mathvariant="normal">d</mml:mi>
+<mml:mspace width="thinmathspace"></mml:mspace>
+<mml:mi>ln</mml:mi>
+<mml:mo>⁡</mml:mo>
+<mml:mfenced close=")" open="(">
+<mml:mrow>
+<mml:mfrac>
+<mml:mrow>
+<mml:mi>β</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:msubsup>
+<mml:mrow>
+<mml:mi>T</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>m</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msubsup>
+</mml:mrow>
+</mml:mfrac>
+</mml:mrow>
+</mml:mfenced>
+</mml:mrow>
+<mml:mrow>
+<mml:mi mathvariant="normal">d</mml:mi>
+<mml:mfenced close=")" open="(">
+<mml:mrow>
+<mml:mfrac>
+<mml:mrow>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+<mml:mrow>
+<mml:msub>
+<mml:mrow>
+<mml:mi>T</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>m</mml:mtext>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mfrac>
+</mml:mrow>
+</mml:mfenced>
+</mml:mrow>
+</mml:mfrac>
+<mml:mo>=</mml:mo>
+<mml:mo>−</mml:mo>
+<mml:mfrac>
+<mml:mrow>
+<mml:msub>
+<mml:mrow>
+<mml:mi>E</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>A</mml:mtext>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+<mml:mrow>
+<mml:mi>R</mml:mi>
+</mml:mrow>
+</mml:mfrac>
+</mml:math>
+</ce:formula>
+</ce:display>Thus, <mml:math altimg="si27.gif" overflow="scroll">
+<mml:msub>
+<mml:mrow>
+<mml:mi>E</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>A</mml:mtext>
+</mml:mrow>
+</mml:msub>
+</mml:math> can be obtained as the slope in a plot of <mml:math altimg="si28.gif" overflow="scroll">
+<mml:mi>ln</mml:mi>
+<mml:mo>⁡</mml:mo>
+<mml:mfenced close=")" open="(">
+<mml:mrow>
+<mml:mfrac>
+<mml:mrow>
+<mml:mi>β</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:msubsup>
+<mml:mrow>
+<mml:mi>T</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>m</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msubsup>
+</mml:mrow>
+</mml:mfrac>
+</mml:mrow>
+</mml:mfenced>
+</mml:math> versus <mml:math altimg="si29.gif" overflow="scroll">
+<mml:mfrac>
+<mml:mrow>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+<mml:mrow>
+<mml:msub>
+<mml:mrow>
+<mml:mi>T</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>m</mml:mtext>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mfrac>
+</mml:math>. A Kissinger analysis is applied to the exotherm <ce:cross-ref refid="eqn1">(R1)</ce:cross-ref> and the endotherm <ce:cross-ref refid="eqn2">(R2)</ce:cross-ref> cf. <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor>. From the Kissinger analysis the apparent activation energy for decomposition of LiAlH<ce:inf loc="post">4</ce:inf>into Li<ce:inf loc="post">3</ce:inf>AlH<ce:inf loc="post">6</ce:inf>, Al and H<ce:inf loc="post">2</ce:inf>
+<ce:cross-ref refid="eqn1">(R1)</ce:cross-ref> is found to be <mml:math altimg="si30.gif" overflow="scroll">
+<mml:mn>81</mml:mn>
+<mml:mo>±</mml:mo>
+<mml:mn>4</mml:mn>
+</mml:math>  kJ/mol. The apparent activation energy for decomposition of Li<ce:inf loc="post">3</ce:inf>AlH<ce:inf loc="post">6</ce:inf> into LiH, Al and H<ce:inf loc="post">2</ce:inf>
+<ce:cross-ref refid="eqn2">(R2)</ce:cross-ref> is found to be <mml:math altimg="si31.gif" overflow="scroll">
+<mml:mn>108</mml:mn>
+<mml:mo>±</mml:mo>
+<mml:mn>8</mml:mn>
+</mml:math>  kJ/mol.</ce:para>
+</ce:section>
+<ce:section id="sec6" view="all">
+<ce:label>3.3</ce:label>
+<ce:section-title>Catalytic doping and stability of LiAlH<ce:inf loc="post">4</ce:inf>
+</ce:section-title>
+<ce:para view="all">Before ball milling the red/purple TiCl<ce:inf loc="post">3⋅</ce:inf>1/3AlCl<ce:inf loc="post">3</ce:inf> was gently mixed with the white/grayish LiAlH<ce:inf loc="post">4</ce:inf> in the milling vial resulting in a reddish powder. The color remained after ball milling for 1 min at 100 rpm, however, the next day the reddish color had disappeared and the powder appeared very much like the un-doped starting LiAlH<ce:inf loc="post">4</ce:inf> indicating that a reduction of Ti<ce:sup loc="post">3+</ce:sup> in TiCl<ce:inf loc="post">3</ce:inf> had taken place. A possible reduction mechanism is outlined below <ce:cross-ref refid="bib4">[4]</ce:cross-ref>:</ce:para>
+<ce:para view="all">
+<ce:display>
+<ce:formula>
+<ce:label>(7)</ce:label>
+<mml:math altimg="si32.gif" overflow="scroll">
+<mml:mn>49</mml:mn>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>LiAlH</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>4</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mo>+</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>TiCl</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mo>⋅</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mo>/</mml:mo>
+<mml:mn>3</mml:mn>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>AlCl</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mo>→</mml:mo>
+<mml:mn>46</mml:mn>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>LiAlH</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>4</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mo>+</mml:mo>
+<mml:mtext>Ti</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:mn>3</mml:mn>
+<mml:mtext>Al</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:mn>3</mml:mn>
+<mml:mtext>LiCl</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mo>/</mml:mo>
+<mml:mn>3</mml:mn>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>AlCl</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mo>+</mml:mo>
+<mml:mn>6</mml:mn>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>H</mml:mtext>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msub>
+</mml:math>
+</ce:formula>
+</ce:display>The reduced Ti species may possibly be distributed as metallic Ti across the surface of the powdered particles <ce:cross-ref refid="bib16">[16]</ce:cross-ref> or present as a Ti<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf>Al<ce:inf loc="post">
+<ce:italic>y</ce:italic>
+</ce:inf> alloy as proposed by Balema et al. for TiCl<ce:inf loc="post">4</ce:inf>-doped LiAlH<ce:inf loc="post">4</ce:inf>
+<ce:cross-ref refid="bib10">[10]</ce:cross-ref> and as also proposed for NaAlH<ce:inf loc="post">4</ce:inf>
+<ce:cross-refs refid="bib19 bib20 bib21">[19–21]</ce:cross-refs>. The fact that the color of the sample ball milled for 1 min at 100 rpm did not change i.e. no darkening due to finely dispersed Ti and Al particles, may indicate that Ti is incorporated into the LiAlH<ce:inf loc="post">4</ce:inf>as suggested by Fichtner et al. <ce:cross-ref refid="bib22">[22]</ce:cross-ref>. However, this work is not conclusive about the chemical state of Ti in LiAlH<ce:inf loc="post">4</ce:inf>. The sample ball milled for 5 min at 400 rpm displayed a grey color indicating a significant decomposition of LiAlH<ce:inf loc="post">4</ce:inf>.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor> shows XRPD patterns of 2 mol% TiCl<ce:inf loc="post">3⋅</ce:inf>1/3AlCl<ce:inf loc="post">3</ce:inf>-doped samples ball milled for 1 min at 100 rpm and 5 min at 400 rpm. The sample ball milled for the shortest time and lowest speed shows no indication of any decomposition during the doping procedure. The diffraction pattern closely resembles that of the pure LiAlH<ce:inf loc="post">4</ce:inf> shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref> with no signs of metallic Al/LiH in the diffraction pattern. Increasing the milling intensity leads to an almost complete decompostion of LiAlH<ce:inf loc="post">4</ce:inf> into Li<ce:inf loc="post">3</ce:inf>AlH<ce:inf loc="post">6</ce:inf> cf. <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>. This clearly demonstrates the effectiveness of TiCl<ce:inf loc="post">3⋅</ce:inf>1/3AlCl<ce:inf loc="post">3</ce:inf>as a doping material and the fact that LiAlH<ce:inf loc="post">4</ce:inf>is thermodynamically unstable at ambient conditions (although kinetically stable in the absence of a catalyst). This is in qualitative agreement with previous observations <ce:cross-refs refid="bib3 bib4 bib6">[3,4,6]</ce:cross-refs>.</ce:para>
+</ce:section>
+<ce:section id="sec7" view="all">
+<ce:label>3.4</ce:label>
+<ce:section-title>Dehydrogenation kinetics of Ti-doped samples</ce:section-title>
+<ce:para view="all">
+<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="fig5"></ce:float-anchor> shows DSC experiments performed with the samples ball milled for 1 min at 100 rpm with different applied heating rates. The DSC traces mainly consists of two endotherms, one with maximum around 150 <mml:math altimg="si33.gif" overflow="scroll">
+<mml:mo>°</mml:mo>
+</mml:math> C and the other with maximum at approx. 200 <mml:math altimg="si34.gif" overflow="scroll">
+<mml:mo>°</mml:mo>
+</mml:math> C. The first endotherm can be assigned to the dehydrogenation of solid LiAlH<ce:inf loc="post">4</ce:inf> into Li<ce:inf loc="post">3</ce:inf>AlH<ce:inf loc="post">6</ce:inf> according to <ce:cross-ref refid="eqn1">(R1)</ce:cross-ref>. Clearly the catalytic doping procedure has lowered the decomposition temperature of LiAlH<ce:inf loc="post">4</ce:inf>below its melting point in agreement with the findings reported in Ref. <ce:cross-refs refid="bib4 bib5">[4,5]</ce:cross-refs>. In this context, it should be mentioned that the melting of LiAlH<ce:inf loc="post">4</ce:inf>prior to decomposition can also be avoided without doping by applying either isothermal conditions <ce:cross-ref refid="bib23">[23]</ce:cross-ref> or very low heating rates <ce:cross-ref refid="bib7">[7]</ce:cross-ref>. However, this is of course only due to a change in reaction conditions.</ce:para>
+<ce:para view="all">The small feature between the two dominating endothermic peaks, consisting of an endothermic and an exothermic peak, can be attributed to the melting of unreacted LiAlH<ce:inf loc="post">4</ce:inf>and subsequent decomposition into Li<ce:inf loc="post">3</ce:inf>AlH<ce:inf loc="post">6</ce:inf>. The second of the two dominating endothermic peaks corresponds to the decomposition of Li<ce:inf loc="post">3</ce:inf>AlH<ce:inf loc="post">6</ce:inf> into LiH according to <ce:cross-ref refid="eqn2">(R2)</ce:cross-ref>. The decomposition temperature of Li<ce:inf loc="post">3</ce:inf>AlH<ce:inf loc="post">6</ce:inf>has also been lowered significantly compared to the pure LiAlH<ce:inf loc="post">4</ce:inf>. To further investigate the effect of Ti-doping on the dehydrogenation kinetics of LiAlH<ce:inf loc="post">4</ce:inf>a Kissinger analysis, as outlined previously for the un-doped sample, is performed on the data shown in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>. <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="fig6"></ce:float-anchor> shows the resulting Kissinger analysis and the analysis reveals apparent activation energies of <mml:math altimg="si35.gif" overflow="scroll">
+<mml:mn>89</mml:mn>
+<mml:mo>±</mml:mo>
+<mml:mn>9</mml:mn>
+</mml:math>  kJ/mol and <mml:math altimg="si36.gif" overflow="scroll">
+<mml:mn>103</mml:mn>
+<mml:mo>±</mml:mo>
+<mml:mn>1</mml:mn>
+</mml:math>  kJ/mol for <ce:cross-ref refid="eqn1">(R1)</ce:cross-ref> and <ce:cross-ref refid="eqn2">(R2)</ce:cross-ref> , respectively. The found apparent activation energies are very close to those for the un-doped sample (<mml:math altimg="si37.gif" overflow="scroll">
+<mml:mn>81</mml:mn>
+<mml:mo>±</mml:mo>
+<mml:mn>4</mml:mn>
+</mml:math> kJ/mol and <mml:math altimg="si38.gif" overflow="scroll">
+<mml:mn>108</mml:mn>
+<mml:mo>±</mml:mo>
+<mml:mn>8</mml:mn>
+</mml:math> kJ/mol).</ce:para>
+</ce:section>
+<ce:section id="sec8" view="all">
+<ce:label>3.5</ce:label>
+<ce:section-title>Effect of Ti-doping on the kinetic parameters</ce:section-title>
+<ce:para view="all">Reported values of apparent activation energies for dehydrogenation of Ti-doped NaAlH<ce:inf loc="post">4</ce:inf> and Na<ce:inf loc="post">3</ce:inf>AlH<ce:inf loc="post">6</ce:inf> are found to be in the range of 73–100 and 97–100 kJ/mol, respectively <ce:cross-refs refid="bib24 bib25 bib26 bib27">[24–27]</ce:cross-refs> , (with only a recent study indicating a significant higher activation energy for Na<ce:inf loc="post">3</ce:inf>AlH<ce:inf loc="post">6</ce:inf>decomposition <ce:cross-ref refid="bib28">[28]</ce:cross-ref>). This is similar to the reported values for <ce:cross-ref refid="eqn1">(R1)</ce:cross-ref> and <ce:cross-ref refid="eqn2">(R2)</ce:cross-ref> of the un-doped samples of LiAlH<ce:inf loc="post">4</ce:inf> in this study. The apparent activation energies for dehydrogenation of un-doped NaAlH<ce:inf loc="post">4</ce:inf> and Na<ce:inf loc="post">3</ce:inf>AlH<ce:inf loc="post">6</ce:inf> is approx. 120 kJ/mol for both reactions <ce:cross-ref refid="bib26">[26]</ce:cross-ref>. Thus, apparently a lowering of the apparent activation energies of <ce:cross-ref refid="eqn1">(R1)</ce:cross-ref> and <ce:cross-ref refid="eqn2">(R2)</ce:cross-ref> in NaAlH<ce:inf loc="post">4</ce:inf> is a consequence of Ti-doping.</ce:para>
+<ce:para view="all">Early studies on the kinetics of the isothermal decomposition of un-doped LiAlH<ce:inf loc="post">4</ce:inf> by McCarthy et al. <ce:cross-ref refid="bib12">[12]</ce:cross-ref> revealed an apparent activation energy of <ce:cross-ref refid="eqn1">(R1)</ce:cross-ref> to be approx. 100 kJ/mol, although it is unclear to which degree the fitted data had been influenced by <ce:cross-ref refid="eqn2">(R2)</ce:cross-ref>. Recent studies by Blanchard et al. <ce:cross-ref refid="bib13">[13]</ce:cross-ref> shows a value of 102 kJ/mol for <ce:cross-ref refid="eqn1">(R1)</ce:cross-ref>. McCarthy et al. <ce:cross-ref refid="bib12">[12]</ce:cross-ref> also reported an apparent activation energy of <ce:cross-ref refid="eqn2">(R2)</ce:cross-ref> from constant heating rate experiments of approx. 100 kJ/mol. The apparent activation energies found in this work seems to be in good agreement with both the studies of McCarthy et al. <ce:cross-ref refid="bib12">[12]</ce:cross-ref> and Blanchard et al. <ce:cross-ref refid="bib13">[13]</ce:cross-ref>.</ce:para>
+<ce:para view="all">In addition, Blanchard et al. <ce:cross-ref refid="bib13">[13]</ce:cross-ref> also studied the influence of doping with catalytic additives on the apparent activation energy of <ce:cross-ref refid="eqn1">(R1)</ce:cross-ref>. They found a reduction of approx. 5–10 kJ/mol upon doping with either TiCl<ce:inf loc="post">3⋅</ce:inf>1/3AlCl<ce:inf loc="post">3</ce:inf>or VCl<ce:inf loc="post">3</ce:inf>. Chen et al. <ce:cross-ref refid="bib5">[5]</ce:cross-ref> have investigated the dehydrogenation kinetics of TiCl<ce:inf loc="post">3⋅</ce:inf>1/3AlCl<ce:inf loc="post">3</ce:inf> doped LiAlH<ce:inf loc="post">4</ce:inf> and they found apparent activation energies of 43 and 55 kJ/mol for <ce:cross-ref refid="eqn1">(R1)</ce:cross-ref> and <ce:cross-ref refid="eqn2">(R2)</ce:cross-ref> , respectively. The low values of apparent activation energies reported by Chen et al. are in contradiction to the ones reported in this study for Ti-doped LiAlH<ce:inf loc="post">4</ce:inf>and also in contradiction to the results of Blanchard et al. <ce:cross-ref refid="bib13">[13]</ce:cross-ref>.</ce:para>
+<ce:para view="all">To summarize, in this study no significant effect on the apparent activation energies are observed as a consequence of Ti-doping, although a minor change cannot be ruled out due to an uncertainty of 5–10 kJ/mol in the present experiments. This suggests that (a) the effect of Ti-doping is different in LiAlH<ce:inf loc="post">4</ce:inf>compared to NaAlH<ce:inf loc="post">4</ce:inf>, and (b) since the dehydrogenation temperatures shift downwards in the DSC experiments upon doping this must be accounted for mainly in terms of an increase in the prefactor, since the activation energies are unaffected by the doping.</ce:para>
+<ce:para view="all">In order to get a rough estimate of the increase in prefactor, <mml:math altimg="si39.gif" overflow="scroll">
+<mml:mi>ν</mml:mi>
+</mml:math>, upon doping the Redhead equation is used (assuming first order desorption)</ce:para>
+<ce:para view="all">
+<ce:display>
+<ce:formula>
+<ce:label>(8)</ce:label>
+<mml:math altimg="si40.gif" overflow="scroll">
+<mml:mfrac>
+<mml:mrow>
+<mml:msub>
+<mml:mrow>
+<mml:mi>E</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>A</mml:mtext>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+<mml:mrow>
+<mml:mi>R</mml:mi>
+<mml:msub>
+<mml:mrow>
+<mml:mi>T</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>m</mml:mtext>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mfrac>
+<mml:mo>=</mml:mo>
+<mml:mfenced close=")" open="(">
+<mml:mrow>
+<mml:mfrac>
+<mml:mrow>
+<mml:mi>ν</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mi>β</mml:mi>
+</mml:mrow>
+</mml:mfrac>
+</mml:mrow>
+</mml:mfenced>
+<mml:mi>exp</mml:mi>
+<mml:mo>⁡</mml:mo>
+<mml:mfenced close=")" open="(">
+<mml:mrow>
+<mml:mo>−</mml:mo>
+<mml:mfrac>
+<mml:mrow>
+<mml:msub>
+<mml:mrow>
+<mml:mi>E</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>A</mml:mtext>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+<mml:mrow>
+<mml:mi>R</mml:mi>
+<mml:msub>
+<mml:mrow>
+<mml:mi>T</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>m</mml:mtext>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mfrac>
+</mml:mrow>
+</mml:mfenced>
+</mml:math>
+</ce:formula>
+</ce:display>This equation can be used to solve for <mml:math altimg="si41.gif" overflow="scroll">
+<mml:mi>ν</mml:mi>
+</mml:math> for a given set of parameters of <mml:math altimg="si42.gif" overflow="scroll">
+<mml:mi>β</mml:mi>
+</mml:math>, <mml:math altimg="si43.gif" overflow="scroll">
+<mml:msub>
+<mml:mrow>
+<mml:mi>E</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>A</mml:mtext>
+</mml:mrow>
+</mml:msub>
+</mml:math> and <mml:math altimg="si44.gif" overflow="scroll">
+<mml:msub>
+<mml:mrow>
+<mml:mi>T</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>m</mml:mtext>
+</mml:mrow>
+</mml:msub>
+</mml:math>. According to <ce:cross-refs refid="fig2 fig5">Figs. 2 and 5</ce:cross-refs> both <ce:cross-ref refid="eqn1">(R1)</ce:cross-ref> and <ce:cross-ref refid="eqn2">(R2)</ce:cross-ref> is lowered by approx. 40 <mml:math altimg="si45.gif" overflow="scroll">
+<mml:mo>°</mml:mo>
+</mml:math> C upon doping. Plugging in the numbers of <mml:math altimg="si46.gif" overflow="scroll">
+<mml:mi>β</mml:mi>
+</mml:math>, <mml:math altimg="si47.gif" overflow="scroll">
+<mml:msub>
+<mml:mrow>
+<mml:mi>E</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>A</mml:mtext>
+</mml:mrow>
+</mml:msub>
+</mml:math> and <mml:math altimg="si48.gif" overflow="scroll">
+<mml:msub>
+<mml:mrow>
+<mml:mi>T</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>m</mml:mtext>
+</mml:mrow>
+</mml:msub>
+</mml:math> in the above equation, one finds the prefactor to be increased approx. by one order of magnitude for both <ce:cross-ref refid="eqn1">(R1)</ce:cross-ref> and <ce:cross-ref refid="eqn2">(R2)</ce:cross-ref> after doping with Ti.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section id="sec9" view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusion</ce:section-title>
+<ce:para view="all">In this paper the effect on Ti-doping on the dehydrogenation kinetics of lithium aluminum hydride has been investigated. The decomposition of lithium aluminum hydride into trilithium hexahydridoaluminate <ce:cross-ref refid="eqn1">(R1)</ce:cross-ref> has an apparent activation energy of approx. 85 kJ/mol and is insensitive to Ti-doping. The decomposition of trilithium hexahydridoaluminate into lithium hydride <ce:cross-ref refid="eqn2">(R2)</ce:cross-ref> has an apparent activation energy of 105 kJ/mol and is also insensitive to the doping. These results suggest that the effect of Ti-doping on the kinetic parameters of dehydrogenation of lithium aluminum hydride is mainly a prefactor effect. A possible explanation to this phenomenon could be that the addition of TiCl<ce:inf loc="post">3</ce:inf> increases the number of nucleation sites by introducing defects or vacancies, e.g. by withdrawal of Li atoms from the LiAlH<ce:inf loc="post">4</ce:inf> lattice during the reduction of TiCl<ce:inf loc="post">3</ce:inf> to either metallic Ti on the surface or Ti incorporated into the lattice.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgment</ce:section-title>
+<ce:para view="all">This work has received financial support from the The Danish Technical Research Council through the Center of Excellence <ce:italic>Towards a hydrogen based society</ce:italic>.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Bogdanović</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Schwickardi</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>253/254</sb:volume-nr>
+</sb:series>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1</sb:first-page>
+<sb:last-page>9</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.A.</ce:given-name>
+<ce:surname>Dilts</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.C.</ce:given-name>
+<ce:surname>Ashby</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Inorg. Chem.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>11</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>6</sb:issue-nr>
+<sb:date>1972</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1230</sb:first-page>
+<sb:last-page>1236</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.N.</ce:given-name>
+<ce:surname>Dymova</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.P.</ce:given-name>
+<ce:surname>Aleksandrov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.N.</ce:given-name>
+<ce:surname>Konoplev</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.A.</ce:given-name>
+<ce:surname>Silina</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.S.</ce:given-name>
+<ce:surname>Sizareva</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Russ. J. Coord. Chem.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>20</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>4</sb:issue-nr>
+<sb:date>1994</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>279</sb:first-page>
+<sb:last-page>285</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Blanchard</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.W.</ce:given-name>
+<ce:surname>Brinks</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.C.</ce:given-name>
+<ce:surname>Hauback</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Norby</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. B</sb:maintitle>
+</sb:title>
+<sb:volume-nr>108</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>54</sb:first-page>
+<sb:last-page>59</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Kuriyama</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Q.</ce:given-name>
+<ce:surname>Xu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.T.</ce:given-name>
+<ce:surname>Takeshita</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Sakai</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Phys. Chem. B</sb:maintitle>
+</sb:title>
+<sb:volume-nr>105</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>11214</sb:first-page>
+<sb:last-page>11220</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>V.P.</ce:given-name>
+<ce:surname>Balema</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.K.</ce:given-name>
+<ce:surname>Pecharsky</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.W.</ce:given-name>
+<ce:surname>Dennis</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>313</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>69</sb:first-page>
+<sb:last-page>74</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.W.</ce:given-name>
+<ce:surname>Brinks</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.C.</ce:given-name>
+<ce:surname>Hauback</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Norby</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Fjellvåg</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>351</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>222</sb:first-page>
+<sb:last-page>227</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<ce:other-ref>
+<ce:textref>M.D. Resan, M. Hampton, J.K. Lomness, D.K. Slattery, Int. J. Hydrogen Energy 30 (2005) 1417–1421.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>V.P.</ce:given-name>
+<ce:surname>Balema</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.W.</ce:given-name>
+<ce:surname>Dennis</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.K.</ce:given-name>
+<ce:surname>Pecharsky</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Chem. Commun.</sb:maintitle>
+</sb:title>
+</sb:series>
+<sb:issue-nr>17</sb:issue-nr>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1665</sb:first-page>
+<sb:last-page>1666</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>V.P.</ce:given-name>
+<ce:surname>Balema</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.W.</ce:given-name>
+<ce:surname>Wiench</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.W.</ce:given-name>
+<ce:surname>Dennis</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Pruski</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.K.</ce:given-name>
+<ce:surname>Pecharsky</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>329</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>108</sb:first-page>
+<sb:last-page>114</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.W.</ce:given-name>
+<ce:surname>Brinks</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Fossdal</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.E.</ce:given-name>
+<ce:surname>Fonneløp</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.C.</ce:given-name>
+<ce:surname>Hauback</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>397</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>291</sb:first-page>
+<sb:last-page>295</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>McCarthy</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.N.</ce:given-name>
+<ce:surname>Maycook</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.R.P.</ce:given-name>
+<ce:surname>Verneker</ce:surname>
+<ce:suffix>Jr.</ce:suffix>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Phys. Chem.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>72</sb:volume-nr>
+</sb:series>
+<sb:date>1968</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>4009</sb:first-page>
+<sb:last-page>4014</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<ce:other-ref>
+<ce:textref>D. Blanchard, H.W. Brinks, B.C. Hauback, P. Norby, J. Muller, J. Alloys Compd. 404–406 (2005) 743–747.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>B.C.</ce:given-name>
+<ce:surname>Hauback</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Brinks</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.W.</ce:given-name>
+<ce:surname>Fjellvåg</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys. Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>346</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>184</sb:first-page>
+<sb:last-page>189</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Wiberg</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Amberger</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Hydrides of the Elements of Main Groups I–IV</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1971</sb:date>
+<sb:publisher>
+<sb:name>Elsevier publishing company</sb:name>
+<sb:location>Amsterdam</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib16">
+<ce:label>[16]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.M.</ce:given-name>
+<ce:surname>Andrei</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.C.</ce:given-name>
+<ce:surname>Walmsley</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.W.</ce:given-name>
+<ce:surname>Brinks</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Holmestad</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.C.</ce:given-name>
+<ce:surname>Blanchard</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Hauback</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.A.</ce:given-name>
+<ce:surname>Botton</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Phys. Chem. B</sb:maintitle>
+</sb:title>
+<sb:volume-nr>109</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>19</sb:issue-nr>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>4350</sb:first-page>
+<sb:last-page>4356</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib17">
+<ce:label>[17]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Zaluski</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Zaluska</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.O.</ce:given-name>
+<ce:surname>Ström-Olsen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>290</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>71</sb:first-page>
+<sb:last-page>78</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib18">
+<ce:label>[18]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Kissinger</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Anal. Chem.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>29</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>11</sb:issue-nr>
+<sb:date>1957</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1702</sb:first-page>
+<sb:last-page>1706</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib19">
+<ce:label>[19]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.W.</ce:given-name>
+<ce:surname>Brinks</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.M.</ce:given-name>
+<ce:surname>Jensen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.S.</ce:given-name>
+<ce:surname>Srinivasan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.C.</ce:given-name>
+<ce:surname>Hauback</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Blanchard</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Murphy</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>376</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>215</sb:first-page>
+<sb:last-page>221</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib20">
+<ce:label>[20]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Bogdanović</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Felderhoff</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Germann</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Härtel</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Pommerin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Schüth</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Weidenthaler</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Zibrowius</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>350</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>246</sb:first-page>
+<sb:last-page>255</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib21">
+<ce:label>[21]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>E.H.</ce:given-name>
+<ce:surname>Majzoub</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.J.</ce:given-name>
+<ce:surname>Gross</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>356/357</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>363</sb:first-page>
+<sb:last-page>367</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib22">
+<ce:label>[22]</ce:label>
+<ce:other-ref>
+<ce:textref>M. Fichtner, P. Canton, O. Kircher, A.Léon, J. Alloys Comps. 404–406 (2005) 732–737.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib23">
+<ce:label>[23]</ce:label>
+<ce:other-ref>
+<ce:textref>A. Andreasen, T. Vegge, A.S. Pedersen, J. Solid State Chem. 178 (2005) 3672–3678.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib24">
+<ce:label>[24]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Sandrock</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Gross</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Thomas</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Jensen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Meeker</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Takara</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>330–332</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>686</sb:first-page>
+<sb:last-page>701</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib25">
+<ce:label>[25]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Luo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.J.</ce:given-name>
+<ce:surname>Gross</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>385</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>224</sb:first-page>
+<sb:last-page>231</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib26">
+<ce:label>[26]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Sandrock</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.J.</ce:given-name>
+<ce:surname>Gross</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Thomas</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloy Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>339</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>299</sb:first-page>
+<sb:last-page>308</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib27">
+<ce:label>[27]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Kiyobayashi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.S.</ce:given-name>
+<ce:surname>Srinivasan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Sun</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.M.</ce:given-name>
+<ce:surname>Jensen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Phys. Chem. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>107</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>39</sb:issue-nr>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>7671</sb:first-page>
+<sb:last-page>7674</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib28">
+<ce:label>[28]</ce:label>
+<ce:other-ref>
+<ce:textref>O. Kircher, M. Fichtner, J. Alloys Compd. 404–406 (2005) 339–342.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

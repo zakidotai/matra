@@ -1,0 +1,1626 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838805013319</prism:url><dc:identifier>doi:10.1016/j.jallcom.2005.08.018</dc:identifier><eid>1-s2.0-S0925838805013319</eid><prism:doi>10.1016/j.jallcom.2005.08.018</prism:doi><pii>S0925-8388(05)01331-9</pii><dc:title>Superplastic formability of a Zr–Ti–Ni–Cu–Be bulk metallic glass </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>415</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>198</prism:startingpage><prism:endingpage>203</prism:endingpage><prism:pagerange>198-203</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2006-05-18</prism:coverdate><prism:coverdisplaydate>18 May 2006</prism:coverdisplaydate><prism:copyright>Copyright © 2005 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Sun, J.F.</dc:creator><dc:creator>Huang, Y.J.</dc:creator><dc:creator>Shen, J.</dc:creator><dc:creator>Wang, G.</dc:creator><dc:creator>McCartney, D.G.</dc:creator><dc:description>
+                  In this paper, the superplastic formability of the Zr41.2Ti13.8Cu12.5Ni10Be22.5 bulk metallic glass in the supercooled liquid region is described. Experimental results show that the superplastic deformation of the metallic glass is mainly controlled by the processing parameters such as forming temperature, T
+                     e, applied stress, P
+                     e, and time of application, t
+                     e. The thermal stabilities of the deformed specimens were investigated by means of differential scanning calorimetry (DSC). The higher the processing parameter, the more serious is the crystallization of the deformed specimens. A gear-like micropart with a single amorphous phase was successfully fabricated by using the following parameters: T
+                     e
+                     =673K, t
+                     e
+                     =200s and P
+                     e
+                     =254MPa.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Zr-based bulk metallic glass</dcterms:subject><dcterms:subject>Superplastic forming</dcterms:subject><dcterms:subject>Supercooled liquid region</dcterms:subject><dcterms:subject>Crystallization</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838805013319" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838805013319" rel="scidir"/></coredata><objects><object category="thumbnail" height="40" mimetype="image/gif" multimediatype="GIF image file" ref="si1" size="966" type="ALTIMG" width="185">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013319-si1.gif?httpAccept=%2A%2F%2A</object><object category="standard" height="212" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="12455" type="IMAGE-DOWNSAMPLED" width="289">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013319-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="92" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="2256" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013319-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="648" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr6" size="29303" type="IMAGE-DOWNSAMPLED" width="283">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013319-gr6.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="92" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="1477" type="IMAGE-THUMBNAIL" width="40">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013319-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="216" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr7" size="16271" type="IMAGE-DOWNSAMPLED" width="292">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013319-gr7.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="2464" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013319-gr7.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="691" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr9" size="105646" type="IMAGE-DOWNSAMPLED" width="287">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013319-gr9.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="91" mimetype="image/gif" multimediatype="GIF image file" ref="gr9" size="2593" type="IMAGE-THUMBNAIL" width="38">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013319-gr9.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="684" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="28849" type="IMAGE-DOWNSAMPLED" width="295">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013319-gr4.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="1469" type="IMAGE-THUMBNAIL" width="40">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013319-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="309" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr10" size="67434" type="IMAGE-DOWNSAMPLED" width="301">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013319-gr10.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr10" size="3569" type="IMAGE-THUMBNAIL" width="91">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013319-gr10.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="692" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr5" size="61202" type="IMAGE-DOWNSAMPLED" width="297">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013319-gr5.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="1801" type="IMAGE-THUMBNAIL" width="40">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013319-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="341" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr8" size="37582" type="IMAGE-DOWNSAMPLED" width="293">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013319-gr8.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr8" size="2114" type="IMAGE-THUMBNAIL" width="80">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013319-gr8.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="302" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="27943" type="IMAGE-DOWNSAMPLED" width="311">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013319-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="2306" type="IMAGE-THUMBNAIL" width="96">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013319-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="226" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="6102" type="IMAGE-DOWNSAMPLED" width="300">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013319-gr2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="1857" type="IMAGE-THUMBNAIL" width="124">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805013319-gr2.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>33748623385</scopus-id><scopus-eid>2-s2.0-33748623385</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/33748623385" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20050919">2005-09-19</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20050919">2005-09-19</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-03-29T07:36:02</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838805013319</xocs:eid>
+<xocs:pii-formatted>S0925-8388(05)01331-9</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805013319</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2005.08.018</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838806X02530</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.349087-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20060518</xocs:date-search-begin>
+<xocs:year-nav>2006</xocs:year-nav>
+<xocs:indexeddate epoch="1127088000">2005-09-19T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>415</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>415</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 415, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>35</xocs:sort-order>
+<xocs:first-fp>198</xocs:first-fp>
+<xocs:last-lp>203</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>198</xocs:first-page>
+<xocs:last-page>203</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20060518</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>18 May 2006</xocs:cover-date-text>
+<xocs:cover-date-start>2006-05-18</xocs:cover-date-start>
+<xocs:cover-date-year>2006</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Metallurgy</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2005 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>SUPERPLASTICFORMABILITYAZRTINICUBEBULKMETALLICGLASS</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>SUN</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experiment procedure</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>INOUE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>279</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>JOHNSON</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>42</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>NIEH</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>1021</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>KAWAMURA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>301</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>NISHIYAMA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>64</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>SCHROERS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>35</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>SAOTOME</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>716</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>SAOTOME</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>64</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>SAOTOME</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>1541</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>SAOTOME</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>1241</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>SAOTOME</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>307</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>19</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13">
+<xocs:ref-normalized-surname>CHU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>1191</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>193</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15">
+<xocs:ref-normalized-surname>SHEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>79</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib16">
+<xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>209</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib17">
+<xocs:ref-normalized-surname>KUHN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>2478</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>U</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib18">
+<xocs:ref-normalized-surname>MUGHRABI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1993</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>PLASTICDEFORMATIONFRACTUREMETALS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib19">
+<xocs:ref-normalized-surname>WANIUK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>5229</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib20">
+<xocs:ref-normalized-surname>YE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>2449</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>SUNX2006X198</xocs:refkey3>
+<xocs:refkey4lp>SUNX2006X198X203</xocs:refkey4lp>
+<xocs:refkey4ai>SUNX2006X198XJ</xocs:refkey4ai>
+<xocs:refkey5>SUNX2006X198X203XJ</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(05)01331-9</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805013319</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838805013319</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2005.08.018</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-08T03:45:56.371284-04:00</xocs:timestamp>
+<xocs:cover-date-start>2006-05-18</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838805013319-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013319/MAIN/application/pdf/1af6c8586fae4b912e18454d609e86c4/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013319/MAIN/application/pdf/1af6c8586fae4b912e18454d609e86c4/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>500455</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838805013319-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013319/PREVIEW/image/png/bb735581d386d46c0eba333a0a52106c/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013319/PREVIEW/image/png/bb735581d386d46c0eba333a0a52106c/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>62971</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013319-si1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013319/STRIPIN/image/gif/56c08f68027c5a7bb998e8708d279f86/si1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013319/STRIPIN/image/gif/56c08f68027c5a7bb998e8708d279f86/si1.gif</xocs:ucs-locator>
+<xocs:file-basename>si1</xocs:file-basename>
+<xocs:filename>si1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>966</xocs:filesize>
+<xocs:pixel-height>40</xocs:pixel-height>
+<xocs:pixel-width>185</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013319-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013319/gr3/DOWNSAMPLED/image/jpeg/1f162814f1e41a20a1b4983be99ad955/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013319/gr3/DOWNSAMPLED/image/jpeg/1f162814f1e41a20a1b4983be99ad955/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>12455</xocs:filesize>
+<xocs:pixel-height>212</xocs:pixel-height>
+<xocs:pixel-width>289</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013319-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013319/gr3/THUMBNAIL/image/gif/0cc5752024355eca7828521889519659/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013319/gr3/THUMBNAIL/image/gif/0cc5752024355eca7828521889519659/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2256</xocs:filesize>
+<xocs:pixel-height>92</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013319-gr6.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013319/gr6/DOWNSAMPLED/image/jpeg/1530b2daf4c77c0bdf0ad02baf2b6387/gr6.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013319/gr6/DOWNSAMPLED/image/jpeg/1530b2daf4c77c0bdf0ad02baf2b6387/gr6.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>29303</xocs:filesize>
+<xocs:pixel-height>648</xocs:pixel-height>
+<xocs:pixel-width>283</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013319-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013319/gr6/THUMBNAIL/image/gif/a344f9a51fe2948bd8987893c922a175/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013319/gr6/THUMBNAIL/image/gif/a344f9a51fe2948bd8987893c922a175/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1477</xocs:filesize>
+<xocs:pixel-height>92</xocs:pixel-height>
+<xocs:pixel-width>40</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013319-gr7.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013319/gr7/DOWNSAMPLED/image/jpeg/781a4078514d47426b79fb95a5215cd1/gr7.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013319/gr7/DOWNSAMPLED/image/jpeg/781a4078514d47426b79fb95a5215cd1/gr7.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>16271</xocs:filesize>
+<xocs:pixel-height>216</xocs:pixel-height>
+<xocs:pixel-width>292</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013319-gr7.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013319/gr7/THUMBNAIL/image/gif/3299cf302b3619e336ceeffede72614c/gr7.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013319/gr7/THUMBNAIL/image/gif/3299cf302b3619e336ceeffede72614c/gr7.sml</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2464</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013319-gr9.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013319/gr9/DOWNSAMPLED/image/jpeg/5e6d3621ea1b0ed0b1ca439baac90f10/gr9.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013319/gr9/DOWNSAMPLED/image/jpeg/5e6d3621ea1b0ed0b1ca439baac90f10/gr9.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>105646</xocs:filesize>
+<xocs:pixel-height>691</xocs:pixel-height>
+<xocs:pixel-width>287</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013319-gr9.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013319/gr9/THUMBNAIL/image/gif/af9a1c7ec49dc839c45276f87991f7a6/gr9.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013319/gr9/THUMBNAIL/image/gif/af9a1c7ec49dc839c45276f87991f7a6/gr9.sml</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2593</xocs:filesize>
+<xocs:pixel-height>91</xocs:pixel-height>
+<xocs:pixel-width>38</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013319-gr4.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013319/gr4/DOWNSAMPLED/image/jpeg/c8c25c2e1f604dd6ecaf33cca1cfbbf6/gr4.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013319/gr4/DOWNSAMPLED/image/jpeg/c8c25c2e1f604dd6ecaf33cca1cfbbf6/gr4.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>28849</xocs:filesize>
+<xocs:pixel-height>684</xocs:pixel-height>
+<xocs:pixel-width>295</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013319-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013319/gr4/THUMBNAIL/image/gif/37394c3e75b95ea80e548e58d0c90d53/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013319/gr4/THUMBNAIL/image/gif/37394c3e75b95ea80e548e58d0c90d53/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1469</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>40</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013319-gr10.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013319/gr10/DOWNSAMPLED/image/jpeg/2a778eac3baade5e33ccc6ee25cf8e63/gr10.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013319/gr10/DOWNSAMPLED/image/jpeg/2a778eac3baade5e33ccc6ee25cf8e63/gr10.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr10</xocs:file-basename>
+<xocs:filename>gr10.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>67434</xocs:filesize>
+<xocs:pixel-height>309</xocs:pixel-height>
+<xocs:pixel-width>301</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013319-gr10.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013319/gr10/THUMBNAIL/image/gif/44a380330a39a3842fc6acf40052d23b/gr10.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013319/gr10/THUMBNAIL/image/gif/44a380330a39a3842fc6acf40052d23b/gr10.sml</xocs:ucs-locator>
+<xocs:file-basename>gr10</xocs:file-basename>
+<xocs:filename>gr10.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3569</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>91</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013319-gr5.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013319/gr5/DOWNSAMPLED/image/jpeg/f70557090bbbf4ee61c4bedb0b8bafda/gr5.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013319/gr5/DOWNSAMPLED/image/jpeg/f70557090bbbf4ee61c4bedb0b8bafda/gr5.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>61202</xocs:filesize>
+<xocs:pixel-height>692</xocs:pixel-height>
+<xocs:pixel-width>297</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013319-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013319/gr5/THUMBNAIL/image/gif/c42f77057303d641b5eec519760ed12b/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013319/gr5/THUMBNAIL/image/gif/c42f77057303d641b5eec519760ed12b/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1801</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>40</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013319-gr8.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013319/gr8/DOWNSAMPLED/image/jpeg/3c2cfc3b326e4a2997a1b56570848139/gr8.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013319/gr8/DOWNSAMPLED/image/jpeg/3c2cfc3b326e4a2997a1b56570848139/gr8.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>37582</xocs:filesize>
+<xocs:pixel-height>341</xocs:pixel-height>
+<xocs:pixel-width>293</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013319-gr8.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013319/gr8/THUMBNAIL/image/gif/0ae922d4f0001264c1fca164cce1317e/gr8.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013319/gr8/THUMBNAIL/image/gif/0ae922d4f0001264c1fca164cce1317e/gr8.sml</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2114</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>80</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013319-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013319/gr1/DOWNSAMPLED/image/jpeg/097331f443807b1b1463eeeedb6c149c/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013319/gr1/DOWNSAMPLED/image/jpeg/097331f443807b1b1463eeeedb6c149c/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>27943</xocs:filesize>
+<xocs:pixel-height>302</xocs:pixel-height>
+<xocs:pixel-width>311</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013319-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013319/gr1/THUMBNAIL/image/gif/a0d8dff44f1b64c833abbe645faf99e0/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013319/gr1/THUMBNAIL/image/gif/a0d8dff44f1b64c833abbe645faf99e0/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2306</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>96</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013319-gr2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013319/gr2/DOWNSAMPLED/image/gif/05abcd325aa543a466d6dffb88aa8533/gr2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013319/gr2/DOWNSAMPLED/image/gif/05abcd325aa543a466d6dffb88aa8533/gr2.gif</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>6102</xocs:filesize>
+<xocs:pixel-height>226</xocs:pixel-height>
+<xocs:pixel-width>300</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805013319-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805013319/gr2/THUMBNAIL/image/gif/9f9f67aafdc4a65b9756e779db7e9361/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805013319/gr2/THUMBNAIL/image/gif/9f9f67aafdc4a65b9756e779db7e9361/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1857</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>124</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>13052</aid>
+<ce:pii>S0925-8388(05)01331-9</ce:pii>
+<ce:doi>10.1016/j.jallcom.2005.08.018</ce:doi>
+<ce:copyright type="full-transfer" year="2005">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Schematic illustration of the set-up used for the superplastic forming of metallic glasses.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">The dimensions and the micrograph of the mold.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">DSC curve of the as-cast Zr<ce:inf loc="post">41.2</ce:inf>Ti<ce:inf loc="post">13.8</ce:inf>Cu<ce:inf loc="post">12.5</ce:inf>Ni<ce:inf loc="post">10</ce:inf>Be<ce:inf loc="post">22.5</ce:inf> bulk metallic glass.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Filling height of the BMG under the conditions of (a) <ce:italic>P</ce:italic>
+<ce:inf loc="post">e</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>509<ce:hsp sp="0.25"></ce:hsp>MPa, <ce:italic>t</ce:italic>
+<ce:inf loc="post">e</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>500<ce:hsp sp="0.25"></ce:hsp>s; (b) <ce:italic>T</ce:italic>
+<ce:inf loc="post">e</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>654<ce:hsp sp="0.25"></ce:hsp>K, <ce:italic>t</ce:italic>
+<ce:inf loc="post">e</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>500<ce:hsp sp="0.25"></ce:hsp>s; (c) <ce:italic>T</ce:italic>
+<ce:inf loc="post">e</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>653<ce:hsp sp="0.25"></ce:hsp>K, <ce:italic>P</ce:italic>
+<ce:inf loc="post">e</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>254<ce:hsp sp="0.25"></ce:hsp>MPa.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">DSC curves of deformed specimens obtained by using different processing parameters: (a) <ce:italic>P</ce:italic>
+<ce:inf loc="post">e</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>509<ce:hsp sp="0.25"></ce:hsp>MPa, <ce:italic>t</ce:italic>
+<ce:inf loc="post">e</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>500<ce:hsp sp="0.25"></ce:hsp>s; (b) <ce:italic>T</ce:italic>
+<ce:inf loc="post">e</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>654<ce:hsp sp="0.25"></ce:hsp>K, <ce:italic>t</ce:italic>
+<ce:inf loc="post">e</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>500<ce:hsp sp="0.25"></ce:hsp>s; (c) <ce:italic>T</ce:italic>
+<ce:inf loc="post">e</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>653<ce:hsp sp="0.25"></ce:hsp>K, <ce:italic>P</ce:italic>
+<ce:inf loc="post">e</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>254<ce:hsp sp="0.25"></ce:hsp>MPa.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Crystallized volume fraction for deformed specimens under the processing conditions of (a) <ce:italic>P</ce:italic>
+<ce:inf loc="post">e</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>509<ce:hsp sp="0.25"></ce:hsp>MPa, <ce:italic>t</ce:italic>
+<ce:inf loc="post">e</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>500<ce:hsp sp="0.25"></ce:hsp>s; (b) <ce:italic>T</ce:italic>
+<ce:inf loc="post">e</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>654<ce:hsp sp="0.25"></ce:hsp>K, <ce:italic>t</ce:italic>
+<ce:inf loc="post">e</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>500<ce:hsp sp="0.25"></ce:hsp>s; (c) <ce:italic>T</ce:italic>
+<ce:inf loc="post">e</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>653<ce:hsp sp="0.25"></ce:hsp>K, <ce:italic>P</ce:italic>
+<ce:inf loc="post">e</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>254<ce:hsp sp="0.25"></ce:hsp>MPa.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+<ce:figure id="fig7">
+<ce:label>Fig. 7</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Time–temperature–transformation (<ce:italic>T</ce:italic>–<ce:italic>T</ce:italic>–T) diagram for the onset of crystallization in Zr<ce:inf loc="post">41.2</ce:inf>Ti<ce:inf loc="post">13.8</ce:inf>Cu<ce:inf loc="post">12.5</ce:inf>Ni<ce:inf loc="post">10</ce:inf>Be<ce:inf loc="post">22.5</ce:inf> bulk metallic glass.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr7"></ce:link>
+</ce:figure>
+<ce:figure id="fig8">
+<ce:label>Fig. 8</ce:label>
+<ce:caption>
+<ce:simple-para view="all">SEM image showing a superplastically formed gear-like micropart.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr8"></ce:link>
+</ce:figure>
+<ce:figure id="fig9">
+<ce:label>Fig. 9</ce:label>
+<ce:caption>
+<ce:simple-para view="all">SEM images showing parts of the die (a) and the superplastically formed micropart (b) of the metallic glass.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr9"></ce:link>
+</ce:figure>
+<ce:figure id="fig10">
+<ce:label>Fig. 10</ce:label>
+<ce:caption>
+<ce:simple-para view="all">HRTEM image and the corresponding SAED pattern (inset) obtained from the superplastically formed micropart.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr10"></ce:link>
+</ce:figure>
+</ce:floats>
+<ce:title>Superplastic formability of a Zr–Ti–Ni–Cu–Be bulk metallic glass</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>J.F.</ce:given-name>
+<ce:surname>Sun</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Y.J.</ce:given-name>
+<ce:surname>Huang</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Shen</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="aff3">
+<ce:sup loc="post">c</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="cor1">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>D.G.</ce:given-name>
+<ce:surname>McCartney</ce:surname>
+<ce:cross-ref refid="aff3">
+<ce:sup loc="post">c</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation id="aff1">
+<ce:label>a</ce:label>
+<ce:textfn>School of Materials Science and Engineering, Harbin Institute of Technology, Harbin 150001, China</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff2">
+<ce:label>b</ce:label>
+<ce:textfn>Institute of Physics, Chinese Academy of Sciences, Beijing 100080, China</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff3">
+<ce:label>c</ce:label>
+<ce:textfn>School of Mechanical, Materials and Manufacturing Engineering, University of Nottingham, University Park, Nottingham NG7 2RD, UK</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>⁎</ce:label>
+<ce:text>Corresponding author. Tel.: +86 451 86418317; fax: +86 451 86415776.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="26" month="7" year="2005"></ce:date-received>
+<ce:date-revised day="10" month="8" year="2005"></ce:date-revised>
+<ce:date-accepted day="10" month="8" year="2005"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">In this paper, the superplastic formability of the Zr<ce:inf loc="post">41.2</ce:inf>Ti<ce:inf loc="post">13.8</ce:inf>Cu<ce:inf loc="post">12.5</ce:inf>Ni<ce:inf loc="post">10</ce:inf>Be<ce:inf loc="post">22.5</ce:inf> bulk metallic glass in the supercooled liquid region is described. Experimental results show that the superplastic deformation of the metallic glass is mainly controlled by the processing parameters such as forming temperature, <ce:italic>T</ce:italic>
+<ce:inf loc="post">e</ce:inf>, applied stress, <ce:italic>P</ce:italic>
+<ce:inf loc="post">e</ce:inf>, and time of application, <ce:italic>t</ce:italic>
+<ce:inf loc="post">e</ce:inf>. The thermal stabilities of the deformed specimens were investigated by means of differential scanning calorimetry (DSC). The higher the processing parameter, the more serious is the crystallization of the deformed specimens. A gear-like micropart with a single amorphous phase was successfully fabricated by using the following parameters: <ce:italic>T</ce:italic>
+<ce:inf loc="post">e</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>673<ce:hsp sp="0.25"></ce:hsp>K, <ce:italic>t</ce:italic>
+<ce:inf loc="post">e</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>200<ce:hsp sp="0.25"></ce:hsp>s and <ce:italic>P</ce:italic>
+<ce:inf loc="post">e</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>254<ce:hsp sp="0.25"></ce:hsp>MPa.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Zr-based bulk metallic glass</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Superplastic forming</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Supercooled liquid region</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Crystallization</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Zr-based bulk metallic glasses (BMGs) have unique properties such as high strength and high deformation ability in the supercooled liquid region (SLR) (defined as the temperature span between the glass transition temperature <ce:italic>T</ce:italic>
+<ce:inf loc="post">g</ce:inf> and the onset of crystallization temperature <ce:italic>T</ce:italic>
+<ce:inf loc="post">x</ce:inf>) <ce:cross-refs refid="bib1 bib2">[1,2]</ce:cross-refs>. Therefore, superplasticity and the superplastic formability of BMGs have attracted increasing attention <ce:cross-refs refid="bib3 bib4 bib5 bib6 bib7 bib8 bib9 bib10 bib11 bib12 bib13 bib14 bib15 bib16">[3–16]</ce:cross-refs>. Saotome et al. studied the micro-formability of La<ce:inf loc="post">60</ce:inf>Al<ce:inf loc="post">20</ce:inf>Ni<ce:inf loc="post">10</ce:inf>Co<ce:inf loc="post">5</ce:inf>Cu<ce:inf loc="post">5</ce:inf>
+<ce:cross-ref refid="bib7">[7]</ce:cross-ref>, Zr<ce:inf loc="post">65</ce:inf>Al<ce:inf loc="post">7.5</ce:inf>Cu<ce:inf loc="post">27.5</ce:inf>
+<ce:cross-ref refid="bib8">[8]</ce:cross-ref>, Zr<ce:inf loc="post">55</ce:inf>Al<ce:inf loc="post">10</ce:inf> Cu<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">5</ce:inf>
+<ce:cross-ref refid="bib8">[8]</ce:cross-ref>, Pd<ce:inf loc="post">40</ce:inf>Cu<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">10</ce:inf>P<ce:inf loc="post">20</ce:inf>
+<ce:cross-ref refid="bib9">[9]</ce:cross-ref>, Pt<ce:inf loc="post">48.75</ce:inf>Pd<ce:inf loc="post">9.75</ce:inf>Cu<ce:inf loc="post">19.5</ce:inf>P<ce:inf loc="post">22</ce:inf>
+<ce:cross-ref refid="bib10">[10]</ce:cross-ref> and La<ce:inf loc="post">55</ce:inf>Al<ce:inf loc="post">25</ce:inf>Ni<ce:inf loc="post">20</ce:inf>
+<ce:cross-ref refid="bib11">[11]</ce:cross-ref>. Wang et al. <ce:cross-ref refid="bib12">[12]</ce:cross-ref> investigated the high temperature deformation of a Zr-based BMG in both fully amorphous and partially crystallized states and discussed the influence of microstructural changes due to phase separation and primary crystallization on high temperature flow behavior. Chu et al. <ce:cross-ref refid="bib13">[13]</ce:cross-ref> showed the existence of nano-particles or ordered domains in the amorphous matrix after compression deformation at high test temperatures. Lee et al. <ce:cross-ref refid="bib14">[14]</ce:cross-ref> suggested a distinct correlation between the deformation behavior and the thermal data obtained from DSC analysis of deformed specimens. Thus, it has been concluded that during the high temperature deformation process, crystallization occurs, to a certain extent, in the amorphous matrix. However, there has been limited information to date regarding the relationship between the processing parameters and the microstructural nature of the deformed specimens.</ce:para>
+<ce:para view="all">The objective of this study was to understand and address the effects of various processing parameters on the superplastic deformation ability and resultant structure of the Zr<ce:inf loc="post">41.2</ce:inf>Ti<ce:inf loc="post">13.8</ce:inf>Cu<ce:inf loc="post">12.5</ce:inf>Ni<ce:inf loc="post">10</ce:inf>Be<ce:inf loc="post">22.5</ce:inf> (at.%) metallic glass. This particular alloy was selected due to its high glass-forming ability as well as its wide supercooled liquid region. DSC analysis for the deformed specimens was also carried out to determine the thermal properties. Consequently, the optimum processing parameters for the superplastic forming of the alloy were obtained and a gear-like micropart with a single amorphous phase was fabricated by using these parameters.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experiment procedure</ce:section-title>
+<ce:para view="all">The alloy ingots were prepared by arc melting a mixture of pure elements with purity above 99.9% or better in a titanium-gettered argon atmosphere. To achieve compositional homogeneity, the master alloys were remelted at least four times, followed by casting into a copper mold to form rod shaped samples with a size of Ø5<ce:hsp sp="0.25"></ce:hsp>mm<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>40<ce:hsp sp="0.25"></ce:hsp>mm. The specimens for forging with a size of Ø5<ce:hsp sp="0.25"></ce:hsp>mm<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>3<ce:hsp sp="0.25"></ce:hsp>mm were cut from the as-cast samples by means of electrical discharge machining. A backward forging process was carried out on a WE-60 universal materials testing machine to test the forming ability of the BMG alloy. The load limit of the testing machine was 30<ce:hsp sp="0.25"></ce:hsp>kN. The accuracy of loading was controlled to be within ±0.1<ce:hsp sp="0.25"></ce:hsp>kN. The BMG preforms were heated to temperatures in the supercooled liquid range (i.e. 613–673<ce:hsp sp="0.25"></ce:hsp>K) and forged at a constant area reduction of 6.5:1 with an applied stress ranging from 200 to 1600<ce:hsp sp="0.25"></ce:hsp>MPa and a pressure holding time in the range of 100 to 2000<ce:hsp sp="0.25"></ce:hsp>s. <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor> shows the schematic illustration of the experimental set-up used for the superplastic forming of BMG alloys. The BMG perform, as a feedstock material, is subjected to fill in a gear-shaped mold cavity. <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor> shows the mold for the forming tests. The sample temperature was monitored with the NiCr–NiSi thermocouple, which was connected directly to the die, which was made from a hot-worked steel 3Cr2W8V alloy and the measurement accuracy was evaluated to be within ±5<ce:hsp sp="0.25"></ce:hsp>K. To minimize crystallization during the forging process, a fast heating rate of 1<ce:hsp sp="0.25"></ce:hsp>K/s was used. The nature of the alloy after deformation was examined by transmission electron microscopy (TEM). TEM specimens were prepared by mechanical polishing and ion milling. The TEM observations were conducted on a Tecnai F20 machine operating at 200<ce:hsp sp="0.25"></ce:hsp>kV. The thermal properties of the alloy were measured using differential scanning calorimetry (DSC) with a heating rate 0.67<ce:hsp sp="0.25"></ce:hsp>K/s in an argon atmosphere.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:para view="all">
+<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor> presents the DSC thermogram obtained from the as-cast Zr<ce:inf loc="post">41.2</ce:inf>Ti<ce:inf loc="post">13.8</ce:inf>Cu<ce:inf loc="post">12.5</ce:inf>Ni<ce:inf loc="post">10</ce:inf>Be<ce:inf loc="post">22.5</ce:inf> BMG. The glass transition temperature (<ce:italic>T</ce:italic>
+<ce:inf loc="post">g</ce:inf>) and onset crystallization temperature (<ce:italic>T</ce:italic>
+<ce:inf loc="post">x</ce:inf>) of this alloy were determined to be 623.4 and 711.8<ce:hsp sp="0.25"></ce:hsp>K, respectively. Superplastic deformation of BMG should ideally occur near or above <ce:italic>T</ce:italic>
+<ce:inf loc="post">g</ce:inf>, to significantly decrease the material's flow stress, yet below <ce:italic>T</ce:italic>
+<ce:inf loc="post">x</ce:inf>, to avoid crystallization. Accordingly, five test temperatures, 613, 633, 653, 673, 693<ce:hsp sp="0.25"></ce:hsp>K, were thus chosen for superplastic deformation of the alloy.</ce:para>
+<ce:para view="all">The forming temperature, <ce:italic>T</ce:italic>
+<ce:inf loc="post">e</ce:inf>, applied stress, <ce:italic>P</ce:italic>
+<ce:inf loc="post">e</ce:inf>, and time of application, <ce:italic>t</ce:italic>
+<ce:inf loc="post">e</ce:inf>, are considered as the main processing parameters for superplastic forming. The filling height, <ce:italic>h</ce:italic>
+<ce:inf loc="post">e</ce:inf>, of the BMG alloy in the die was selected as the criterion for evaluating the superplastic forming ability of the BMG alloys. <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor> shows the relationship between <ce:italic>h</ce:italic>
+<ce:inf loc="post">e</ce:inf> of the deformed samples and various processing parameters (<ce:italic>T</ce:italic>
+<ce:inf loc="post">e</ce:inf>, <ce:italic>t</ce:italic>
+<ce:inf loc="post">e</ce:inf> and <ce:italic>P</ce:italic>
+<ce:inf loc="post">e</ce:inf>). It is evident from <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>(a) that <ce:italic>h</ce:italic>
+<ce:inf loc="post">e</ce:inf> increases with increasing <ce:italic>T</ce:italic>
+<ce:inf loc="post">e</ce:inf> at a given <ce:italic>t</ce:italic>
+<ce:inf loc="post">e</ce:inf> and <ce:italic>P</ce:italic>
+<ce:inf loc="post">e</ce:inf>. Superplastic forming ability strongly depends on the processing temperature. Metallic glasses exhibit no yielding and strain hardening at room temperature due to the absence of dislocation-based plasticity, which limits the application of BMGs <ce:cross-ref refid="bib17">[17]</ce:cross-ref>. However, a BMG alloy shows excellent plastic deformation ability in the supercooled liquid region, in which there is a drastic reduction in viscosity of the material. During the superplastic deformation of metallic glasses in the supercooled liquid region, with increase in the forming temperature, <ce:italic>T</ce:italic>
+<ce:inf loc="post">e</ce:inf>, the viscosity of the BMG drops and consequently the fluidity increases, which explains the enhancement of the superplastic deformation ability of the metallic glass.</ce:para>
+<ce:para view="all">For amorphous solids, plastic flow can occur under a certain applied stress, which depends on the cohesion of metal glass <ce:cross-ref refid="bib18">[18]</ce:cross-ref>. The <ce:italic>P</ce:italic>
+<ce:inf loc="post">e</ce:inf> versus <ce:italic>h</ce:italic>
+<ce:inf loc="post">e</ce:inf> curve of the samples deformed at 653<ce:hsp sp="0.25"></ce:hsp>K with a pressure holding time of 500<ce:hsp sp="0.25"></ce:hsp>s are shown in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>(b). It can be seen that <ce:italic>h</ce:italic>
+<ce:inf loc="post">e</ce:inf> increases with increasing <ce:italic>P</ce:italic>
+<ce:inf loc="post">e</ce:inf>. During the superplastic forming of metallic glass, the accumulative strain energy caused by plastic deformation will lead to a temperature rise in the deformed area, which contributes to the softening of the material. The greater the applied stress, the more the “softening” occurs, consequently, the better the deformation ability of the metallic glass in the supercooled liquid region. Filling height, <ce:italic>h</ce:italic>
+<ce:inf loc="post">e</ce:inf>, as a function of <ce:italic>t</ce:italic>
+<ce:inf loc="post">e</ce:inf> for the samples deformed at 653<ce:hsp sp="0.25"></ce:hsp>K with an applied stress of 254<ce:hsp sp="0.25"></ce:hsp>MPa is plotted in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>(c). As can be seen, with an increase in the time for which pressure was applied, the deformation ability of metallic glass increases.</ce:para>
+<ce:para view="all">Since metallic glasses are not in thermodynamic equilibrium, phase transformations from the amorphous to the more stable crystalline phase can take place with the supply of external energy. Heating and deformation (or stress) are the principal origins of driving forces affecting this transformation <ce:cross-ref refid="bib16">[16]</ce:cross-ref>. In order to clarify the influence of the processing parameters on the crystallization behavior of the Zr<ce:inf loc="post">41.2</ce:inf>Ti<ce:inf loc="post">13.8</ce:inf>Cu<ce:inf loc="post">12.5</ce:inf>Ni<ce:inf loc="post">10</ce:inf>Be<ce:inf loc="post">22.5</ce:inf> BMG in the supercooled liquid region, thermal analysis of deformed samples was conducted by means of DSC. <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="fig5"></ce:float-anchor> shows the DSC curves of the specimens deformed using different processing parameters. It is evident that variations in the processing parameters exert a drastic effect on the structure of the BMG, reflected by differences in the continuous heating DSC measurements. Of all the processing parameters, forming temperature had the most profound impact on the DSC curves of the deformed samples. With an increase in the forming temperature, <ce:italic>T</ce:italic>
+<ce:inf loc="post">g</ce:inf> and <ce:italic>T</ce:italic>
+<ce:inf loc="post">x</ce:inf> shift to higher and lower temperatures, respectively (except for the case of <ce:italic>T</ce:italic>
+<ce:inf loc="post">e</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>693<ce:hsp sp="0.25"></ce:hsp>K), and the first exothermic peak vanishes. The rise in <ce:italic>T</ce:italic>
+<ce:inf loc="post">x</ce:inf> for the case of <ce:italic>T</ce:italic>
+<ce:inf loc="post">e</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>693<ce:hsp sp="0.25"></ce:hsp>K is due to the disappearance of primary crystallization. This observation indicates that the material has suffered partial crystallization after deformation, and the remaining amorphous matrix is largely destabilized. Waniuk et al. <ce:cross-ref refid="bib19">[19]</ce:cross-ref> also observed the shifts of the characteristic temperatures after a BMG was annealed for a certain time, and they argued that these shifts are related to the phase separation and the resultant compositional variations.</ce:para>
+<ce:para view="all">The crystallized volume fraction, <ce:italic>V</ce:italic>
+<ce:inf loc="post">f</ce:inf>, for deformed specimens can be calculated from<ce:display>
+<ce:formula>
+<ce:label>(1)</ce:label>
+<mml:math altimg="si1.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>V</mml:mi>
+<mml:mtext>f</mml:mtext>
+</mml:msub>
+<mml:mo>=</mml:mo>
+<mml:mfenced close=")" open="(">
+<mml:mrow>
+<mml:mn>1</mml:mn>
+<mml:mo>−</mml:mo>
+<mml:mfrac>
+<mml:mrow>
+<mml:mstyle mathvariant="normal">
+<mml:mi>Δ</mml:mi>
+</mml:mstyle>
+<mml:msub>
+<mml:mi>H</mml:mi>
+<mml:mtext>D</mml:mtext>
+</mml:msub>
+</mml:mrow>
+<mml:mrow>
+<mml:mstyle mathvariant="normal">
+<mml:mi>Δ</mml:mi>
+</mml:mstyle>
+<mml:msub>
+<mml:mi>H</mml:mi>
+<mml:mtext>C</mml:mtext>
+</mml:msub>
+</mml:mrow>
+</mml:mfrac>
+</mml:mrow>
+</mml:mfenced>
+<mml:mo>×</mml:mo>
+<mml:mn>100</mml:mn>
+<mml:mo>%</mml:mo>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>where Δ<ce:italic>H</ce:italic>
+<ce:inf loc="post">D</ce:inf> is the heat of crystallization for a deformed specimen and Δ<ce:italic>H</ce:italic>
+<ce:inf loc="post">C</ce:inf> is the heat of crystallization for the as-cast metallic glass, which was measured to be 109.2<ce:hsp sp="0.25"></ce:hsp>J/g.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="fig6"></ce:float-anchor> presents the changes in <ce:italic>V</ce:italic>
+<ce:inf loc="post">f</ce:inf> with processing parameters. It can be seen that <ce:italic>V</ce:italic>
+<ce:inf loc="post">f</ce:inf> for the deformed specimens increases as the forming temperature increases in the undercooled liquid region, <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>(a). Thermodynamically, crystallization in an amorphous solid is normally regarded as a process involving crystal nucleation and subsequent growth controlled by diffusion, which strongly rely on temperature <ce:cross-ref refid="bib20">[20]</ce:cross-ref>. With an increase in ambient temperature, the atom mobility is enhanced, which favors the formation of homogeneous crystal nuclei in the BMG matrix and long range diffusion necessary for the growth of the nuclei. The crystallized volume fraction also shows a monotonic increase with increasing applied pressure or time of application, as shown in <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>(b and c), respectively.</ce:para>
+<ce:para view="all">Although the forming temperatures 613, 633, 653, 673 and 693<ce:hsp sp="0.25"></ce:hsp>K are near or in the supercooled liquid region, lower than the crystallization temperature of this alloy measured by DSC, a certain amount of crystallization is observed at these temperatures. This can be explained by the fact that the strain energy caused by plastic deformation will complement the thermal energy required for crystallization at these temperatures, as was suggested by Nieh et al. <ce:cross-ref refid="bib3">[3]</ce:cross-ref> and Lee et al. <ce:cross-ref refid="bib14">[14]</ce:cross-ref>. During the deformation process, stress-induced crystallization can be promoted in BMG in the supercooled liquid region <ce:cross-ref refid="bib16">[16]</ce:cross-ref>. Moreover, the larger the applied stress, the more the strain energy, and consequently the larger is the <ce:italic>V</ce:italic>
+<ce:inf loc="post">f</ce:inf> for the deformed specimens (see <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>(b)). With increasing time of pressure application, the specimens are exposed at a given high temperature for a longer time, the heat- and stress-induced crystallization will proceed further, resulting in an increase in <ce:italic>V</ce:italic>
+<ce:inf loc="post">f</ce:inf> with <ce:italic>t</ce:italic>
+<ce:inf loc="post">e</ce:inf> (see <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>(c)).</ce:para>
+<ce:para view="all">The above experimental results have indicated the relationship between the processing parameters and the superplastic forming ability and the resulting structure of the BMG alloy. The results suggest that it is vital to optimize the conditions to minimize the crystallization during the superplastic forming of BMGs.</ce:para>
+<ce:para view="all">The processing temperature for superplastically forming a gear-like micropart was chosen to be 673<ce:hsp sp="0.25"></ce:hsp>K, i.e. located in the middle of supercooled liquid region, because Newtonian flow behavior would appear near this temperature <ce:cross-ref refid="bib15">[15]</ce:cross-ref>. Furthermore, it is desirable to consider a proper applied stress for superplastic forming practice. To shorten the forming time, and to avoid crystallization, the applied stress needs to be relatively large to obtain a high deformation rate. On the basis of these considerations, an applied stress of 254<ce:hsp sp="0.25"></ce:hsp>MPa was used to form the micropart.</ce:para>
+<ce:para view="all">Equally important is the time required to shape the BMG part. Pressure holding time, <ce:italic>t</ce:italic>
+<ce:inf loc="post">e</ce:inf>, was determined based on the time–temperature–transformation (<ce:italic>T</ce:italic>–<ce:italic>T</ce:italic>–T) diagram. In order to obtain the <ce:italic>T</ce:italic>–<ce:italic>T</ce:italic>–T diagram for the crystallization process, isothermal annealing was performed for the alloy at various temperatures below the crystallization onset temperature, <ce:italic>T</ce:italic>
+<ce:inf loc="post">x</ce:inf>. The incubation time for the onset of the crystallization was determined experimentally to be the time when the exothermic signals deviate from the DSC baseline during isothermal holding tests. The lower part of T–T–T diagram of the alloy is shown in <ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+<ce:float-anchor refid="fig7"></ce:float-anchor>. It can be noticed from <ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref> that the incubation time for the onset of the crystallization can be estimated as 360<ce:hsp sp="0.25"></ce:hsp>s at 673<ce:hsp sp="0.25"></ce:hsp>K. Finally, taking the effect of applied stress induced crystallization into account, 200<ce:hsp sp="0.25"></ce:hsp>s was selected as the pressure holding time. The heating and isothermal holding time prior to forging was less than 500<ce:hsp sp="0.25"></ce:hsp>s. The pressure was maintained at 254<ce:hsp sp="0.25"></ce:hsp>MPa for 200<ce:hsp sp="0.25"></ce:hsp>s to ensure the flowing glass to fill the cavity of the mold. <ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>
+<ce:float-anchor refid="fig8"></ce:float-anchor> shows a SEM image of the superplastically formed micropart. <ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref>(a and b)<ce:float-anchor refid="fig9"></ce:float-anchor> present sections of the concave die and the deformed micropart of the BMG alloy, respectively. It is evident that the shape of the micropart matches very well that of the cavity of the mold, demonstrating an excellent replication capacity and a good viscous deformability of BMGs. The high-resolution TEM image of a sample from the deformed material (see <ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref>
+<ce:float-anchor refid="fig10"></ce:float-anchor>) exhibits a mazy, homogeneous contrast, typical of a single glassy phase with no evidence of crystallization. The selected area electron diffraction (SAED) pattern (as inserted in <ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref>) shows a strong inner diffraction ring plus a rather faint and diffuse ring, which is inherent in a pattern from an amorphous phase. All these features confirm a principally amorphous structure of the superplastically formed micropart.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusion</ce:section-title>
+<ce:para view="all">The superplastic forming ability of the Zr<ce:inf loc="post">41.2</ce:inf>Ti<ce:inf loc="post">13.8</ce:inf>Ni<ce:inf loc="post">10</ce:inf>Cu<ce:inf loc="post">12.5</ce:inf>Be<ce:inf loc="post">22.5</ce:inf> BMG in the supercooled liquid region has been examined through die-forging. The filling height <ce:italic>h</ce:italic>
+<ce:inf loc="post">e</ce:inf>, of the amorphous feedstock material in a die is an appropriate criterion for evaluating the superplastic forming ability of metallic glasses. The superplastic forming ability of the metallic glass is mainly determined by forming temperature, <ce:italic>T</ce:italic>
+<ce:inf loc="post">e</ce:inf>, pressure holding time, <ce:italic>t</ce:italic>
+<ce:inf loc="post">e</ce:inf>, and applied stress, <ce:italic>P</ce:italic>
+<ce:inf loc="post">e</ce:inf>. By using a specific set of processing parameters, a sound micropart, with a predominantly amorphous structure, can be successfully fabricated.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgements</ce:section-title>
+<ce:para view="all">This work is in part supported by the Harbin Institute of Technology Foundation. The authors are grateful to Dr. J. Zou of School of Engineering and Centre for Microscopy and Microanalysis, The University of Queensland, Australia, for his assistance in TEM analysis.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>48</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>279</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.L.</ce:given-name>
+<ce:surname>Johnson</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>MRS Bull.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>24</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>10</sb:issue-nr>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>42</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.G.</ce:given-name>
+<ce:surname>Nieh</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Mukai</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.T.</ce:given-name>
+<ce:surname>Liu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scr. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>40</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>9</sb:issue-nr>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1021</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Kawamura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Nakamura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scr. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>39</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>3</sb:issue-nr>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>301</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Nishiyama</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Trans. JIM</sb:maintitle>
+</sb:title>
+<sb:volume-nr>40</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>1</sb:issue-nr>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>64</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Schroers</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>JOM</sb:maintitle>
+</sb:title>
+<sb:volume-nr>57</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>5</sb:issue-nr>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>35</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Saotome</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Hatori</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>304–306</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>716</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Saotome</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Miwa</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Proc. Tech.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>113</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>64</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Saotome</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Itoh</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scr. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>44</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1541</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Saotome</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Imai</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Shioda</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Shimizu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Intermetallics</sb:maintitle>
+</sb:title>
+<sb:volume-nr>10</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1241</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Saotome</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Iwazaki</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Proc. Tech.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>119</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>307</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Q.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.J.</ce:given-name>
+<ce:surname>Blandin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Suery</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Van De Moortele</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.M.</ce:given-name>
+<ce:surname>Pelletier</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Ann. Chim. Sci. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>27</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>5</sb:issue-nr>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>19</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.P.</ce:given-name>
+<ce:surname>Chu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.L.</ce:given-name>
+<ce:surname>Chiang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.G.</ce:given-name>
+<ce:surname>Nieh</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Kawamura</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Intermetallics</sb:maintitle>
+</sb:title>
+<sb:volume-nr>10</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1191</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.S.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.K.</ce:given-name>
+<ce:surname>Ha</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Ahn</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.W.</ce:given-name>
+<ce:surname>Chang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Non-Cryst. Solids</sb:maintitle>
+</sb:title>
+<sb:volume-nr>317</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>193</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Shen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.F.</ce:given-name>
+<ce:surname>Sun</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.H.</ce:given-name>
+<ce:surname>Stachurski</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Yan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Ye</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.D.</ce:given-name>
+<ce:surname>Zhou</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Intermetallics</sb:maintitle>
+</sb:title>
+<sb:volume-nr>13</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>79</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib16">
+<ce:label>[16]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Shen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.F.</ce:given-name>
+<ce:surname>Sun</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.J.</ce:given-name>
+<ce:surname>Huang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Zou</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.P.</ce:given-name>
+<ce:surname>Lu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.H.</ce:given-name>
+<ce:surname>Stachurski</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.D.</ce:given-name>
+<ce:surname>Zhou</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Non-Cryst. Solids</sb:maintitle>
+</sb:title>
+<sb:volume-nr>351</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>209</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib17">
+<ce:label>[17]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>U.</ce:given-name>
+<ce:surname>Kühn</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Eckert</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Mattern</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Schultz</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>80</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2478</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib18">
+<ce:label>[18]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Mughrabi</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Plastic Deformation and Fracture of Metals</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1993</sb:date>
+<sb:publisher>
+<sb:name>VCH</sb:name>
+<sb:location>Weinheim</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+<sb:comment>p. 473</sb:comment>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib19">
+<ce:label>[19]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.A.</ce:given-name>
+<ce:surname>Waniuk</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Busch</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Masuhr</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.L.</ce:given-name>
+<ce:surname>Johnson</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>46</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>15</sb:issue-nr>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>5229</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib20">
+<ce:label>[20]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Ye</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Lu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>47</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>8</sb:issue-nr>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2449</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

@@ -1,0 +1,2565 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S092583880400982X</prism:url><dc:identifier>doi:10.1016/j.jallcom.2004.07.045</dc:identifier><eid>1-s2.0-S092583880400982X</eid><prism:doi>10.1016/j.jallcom.2004.07.045</prism:doi><pii>S0925-8388(04)00982-X</pii><dc:title>Atomistic investigation on site preference and lattice vibrations of Sm(Co,M)12 (M = Cr, Ti, V, Nb, Fe) </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>388</prism:volume><prism:issueidentifier>2</prism:issueidentifier><prism:startingpage>208</prism:startingpage><prism:endingpage>214</prism:endingpage><prism:pagerange>208-214</prism:pagerange><prism:number>2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2005-02-22</prism:coverdate><prism:coverdisplaydate>22 February 2005</prism:coverdisplaydate><prism:copyright>Copyright © 2004 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Shen, Jiang</dc:creator><dc:creator>Qian, Ping</dc:creator><dc:creator>Chen, Nan-Xian</dc:creator><dc:description>
+                  The phase stability and site preference of the intermetallics Sm(Co,M)12 (M = Cr, Ti, V, Nb, Fe) are evaluated by using interatomic pair potentials based on Chen's lattice inversion method. The calculated results show that substituting either Cr, Ti, V, Nb or Fe atoms makes the crystal cohesive energy of Sm(Co,M)12 decrease markedly, proving that these atoms can stabilize Sm(Co,M)12 with ThMn12 structure. The calculated lattice constants coincide quite well with the experimental data. The order of site preference of these ternary elements T is 8i, 8j and 8f with the occupation of 8i corresponding to the greatest energy decreases. The properties related to lattice vibration, such as the phonon densities of states, specific heat and vibrational entropy, are also evaluated.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Interatomic potentials</dcterms:subject><dcterms:subject>Site preference</dcterms:subject><dcterms:subject>Lattice dynamics</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S092583880400982X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S092583880400982X" rel="scidir"/></coredata><objects><object category="thumbnail" height="45" mimetype="image/gif" multimediatype="GIF image file" ref="si9" size="1286" type="ALTIMG" width="274">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400982X-si9.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="42" mimetype="image/gif" multimediatype="GIF image file" ref="si8" size="932" type="ALTIMG" width="158">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400982X-si8.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="47" mimetype="image/gif" multimediatype="GIF image file" ref="si7" size="1979" type="ALTIMG" width="320">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400982X-si7.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="20" mimetype="image/gif" multimediatype="GIF image file" ref="si6" size="926" type="ALTIMG" width="290">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400982X-si6.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="48" mimetype="image/gif" multimediatype="GIF image file" ref="si5" size="1394" type="ALTIMG" width="227">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400982X-si5.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="48" mimetype="image/gif" multimediatype="GIF image file" ref="si4" size="1005" type="ALTIMG" width="181">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400982X-si4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="51" mimetype="image/gif" multimediatype="GIF image file" ref="si3" size="1733" type="ALTIMG" width="267">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400982X-si3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="48" mimetype="image/gif" multimediatype="GIF image file" ref="si2" size="914" type="ALTIMG" width="183">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400982X-si2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="51" mimetype="image/gif" multimediatype="GIF image file" ref="si1" size="1688" type="ALTIMG" width="307">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400982X-si1.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="44" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="2649" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400982X-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="228" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="60151" type="IMAGE-DOWNSAMPLED" width="642">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400982X-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="2693" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400982X-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="479" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="33006" type="IMAGE-DOWNSAMPLED" width="644">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400982X-gr2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="4319" type="IMAGE-THUMBNAIL" width="122">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400982X-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="499" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="100754" type="IMAGE-DOWNSAMPLED" width="651">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400982X-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="91" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="1391" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400982X-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="232" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="4795" type="IMAGE-DOWNSAMPLED" width="317">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400982X-gr4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="92" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="1435" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400982X-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="235" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="5041" type="IMAGE-DOWNSAMPLED" width="321">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400982X-gr5.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="91" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="1626" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400982X-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="238" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="6063" type="IMAGE-DOWNSAMPLED" width="326">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880400982X-gr6.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>11344265287</scopus-id><scopus-eid>2-s2.0-11344265287</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/11344265287" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20040915">2004-09-15</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20040915">2004-09-15</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-04-19T04:56:56</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S092583880400982X</xocs:eid>
+<xocs:pii-formatted>S0925-8388(04)00982-X</xocs:pii-formatted>
+<xocs:pii-unformatted>S092583880400982X</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2004.07.045</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.2</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838800X02320</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.228461-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20050222</xocs:date-search-begin>
+<xocs:year-nav>2005</xocs:year-nav>
+<xocs:indexeddate epoch="1095206400">2004-09-15T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast otherkwds primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>388</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>388</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>2</xocs:iss-first>
+<xocs:issue-list>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 388, Issue 2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>9</xocs:sort-order>
+<xocs:first-fp>208</xocs:first-fp>
+<xocs:last-lp>214</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>208</xocs:first-page>
+<xocs:last-page>214</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20050222</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>22 February 2005</xocs:cover-date-text>
+<xocs:cover-date-start>2005-02-22</xocs:cover-date-start>
+<xocs:cover-date-year>2005</xocs:cover-date-year>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2004 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>ATOMISTICINVESTIGATIONSITEPREFERENCELATTICEVIBRATIONSSMCOM12MCRTIVNBFE</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>SHEN</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Methodology</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Phase stability and site preference</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Phonon density of states</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>5</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>OHASHI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1988</xocs:ref-pub-year>
+<xocs:ref-first-fp>L1</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>HU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>2905</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>BODRIAKOV</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>265</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>BUSCHOW</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1988</xocs:ref-pub-year>
+<xocs:ref-first-fp>1611</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>SINHA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1989</xocs:ref-pub-year>
+<xocs:ref-first-fp>227</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>JURCZYK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1989</xocs:ref-pub-year>
+<xocs:ref-first-fp>239</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>JURCZYK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1991</xocs:ref-pub-year>
+<xocs:ref-first-fp>L6</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>JURCZYK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1991</xocs:ref-pub-year>
+<xocs:ref-first-fp>6110</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>XIE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1993</xocs:ref-pub-year>
+<xocs:ref-first-fp>L6</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>BRABERS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1993</xocs:ref-pub-year>
+<xocs:ref-first-fp>339</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>OHASHI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1991</xocs:ref-pub-year>
+<xocs:ref-first-fp>10</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>2727</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13">
+<xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>169</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>HAO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>110</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15">
+<xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>R5</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib16">
+<xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1992</xocs:ref-pub-year>
+<xocs:ref-first-fp>8177</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib17">
+<xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>14203</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib18">
+<xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>578</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib19">
+<xocs:ref-normalized-surname>GE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>3488</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib20">
+<xocs:ref-normalized-surname>BUSCHOW</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1988</xocs:ref-pub-year>
+<xocs:ref-first-fp>3130</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib21">
+<xocs:ref-normalized-surname>HELMHOLDT</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1988</xocs:ref-pub-year>
+<xocs:ref-first-fp>L11</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib22">
+<xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>756</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib23">
+<xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>62</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib24">
+<xocs:ref-normalized-surname>BERENDSEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1984</xocs:ref-pub-year>
+<xocs:ref-first-fp>3684</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>SHENX2005X208</xocs:refkey3>
+<xocs:refkey4lp>SHENX2005X208X214</xocs:refkey4lp>
+<xocs:refkey4ai>SHENX2005X208XJ</xocs:refkey4ai>
+<xocs:refkey5>SHENX2005X208X214XJ</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(04)00982-X</xocs:pii-formatted>
+<xocs:pii-unformatted>S092583880400982X</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S092583880400982X</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2004.07.045</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-10T20:42:45.180559-04:00</xocs:timestamp>
+<xocs:cover-date-start>2005-02-22</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S092583880400982X-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400982X/MAIN/application/pdf/d721d09f05f22c4ba161dab2b35b40d5/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400982X/MAIN/application/pdf/d721d09f05f22c4ba161dab2b35b40d5/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>350613</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S092583880400982X-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400982X/PREVIEW/image/png/4d1e76abf93ff3d69a7b189393745d29/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400982X/PREVIEW/image/png/4d1e76abf93ff3d69a7b189393745d29/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>57794</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400982X-si9.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400982X/STRIPIN/image/gif/d2d11407d16bde1d07db28a388d95798/si9.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400982X/STRIPIN/image/gif/d2d11407d16bde1d07db28a388d95798/si9.gif</xocs:ucs-locator>
+<xocs:file-basename>si9</xocs:file-basename>
+<xocs:filename>si9.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1286</xocs:filesize>
+<xocs:pixel-height>45</xocs:pixel-height>
+<xocs:pixel-width>274</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400982X-si8.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400982X/STRIPIN/image/gif/54f3819792fcc59cecc8929b3355e8d9/si8.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400982X/STRIPIN/image/gif/54f3819792fcc59cecc8929b3355e8d9/si8.gif</xocs:ucs-locator>
+<xocs:file-basename>si8</xocs:file-basename>
+<xocs:filename>si8.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>932</xocs:filesize>
+<xocs:pixel-height>42</xocs:pixel-height>
+<xocs:pixel-width>158</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400982X-si7.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400982X/STRIPIN/image/gif/98ccff066acdcc3c2cece68c31720ecb/si7.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400982X/STRIPIN/image/gif/98ccff066acdcc3c2cece68c31720ecb/si7.gif</xocs:ucs-locator>
+<xocs:file-basename>si7</xocs:file-basename>
+<xocs:filename>si7.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1979</xocs:filesize>
+<xocs:pixel-height>47</xocs:pixel-height>
+<xocs:pixel-width>320</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400982X-si6.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400982X/STRIPIN/image/gif/3e0e7d25a5d2ee89d2e1fa0783cab156/si6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400982X/STRIPIN/image/gif/3e0e7d25a5d2ee89d2e1fa0783cab156/si6.gif</xocs:ucs-locator>
+<xocs:file-basename>si6</xocs:file-basename>
+<xocs:filename>si6.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>926</xocs:filesize>
+<xocs:pixel-height>20</xocs:pixel-height>
+<xocs:pixel-width>290</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400982X-si5.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400982X/STRIPIN/image/gif/d87078439a03269678ca46118559c2bb/si5.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400982X/STRIPIN/image/gif/d87078439a03269678ca46118559c2bb/si5.gif</xocs:ucs-locator>
+<xocs:file-basename>si5</xocs:file-basename>
+<xocs:filename>si5.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1394</xocs:filesize>
+<xocs:pixel-height>48</xocs:pixel-height>
+<xocs:pixel-width>227</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400982X-si4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400982X/STRIPIN/image/gif/99861aab45a3222349b36dacd7a2ff3f/si4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400982X/STRIPIN/image/gif/99861aab45a3222349b36dacd7a2ff3f/si4.gif</xocs:ucs-locator>
+<xocs:file-basename>si4</xocs:file-basename>
+<xocs:filename>si4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1005</xocs:filesize>
+<xocs:pixel-height>48</xocs:pixel-height>
+<xocs:pixel-width>181</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400982X-si3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400982X/STRIPIN/image/gif/d583c8008e834ac89000553bf56094ae/si3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400982X/STRIPIN/image/gif/d583c8008e834ac89000553bf56094ae/si3.gif</xocs:ucs-locator>
+<xocs:file-basename>si3</xocs:file-basename>
+<xocs:filename>si3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1733</xocs:filesize>
+<xocs:pixel-height>51</xocs:pixel-height>
+<xocs:pixel-width>267</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400982X-si2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400982X/STRIPIN/image/gif/157edda5e414e07d046849d6da3b748f/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400982X/STRIPIN/image/gif/157edda5e414e07d046849d6da3b748f/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si2</xocs:file-basename>
+<xocs:filename>si2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>914</xocs:filesize>
+<xocs:pixel-height>48</xocs:pixel-height>
+<xocs:pixel-width>183</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400982X-si1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400982X/STRIPIN/image/gif/900582d39109c487eca06b4476a5d8f7/si1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400982X/STRIPIN/image/gif/900582d39109c487eca06b4476a5d8f7/si1.gif</xocs:ucs-locator>
+<xocs:file-basename>si1</xocs:file-basename>
+<xocs:filename>si1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1688</xocs:filesize>
+<xocs:pixel-height>51</xocs:pixel-height>
+<xocs:pixel-width>307</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400982X-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400982X/gr1/THUMBNAIL/image/gif/860dfa9f71f3d6c3cc105c24fccc154c/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400982X/gr1/THUMBNAIL/image/gif/860dfa9f71f3d6c3cc105c24fccc154c/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2649</xocs:filesize>
+<xocs:pixel-height>44</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400982X-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400982X/gr1/DOWNSAMPLED/image/jpeg/22b02201c9a1fa438487be0e7bb5e724/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400982X/gr1/DOWNSAMPLED/image/jpeg/22b02201c9a1fa438487be0e7bb5e724/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>60151</xocs:filesize>
+<xocs:pixel-height>228</xocs:pixel-height>
+<xocs:pixel-width>642</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400982X-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400982X/gr2/THUMBNAIL/image/gif/1b776db75bcc24f58019f0eeab40f8d8/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400982X/gr2/THUMBNAIL/image/gif/1b776db75bcc24f58019f0eeab40f8d8/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2693</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400982X-gr2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400982X/gr2/DOWNSAMPLED/image/gif/a62ebbad35921ca5fb21de85cdd7dbc4/gr2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400982X/gr2/DOWNSAMPLED/image/gif/a62ebbad35921ca5fb21de85cdd7dbc4/gr2.gif</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>33006</xocs:filesize>
+<xocs:pixel-height>479</xocs:pixel-height>
+<xocs:pixel-width>644</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400982X-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400982X/gr3/THUMBNAIL/image/gif/0507816aeb16a46899da77b1a642a95e/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400982X/gr3/THUMBNAIL/image/gif/0507816aeb16a46899da77b1a642a95e/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>4319</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>122</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400982X-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400982X/gr3/DOWNSAMPLED/image/jpeg/cc9ecd44fba26d2548c799c9694deec2/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400982X/gr3/DOWNSAMPLED/image/jpeg/cc9ecd44fba26d2548c799c9694deec2/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>100754</xocs:filesize>
+<xocs:pixel-height>499</xocs:pixel-height>
+<xocs:pixel-width>651</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400982X-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400982X/gr4/THUMBNAIL/image/gif/1607e5f650092c0cbe4e353a70c64dfa/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400982X/gr4/THUMBNAIL/image/gif/1607e5f650092c0cbe4e353a70c64dfa/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1391</xocs:filesize>
+<xocs:pixel-height>91</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400982X-gr4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400982X/gr4/DOWNSAMPLED/image/gif/0af5032a07f6c7dda55474ab1024b2ff/gr4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400982X/gr4/DOWNSAMPLED/image/gif/0af5032a07f6c7dda55474ab1024b2ff/gr4.gif</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>4795</xocs:filesize>
+<xocs:pixel-height>232</xocs:pixel-height>
+<xocs:pixel-width>317</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400982X-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400982X/gr5/THUMBNAIL/image/gif/817a1e8c1a9d295928a7046bed2f0436/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400982X/gr5/THUMBNAIL/image/gif/817a1e8c1a9d295928a7046bed2f0436/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1435</xocs:filesize>
+<xocs:pixel-height>92</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400982X-gr5.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400982X/gr5/DOWNSAMPLED/image/gif/5574f4891bce6d87c54f7679e43cfb9c/gr5.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400982X/gr5/DOWNSAMPLED/image/gif/5574f4891bce6d87c54f7679e43cfb9c/gr5.gif</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>5041</xocs:filesize>
+<xocs:pixel-height>235</xocs:pixel-height>
+<xocs:pixel-width>321</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400982X-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400982X/gr6/THUMBNAIL/image/gif/18ab33af3febce946fc77baac6d130f6/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400982X/gr6/THUMBNAIL/image/gif/18ab33af3febce946fc77baac6d130f6/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1626</xocs:filesize>
+<xocs:pixel-height>91</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880400982X-gr6.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880400982X/gr6/DOWNSAMPLED/image/gif/f8a226a1e329f905ced101daa8de0048/gr6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880400982X/gr6/DOWNSAMPLED/image/gif/f8a226a1e329f905ced101daa8de0048/gr6.gif</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>6063</xocs:filesize>
+<xocs:pixel-height>238</xocs:pixel-height>
+<xocs:pixel-width>326</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>11499</aid>
+<ce:pii>S0925-8388(04)00982-X</ce:pii>
+<ce:doi>10.1016/j.jallcom.2004.07.045</ce:doi>
+<ce:copyright type="full-transfer" year="2004">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Some pair potentials used in Sm(Co,M)<ce:inf loc="post">12</ce:inf>.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Site preference of Sm(Co,M)<ce:inf loc="post">12</ce:inf>.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Phonon densities of states of Sm(Co,M)<ce:inf loc="post">12</ce:inf>.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Specific heat of SmCo<ce:inf loc="post">10</ce:inf>Cr<ce:inf loc="post">2</ce:inf> and SmCo<ce:inf loc="post">10</ce:inf>Fe<ce:inf loc="post">2</ce:inf>.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Vibrational entropy of SmCo<ce:inf loc="post">10</ce:inf>Cr<ce:inf loc="post">2</ce:inf> and SmCo<ce:inf loc="post">10</ce:inf>Fe<ce:inf loc="post">2</ce:inf>.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Debye temperature of SmCo<ce:inf loc="post">10</ce:inf>Cr<ce:inf loc="post">2</ce:inf> and SmCo<ce:inf loc="post">10</ce:inf>Fe<ce:inf loc="post">2</ce:inf>.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+<ce:table colsep="0" frame="topbot" id="tbl1" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Determination of lattice parameters of SmCo<ce:inf loc="post">12</ce:inf>
+</ce:simple-para>
+</ce:caption>
+<tgroup cols="4">
+<colspec colname="1"></colspec>
+<colspec colname="2"></colspec>
+<colspec colname="3"></colspec>
+<colspec colname="4"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" nameend="2" namest="1" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Initial state</entry>
+<entry align="left" nameend="4" namest="3" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Final state</entry>
+</row>
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>a</italic>, <italic>b</italic>, <italic>c</italic> (Å)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>α</italic>, <italic>β</italic>, <italic>γ</italic> (°)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>a</italic>, <italic>b</italic>, <italic>c</italic> (Å)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>α</italic>, <italic>β</italic>, <italic>γ</italic> (°)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">24, 20, 12</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">90, 60, 90</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">8.393, 8.393, 4.746</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">90, 90, 90</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">3.6, 3.9, 3.6</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">130, 90, 90</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">8.393, 8.393, 4.746</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">90, 90, 90</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">10, 11, 12</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">90, 70, 65</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">8.393, 8.393, 4.746</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">90, 90, 90</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">8.393, 8.393, 8</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">60, 70, 100</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">8.393, 8.393, 4.746</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">90, 90, 90</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">8.393, 8.393, 4.768</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">140, 65, 90</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">8.393, 8.393, 4.746</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">90, 90, 90</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">18, 18, 15</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">90, 90, 90</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">8.393, 8.393, 4.746</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">90, 90, 90</entry>
+</row>
+<row>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">16, 19, 7.5</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">50, 70, 50</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">8.393, 8.393, 4.746</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">90, 90, 90</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl2" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Comparison between the experimental <ce:cross-refs refid="bib22 bib23">[22,23]</ce:cross-refs> and calculated structure of SmCo<ce:inf loc="post">12−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">x</ce:inf>
+</ce:italic>T<ce:italic>
+<ce:inf loc="post">x</ce:inf>
+</ce:italic>
+</ce:simple-para>
+</ce:caption>
+<tgroup cols="6">
+<colspec colname="1"></colspec>
+<colspec colname="2"></colspec>
+<colspec colname="3"></colspec>
+<colspec colname="4"></colspec>
+<colspec colname="5"></colspec>
+<colspec colname="6"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Compounds</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Space group</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Calculated <italic>a</italic> (Å)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Experimental <italic>a</italic> (Å)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Calculated <italic>c</italic> (Å)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Experimental <italic>c</italic> (Å)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">SmCo<inf loc="post">11</inf>Cr<inf loc="post">1</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>I</italic>4/<italic>mmm</italic>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">8.405</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">4.761</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">SmCo<inf loc="post">11</inf>Nb<inf loc="post">1</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>I</italic>4/<italic>mmm</italic>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">8.558</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">4.841</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">SmCo<inf loc="post">10</inf>Fe<inf loc="post">2</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>I</italic>4/<italic>mmm</italic>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">8.403</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">4.778</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">SmCo<inf loc="post">9.8</inf>V<inf loc="post">2.2</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>I</italic>4/<italic>mmm</italic>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">8.448</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">8.3802 (1)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">4.784</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">4.7047 (1)</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">SmCo<inf loc="post">10.51</inf>Ti<inf loc="post">1.49</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>I</italic>4/<italic>mmm</italic>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">8.539</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">8.426</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">4.810</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">4.741</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">SmCo<inf loc="post">10.39</inf>Ti<inf loc="post">1.61</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>I</italic>4/<italic>mmm</italic>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">8.560</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">8.433</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">4.812</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">4.746</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">SmCo<inf loc="post">10.26</inf>Ti<inf loc="post">1.74</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>I</italic>4/<italic>mmm</italic>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">8.563</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">8.438</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">4.820</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">4.748</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">SmCo<inf loc="post">10.14</inf>Ti<inf loc="post">1.86</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>I</italic>4/<italic>mmm</italic>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">8.582</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">8.433</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">4.825</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">4.750</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">SmCo<inf loc="post">10.05</inf>Ti<inf loc="post">1.95</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>I</italic>4/<italic>mmm</italic>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">8.594</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">8.447</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">4.8291</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">4.752</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">SmCo<inf loc="post">9.8</inf>V<inf loc="post">2.2</inf> (0.6<hsp sp="0.25"></hsp>Å)<cross-ref refid="tbl2fn1">
+<sup loc="post">a</sup>
+</cross-ref>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>I</italic>4/<italic>mmm</italic>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">8.448</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">4.784</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">SmCo<inf loc="post">11</inf>Cr<inf loc="post">1</inf> (0.6<hsp sp="0.25"></hsp>Å)<cross-ref refid="tbl2fn1">
+<sup loc="post">a</sup>
+</cross-ref>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>I</italic>4/<italic>mmm</italic>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">8.405</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">4.761</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">SmCo<inf loc="post">10.14</inf>Ti<inf loc="post">1.86</inf> (0.6<hsp sp="0.25"></hsp>Å)<cross-ref refid="tbl2fn1">
+<sup loc="post">a</sup>
+</cross-ref>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>I</italic>4/<italic>mmm</italic>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">8.582</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">8.433</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">4.825</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">4.750</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">SmCo<inf loc="post">10.14</inf>Ti<inf loc="post">1.86</inf> (300<hsp sp="0.25"></hsp>K)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>I</italic>4/<italic>mmm</italic>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">8.590</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">4.834</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">SmCo<inf loc="post">10.14</inf>Ti<inf loc="post">1.86</inf> (500<hsp sp="0.25"></hsp>K)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>I</italic>4/<italic>mmm</italic>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">8.608</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">4.835</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">SmCo<inf loc="post">10.14</inf>Ti<inf loc="post">1.86</inf> (700<hsp sp="0.25"></hsp>K)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>I</italic>4/<italic>mmm</italic>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">8.612</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">4.837</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+</tbody>
+</tgroup>
+<ce:table-footnote id="tbl2fn1">
+<ce:label>a</ce:label>
+<ce:note-para>Relaxation results with atom random shift by 0.6<ce:hsp sp="0.25"></ce:hsp>Å.</ce:note-para>
+</ce:table-footnote>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl3" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Debye temperature <ce:italic>Θ</ce:italic>
+<ce:inf loc="post">D</ce:inf> (K) of SmCo<ce:inf loc="post">12−</ce:inf>
+<ce:italic>
+<ce:inf loc="post">x</ce:inf>
+</ce:italic>T<ce:italic>
+<ce:inf loc="post">x</ce:inf>
+</ce:italic> at near 0<ce:hsp sp="0.25"></ce:hsp>K and at 300<ce:hsp sp="0.25"></ce:hsp>K</ce:simple-para>
+</ce:caption>
+<tgroup cols="3">
+<colspec colname="1"></colspec>
+<colspec colname="2"></colspec>
+<colspec colname="3"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Compounds</entry>
+<entry align="left" nameend="3" namest="2" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>Θ</italic>
+<inf loc="post">D</inf> (K)</entry>
+</row>
+<row>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Near 0<hsp sp="0.25"></hsp>K</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">At 300<hsp sp="0.25"></hsp>K</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">SmCo<inf loc="post">10</inf>Cr<inf loc="post">2</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">447.69</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">330.38</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">SmCo<inf loc="post">10</inf>Fe<inf loc="post">2</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">459.21</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">368.93</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">SmCo<inf loc="post">10</inf>Nb<inf loc="post">2</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">430.31</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">362.22</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">SmCo<inf loc="post">10</inf>Ti<inf loc="post">2</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">451.61</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">337.87</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">SmCo<inf loc="post">10</inf>V<inf loc="post">2</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">453.12</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">336.48</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+</ce:floats>
+<ce:title>Atomistic investigation on site preference and lattice vibrations of Sm(Co,M)<ce:inf loc="post">12</ce:inf> (M = Cr, Ti, V, Nb, Fe)</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>Jiang</ce:given-name>
+<ce:surname>Shen</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="cor1">*</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Ping</ce:given-name>
+<ce:surname>Qian</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Nan-Xian</ce:given-name>
+<ce:surname>Chen</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation id="aff1">
+<ce:label>a</ce:label>
+<ce:textfn>Institute of Applied Physics, University of Science and Technology Beijing, Beijing 100083, China</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff2">
+<ce:label>b</ce:label>
+<ce:textfn>Department of Physics, Tsinghua University, Beijing 100084, China</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>*</ce:label>
+<ce:text>Corresponding author. Tel.: +86 10 62322872; fax: +86 10 62322872.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="2" month="6" year="2004"></ce:date-received>
+<ce:date-revised day="29" month="7" year="2004"></ce:date-revised>
+<ce:date-accepted day="29" month="7" year="2004"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">The phase stability and site preference of the intermetallics Sm(Co,M)<ce:inf loc="post">12</ce:inf> (M = Cr, Ti, V, Nb, Fe) are evaluated by using interatomic pair potentials based on Chen's lattice inversion method. The calculated results show that substituting either Cr, Ti, V, Nb or Fe atoms makes the crystal cohesive energy of Sm(Co,M)<ce:inf loc="post">12</ce:inf> decrease markedly, proving that these atoms can stabilize Sm(Co,M)<ce:inf loc="post">12</ce:inf> with ThMn<ce:inf loc="post">12</ce:inf> structure. The calculated lattice constants coincide quite well with the experimental data. The order of site preference of these ternary elements T is 8<ce:italic>i</ce:italic>, 8<ce:italic>j</ce:italic> and 8<ce:italic>f</ce:italic> with the occupation of 8<ce:italic>i</ce:italic> corresponding to the greatest energy decreases. The properties related to lattice vibration, such as the phonon densities of states, specific heat and vibrational entropy, are also evaluated.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="pacs">
+<ce:section-title>PACS</ce:section-title>
+<ce:keyword>
+<ce:text>71.20.Eh</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>34.20.Cf</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>63.20.Dj</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Interatomic potentials</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Site preference</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Lattice dynamics</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">The intermetallic compounds of the ThMn<ce:inf loc="post">12</ce:inf>-type have attracted much attention in the past due to their higher Curie temperatures and high magnetic moments <ce:cross-refs refid="bib1 bib2 bib3">[1–3]</ce:cross-refs>. As in the R<ce:inf loc="post">2</ce:inf>Fe<ce:inf loc="post">14</ce:inf>B compounds, the substitution of Co for Fe in the RFe<ce:inf loc="post">10</ce:inf>M<ce:inf loc="post">2</ce:inf> (R: rare-earth elements, M: other element) compounds leads to an enhancement in the Curie temperature <ce:cross-ref refid="bib4">[4]</ce:cross-ref>. In order to improve the magnetic properties of these compounds, the effects of substitution of Co for Fe in R(Fe,Co)<ce:inf loc="post">11</ce:inf>Ti and R(Fe,Co)<ce:inf loc="post">10</ce:inf>V<ce:inf loc="post">2</ce:inf> have been investigated by several researchers <ce:cross-refs refid="bib5 bib6 bib7 bib8">[5–8]</ce:cross-refs>. Since the Co-based compounds can have high Curie temperature and large saturation magnetization, a complete substitution of Co for Fe in the R(Fe,M)<ce:inf loc="post">12</ce:inf> compounds to form the R(Co,M)<ce:inf loc="post">12</ce:inf> compounds with a structure identical to R(Fe,M)<ce:inf loc="post">12</ce:inf> has been carried out <ce:cross-refs refid="bib9 bib10 bib11">[9–11]</ce:cross-refs>. Recently, Chen et al. have performed serial theoretical studies on the phase stability, site preference and lattice parameters for the Fe-based rare-earth intermetallics Gd(Fe,M)<ce:inf loc="post">12</ce:inf>
+<ce:cross-ref refid="bib12">[12]</ce:cross-ref>, Sm(Fe,M)<ce:inf loc="post">12</ce:inf>
+<ce:cross-ref refid="bib13">[13]</ce:cross-ref>, Nd(Fe,M)<ce:inf loc="post">12</ce:inf> and Nd(Fe,M)<ce:inf loc="post">12</ce:inf>N<ce:italic>
+<ce:inf loc="post">x</ce:inf>
+</ce:italic>
+<ce:cross-ref refid="bib14">[14]</ce:cross-ref>, suggesting the validity of inverted pair potentials on the structure simulation of rare-earth compounds. In the present work, atomistic studies on the structural properties of Co-based rare-earth compounds Sm(Co,M)<ce:inf loc="post">12</ce:inf> are performed using inverted interatomic pair potentials. Emphasizing the statistical analysis of the phonon density of states (DOS), the Debye temperature of Sm(Co,M)<ce:inf loc="post">12</ce:inf> is evaluated based on the pair potentials.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Methodology</ce:section-title>
+<ce:para view="all">In principle, any interatomic pair potential can be obtained by a strict lattice inversion of cohesive energy curves. Acting on the lattice inversion method developed by Chen et al. <ce:cross-refs refid="bib15 bib17 bib18">[15,17,18]</ce:cross-refs>, Chen and Ren <ce:cross-ref refid="bib16">[16]</ce:cross-ref> and Chen and co-worker <ce:cross-ref refid="bib19">[19]</ce:cross-ref>, we can avoid parameter adjustment when deriving the interatomic potentials. The method can be summarized as follows: it assumes that the total cohesive energy per atom in a perfect crystal can be expressed as the sum of pair potentials, i.e.<ce:display>
+<ce:formula>
+<ce:label>(1)</ce:label>
+<mml:math altimg="si1.gif" overflow="scroll">
+<mml:mrow>
+<mml:mi>E</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>x</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>=</mml:mo>
+<mml:mfrac>
+<mml:mn>1</mml:mn>
+<mml:mn>2</mml:mn>
+</mml:mfrac>
+<mml:munder>
+<mml:mo>∑</mml:mo>
+<mml:mrow>
+<mml:msub>
+<mml:mi>R</mml:mi>
+<mml:mi>i</mml:mi>
+</mml:msub>
+<mml:mo>≠</mml:mo>
+<mml:mn>0</mml:mn>
+</mml:mrow>
+</mml:munder>
+<mml:mrow>
+<mml:mi>Φ</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>R</mml:mi>
+<mml:mi>i</mml:mi>
+</mml:msub>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mo>=</mml:mo>
+<mml:mfrac>
+<mml:mn>1</mml:mn>
+<mml:mn>2</mml:mn>
+</mml:mfrac>
+<mml:munderover>
+<mml:mo>∑</mml:mo>
+<mml:mrow>
+<mml:mi>n</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+<mml:mo>∞</mml:mo>
+</mml:munderover>
+<mml:mrow>
+<mml:msub>
+<mml:mi>r</mml:mi>
+<mml:mn>0</mml:mn>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>n</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mi>Φ</mml:mi>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:msub>
+<mml:mi>b</mml:mi>
+<mml:mn>0</mml:mn>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>n</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mi>x</mml:mi>
+<mml:mo stretchy="false">]</mml:mo>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>where <ce:italic>x</ce:italic> is the nearest-neighbor interatomic distance, <ce:italic>R<ce:inf loc="post">i</ce:inf>
+</ce:italic> is the lattice vector of the <ce:italic>i</ce:italic>th atom, <ce:italic>r</ce:italic>
+<ce:inf loc="post">0</ce:inf>(<ce:italic>n</ce:italic>) is the <ce:italic>n</ce:italic>th neighbor coordination number, and <ce:italic>b</ce:italic>
+<ce:inf loc="post">0</ce:inf>(<ce:italic>n</ce:italic>)<ce:italic>x</ce:italic> is the <ce:italic>n</ce:italic>th neighbor distance. We extend the series, {<ce:italic>b</ce:italic>
+<ce:inf loc="post">0</ce:inf>(<ce:italic>n</ce:italic>)<ce:italic>x</ce:italic>}, into a multiplicative semi-group, then the general equation for pair potential <ce:italic>Φ</ce:italic>(<ce:italic>x</ce:italic>) can be expressed as<ce:display>
+<ce:formula>
+<ce:label>(2)</ce:label>
+<mml:math altimg="si2.gif" overflow="scroll">
+<mml:mrow>
+<mml:mi>E</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>x</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>=</mml:mo>
+<mml:mfrac>
+<mml:mn>1</mml:mn>
+<mml:mn>2</mml:mn>
+</mml:mfrac>
+<mml:munderover>
+<mml:mo>∑</mml:mo>
+<mml:mrow>
+<mml:mi>n</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+<mml:mo>∞</mml:mo>
+</mml:munderover>
+<mml:mrow>
+<mml:mi>r</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>n</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mi>Φ</mml:mi>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mi>b</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>n</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mi>x</mml:mi>
+<mml:mo stretchy="false">]</mml:mo>
+</mml:mrow>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>where<ce:display>
+<ce:formula>
+<ce:label>(3)</ce:label>
+<mml:math altimg="si3.gif" overflow="scroll">
+<mml:mrow>
+<mml:mi>r</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>n</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>=</mml:mo>
+<mml:mfenced close="" open="{">
+<mml:mrow>
+<mml:mtable columnalign="left">
+<mml:mtr columnalign="left">
+<mml:mtd columnalign="left">
+<mml:mrow>
+<mml:mi>r</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msubsup>
+<mml:mi>b</mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mrow>
+<mml:mo>−</mml:mo>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+</mml:msubsup>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mi>b</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>n</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo stretchy="false">]</mml:mo>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>,</mml:mo>
+</mml:mrow>
+</mml:mtd>
+<mml:mtd columnalign="left">
+<mml:mrow>
+<mml:mi>b</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>n</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>∈</mml:mo>
+<mml:mo>{</mml:mo>
+<mml:msub>
+<mml:mi>b</mml:mi>
+<mml:mn>0</mml:mn>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>n</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>}</mml:mo>
+</mml:mrow>
+</mml:mtd>
+</mml:mtr>
+<mml:mtr columnalign="left">
+<mml:mtd columnalign="left">
+<mml:mrow>
+<mml:mn>0</mml:mn>
+<mml:mo>,</mml:mo>
+</mml:mrow>
+</mml:mtd>
+<mml:mtd columnalign="left">
+<mml:mrow>
+<mml:mi>b</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>n</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>∉</mml:mo>
+<mml:mo>{</mml:mo>
+<mml:msub>
+<mml:mi>b</mml:mi>
+<mml:mn>0</mml:mn>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>n</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>}</mml:mo>
+</mml:mrow>
+</mml:mtd>
+</mml:mtr>
+</mml:mtable>
+</mml:mrow>
+</mml:mfenced>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>and the pair potential from the inversion can be expressed as<ce:display>
+<ce:formula>
+<ce:label>(4)</ce:label>
+<mml:math altimg="si4.gif" overflow="scroll">
+<mml:mrow>
+<mml:mi>Φ</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>x</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>=</mml:mo>
+<mml:mn>2</mml:mn>
+<mml:munderover>
+<mml:mo>∑</mml:mo>
+<mml:mrow>
+<mml:mi>n</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+<mml:mo>∞</mml:mo>
+</mml:munderover>
+<mml:mrow>
+<mml:mi>I</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>n</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mi>E</mml:mi>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mi>b</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>n</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mi>x</mml:mi>
+<mml:mo stretchy="false">]</mml:mo>
+</mml:mrow>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>where <ce:italic>I</ce:italic>(<ce:italic>n</ce:italic>) is determined by<ce:display>
+<ce:formula>
+<ce:label>(5)</ce:label>
+<mml:math altimg="si5.gif" overflow="scroll">
+<mml:mrow>
+<mml:munder>
+<mml:mo>∑</mml:mo>
+<mml:mrow>
+<mml:mi>b</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>n</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>|</mml:mo>
+<mml:mi>b</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>k</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:munder>
+<mml:mrow>
+<mml:mi>I</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>n</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mi>r</mml:mi>
+<mml:mfenced close="]" open="[">
+<mml:mrow>
+<mml:msup>
+<mml:mi>b</mml:mi>
+<mml:mrow>
+<mml:mo>−</mml:mo>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+</mml:msup>
+<mml:mfenced close="]" open="[">
+<mml:mrow>
+<mml:mfrac>
+<mml:mrow>
+<mml:mi>b</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>k</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mi>b</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>n</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:mfrac>
+</mml:mrow>
+</mml:mfenced>
+</mml:mrow>
+</mml:mfenced>
+</mml:mrow>
+<mml:mo>=</mml:mo>
+<mml:msub>
+<mml:mi>δ</mml:mi>
+<mml:mrow>
+<mml:msub>
+<mml:mi>k</mml:mi>
+<mml:mn>1</mml:mn>
+</mml:msub>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>
+<ce:italic>I</ce:italic>(<ce:italic>n</ce:italic>) is uniquely determined by crystal structure geometry, not related to the concrete element category. Thus, the interatomic pair potentials can be obtained from the known cohesive energy function <ce:italic>E</ce:italic>(<ce:italic>x</ce:italic>) <ce:cross-refs refid="bib12 bib13 bib14">[12–14]</ce:cross-refs>. Several important relevant interatomic pair potential curves are shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor>, which are fitted by Morse function, that is</ce:para>
+<ce:para view="all">
+<ce:display>
+<ce:formula>
+<ce:label>(6)</ce:label>
+<mml:math altimg="si6.gif" overflow="scroll">
+<mml:mrow>
+<mml:mi>Φ</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>x</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>=</mml:mo>
+<mml:msub>
+<mml:mi>D</mml:mi>
+<mml:mn>0</mml:mn>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msup>
+<mml:mtext>e</mml:mtext>
+<mml:mrow>
+<mml:mo>−</mml:mo>
+<mml:mi>γ</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>x</mml:mi>
+<mml:mo>/</mml:mo>
+<mml:msub>
+<mml:mi>R</mml:mi>
+<mml:mn>0</mml:mn>
+</mml:msub>
+<mml:mo>−</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:msup>
+<mml:mo>−</mml:mo>
+<mml:mn>2</mml:mn>
+<mml:msup>
+<mml:mtext>e</mml:mtext>
+<mml:mrow>
+<mml:mo>−</mml:mo>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>γ</mml:mi>
+<mml:mo>/</mml:mo>
+<mml:mn>2</mml:mn>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>x</mml:mi>
+<mml:mo>/</mml:mo>
+<mml:msub>
+<mml:mi>R</mml:mi>
+<mml:mn>0</mml:mn>
+</mml:msub>
+<mml:mo>−</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:msup>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>where <ce:italic>D</ce:italic>
+<ce:inf loc="post">0</ce:inf> is the depth of potential, <ce:italic>R</ce:italic>
+<ce:inf loc="post">0</ce:inf>, <ce:italic>γ</ce:italic> are parameters.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Phase stability and site preference</ce:section-title>
+<ce:para view="all">Based on the atomic sites and lattice parameters of any existing experimental structure close to ThMn<ce:inf loc="post">12</ce:inf>-type with the <ce:italic>I</ce:italic>4/<ce:italic>mmm</ce:italic> space group, the initial structures are constructed with Accelrys Cerius2 modeling software. Then, energy minimization is carried out using the conjugate-gradient method on the basis of calculated interatomic potentials with the cut-off radius of potentials of 14<ce:hsp sp="0.25"></ce:hsp>Å. Despite the fact that the virtual binary structure of SmCo<ce:inf loc="post">12</ce:inf> is metastable, it can be considered as the intrinsic structure of Sm(Co,M)<ce:inf loc="post">12</ce:inf>. In the calculation, the initial lattice parameters of SmCo<ce:inf loc="post">12</ce:inf> are set arbitrarily (<ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+<ce:float-anchor refid="tbl1"></ce:float-anchor>), and then the deformed system is relaxed using energy minimization method. The results suggest that the space group maintains <ce:italic>I</ce:italic>4/<ce:italic>mmm</ce:italic>, and the lattice constants after stabilization are <ce:italic>a</ce:italic> = 8.441<ce:hsp sp="0.25"></ce:hsp>Å, <ce:italic>c</ce:italic> = 4.798<ce:hsp sp="0.25"></ce:hsp>Å. The presence of a certain amount of randomness of the initial structure and the stability of the final structure illustrate SmCo<ce:inf loc="post">12</ce:inf> has a topological invariability with respect to the stable Sm(Co,M)<ce:inf loc="post">12</ce:inf>. It also demonstrates that the inverted pair potentials are reliable for the study of the structural materials properties.</ce:para>
+<ce:para view="all">In the ternary compounds Sm(Co,M)<ce:inf loc="post">12</ce:inf>, the phase stability and site preference are judged by the energy in this part. If the substitution of ternary elements T for Co makes the cohesive energy of Sm(Co,M)<ce:inf loc="post">12</ce:inf> low enough, the ternary elements could stabilize the compound. Furthermore, T would preferentially occupy the site, so that the cohesive energy would decrease most strongly. In the course of the calculation, firstly, Co atoms in each site are replaced by T atoms of different concentrations. Then, energy minimization process is applied to relax the ternary system under the interaction of the potentials. Thus, the average energy of final structure can be investigated and compared. The calculated crystal energy is the average of 30 samples and is shown in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor>. From <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>, it can be seen that adding either Cr, Ti, V, Nb or Fe atoms makes the cohesive energy of Sm(Co,M)<ce:inf loc="post">12</ce:inf> decrease markedly, illustrating that each of these elements can stabilize the crystal structure and that the stabilized phases exist. The cohesive energy decreases most significantly when the ternary elements T preferentially occupy the 8<ce:italic>i</ce:italic> sites, less significantly if the T atoms occupy the 8<ce:italic>j</ce:italic> sites, and behaves abnormally when occupying the 8<ce:italic>f</ce:italic> sites. All of the above results correspond well to the experiment <ce:cross-refs refid="bib20 bib21">[20,21]</ce:cross-refs> and the T atoms have the same site preference in Co-based as in Fe-based compounds <ce:cross-refs refid="bib12 bib13">[12,13]</ce:cross-refs>.</ce:para>
+<ce:para view="all">According to the results for site preference, the lattice constants for Sm(Co,M)<ce:inf loc="post">12</ce:inf> are calculated when the 8<ce:italic>i</ce:italic> sites are randomly occupied by T atoms. The calculated results are listed in <ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>
+<ce:float-anchor refid="tbl2"></ce:float-anchor>, together with the experimental data <ce:cross-refs refid="bib22 bib23">[22,23]</ce:cross-refs>. From <ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>, one can see that our results for Sm(Co,M)<ce:inf loc="post">12</ce:inf> are in agreement with experiment. Furthermore, the structural stability of Sm(Co,M)<ce:inf loc="post">12</ce:inf> is tested by some methods including global deformation and random atom shift. In the processes, the global deformation includes stretching, compressing, shearing and a mixture of these ways. The random atom shift means that each atom in the model is shifted from its equilibrium position randomly. All distorted models will be relaxed under the control of pair potential using the energy minimization method. The calculated results are listed in <ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>. From the calculated results, it can be seen that the distorted system can restore the same final structure. In order to check the structural stability at high temperature, the high temperature disturbance is used with molecular dynamics. The constant-<ce:italic>NPT</ce:italic> molecular dynamics is applied using the method of Berendsen et al. <ce:cross-ref refid="bib24">[24]</ce:cross-ref> for 10,000 steps, with <ce:italic>P</ce:italic> = 1<ce:hsp sp="0.25"></ce:hsp>atm, <ce:italic>t</ce:italic> = 0.001<ce:hsp sp="0.25"></ce:hsp>ps, dynamic simulation for SmCo<ce:inf loc="post">10.14</ce:inf>Ti<ce:inf loc="post">1.86</ce:inf> is carried out at temperatures of 300, 500 and 700<ce:hsp sp="0.25"></ce:hsp>K. After reaching equilibrium, the crystal symmetry can be identified as <ce:italic>I</ce:italic>4/<ce:italic>mmm</ce:italic> space group in a certain range, and the lattice constants change little with respect to the temperature (<ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>). Thus, the structural stability is again verified. These results further verify that the above calculations are self-consistent and reasonable. So, it can be inferred from the above calculations that the site preference and lattice constants of Sm(Co,M)<ce:inf loc="post">12</ce:inf> evaluated using the interatomic pair potentials agree well with experiment, which demonstrates that the potentials are reliable.</ce:para>
+<ce:para view="all">The behaviors of ternary elements substitution can be explained by the analysis and comparison of interatomic pair potentials in Sm(Co,M)<ce:inf loc="post">12</ce:inf>. When a small amount of ternary elements T substitute the Co atoms in SmCo<ce:inf loc="post">12</ce:inf>, the ternary elements are mostly surrounded by the Co atoms. The Sm atoms are not their own nearest neighbor atoms, and the occasions on which T atoms are their own nearest neighbors are truly rare. Therefore, the role of <ce:italic>Φ</ce:italic>
+<ce:inf loc="post">Sm–Sm</ce:inf>(<ce:italic>r</ce:italic>) and <ce:italic>Φ</ce:italic>
+<ce:inf loc="post">T–T</ce:inf>(<ce:italic>r</ce:italic>) is negligible when considering the nearest neighbor effect. It is the differences between <ce:italic>Φ</ce:italic>
+<ce:inf loc="post">Co–T</ce:inf>(<ce:italic>r</ce:italic>) and <ce:italic>Φ</ce:italic>
+<ce:inf loc="post">Co–Co</ce:inf>(<ce:italic>r</ce:italic>) that determine the energy difference caused by the substitution. We choose T = Ti as an example. As shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>, the potential values are important in the range of 2.3 &lt; <ce:italic>r</ce:italic> &lt; 4.4<ce:hsp sp="0.25"></ce:hsp>Å. Notice that <ce:italic>Φ</ce:italic>
+<ce:inf loc="post">Co–Ti</ce:inf>(<ce:italic>r</ce:italic>) intersects with <ce:italic>Φ</ce:italic>
+<ce:inf loc="post">Co–Co</ce:inf>(<ce:italic>r</ce:italic>) at about <ce:italic>r</ce:italic> = 2.7<ce:hsp sp="0.25"></ce:hsp>Å. When the interatomic distance <ce:italic>r</ce:italic> &lt; 2.7<ce:hsp sp="0.25"></ce:hsp>Å, the system energy will increase with Ti substituting for Co due to <ce:italic>Φ</ce:italic>
+<ce:inf loc="post">Co–Ti</ce:inf>(<ce:italic>r</ce:italic>) &gt; <ce:italic>Φ</ce:italic>
+<ce:inf loc="post">Co–Co</ce:inf>(<ce:italic>r</ce:italic>), it is unfavorable for the substitution. In the range of 2.7 &lt; <ce:italic>r</ce:italic> &lt; 4.4<ce:hsp sp="0.25"></ce:hsp>Å, <ce:italic>Φ</ce:italic>
+<ce:inf loc="post">Co–Ti</ce:inf>(<ce:italic>r</ce:italic>) &lt; <ce:italic>Φ</ce:italic>
+<ce:inf loc="post">Co–Co</ce:inf>(<ce:italic>r</ce:italic>), it is favorable for energy decrease. The substitution behavior can be qualitatively explained by carrying out a cluster analysis of the surroundings. If we take the 8<ce:italic>i</ce:italic> site as the center of a cluster, the number of Co atoms inside a sphere of radius 2.7<ce:hsp sp="0.25"></ce:hsp>Å is about 9. The number of Co atoms inside a range of 2.7 &lt; <ce:italic>r</ce:italic> &lt; 4.4<ce:hsp sp="0.25"></ce:hsp>Å is about 22. Thus, Ti occupying the 8<ce:italic>i</ce:italic> sites is most beneficial in terms of energy minimization. The site preference behavior at 8<ce:italic>i</ce:italic> and 8<ce:italic>j</ce:italic> sites can be easily explained by similar analysis.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Phonon density of states</ce:section-title>
+<ce:para view="all">Phonon density of states reflects the lattice vibration properties. From DOS, one can derive important thermodynamic parameters as specific heat, the Debye temperature. Starting with the inverted interatomic potentials and lattice dynamics theory, we calculate the total phonon densities of states, as well as the partial DOS projected to different elements in Sm(Co,M)<ce:inf loc="post">12</ce:inf>.</ce:para>
+<ce:para view="all">The calculated DOS of SmCo<ce:inf loc="post">12</ce:inf> and Sm(Co,M)<ce:inf loc="post">12</ce:inf> are shown in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>(a–d)<ce:float-anchor refid="fig3"></ce:float-anchor>. The DOS of <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref> is calculated by using 936 k-points in 1/8 of the first Brillouin zone of simple tetragonal lattice. The cut-off distance of force constants is set at 6<ce:hsp sp="0.25"></ce:hsp>Å. <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>(a) shows that the highest frequency of SmCo<ce:inf loc="post">10</ce:inf>Cr<ce:inf loc="post">2</ce:inf> is 10.92<ce:hsp sp="0.25"></ce:hsp>THz and there are five apexes around 2.96, 3.69, 4.61, 5.62 and 7.38<ce:hsp sp="0.25"></ce:hsp>THz, respectively. For two localized modes, the frequencies are higher than 8.31<ce:hsp sp="0.25"></ce:hsp>THz. The high frequency vibrations and the high frequency localized modes are mainly contributed by the Co atoms. And the Sm atoms only contribute to the lower frequency modes. It can be seen from <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref> that, when T atoms substitute for Co atoms at 8<ce:italic>i</ce:italic> sites in Sm(Co,M)<ce:inf loc="post">12</ce:inf>, the contribution of the ternary element to frequency modes is the same as that of Co in manner, but with a smaller amplitude. Qualitative analysis can be conducted on the vibration modes from interaction potentials (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>) and the nearest neighbor distances between the atoms. As shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>, the very strong interaction between Co and Co at their nearest distance (2.32<ce:hsp sp="0.25"></ce:hsp>Å) causes Co to vibrate at high frequencies. For Sm atoms, as the distance between Sm and its nearest Co is 3.39<ce:hsp sp="0.25"></ce:hsp>Å, atoms cannot excite more modes with higher frequency due to the infirm interaction in this range and the heavy mass of Sm. When T substitutes for Co in 8<ce:italic>i</ce:italic> site, there is one nearest Co neighbor at the 8<ce:italic>i</ce:italic> site, and there are four second nearest Co neighbors at the 8<ce:italic>i</ce:italic> site, two at the 8<ce:italic>j</ce:italic> site and four at the 8<ce:italic>f</ce:italic> site in the Sm(Co,M)<ce:inf loc="post">12</ce:inf> compounds. The distances between the T atom at 8<ce:italic>i</ce:italic> and these atoms are 2.32<ce:hsp sp="0.25"></ce:hsp>Å to the single 8<ce:italic>i</ce:italic> site, 2.80<ce:hsp sp="0.25"></ce:hsp>Å to the other four 8<ce:italic>i</ce:italic> sites, 2.70<ce:hsp sp="0.25"></ce:hsp>Å to the 8<ce:italic>j</ce:italic> sites and 2.60<ce:hsp sp="0.25"></ce:hsp>Å to the four 8<ce:italic>f</ce:italic> sites. Consequently, the neighbor distances at the occupied 8<ce:italic>i</ce:italic> site are mainly between 2.60 and 2.80<ce:hsp sp="0.25"></ce:hsp>Å. It can be inferred from <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref> that at a distance of about 2.70<ce:hsp sp="0.25"></ce:hsp>Å, the Co–Co interaction is nearly the Co–T interaction. Hence, the frequency modes of the ternary elements are almost the same with Co in shape, but the amplitude is much smaller because the content of ternary elements is small.</ce:para>
+<ce:para view="all">The calculation of specific heat <ce:italic>C</ce:italic>
+<ce:inf loc="post">v</ce:inf>(<ce:italic>T</ce:italic>) and the vibrational entropy <ce:italic>S</ce:italic>(<ce:italic>T</ce:italic>) can be made by using the following formulae<ce:display>
+<ce:formula>
+<mml:math altimg="si7.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>C</mml:mi>
+<mml:mtext>v</mml:mtext>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>T</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>=</mml:mo>
+<mml:mn>3</mml:mn>
+<mml:mi>N</mml:mi>
+<mml:msub>
+<mml:mi>k</mml:mi>
+<mml:mi>B</mml:mi>
+</mml:msub>
+<mml:munderover>
+<mml:mo>∫</mml:mo>
+<mml:mn>0</mml:mn>
+<mml:mo>∞</mml:mo>
+</mml:munderover>
+<mml:mrow>
+<mml:mfrac>
+<mml:mrow>
+<mml:msup>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>ℏ</mml:mi>
+<mml:mi>ω</mml:mi>
+<mml:mo>/</mml:mo>
+<mml:msub>
+<mml:mi>k</mml:mi>
+<mml:mi>B</mml:mi>
+</mml:msub>
+<mml:mi>T</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:msup>
+<mml:msup>
+<mml:mi>e</mml:mi>
+<mml:mrow>
+<mml:mi>ℏ</mml:mi>
+<mml:mi>ω</mml:mi>
+<mml:mo>/</mml:mo>
+<mml:msub>
+<mml:mi>k</mml:mi>
+<mml:mi>B</mml:mi>
+</mml:msub>
+<mml:mi>T</mml:mi>
+</mml:mrow>
+</mml:msup>
+</mml:mrow>
+<mml:mrow>
+<mml:msup>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msup>
+<mml:mi>e</mml:mi>
+<mml:mrow>
+<mml:mi>ℏ</mml:mi>
+<mml:mi>ω</mml:mi>
+<mml:mo>/</mml:mo>
+<mml:msub>
+<mml:mi>k</mml:mi>
+<mml:mi>B</mml:mi>
+</mml:msub>
+<mml:mi>T</mml:mi>
+</mml:mrow>
+</mml:msup>
+<mml:mo>−</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:msup>
+</mml:mrow>
+</mml:mfrac>
+</mml:mrow>
+<mml:mi>g</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>ω</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mi> </mml:mi>
+<mml:mtext>d</mml:mtext>
+<mml:mi>ω</mml:mi>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>and<ce:display>
+<ce:formula>
+<mml:math altimg="si8.gif" overflow="scroll">
+<mml:mrow>
+<mml:mi>S</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>T</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>=</mml:mo>
+<mml:munderover>
+<mml:mo>∫</mml:mo>
+<mml:mn>0</mml:mn>
+<mml:mi>T</mml:mi>
+</mml:munderover>
+<mml:mrow>
+<mml:mfrac>
+<mml:mrow>
+<mml:msub>
+<mml:mi>C</mml:mi>
+<mml:mtext>v</mml:mtext>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msup>
+<mml:mi>T</mml:mi>
+<mml:mo>′</mml:mo>
+</mml:msup>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:msup>
+<mml:mi>T</mml:mi>
+<mml:mo>′</mml:mo>
+</mml:msup>
+</mml:mfrac>
+</mml:mrow>
+<mml:mi> </mml:mi>
+<mml:mtext>d</mml:mtext>
+<mml:msup>
+<mml:mi>T</mml:mi>
+<mml:mo>′</mml:mo>
+</mml:msup>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>In the conventional Debye model, the Debye temperature <ce:italic>Θ</ce:italic>
+<ce:inf loc="post">D</ce:inf> can be defined by <ce:italic>ħω<ce:inf loc="post">m</ce:inf>
+</ce:italic> = <ce:italic>k<ce:inf loc="post">B</ce:inf>Θ</ce:italic>
+<ce:inf loc="post">D</ce:inf>. The specific heat can be written as<ce:display>
+<ce:formula>
+<mml:math altimg="si9.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>C</mml:mi>
+<mml:mtext>v</mml:mtext>
+</mml:msub>
+<mml:mo>=</mml:mo>
+<mml:mn>3</mml:mn>
+<mml:mi>N</mml:mi>
+<mml:msub>
+<mml:mi>k</mml:mi>
+<mml:mi>B</mml:mi>
+</mml:msub>
+<mml:msup>
+<mml:mrow>
+<mml:mfenced close=")" open="(">
+<mml:mrow>
+<mml:mfrac>
+<mml:mi>T</mml:mi>
+<mml:mrow>
+<mml:msub>
+<mml:mi>Θ</mml:mi>
+<mml:mtext>D</mml:mtext>
+</mml:msub>
+</mml:mrow>
+</mml:mfrac>
+</mml:mrow>
+</mml:mfenced>
+</mml:mrow>
+<mml:mn>3</mml:mn>
+</mml:msup>
+<mml:munderover>
+<mml:mo>∫</mml:mo>
+<mml:mn>0</mml:mn>
+<mml:mrow>
+<mml:msub>
+<mml:mi>Θ</mml:mi>
+<mml:mtext>D</mml:mtext>
+</mml:msub>
+<mml:mo>/</mml:mo>
+<mml:mi>T</mml:mi>
+</mml:mrow>
+</mml:munderover>
+<mml:mrow>
+<mml:mfrac>
+<mml:mrow>
+<mml:msup>
+<mml:mi>x</mml:mi>
+<mml:mn>4</mml:mn>
+</mml:msup>
+<mml:msup>
+<mml:mi>e</mml:mi>
+<mml:mi>x</mml:mi>
+</mml:msup>
+</mml:mrow>
+<mml:mrow>
+<mml:msup>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msup>
+<mml:mi>e</mml:mi>
+<mml:mi>x</mml:mi>
+</mml:msup>
+<mml:mo>−</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:msup>
+</mml:mrow>
+</mml:mfrac>
+</mml:mrow>
+<mml:mi> </mml:mi>
+<mml:mtext>d</mml:mtext>
+<mml:mi>x</mml:mi>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>where <ce:italic>x</ce:italic> = <ce:italic>ħω<ce:inf loc="post">m</ce:inf>
+</ce:italic>/<ce:italic>k<ce:inf loc="post">B</ce:inf>Θ</ce:italic>
+<ce:inf loc="post">D</ce:inf>. The calculated specific heat, vibrational entropy and Debye temperature of Sm(Co,M)<ce:inf loc="post">12</ce:inf> are shown in <ce:cross-refs refid="fig4 fig5 fig6">Figs. 4–6</ce:cross-refs>
+<ce:float-anchor refid="fig4"></ce:float-anchor>
+<ce:float-anchor refid="fig5"></ce:float-anchor>
+<ce:float-anchor refid="fig6"></ce:float-anchor>, respectively. It can be seen in <ce:cross-refs refid="fig4 fig5 fig6">Figs. 4–6</ce:cross-refs> that the variation of the specific heat, Debye temperature and entropy versus temperature indicate the vibrational properties are different for Sm(Co,M)<ce:inf loc="post">12</ce:inf> in the entire temperature range. <ce:cross-ref refid="tbl3">Table 3</ce:cross-ref>
+<ce:float-anchor refid="tbl3"></ce:float-anchor> shows the Debye temperature near 0<ce:hsp sp="0.25"></ce:hsp>K and at 300<ce:hsp sp="0.25"></ce:hsp>K for Sm(Co,M)<ce:inf loc="post">12</ce:inf> (T = Cr, Ti, V, Nb, Fe). The Debye temperature reflects the property of the materials at the lower temperature and lower frequency. The Debye temperature of SmCo<ce:inf loc="post">12</ce:inf> is 394<ce:hsp sp="0.25"></ce:hsp>K near 0<ce:hsp sp="0.25"></ce:hsp>K. The Debye temperature increases when Co atoms are substituted by the ternary elements T (T = Cr, Ti, V, Nb, Fe) in the SmCo<ce:inf loc="post">10</ce:inf>T<ce:inf loc="post">2</ce:inf> compounds, and the increase is most noticeable when T = Fe. Hence, the ternary elements T (T = Cr, Ti, V, Nb, Fe) can partly influence the thermodynamic properties of these kinds of materials, and Fe may play an important role in the lower-temperature properties of these materials. Unfortunately, in the existing literature, there are not any observational data on the Debye temperature of the Sm(Co,M)<ce:inf loc="post">12</ce:inf> compounds. Therefore, the above calculation results have not yet been verified by experiments.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>5</ce:label>
+<ce:section-title>Conclusion</ce:section-title>
+<ce:para view="all">In this work, the distribution of ternary elements T in Sm(Co,M)<ce:inf loc="post">12</ce:inf> is evaluated by using the interatomic potentials. The calculated result demonstrates that the ternary elements T (T = V, Ti, Cr, Nb, Fe) substitute Co atoms in the 8<ce:italic>i</ce:italic> sites, the crystal cohesive energy of Sm(Co,M)<ce:inf loc="post">12</ce:inf> decreases most significantly. Therefore, the T atoms preferentially occupy the 8<ce:italic>i</ce:italic> sites. We have also utilized the same potential parameters to evaluate the phonon density of states of Sm(Co,M)<ce:inf loc="post">12</ce:inf>, and obtained its specific heat, vibrational entropy and Debye temperature. In summary, the inverted potentials are effective to investigate the site preference, phase stability and to predict the properties of these materials with complex structures. As a last point, it should be mentioned that current work does not include many-body interaction and magnetic effect, and that might be the next objective of our work.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgements</ce:section-title>
+<ce:para view="all">The authors would like to thank the stimulating discussions with Professor F.M. Yang, D.B. Zhang and Y.M. Kang. The present work is supported by National 973 Project TG2000067101 and TG2000067106.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Ohashi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Tawara</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Osugi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Sakurai</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Komura</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Less-Common Met.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>139</sb:volume-nr>
+</sb:series>
+<sb:date>1988</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>L1</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>B.P.</ce:given-name>
+<ce:surname>Hu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.Y.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.Z.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.X.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Q.W.</ce:given-name>
+<ce:surname>Yan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.L.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.D.</ce:given-name>
+<ce:surname>Sun</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Phys. Rev. B</sb:maintitle>
+</sb:title>
+<sb:volume-nr>51</sb:volume-nr>
+</sb:series>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2905</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>V.Yu.</ce:given-name>
+<ce:surname>Bodriakov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.I.</ce:given-name>
+<ce:surname>Ivanova</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.A.</ce:given-name>
+<ce:surname>Nilitin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.S.</ce:given-name>
+<ce:surname>Tereshina</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>259</sb:volume-nr>
+</sb:series>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>265</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.H.J.</ce:given-name>
+<ce:surname>Buschow</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.B.</ce:given-name>
+<ce:surname>de Mooij</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Brouha</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.H.A.</ce:given-name>
+<ce:surname>Smith</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.C.</ce:given-name>
+<ce:surname>Thiel</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>IEEE Trans. Magn. MAG-24</sb:maintitle>
+</sb:title>
+</sb:series>
+<sb:date>1988</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1611</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>V.K.</ce:given-name>
+<ce:surname>Sinha</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.F.</ce:given-name>
+<ce:surname>Cheng</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.E.</ce:given-name>
+<ce:surname>Wallace</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.G.</ce:given-name>
+<ce:surname>Sankar</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Magn. Magn. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>81</sb:volume-nr>
+</sb:series>
+<sb:date>1989</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>227</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Jurczyk</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>O.D.</ce:given-name>
+<ce:surname>Chistjakov</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Magn. Magn. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>82</sb:volume-nr>
+</sb:series>
+<sb:date>1989</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>239</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Jurczyk</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.K.</ce:given-name>
+<ce:surname>Nicolaides</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.V.</ce:given-name>
+<ce:surname>Rao</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Magn. Magn. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>94</sb:volume-nr>
+</sb:series>
+<sb:date>1991</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>L6</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Jurczyk</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.K.</ce:given-name>
+<ce:surname>Nicolaides</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.V.</ce:given-name>
+<ce:surname>Rao</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Appl. Phys.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>70</sb:volume-nr>
+</sb:series>
+<sb:date>1991</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>6110</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>X.</ce:given-name>
+<ce:surname>Xie</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.A.</ce:given-name>
+<ce:surname>Shaheen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Magn. Magn. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>118</sb:volume-nr>
+</sb:series>
+<sb:date>1993</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>L6</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.H.V.J.</ce:given-name>
+<ce:surname>Brabers</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.F.</ce:given-name>
+<ce:surname>Zhou</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.R.</ce:given-name>
+<ce:surname>de Boer</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.H.J.</ce:given-name>
+<ce:surname>Buschow</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Magn. Magn. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>118</sb:volume-nr>
+</sb:series>
+<sb:date>1993</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>339</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Ohashi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Ido</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Konno</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Yoneda</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Appl. Phys.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>70</sb:volume-nr>
+</sb:series>
+<sb:date>1991</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>10</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>N.X.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Shen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.P.</ce:given-name>
+<ce:surname>Su</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Phys.: Condens. Matter</sb:maintitle>
+</sb:title>
+<sb:volume-nr>13</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2727</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>N.X.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.Q.</ce:given-name>
+<ce:surname>Hao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Shen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Magn. Magn. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>233</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>169</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.Q.</ce:given-name>
+<ce:surname>Hao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.X.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Phys. Lett. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>297</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>110</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>N.X.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.D.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.C.</ce:given-name>
+<ce:surname>Wei</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Phys. Rev. E</sb:maintitle>
+</sb:title>
+<sb:volume-nr>55</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>1</sb:issue-nr>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>R5</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib16">
+<ce:label>[16]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>N.X.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.B.</ce:given-name>
+<ce:surname>Ren</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Phys. Rev. B</sb:maintitle>
+</sb:title>
+<sb:volume-nr>45</sb:volume-nr>
+</sb:series>
+<sb:date>1992</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>8177</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib17">
+<ce:label>[17]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>N.X.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.J.</ce:given-name>
+<ce:surname>Ge</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.Q.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.W.</ce:given-name>
+<ce:surname>Zhu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Phys. Rev. B</sb:maintitle>
+</sb:title>
+<sb:volume-nr>57</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>14203</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib18">
+<ce:label>[18]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.Q.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Q.</ce:given-name>
+<ce:surname>Xie</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.J.</ce:given-name>
+<ce:surname>Ge</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.X.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Appl. Phys.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>82</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>2</sb:issue-nr>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>578</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib19">
+<ce:label>[19]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>X.J.</ce:given-name>
+<ce:surname>Ge</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.X.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Appl. Phys.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>85</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>7</sb:issue-nr>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>3488</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib20">
+<ce:label>[20]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.H.J.</ce:given-name>
+<ce:surname>Buschow</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Appl. Phys.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>63</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>8</sb:issue-nr>
+<sb:date>1988</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>3130</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib21">
+<ce:label>[21]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.B.</ce:given-name>
+<ce:surname>Helmholdt</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.J.M.</ce:given-name>
+<ce:surname>Vleggaar</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.H.J.</ce:given-name>
+<ce:surname>Buschow</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Less-Common Met.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>138</sb:volume-nr>
+</sb:series>
+<sb:date>1988</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>L11</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib22">
+<ce:label>[22]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.Q.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.L.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Tang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.Q.</ce:given-name>
+<ce:surname>Bao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.H.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.M.</ce:given-name>
+<ce:surname>Yang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.M.</ce:given-name>
+<ce:surname>Jin</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Phys. Sin.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>50</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>4</sb:issue-nr>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>756</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib23">
+<ce:label>[23]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.F.</ce:given-name>
+<ce:surname>Liu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.H.</ce:given-name>
+<ce:surname>Rao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.F.</ce:given-name>
+<ce:surname>Yang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.W.</ce:given-name>
+<ce:surname>Ouyang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.Y.</ce:given-name>
+<ce:surname>Liu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.M.</ce:given-name>
+<ce:surname>Feng</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.K.</ce:given-name>
+<ce:surname>Ling</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>361</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>62</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib24">
+<ce:label>[24]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.J.C.</ce:given-name>
+<ce:surname>Berendsen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.M.P.</ce:given-name>
+<ce:surname>Postma</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.F.</ce:given-name>
+<ce:surname>van Gunstern</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Chem. Phys.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>81</sb:volume-nr>
+</sb:series>
+<sb:date>1984</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>3684</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

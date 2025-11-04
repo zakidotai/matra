@@ -1,0 +1,982 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838805015926</prism:url><dc:identifier>doi:10.1016/j.jallcom.2005.10.024</dc:identifier><eid>1-s2.0-S0925838805015926</eid><prism:doi>10.1016/j.jallcom.2005.10.024</prism:doi><pii>S0925-8388(05)01592-6</pii><dc:title>Characterization of aluminized layer formation during annealing of Ti coated with an Al film </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>420</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>63</prism:startingpage><prism:endingpage>70</prism:endingpage><prism:pagerange>63-70</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2006-08-31</prism:coverdate><prism:coverdisplaydate>31 August 2006</prism:coverdisplaydate><prism:copyright>Copyright © 2005 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Romankov, S.</dc:creator><dc:creator>Sha, W.</dc:creator><dc:creator>Ermakov, E.</dc:creator><dc:creator>Mamaeva, A.</dc:creator><dc:description>
+                  During annealing of the Ti surface coated by the Al film, different aluminide phases were formed as the result of reactions between Ti and Al. The structural formation of aluminide phases and the microstructure formed after annealing treatment depended on the thickness of the initial Al film. After annealing treatment up to 900°C, the microstructure of the overlayer clearly showed contours of grain boundaries of the initial Ti substrate. The shapes, sizes and distribution of the particles in the overlayer depended on the microstructure of the initial Ti substrate as well. The microstructure of the initial Ti substrate had a great effect on the transformation kinetics. Retardation of the reaction was observed on the substrate with lamellar structure. After the elimination of the overlayer, a fine plate structure was formed. The change of the phase compositions of the overlayer led to change in the microhardness. The peak value of the microhardness was observed with the lamellar like morphology of overlayer.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Titanium</dcterms:subject><dcterms:subject>Titanium aluminides</dcterms:subject><dcterms:subject>Microstructure</dcterms:subject><dcterms:subject>Phase transformation</dcterms:subject><dcterms:subject>Coating</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838805015926" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838805015926" rel="scidir"/></coredata><objects><object category="standard" height="399" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="107206" type="IMAGE-DOWNSAMPLED" width="476">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015926-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="3533" type="IMAGE-THUMBNAIL" width="111">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015926-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="394" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="126970" type="IMAGE-DOWNSAMPLED" width="470">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015926-gr4.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="4021" type="IMAGE-THUMBNAIL" width="111">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015926-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="392" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr5" size="98993" type="IMAGE-DOWNSAMPLED" width="470">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015926-gr5.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="4756" type="IMAGE-THUMBNAIL" width="112">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015926-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="391" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr7" size="106259" type="IMAGE-DOWNSAMPLED" width="470">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015926-gr7.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="4321" type="IMAGE-THUMBNAIL" width="112">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015926-gr7.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="194" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr8" size="63922" type="IMAGE-DOWNSAMPLED" width="470">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015926-gr8.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="51" mimetype="image/gif" multimediatype="GIF image file" ref="gr8" size="3240" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015926-gr8.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="447" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr9" size="76840" type="IMAGE-DOWNSAMPLED" width="452">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015926-gr9.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr9" size="3205" type="IMAGE-THUMBNAIL" width="94">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015926-gr9.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="593" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr6" size="151859" type="IMAGE-DOWNSAMPLED" width="469">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015926-gr6.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="2860" type="IMAGE-THUMBNAIL" width="74">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015926-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="370" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="23001" type="IMAGE-DOWNSAMPLED" width="508">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015926-gr3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="91" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="2575" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015926-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="544" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="29688" type="IMAGE-DOWNSAMPLED" width="403">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015926-gr2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="1815" type="IMAGE-THUMBNAIL" width="69">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015926-gr2.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>33745611530</scopus-id><scopus-eid>2-s2.0-33745611530</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/33745611530" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20051117">2005-11-17</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20051117">2005-11-17</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-03-29T07:36:02</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838805015926</xocs:eid>
+<xocs:pii-formatted>S0925-8388(05)01592-6</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805015926</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2005.10.024</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838806X0258X</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.349087-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20060831</xocs:date-search-begin>
+<xocs:year-nav>2006</xocs:year-nav>
+<xocs:indexeddate epoch="1132185600">2005-11-17T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>420</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>420</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 420, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>15</xocs:sort-order>
+<xocs:first-fp>63</xocs:first-fp>
+<xocs:last-lp>70</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>63</xocs:first-page>
+<xocs:last-page>70</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20060831</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>31 August 2006</xocs:cover-date-text>
+<xocs:cover-date-start>2006-08-31</xocs:cover-date-start>
+<xocs:cover-date-year>2006</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Metallurgy</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2005 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>CHARACTERIZATIONALUMINIZEDLAYERFORMATIONDURINGANNEALINGTICOATEDALFILM</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>ROMANKOV</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>S</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental procedures</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental results and discussion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>MATSUBARA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>815</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>LEYENS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>34</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>HAMPSHIRE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>392</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>LOO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1973</xocs:ref-pub-year>
+<xocs:ref-first-fp>61</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>ROMANKOVX2006X63</xocs:refkey3>
+<xocs:refkey4lp>ROMANKOVX2006X63X70</xocs:refkey4lp>
+<xocs:refkey4ai>ROMANKOVX2006X63XS</xocs:refkey4ai>
+<xocs:refkey5>ROMANKOVX2006X63X70XS</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(05)01592-6</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805015926</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838805015926</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2005.10.024</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-08T03:48:52.62519-04:00</xocs:timestamp>
+<xocs:cover-date-start>2006-08-31</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838805015926-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015926/MAIN/application/pdf/61c6170631b68d532b58afb4e86fa19b/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015926/MAIN/application/pdf/61c6170631b68d532b58afb4e86fa19b/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>1102015</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>8</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838805015926-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015926/PREVIEW/image/png/39b292b96ddb30615834748edd3e7c7b/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015926/PREVIEW/image/png/39b292b96ddb30615834748edd3e7c7b/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>65076</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015926-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015926/gr1/DOWNSAMPLED/image/jpeg/f0d2c177a0af58a6944bdbab37c75c01/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015926/gr1/DOWNSAMPLED/image/jpeg/f0d2c177a0af58a6944bdbab37c75c01/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>107206</xocs:filesize>
+<xocs:pixel-height>399</xocs:pixel-height>
+<xocs:pixel-width>476</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015926-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015926/gr1/THUMBNAIL/image/gif/eb8bec28b653b4285496031db809b206/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015926/gr1/THUMBNAIL/image/gif/eb8bec28b653b4285496031db809b206/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3533</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>111</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015926-gr4.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015926/gr4/DOWNSAMPLED/image/jpeg/888802e14092c953d558e3d11a5ee591/gr4.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015926/gr4/DOWNSAMPLED/image/jpeg/888802e14092c953d558e3d11a5ee591/gr4.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>126970</xocs:filesize>
+<xocs:pixel-height>394</xocs:pixel-height>
+<xocs:pixel-width>470</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015926-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015926/gr4/THUMBNAIL/image/gif/904f755d258722905c03753b7561ca95/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015926/gr4/THUMBNAIL/image/gif/904f755d258722905c03753b7561ca95/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>4021</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>111</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015926-gr5.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015926/gr5/DOWNSAMPLED/image/jpeg/b185d442f6c1d86ce29fdf4a1abe7751/gr5.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015926/gr5/DOWNSAMPLED/image/jpeg/b185d442f6c1d86ce29fdf4a1abe7751/gr5.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>98993</xocs:filesize>
+<xocs:pixel-height>392</xocs:pixel-height>
+<xocs:pixel-width>470</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015926-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015926/gr5/THUMBNAIL/image/gif/7273ea8182ac5c0e37df4089d0658470/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015926/gr5/THUMBNAIL/image/gif/7273ea8182ac5c0e37df4089d0658470/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>4756</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>112</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015926-gr7.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015926/gr7/DOWNSAMPLED/image/jpeg/334b5d4460241116cd454c5b47a285a3/gr7.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015926/gr7/DOWNSAMPLED/image/jpeg/334b5d4460241116cd454c5b47a285a3/gr7.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>106259</xocs:filesize>
+<xocs:pixel-height>391</xocs:pixel-height>
+<xocs:pixel-width>470</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015926-gr7.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015926/gr7/THUMBNAIL/image/gif/cdc7654f0222e151c6f5be8889af5c2c/gr7.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015926/gr7/THUMBNAIL/image/gif/cdc7654f0222e151c6f5be8889af5c2c/gr7.sml</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>4321</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>112</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015926-gr8.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015926/gr8/DOWNSAMPLED/image/jpeg/5be9120db8a1df522b3ca75e543b3433/gr8.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015926/gr8/DOWNSAMPLED/image/jpeg/5be9120db8a1df522b3ca75e543b3433/gr8.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>63922</xocs:filesize>
+<xocs:pixel-height>194</xocs:pixel-height>
+<xocs:pixel-width>470</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015926-gr8.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015926/gr8/THUMBNAIL/image/gif/f09adef487f8bd519ed29f88ead38eac/gr8.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015926/gr8/THUMBNAIL/image/gif/f09adef487f8bd519ed29f88ead38eac/gr8.sml</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3240</xocs:filesize>
+<xocs:pixel-height>51</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015926-gr9.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015926/gr9/DOWNSAMPLED/image/jpeg/19cd014010fd2c69f308554af17a7fd1/gr9.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015926/gr9/DOWNSAMPLED/image/jpeg/19cd014010fd2c69f308554af17a7fd1/gr9.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>76840</xocs:filesize>
+<xocs:pixel-height>447</xocs:pixel-height>
+<xocs:pixel-width>452</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015926-gr9.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015926/gr9/THUMBNAIL/image/gif/aef69748196b553cb6018a13a6ab1fdc/gr9.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015926/gr9/THUMBNAIL/image/gif/aef69748196b553cb6018a13a6ab1fdc/gr9.sml</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3205</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>94</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015926-gr6.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015926/gr6/DOWNSAMPLED/image/jpeg/9c66ed32be06c0bbc3450e8b927415e0/gr6.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015926/gr6/DOWNSAMPLED/image/jpeg/9c66ed32be06c0bbc3450e8b927415e0/gr6.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>151859</xocs:filesize>
+<xocs:pixel-height>593</xocs:pixel-height>
+<xocs:pixel-width>469</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015926-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015926/gr6/THUMBNAIL/image/gif/f387ee2a05b9d84a9707a5f74a01dde8/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015926/gr6/THUMBNAIL/image/gif/f387ee2a05b9d84a9707a5f74a01dde8/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2860</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>74</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015926-gr3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015926/gr3/DOWNSAMPLED/image/gif/c68b92e9e631c7b53a2aaac6904d69c5/gr3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015926/gr3/DOWNSAMPLED/image/gif/c68b92e9e631c7b53a2aaac6904d69c5/gr3.gif</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>23001</xocs:filesize>
+<xocs:pixel-height>370</xocs:pixel-height>
+<xocs:pixel-width>508</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015926-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015926/gr3/THUMBNAIL/image/gif/763ea08220c890b04c1b0581dec33693/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015926/gr3/THUMBNAIL/image/gif/763ea08220c890b04c1b0581dec33693/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2575</xocs:filesize>
+<xocs:pixel-height>91</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015926-gr2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015926/gr2/DOWNSAMPLED/image/gif/1d935eda7712d0ff69bed4b9d8028a0d/gr2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015926/gr2/DOWNSAMPLED/image/gif/1d935eda7712d0ff69bed4b9d8028a0d/gr2.gif</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>29688</xocs:filesize>
+<xocs:pixel-height>544</xocs:pixel-height>
+<xocs:pixel-width>403</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015926-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015926/gr2/THUMBNAIL/image/gif/33eb3ba1c619d9a21c06c12fdbe960d3/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015926/gr2/THUMBNAIL/image/gif/33eb3ba1c619d9a21c06c12fdbe960d3/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1815</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>69</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>13245</aid>
+<ce:pii>S0925-8388(05)01592-6</ce:pii>
+<ce:doi>10.1016/j.jallcom.2005.10.024</ce:doi>
+<ce:copyright type="full-transfer" year="2005">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Optical micrographs of the initial Ti substrates: (a) sample A; (b) sample B; and (c) sample C.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">X-ray diffraction patterns (Cu Kα) of the Ti samples coated with Al film after annealing: (a) thickness of Al film of 2<ce:hsp sp="0.25"></ce:hsp>μm; and (b) thickness of Al film of 3.5<ce:hsp sp="0.25"></ce:hsp>μm.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">X-ray diffraction patterns (Cu Kα) of the Ti samples coated with Al film with the thickness of 6<ce:hsp sp="0.25"></ce:hsp>μm after annealing: (a) sample A; (b) sample B; and (c) sample C.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Microstructure of the overlayer on the Ti surface after annealing: (a) sample A, 3.5<ce:hsp sp="0.25"></ce:hsp>μm Al film, 600<ce:hsp sp="0.25"></ce:hsp>°C; (b) sample C, 3.5<ce:hsp sp="0.25"></ce:hsp>μm Al film, 600<ce:hsp sp="0.25"></ce:hsp>°C; (c) sample A, 2<ce:hsp sp="0.25"></ce:hsp>μm Al film, 600<ce:hsp sp="0.25"></ce:hsp>°C; and (d) sample B, 2<ce:hsp sp="0.25"></ce:hsp>μm Al film, 900<ce:hsp sp="0.25"></ce:hsp>°C.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Detailed structure after annealing at 600<ce:hsp sp="0.25"></ce:hsp>°C as a function of the thickness of the Al film: (a) sample A, 2<ce:hsp sp="0.25"></ce:hsp>μm film; (b) sample A, 3.5<ce:hsp sp="0.25"></ce:hsp>μm film; (c) sample A, 6<ce:hsp sp="0.25"></ce:hsp>μm film; and (d) sample C, 6<ce:hsp sp="0.25"></ce:hsp>μm film.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Detailed structure (a), (c), (e); and Al distribution in same area, by Al Kα<ce:inf loc="post">1</ce:inf> line (b), (d), (f) of sample C after annealing at 800<ce:hsp sp="0.25"></ce:hsp>°C as a function of the thickness of the Al film: (a) and (b) 6<ce:hsp sp="0.25"></ce:hsp>μm film; (c) and (d) 3.5<ce:hsp sp="0.25"></ce:hsp>μm film; (e) and (f) 2<ce:hsp sp="0.25"></ce:hsp>μm film.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+<ce:figure id="fig7">
+<ce:label>Fig. 7</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Microstructure of sample C after annealing at 900<ce:hsp sp="0.25"></ce:hsp>°C as a function of the thickness of the Al film: (a) and (b) 6<ce:hsp sp="0.25"></ce:hsp>μm film; (c) and (d) 2<ce:hsp sp="0.25"></ce:hsp>μm film.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr7"></ce:link>
+</ce:figure>
+<ce:figure id="fig8">
+<ce:label>Fig. 8</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Microstructure after annealing at 1000<ce:hsp sp="0.25"></ce:hsp>°C: (a) typical structure after elimination of overlayer; and (b) structure of sample C with the thickness of Al film of 6<ce:hsp sp="0.25"></ce:hsp>μm where the overlayer was not eliminated yet.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr8"></ce:link>
+</ce:figure>
+<ce:figure id="fig9">
+<ce:label>Fig. 9</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Microhardness of overlayer after annealing: (a) thickness of the Al film of 3.5<ce:hsp sp="0.25"></ce:hsp>μm; and (b) thickness of the Al film of 6<ce:hsp sp="0.25"></ce:hsp>μm.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr9"></ce:link>
+</ce:figure>
+<ce:table colsep="0" frame="topbot" id="tbl1" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">The phase composition of overlayer on the Ti surface as a function of annealing temperature, the thickness of the Al film and the grain structure of the initial substrate</ce:simple-para>
+</ce:caption>
+<tgroup cols="9">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<colspec colname="col5"></colspec>
+<colspec colname="col6"></colspec>
+<colspec colname="col7"></colspec>
+<colspec colname="col8"></colspec>
+<colspec colname="col9"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Temperature (°C)</entry>
+<entry align="left" nameend="col9" namest="col2" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Phase composition</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" nameend="col4" namest="col2" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">2<hsp sp="0.25"></hsp>μm samples</entry>
+<entry align="left" nameend="col6" namest="col5" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">3.5<hsp sp="0.25"></hsp>μm samples</entry>
+<entry align="left" nameend="col9" namest="col7" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">6<hsp sp="0.25"></hsp>μm samples</entry>
+</row>
+<row>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">A</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">B</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">C</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">A</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">C</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">A</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">B</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">C</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">600</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">3</inf>Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">3</inf>Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">3</inf>Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">3</inf>Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">3</inf>Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">3</inf>Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">3</inf>Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">3</inf>Ti</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">24</inf>Ti<inf loc="post">8</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">24</inf>Ti<inf loc="post">8</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">24</inf>Ti<inf loc="post">8</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">24</inf>Ti<inf loc="post">8</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">24</inf>Ti<inf loc="post">8</inf>
+</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al</entry>
+</row>
+<row>
+<entry align="left" nameend="col9" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<vsp sp="0.5"></vsp>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">700</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">3</inf>Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">3</inf>Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">3</inf>Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">3</inf>Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">3</inf>Ti</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">2</inf>Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">2</inf>Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">24</inf>Ti<inf loc="post">8</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">24</inf>Ti<inf loc="post">8</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">24</inf>Ti<inf loc="post">8</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">3</inf>Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">3</inf>Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">3</inf>Ti</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">TiAl</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">TiAl</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">2</inf>Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">2</inf>Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">2</inf>Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">2</inf>Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">2</inf>Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">2</inf>Ti</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Al</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Al</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">TiAl</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">TiAl</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">TiAl</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Al</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Al</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Al</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" nameend="col9" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<vsp sp="0.5"></vsp>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">800</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Al</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Al</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Al</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">TiAl</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">TiAl</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">2</inf>Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">2</inf>Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">3</inf>Ti</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">X-phase</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">X-phase</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">X-phase</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Al</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Al</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">TiAl</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">TiAl</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Al<inf loc="post">2</inf>Ti</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Al (trace)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Al (trace)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">TiAl</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Al (trace)</entry>
+</row>
+<row>
+<entry align="left" nameend="col9" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<vsp sp="0.5"></vsp>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">900</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Al</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Al</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Al</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Al</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Al</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Al</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">TiAl</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">TiAl</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">X-phase</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">X-phase</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">X-phase</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">X-phase</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">X-phase</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">X-phase</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Al</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Al</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">TiAl (trace)</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+<row>
+<entry align="left" nameend="col9" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<vsp sp="0.5"></vsp>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1000</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Al</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Al</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">3</inf>Al</entry>
+</row>
+<row>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">X-phase</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">X-phase</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">X-phase</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">X-phase</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+</ce:floats>
+<ce:title>Characterization of aluminized layer formation during annealing of Ti coated with an Al film</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Romankov</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Sha</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="cor1">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Ermakov</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Mamaeva</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation id="aff1">
+<ce:label>a</ce:label>
+<ce:textfn>Institute of Physics &amp; Technology, 050032 Almaty 32, Kazakhstan</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff2">
+<ce:label>b</ce:label>
+<ce:textfn>Metals Research Group, School of Planning, Architecture, and Civil Engineering, The Queen's University of Belfast, Belfast BT7 1NN, UK</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>⁎</ce:label>
+<ce:text>Corresponding author.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="4" month="8" year="2005"></ce:date-received>
+<ce:date-revised day="10" month="10" year="2005"></ce:date-revised>
+<ce:date-accepted day="14" month="10" year="2005"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">During annealing of the Ti surface coated by the Al film, different aluminide phases were formed as the result of reactions between Ti and Al. The structural formation of aluminide phases and the microstructure formed after annealing treatment depended on the thickness of the initial Al film. After annealing treatment up to 900<ce:hsp sp="0.25"></ce:hsp>°C, the microstructure of the overlayer clearly showed contours of grain boundaries of the initial Ti substrate. The shapes, sizes and distribution of the particles in the overlayer depended on the microstructure of the initial Ti substrate as well. The microstructure of the initial Ti substrate had a great effect on the transformation kinetics. Retardation of the reaction was observed on the substrate with lamellar structure. After the elimination of the overlayer, a fine plate structure was formed. The change of the phase compositions of the overlayer led to change in the microhardness. The peak value of the microhardness was observed with the lamellar like morphology of overlayer.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Titanium</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Titanium aluminides</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Microstructure</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Phase transformation</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Coating</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Ti and its alloys have been widely used in various applications. However, their wearing behavior and corrosion resistance can be improved in order to ensure long-term durability. Surface modification is one of the effective ways to improve these properties, and coatings based on titanium aluminides can be especially effective <ce:cross-refs refid="bib1 bib2 bib3">[1–3]</ce:cross-refs>. In order to develop a processing strategy for protective coating based on the aluminide phases for titanium alloys it is necessary to understand the growth processes of these phases by studying kinetics of structural formation and their chemical and thermal stability. In the present work, we studied how the thickness of Al film and the structure of the initial substrate could have effect on the interdiffusion growth of aluminide phases on the Ti substrate.</ce:para>
+</ce:section>
+<ce:section role="materials-methods" view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental procedures</ce:section-title>
+<ce:para view="all">The polycrystalline commercial titanium was used as substrates. The samples, cut from a plate with a thickness of 1<ce:hsp sp="0.25"></ce:hsp>mm were mechanically polished and then electropolished. Various microstructures of initial substrates were formed by heat treatment. Sample A consisted of irregular grains (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>a<ce:float-anchor refid="fig1"></ce:float-anchor>). Sample B had a coarse grain structure (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>b). Sample C had the coarse grain lamellar structure (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>c). The Al layer with thickness of about 2, 3.5 and 6<ce:hsp sp="0.25"></ce:hsp>μm on the Ti substrates was formed by thermal deposition of 99.999%Al in a vacuum chamber at an operating pressure of 6<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>10<ce:sup loc="post">−3</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>Pa. The temperature of the substrates during deposition was fixed at 100<ce:hsp sp="0.25"></ce:hsp>°C. The as-synthesized samples were annealed successively in vacuum of 10<ce:sup loc="post">−5</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>Pa at temperatures ranging between 600 and 1000<ce:hsp sp="0.25"></ce:hsp>°C at every 100<ce:hsp sp="0.25"></ce:hsp>°C and were then cooled in the furnace. In all cases, the annealing time was 2<ce:hsp sp="0.25"></ce:hsp>h. The resulting structure was studied by X-ray diffraction (XRD) analysis (Cu Kα) and scanning electron microscopy (SEM).</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Experimental results and discussion</ce:section-title>
+<ce:para view="all">
+<ce:cross-refs refid="fig2 fig3">Figs. 2 and 3</ce:cross-refs>
+<ce:float-anchor refid="fig2"></ce:float-anchor>
+<ce:float-anchor refid="fig3"></ce:float-anchor> show the XRD patterns of samples with different thickness of the Al film after annealing at temperature range between 600 and 1000<ce:hsp sp="0.25"></ce:hsp>°C. <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+<ce:float-anchor refid="tbl1"></ce:float-anchor> summarizes the phase composition of the overlayer formed on titanium surface during the heat treatment, as function of the thickness of the Al film and the grain structure of the initial substrate. Al reacted with Ti on heating up to 600<ce:hsp sp="0.25"></ce:hsp>°C forming an Al<ce:inf loc="post">3</ce:inf>Ti overlayer. Annealing samples with the thickness of the Al films of 2 and 3.5<ce:hsp sp="0.25"></ce:hsp>μm at 600<ce:hsp sp="0.25"></ce:hsp>°C gave two modifications of Al<ce:inf loc="post">3</ce:inf>Ti on the Ti surface (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>). One was the standard Al<ce:inf loc="post">3</ce:inf>Ti compound in the Ti-Al phase diagram. The other one was denoted as Al<ce:inf loc="post">24</ce:inf>Ti<ce:inf loc="post">8</ce:inf>
+<ce:cross-ref refid="bib4">[4]</ce:cross-ref> with a lattice parameter <ce:italic>c</ce:italic> four times of the standard Al<ce:inf loc="post">3</ce:inf>Ti phase. The Al<ce:inf loc="post">24</ce:inf>Ti<ce:inf loc="post">8</ce:inf> phase was not observed in the X-ray diffraction patterns of the samples with the thickness of the Al film of 6<ce:hsp sp="0.25"></ce:hsp>μm. Furthermore, after annealing at 600<ce:hsp sp="0.25"></ce:hsp>°C, the Al film on the surface of the sample C with the thickness of 6<ce:hsp sp="0.25"></ce:hsp>μm was not completely spent to form the Al<ce:inf loc="post">3</ce:inf>Ti compound (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>c). This indicates that the diffusion process was faster on the surface of samples with the polyhedral grain structures than on the samples with the lamellar structure. By examining the intensity of the diffraction lines, the volume fraction of the Al<ce:inf loc="post">3</ce:inf>Ti compound and hence the thicknesses of the corresponding overlayer formed on the Ti surface depended on the thickness of the initial Al film (<ce:cross-refs refid="fig2 fig3">Figs. 2 and 3</ce:cross-refs>).</ce:para>
+<ce:para view="all">After annealing at 600<ce:hsp sp="0.25"></ce:hsp>°C the microstructure of the overlayer clearly showed contours of grain boundaries of the initial Ti substrates (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor>). It was particularly apparent in the case of the samples with the thickness of the Al film of 3.5<ce:hsp sp="0.25"></ce:hsp>μm (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>a and b). Independently of the structure of the initial substrate, the degradation of microstructure was observed on the samples with 2<ce:hsp sp="0.25"></ce:hsp>μm film (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>c). The structural degradation was not observed on the samples with the thickness of the Al films of 3.5 and 6<ce:hsp sp="0.25"></ce:hsp>μm. By increasing the annealing temperature, the disappearance of the overlayer took place on these degraded parts first (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>d). The structural degradation of the thin overlayer formed during annealing was possibly related with the distribution of stresses between substrate and the Al film, which in turn had a great effect on the diffusion fluxes during subsequent annealing.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>a–c<ce:float-anchor refid="fig5"></ce:float-anchor> show the detailed structure of the overlayers after annealing at 600<ce:hsp sp="0.25"></ce:hsp>°C as a function of the thickness of the Al film, by the example of sample A. The structure of the overlayer of the sample with the thickness of the Al film of 3.5<ce:hsp sp="0.25"></ce:hsp>μm consisted of the equiaxed particles with the size of about 0.4<ce:hsp sp="0.25"></ce:hsp>μm (<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>b). For the sample with 6<ce:hsp sp="0.25"></ce:hsp>μm film, the particles were finer (<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>c). It indicates that the elastic strains in the overlayer for the sample with the thicker film were higher. For the sample with 2<ce:hsp sp="0.25"></ce:hsp>μm film, after annealing at 600<ce:hsp sp="0.25"></ce:hsp>°C, coalescence of the particles particularly close to the degraded areas was observed (<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>a). <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>d shows the remains of the Al film on the surface of sample C with the thickness of the Al film of 6<ce:hsp sp="0.25"></ce:hsp>μm.</ce:para>
+<ce:para view="all">After annealing at 600<ce:hsp sp="0.25"></ce:hsp>°C, the samples were annealed at 700<ce:hsp sp="0.25"></ce:hsp>°C. During annealing at 700<ce:hsp sp="0.25"></ce:hsp>° C, the Al<ce:inf loc="post">3</ce:inf>Ti and Al<ce:inf loc="post">24</ce:inf>Ti<ce:inf loc="post">8</ce:inf> compounds started decomposing. On the surface of the samples with the thickness of the Al films of 2 and 3.5<ce:hsp sp="0.25"></ce:hsp>μm, the Al<ce:inf loc="post">2</ce:inf>Ti and TiAl phases were formed. The weak superstructure line (1<ce:hsp sp="0.25"></ce:hsp>0<ce:hsp sp="0.25"></ce:hsp>1) at 2<ce:italic>θ</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>26° indicated the presence of the Ti<ce:inf loc="post">3</ce:inf>Al compound in the overlayers. The diffraction lines of the Al<ce:inf loc="post">24</ce:inf>Ti<ce:inf loc="post">8</ce:inf> phase were observed in the X-ray diffraction patterns of all samples with 3.5<ce:hsp sp="0.25"></ce:hsp>μm film and only in the one of sample C with 2<ce:hsp sp="0.25"></ce:hsp>μm film. In the case of the samples with the thickness of the Al film of 6<ce:hsp sp="0.25"></ce:hsp>μm, the Al<ce:inf loc="post">3</ce:inf>Ti lines and the weak Al<ce:inf loc="post">2</ce:inf>Ti peaks were detected in the X-ray diffraction patterns after annealing at 700<ce:hsp sp="0.25"></ce:hsp>°C (<ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>).</ce:para>
+<ce:para view="all">After subsequent annealing at 800<ce:hsp sp="0.25"></ce:hsp>°C, on the surface of the samples with the thickness of the Al film of 2<ce:hsp sp="0.25"></ce:hsp>μm, the Ti<ce:inf loc="post">3</ce:inf>Al compound was formed. In addition, the new diffraction lines with <ce:italic>d</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>2.48, 2.15, 1.51, 1.29<ce:hsp sp="0.25"></ce:hsp>Å were detected in the X-ray diffraction patterns (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>). In <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>, <ce:cross-refs refid="fig2 fig3">Figs. 2 and 3</ce:cross-refs>, this phase was denoted as X-phase. The mechanism of its formation is considered further below. The annealing treatment of the samples with 3.5<ce:hsp sp="0.25"></ce:hsp>μm film at 800<ce:hsp sp="0.25"></ce:hsp>°C led to the formation of the Ti<ce:inf loc="post">3</ce:inf>Al and TiAl compounds (<ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>, <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>). Annealing samples with 6<ce:hsp sp="0.25"></ce:hsp>μm film at 800<ce:hsp sp="0.25"></ce:hsp>°C gave Al<ce:inf loc="post">2</ce:inf>Ti and TiAl on the surface (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>). By comparing the intensities of the diffraction lines from the Al<ce:inf loc="post">2</ce:inf>Ti and TiAl compounds, the maximum volume fraction of Al<ce:inf loc="post">2</ce:inf>Ti was observed on the surface of sample B, and the TiAl compound on sample A. The weak superstructure line (1<ce:hsp sp="0.25"></ce:hsp>0<ce:hsp sp="0.25"></ce:hsp>1) of the Ti<ce:inf loc="post">3</ce:inf>Al phase was observed in the X-ray diffraction patterns of samples A and B and it was not detected in the one of sample C. Furthermore, in the X-ray diffraction pattern of sample C with the thickness of the Al film of 6<ce:hsp sp="0.25"></ce:hsp>μm, the Al<ce:inf loc="post">3</ce:inf>Ti peaks were observed (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>). Annealing of sample C at 800<ce:hsp sp="0.25"></ce:hsp>°C did not lead to complete decomposition of the Al<ce:inf loc="post">3</ce:inf>Ti phase.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="fig6"></ce:float-anchor> shows the detailed structure of overlayers after annealing at 800<ce:hsp sp="0.25"></ce:hsp>°C as a function of the thickness of the Al film, by the example of sample C. After annealing at 800<ce:hsp sp="0.25"></ce:hsp>°C, the overlayer structure of sample C with 6<ce:hsp sp="0.25"></ce:hsp>μm film consisted of polyhedral particles with the sides of 0.8–1.5<ce:hsp sp="0.25"></ce:hsp>μm (<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>a). The particles formed colonies along the lamellar boundaries of the initial substrate in the way that they showed the microstructure of the initial ones. In the case of the sample with the thickness of the Al film of 3.5<ce:hsp sp="0.25"></ce:hsp>μm, the leveling of the lamellar like morphology and coalescence of the particles took place after annealing at 800<ce:hsp sp="0.25"></ce:hsp>°C (<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>c). By examining the micrograph of the sample with the thickness of the Al film of 2<ce:hsp sp="0.25"></ce:hsp>μm, it can be seen that the process of the particle coalescence led to the formation of the hillock morphology (<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>e). <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>b, d, and f show the corresponding Al distribution measured on surface according to the Al Kα<ce:inf loc="post">1</ce:inf> line. For the three cases, Al appears to have distributed differently on the surface. For the sample with the thickness of the Al film of 6<ce:hsp sp="0.25"></ce:hsp>μm, more Al was observed around lamellar boundaries. For the sample with 3.5<ce:hsp sp="0.25"></ce:hsp>μm film, Al mainly concentrated on the remnants of the lamellars; and for the sample with 2<ce:hsp sp="0.25"></ce:hsp>μm film, Al uniformly distributed on the surface. The Al distribution on surface as a function of phase composition of overlayer could show its migration in the process of structural formation, although these elemental mapping results should be treated with caution due to the uneven nature of the surface possibly leading to experimental errors.</ce:para>
+<ce:para view="all">This tendency in the microstructural evolution as a function of the thickness of the Al film was observed also on samples A and B. For the Al film of 6<ce:hsp sp="0.25"></ce:hsp>μm, the particles kept their form after 800<ce:hsp sp="0.25"></ce:hsp>°C annealing, while for the Al film of 2<ce:hsp sp="0.25"></ce:hsp>μm, coalescence of the particles and the formation of the hillock morphology was observed after annealing at 600<ce:hsp sp="0.25"></ce:hsp>°C. Coalescence of the particles was likely to be related with recrystallization of the overlayers. Nucleation and growth of new phases led to the changes in microstructure. The distinctions between the structures of samples A, B and C were the detailed forms and sizes of particles, the temperature range of their formation, and morphology of their distribution on the surface. For instance, on sample A with 6<ce:hsp sp="0.25"></ce:hsp>μm film, the particles had platelike form with sides of about 0.3<ce:hsp sp="0.25"></ce:hsp>μm (<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>c) and they formed on heating to 600<ce:hsp sp="0.25"></ce:hsp>°C. For sample C with 6<ce:hsp sp="0.25"></ce:hsp>μm film, the particles had polyhedral form with the sides of 0.8–1.5<ce:hsp sp="0.25"></ce:hsp>μm (<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>a) and they completely formed only after heating treatment at 700<ce:hsp sp="0.25"></ce:hsp>°C. These results signify that the interdiffusion growth of aluminized overlayers depended on the structure of initial substrate as well as the thickness of the Al film.</ce:para>
+<ce:para view="all">After subsequent increasing of annealing temperature to 900<ce:hsp sp="0.25"></ce:hsp>°C, the intensity of the X-phase diffraction lines increased while the intensity of the Ti<ce:inf loc="post">3</ce:inf>Al ones decreased in the X-ray diffraction patterns of the samples with the thickness of Al film of 2<ce:hsp sp="0.25"></ce:hsp>μm. The annealing treatment of samples with 3.5<ce:hsp sp="0.25"></ce:hsp>μm film at 900<ce:hsp sp="0.25"></ce:hsp>°C gave the X-phase and the Ti<ce:inf loc="post">3</ce:inf>Al compound as well (<ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>, <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>). The shape of diffractions lines and their intensities in the X-ray diffraction patterns of samples A and C with 2 and 3.5<ce:hsp sp="0.25"></ce:hsp>μm film indicated differences in the kinetics of the reaction after annealing at 900<ce:hsp sp="0.25"></ce:hsp>°C (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>). In the case of 6<ce:hsp sp="0.25"></ce:hsp>μm film, the X-phase and Ti<ce:inf loc="post">3</ce:inf>Al were formed only on the surface of sample A. In the X-ray diffraction patterns of samples B and C, the Ti<ce:inf loc="post">3</ce:inf>Al and TiAl peaks were detected (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>). Judging from intensities of the diffraction lines from the Ti<ce:inf loc="post">3</ce:inf>Al and TiAl phases the maximum volume fraction of TiAl was observed on the surface of sample C, and the Ti<ce:inf loc="post">3</ce:inf>Al compound on sample A. This means that the rate of reaction on the surface of sample A was much higher than on the surface of samples B and C. At temperatures about 880<ce:hsp sp="0.25"></ce:hsp>°C, α (hcp)<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>β (bcc) transformation of pure Ti takes place. Upon heating to 900<ce:hsp sp="0.25"></ce:hsp>°C, the nucleation and growth of the β-phase could depend on the structure of the initial substrate. The varied growth of the β-grains was likely to have a great effect on the transformation kinetics of the overlayers on the Ti surface.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+<ce:float-anchor refid="fig7"></ce:float-anchor> shows the microstructure of the overlayer after annealing at 900<ce:hsp sp="0.25"></ce:hsp>°C as a function of the thickness of the Al film, by the example of sample C. On the surface of the sample with the thickness of the Al film of 6<ce:hsp sp="0.25"></ce:hsp>μm, the lamellar like morphology, which had clearly shown contours of grain boundaries of the initial Ti substrate (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>b), was in the process of decomposition (<ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>a). The particles, which were observed after annealing at 800<ce:hsp sp="0.25"></ce:hsp>°C (<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>a), entirely coalesced and formed continuous overlayer (<ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>b). After annealing at 900<ce:hsp sp="0.25"></ce:hsp>°C the sample with the thickness of the Al film of 2<ce:hsp sp="0.25"></ce:hsp>μm, the lamellar like morphology was completely decomposed and a porous structure was formed (<ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>c and d). The decomposition of the lamellar like morphology was likely related with changes of the morphology of the grain structure of the initial Ti substrate. Thicker overlayer required more time for its recrystallization and microstructural transformation. Similar changes in the structure happened on samples A and B. There was a spectrum of the detailed structures observed after annealing at 900<ce:hsp sp="0.25"></ce:hsp>°C between what are shown in <ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>b and d<ce:float-anchor refid="fig8"></ce:float-anchor>. The continuous structure was typical for the two-phase TiAl<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Ti<ce:inf loc="post">3</ce:inf>Al overlayer, formed from the 6<ce:hsp sp="0.25"></ce:hsp>μm films. The porous one was typical for the Ti<ce:inf loc="post">3</ce:inf>Al<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>X-phase overlayer, formed from the films with thickness less than 6<ce:hsp sp="0.25"></ce:hsp>μm.</ce:para>
+<ce:para view="all">After annealing at 1000<ce:hsp sp="0.25"></ce:hsp>°C, the diffraction lines of pure Ti were detected in the X-ray diffraction patterns of samples A and B with the thickness of the Al films of 2 and 3.5<ce:hsp sp="0.25"></ce:hsp>μm. The peaks of the X-phase and Ti<ce:inf loc="post">3</ce:inf>Al were observed in the ones of samples C (<ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>, <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>). In the case of 6<ce:hsp sp="0.25"></ce:hsp>μm films, the diffraction lines of pure Ti were observed in the X-ray diffraction pattern of sample B. The peaks of the X-phase and pure Ti were detected in the one of sample A. The peaks of X-phase and Ti<ce:inf loc="post">3</ce:inf>Al were observed in the one of sample C (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>). The diffraction lines with <ce:italic>d</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>2.48, 2.40, 2.15, 2.08, 1.51, 1.29<ce:hsp sp="0.25"></ce:hsp>Å were related to the X-phase. These lines could not be attributed to the known titanium aluminide phases according to the Power Diffraction Standards. However, some of these lines could be attributed to some oxide and carbide phases. It is necessary to note that these diffraction lines were not detected in the X-ray diffraction patterns when we studied the underside of samples. It means that formation of the X-phase was related with the Al thin film.</ce:para>
+<ce:para view="all">The microstructure formed after the elimination of the overlayer in the favor of releasing Al into Ti consisted of very coarse grains. The inner structure of the grains consisted of very fine plates with different crystallographic orientation in the adjoining grains (<ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>a). The chemical composition of these grains was Ti–2.3%Al. The fine plate microstructure was also observed on the underside of the samples. That structure looks like the deformation relief. It was not observed after annealing pure Ti without Al film at 1000<ce:hsp sp="0.25"></ce:hsp>°C. It means that formation of fine plate microstructure was related with the Al thin film and overlayer formed on the surface during heat treatment. Then, it can be assumed that upon heating above 900<ce:hsp sp="0.25"></ce:hsp>°C, the structure of the substrate consisted of the coarse β-grains (bcc lattice) and the overlayer consisted of Ti<ce:inf loc="post">3</ce:inf>Al (DO<ce:inf loc="post">22</ce:inf> structure). Because of the crystallographic differences at the interface a strong deformation stress appeared, which led to the formation of the fine plate structure during subsequent cooling.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>b shows the microstructure of overlayer on sample C with the 6<ce:hsp sp="0.25"></ce:hsp>μm film after annealing at 1000<ce:hsp sp="0.25"></ce:hsp>°C, where the maximum volume fraction of the X-phase was observed. Microanalysis of that structure showed the presence of oxygen and carbon. However, it was difficult to determine the accurate chemical composition by the means of X-ray emission analysis because of multilayered structure. Taking into account the presence of oxygen and carbon in the overlayer, we suggest the following explanation for the formation of the X-phase. The formation of the X-phase was not related to some fixed temperature. In all cases, the diffraction lines of the X-phase were detected only along with the Ti<ce:inf loc="post">3</ce:inf>Al ones (<ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>), which was after the increase of Ti concentration in the overlayer. After the elimination of the overlayer, microanalysis did not give the presence of oxygen and carbon on the Ti surface. On the undersides of the samples, the X-phase was not formed either. It could mean that the residual gas in furnace during annealing did not have a great effect on the formation of that phase. The formation of X-phase was only concerned with the Al thin film. Consequently, it can be assumed that during thermal deposition of Al films the atoms of the residual gases in the evacuated chamber were likely to penetrate the film. The thicker Al film resulted in more gas atoms in the film. When heating with increasing of the Ti concentration in the overlayer, the oxide and carbide phases started forming. At 1000<ce:hsp sp="0.25"></ce:hsp>°C, when the diffusion flux directed towards the substrate and the elimination of the aluminized overlayer took place, the oxygen and carbon atoms were released, and the X-phase disappeared. On the other hand, if oxide or carbide phases formed after annealing treatment at 900<ce:hsp sp="0.25"></ce:hsp>°C, it was unlikely for them to disappear completely after treatment at 1000<ce:hsp sp="0.25"></ce:hsp>°C. It means that the X-phase could be also some metastable phase formed during the last stage of diffusion cementation. For instance, the Ti<ce:inf loc="post">3.3</ce:inf>Al phase has the lattice plane spacing <ce:italic>d</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>2.47, 2.37, 2.18, 1.51, 1.31<ce:hsp sp="0.25"></ce:hsp>Å.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref>
+<ce:float-anchor refid="fig9"></ce:float-anchor> shows the microhardness of the samples with the thickness of the Al film of 3.5 and 6<ce:hsp sp="0.25"></ce:hsp>μm. The relationship between the microhardness and the phase composition was observed. The change of the phase compositions led to change in the microhardness. Higher values of the microhardness were observed for the samples with the lamellar like morphology of overlayer. The microhardness increased when on the samples with 6<ce:hsp sp="0.25"></ce:hsp>μm film two-phase Al<ce:inf loc="post">3</ce:inf>Ti<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Al<ce:inf loc="post">2</ce:inf>Ti overlayer was formed. It decreased after formation of multiphase composition. For all samples, the microhardness started increasing significantly when the Ti-rich aluminides were formed on the surface. After the elimination of the overlayer, the microhardness decreased.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">
+<ce:list>
+<ce:list-item>
+<ce:label>(1)</ce:label>
+<ce:para view="all">During annealing of the Ti surface coated by Al films, different aluminide phases were formed as the result of reactions between Ti and Al. The structural formation of aluminide phases and the microstructure of the overlayer formed after annealing treatment depended on the thickness of the initial Al film. The thicker Al films led to the thicker overlayers and more time was needed for their diffusion cementation and recrystallization. Annealing at the temperature of 1000<ce:hsp sp="0.25"></ce:hsp>°C resulted in the elimination of the overlayer in favor of releasing Al into Ti.</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>(2)</ce:label>
+<ce:para view="all">After annealing treatment up to 900<ce:hsp sp="0.25"></ce:hsp>°C, the microstructure of the overlayer clearly revealed contours of grain boundaries of the initial Ti substrate. After annealing at 900<ce:hsp sp="0.25"></ce:hsp>°C, the contour morphology started changing. The shapes, sizes and distribution of the particles in the overlayer depended on the microstructure of the initial Ti substrate, which had a great effect on the transformation behavior. The retardation of the reactions was observed on the substrate with lamellar structure. After the elimination of the overlayer, a fine plate structure was formed.</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>(3)</ce:label>
+<ce:para view="all">The change of the phase compositions of the overlayer led to change in the microhardness. Higher values of the microhardness were observed with the lamellar like morphology of overlayer.</ce:para>
+</ce:list-item>
+</ce:list>
+</ce:para>
+</ce:section>
+</ce:sections>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Matsubara</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Shibutani</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Uenishi</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Intermetallics</sb:maintitle>
+</sb:title>
+<sb:volume-nr>8</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>815</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Leyens</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Peters</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.A.</ce:given-name>
+<ce:surname>Kaysser</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Surf. Coat. Technol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>94–95</sb:volume-nr>
+</sb:series>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>34</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Hampshire</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.J.</ce:given-name>
+<ce:surname>Kelly</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.G.</ce:given-name>
+<ce:surname>Teer</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Thin Solid Films</sb:maintitle>
+</sb:title>
+<sb:volume-nr>447–448</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>392</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>F.J.J.</ce:given-name>
+<ce:surname>Loo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.D.</ce:given-name>
+<ce:surname>Riek</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Metall.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>21</sb:volume-nr>
+</sb:series>
+<sb:date>1973</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>61</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

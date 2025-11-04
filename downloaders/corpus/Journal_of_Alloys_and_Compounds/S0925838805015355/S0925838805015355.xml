@@ -1,0 +1,3640 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838805015355</prism:url><dc:identifier>doi:10.1016/j.jallcom.2005.05.056</dc:identifier><eid>1-s2.0-S0925838805015355</eid><prism:doi>10.1016/j.jallcom.2005.05.056</prism:doi><pii>S0925-8388(05)01535-5</pii><dc:title>Sonochemical doping of Ti-catalyzed sodium aluminum hydride </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>419</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>162</prism:startingpage><prism:endingpage>171</prism:endingpage><prism:pagerange>162-171</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2006-08-10</prism:coverdate><prism:coverdisplaydate>10 August 2006</prism:coverdisplaydate><prism:copyright>Copyright © 2005 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Prozorov, Tanya</dc:creator><dc:creator>Wang, Jun</dc:creator><dc:creator>Ebner, Armin D.</dc:creator><dc:creator>Ritter, James A.</dc:creator><dc:description>
+                  A new and very effective sonochemical technique has been developed for doping NaAlH4 with metal catalyst prior to high energy ball milling. When NaAlH4 was sonochemically doped with 2mol% TiCl3 in a decalin slurry using THF as a co-solvent and then ball milled, the dehydrogenation temperature in the 90–150°C range decreased by about 30°C during temperature programmed desorption (5°C/min) compared to a conventionally wet doped and ball milled sample. Similarly, during constant temperature desorption the dehydrogenation kinetics of sonochemically doped and ball milled samples of NaAlH4 increased by factors of 9.0, 5.1 and 3.1, respectively, at 90, 110 and 130°C over those exhibited by conventionally wet doped and ball milled samples. These marked kinetic enhancements persisted through several dehydrogenation/hydrogenation cycles, now with corresponding increases by factors of 16.1, 4.5 and 3.5, and with a striking factor of four improvement in the hydrogenation kinetics also realized at 1250psia and 125°C. The observed kinetic effect was interpreted in terms of the complementary mechanochemical effects imparted to the sample by high-intensity ultrasound followed by high energy ball milling. It was surmised that sonochemical doping induced superior mixing of the titanium(III) chloride and sodium aluminum hydride reagents, thereby fostering the formation of smaller catalyst and NaAlH4 particles. This ensured a finer dispersion of the catalyst particles over the surfaces of the NaAlH4 crystals prior to and during the subsequent high energy ball milling process, which greatly improved the mechanochemical effectiveness of ball milling. Strong evidence in support of this supposition stemmed from sonochemical doping being only marginally more effective than conventional wet doping without subsequent ball milling, and scanning electron microscopy images revealing the formation of the factor of ten smaller NaAlH4 particles for the sonochemically doped and ball milled samples.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Alanates</dcterms:subject><dcterms:subject>Hydrogen storage</dcterms:subject><dcterms:subject>Sodium aluminum hydride</dcterms:subject><dcterms:subject>Titanium chloride</dcterms:subject><dcterms:subject>Sonochemical doping</dcterms:subject><dcterms:subject>Wet doping</dcterms:subject><dcterms:subject>Dehydrogenation and hydrogenation kinetic enhancement</dcterms:subject><dcterms:subject>Nanoparticles</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838805015355" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838805015355" rel="scidir"/></coredata><objects><object category="standard" height="759" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="144146" type="IMAGE-DOWNSAMPLED" width="367">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015355-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="1628" type="IMAGE-THUMBNAIL" width="45">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015355-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="290" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="15086" type="IMAGE-DOWNSAMPLED" width="366">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015355-gr1.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="2711" type="IMAGE-THUMBNAIL" width="118">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015355-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="786" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="23045" type="IMAGE-DOWNSAMPLED" width="365">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015355-gr2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="1006" type="IMAGE-THUMBNAIL" width="43">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015355-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="287" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="10288" type="IMAGE-DOWNSAMPLED" width="364">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015355-gr4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="2020" type="IMAGE-THUMBNAIL" width="118">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015355-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="284" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="11344" type="IMAGE-DOWNSAMPLED" width="366">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015355-gr6.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="2122" type="IMAGE-THUMBNAIL" width="120">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015355-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="790" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="26901" type="IMAGE-DOWNSAMPLED" width="367">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015355-gr5.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="1094" type="IMAGE-THUMBNAIL" width="43">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015355-gr5.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>33746937173</scopus-id><scopus-eid>2-s2.0-33746937173</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/33746937173" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20051114">2005-11-14</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20051114">2005-11-14</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-03-29T07:36:02</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838805015355</xocs:eid>
+<xocs:pii-formatted>S0925-8388(05)01535-5</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805015355</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2005.05.056</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838806X02578</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.349087-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20060810</xocs:date-search-begin>
+<xocs:year-nav>2006</xocs:year-nav>
+<xocs:indexeddate epoch="1131926400">2005-11-14T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>419</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>419</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 419, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>30</xocs:sort-order>
+<xocs:first-fp>162</xocs:first-fp>
+<xocs:last-lp>171</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>162</xocs:first-page>
+<xocs:last-page>171</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20060810</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>10 August 2006</xocs:cover-date-text>
+<xocs:cover-date-start>2006-08-10</xocs:cover-date-start>
+<xocs:cover-date-year>2006</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Materials Science</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2005 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>SONOCHEMICALDOPINGTICATALYZEDSODIUMALUMINUMHYDRIDE</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>PROZOROV</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>T</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>CRABTREE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>39</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>GROSS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>683</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>RITTER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>18</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>ZALUSKA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>125</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>JENSEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>461</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>BOGDANOVIC</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>1</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>SRINIVASAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>283</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>SUN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>10176</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>811</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>245</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>BOGDANOVIC</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>712</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>BOGDANOVIC</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>221</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13">
+<xocs:ref-normalized-surname>ANTON</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>400</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>BALEMA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>69</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15">
+<xocs:ref-normalized-surname>BALEMA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>108</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib16">
+<xocs:ref-normalized-surname>JENSEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>213</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib17">
+<xocs:ref-normalized-surname>SANDROCK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>696</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib18">
+<xocs:ref-normalized-surname>THOMAS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>702</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib19">
+<xocs:ref-normalized-surname>SUN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>265</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib20">
+<xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>252</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib21">
+<xocs:ref-normalized-surname>ZIDAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>119</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib22">
+<xocs:ref-normalized-surname>WEIDENTHALER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>5149</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib23">
+<xocs:ref-normalized-surname>BOGDANOVIC</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>36</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib24">
+<xocs:ref-normalized-surname>DEHOUCHE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>402</xocs:ref-first-fp>
+<xocs:ref-last-lp>409</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib25">
+<xocs:ref-normalized-surname>SUN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>L8</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib26">
+<xocs:ref-normalized-surname>BELLOSTAVONCOLBE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>104</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib27">
+<xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>11214</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib28">
+<xocs:ref-normalized-surname>GROSS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>270</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib29">
+<xocs:ref-normalized-surname>GROSS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>423</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib30">
+<xocs:ref-normalized-surname>MAJZOUB</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>363</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib31">
+<xocs:ref-normalized-surname>MOON</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>312</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib32">
+<xocs:ref-normalized-surname>MARTIN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1994</xocs:ref-pub-year>
+<xocs:ref-first-fp>937</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>PROCINTCONFSOLIDSOLIDPHASETRANSFORMINORGMATER</xocs:ref-normalized-srctitle>
+<xocs:ref-normalized-article-title>SOLIDSOLIDPHASETRANSFORM</xocs:ref-normalized-article-title>
+</xocs:ref-info>
+<xocs:ref-info refid="bib33">
+<xocs:ref-normalized-surname>CHIANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>259</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib34">
+<xocs:ref-normalized-surname>HERR</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>113</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>U</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib35">
+<xocs:ref-normalized-surname>MURTY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>101</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib36">
+<xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>99</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib37">
+<xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>15827</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib38">
+<xocs:ref-normalized-surname>CHAFFRON</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>347</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib39">
+<xocs:ref-normalized-surname>GAFFET</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>103</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib40"></xocs:ref-info>
+<xocs:ref-info refid="bib41">
+<xocs:ref-normalized-surname>BENHADDAD</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>855</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib42">
+<xocs:ref-normalized-surname>HAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>219</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib43">
+<xocs:ref-normalized-surname>POCHET</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>207</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib44">
+<xocs:ref-normalized-surname>SURYANARAYANA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>1</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib45">
+<xocs:ref-normalized-surname>AUSMAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>258</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib46">
+<xocs:ref-normalized-surname>VARIN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>129</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib47">
+<xocs:ref-normalized-surname>ORIMO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>331</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib48">
+<xocs:ref-normalized-surname>ORIMO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>94</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib49">
+<xocs:ref-normalized-surname>CASADONTE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>641</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib50">
+<xocs:ref-normalized-surname>DELOGU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>815</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib51">
+<xocs:ref-normalized-surname>FERNANDEZBERTRAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>581</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib52">
+<xocs:ref-normalized-surname>FOCT</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>211</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib53">
+<xocs:ref-normalized-surname>KUDROLLI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>1383</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib54">
+<xocs:ref-normalized-surname>LU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>33</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib55">
+<xocs:ref-normalized-surname>MCCORMICK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>61</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib56">
+<xocs:ref-normalized-surname>SUSLICK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1993</xocs:ref-pub-year>
+<xocs:ref-first-fp>43</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib57"></xocs:ref-info>
+<xocs:ref-info refid="bib58">
+<xocs:ref-normalized-surname>SUSLICK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>295</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib59">
+<xocs:ref-normalized-surname>WOLFRUM</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>2916</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib60">
+<xocs:ref-normalized-surname>DOKTYCZ</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1990</xocs:ref-pub-year>
+<xocs:ref-first-fp>1067</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib61">
+<xocs:ref-normalized-surname>PROZOROV</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>13890</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib62">
+<xocs:ref-normalized-surname>SUSLICK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1987</xocs:ref-pub-year>
+<xocs:ref-first-fp>56</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib63">
+<xocs:ref-normalized-surname>FICHTNER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>778</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib64">
+<xocs:ref-normalized-surname>BOGDANOVIC</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>1012</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib65">
+<xocs:ref-normalized-surname>ASHBY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1973</xocs:ref-pub-year>
+<xocs:ref-first-fp>2860</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib66"></xocs:ref-info>
+<xocs:ref-info refid="bib67"></xocs:ref-info>
+<xocs:ref-info refid="bib68"></xocs:ref-info>
+<xocs:ref-info refid="bib69"></xocs:ref-info>
+<xocs:ref-info refid="bib70">
+<xocs:ref-normalized-surname>ASHBY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1970</xocs:ref-pub-year>
+<xocs:ref-first-fp>325</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib71"></xocs:ref-info>
+<xocs:ref-info refid="bib72">
+<xocs:ref-normalized-surname>FINHOLT</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1955</xocs:ref-pub-year>
+<xocs:ref-first-fp>317</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib73">
+<xocs:ref-normalized-surname>ASHBY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1973</xocs:ref-pub-year>
+<xocs:ref-first-fp>2823</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib74">
+<xocs:ref-normalized-surname>COTTON</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>ADVANCEDINORGANICCHEMISTRY</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib75">
+<xocs:ref-normalized-surname>GREENWOOD</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>CHEMISTRYELEMENTS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib76">
+<xocs:ref-normalized-surname>FICHTNER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>286</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib77">
+<xocs:ref-normalized-surname>NEUMAIER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1966</xocs:ref-pub-year>
+<xocs:ref-first-fp>46</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib78">
+<xocs:ref-normalized-surname>WIBERG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1965</xocs:ref-pub-year>
+<xocs:ref-first-fp>189</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib79">
+<xocs:ref-normalized-surname>SUSLICK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1988</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>ULTRASOUNDCHEMICALPHYSICALBIOLOGICALEFFECTS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib80">
+<xocs:ref-normalized-surname>SUSLICK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>335</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>PROZOROVX2006X162</xocs:refkey3>
+<xocs:refkey4lp>PROZOROVX2006X162X171</xocs:refkey4lp>
+<xocs:refkey4ai>PROZOROVX2006X162XT</xocs:refkey4ai>
+<xocs:refkey5>PROZOROVX2006X162X171XT</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(05)01535-5</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805015355</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838805015355</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2005.05.056</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-08T03:48:30.291867-04:00</xocs:timestamp>
+<xocs:cover-date-start>2006-08-10</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838805015355-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015355/MAIN/application/pdf/ee9f34c0cb953c3847af2188b3bb1700/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015355/MAIN/application/pdf/ee9f34c0cb953c3847af2188b3bb1700/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>387547</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>10</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838805015355-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015355/PREVIEW/image/png/6f896555e3b2982f1ac23fb6f8fa5a38/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015355/PREVIEW/image/png/6f896555e3b2982f1ac23fb6f8fa5a38/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>72490</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015355-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015355/gr3/DOWNSAMPLED/image/jpeg/2cbfb276fb26563a541102a5a3370c99/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015355/gr3/DOWNSAMPLED/image/jpeg/2cbfb276fb26563a541102a5a3370c99/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>144146</xocs:filesize>
+<xocs:pixel-height>759</xocs:pixel-height>
+<xocs:pixel-width>367</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015355-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015355/gr3/THUMBNAIL/image/gif/3d3b5724ec2c54fcab92949f1e931a37/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015355/gr3/THUMBNAIL/image/gif/3d3b5724ec2c54fcab92949f1e931a37/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1628</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>45</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015355-gr1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015355/gr1/DOWNSAMPLED/image/gif/896caf9a7c47a28ab63850463d8f165b/gr1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015355/gr1/DOWNSAMPLED/image/gif/896caf9a7c47a28ab63850463d8f165b/gr1.gif</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>15086</xocs:filesize>
+<xocs:pixel-height>290</xocs:pixel-height>
+<xocs:pixel-width>366</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015355-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015355/gr1/THUMBNAIL/image/gif/93cd5033303ec52804b5ffe152d38c9b/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015355/gr1/THUMBNAIL/image/gif/93cd5033303ec52804b5ffe152d38c9b/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2711</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>118</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015355-gr2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015355/gr2/DOWNSAMPLED/image/gif/f4de40795f357bcb77d44cacf86bedd5/gr2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015355/gr2/DOWNSAMPLED/image/gif/f4de40795f357bcb77d44cacf86bedd5/gr2.gif</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>23045</xocs:filesize>
+<xocs:pixel-height>786</xocs:pixel-height>
+<xocs:pixel-width>365</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015355-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015355/gr2/THUMBNAIL/image/gif/d9b83264022208c45fe6185ed2cc37cc/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015355/gr2/THUMBNAIL/image/gif/d9b83264022208c45fe6185ed2cc37cc/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1006</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>43</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015355-gr4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015355/gr4/DOWNSAMPLED/image/gif/4dd40750a390293be65189ec5ffc3ff2/gr4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015355/gr4/DOWNSAMPLED/image/gif/4dd40750a390293be65189ec5ffc3ff2/gr4.gif</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>10288</xocs:filesize>
+<xocs:pixel-height>287</xocs:pixel-height>
+<xocs:pixel-width>364</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015355-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015355/gr4/THUMBNAIL/image/gif/2589fc7986f20c33e1c4535d5d245b96/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015355/gr4/THUMBNAIL/image/gif/2589fc7986f20c33e1c4535d5d245b96/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2020</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>118</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015355-gr6.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015355/gr6/DOWNSAMPLED/image/gif/5bdd2c94b13b80a5993d43dcf69a16bf/gr6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015355/gr6/DOWNSAMPLED/image/gif/5bdd2c94b13b80a5993d43dcf69a16bf/gr6.gif</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>11344</xocs:filesize>
+<xocs:pixel-height>284</xocs:pixel-height>
+<xocs:pixel-width>366</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015355-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015355/gr6/THUMBNAIL/image/gif/0578d9e8d5b4e4b1c22ae18822a4dacc/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015355/gr6/THUMBNAIL/image/gif/0578d9e8d5b4e4b1c22ae18822a4dacc/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2122</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>120</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015355-gr5.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015355/gr5/DOWNSAMPLED/image/gif/73a357c4f216c3965db4017196d58502/gr5.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015355/gr5/DOWNSAMPLED/image/gif/73a357c4f216c3965db4017196d58502/gr5.gif</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>26901</xocs:filesize>
+<xocs:pixel-height>790</xocs:pixel-height>
+<xocs:pixel-width>367</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015355-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015355/gr5/THUMBNAIL/image/gif/e5398d32de7dac0a25cd0d38f1de0b6b/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015355/gr5/THUMBNAIL/image/gif/e5398d32de7dac0a25cd0d38f1de0b6b/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1094</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>43</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>13208</aid>
+<ce:pii>S0925-8388(05)01535-5</ce:pii>
+<ce:doi>10.1016/j.jallcom.2005.05.056</ce:doi>
+<ce:copyright type="full-transfer" year="2005">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Temperature programmed desorption (TPD) curves obtained at 5<ce:hsp sp="0.25"></ce:hsp>°C/min for just prepared (0th cycle discharge) samples of NaAlH<ce:inf loc="post">4</ce:inf> under the following conditions: two TPD curves for un-doped samples of NaAlH<ce:inf loc="post">4</ce:inf> irradiated with ultrasound in decalin and then either ball milled or not; four TPD curves for un-ball milled samples of NaAlH<ce:inf loc="post">4</ce:inf> wet doped, sonochemically doped in decalin, sonochemically doped in decalin with diethyl ether (Et<ce:inf loc="post">2</ce:inf>O), and sonochemically doped in decalin with tetrahydrofuran (THF), all doped with 2<ce:hsp sp="0.25"></ce:hsp>mol% Ti; four TPD curves for ball milled samples of NaAlH<ce:inf loc="post">4</ce:inf> wet doped, sonochemically doped in decalin, sonochemically doped in decalin with Et<ce:inf loc="post">2</ce:inf>O, and sonochemically doped in decalin with THF, all doped with 2<ce:hsp sp="0.25"></ce:hsp>mol% Ti. Sonochemically doped samples are denoted with ‘)))’; sonochemical irradiation was performed for 120<ce:hsp sp="0.25"></ce:hsp>min at 258<ce:hsp sp="0.25"></ce:hsp>K; and high energy ball milling was performed for 120<ce:hsp sp="0.25"></ce:hsp>min at ambient temperature.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Constant temperature desorption (CTD) curves obtained on just doped (0th cycle discharge) and ball milled samples of NaAlH<ce:inf loc="post">4</ce:inf> at (A) 90<ce:hsp sp="0.25"></ce:hsp>°C, (B) 110<ce:hsp sp="0.25"></ce:hsp>°C, and (C) 130<ce:hsp sp="0.25"></ce:hsp>°C under the following conditions: wet doped, sonochemically doped in decalin with Et<ce:inf loc="post">2</ce:inf>O, and sonochemically doped in decalin with THF, all doped with 2<ce:hsp sp="0.25"></ce:hsp>mol% Ti. Sonochemically doped samples are denoted with ‘)))’; sonochemical irradiation was performed for 120<ce:hsp sp="0.25"></ce:hsp>min at 258<ce:hsp sp="0.25"></ce:hsp>K; and high energy ball milling was performed for 120<ce:hsp sp="0.25"></ce:hsp>min at ambient temperature.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Scanning electron microscopy (SEM) images obtained for just doped (0th cycle discharge) and ball milled samples of NaAlH<ce:inf loc="post">4</ce:inf> under the following conditions: (A) wet doped, (B) sonochemically doped in decalin with Et<ce:inf loc="post">2</ce:inf>O, and (C) sonochemically doped in decalin with THF, all doped with 2<ce:hsp sp="0.25"></ce:hsp>mol% Ti. Sonochemical irradiation was performed for 120<ce:hsp sp="0.25"></ce:hsp>min at 258<ce:hsp sp="0.25"></ce:hsp>K; and high energy ball milling was performed for 120<ce:hsp sp="0.25"></ce:hsp>min at ambient temperature.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Temperature programmed desorption (TPD) curves obtained at 5<ce:hsp sp="0.25"></ce:hsp>°C<ce:hsp sp="0.25"></ce:hsp>min<ce:sup loc="post">−1</ce:sup> for just doped (0th cycle discharge), ball milled and cycled (5th cycle discharge) samples of NaAlH<ce:inf loc="post">4</ce:inf> under the following conditions: wet doped and sonochemically doped in decalin with THF, all doped with 2<ce:hsp sp="0.25"></ce:hsp>mol% Ti. Sonochemically doped samples are denoted with ‘)))’; sonochemical irradiation was performed for 120<ce:hsp sp="0.25"></ce:hsp>min at 258<ce:hsp sp="0.25"></ce:hsp>K; and high energy ball milling was performed for 120<ce:hsp sp="0.25"></ce:hsp>min at ambient temperature.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Constant temperature desorption (CTD) curves obtained on just doped (0th cycle discharge), ball milled and cycled (5th cycle discharge) samples of NaAlH<ce:inf loc="post">4</ce:inf> at (A) 90<ce:hsp sp="0.25"></ce:hsp>°C, (B) 110<ce:hsp sp="0.25"></ce:hsp>°C, and (C) 130<ce:hsp sp="0.25"></ce:hsp>°C under the following conditions: wet doped and sonochemically doped in decalin with THF, all doped with 2<ce:hsp sp="0.25"></ce:hsp>mol% Ti. Sonochemically doped samples are denoted with ‘)))’; sonochemical irradiation was performed for 120<ce:hsp sp="0.25"></ce:hsp>min at 258<ce:hsp sp="0.25"></ce:hsp>K; and high energy ball milling was performed for 120<ce:hsp sp="0.25"></ce:hsp>min at ambient temperature.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Qualitative hydrogenation and dehydrogenation rates obtained during four charge (P<ce:inf loc="post">o</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1250<ce:hsp sp="0.25"></ce:hsp>psia) and four discharge (<ce:italic>P</ce:italic>
+<ce:inf loc="post">o</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>15<ce:hsp sp="0.25"></ce:hsp>psia) cycles carried out at 125<ce:hsp sp="0.25"></ce:hsp>°C for ball milled samples of NaAlH<ce:inf loc="post">4</ce:inf> wet doped and sonochemically doped in decalin with THF, all doped with 2<ce:hsp sp="0.25"></ce:hsp>mol% Ti. The filled symbols correspond to the sonochemically doped sample; the empty symbols correspond to the wet doped sample.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+</ce:floats>
+<ce:title>Sonochemical doping of Ti-catalyzed sodium aluminum hydride</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>Tanya</ce:given-name>
+<ce:surname>Prozorov</ce:surname>
+</ce:author>
+<ce:author>
+<ce:given-name>Jun</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</ce:author>
+<ce:author>
+<ce:given-name>Armin D.</ce:given-name>
+<ce:surname>Ebner</ce:surname>
+</ce:author>
+<ce:author>
+<ce:given-name>James A.</ce:given-name>
+<ce:surname>Ritter</ce:surname>
+<ce:cross-ref refid="cor1">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation>
+<ce:textfn>Department of Chemical Engineering, Swearingen Engineering Center, University of South Carolina, Columbia, South Carolina 29208, USA</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>⁎</ce:label>
+<ce:text>Corresponding author. Tel.: +1 803 777 3590; fax: +1 803 777 8265.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="25" month="3" year="2005"></ce:date-received>
+<ce:date-accepted day="25" month="5" year="2005"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">A new and very effective sonochemical technique has been developed for doping NaAlH<ce:inf loc="post">4</ce:inf> with metal catalyst prior to high energy ball milling. When NaAlH<ce:inf loc="post">4</ce:inf> was sonochemically doped with 2<ce:hsp sp="0.25"></ce:hsp>mol% TiCl<ce:inf loc="post">3</ce:inf> in a decalin slurry using THF as a co-solvent and then ball milled, the dehydrogenation temperature in the 90–150<ce:hsp sp="0.25"></ce:hsp>°C range decreased by about 30<ce:hsp sp="0.25"></ce:hsp>°C during temperature programmed desorption (5<ce:hsp sp="0.25"></ce:hsp>°C/min) compared to a conventionally wet doped and ball milled sample. Similarly, during constant temperature desorption the dehydrogenation kinetics of sonochemically doped and ball milled samples of NaAlH<ce:inf loc="post">4</ce:inf> increased by factors of 9.0, 5.1 and 3.1, respectively, at 90, 110 and 130<ce:hsp sp="0.25"></ce:hsp>°C over those exhibited by conventionally wet doped and ball milled samples. These marked kinetic enhancements persisted through several dehydrogenation/hydrogenation cycles, now with corresponding increases by factors of 16.1, 4.5 and 3.5, and with a striking factor of four improvement in the hydrogenation kinetics also realized at 1250<ce:hsp sp="0.25"></ce:hsp>psia and 125<ce:hsp sp="0.25"></ce:hsp>°C. The observed kinetic effect was interpreted in terms of the complementary mechanochemical effects imparted to the sample by high-intensity ultrasound followed by high energy ball milling. It was surmised that sonochemical doping induced superior mixing of the titanium(III) chloride and sodium aluminum hydride reagents, thereby fostering the formation of smaller catalyst and NaAlH<ce:inf loc="post">4</ce:inf> particles. This ensured a finer dispersion of the catalyst particles over the surfaces of the NaAlH<ce:inf loc="post">4</ce:inf> crystals prior to and during the subsequent high energy ball milling process, which greatly improved the mechanochemical effectiveness of ball milling. Strong evidence in support of this supposition stemmed from sonochemical doping being only marginally more effective than conventional wet doping without subsequent ball milling, and scanning electron microscopy images revealing the formation of the factor of ten smaller NaAlH<ce:inf loc="post">4</ce:inf> particles for the sonochemically doped and ball milled samples.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Alanates</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Hydrogen storage</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Sodium aluminum hydride</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Titanium chloride</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Sonochemical doping</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Wet doping</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Dehydrogenation and hydrogenation kinetic enhancement</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Nanoparticles</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">The complex hydride, sodium aluminum hydride (NaAlH<ce:inf loc="post">4</ce:inf>) is part of a new class of reversible hydrogen storage materials referred to as alanates. When doped with a Ti catalyst <ce:cross-refs refid="bib1 bib2 bib3 bib4 bib5">[1–5]</ce:cross-refs>, this material discharges reasonable amounts of hydrogen at atmospheric pressure at about 80<ce:hsp sp="0.25"></ce:hsp>°C lower than un-doped NaAlH<ce:inf loc="post">4</ce:inf>
+<ce:cross-ref refid="bib6">[6]</ce:cross-ref>. More importantly, the Ti catalyst also facilitates a kinetic pathway for reversibility, with reasonable charge rates achieved at around 125<ce:hsp sp="0.25"></ce:hsp>°C and 1200<ce:hsp sp="0.25"></ce:hsp>psia <ce:cross-refs refid="bib3 bib7 bib8 bib9 bib10">[3,7–10]</ce:cross-refs>. Although this material has a theoretical potential to reversibly store 5.6<ce:hsp sp="0.25"></ce:hsp>wt% hydrogen, numerous studies have shown that the state-of-the-art is around 3<ce:hsp sp="0.25"></ce:hsp>wt% reversible hydrogen storage at reasonable temperatures, pressures, and discharge and charge rates <ce:cross-refs refid="bib3 bib6 bib7 bib8 bib9 bib10">[3,6–10]</ce:cross-refs>.</ce:para>
+<ce:para view="all">A 3-wt% reversible hydrogen storage capacity is currently below that being sought for most transportation applications <ce:cross-ref refid="bib3">[3]</ce:cross-ref>. Nevertheless, this alanate compound serves as a model complex hydride material, with understanding of the catalytic effect and ways to improve its kinetics continually being sought. Hence, any improvements in the dehydrogenation and hydrogenation kinetics of this metal-doped NaAlH<ce:inf loc="post">4</ce:inf> system, which necessarily translates into higher kinetic rates at lower temperatures and charge pressures, might bring this or other complex hydride materials closer to commercial applications.</ce:para>
+<ce:para view="all">The first major improvement in the dehydrogenation and hydrogenation kinetics of this metal-doped NaAlH<ce:inf loc="post">4</ce:inf> system, after that reported by Bogdanovic and Schwickardi <ce:cross-ref refid="bib6">[6]</ce:cross-ref> based on a simple wet doping procedure, was achieved through the use of a high energy ball milling doping procedure as first proposed by Jenson and co-workers <ce:cross-ref refid="bib5">[5]</ce:cross-ref>. High energy ball milling has since been used in essentially all studies of metal catalyzed alanates, emerging as the preferred doping technique <ce:cross-refs refid="bib2 bib5 bib7 bib8 bib9 bib10 bib11 bib12 bib13 bib14 bib15 bib16 bib17 bib18 bib19 bib20">[2,5,7–20]</ce:cross-refs>. Further dehydrogenation and hydrogenation kinetic enhancements have been achieved through the use of co-metal dopants such as Fe and Zr <ce:cross-refs refid="bib21 bib22">[21,22]</ce:cross-refs> with Ti <ce:cross-refs refid="bib9 bib10 bib22 bib23">[9,10,22,23]</ce:cross-refs>, with Ti being the best single metal catalyst when compared to literally dozens of different metal catalysts <ce:cross-refs refid="bib5 bib10 bib13 bib20 bib23">[5,10,13,20,23]</ce:cross-refs>. Faster discharge and charge kinetics have also been achieved through the use of graphite as a co-dopant with Ti, as first shown by Wang et al. <ce:cross-ref refid="bib20">[20]</ce:cross-ref> and then by Dehouche et al <ce:cross-ref refid="bib24">[24]</ce:cross-ref>. One common factor that stands out among these more recent studies is that the reported enhancements simply augmented the results obtained by high energy ball milling, and thus depended on its use <ce:cross-refs refid="bib5 bib15 bib16 bib17 bib25 bib26 bib27 bib28 bib29 bib30 bib31">[5,15–17,25–31]</ce:cross-refs>.</ce:para>
+<ce:para view="all">High energy ball milling utilizes a direct transfer of mechanical energy from a metal or ceramic ball to a material that it comes in contact with through high energy collisions. These collisions create intense localized stresses and strains that induce structural changes and chemical reactions within the material, even at ambient temperature <ce:cross-refs refid="bib32 bib33 bib34 bib35 bib36 bib37">[32–37]</ce:cross-refs>. For example, structural changes associated with repeated fracturing and cold welding of a material has lead to highly metastable amorphous alloys and nanostructured intermetallic compounds <ce:cross-refs refid="bib31 bib32 bib34 bib35 bib38 bib39 bib40 bib41 bib42 bib43 bib44 bib45">[31,32,34,35,38–45]</ce:cross-refs>. In addition, collision-induced chemical reactions has improved the hydrogenation properties of several hydrogen absorbing alloys <ce:cross-ref refid="bib46">[46]</ce:cross-ref> or even facilitated the low-temperature formation of novel hydrides with otherwise unstable alloy phases through reactive ball milling in a hydrogen atmosphere <ce:cross-refs refid="bib47 bib48">[47,48]</ce:cross-refs>. The similarities between high energy ball milling induced mechanochemical effects and those produced from the irradiation of solid-liquid suspensions (or slurries) with high intensity ultrasonic waves are striking <ce:cross-refs refid="bib49 bib50 bib51 bib52 bib53 bib54 bib55">[49–55]</ce:cross-refs>. Hence, it is surprising that high intensity ultrasound has not been investigated for the sonochemical doping of NaAlH<ce:inf loc="post">4</ce:inf> with metal catalyst.</ce:para>
+<ce:para view="all">Ultrasonically-induced acoustic cavitation produces intense turbulent flow and shock waves, which result in extremely rapid interfacial mass transfer <ce:cross-refs refid="bib56 bib57 bib58 bib59">[56–59]</ce:cross-refs>. The shock waves also foster high-velocity collisions between suspended particles, almost instantaneously creating extremely high temperatures and subsequent fast cooling rates localized at the point of impact <ce:cross-refs refid="bib56 bib60 bib61 bib62">[56,60–62]</ce:cross-refs>. The estimated speed of the colliding particles approaches half the speed of sound in the liquid, with the resulting high-velocity collisions causing morphological changes in a variety of materials, including structural as well as chemical changes <ce:cross-refs refid="bib56 bib60 bib61 bib62">[56,60–62]</ce:cross-refs>. Clearly, high intensity ultrasound and high energy ball milling should exhibit similar or complementary effects during the processing of materials, like in the processing of Ti-doped NaAlH<ce:inf loc="post">4</ce:inf>.</ce:para>
+<ce:para view="all">Therefore, the objective of this work is to report for the first time the use of heterogeneous sonochemistry as an effective means of doping NaAlH<ce:inf loc="post">4</ce:inf> with Ti catalyst. It is shown that when high intensity ultrasound is used prior to high energy ball milling to irradiate a decalin slurry containing a co-solvent, such as tetrahydrofuran or diethyl ether, and a mixture of sodium aluminum hydride and titanium(III) chloride, the resulting sonochemically doped and ball milled sample exhibits a striking enhancement in both the dehydrogenation and hydrogenation kinetics, persisting even after several hydrogenation/dehydrogenation cycles. A series of temperature programmed desorption (TPD) and constant temperature desorption (CTD) experiments are presented in this preliminary work to clearly reveal the pronounced effects of this new sonochemical doping technique when combined with high energy ball milling. Also, a plausible explanation is offered as to the cause of the observed kinetic enhancements associated with the complementary use of the new heterogeneous sonochemical doping technique with high energy ball milling.</ce:para>
+</ce:section>
+<ce:section role="materials-methods" view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental</ce:section-title>
+<ce:para view="all">Decanydronaphthalene (decalin) (Aldrich, 98% <ce:italic>cis</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>trans</ce:italic> mixture, anhydrous) was distilled over NaAlH<ce:inf loc="post">4</ce:inf> and degassed under dry argon flow for several hours. Pentane (Aldrich, 99.5%, anhydrous) was distilled over NaAlH<ce:inf loc="post">4</ce:inf> under argon. TiCl<ce:inf loc="post">3</ce:inf> (Aldrich, 99.99%, anhydrous), tetrahydrofuran (THF) (Aldrich, 99.5%, anhydrous), dodecane (Aldrich, 99.5%, anhydrous), and diethyl ether (Aldrich, 99.5%, anhydrous) were all used as received. NaAlH<ce:inf loc="post">4</ce:inf> powder (Fluka, 99.5%) was recrystallized from a 3<ce:hsp sp="0.25"></ce:hsp>M THF solution (Aldrich, 99.9%, anhydrous), filtered through 0.7<ce:hsp sp="0.25"></ce:hsp>μm filter paper, and vacuum-dried. All sample handling procedures were performed in a nitrogen-filled glove box.</ce:para>
+<ce:para view="all">A conventional wet doping procedure was performed by mixing 1.007<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>0.002<ce:hsp sp="0.25"></ce:hsp>g (18.64<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>0.1<ce:hsp sp="0.25"></ce:hsp>mmol) of NaAlH<ce:inf loc="post">4</ce:inf> with 0.057<ce:hsp sp="0.25"></ce:hsp>g (3.80<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>10<ce:sup loc="post">−4</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>mol) of TiCl<ce:inf loc="post">3</ce:inf> in 10<ce:hsp sp="0.25"></ce:hsp>mL of THF to produce a sample doped with 2<ce:hsp sp="0.25"></ce:hsp>mol% titanium; the molar content of the catalyst was based on the Na or Al content in NaAlH<ce:inf loc="post">4</ce:inf>. NaAlH<ce:inf loc="post">4</ce:inf> and the catalyst were then mixed using a mortar and pestle for about 30<ce:hsp sp="0.25"></ce:hsp>min, or until the material appeared to be completely dry; it was then subjected to high energy ball milling.</ce:para>
+<ce:para view="all">A new sonochemical doping procedure was developed and carried out in a 50<ce:hsp sp="0.25"></ce:hsp>mL custom sonochemical flask, where 1.007<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>0.002<ce:hsp sp="0.25"></ce:hsp>g (18.64<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>0.1<ce:hsp sp="0.25"></ce:hsp>mmol) of NaAlH<ce:inf loc="post">4</ce:inf> were suspended in a mixture of 40<ce:hsp sp="0.25"></ce:hsp>mL of decahydranapthalene and 10<ce:hsp sp="0.25"></ce:hsp>mL of THF. To this suspension, 0.059<ce:hsp sp="0.25"></ce:hsp>g (3.82<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>10<ce:sup loc="post">−4</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>mol) of TiCl<ce:inf loc="post">3</ce:inf> were added to produce doped samples containing 2<ce:hsp sp="0.25"></ce:hsp>mol% titanium. The flask was sealed, taken out of the glovebox and briefly sparged with dry argon. Sonochemical doping of the samples was performed for 120<ce:hsp sp="0.25"></ce:hsp>min at 258<ce:hsp sp="0.25"></ce:hsp>K by using a direct immersion ultrasonic horn (Sonics VCX-750 at 20<ce:hsp sp="0.25"></ce:hsp>kHz and ∼50<ce:hsp sp="0.25"></ce:hsp>W/cm<ce:sup loc="post">2</ce:sup>) under moderate argon flow (30<ce:hsp sp="0.25"></ce:hsp>mL/min). The resulting ultrasonically treated powder was transferred to the glovebox, collected by filtration on a fritted glass funnel, repeatedly washed with dry pentane (6<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>30<ce:hsp sp="0.25"></ce:hsp>mL), and dried overnight at room temperature.</ce:para>
+<ce:para view="all">High energy ball milling of the dry powders was carried out for 120<ce:hsp sp="0.25"></ce:hsp>min using a SPEX 8000 high energy ball mill. This mill was loaded with a 65<ce:hsp sp="0.25"></ce:hsp>cm<ce:sup loc="post">3</ce:sup> stainless steel (SS) vial containing approximately 1<ce:hsp sp="0.25"></ce:hsp>g of powder and a single SS ball (8.2<ce:hsp sp="0.25"></ce:hsp>g) with a diameter of 1.3<ce:hsp sp="0.25"></ce:hsp>cm. High energy ball milling was also carried out in a nitrogen filled glove box.</ce:para>
+<ce:para view="all">Thermogravimetric analysis was carried out with a Perkin Elmer, TGA 7 Series thermogravimetric analyzer (TGA). The dehydrogenation rates of all NaAlH<ce:inf loc="post">4</ce:inf> samples were measured at atmospheric pressure under helium flow (∼60<ce:hsp sp="0.25"></ce:hsp>mL/min) in temperature programmed desorption (TPD) and constant temperature desorption (CTD) modes. For TPD runs, the samples were heated to 250<ce:hsp sp="0.25"></ce:hsp>°C at a ramping rate of 5<ce:hsp sp="0.25"></ce:hsp>°C/min after purging with helium for 1<ce:hsp sp="0.25"></ce:hsp>min. For CTD runs, a similar procedure was followed except that the samples were heated rapidly to the destination temperature and held at that temperature for a predetermined time. Approximately 10<ce:hsp sp="0.25"></ce:hsp>mg of sample were used in each TPD and CTD measurement.</ce:para>
+<ce:para view="all">A 3000<ce:hsp sp="0.25"></ce:hsp>psia Parr reactor, installed in an automated pressure and temperature cycling system, was used to evaluate the dehydrogenation and hydrogenation kinetics of various doped and ball milled samples of NaAlH<ce:inf loc="post">4</ce:inf> during and after cycling. The reactor conditions were continuously monitored and controlled with a computer. A sample of doped and ball milled alanate was loaded into the reactor vessel inside the nitrogen filled glove box. The reactor was then sealed, removed from the glove box and connected to the automated cycling system.</ce:para>
+<ce:para view="all">A typical sequence of dehydrogenation/hydrogenation cycles was carried out by first discharging a sample by heating the reactor to 125<ce:hsp sp="0.25"></ce:hsp>°C and holding it at this temperature for 120<ce:hsp sp="0.25"></ce:hsp>min. During this time, the pressure in the sealed vessel increased from 15<ce:hsp sp="0.25"></ce:hsp>psia to a slightly higher pressure, indicating dehydrogenation had occurred. This is referred to as the 0th cycle discharge. Then, a sample was hydrogenated (charged) by pressurizing the reactor with hydrogen (National Welders, HP Grade) to 1250<ce:hsp sp="0.25"></ce:hsp>psia while maintaining the temperature at 125<ce:hsp sp="0.25"></ce:hsp>°C and holding it at this temperature for 75<ce:hsp sp="0.25"></ce:hsp>min. During this time, the pressure in the sealed vessel decreased from 1250<ce:hsp sp="0.25"></ce:hsp>psia to a slightly lower pressure, indicating hydrogenation had occurred. This step is referred to as the 1st cycle charge. The corresponding 1st cycle discharge was carried out by depressurizing the reactor to about 20<ce:hsp sp="0.25"></ce:hsp>psia while maintaining the temperature at 125<ce:hsp sp="0.25"></ce:hsp>°C and holding it this temperature for 120<ce:hsp sp="0.25"></ce:hsp>min. The cycling procedure was repeated several times in this manner. After completing the 5th charge cycle, the sample was maintained at 1250<ce:hsp sp="0.25"></ce:hsp>psia to prevent dehydrogenation while the temperature was reduced to room temperature (∼25<ce:hsp sp="0.25"></ce:hsp>°C). Then, the pressure was decreased to atmospheric pressure (∼15<ce:hsp sp="0.25"></ce:hsp>psia) and the sealed reactor was transferred to the glove box to remove the sample for subsequent TPD and CTD studies.</ce:para>
+<ce:para view="all">Scanning electron microscope (SEM) images of all samples before and after ball milling were obtained using an ESEM FEI Quanta 200 scanning electron microscope equipped with energy-dispersive X-ray (EDX) spectroscopy, which was used for determining the chemical composition of some of the samples. Again, all of these air and moisture sensitive NaAlH<ce:inf loc="post">4</ce:inf> samples were prepared for SEM examination in the nitrogen filled glove box by loading them on two-sided carbon tape, mounting them on sample holders, coating them with several drops of a 50:50 (v/v) mixture of pentane and dodecane to ensure formation of a protective liquid hydrocarbon layer, and sealing them in double-walled individual screw-top containers. The carbonaceous layer essentially protected these samples while they were unavoidably, but only briefly, exposed to ambient air when mounting the sample holders in the Au-sputtering device prior to degassing, as described elsewhere <ce:cross-ref refid="bib20">[20]</ce:cross-ref>.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:para view="all">A series of TPD and CTD experiments were carried out to clearly reveal the effect of the sonochemical doping technique on the dehydrogenation and hydrogenation kinetics of Ti-catalyzed NaAlH<ce:inf loc="post">4</ce:inf>. <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor> displays three sets of TPD curves obtained from just prepared, un-cycled samples of NaAlH<ce:inf loc="post">4</ce:inf>. The first set consists of two TPD curves for un-doped samples of NaAlH<ce:inf loc="post">4</ce:inf> irradiated with ultrasound in decalin and then either ball milled or not. The first point to emphasize from these two TPD curves is that the ultrasonic horn did not provide any metal catalyst to the NaAlH<ce:inf loc="post">4</ce:inf> during the sonication process. Very high dehydrogenation temperatures were exhibited by these samples whether ball milled or not, with some improvement noted after ball milling. These results corroborate the findings obtained from EDX analyses of these same samples (not shown), which did not reveal the presence of titanium or any other impurities that may have originated from the abrasion of the direct-immersion Ti horn during sonication.</ce:para>
+<ce:para view="all">The next point to make is that the effect of sonochemical doping is not very effective without subsequent high energy ball milling of the sample. This point is made with the second set of curves that consist of four TPD curves for un-ball milled samples of NaAlH<ce:inf loc="post">4</ce:inf> wet doped, sonochemically doped in decalin, sonochemically doped in decalin with diethyl ether (Et<ce:inf loc="post">2</ce:inf>O), and sonochemically doped in decalin with tetrahydrofuran (THF), all doped with 2<ce:hsp sp="0.25"></ce:hsp>mol% Ti. These curves all fell within 15<ce:hsp sp="0.25"></ce:hsp>°C of each other with significant dehydrogenation not occurring until about 160<ce:hsp sp="0.25"></ce:hsp>°C and then persisting up to about 190<ce:hsp sp="0.25"></ce:hsp>°C in all three cases. In the 170<ce:hsp sp="0.25"></ce:hsp>°C range, the lowest dehydrogenation temperature was obtained with the sample sonochemically doped in decalin with THF, followed by that sonochemically doped in decalin with Et<ce:inf loc="post">2</ce:inf>O. The samples sonochemically doped in decalin and wet doped both exhibited higher dehydrogenation temperatures, with similar behaviors persisting once the melting point of NaAlH<ce:inf loc="post">4</ce:inf> was reached at about 180<ce:hsp sp="0.25"></ce:hsp>°C. Clearly, sonochemical doping without a co-solvent present was essentially equivalent to wet doping when neither doping technique was combined with high energy ball milling. The positive effect of the co-solvent is explained later.</ce:para>
+<ce:para view="all">The final and most important point to emphasize is that the effect of sonochemical doping can be very effective when combined with subsequent high energy ball milling of the sample. This point is made with the third set of curves that consist of four TPD curves for ball milled samples of NaAlH<ce:inf loc="post">4</ce:inf> wet doped, sonochemically doped in decalin, sonochemically doped in decalin with Et<ce:inf loc="post">2</ce:inf>O, and sonochemically doped in decalin with THF, all doped with 2<ce:hsp sp="0.25"></ce:hsp>mol% Ti. These curves all exhibited significantly lower dehydrogenation temperatures than the doped but not ball milled samples. The lowest dehydrogenation temperature was obtained with the sample sonochemically doped in decalin with THF, which was 30<ce:hsp sp="0.25"></ce:hsp>°C lower than the wet doped and ball milled sample and 45<ce:hsp sp="0.25"></ce:hsp>°C lower that its un-ball milled counterpart, both striking effects. The next lowest dehydrogenation temperature was exhibited by the sample sonochemically doped in decalin with Et<ce:inf loc="post">2</ce:inf>O, which was only 5<ce:hsp sp="0.25"></ce:hsp>°C lower than the wet doped and ball milled sample, but still 35<ce:hsp sp="0.25"></ce:hsp>°C lower that its un-ball milled counterpart. The third lowest dehydrogenation temperature was obtained from the wet doped and ball milled sample, with a dehydrogenation temperature 38<ce:hsp sp="0.25"></ce:hsp>°C lower than its un-ball milled counterpart. Finally, the sample sonochemically doped in just decalin did not fare as well as the wet doped sample, exhibiting an 8<ce:hsp sp="0.25"></ce:hsp>°C higher dehydrogenation temperature; but it was still 28<ce:hsp sp="0.25"></ce:hsp>°C lower that its un-ball milled counterpart. This last result was most likely due to the limited production of catalyst during sonication, as NaAlH<ce:inf loc="post">4</ce:inf> and TiCl<ce:inf loc="post">3</ce:inf>, which must react together to produce the catalyst (see below), are both insoluble in decalin. Wet doping performed better in this regard, because NaAlH<ce:inf loc="post">4</ce:inf> is at least soluble in THF, although TiCl<ce:inf loc="post">3</ce:inf> is not. This reactant solubility issue with respect to sonochemical doping is explained in more detail later. Clearly, sonochemical doping when combined with high energy ball milling produced an effect that was far greater than that associated with just high energy ball milling alone, especially when the proper co-solvent was used. An explanation for this complementary effect of high intensity ultrasound when combined with high energy ball milling is provided later.</ce:para>
+<ce:para view="all">The TDP curves shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref> prove without a doubt that the combined use of sonochemical doping and high energy ball milling produced a material with enhanced dehydrogenation kinetics. The complementary effects of these high energy materials processing steps are further substantiated by the independently obtained CTD curves provided in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor>. <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref> compares three sets of CTD curves with each set corresponding to a different temperature, i.e., 90<ce:hsp sp="0.25"></ce:hsp>°C (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>A), 110<ce:hsp sp="0.25"></ce:hsp>°C (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>B), and 130<ce:hsp sp="0.25"></ce:hsp>°C (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>C). The three curves within each set consist of CTD curves for ball milled samples of NaAlH<ce:inf loc="post">4</ce:inf> wet doped, sonochemically doped in decalin with Et<ce:inf loc="post">2</ce:inf>O, and sonochemically doped in decalin with THF, all doped with 2<ce:hsp sp="0.25"></ce:hsp>mol% Ti. Noticeably improved dehydrogenation kinetics were observed at all three temperatures for both of the sonochemically doped NaAlH<ce:inf loc="post">4</ce:inf> samples over those of the wet doped sample. The sample sonochemically doped in decalin with THF consistently exhibited the best behavior, with the most pronounced effects observed at 90<ce:hsp sp="0.25"></ce:hsp>°C, followed by those at 110<ce:hsp sp="0.25"></ce:hsp>°C, and then by those at 130<ce:hsp sp="0.25"></ce:hsp>°C. For example, at 90, 110, and 130<ce:hsp sp="0.25"></ce:hsp>°C, the desorption rates displayed by the sample sonochemically doped in decalin with THF were, respectively, 9.0, 5.1 and 3.1 times faster than those of the wet doped sample.</ce:para>
+<ce:para view="all">An analysis of the amount of hydrogen released during the very linear regions of the CTD curves shown in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref> was consistent with that corresponding only to the first dehydrogenation reaction, as discussed elsewhere <ce:cross-refs refid="bib20 bib63">[20,63]</ce:cross-refs>. In <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>A, the sample sonochemically doped in decalin with THF released approximately 2.0<ce:hsp sp="0.25"></ce:hsp>wt% hydrogen from the first decomposition reaction over 80<ce:hsp sp="0.25"></ce:hsp>min. Although 2.0<ce:hsp sp="0.25"></ce:hsp>wt% hydrogen was below the theoretical limit of the first reaction (2.9<ce:hsp sp="0.25"></ce:hsp>wt%) <ce:cross-ref refid="bib63">[63]</ce:cross-ref>, the corresponding discharge rate of 1.8<ce:hsp sp="0.25"></ce:hsp>wt% H<ce:inf loc="post">2</ce:inf>/h significantly surpassed any rate reported to date for NaAlH<ce:inf loc="post">4</ce:inf> doped with as little as 2<ce:hsp sp="0.25"></ce:hsp>mol% TiCl<ce:inf loc="post">3</ce:inf> at 90<ce:hsp sp="0.25"></ce:hsp>°C <ce:cross-refs refid="bib2 bib5 bib8 bib11 bib16 bib17 bib18 bib19 bib64">[2,5,8,11,16–19,64]</ce:cross-refs>. In contrast, the sample sonochemically doped in decalin with Et<ce:inf loc="post">2</ce:inf>O exhibited far slower dehydrogenation kinetics, releasing 0.64<ce:hsp sp="0.25"></ce:hsp>wt% H<ce:inf loc="post">2</ce:inf>/h; and the wet doped sample released the least amount of hydrogen at an exceedingly slow rate of 0.22<ce:hsp sp="0.25"></ce:hsp>wt% H<ce:inf loc="post">2</ce:inf>/h, with this latter rate being essentially state-of-the-art at 90<ce:hsp sp="0.25"></ce:hsp>°C for a ball milled sample of NaAlH<ce:inf loc="post">4</ce:inf> containing 2<ce:hsp sp="0.25"></ce:hsp>mol% Ti as the catalyst. Similarly fast hydrogen discharge rates of 7.4 and 28.7<ce:hsp sp="0.25"></ce:hsp>wt% H<ce:inf loc="post">2</ce:inf>/h were exhibited, respectively, at 110 and 130<ce:hsp sp="0.25"></ce:hsp>°C by the samples sonochemically doped in decalin with THF, compared to 1.4 (110<ce:hsp sp="0.25"></ce:hsp>°C) and 8.6 (130<ce:hsp sp="0.25"></ce:hsp>°C) wt% H<ce:inf loc="post">2</ce:inf>/h by the samples wet doped, which again represent the state-of-the-art at these temperatures and Ti doping levels.</ce:para>
+<ce:para view="all">It is clear from the results presented in <ce:cross-refs refid="fig1 fig2">Figs. 1 and 2</ce:cross-refs> that sonochemical doping without ball milling is only marginally better than wet doping without ball milling. It is also clear that sonochemical doping with ball milling causes a marked enhancement in the dehydrogenation kinetics beyond that which could be obtained simply by ball milling alone. At the outset it was surmised that sonochemical doping induced superior mixing of the titanium(III) chloride and sodium aluminum hydride reagents, thereby fostering the formation of smaller catalyst and NaAlH<ce:inf loc="post">4</ce:inf> particles. This ensured a finer dispersion of the catalyst particles over the surfaces of the NaAlH<ce:inf loc="post">4</ce:inf> crystals prior to and during the subsequent high energy ball milling process, which greatly improved the mechanochemical effectiveness of ball milling. Strong evidence in support of this supposition stems not only from sonochemical doping being only slightly more effective than conventional wet doping without subsequent ball milling (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>), but also from scanning electron microscopy (SEM) images revealing the formation of the smaller NaAlH<ce:inf loc="post">4</ce:inf> particles for the sonochemically doped and ball milled samples. These SEM images are shown in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor>.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref> displays three SEM images of ball milled samples of NaAlH<ce:inf loc="post">4</ce:inf> (A) wet doped, (B) sonochemically doped in decalin with Et<ce:inf loc="post">2</ce:inf>O, and (C) sonochemically doped in decalin with THF, all doped with 2<ce:hsp sp="0.25"></ce:hsp>mol% Ti. In general, the rather large agglomerates of particles from the wet doped sample that are visible in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>A were typically much larger than 20<ce:hsp sp="0.25"></ce:hsp>μm in diameter. These particles were greatly reduced in size to less than 10<ce:hsp sp="0.25"></ce:hsp>μm in diameter for the sample sonochemically doped in decalin with Et<ce:inf loc="post">2</ce:inf>O (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>B), and to much less than 2<ce:hsp sp="0.25"></ce:hsp>μm in diameter for the sample sonochemically doped in decalin with THF (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>C). In the latter case, agglomerates of particles were conspicuously absent from any of the SEM images taken of this material. These results corroborate the CTD curves shown in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>, where the dehydrogenation kinetics increased in the same order as the particle sizes decreased in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>. They also agree with the first set of TPD curves discussed with reference to <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>. Clearly, sonochemical irradiation of decalin slurries of NaAlH<ce:inf loc="post">4</ce:inf> led to a significant reduction of particle size. However, it was also suspected that sonochemical doping produced very finely divided Ti catalyst particles, which allowed them to be more greatly dispersed over the NaAlH<ce:inf loc="post">4</ce:inf> particles. This improved the effectiveness of the high energy ball milling process, especially since the surface area of the NaAlH<ce:inf loc="post">4</ce:inf> particles had substantially increased due to their smaller sizes (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>). It was further suspected that the catalyst particle size was related, in part, to the solubility of the reagents in the sonochemical slurry, as explained below.</ce:para>
+<ce:para view="all">It was surmised that for sonochemical doping to be effective, the solvent or co-solvents had to allow the catalyst species to form by fostering a reaction between the catalyst precursor TiCl<ce:inf loc="post">3</ce:inf> and the alanate NaAlH<ce:inf loc="post">4</ce:inf>
+<ce:cross-refs refid="bib65 bib66">[65,66]</ce:cross-refs>. Decalin, a common sonochemical solvent, was initially selected as the primary sonication solvent due to its high boiling point and thus low vapor pressure. However, due to their negligible solubility in alkanes <ce:cross-ref refid="bib67">[67]</ce:cross-ref>, neither NaAlH<ce:inf loc="post">4</ce:inf> nor TiCl<ce:inf loc="post">3</ce:inf> dissociated in decalin. The use of decalin apparently limited the extent of the chemical reaction that took place between these two suspended powders to the solid-solid interface created during ultrasound-induced interparticle collisions in the decalin slurry, with the liquid phase presumably further dampening these interparticle collisions. No anticipated color change or evolution of hydrogen gas was observed when the initial slurry containing the reagents was irradiated with ultrasound, which perhaps indicated that the reaction between NaAlH<ce:inf loc="post">4</ce:inf> and TiCl<ce:inf loc="post">3</ce:inf> was necessarily incomplete. The greatly impeded, high temperature dehydrogenation kinetics exhibited by the TPD curves shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref> for the samples of NaAlH<ce:inf loc="post">4</ce:inf> sonochemically doped in decalin without a co-solvent, whether ball milled or not, exemplify these points very well. When a co-solvent with the capability of dissolving NaAlH<ce:inf loc="post">4</ce:inf> was added to the decalin, the results dramatically improved, however. In fact, this was the reasoning behind choosing THF as a co-solvent.</ce:para>
+<ce:para view="all">When a small amount of THF was added to decalin, a two-phase liquid system was immediately formed, with ultrasound rapidly producing a fine emulsion of the co-solvent (dispersed phase) in decalin (continuous phase). NaAlH<ce:inf loc="post">4</ce:inf> dissolved in the finely dispersed phase, while TiCl<ce:inf loc="post">3</ce:inf> remained in solid form in either phase due to it essentially being insoluble in both THF and decalin <ce:cross-ref refid="bib67">[67]</ce:cross-ref>. Nevertheless, the newly formed interfacial area between the solid (TiCl<ce:inf loc="post">3</ce:inf>) and liquid (NaAlH<ce:inf loc="post">4</ce:inf> dissolved in THF) phases presumably created numerous sites and a liquid phase for the chemical reaction to take place between these two reagents. In fact, during the first 5 min of ultrasonic irradiation, evolution of hydrogen gas was observed and the initial pale purple suspension darkened and turned black, implying that the reaction between the reagents had occurred and was most likely carried out to completion. The reaction product intermediate Ti(AlH<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf> that was suspected of being formed in the THF, although with undetermined solubility in THF, was thermally unstable at the reaction conditions employed here (−10<ce:hsp sp="0.25"></ce:hsp>°C). Hence, it readily decomposed forming a precipitate (most likely composed of the yet to be identified catalyst species), that settled out of the finely distributed dispersed phase, potentially suppressing agglomeration of the catalyst particles. This supposition also explains why THF was a better co-solvent than Et<ce:inf loc="post">2</ce:inf>O, even though Et<ce:inf loc="post">2</ce:inf>O also formed a two-phase emulsion when added to decalin and sonicated. It is noteworthy that Et<ce:inf loc="post">2</ce:inf>O was selected as an alternative co-solvent because it was presumed that the suspected reaction product intermediate Ti(AlH<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf> was soluble in it <ce:cross-refs refid="bib65 bib68 bib69">[65,68,69]</ce:cross-refs>, and that NaAlH<ce:inf loc="post">4</ce:inf> may exhibit limited solubility in Et<ce:inf loc="post">2</ce:inf>O <ce:cross-refs refid="bib65 bib70 bib71">[65,70,71]</ce:cross-refs>.</ce:para>
+<ce:para view="all">With NaAlH<ce:inf loc="post">4</ce:inf> reported to be essentially insoluble <ce:cross-refs refid="bib68 bib69 bib72 bib73 bib74 bib75">[68,69,72–75]</ce:cross-refs> or at best only slightly soluble in Et<ce:inf loc="post">2</ce:inf>O <ce:cross-refs refid="bib67 bib71">[67,71]</ce:cross-refs>, its use as a co-solvent was limited to exhibiting a behavior somewhere in between that observed with THF in decalin and just decalin with no co-solvent added, as shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>. There are two plausible explanations as to why sonochemical doping in decalin with Et<ce:inf loc="post">2</ce:inf>O showed any improvement at all in the dehydrogenation kinetics. If NaAlH<ce:inf loc="post">4</ce:inf> was the least bit soluble in Et<ce:inf loc="post">2</ce:inf>O, then it reacted with TiCl<ce:inf loc="post">3</ce:inf> during sonication in the same way that it did in THF; however, the reaction most likely proceeded much more slowly due to NaAlH<ce:inf loc="post">4</ce:inf> molecules having to continuously dissolve in the dispersed phase as the insoluble reaction product was formed and precipitated out of this phase. Based on this argument, Et<ce:inf loc="post">2</ce:inf>O has the potential to be as good as THF as a co-solvent when given enough time for this solubility limited reaction to proceed during sonochemical doping (the topic of future work). Even if NaAlH<ce:inf loc="post">4</ce:inf> was completely insoluble in Et<ce:inf loc="post">2</ce:inf>O, another possibility existed to explain its behavior, based on the similarity with this work and several reports on other metal aluminum hydrides, such as Be(AlH<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">2</ce:inf>
+<ce:cross-ref refid="bib65">[65]</ce:cross-ref>, Mg(AlH<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">2</ce:inf>
+<ce:cross-refs refid="bib70 bib76">[70,76]</ce:cross-refs>, Fe(AlH<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">2</ce:inf>
+<ce:cross-ref refid="bib77">[77]</ce:cross-ref>, Ti(AlH<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">4</ce:inf>
+<ce:cross-refs refid="bib68 bib69">[68,69]</ce:cross-refs>, and Nb(AlH<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf>.<ce:inf loc="post">5</ce:inf>
+<ce:cross-ref refid="bib78">[78]</ce:cross-ref>. It was surmised that the reaction between NaAlH<ce:inf loc="post">4</ce:inf> and TiCl<ce:inf loc="post">3</ce:inf> yielded a thermally unstable reaction product intermediate Ti(AlH<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf> that was soluble in Et<ce:inf loc="post">2</ce:inf>O, which drove the reaction by slowing consuming the insoluble products at the high surface area liquid–liquid–solid interface. However, since Ti(AlH<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf> was presumed to be extremely unstable at the temperatures used in the sonochemical doping experiments (−10<ce:hsp sp="0.25"></ce:hsp>°C), similarly to the works of Wiberg and co-workers for the case of Ti(AlH<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">4</ce:inf>
+<ce:cross-refs refid="bib68 bib69">[68,69]</ce:cross-refs>, the decomposition product once again precipitated from the dispersed phase, further driving the reaction by forming the yet to be identified active catalyst species containing Ti, as also occurred in THF. In either one of these scenarios, the net result was that the sonochemically driven reaction pathway compared to the wet doped driven one, suppressed the agglomeration of the catalyst particles, resulting in smaller catalyst particles to be dispersed over the surfaces of the NaAlH<ce:inf loc="post">4</ce:inf> particles prior to and during the subsequent high energy ball milling process.</ce:para>
+<ce:para view="all">All of the results displayed and discussed so far in <ce:cross-refs refid="fig1 fig2 fig3">Figs. 1–3</ce:cross-refs> correspond to the 0th cycle discharge, i.e., to the behavior of freshly doped, ball milled and discharged samples of un-cycled NaAlH<ce:inf loc="post">4</ce:inf>. The obvious questions that remain are whether the effects of sonochemical doping persist after several dehydrogenation/hydrogenation cycles are carried out, and whether the improved kinetic effects are exhibited during hydrogenation. <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor> compares two sets of TPD curves obtained for ball milled and cycled samples of NaAlH<ce:inf loc="post">4</ce:inf> wet doped and sonochemically doped in decalin with THF, all doped with 2<ce:hsp sp="0.25"></ce:hsp>mol% Ti. The first set consists of TPD curves of doped and ball milled samples of NaAlH<ce:inf loc="post">4</ce:inf> obtained before cycling (i.e., 0th discharge); and the second set consists of TPD curves of doped and ball milled samples of NaAlH<ce:inf loc="post">4</ce:inf> obtained after cycling five times (i.e., 5th discharge). These TPD curves show very clearly that even after five dehydrogenation/hydrogenation cycles were carried out, the sonochemically doped sample consistently exhibited dehydrogenation temperatures of at least 20<ce:hsp sp="0.25"></ce:hsp>°C below that of the wet doped sample. In both cases, cycling caused an increase in the dehydrogenation temperature, but less so for the sonochemically doped sample; and in both cases, cycling caused noticeable decreases in the overall hydrogen discharge capacity by about 0.75<ce:hsp sp="0.25"></ce:hsp>wt%, which is typical for samples prepared via the wet doping technique <ce:cross-refs refid="bib9 bib10 bib11 bib20">[9–11,20]</ce:cross-refs>. Hence, the positive effects of sonochemical doping persisted through cycling as further revealed from the CTD curves shown in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="fig5"></ce:float-anchor>.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref> compares three sets of CTD curves with each set corresponding to a different temperature (i.e., 90, 110 and 130<ce:hsp sp="0.25"></ce:hsp>°C). The four curves within each set consist of CTD curves before cycling (i.e., 0th discharge) and after cycling five times (i.e., 5th discharge) for ball milled samples of NaAlH<ce:inf loc="post">4</ce:inf> wet doped and sonochemically doped in decalin with THF, all doped with 2<ce:hsp sp="0.25"></ce:hsp>mol% Ti. Although the dehydrogenation rates of both the sonochemical and wet doped samples decreased after five dehydrogenation/hydrogenation cycles were carried out, the discharge kinetics were once again strikingly better for the sonochemically doped samples at all three temperatures. For example, sonochemical doping over wet doping improved the dehydrogenation kinetics by factors of 16.1, 5.1 and 3.1 at 90, 110, 130<ce:hsp sp="0.25"></ce:hsp>°C, respectively, even after cycling. Note the pronounced increase in this ratio at 90<ce:hsp sp="0.25"></ce:hsp>°C from 9.0 before cycling to 16.1 after cycling. Moreover, although somewhat diminished compared to the un-cycled samples, the hydrogen discharge rates of these sonochemically doped and cycled samples were still quite respectable, with them producing 0.96, 5.1 and 17.8<ce:hsp sp="0.25"></ce:hsp>wt% H<ce:inf loc="post">2</ce:inf>/h at 90, 110, 130<ce:hsp sp="0.25"></ce:hsp>°C, respectively. In contrast, the wet doped and cycled sample at 90<ce:hsp sp="0.25"></ce:hsp>°C released a barely detectable amount of hydrogen at a rate of only 0.06<ce:hsp sp="0.25"></ce:hsp>wt% H<ce:inf loc="post">2</ce:inf>/h. The hydrogen discharged from the wet doped and cycled samples at 110 and 130<ce:hsp sp="0.25"></ce:hsp>°C were certainly detectable, but the corresponding rates were far below those of the sonochemically doped samples at 1.4 and 4.6<ce:hsp sp="0.25"></ce:hsp>wt% H<ce:inf loc="post">2</ce:inf>/h, respectively.</ce:para>
+<ce:para view="all">The results just presented and discussed show that the very favorable effects of sonochemical doping on the dehydrogenation performance of Ti-doped NaAlH<ce:inf loc="post">4</ce:inf> persisted even after cycling. The results in <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="fig6"></ce:float-anchor> show a similarly positive effect of sonochemical doping on the hydrogenation kinetics of Ti-doped NaAlH<ce:inf loc="post">4</ce:inf> even after cycling. This figure displays qualitative hydrogenation and dehydrogenation rates obtained during four charge (<ce:italic>P</ce:italic>
+<ce:inf loc="post">o</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1250<ce:hsp sp="0.25"></ce:hsp>psia) and four discharge (<ce:italic>P</ce:italic>
+<ce:inf loc="post">o</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>15<ce:hsp sp="0.25"></ce:hsp>psia) cycles carried out at 125<ce:hsp sp="0.25"></ce:hsp>°C with doped and ball milled samples of NaAlH<ce:inf loc="post">4</ce:inf> wet doped and sonochemically doped in decalin with THF, all doped with 2<ce:hsp sp="0.25"></ce:hsp>mol% Ti. The qualitative kinetics of charge and discharge are inferred from the observed linear decreases and increases in pressure over time. The distinct influence of sonochemical doping not only on the dehydrogenation (discharge) kinetics, but also on the hydrogenation (charge) kinetics, is clearly observed. In fact, the time for charging was markedly decreased by a factor of four, from about 60<ce:hsp sp="0.25"></ce:hsp>min to about 15<ce:hsp sp="0.25"></ce:hsp>min. These results may represent the best charge kinetics to date for a sample of NaAlH<ce:inf loc="post">4</ce:inf> doped with as little as 2<ce:hsp sp="0.25"></ce:hsp>mol% Ti and are comparable to those reported recently when graphite was used as a co-dopant with Ti <ce:cross-ref refid="bib20">[20]</ce:cross-ref>. Similarly, the discharge kinetics increased by a factor of three, from about 90<ce:hsp sp="0.25"></ce:hsp>min to about 30<ce:hsp sp="0.25"></ce:hsp>min, which agrees quite well with the increase in the discharge rate at 130<ce:hsp sp="0.25"></ce:hsp>°C observed from the CTD curves in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>C. It was also interesting that after the first cycle, the sonochemically doped sample cycled more consistently than the wet doped sample, attaining periodic behavior after just one cycle. The charge and discharge profiles for the wet doped sample did not exhibit periodic behavior even after four cycles, especially the discharge profiles. Hence, it appears that sonochemically doped samples over their wet doped counterparts not only exhibit marked improvements in both the charge and discharge kinetics, but they also cycle more consistently.</ce:para>
+<ce:para view="all">Finally, a brief discussion is provided to highlight the differences between high intensity ultrasound and high energy ball milling that foster the complementary behavior observed during the processing of Ti-catalyzed NaAlH<ce:inf loc="post">4</ce:inf>. It was apparent that high energy ball milling played the key role in the mechanochemical activation of the catalyst species within the NaAlH<ce:inf loc="post">4</ce:inf> structure. Such activation most likely reflected the efficacy of ball milling in bringing the catalyst particles into intimate contact with the surfaces of the NaAlH<ce:inf loc="post">4</ce:inf> particles, due to its innate ability to de-agglomerate, homogenize and disperse the catalyst particles over the surface of the material being ball milled through intense collisions between the material and the milling bead. During these collisions, all the energy released from the stainless steel ball was transferred directly into the material being ball milled. In contrast, since acoustic energy is inherently mechanical and since ultrasonic wavelengths are several orders of magnitude larger than molecular dimensions, acoustic energy was not directly absorbed by the dissolved species or suspended solid particles in the sonicated slurry. Instead, the chemical effects of ultrasound were derived primarily from acoustic cavitation, i.e., the formation, growth, and implosive violent collapse of bubbles <ce:cross-refs refid="bib62 bib79 bib80">[62,79,80]</ce:cross-refs>. Moreover, whereas high energy ball milling was operated with powdery dry solids to provide direct contact with the milling bead, the ultrasound-driven interparticle collisions required a liquid medium (normally, a high-boiling alkane) for the waves to travel through. Hence, only a fraction of the acoustic energy released into the liquid was utilized to induce sonochemical reactions between the catalyst precursor solids and the dissolved NaAlH<ce:inf loc="post">4</ce:inf> molecules dispersed in the sonicated slurry. Therefore, in terms of utilization of the mechanical energy and impact-driven homogenization on contact, heterogeneous sonochemistry appeared to be less effective than ball milling. However, in terms of sonochemical-induced particle fracturing, heterogeneous sonochemistry appeared to be more effective than high energy ball milling most likely due to acoustic cavitation. In addition, reaction times during ball milling are a few orders of magnitude longer than cavitation timescales during sonication, leading to significantly slower cooling rates possibly resulting in more heat-induced structural changes during ball milling. These differences between high intensity ultrasound and high energy ball milling became quite evident during the course of this study, with the complementary effects being readily explained in terms of sonochemical-induced fracturing of both the catalyst and NaAlH<ce:inf loc="post">4</ce:inf> particles which subsequently improved the mechanochemical effectiveness of high energy ball milling.</ce:para>
+<ce:para view="all">With these thoughts in mind, although the exact role of high intensity ultrasound remains unclear, it was assumed that the presence of the liquid reduced agglomeration of the suspended and heavily agitated solid particles, and that it facilitated their fragmentation while constantly being redispersed into the surrounding slurry. It appeared that the reduction of particle agglomeration in this case was significantly more effective than that achieved during ball milling alone, with shear stresses induced by ultrasound apparently playing a significant role. Once the material was sonochemically doped and dried, ball milling finished the doping task by directly activating the catalyst fragments already thoroughly dispersed over the alanate surface at the point of impact. To some extent, powder fragmentation may have still occurred during ball milling, but it was suspected that the dispersion of the highly fractionated catalyst particles rapidly ceased as they became deeply immersed into the surface of the NaAlH<ce:inf loc="post">4</ce:inf> particle upon a few impacts with the milling bead. As a consequence, catalyst dispersion over the surface was not as effective during high energy ball milling unless the samples were previously doped sonochemically; and conversely, catalyst and NaAlH<ce:inf loc="post">4</ce:inf> particle fracturing during sonochemical doping was not as effective unless the samples were subsequently ball milled.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">This study reported on the first time use of heterogeneous sonochemistry as an effective means of doping NaAlH<ce:inf loc="post">4</ce:inf> with Ti catalyst. It was shown that when high intensity ultrasound was used prior to high energy ball milling to irradiate a decalin slurry containing a co-solvent such as tetrahydrofuran or diethyl ether and a mixture of sodium aluminum hydride and titanium(III) chloride, the resulting sonochemically doped and ball milled sample exhibited a striking enhancement in both the dehydrogenation and hydrogenation kinetics, which persisted even after several hydrogenation/dehydrogenation cycles. A series of temperature programmed desorption (TPD) and constant temperature desorption (CTD) experiments clearly revealed the pronounced effects of this new sonochemical doping technique when combined with high energy ball milling. Also, an explanation was offered as to the cause of the observed kinetic enhancements associated with the complementary use of the new heterogeneous sonochemical doping technique with high energy ball milling.</ce:para>
+<ce:para view="all">For example, when NaAlH<ce:inf loc="post">4</ce:inf> was sonochemically doped with 2<ce:hsp sp="0.25"></ce:hsp>mol% TiCl<ce:inf loc="post">3</ce:inf> in a decalin slurry using tetrahydrofuran as a co-solvent and then ball milled, the dehydrogenation temperature in the 90 to 150<ce:hsp sp="0.25"></ce:hsp>°C range decreased by about 30<ce:hsp sp="0.25"></ce:hsp>°C during TPD compared to a conventionally wet doped and ball milled sample. Similarly, during CTD the dehydrogenation kinetics of sonochemically doped and ball milled samples of NaAlH<ce:inf loc="post">4</ce:inf> increased by factors of 9.0, 5.1 and 3.1 respectively at 90, 110 and 130<ce:hsp sp="0.25"></ce:hsp>°C over those exhibited by conventionally wet doped and ball milled samples. These marked kinetic enhancements persisted through several dehydrogenation/hydrogenation cycles, with the dehydrogenation kinetics of sonochemically doped, ball milled and cycled samples of NaAlH<ce:inf loc="post">4</ce:inf> still increasing by factors of 16.1, 4.5 and 3.5 respectively at 90, 110 and 130<ce:hsp sp="0.25"></ce:hsp>°C over those exhibited by conventionally wet doped, ball milled and cycled samples; and for the same materials, a striking factor of four improvement in the hydrogenation kinetics was realized at 1250<ce:hsp sp="0.25"></ce:hsp>psia and 125<ce:hsp sp="0.25"></ce:hsp>°C. Overall, these results may represent the best discharge and charge kinetics to date for a sample of NaAlH<ce:inf loc="post">4</ce:inf> doped with as little as 2<ce:hsp sp="0.25"></ce:hsp>mol% Ti.</ce:para>
+<ce:para view="all">The observed kinetic effect was interpreted in terms of the complementary mechanochemical effects imparted to the sample by high intensity ultrasound followed by high energy ball milling. It was surmised that sonochemical doping induced superior mixing of the titanium(III) chloride and sodium aluminum hydride reagents, thereby fostering the formation of smaller catalyst and NaAlH<ce:inf loc="post">4</ce:inf> particles. This ensured a finer dispersion of the catalyst particles over the surfaces of the NaAlH<ce:inf loc="post">4</ce:inf> crystals prior to and during the subsequent high energy ball milling process, which greatly improved the mechanochemical effectiveness of ball milling. Strong evidence in support of this supposition stemmed from sonochemical doping being only marginally more effective than conventional wet doping without subsequent ball milling, and scanning electron microscopy images revealing the formation of the smaller NaAlH<ce:inf loc="post">4</ce:inf> particles for the sonochemically doped and ball milled samples. In fact, it was inferred from these results that catalyst particle dispersion over the surface of NaAlH<ce:inf loc="post">4</ce:inf> crystals was not as effective during high energy ball milling unless the samples were previously doped sonochemically; and conversely, catalyst and NaAlH<ce:inf loc="post">4</ce:inf> particle fracturing during sonochemical doping was not as effective unless the samples were subsequently ball milled.</ce:para>
+<ce:para view="all">The ultimate long-term goal of this research is to replace high energy ball milling with high intensity ultrasound, and make it the only necessary step in the doping of complex hydrides with metal catalysts. As a means to this end, a detailed study is underway to provide a more comprehensive understanding of the effects of high intensity ultrasound on the doping of NaAlH<ce:inf loc="post">4</ce:inf> and other complex hydrides with metal catalysts and co-dopants. Although this goal has yet to be achieved, because the research described in this paper indicates that the sonochemical doping of complex hydrides with metal catalysts must be done in conjunction with high energy ball milling to be effective, the outcome of this work still provides a new, extremely successful, and potentially scalable avenue for the doping of complex hydrides with metal catalysts.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgements</ce:section-title>
+<ce:para view="all">Financial support provided by MeadWestvaco and the Separations Research Program at the University of Texas at Austin, and by Cooperative Agreement DE-FC36-04GO14232 with the DOE was greatly appreciated. Use of the Hitachi S-4700 Field Emission SEM at the University of Illinois Center for Microanalysis of Materials, which is partially supported by the U.S. DOE under grant DEFG02-91-ER45439, was also greatly appreciated.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.W.</ce:given-name>
+<ce:surname>Crabtree</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.S.</ce:given-name>
+<ce:surname>Dresselhaus</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.V.</ce:given-name>
+<ce:surname>Buchanan</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Phys. Today</sb:maintitle>
+</sb:title>
+<sb:volume-nr>57</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>39</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.J.</ce:given-name>
+<ce:surname>Gross</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.J.</ce:given-name>
+<ce:surname>Thomas</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.M.</ce:given-name>
+<ce:surname>Jensen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>330–332</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>683</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.A.</ce:given-name>
+<ce:surname>Ritter</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.D.</ce:given-name>
+<ce:surname>Ebner</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Zidan</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Today</sb:maintitle>
+</sb:title>
+<sb:volume-nr>6</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>18</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Zaluska</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Zaluski</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.O.</ce:given-name>
+<ce:surname>Strom-Olsen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>298</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>125</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.M.</ce:given-name>
+<ce:surname>Jensen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Zidan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Mariels</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Hee</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Hagen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+</sb:title>
+<sb:volume-nr>24</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>461</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Bogdanovic</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Schwickardi</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>253–254</sb:volume-nr>
+</sb:series>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.S.</ce:given-name>
+<ce:surname>Srinivasan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.W.</ce:given-name>
+<ce:surname>Brinks</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.C.</ce:given-name>
+<ce:surname>Hauback</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Sun</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.M.</ce:given-name>
+<ce:surname>Jensen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>377</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>283</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Sun</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.S.</ce:given-name>
+<ce:surname>Srinivasan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Kiyobayashi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Kuriyama</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.M.</ce:given-name>
+<ce:surname>Jensen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Phys. Chem. B</sb:maintitle>
+</sb:title>
+<sb:volume-nr>107</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>10176</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.D.</ce:given-name>
+<ce:surname>Ebner</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.A.</ce:given-name>
+<ce:surname>Ritter</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Adsorption</sb:maintitle>
+</sb:title>
+<sb:volume-nr>11</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>811</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.D.</ce:given-name>
+<ce:surname>Ebner</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Zidan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.A.</ce:given-name>
+<ce:surname>Ritter</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>391</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>245</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Bogdanovic</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Sandrock</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>MRS Bull.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>27</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>712</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Bogdanovic</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Schwickardi</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Appl. Phys. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>72</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>221</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.L.</ce:given-name>
+<ce:surname>Anton</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>356–357</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>400</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>V.P.</ce:given-name>
+<ce:surname>Balema</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.K.</ce:given-name>
+<ce:surname>Pecharsky</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.W.</ce:given-name>
+<ce:surname>Dennis</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>313</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>69</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>V.P.</ce:given-name>
+<ce:surname>Balema</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.W.</ce:given-name>
+<ce:surname>Wiench</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.W.</ce:given-name>
+<ce:surname>Dennis</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Pruski</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.K.</ce:given-name>
+<ce:surname>Pecharsky</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>329</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>108</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib16">
+<ce:label>[16]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.M.</ce:given-name>
+<ce:surname>Jensen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.J.</ce:given-name>
+<ce:surname>Gross</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Appl. Phys. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>72</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>213</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib17">
+<ce:label>[17]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Sandrock</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Gross</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Thomas</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Jensen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Meeker</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Takara</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>330–332</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>696</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib18">
+<ce:label>[18]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.J.</ce:given-name>
+<ce:surname>Thomas</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.J.</ce:given-name>
+<ce:surname>Gross</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.Y.C.</ce:given-name>
+<ce:surname>Yang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Jensen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>330–332</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>702</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib19">
+<ce:label>[19]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Sun</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.S.</ce:given-name>
+<ce:surname>Srinivasan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.M.</ce:given-name>
+<ce:surname>Jensen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>373</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>265</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib20">
+<ce:label>[20]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.D.</ce:given-name>
+<ce:surname>Ebner</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Prozorov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Zidan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.A.</ce:given-name>
+<ce:surname>Ritter</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>395</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>252</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib21">
+<ce:label>[21]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.A.</ce:given-name>
+<ce:surname>Zidan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Takara</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.G.</ce:given-name>
+<ce:surname>Hee</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.M.</ce:given-name>
+<ce:surname>Jensen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>285</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>119</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib22">
+<ce:label>[22]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Weidenthaler</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Pommerin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Felderhoff</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Bogdanovic</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Schueth</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Phys. Chem. Chem. Phys.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>5</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>5149</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib23">
+<ce:label>[23]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Bogdanovic</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.A.</ce:given-name>
+<ce:surname>Brand</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Marjanovic</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Schwickardi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Tolle</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>302</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>36</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib24">
+<ce:label>[24]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Dehouche</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Lafi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Grimard</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Goyette</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Chahine</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Nanotechnology</sb:maintitle>
+</sb:title>
+<sb:volume-nr>16</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>402</sb:first-page>
+<sb:last-page>409</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib25">
+<ce:label>[25]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Sun</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Kiyobayashi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.T.</ce:given-name>
+<ce:surname>Takeshita</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Kuriyama</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.M.</ce:given-name>
+<ce:surname>Jensen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>337</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>L8</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib26">
+<ce:label>[26]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.M.</ce:given-name>
+<ce:surname>Bellosta von Colbe</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Bogdanovic</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Felderhoff</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Pommerin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Schuth</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>370</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>104</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib27">
+<ce:label>[27]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Kuriyama</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Q.</ce:given-name>
+<ce:surname>Xu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.T.</ce:given-name>
+<ce:surname>Takeshita</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Sakai</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Phys. Chem. B</sb:maintitle>
+</sb:title>
+<sb:volume-nr>105</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>11214</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib28">
+<ce:label>[28]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.J.</ce:given-name>
+<ce:surname>Gross</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Guthrie</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Takara</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Thomas</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>297</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>270</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib29">
+<ce:label>[29]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.J.</ce:given-name>
+<ce:surname>Gross</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.H.</ce:given-name>
+<ce:surname>Majzoub</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.W.</ce:given-name>
+<ce:surname>Spangler</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>356–357</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>423</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib30">
+<ce:label>[30]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>E.H.</ce:given-name>
+<ce:surname>Majzoub</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.J.</ce:given-name>
+<ce:surname>Gross</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>356–357</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>363</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib31">
+<ce:label>[31]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.I.</ce:given-name>
+<ce:surname>Moon</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.S.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>291</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>312</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib32">
+<ce:label>[32]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Martin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Bellon</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Soisson</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Solid Solid Phase Transform</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:title>
+<sb:maintitle>Proc. Int. Conf. Solid–Solid Phase Transform. Inorg. Mater.</sb:maintitle>
+</sb:title>
+<sb:date>1994</sb:date>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>937</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib33">
+<ce:label>[33]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.H.</ce:given-name>
+<ce:surname>Chiang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.H.</ce:given-name>
+<ce:surname>Chin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.P.</ce:given-name>
+<ce:surname>Perng</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>307</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>259</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib34">
+<ce:label>[34]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>U.</ce:given-name>
+<ce:surname>Herr</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Key Eng. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>103</sb:volume-nr>
+</sb:series>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>113</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib35">
+<ce:label>[35]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>B.S.</ce:given-name>
+<ce:surname>Murty</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Ranganathan</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Int. Mater. Rev.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>43</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>101</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib36">
+<ce:label>[36]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.M.</ce:given-name>
+<ce:surname>Jensen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>379</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>99</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib37">
+<ce:label>[37]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.M.</ce:given-name>
+<ce:surname>Jensen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Phys. Chem. B</sb:maintitle>
+</sb:title>
+<sb:volume-nr>108</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>15827</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib38">
+<ce:label>[38]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Chaffron</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Pochet</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Bellon</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Martin</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Int. J. Non-Equil. Proc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>11</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>347</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib39">
+<ce:label>[39]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Gaffet</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Michel</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Mazerolles</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Berthet</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Forum</sb:maintitle>
+</sb:title>
+<sb:volume-nr>235–238</sb:volume-nr>
+</sb:series>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>103</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib40">
+<ce:label>[40]</ce:label>
+<ce:other-ref>
+<ce:textref>P. Bellon, F. Soisson, G. Martin, J. de Physique IV: Proceedings 3, 1977 (1993).</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib41">
+<ce:label>[41]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Benhaddad</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Bhan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Rahmat</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Sci. Lett.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>16</sb:volume-nr>
+</sb:series>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>855</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib42">
+<ce:label>[42]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.-C.</ce:given-name>
+<ce:surname>Han</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.S.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.-Y.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Zuttel</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Schlapbach</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>306</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>219</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib43">
+<ce:label>[43]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Pochet</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Bellon</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Chaffron</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Martin</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Forum</sb:maintitle>
+</sb:title>
+<sb:volume-nr>225–227</sb:volume-nr>
+</sb:series>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>207</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib44">
+<ce:label>[44]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Suryanarayana</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Prog. Mater. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>46</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib45">
+<ce:label>[45]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.D.</ce:given-name>
+<ce:surname>Ausman</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.W.</ce:given-name>
+<ce:surname>Rohrs</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Yu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.S.</ce:given-name>
+<ce:surname>Ruoff</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Nanotechnology</sb:maintitle>
+</sb:title>
+<sb:volume-nr>10</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>258</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib46">
+<ce:label>[46]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.A.</ce:given-name>
+<ce:surname>Varin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Czujko</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Manuf. Proc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>17</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>129</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib47">
+<ce:label>[47]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Orimo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Fujii</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Ikeda</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>45</sb:volume-nr>
+</sb:series>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>331</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib48">
+<ce:label>[48]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Orimo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Fujii</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Ikeda</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Fujikawa</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Kitano</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>253–254</sb:volume-nr>
+</sb:series>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>94</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib49">
+<ce:label>[49]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.J.</ce:given-name>
+<ce:surname>Casadonte</ce:surname>
+<ce:suffix>Jr.</ce:suffix>
+</sb:author>
+<sb:author>
+<ce:given-name>J.D.</ce:given-name>
+<ce:surname>Sweet</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Tribol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>120</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>641</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib50">
+<ce:label>[50]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Delogu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Orru</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Cao</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Chem. Eng. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>58</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>815</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib51">
+<ce:label>[51]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.F.</ce:given-name>
+<ce:surname>Fernandez-Bertran</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Pure Appl. Chem.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>71</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>581</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib52">
+<ce:label>[52]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Foct</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Kozlov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Perekos</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.S.</ce:given-name>
+<ce:surname>de Figueiredo</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metallofizika i Noveishie Tekhnologii</sb:maintitle>
+</sb:title>
+<sb:volume-nr>23</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>211</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib53">
+<ce:label>[53]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Kudrolli</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Wolpert</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.P.</ce:given-name>
+<ce:surname>Gollub</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Phys. Rev. Lett.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>78</sb:volume-nr>
+</sb:series>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1383</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib54">
+<ce:label>[54]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Lu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.O.</ce:given-name>
+<ce:surname>Lai</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Des.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>16</sb:volume-nr>
+</sb:series>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>33</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib55">
+<ce:label>[55]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>P.G.</ce:given-name>
+<ce:surname>McCormick</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.H.</ce:given-name>
+<ce:surname>Froes</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Jom</sb:maintitle>
+</sb:title>
+<sb:volume-nr>50</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>61</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib56">
+<ce:label>[56]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.S.</ce:given-name>
+<ce:surname>Suslick</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Proc. Int. Conf. Mechanochem.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>1</sb:volume-nr>
+</sb:series>
+<sb:date>1993</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>43</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib57">
+<ce:label>[57]</ce:label>
+<ce:other-ref>
+<ce:textref>K.S. Suslick, AIP Conf. Proc. 524 (2000) 95.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib58">
+<ce:label>[58]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.S.</ce:given-name>
+<ce:surname>Suslick</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.J.</ce:given-name>
+<ce:surname>Price</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Ann. Rev. Mater. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>29</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>295</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib59">
+<ce:label>[59]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Wolfrum</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Kurz</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Mettin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Lauterborn</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Phys. Fluid.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>15</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2916</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib60">
+<ce:label>[60]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.J.</ce:given-name>
+<ce:surname>Doktycz</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.S.</ce:given-name>
+<ce:surname>Suslick</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Science</sb:maintitle>
+</sb:title>
+<sb:volume-nr>247</sb:volume-nr>
+</sb:series>
+<sb:date>1990</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1067</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib61">
+<ce:label>[61]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Prozorov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Prozorov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.S.</ce:given-name>
+<ce:surname>Suslick</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>126</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>13890</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib62">
+<ce:label>[62]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.S.</ce:given-name>
+<ce:surname>Suslick</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.J.</ce:given-name>
+<ce:surname>Casadonte</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.L.H.</ce:given-name>
+<ce:surname>Green</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.E.</ce:given-name>
+<ce:surname>Thompson</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Ultrasonics</sb:maintitle>
+</sb:title>
+<sb:volume-nr>25</sb:volume-nr>
+</sb:series>
+<sb:date>1987</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>56</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib63">
+<ce:label>[63]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Fichtner</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>O.</ce:given-name>
+<ce:surname>Fuhr</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>O.</ce:given-name>
+<ce:surname>Kircher</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Rothe</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Nanotechnology</sb:maintitle>
+</sb:title>
+<sb:volume-nr>14</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>778</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib64">
+<ce:label>[64]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Bogdanovic</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Felderhoff</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Kaskel</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Pommerin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Schlichte</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Schueth</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Adv. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>15</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1012</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib65">
+<ce:label>[65]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>E.C.</ce:given-name>
+<ce:surname>Ashby</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.R.</ce:given-name>
+<ce:surname>Sanders</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Claudy</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.D.</ce:given-name>
+<ce:surname>Schwartz</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Inorg. Chem.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>12</sb:volume-nr>
+</sb:series>
+<sb:date>1973</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2860</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib66">
+<ce:label>[66]</ce:label>
+<ce:other-ref>
+<ce:textref>J.A. Ritter, A.D. Ebner, T. Prozorov, J. Wang, The University of South Carolina, 2005, unpublished results.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib67">
+<ce:label>[67]</ce:label>
+<ce:other-ref>
+<ce:textref>D.R. Lide, CRC Handbook of Chemistry and Physics, 83rd ed., CRC Press, Inc., Boca Raton, 2002, p. 2500+.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib68">
+<ce:label>[68]</ce:label>
+<ce:other-ref>
+<ce:textref>E. Wiberg, R.U. Lacal, Rev. acad. cienc. exact., fis. quim. y nat. Zaragoza 6 (1951) 15.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib69">
+<ce:label>[69]</ce:label>
+<ce:other-ref>
+<ce:textref>E. Wiberg, R. Uson, Zeitschrifl fuer Naturforschung 6b (1951) 392.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib70">
+<ce:label>[70]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>E.C.</ce:given-name>
+<ce:surname>Ashby</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.D.</ce:given-name>
+<ce:surname>Schwartz</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.D.</ce:given-name>
+<ce:surname>James</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Inorg. Chem.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>9</sb:volume-nr>
+</sb:series>
+<sb:date>1970</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>325</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib71">
+<ce:label>[71]</ce:label>
+<ce:other-ref>
+<ce:textref>T.N. Dymova, Rus. J. Coord. Chem. (Translation of Koordinatsionnaya Khimiya) 23 (1997) 377.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib72">
+<ce:label>[72]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.E.</ce:given-name>
+<ce:surname>Finholt</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.D.</ce:given-name>
+<ce:surname>Barbaras</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.K.</ce:given-name>
+<ce:surname>Barbaras</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Urry</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Wartik</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.I.</ce:given-name>
+<ce:surname>Schlesinger</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Inorg. Nucl. Chem.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>1</sb:volume-nr>
+</sb:series>
+<sb:date>1955</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>317</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib73">
+<ce:label>[73]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>E.C.</ce:given-name>
+<ce:surname>Ashby</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.R.</ce:given-name>
+<ce:surname>Dobbs</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.P.</ce:given-name>
+<ce:surname>Hopkins</ce:surname>
+<ce:suffix>Jr.</ce:suffix>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>95</sb:volume-nr>
+</sb:series>
+<sb:date>1973</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2823</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib74">
+<ce:label>[74]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>F.A.</ce:given-name>
+<ce:surname>Cotton</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Wilkinson</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Murillo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Bochmann</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Advanced Inorganic Chemistry</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:edition>Sixth ed.</sb:edition>
+<sb:date>1999</sb:date>
+<sb:publisher>
+<sb:name>John Wiley &amp; Sons, Inc.</sb:name>
+<sb:location>New York</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+<sb:comment>p. 1355</sb:comment>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib75">
+<ce:label>[75]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>N.N.</ce:given-name>
+<ce:surname>Greenwood</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Earnshaw</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Chemistry of the elements</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:edition>Second ed.</sb:edition>
+<sb:date>1997</sb:date>
+<sb:publisher>
+<sb:name>Butterworth Heinemann</sb:name>
+<sb:location>Oxford</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib76">
+<ce:label>[76]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Fichtner</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>O.</ce:given-name>
+<ce:surname>Fuhr</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>345</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>286</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib77">
+<ce:label>[77]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Neumaier</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Buechel</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Ziegelmaier</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Zeits. Anorganische Allgemeine Chemie</sb:maintitle>
+</sb:title>
+<sb:volume-nr>345</sb:volume-nr>
+</sb:series>
+<sb:date>1966</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>46</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib78">
+<ce:label>[78]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Wiberg</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Neumaier</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Zeits. Anorganische Allgemeine Chem.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>340</sb:volume-nr>
+</sb:series>
+<sb:date>1965</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>189</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib79">
+<ce:label>[79]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.S.</ce:given-name>
+<ce:surname>Suslick</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Ultrasound: Its Chemical, Physical and Biological Effects</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1988</sb:date>
+<sb:publisher>
+<sb:name>VCH Publishers</sb:name>
+<sb:location>New York</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib80">
+<ce:label>[80]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.S.</ce:given-name>
+<ce:surname>Suslick</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Didenko</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.M.</ce:given-name>
+<ce:surname>Fang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Hyeon</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.J.</ce:given-name>
+<ce:surname>Kolbeck</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.B.</ce:given-name>
+<ce:surname>McNamara</ce:surname>
+<ce:suffix>III</ce:suffix>
+</sb:author>
+<sb:author>
+<ce:given-name>M.M.</ce:given-name>
+<ce:surname>Mdleleni</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Wong</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Phil. Trans. R. Soc. Lond. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>357</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>335</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

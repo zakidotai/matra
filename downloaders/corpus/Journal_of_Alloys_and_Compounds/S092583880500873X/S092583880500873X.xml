@@ -1,0 +1,1162 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S092583880500873X</prism:url><dc:identifier>doi:10.1016/j.jallcom.2005.03.098</dc:identifier><eid>1-s2.0-S092583880500873X</eid><prism:doi>10.1016/j.jallcom.2005.03.098</prism:doi><pii>S0925-8388(05)00873-X</pii><dc:title>Characteristics of hydride electrodes using Ti–Fe–Pd–X alloys </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>404</prism:volume><prism:startingpage>675</prism:startingpage><prism:endingpage>678</prism:endingpage><prism:pagerange>675-678</prism:pagerange><dc:format>text/xml</dc:format><prism:coverdate>2005-12-08</prism:coverdate><prism:coverdisplaydate>8 December 2005</prism:coverdisplaydate><prism:copyright>Copyright © 2005 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><prism:issuename>Proceedings of the 9th International Symposium on Metal-Hydrogen Systems, Fundamentals and Applications (MH2004)</prism:issuename><dc:creator>Miyamura, H.</dc:creator><dc:creator>Takada, M.</dc:creator><dc:creator>Kikuchi, S.</dc:creator><dc:description>
+                  Electrochemical hydrogenation behaviors of partially substituted TiFe alloys were studied. By substituting the alloy with palladium, they became electrochemically rechargeable. Their rechargeable capacities were about 200 mAh/g, which corresponded to the H/M value of 0.5, although the P –C isotherm determined by Sieverts’ type apparatus showed the H/M reached more than 1.0. The cause of small capacity was found to be increased in equilibrium pressure due to palladium-substitution. With increasing the amount of palladium substitution, the P –C isotherm plateau split into two portions, and the equilibrium pressure of second plateau went much higher than the ambient pressure, consequently hydrogen corresponding to the higher plateau could not be electrochemically charged.
+                  By further substitution of the alloy with vanadium, both of the two plateau pressures decreased and their electrochemically rechargeable capacities reached more than 400 mAh/g. However, their rechargeable capacities quickly decayed with increasing charge/discharge cycles. During the cycles, the alloy was found to decompose into titanium hydride and iron hydroxide. The cause of quick capacity decay was attributed to the decomposition of the alloy.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>MH electrode</dcterms:subject><dcterms:subject>TiFe alloys</dcterms:subject><dcterms:subject>Cycle life</dcterms:subject><dcterms:subject>Palladium</dcterms:subject><dcterms:subject>Activation</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S092583880500873X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S092583880500873X" rel="scidir"/></coredata><objects><object category="thumbnail" height="14" mimetype="image/gif" multimediatype="GIF image file" ref="si7" size="187" type="ALTIMG" width="33">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500873X-si7.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="14" mimetype="image/gif" multimediatype="GIF image file" ref="si6" size="403" type="ALTIMG" width="110">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500873X-si6.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="11" mimetype="image/gif" multimediatype="GIF image file" ref="si5" size="204" type="ALTIMG" width="41">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500873X-si5.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="11" mimetype="image/gif" multimediatype="GIF image file" ref="si4" size="129" type="ALTIMG" width="11">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500873X-si4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="14" mimetype="image/gif" multimediatype="GIF image file" ref="si3" size="274" type="ALTIMG" width="73">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500873X-si3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="7" mimetype="image/gif" multimediatype="GIF image file" ref="si2" size="114" type="ALTIMG" width="11">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500873X-si2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="11" mimetype="image/gif" multimediatype="GIF image file" ref="si1" size="129" type="ALTIMG" width="11">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500873X-si1.gif?httpAccept=%2A%2F%2A</object><object category="standard" height="239" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="5587" type="IMAGE-DOWNSAMPLED" width="348">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500873X-gr7.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="86" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="1316" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500873X-gr7.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="240" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="6270" type="IMAGE-DOWNSAMPLED" width="347">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500873X-gr5.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="86" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="1456" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500873X-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="251" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="6419" type="IMAGE-DOWNSAMPLED" width="350">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500873X-gr6.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="90" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="1523" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500873X-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="252" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="6961" type="IMAGE-DOWNSAMPLED" width="347">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500873X-gr1.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="91" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="1692" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500873X-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="261" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr8" size="76846" type="IMAGE-DOWNSAMPLED" width="534">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500873X-gr8.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="61" mimetype="image/gif" multimediatype="GIF image file" ref="gr8" size="3285" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500873X-gr8.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="244" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="6294" type="IMAGE-DOWNSAMPLED" width="344">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500873X-gr4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="89" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="1506" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500873X-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="242" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="6809" type="IMAGE-DOWNSAMPLED" width="348">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500873X-gr2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="87" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="1589" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500873X-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="241" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="8048" type="IMAGE-DOWNSAMPLED" width="349">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500873X-gr3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="86" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="1798" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S092583880500873X-gr3.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>28044472272</scopus-id><scopus-eid>2-s2.0-28044472272</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/28044472272" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20051110">2005-11-10</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20051110">2005-11-10</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-04-17T10:08:11</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S092583880500873X</xocs:eid>
+<xocs:pii-formatted>S0925-8388(05)00873-X</xocs:pii-formatted>
+<xocs:pii-unformatted>S092583880500873X</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2005.03.098</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838805X02468</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.349087-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20051208</xocs:date-search-begin>
+<xocs:year-nav>2005</xocs:year-nav>
+<xocs:indexeddate epoch="1131580800">2005-11-10T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confdate confeditor confloc contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings suppl vol vol volfirst volissue webpdf webpdfpagecount figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>404</xocs:vol-first>
+<xocs:vol-last>406</xocs:vol-last>
+<xocs:volume-list>
+<xocs:volume>404</xocs:volume>
+<xocs:volume>405</xocs:volume>
+<xocs:volume>406</xocs:volume>
+</xocs:volume-list>
+<xocs:suppl>C</xocs:suppl>
+<xocs:vol-iss-suppl-text>Volumes 404–406</xocs:vol-iss-suppl-text>
+<xocs:sort-order>156</xocs:sort-order>
+<xocs:first-fp>675</xocs:first-fp>
+<xocs:last-lp>678</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>675</xocs:first-page>
+<xocs:last-page>678</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20051208</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>8 December 2005</xocs:cover-date-text>
+<xocs:cover-date-start>2005-12-08</xocs:cover-date-start>
+<xocs:cover-date-year>2005</xocs:cover-date-year>
+<xocs:title-editors-groups>
+<xocs:title-editors-group>
+<ce:title>Proceedings of the 9th International Symposium on Metal-Hydrogen Systems, Fundamentals and Applications (MH2004)</ce:title>
+<xocs:conference-info>
+<xocs:full-name>The International Symposium on Metal-Hydrogen Systems, Fundamentals and Applications, MH2004</xocs:full-name>
+<xocs:venue>Cracow, Poland</xocs:venue>
+<xocs:conference-date-text>5–10 September 2004</xocs:conference-date-text>
+<xocs:date-range>
+<xocs:start-date>20040905</xocs:start-date>
+<xocs:end-date>20040910</xocs:end-date>
+</xocs:date-range>
+</xocs:conference-info>
+<ce:editors>
+<ce:author-group>
+<ce:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Figiel</ce:surname>
+</ce:author>
+</ce:author-group>
+<ce:author-group>
+<ce:author>
+<ce:given-name>O.J.</ce:given-name>
+<ce:surname>Zogal</ce:surname>
+</ce:author>
+</ce:author-group>
+<ce:author-group>
+<ce:author>
+<ce:given-name>V.</ce:given-name>
+<ce:surname>Yartys</ce:surname>
+</ce:author>
+</ce:author-group>
+</ce:editors>
+</xocs:title-editors-group>
+</xocs:title-editors-groups>
+<xocs:hub-sec>
+<xocs:hub-sec-title>13. Metal hydrides for batteries and fuel cells</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2005 Published by Elsevier B.V.</xocs:copyright-line>
+<xocs:normalized-article-title>CHARACTERISTICSHYDRIDEELECTRODESUSINGTIFEPDXALLOYS</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>MIYAMURA</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>H</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental procedure</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Ti–Fe–Pd ternary alloys</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Effect of further substitution with vanadium or manganese</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgement</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>REILLY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1970</xocs:ref-pub-year>
+<xocs:ref-first-fp>1678</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>SANDROCK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1976</xocs:ref-pub-year>
+<xocs:ref-first-fp>965</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>PROCEEDINGS11THINTERSOCIETYENERGYCONVERSIONENGINEERINGCONFERENCE</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>SANDROCK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1977</xocs:ref-pub-year>
+<xocs:ref-first-fp>353</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>INTERNATIONALSYMPOSIUMHYDRIDESFORENERGYSTORAGE</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>AMANO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1981</xocs:ref-pub-year>
+<xocs:ref-first-fp>957</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>YAMASHITA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>PROCEEDINGS39THDENCHITOURONKAI</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>JURCZYK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>265</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>JANKOWSKA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>L1</xocs:ref-first-fp>
+<xocs:ref-last-lp>L3</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>JURCZYK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>L1</xocs:ref-first-fp>
+<xocs:ref-last-lp>L4</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>MIYAMURA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>755</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>MIYAMURAX2005X675</xocs:refkey3>
+<xocs:refkey4lp>MIYAMURAX2005X675X678</xocs:refkey4lp>
+<xocs:refkey4ai>MIYAMURAX2005X675XH</xocs:refkey4ai>
+<xocs:refkey5>MIYAMURAX2005X675X678XH</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(05)00873-X</xocs:pii-formatted>
+<xocs:pii-unformatted>S092583880500873X</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S092583880500873X</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2005.03.098</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-10T16:24:48.986072-04:00</xocs:timestamp>
+<xocs:cover-date-start>2005-12-08</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S092583880500873X-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500873X/MAIN/application/pdf/533fa5a520b13c1e1704cd2d65605aec/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500873X/MAIN/application/pdf/533fa5a520b13c1e1704cd2d65605aec/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>218783</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S092583880500873X-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500873X/PREVIEW/image/png/d3b35332b3aa1603b819a947abf45a5d/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500873X/PREVIEW/image/png/d3b35332b3aa1603b819a947abf45a5d/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>64277</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500873X-si7.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500873X/STRIPIN/image/gif/d8fcdc529db85737d061ad593b4c678e/si7.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500873X/STRIPIN/image/gif/d8fcdc529db85737d061ad593b4c678e/si7.gif</xocs:ucs-locator>
+<xocs:file-basename>si7</xocs:file-basename>
+<xocs:filename>si7.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>187</xocs:filesize>
+<xocs:pixel-height>14</xocs:pixel-height>
+<xocs:pixel-width>33</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500873X-si6.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500873X/STRIPIN/image/gif/9ca84311aff454b1d80d99cb30347f60/si6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500873X/STRIPIN/image/gif/9ca84311aff454b1d80d99cb30347f60/si6.gif</xocs:ucs-locator>
+<xocs:file-basename>si6</xocs:file-basename>
+<xocs:filename>si6.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>403</xocs:filesize>
+<xocs:pixel-height>14</xocs:pixel-height>
+<xocs:pixel-width>110</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500873X-si5.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500873X/STRIPIN/image/gif/13cf8e80f5648931e6075925fcc769d4/si5.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500873X/STRIPIN/image/gif/13cf8e80f5648931e6075925fcc769d4/si5.gif</xocs:ucs-locator>
+<xocs:file-basename>si5</xocs:file-basename>
+<xocs:filename>si5.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>204</xocs:filesize>
+<xocs:pixel-height>11</xocs:pixel-height>
+<xocs:pixel-width>41</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500873X-si4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500873X/STRIPIN/image/gif/0589cd25b6d064b5c0d6bd6a243f1b32/si4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500873X/STRIPIN/image/gif/0589cd25b6d064b5c0d6bd6a243f1b32/si4.gif</xocs:ucs-locator>
+<xocs:file-basename>si4</xocs:file-basename>
+<xocs:filename>si4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>129</xocs:filesize>
+<xocs:pixel-height>11</xocs:pixel-height>
+<xocs:pixel-width>11</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500873X-si3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500873X/STRIPIN/image/gif/fd8c5d48c2bbcd2e9f584bf92ae15840/si3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500873X/STRIPIN/image/gif/fd8c5d48c2bbcd2e9f584bf92ae15840/si3.gif</xocs:ucs-locator>
+<xocs:file-basename>si3</xocs:file-basename>
+<xocs:filename>si3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>274</xocs:filesize>
+<xocs:pixel-height>14</xocs:pixel-height>
+<xocs:pixel-width>73</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500873X-si2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500873X/STRIPIN/image/gif/e4575308b665f2203f760eb9df49ae04/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500873X/STRIPIN/image/gif/e4575308b665f2203f760eb9df49ae04/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si2</xocs:file-basename>
+<xocs:filename>si2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>114</xocs:filesize>
+<xocs:pixel-height>7</xocs:pixel-height>
+<xocs:pixel-width>11</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500873X-si1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500873X/STRIPIN/image/gif/0589cd25b6d064b5c0d6bd6a243f1b32/si4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500873X/STRIPIN/image/gif/0589cd25b6d064b5c0d6bd6a243f1b32/si4.gif</xocs:ucs-locator>
+<xocs:file-basename>si1</xocs:file-basename>
+<xocs:filename>si1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>129</xocs:filesize>
+<xocs:pixel-height>11</xocs:pixel-height>
+<xocs:pixel-width>11</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500873X-gr7.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500873X/gr7/DOWNSAMPLED/image/gif/dc4b5beabb49a91afa7c5f90acb7c7e2/gr7.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500873X/gr7/DOWNSAMPLED/image/gif/dc4b5beabb49a91afa7c5f90acb7c7e2/gr7.gif</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>5587</xocs:filesize>
+<xocs:pixel-height>239</xocs:pixel-height>
+<xocs:pixel-width>348</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500873X-gr7.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500873X/gr7/THUMBNAIL/image/gif/670dbe5e12d75c29d1bc41f85200358c/gr7.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500873X/gr7/THUMBNAIL/image/gif/670dbe5e12d75c29d1bc41f85200358c/gr7.sml</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1316</xocs:filesize>
+<xocs:pixel-height>86</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500873X-gr5.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500873X/gr5/DOWNSAMPLED/image/gif/95818e4cba02f26e8ba44f6cb268a890/gr5.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500873X/gr5/DOWNSAMPLED/image/gif/95818e4cba02f26e8ba44f6cb268a890/gr5.gif</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>6270</xocs:filesize>
+<xocs:pixel-height>240</xocs:pixel-height>
+<xocs:pixel-width>347</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500873X-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500873X/gr5/THUMBNAIL/image/gif/990575644dccb0470fead673e1b21d86/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500873X/gr5/THUMBNAIL/image/gif/990575644dccb0470fead673e1b21d86/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1456</xocs:filesize>
+<xocs:pixel-height>86</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500873X-gr6.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500873X/gr6/DOWNSAMPLED/image/gif/b061a155a55527cdfedacc589e4f3c32/gr6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500873X/gr6/DOWNSAMPLED/image/gif/b061a155a55527cdfedacc589e4f3c32/gr6.gif</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>6419</xocs:filesize>
+<xocs:pixel-height>251</xocs:pixel-height>
+<xocs:pixel-width>350</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500873X-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500873X/gr6/THUMBNAIL/image/gif/aedd8be5c5e68cbee886837321b430ce/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500873X/gr6/THUMBNAIL/image/gif/aedd8be5c5e68cbee886837321b430ce/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1523</xocs:filesize>
+<xocs:pixel-height>90</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500873X-gr1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500873X/gr1/DOWNSAMPLED/image/gif/082c04886222bb0b0a5dd5b66cdc1c99/gr1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500873X/gr1/DOWNSAMPLED/image/gif/082c04886222bb0b0a5dd5b66cdc1c99/gr1.gif</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>6961</xocs:filesize>
+<xocs:pixel-height>252</xocs:pixel-height>
+<xocs:pixel-width>347</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500873X-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500873X/gr1/THUMBNAIL/image/gif/966b4dbeb4784a52d2e2691b88f8c403/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500873X/gr1/THUMBNAIL/image/gif/966b4dbeb4784a52d2e2691b88f8c403/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1692</xocs:filesize>
+<xocs:pixel-height>91</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500873X-gr8.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500873X/gr8/DOWNSAMPLED/image/jpeg/3f83e148184f88ad03f3a191b1eee1cf/gr8.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500873X/gr8/DOWNSAMPLED/image/jpeg/3f83e148184f88ad03f3a191b1eee1cf/gr8.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>76846</xocs:filesize>
+<xocs:pixel-height>261</xocs:pixel-height>
+<xocs:pixel-width>534</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500873X-gr8.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500873X/gr8/THUMBNAIL/image/gif/10c542829ffed36d72e08a2a433a7557/gr8.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500873X/gr8/THUMBNAIL/image/gif/10c542829ffed36d72e08a2a433a7557/gr8.sml</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3285</xocs:filesize>
+<xocs:pixel-height>61</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500873X-gr4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500873X/gr4/DOWNSAMPLED/image/gif/f181efd80926d3fe1201b939b5017670/gr4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500873X/gr4/DOWNSAMPLED/image/gif/f181efd80926d3fe1201b939b5017670/gr4.gif</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>6294</xocs:filesize>
+<xocs:pixel-height>244</xocs:pixel-height>
+<xocs:pixel-width>344</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500873X-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500873X/gr4/THUMBNAIL/image/gif/132fdea6b3c8794b9f8d3ee56f0e8be3/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500873X/gr4/THUMBNAIL/image/gif/132fdea6b3c8794b9f8d3ee56f0e8be3/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1506</xocs:filesize>
+<xocs:pixel-height>89</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500873X-gr2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500873X/gr2/DOWNSAMPLED/image/gif/7faaf32c7dc65a71c8c7ca93620d447a/gr2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500873X/gr2/DOWNSAMPLED/image/gif/7faaf32c7dc65a71c8c7ca93620d447a/gr2.gif</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>6809</xocs:filesize>
+<xocs:pixel-height>242</xocs:pixel-height>
+<xocs:pixel-width>348</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500873X-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500873X/gr2/THUMBNAIL/image/gif/6ac819ec566faed8c3452826568fd133/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500873X/gr2/THUMBNAIL/image/gif/6ac819ec566faed8c3452826568fd133/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1589</xocs:filesize>
+<xocs:pixel-height>87</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500873X-gr3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500873X/gr3/DOWNSAMPLED/image/gif/9c39e36dc280d920b9e0c054b08e352d/gr3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500873X/gr3/DOWNSAMPLED/image/gif/9c39e36dc280d920b9e0c054b08e352d/gr3.gif</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>8048</xocs:filesize>
+<xocs:pixel-height>241</xocs:pixel-height>
+<xocs:pixel-width>349</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S092583880500873X-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S092583880500873X/gr3/THUMBNAIL/image/gif/558d5580871802701d8700c6f77abf2d/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S092583880500873X/gr3/THUMBNAIL/image/gif/558d5580871802701d8700c6f77abf2d/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1798</xocs:filesize>
+<xocs:pixel-height>86</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>12670</aid>
+<ce:pii>S0925-8388(05)00873-X</ce:pii>
+<ce:doi>10.1016/j.jallcom.2005.03.098</ce:doi>
+<ce:copyright type="unknown" year="2005"></ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">X-ray diffraction profiles of Ti–Fe–Pd(–X) alloys.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">
+<ce:italic>P</ce:italic>–<ce:italic>C</ce:italic>isotherms of TiFe<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+</ce:inf>Pd<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf> and Ti<ce:inf loc="post">0.8</ce:inf>FePd<ce:inf loc="post">0.2</ce:inf> alloys (293 K).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Cycle life profiles of TiFe<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+</ce:inf>Pd<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf> and Ti<ce:inf loc="post">0.8</ce:inf>FePd<ce:inf loc="post">0.2</ce:inf> alloy electrodes (298 K).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Discharge curves of TiFe<ce:inf loc="post">0.9</ce:inf>Pd<ce:inf loc="post">0.1</ce:inf> alloy electrode (298 K).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">
+<ce:italic>P</ce:italic> –<ce:italic>C</ce:italic> isotherms TiFe<ce:inf loc="post">0.8</ce:inf>Pd<ce:inf loc="post">0.1</ce:inf>M<ce:inf loc="post">0.1</ce:inf> (M = V, Mn) alloys (293 K).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Discharge curves of TiFe<ce:inf loc="post">0.8</ce:inf>Pd<ce:inf loc="post">0.1</ce:inf>M<ce:inf loc="post">0.1</ce:inf> (M = V, Mn) alloy electrodes (298 K).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+<ce:figure id="fig7">
+<ce:label>Fig. 7</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Cycle life profiles of TiFe<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+</ce:inf>Pd<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf>M<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf> alloy electrodes (298 K).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr7"></ce:link>
+</ce:figure>
+<ce:figure id="fig8">
+<ce:label>Fig. 8</ce:label>
+<ce:caption>
+<ce:simple-para view="all">(a) SEM micrograph of TiFe<ce:inf loc="post">0.9</ce:inf>Pd<ce:inf loc="post">0.1</ce:inf> alloy electrode after 20 charge/discharge cycles. (b) Close-up of the precipitate on alloy electrode. The open circle indicates the area investigated by EDX.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr8"></ce:link>
+</ce:figure>
+<ce:table colsep="0" frame="topbot" id="tbl1" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Chemical compositions of studied alloys</ce:simple-para>
+</ce:caption>
+<tgroup cols="2">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<thead valign="top">
+<row rowsep="1">
+<entry align="left" colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Alloy type</entry>
+<entry align="left" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">Chemical composition</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" colsep="0" nameend="col2" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Ternary alloys</entry>
+</row>
+<row>
+<entry align="left" colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>A-site substitution</entry>
+<entry align="left" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">TiFe<inf loc="post">0.9</inf>Pd<inf loc="post">0.1</inf>, TiFe<inf loc="post">0.8</inf>Pd<inf loc="post">0.2</inf>, TiFe<inf loc="post">0.6</inf>Pd<inf loc="post">0.4</inf>
+</entry>
+</row>
+<row>
+<entry align="left" colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>B-site substitution</entry>
+<entry align="left" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">0.8</inf>FePd<inf loc="post">0.2</inf>
+</entry>
+</row>
+<row>
+<entry align="left" colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Four-component alloys</entry>
+<entry align="left" colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">TiFe<inf loc="post">0.8</inf>Pd<inf loc="post">0.1</inf>V<inf loc="post">0.1</inf>, TiFe<inf loc="post">0.8</inf>Pd<inf loc="post">0.1</inf>Mn<inf loc="post">0.1</inf>
+</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl2" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">EDX analysis of precipitates on the surface of TiFe<ce:inf loc="post">0.9</ce:inf>Pd<ce:inf loc="post">0.1</ce:inf> alloy electrode after 20 charge/discharge cycles</ce:simple-para>
+</ce:caption>
+<tgroup cols="2">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<thead valign="top">
+<row rowsep="1">
+<entry align="left" colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Element</entry>
+<entry align="left" colname="col2" colsep="0" xmlns="http://www.elsevier.com/xml/common/dtd">Atomic fraction</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">K</entry>
+<entry align="char" char="." colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">8.2</entry>
+</row>
+<row>
+<entry align="left" colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+<entry align="char" char="." colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">7.2</entry>
+</row>
+<row>
+<entry align="left" colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Fe</entry>
+<entry align="char" char="." colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">82.1</entry>
+</row>
+<row>
+<entry align="left" colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Cu</entry>
+<entry align="char" char="." colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">2.5</entry>
+</row>
+<row>
+<entry align="left" colname="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Pd</entry>
+<entry align="char" char="." colname="col2" xmlns="http://www.elsevier.com/xml/common/dtd">0</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+</ce:floats>
+<ce:title>Characteristics of hydride electrodes using Ti–Fe–Pd–X alloys</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Miyamura</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="cor1">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Takada</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Kikuchi</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation id="aff1">
+<ce:label>a</ce:label>
+<ce:textfn>The University of Shiga Prefecture, 2500 Hassaka-cho, Hikone, Shiga 522-8533, Japan</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff2">
+<ce:label>b</ce:label>
+<ce:textfn>Tokai Rika Co. Ltd., 3-260 Toyota, Okuchi-cho, Niwa, Aichi 480-0195, Japan</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>⁎</ce:label>
+<ce:text>Corresponding author. Tel.: +81 749 28 8354; fax: +81 749 28 8487.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="7" month="9" year="2004"></ce:date-received>
+<ce:date-revised day="24" month="2" year="2005"></ce:date-revised>
+<ce:date-accepted day="2" month="3" year="2005"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">Electrochemical hydrogenation behaviors of partially substituted TiFe alloys were studied. By substituting the alloy with palladium, they became electrochemically rechargeable. Their rechargeable capacities were about 200 mAh/g, which corresponded to the H/M value of 0.5, although the <ce:italic>P</ce:italic> –<ce:italic>C</ce:italic> isotherm determined by Sieverts’ type apparatus showed the H/M reached more than 1.0. The cause of small capacity was found to be increased in equilibrium pressure due to palladium-substitution. With increasing the amount of palladium substitution, the <ce:italic>P</ce:italic> –<ce:italic>C</ce:italic> isotherm plateau split into two portions, and the equilibrium pressure of second plateau went much higher than the ambient pressure, consequently hydrogen corresponding to the higher plateau could not be electrochemically charged.</ce:simple-para>
+<ce:simple-para view="all">By further substitution of the alloy with vanadium, both of the two plateau pressures decreased and their electrochemically rechargeable capacities reached more than 400 mAh/g. However, their rechargeable capacities quickly decayed with increasing charge/discharge cycles. During the cycles, the alloy was found to decompose into titanium hydride and iron hydroxide. The cause of quick capacity decay was attributed to the decomposition of the alloy.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>MH electrode</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>TiFe alloys</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Cycle life</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Palladium</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Activation</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section id="sec1" view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">The TiFe-based alloys are promising materials for hydrogen storage because of their large storage capacity and their cost performance <ce:cross-refs refid="bib1 bib2 bib3">[1–3]</ce:cross-refs>. Because of the difficulty in initial hydrogenation (activation), TiFe-based alloys were hardly used as a material for metal-hydride electrodes (MH-electrodes). However, various efforts have been made and the activation property was greatly improved. Addition of a third element <ce:cross-refs refid="bib4 bib5">[4,5]</ce:cross-refs> and mechanical alloying <ce:cross-refs refid="bib6 bib7 bib8">[6–8]</ce:cross-refs> were found to be effective. As Yamashita et al. reported <ce:cross-ref refid="bib5">[5]</ce:cross-ref> , partial substitution of iron in TiFe with palladium was found to be effective in improving activation characteristics, and the alloy became electrochemically rechargeable.</ce:para>
+<ce:para view="all">As we also reported in previous work <ce:cross-ref refid="bib9">[9]</ce:cross-ref> , the activation characteristics of TiFe were improved by substitution of the alloy element with nickel. Their electrochemically rechargeable capacities reached more than 300 mAh/g, but the discharge rate efficiencies of the alloy electrodes were not so good compared with those using rare-earth based alloys.</ce:para>
+<ce:para view="all">For practical use, their rate efficiencies and rechargeable capacities have to be further improved, therefore, the substitution with palladium is a better solution than that with nickel. In the present work, we first studied the effect of partial substitution of elements in TiFe with palladium. Lattice structures, change in characteristics of their pressure–composition (<ce:italic>P</ce:italic>–<ce:italic>C</ce:italic>) isotherms, electrochemical charge/discharge properties were studied with varying the substitution elements. Secondly, the effect of further substitution with a fourth element (vanadium or manganese) was investigated.</ce:para>
+</ce:section>
+<ce:section id="sec2" view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental procedure</ce:section-title>
+<ce:para view="all">Chemical compositions of the alloy samples were shown in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+<ce:float-anchor refid="tbl1"></ce:float-anchor>. The alloys were prepared by arc melting of high purity metal elements into ingots under an argon atmosphere. The alloy ingots were pulverized in a nickel mortar, into powders with particle size about 60 <mml:math altimg="si1.gif" overflow="scroll">
+<mml:mstyle mathvariant="normal">
+<mml:mi>μ</mml:mi>
+</mml:mstyle>
+</mml:math>m in diameter. Lattice structures were investigated by X-ray diffractometer (Phillips “X’Pert” system) using Cu K<mml:math altimg="si2.gif" overflow="scroll">
+<mml:mstyle mathvariant="normal">
+<mml:mi>α</mml:mi>
+</mml:mstyle>
+</mml:math> radiation with a carbon monochromator.</ce:para>
+<ce:para view="all">The pressure–composition isotherms for the hydrogenation of the alloys were determined at 293 K using a Sieverts’ type apparatus. The sample was first evacuated down to <mml:math altimg="si3.gif" overflow="scroll">
+<mml:mn>1.0</mml:mn>
+<mml:mo>×</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:msup>
+<mml:mrow>
+<mml:mn>0</mml:mn>
+</mml:mrow>
+<mml:mrow>
+<mml:mo>−</mml:mo>
+<mml:mn>3</mml:mn>
+</mml:mrow>
+</mml:msup>
+</mml:math>  Torr for 30 min by a rotary pump. Then it was kept in a hydrogen atmosphere of 3.5 MPa at 523 K, for activation. After being activated, each sample was evacuated again at 523 K for 2 h and dehydrogenated, followed by cooling down to the measuring temperature (293 K), and then <ce:italic>P</ce:italic> –<ce:italic>C</ce:italic> isotherm measurement was started.</ce:para>
+<ce:para view="all">Each alloy powder was made into metal hydride electrode (MH electrode). The alloy powders were sieved and their particle sizes are averaged to about 60 <mml:math altimg="si4.gif" overflow="scroll">
+<mml:mstyle mathvariant="normal">
+<mml:mi>μ</mml:mi>
+</mml:mstyle>
+</mml:math> m in diameter. The alloy powders were mixed with copper powder (Fukuda Metal Foil &amp; Powder MFG. Co.; “FCC-1100MH”) which worked as both a binder and a current collector. The mixing ratio of copper to alloy powder was 3:1. The mixtures were then pressed into pellets with 13 mm in diameter, which contained about 0.2 g of alloy powder. The copper-bound pellet was then enveloped by a piece of small nickel net which was connected to a nickel wire, thus a working electrode was obtained.</ce:para>
+<ce:para view="all">The alloy electrodes were tested in an open cell at 298 K, using 6 M KOH electrolyte, Ni(OH)<ce:inf loc="post">2</ce:inf>/NiOOH counter electrode, and Hg/HgO reference electrode. The electrode characteristics (cycle lives and high rate discharge efficiencies) were measured by monitoring the electrode potentials during charge/discharge cycles. Currents were controlled by a conventional galvanostat (Hokuto-denkoh HA-151), with a small computer system. Rechargeable capacities were evaluated discharging the electrodes from fully charged state up to the cut off potential of <mml:math altimg="si5.gif" overflow="scroll">
+<mml:mo>−</mml:mo>
+<mml:mn>0.65</mml:mn>
+</mml:math>  V versus Hg/HgO. In cycle life tests, all electrodes were charged at a rate of 80 mA/g, and discharged at that of 40 mA/g.</ce:para>
+</ce:section>
+<ce:section id="sec3" view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:section id="sec4" view="all">
+<ce:label>3.1</ce:label>
+<ce:section-title>Ti–Fe–Pd ternary alloys</ce:section-title>
+<ce:para view="all">
+<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor> shows the XRD profiles of B-site substituted alloys (TiFe<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+</ce:inf>Pd<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf>, <mml:math altimg="si6.gif" overflow="scroll">
+<mml:mi>x</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.1</mml:mn>
+<mml:mtext>,</mml:mtext>
+<mml:mn>0.2</mml:mn>
+<mml:mtext>,</mml:mtext>
+<mml:mn>0.4</mml:mn>
+</mml:math>) and an A-site substituted alloy (Ti<ce:inf loc="post">0.8</ce:inf>FePd<ce:inf loc="post">0.2</ce:inf>). Although the former alloys kept the original microstructure (CsCl type), the latter turned into the crystal with a C14 Laves phase structure. This suggests that it is difficult to substitute titanium atoms TiFe crystal with palladium, probably because of the large difference between their atomic radii. <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor> shows the <ce:italic>P</ce:italic> –<ce:italic>C</ce:italic> isotherms of these alloys. About the B-site substituted alloys, contrary to the case of substitution with nickel <ce:cross-ref refid="bib9">[9]</ce:cross-ref> , the plateau was distinctly split into two portions and the higher H/M portion of the isotherm became very flat. With increasing the amount of substitution, the equilibrium pressure of the higher portion of plateau became higher, and that of the lower portion became lower. It is usually difficult to use high-plateau pressure alloys as MH electrodes, therefore, the electrochemically rechargeable capacities of these B-site substituted alloy electrodes would be smaller than expected.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor> shows change in discharge capacities with increasing charge/discharge cycles (cycle life profile). The alloy electrodes using TiFe<ce:inf loc="post">0.6</ce:inf>Pd<ce:inf loc="post">0.4</ce:inf> and Ti<ce:inf loc="post">0.8</ce:inf>FePd<ce:inf loc="post">0.2</ce:inf> alloys were fully activated in the first cycle, but their discharge capacities were very small. For Ti<ce:inf loc="post">0.8</ce:inf>FePd<ce:inf loc="post">0.2</ce:inf> alloy electrode, the capacity estimated from its <ce:italic>P</ce:italic> –<ce:italic>C</ce:italic> isotherm corresponds to the electrochemical capacity. For TiFe<ce:inf loc="post">0.6</ce:inf>Pd<ce:inf loc="post">0.4</ce:inf> alloy electrode, the equilibrium pressure of the lower pressure plateau at 293 K became lower than <mml:math altimg="si7.gif" overflow="scroll">
+<mml:mn>1</mml:mn>
+<mml:msup>
+<mml:mrow>
+<mml:mn>0</mml:mn>
+</mml:mrow>
+<mml:mrow>
+<mml:mo>−</mml:mo>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msup>
+</mml:math>  MPa, and electrochemical capacity became smaller than that estimated from its <ce:italic>P</ce:italic> –<ce:italic>C</ce:italic> isotherm, because of its slow desorption kinetics. For the alloy electrodes using TiFe<ce:inf loc="post">0.9</ce:inf>Pd<ce:inf loc="post">0.1</ce:inf> and TiFe<ce:inf loc="post">0.8</ce:inf>Pd<ce:inf loc="post">0.2</ce:inf> alloys, discharge capacities went up as high as 200 mAh/g, however, this means rechargeable H/M was less than 0.5. <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor> shows the discharge curves of TiFe<ce:inf loc="post">0.9</ce:inf>Pd<ce:inf loc="post">0.1</ce:inf> alloy electrodes measured at several different current densities. With decreasing discharge current density, its dischargeable capacity saturated at about 200 mAh/g. This means electrochemically rechargeable capacity of this alloy is actually 200 mAh/g, and suggests that the alloy could not be charged electrochemically with more H/M than 0.5, because the higher pressure plateau of this alloy corresponds to the pressure as high as 1 MPa.</ce:para>
+</ce:section>
+<ce:section id="sec5" view="all">
+<ce:label>3.2</ce:label>
+<ce:section-title>Effect of further substitution with vanadium or manganese</ce:section-title>
+<ce:para view="all">In order to decrease the equilibrium hydrogen pressure, the alloy was further substituted with vanadium or manganese. <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="fig5"></ce:float-anchor> shows the <ce:italic>P</ce:italic> –<ce:italic>C</ce:italic> isotherms of TiFe<ce:inf loc="post">0.8</ce:inf>Pd<ce:inf loc="post">0.1</ce:inf>V<ce:inf loc="post">0.1</ce:inf> and TiFe<ce:inf loc="post">0.8</ce:inf>Pd<ce:inf loc="post">0.1</ce:inf>Mn<ce:inf loc="post">0.1</ce:inf> alloys. The isotherm of TiFe<ce:inf loc="post">0.9</ce:inf>Pd<ce:inf loc="post">0.1</ce:inf> is also plotted for comparison. This shows that both of the fourth element lowered the plateau pressure, especially vanadium is hopeful to make the higher plateau pressure down to electrochemically rechargeable range. <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="fig6"></ce:float-anchor> shows discharge curves of the V/Mn substituted alloy electrodes. The vanadium substituted one has a large rechargeable capacity more than 400 mAh/g.</ce:para>
+<ce:para view="all">However, the cycle life of TiFe<ce:inf loc="post">0.8</ce:inf>Pd<ce:inf loc="post">0.1</ce:inf>V<ce:inf loc="post">0.1</ce:inf> alloy electrode was extremely short. <ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+<ce:float-anchor refid="fig7"></ce:float-anchor> shows its cycle life profile, plotted with that of TiFe<ce:inf loc="post">0.9</ce:inf>Pd<ce:inf loc="post">0.1</ce:inf> electrode. The discharge capacity decayed quickly, and became almost inactive within the first 10 cycles.</ce:para>
+<ce:para view="all">There are two main causes for capacity decay of MH electrodes. First is the decrease in the degree of contact of active materials to the current collector due to volume change during hydrogen absorption/desorption. The second is the deterioration of active material itself. X-ray diffraction profile of the electrode after charge/discharge cycles showed the existence of titanium hydride and iron hydroxide, suggesting that phase separation had occurred. <ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>(a)<ce:float-anchor refid="fig8"></ce:float-anchor> shows the SEM micrograph of TiFe<ce:inf loc="post">0.9</ce:inf>Pd<ce:inf loc="post">0.1</ce:inf> alloy electrode after 20 cycles of charge/discharge. The alloy particles are covered with pin-like precipitates. <ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>(b) is the close-up of a precipitate. The EDX analysis was carried out for the area indicated by the open circle, and the result is shown in <ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>
+<ce:float-anchor refid="tbl2"></ce:float-anchor>. It was found that the precipitate mainly consisted of iron. These results show that the alloy matrix is rather unstable, and decomposed into titanium hydride and iron hydroxide during charge/discharge cycles. For practical use, the chemical stability of the alloy must be further improved.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section id="sec6" view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusion</ce:section-title>
+<ce:para view="all">By substituting iron in TiFe alloy with palladium, the plateau in the <ce:italic>P</ce:italic> –<ce:italic>C</ce:italic> isotherms became flat and distinctly split into two portions. With increasing the amount of substitution, the higher-pressure portion of the plateau became higher and lower-pressure portion became lower. The lattice structure (CsCl type) was not changed by this substitution. By substituting titanium in TiFe with palladium, the crystal structure was changed into C14 Laves phase, and hydrogen absorption capacity (H/M) strongly decreased. By further substitution of TiFe<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+</ce:inf>Pd<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf> alloys with vanadium or manganese, plateau pressures of the both higher and lower portions of <ce:italic>P</ce:italic> –<ce:italic>C</ce:italic> isotherms decreased.</ce:para>
+<ce:para view="all">The electrochemically rechargeable capacity of TiFe<ce:inf loc="post">0.8</ce:inf> Pd<ce:inf loc="post">0.1</ce:inf>V<ce:inf loc="post">0.1</ce:inf> alloy reached more than 400 mAh/g, however, the cycle life of the alloy electrode quickly decayed, and became inactive within the initial 10 cycles. The cause of quick deterioration was attributed to phase separation of the alloy.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgement</ce:section-title>
+<ce:para view="all">The authors wish to thank Mrs. Kae Hirai, for her assistance in carrying out this research.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Reilly</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.H.</ce:given-name>
+<ce:surname>Wiswall</ce:surname>
+<ce:suffix>Jr.</ce:suffix>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Inorg. Chem.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>9</sb:volume-nr>
+</sb:series>
+<sb:date>1970</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1678</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.D.</ce:given-name>
+<ce:surname>Sandrock</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.J.</ce:given-name>
+<ce:surname>Reilly</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.R.</ce:given-name>
+<ce:surname>Johnson</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:title>
+<sb:maintitle>Proceedings of 11th Intersociety Energy Conversion Engineering Conference</sb:maintitle>
+</sb:title>
+<sb:conference>AIChE</sb:conference>
+<sb:date>1976</sb:date>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>965</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.D.</ce:given-name>
+<ce:surname>Sandrock</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:title>
+<sb:maintitle>International Symposium on Hydrides for Energy Storage</sb:maintitle>
+</sb:title>
+<sb:conference>Geilo, Norway</sb:conference>
+<sb:date>1977</sb:date>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>353</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Amano</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Sasaki</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Yoshioka</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Jpn. Inst. Metall.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>45</sb:volume-nr>
+</sb:series>
+<sb:date>1981</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>957</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Yamashita</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Sakai</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.T.</ce:given-name>
+<ce:surname>Takeshita</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Uehara</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:title>
+<sb:maintitle>Proceedings of “39th Denchi Touron Kai”</sb:maintitle>
+</sb:title>
+<sb:conference>Sendai, Japan</sb:conference>
+<sb:date>1998</sb:date>
+</sb:edited-book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Jurczyk</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Jankowska</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Nowak</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Jakubowicz</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>336</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>265</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Jankowska</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Jurczyk</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>346</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>L1</sb:first-page>
+<sb:last-page>L3</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Jurczyk</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Jankowska</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Nowak</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Wieczorek</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>354</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>L1</sb:first-page>
+<sb:last-page>L4</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Miyamura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Takada</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Hirose</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Kikuchi</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>356–357</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>755</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

@@ -1,0 +1,1296 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838805015227</prism:url><dc:identifier>doi:10.1016/j.jallcom.2005.10.029</dc:identifier><eid>1-s2.0-S0925838805015227</eid><prism:doi>10.1016/j.jallcom.2005.10.029</prism:doi><pii>S0925-8388(05)01522-7</pii><dc:title>Direct electrochemical production of Ti–10W alloys from mixed oxide preform precursors </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>419</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>103</prism:startingpage><prism:endingpage>109</prism:endingpage><prism:pagerange>103-109</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2006-08-10</prism:coverdate><prism:coverdisplaydate>10 August 2006</prism:coverdisplaydate><prism:copyright>Copyright © 2005 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Dring, K.</dc:creator><dc:creator>Bhagat, R.</dc:creator><dc:creator>Jackson, M.</dc:creator><dc:creator>Dashwood, R.</dc:creator><dc:creator>Inman, D.</dc:creator><dc:description>
+                  Ti–W alloys were produced via electrochemical reduction of TiO2–WO3 mixed oxide preforms in a pre-electrolysed, molten calcium chloride electrolyte at 1173K. Electrolysis voltages of 1500–3200mV were applied for times ranging from 6 to 24h across a graphite anode and Grade 2 commercial purity (CP) titanium cathodic current collector, which supported the ceramic precursors. Low-oxygen, homogeneous material was subsequently water washed and characterized to determine the level of residual species remaining from the reduction process, such as Cl and Ca. The microstructure (porosity and microchemistry) of the reduced material and microstructural examination of the mixed oxide feedstock (particle morphology, size and chemistry) were characterized using a field emission gun scanning electron microscope (FEG-SEM) with backscattered electron imaging (BSE) and X-ray energy dispersive spectrometry (X-EDS).
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Titanium</dcterms:subject><dcterms:subject>Tungsten</dcterms:subject><dcterms:subject>Electrochemical reduction</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838805015227" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838805015227" rel="scidir"/></coredata><objects><object category="standard" height="286" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr10" size="79450" type="IMAGE-DOWNSAMPLED" width="357">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015227-gr10.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr10" size="5149" type="IMAGE-THUMBNAIL" width="117">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015227-gr10.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="259" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr9" size="45033" type="IMAGE-DOWNSAMPLED" width="357">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015227-gr9.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="91" mimetype="image/gif" multimediatype="GIF image file" ref="gr9" size="3931" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015227-gr9.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="275" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="72630" type="IMAGE-DOWNSAMPLED" width="372">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015227-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="5911" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015227-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="262" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="44089" type="IMAGE-DOWNSAMPLED" width="374">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015227-gr4.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="87" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="1948" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015227-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="286" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="83155" type="IMAGE-DOWNSAMPLED" width="371">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015227-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="3973" type="IMAGE-THUMBNAIL" width="121">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015227-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="187" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="23545" type="IMAGE-DOWNSAMPLED" width="363">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015227-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="64" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="1003" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015227-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="271" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr6" size="80006" type="IMAGE-DOWNSAMPLED" width="372">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015227-gr6.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="91" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="5562" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015227-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="230" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr7" size="22470" type="IMAGE-DOWNSAMPLED" width="357">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015227-gr7.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="81" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="1006" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015227-gr7.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="262" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr8" size="18536" type="IMAGE-DOWNSAMPLED" width="364">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015227-gr8.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="90" mimetype="image/gif" multimediatype="GIF image file" ref="gr8" size="1279" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015227-gr8.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="219" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="5318" type="IMAGE-DOWNSAMPLED" width="358">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015227-gr5.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="77" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="1265" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805015227-gr5.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>33745230770</scopus-id><scopus-eid>2-s2.0-33745230770</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/33745230770" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20060207">2006-02-07</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20060207">2006-02-07</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-03-29T07:36:02</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838805015227</xocs:eid>
+<xocs:pii-formatted>S0925-8388(05)01522-7</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805015227</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2005.10.029</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838806X02578</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.349087-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20060810</xocs:date-search-begin>
+<xocs:year-nav>2006</xocs:year-nav>
+<xocs:indexeddate epoch="1139270400">2006-02-07T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>419</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>419</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 419, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>21</xocs:sort-order>
+<xocs:first-fp>103</xocs:first-fp>
+<xocs:last-lp>109</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>103</xocs:first-page>
+<xocs:last-page>109</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20060810</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>10 August 2006</xocs:cover-date-text>
+<xocs:cover-date-start>2006-08-10</xocs:cover-date-start>
+<xocs:cover-date-year>2006</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Metallurgy</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2005 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>DIRECTELECTROCHEMICALPRODUCTIONTI10WALLOYSMIXEDOXIDEPREFORMPRECURSORS</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>DRING</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>K</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Sintered preform</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Reduced preform</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>FRARY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>103</xocs:ref-first-fp>
+<xocs:ref-last-lp>112</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>FROES</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1980</xocs:ref-pub-year>
+<xocs:ref-first-fp>21</xocs:ref-first-fp>
+<xocs:ref-last-lp>31</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-pub-year>1987</xocs:ref-pub-year>
+<xocs:ref-first-fp>211</xocs:ref-first-fp>
+<xocs:ref-last-lp>229</xocs:ref-last-lp>
+<xocs:ref-normalized-srctitle>PHASEDIAGRAMSBINARYTITANIUMALLOYS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>YAMANAKA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1992</xocs:ref-pub-year>
+<xocs:ref-first-fp>600</xocs:ref-first-fp>
+<xocs:ref-last-lp>606</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>CHOE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>99</xocs:ref-first-fp>
+<xocs:ref-last-lp>106</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>CHOE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>62</xocs:ref-first-fp>
+<xocs:ref-last-lp>66</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>SUZUKI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>277</xocs:ref-first-fp>
+<xocs:ref-last-lp>285</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>361</xocs:ref-first-fp>
+<xocs:ref-last-lp>364</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>FRAY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>295</xocs:ref-first-fp>
+<xocs:ref-last-lp>300</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>CHANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1967</xocs:ref-pub-year>
+<xocs:ref-first-fp>51</xocs:ref-first-fp>
+<xocs:ref-last-lp>56</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11"></xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>LITTLEWOOD</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1962</xocs:ref-pub-year>
+<xocs:ref-first-fp>23</xocs:ref-first-fp>
+<xocs:ref-last-lp>65</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13"></xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>881</xocs:ref-first-fp>
+<xocs:ref-last-lp>886</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>LIGHTMETALS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15">
+<xocs:ref-normalized-surname>CHANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1968</xocs:ref-pub-year>
+<xocs:ref-first-fp>295</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>DRINGX2006X103</xocs:refkey3>
+<xocs:refkey4lp>DRINGX2006X103X109</xocs:refkey4lp>
+<xocs:refkey4ai>DRINGX2006X103XK</xocs:refkey4ai>
+<xocs:refkey5>DRINGX2006X103X109XK</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(05)01522-7</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805015227</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838805015227</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2005.10.029</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-08T03:48:30.272328-04:00</xocs:timestamp>
+<xocs:cover-date-start>2006-08-10</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838805015227-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015227/MAIN/application/pdf/09d303bb9e6fe7719028c2903dbfe55c/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015227/MAIN/application/pdf/09d303bb9e6fe7719028c2903dbfe55c/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>642450</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838805015227-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015227/PREVIEW/image/png/e706b4fc3cec8b174349043d884ce49b/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015227/PREVIEW/image/png/e706b4fc3cec8b174349043d884ce49b/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>67241</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015227-gr10.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015227/gr10/DOWNSAMPLED/image/jpeg/e233e0eddfd637fc532b8238e5f0819f/gr10.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015227/gr10/DOWNSAMPLED/image/jpeg/e233e0eddfd637fc532b8238e5f0819f/gr10.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr10</xocs:file-basename>
+<xocs:filename>gr10.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>79450</xocs:filesize>
+<xocs:pixel-height>286</xocs:pixel-height>
+<xocs:pixel-width>357</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015227-gr10.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015227/gr10/THUMBNAIL/image/gif/6b17dd30699cfd2e7eb6474df0160433/gr10.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015227/gr10/THUMBNAIL/image/gif/6b17dd30699cfd2e7eb6474df0160433/gr10.sml</xocs:ucs-locator>
+<xocs:file-basename>gr10</xocs:file-basename>
+<xocs:filename>gr10.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>5149</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>117</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015227-gr9.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015227/gr9/DOWNSAMPLED/image/jpeg/e919b202378765e9c044847d47644172/gr9.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015227/gr9/DOWNSAMPLED/image/jpeg/e919b202378765e9c044847d47644172/gr9.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>45033</xocs:filesize>
+<xocs:pixel-height>259</xocs:pixel-height>
+<xocs:pixel-width>357</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015227-gr9.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015227/gr9/THUMBNAIL/image/gif/b13ed1a38539f2a481200e048cece85b/gr9.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015227/gr9/THUMBNAIL/image/gif/b13ed1a38539f2a481200e048cece85b/gr9.sml</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3931</xocs:filesize>
+<xocs:pixel-height>91</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015227-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015227/gr1/DOWNSAMPLED/image/jpeg/d3050faade3fdb755c93855805784880/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015227/gr1/DOWNSAMPLED/image/jpeg/d3050faade3fdb755c93855805784880/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>72630</xocs:filesize>
+<xocs:pixel-height>275</xocs:pixel-height>
+<xocs:pixel-width>372</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015227-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015227/gr1/THUMBNAIL/image/gif/aff14da28a0651b9cf9d610be522b239/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015227/gr1/THUMBNAIL/image/gif/aff14da28a0651b9cf9d610be522b239/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>5911</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015227-gr4.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015227/gr4/DOWNSAMPLED/image/jpeg/ec55f249f5753978452ae2e40d1237b9/gr4.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015227/gr4/DOWNSAMPLED/image/jpeg/ec55f249f5753978452ae2e40d1237b9/gr4.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>44089</xocs:filesize>
+<xocs:pixel-height>262</xocs:pixel-height>
+<xocs:pixel-width>374</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015227-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015227/gr4/THUMBNAIL/image/gif/a797d26e520386aa8cdd0af5bde7331a/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015227/gr4/THUMBNAIL/image/gif/a797d26e520386aa8cdd0af5bde7331a/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1948</xocs:filesize>
+<xocs:pixel-height>87</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015227-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015227/gr2/DOWNSAMPLED/image/jpeg/ba13db289b60258d1189fcb03a2feecb/gr2.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015227/gr2/DOWNSAMPLED/image/jpeg/ba13db289b60258d1189fcb03a2feecb/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>83155</xocs:filesize>
+<xocs:pixel-height>286</xocs:pixel-height>
+<xocs:pixel-width>371</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015227-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015227/gr2/THUMBNAIL/image/gif/62858d07e98927967c32091171257868/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015227/gr2/THUMBNAIL/image/gif/62858d07e98927967c32091171257868/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3973</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>121</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015227-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015227/gr3/DOWNSAMPLED/image/jpeg/ce3b1cdec94ccde33c7679b940b80588/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015227/gr3/DOWNSAMPLED/image/jpeg/ce3b1cdec94ccde33c7679b940b80588/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>23545</xocs:filesize>
+<xocs:pixel-height>187</xocs:pixel-height>
+<xocs:pixel-width>363</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015227-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015227/gr3/THUMBNAIL/image/gif/97c56e34ee4479b662662becdf2c076c/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015227/gr3/THUMBNAIL/image/gif/97c56e34ee4479b662662becdf2c076c/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1003</xocs:filesize>
+<xocs:pixel-height>64</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015227-gr6.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015227/gr6/DOWNSAMPLED/image/jpeg/1d7d0cc89acb6925f6934671652bb5c5/gr6.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015227/gr6/DOWNSAMPLED/image/jpeg/1d7d0cc89acb6925f6934671652bb5c5/gr6.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>80006</xocs:filesize>
+<xocs:pixel-height>271</xocs:pixel-height>
+<xocs:pixel-width>372</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015227-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015227/gr6/THUMBNAIL/image/gif/c9eac6c36b6b36ca6e76c085b1c7086f/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015227/gr6/THUMBNAIL/image/gif/c9eac6c36b6b36ca6e76c085b1c7086f/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>5562</xocs:filesize>
+<xocs:pixel-height>91</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015227-gr7.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015227/gr7/DOWNSAMPLED/image/jpeg/dafc3db442b12a2d989f113ba58ad565/gr7.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015227/gr7/DOWNSAMPLED/image/jpeg/dafc3db442b12a2d989f113ba58ad565/gr7.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>22470</xocs:filesize>
+<xocs:pixel-height>230</xocs:pixel-height>
+<xocs:pixel-width>357</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015227-gr7.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015227/gr7/THUMBNAIL/image/gif/fa9bf78e977006e1c77ef5d7d2058b9e/gr7.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015227/gr7/THUMBNAIL/image/gif/fa9bf78e977006e1c77ef5d7d2058b9e/gr7.sml</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1006</xocs:filesize>
+<xocs:pixel-height>81</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015227-gr8.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015227/gr8/DOWNSAMPLED/image/jpeg/7d665b0c30e47fadce7067c3328f486e/gr8.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015227/gr8/DOWNSAMPLED/image/jpeg/7d665b0c30e47fadce7067c3328f486e/gr8.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>18536</xocs:filesize>
+<xocs:pixel-height>262</xocs:pixel-height>
+<xocs:pixel-width>364</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015227-gr8.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015227/gr8/THUMBNAIL/image/gif/f4d11dbd440ae2f19deec3caf3831a16/gr8.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015227/gr8/THUMBNAIL/image/gif/f4d11dbd440ae2f19deec3caf3831a16/gr8.sml</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1279</xocs:filesize>
+<xocs:pixel-height>90</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015227-gr5.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015227/gr5/DOWNSAMPLED/image/gif/3783ded18988033533f2ec2921c039ac/gr5.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015227/gr5/DOWNSAMPLED/image/gif/3783ded18988033533f2ec2921c039ac/gr5.gif</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>5318</xocs:filesize>
+<xocs:pixel-height>219</xocs:pixel-height>
+<xocs:pixel-width>358</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805015227-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805015227/gr5/THUMBNAIL/image/gif/144bc8ea93d601018f5e7f16866a25fc/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805015227/gr5/THUMBNAIL/image/gif/144bc8ea93d601018f5e7f16866a25fc/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1265</xocs:filesize>
+<xocs:pixel-height>77</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>13195</aid>
+<ce:pii>S0925-8388(05)01522-7</ce:pii>
+<ce:doi>10.1016/j.jallcom.2005.10.029</ce:doi>
+<ce:copyright type="full-transfer" year="2005">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">TiO<ce:inf loc="post">2</ce:inf>–WO<ce:inf loc="post">3</ce:inf> preform sintered at 1373<ce:hsp sp="0.25"></ce:hsp>K for 2<ce:hsp sp="0.25"></ce:hsp>h.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Backscattered electron image of TiO<ce:inf loc="post">2</ce:inf>–WO<ce:inf loc="post">3</ce:inf> preform.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">X-ray diffraction pattern of blended TiO<ce:inf loc="post">2</ce:inf>–WO<ce:inf loc="post">3</ce:inf> powders and sintered preform.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Predominance diagram for co-reduction of titanium oxides and tungsten oxides in molten CaCl<ce:inf loc="post">2</ce:inf> at 1173<ce:hsp sp="0.25"></ce:hsp>K.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">X-ray diffraction pattern of partially reduced Ti–W–O material.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Backscattered electron micrograph of Ti–10W alloy.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+<ce:figure id="fig7">
+<ce:label>Fig. 7</ce:label>
+<ce:caption>
+<ce:simple-para view="all">X-ray diffraction pattern of Ti–10W alloy and major α and β-Ti peaks.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr7"></ce:link>
+</ce:figure>
+<ce:figure id="fig8">
+<ce:label>Fig. 8</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Titanium–tungsten binary phase diagram (redrawn from Murray <ce:cross-ref refid="bib3">[3]</ce:cross-ref>).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr8"></ce:link>
+</ce:figure>
+<ce:figure id="fig9">
+<ce:label>Fig. 9</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Backscattered electron micrograph of transformed β grain in Ti–10W alloy.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr9"></ce:link>
+</ce:figure>
+<ce:figure id="fig10">
+<ce:label>Fig. 10</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Backscattered electron micrograph of surface region.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr10"></ce:link>
+</ce:figure>
+<ce:table colsep="0" frame="topbot" id="tbl1" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Melting temperature and bulk density of selected β-stabilising elements</ce:simple-para>
+</ce:caption>
+<tgroup cols="8">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<colspec colname="col5"></colspec>
+<colspec colname="col6"></colspec>
+<colspec colname="col7"></colspec>
+<colspec colname="col8"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Element</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Zr</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">V</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Hf</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Nb</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Mo</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Ta</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">W</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Melting point (K)</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">2128</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">2183</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">2504</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">2742</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">2896</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">3293</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">3695</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Density (kg<hsp sp="0.25"></hsp>m<sup loc="post">−3</sup>)</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">6510</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">6110</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">13310</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">8570</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">10280</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">16650</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">19250</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+</ce:floats>
+<ce:title>Direct electrochemical production of Ti–10W alloys from mixed oxide preform precursors</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Dring</ce:surname>
+<ce:cross-ref refid="cor1">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Bhagat</ce:surname>
+</ce:author>
+<ce:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Jackson</ce:surname>
+</ce:author>
+<ce:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Dashwood</ce:surname>
+</ce:author>
+<ce:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Inman</ce:surname>
+</ce:author>
+<ce:affiliation>
+<ce:textfn>Imperial College London, Department of Materials, London SW7 2AZ, UK</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>⁎</ce:label>
+<ce:text>Corresponding author.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="28" month="7" year="2005"></ce:date-received>
+<ce:date-accepted day="4" month="10" year="2005"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">Ti–W alloys were produced via electrochemical reduction of TiO<ce:inf loc="post">2</ce:inf>–WO<ce:inf loc="post">3</ce:inf> mixed oxide preforms in a pre-electrolysed, molten calcium chloride electrolyte at 1173<ce:hsp sp="0.25"></ce:hsp>K. Electrolysis voltages of 1500–3200<ce:hsp sp="0.25"></ce:hsp>mV were applied for times ranging from 6 to 24<ce:hsp sp="0.25"></ce:hsp>h across a graphite anode and Grade 2 commercial purity (CP) titanium cathodic current collector, which supported the ceramic precursors. Low-oxygen, homogeneous material was subsequently water washed and characterized to determine the level of residual species remaining from the reduction process, such as Cl and Ca. The microstructure (porosity and microchemistry) of the reduced material and microstructural examination of the mixed oxide feedstock (particle morphology, size and chemistry) were characterized using a field emission gun scanning electron microscope (FEG-SEM) with backscattered electron imaging (BSE) and X-ray energy dispersive spectrometry (X-EDS).</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Titanium</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Tungsten</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Electrochemical reduction</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Ti–W alloys have recently been investigated for biomedical applications where the superior corrosion resistance of titanium in biological media is complemented by the improvements in wear resistance obtained through alloying with tungsten. The effects of tungsten additions include decreased elastic modulus and increased radio-opacity, which improves stress sharing between the implant and host tissue and X-ray identification of thin-section implants, respectively <ce:cross-ref refid="bib1">[1]</ce:cross-ref>. Furthermore, tungsten does not degrade the biocompatibility of titanium and the subsequent Ti–W alloys, unlike the stainless steel and cobalt alloys, are non-magnetic, which is of critical importance in magnetic resonance imaging (MRI) techniques. Beyond biomedical applications, the development of novel β-Ti alloys has been hampered by the tendency for β-stabilising elements to segregate during ingot solidification and, to a lesser extent, the increase in alloy density. However, the body-centred cubic structure offers clear advantages including the prospect of cold-forming in a relatively soft condition followed by age hardening, increased hardenability in thick sections, and lower flow stresses during thermomechanical processing <ce:cross-ref refid="bib2">[2]</ce:cross-ref>.</ce:para>
+<ce:para view="all">Addition of β-stabilising elements is often restricted by the resultant increase in the difference between liquidus and solidus temperatures <ce:cross-ref refid="bib3">[3]</ce:cross-ref> and the consequent ingot segregation problems. Elements such as Mo, V, Ta, W, Hf, Nb, and Zr that have much higher melting temperatures (<ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+<ce:float-anchor refid="tbl1"></ce:float-anchor>) than pure titanium (<ce:italic>T</ce:italic>
+<ce:inf loc="post">m</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1943<ce:hsp sp="0.25"></ce:hsp>K) are consequently avoided or blended in as master alloys.</ce:para>
+<ce:para view="all">The production of Ti–M alloys, where M is a refractory metal, is not trivial. Relative to titanium, which has a liquid density near 4500<ce:hsp sp="0.25"></ce:hsp>kg<ce:hsp sp="0.25"></ce:hsp>m<ce:sup loc="post">−3</ce:sup>, the high densities and melting points of these elements results in a short residence time in the liquid titanium pool during solidification <ce:cross-ref refid="bib4">[4]</ce:cross-ref>, and consequently, such additions are either entrained in the cold hearth skull or pass without dissolving through the molten metal pool in vacuum arc remelting techniques. As conventional Kroll production of titanium requires a liquid melt processing step, tungsten alloys are not feasible and must be made through exotic processing routes such as mechanically alloyed (MA) fine metal powders. As titanium possesses a high affinity for oxygen, the titanium feedstock can not possess too fine a particle size and oxygen contamination is a ubiquitous problem in titanium powder metallurgy. Recent studies on MA Ti–W alloys (both Ti–W and Ti–6Al–4V–W) have shown considerable improvements in the mechanical properties by blending sub-150<ce:hsp sp="0.25"></ce:hsp>μm titanium powder with tungsten particles of various sizes <ce:cross-refs refid="bib1 bib5 bib6">[1,5,6]</ce:cross-refs>. A pronounced solid solution strengthening effect was observed in cases where the tungsten particle size was sufficiently small (&lt;3<ce:hsp sp="0.25"></ce:hsp>μm) to attain near 100% dissolution, with gains in ultimate tensile strength and yield strength of approximately 50<ce:hsp sp="0.25"></ce:hsp>MPa per wt.% tungsten added. However, the processing route employed resulted in incomplete blending of the metal powders, and large tungsten agglomerates measuring approximately 40<ce:hsp sp="0.25"></ce:hsp>μm were incompletely dissolved and served as fracture initiation sites in an otherwise ductile material. With larger tungsten particles, the mechanical behaviour more closely resembled a particulate reinforced composite and the observed ductility was significantly inferior to that of the alloy. The hardness of the Ti–W alloys was significantly greater than that of commercial purity (CP) titanium, although part of this may be attributed to the high oxygen content of the Ti powder feedstock (2500<ce:hsp sp="0.25"></ce:hsp>ppm O).</ce:para>
+<ce:para view="all">Although the mechanical properties of Ti–W are promising, and may be further improved by optimizing the microstructure, the problems associated with the present processing route clearly degrade performance. To eliminate the issues of compositional inhomogeneity and high oxygen, an electrochemical method is utilized, whereby a mixed TiO<ce:inf loc="post">2</ce:inf>–WO<ce:inf loc="post">3</ce:inf> preform is reduced in molten calcium chloride to form a Ti–10W alloy. The Ti–W alloy is reacted in the solid state throughout the reduction process, and the oxygen removed from the ceramic preform is evolved at a graphite anode in the form of CO or CO<ce:inf loc="post">2</ce:inf>. Such a process has been used to produce unalloyed titanium <ce:cross-refs refid="bib7 bib8">[7,8]</ce:cross-refs> and other materials <ce:cross-ref refid="bib9">[9]</ce:cross-ref> from their oxides, and holds great promise for the production of novel compositions due to the absence of liquid melt processing steps. This process may be understood, depending on the operating conditions, as either a primary reduction process: whereby charge transfer directly effects reduction of the TiO<ce:inf loc="post">2</ce:inf>–WO<ce:inf loc="post">3</ce:inf> preform (reaction (1)), or as a secondary reduction (reactions (2a) and (2b)), where a faradaic process generates a chemical reductant, in this case Ca, which then reduces the oxides.<ce:display>
+<ce:formula>
+<ce:label>(1)</ce:label>
+<ce:chem>MO<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>2<ce:italic>n</ce:italic>e<ce:sup loc="post">−</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>MO<ce:inf loc="post">
+<ce:italic>x</ce:italic>−<ce:italic>n</ce:italic>
+</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>n</ce:italic>O<ce:sup loc="post">2−</ce:sup>
+</ce:chem>
+</ce:formula>
+</ce:display>
+<ce:display>
+<ce:formula>
+<ce:label>(2a)</ce:label>
+<ce:chem>
+<ce:italic>n</ce:italic>Ca<ce:sup loc="post">2+</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>2<ce:italic>n</ce:italic>e<ce:sup loc="post">−</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>n</ce:italic>Ca<ce:inf loc="post">(diss)</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>n</ce:italic>O<ce:sup loc="post">2−</ce:sup>
+</ce:chem>
+</ce:formula>
+</ce:display>
+<ce:display>
+<ce:formula>
+<ce:label>(2b)</ce:label>
+<ce:chem>MO<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>n</ce:italic>Ca<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>MO<ce:inf loc="post">
+<ce:italic>x</ce:italic>−<ce:italic>n</ce:italic>
+</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>n</ce:italic>O<ce:sup loc="post">2−</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>n</ce:italic>Ca<ce:sup loc="post">2+</ce:sup>
+</ce:chem>
+</ce:formula>
+</ce:display>
+</ce:para>
+<ce:para view="all">This paper investigates the microstructure of Ti–10W alloys both before and after reduction and describes the reduction process in the context of the electrochemical system at 1173<ce:hsp sp="0.25"></ce:hsp>K. Comparisons with material produced by the MA route and process improvements are also detailed.</ce:para>
+</ce:section>
+<ce:section role="materials-methods" view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental</ce:section-title>
+<ce:para view="all">Reagent grade oxide powders from Alfa Aesar (TiO<ce:inf loc="post">2</ce:inf> 99.5%, WO<ce:inf loc="post">3</ce:inf> 99.998%) were mixed, as-received, with a small amount of distilled water, which acted as a binding agent. The powder was then ground with a mortar and pestle for 300<ce:hsp sp="0.25"></ce:hsp>s to break down large agglomerates prior to uniaxial compaction on a 15<ce:hsp sp="0.25"></ce:hsp>mm diameter die at 100<ce:hsp sp="0.25"></ce:hsp>MPa to obtain the desired preform shape. The preforms were drilled to accept the cathodic current collector and placed in an alumina firing trough and sintered in air at 1373<ce:hsp sp="0.25"></ce:hsp>K for 2<ce:hsp sp="0.25"></ce:hsp>h using a 3<ce:hsp sp="0.25"></ce:hsp>K<ce:hsp sp="0.25"></ce:hsp>min<ce:sup loc="post">−1</ce:sup> heating rate and a 6<ce:hsp sp="0.25"></ce:hsp>K<ce:hsp sp="0.25"></ce:hsp>min<ce:sup loc="post">−1</ce:sup> cooling rate.</ce:para>
+<ce:para view="all">A molten salt reactor was assembled using a vertical tube furnace (SFL Instron TF1255) coupled to a 16-segment programmable controller (Eurotherm 2408). Temperatures were recorded using a Picolog TC-08 PC-based data acquisition unit. A sealed Inconel<ce:sup loc="post">®</ce:sup> reaction vessel (SFL Instron) housed commercial purity (CP) titanium crucibles that contained the dehydrated calcium chloride electrolyte granules (Fluka). The electrolyte was thermally equilibrated at 373<ce:hsp sp="0.25"></ce:hsp>K and subsequently heated at 0.1<ce:hsp sp="0.25"></ce:hsp>K<ce:hsp sp="0.25"></ce:hsp>min<ce:sup loc="post">−1</ce:sup> to 573<ce:hsp sp="0.25"></ce:hsp>K under argon (BOC Pureshield—200<ce:hsp sp="0.25"></ce:hsp>mL<ce:hsp sp="0.25"></ce:hsp>min<ce:sup loc="post">−1</ce:sup>), which had been dried by passing through silica gel and molecular sieves and then oxygen-gettered by flowing over heated titanium turnings/chips. The salt was held at this temperature for a minimum of 5<ce:hsp sp="0.25"></ce:hsp>h to remove physically adsorbed moisture and was then heated at 4<ce:hsp sp="0.25"></ce:hsp>K<ce:hsp sp="0.25"></ce:hsp>min<ce:sup loc="post">−1</ce:sup> to 1173<ce:hsp sp="0.25"></ce:hsp>K. Pre-electrolysis was applied for 1 to 3<ce:hsp sp="0.25"></ce:hsp>h to the melt to remove electroactive impurities and residual water in the salt using a voltage of 2750 to 2950<ce:hsp sp="0.25"></ce:hsp>mV applied across a polished Grade 2 CP Ti rod (3<ce:hsp sp="0.25"></ce:hsp>mm Ø) and a graphite rod (10<ce:hsp sp="0.25"></ce:hsp>mm Ø—Tokai Carbon EC4). This titanium cathode was subsequently extracted from the electrolyte under a reducing voltage and raised into the cool region of the reaction vessel to prevent recontamination of the melt via dissolution of species that had been electrodeposited during pre-electrolysis.</ce:para>
+<ce:para view="all">The mixed oxide preforms were placed into the reactor before pre-electrolysis and suspended above the melt on the current collector (Grade 2 CP Ti rod). Following pre-electrolysis the preforms were lowered into the electrolyte and reduced under applied voltages of 1500<ce:hsp sp="0.25"></ce:hsp>mV against the same graphite anode rod used during pre-electrolysis for an initial period of 1 to 2<ce:hsp sp="0.25"></ce:hsp>h. The voltage was subsequently increased to between 3000 and 3200<ce:hsp sp="0.25"></ce:hsp>mV for the remaining duration of the 24<ce:hsp sp="0.25"></ce:hsp>h reduction time. Following reduction, the samples were raised from the molten salt into the upper regions of the reaction vessel and the reactor was slowly cooled to room temperature. Samples were ultrasonically cleaned in distilled water to remove residual salt encrusted on the sample surface and prepared for subsequent analysis using standard metallographic techniques.</ce:para>
+<ce:para view="all">Material was analysed before and after reduction using a field emission gun scanning electron microscope (JEOL-FEGSEM) fitted with X-ray energy dispersive spectroscopy (X-EDS) capabilities operated at 20.0<ce:hsp sp="0.25"></ce:hsp>keV. X-ray diffraction (XRD) patterns were obtained with a Philips PW 1710 diffractometer using α-Cu radiation and a Ni filter. Phase identification was conducted using the indexing cards published by the International Centre for Diffraction Data.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:section view="all">
+<ce:label>3.1</ce:label>
+<ce:section-title>Sintered preform</ce:section-title>
+<ce:para view="all">The sintering schedule employed to produce the TiO<ce:inf loc="post">2</ce:inf>–WO<ce:inf loc="post">3</ce:inf> preforms was found to be satisfactory from both compositional and microstructural perspectives. As the material was sintered well below 1506<ce:hsp sp="0.25"></ce:hsp>K, at which temperature a eutectic reaction at 64<ce:hsp sp="0.25"></ce:hsp>mol% WO<ce:inf loc="post">3</ce:inf> occurs <ce:cross-ref refid="bib10">[10]</ce:cross-ref>, no liquid phase was observed and the microstructure showed minimal particle coarsening and only slight interconnect formation (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor>). The sample cross-section exhibited both macro- and micro-porosity, although no efforts were made to control the distribution of pores. Sample porosity was evaluated using the Archimedes method and found to consist of approximately 35% open porosity and 5% closed porosity, using a bulk density value of 4370<ce:hsp sp="0.25"></ce:hsp>kg<ce:hsp sp="0.25"></ce:hsp>m<ce:sup loc="post">−3</ce:sup> calculated from rule of mixtures. The preforms were not overly friable and possessed sufficient mechanical integrity for subsequent reduction.</ce:para>
+<ce:para view="all">The chemical composition of the sintered, mixed oxide preform was unchanged from the starting precursor powders as the binary phase diagram shows complete solid immiscibility below the eutectic temperature <ce:cross-ref refid="bib10">[10]</ce:cross-ref>. Consequently, the sintering regimen retained the distribution of elements present during the initial blending of powders and preform manufacture. At the reduction temperature of 1173<ce:hsp sp="0.25"></ce:hsp>K, the diffusion of tungsten in titanium is expected to be extremely slow, and a uniform distribution of WO<ce:inf loc="post">3</ce:inf> is essential to obtain a uniform distribution of tungsten in the final alloy. <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor> depicts a backscattered electron image of the mixed oxide preform cross-section, and shows the finely dispersed WO<ce:inf loc="post">3</ce:inf> particles. XRD analysis of the blended powder mixture and sintered preform (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor>) revealed TiO<ce:inf loc="post">2</ce:inf> as the dominant phase with minor WO<ce:inf loc="post">3</ce:inf> peaks as expected from the volume fraction of the constituents (95.3% TiO<ce:inf loc="post">2</ce:inf>, 4.7% WO<ce:inf loc="post">3</ce:inf>).</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.2</ce:label>
+<ce:section-title>Reduced preform</ce:section-title>
+<ce:para view="all">To understand the co-reduction of TiO<ce:inf loc="post">2</ce:inf> and WO<ce:inf loc="post">3</ce:inf> in molten CaCl<ce:inf loc="post">2</ce:inf>, an electrochemical predominance diagram (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor>) was constructed using a PC-based thermochemistry database <ce:cross-ref refid="bib11">[11]</ce:cross-ref> and following the example of Littlewood <ce:cross-ref refid="bib12">[12]</ce:cross-ref>. Equilibria for the phases present in the system are graphically depicted and delineate regions of stability for various phases as a function of electrode potential versus the standard chlorine electrode (S.Cl.E.) and melt oxide content, <ce:italic>p</ce:italic>O<ce:sup loc="post">2−</ce:sup>, which is defined as the negative logarithm of oxide ion activity. Diagrams for titanium oxides in molten calcium chloride over the temperature range 1073–1373<ce:hsp sp="0.25"></ce:hsp>K were previously produced <ce:cross-ref refid="bib13">[13]</ce:cross-ref> and, owing to the lack of WO<ce:inf loc="post">3</ce:inf>–TiO<ce:inf loc="post">2</ce:inf> solid solutions, the data for the tungsten system was superimposed upon an existing Ca–Ti–O–Cl framework. Although thermodynamic data are lacking for Ti–W alloys, the diagram provides insight into the reduction process, as it clearly predicts the formation of metallic W prior to the reduction of TiO<ce:inf loc="post">2</ce:inf>, which agrees with the published Ti–W–O ternary diagram <ce:cross-ref refid="bib10">[10]</ce:cross-ref>.</ce:para>
+<ce:para view="all">The mixed oxide preform initially resides in the upper, middle portion of the predominance diagram where WO<ce:inf loc="post">3</ce:inf> and TiO<ce:inf loc="post">2</ce:inf> coexist. By negatively polarizing the preform, the cathode potential should decrease with time as oxygen is progressively removed from the sample. As WO<ce:inf loc="post">3</ce:inf> is reduced to WO<ce:inf loc="post">2</ce:inf> (reaction (3)) at potentials less negative than those for TiO<ce:inf loc="post">2</ce:inf> to Ti<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">5</ce:inf> (reaction (4)), it is believed that WO<ce:inf loc="post">3</ce:inf> reduces first. WO<ce:inf loc="post">2</ce:inf> is further reduced to tungsten (reaction (5)) before the onset of TiO<ce:inf loc="post">2</ce:inf> reduction according to the thermodynamic calculations. From a kinetic point of view, constant voltage electrolysis is not efficient use of the instrumental current capabilities. The electrode potentials for unit atmosphere partial pressure evolution of CO(g) and CO<ce:inf loc="post">2</ce:inf>(g)—the anticipated off-gases when graphite anodes are employed—lie in the range of −750 to −1300<ce:hsp sp="0.25"></ce:hsp>mV over the <ce:italic>p</ce:italic>O<ce:sup loc="post">2−</ce:sup> range 5.5–9. The cathodic reaction potentials at the same oxide activities are approximately 150–200<ce:hsp sp="0.25"></ce:hsp>mV more <ce:italic>positive</ce:italic>. Assuming near 100% current efficiency and oversimplifying the initial partitioning of potentials between the anode and cathode, an initial applied voltage of 3000<ce:hsp sp="0.25"></ce:hsp>mV—the typical value quoted by other researchers <ce:cross-refs refid="bib7 bib8">[7,8]</ce:cross-refs>—results in a large driving force for the initial reduction process. This is precisely because the first cathodic reaction potentials are quite close to the anodic reaction potentials. Imposing a 3000<ce:hsp sp="0.25"></ce:hsp>mV applied voltage on a preform of very high surface area (due to the small oxide particle sizes) causes an initial current spike that drives reactions (3)–(5) to rapid completion. The electrolyte contained in the preforms pores becomes saturated and this leads to the precipitation of CaTiO<ce:inf loc="post">3</ce:inf> and CaWO<ce:inf loc="post">4</ce:inf> via reactions (6) and (7).<ce:display>
+<ce:formula>
+<ce:label>(3)</ce:label>
+<ce:chem>WO<ce:inf loc="post">3</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>2e<ce:sup loc="post">−</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>WO<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>O<ce:sup loc="post">2−</ce:sup>
+</ce:chem>
+</ce:formula>
+</ce:display>
+<ce:display>
+<ce:formula>
+<ce:label>(4)</ce:label>
+<ce:chem>3TiO<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>2e<ce:sup loc="post">−</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>Ti<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">5</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>O<ce:sup loc="post">2−</ce:sup>
+</ce:chem>
+</ce:formula>
+</ce:display>
+<ce:display>
+<ce:formula>
+<ce:label>(5)</ce:label>
+<ce:chem>WO<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>4e<ce:sup loc="post">−</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>W<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>2O<ce:sup loc="post">2−</ce:sup>
+</ce:chem>
+</ce:formula>
+</ce:display>
+<ce:display>
+<ce:formula>
+<ce:label>(6)</ce:label>
+<ce:chem>WO<ce:inf loc="post">3</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Ca<ce:sup loc="post">2+</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>O<ce:sup loc="post">2−</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>CaWO<ce:inf loc="post">4</ce:inf>
+</ce:chem>
+</ce:formula>
+</ce:display>
+<ce:display>
+<ce:formula>
+<ce:label>(7)</ce:label>
+<ce:chem>TiO<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Ca<ce:sup loc="post">2+</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>O<ce:sup loc="post">2−</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>→<ce:hsp sp="0.25"></ce:hsp>CaTiO<ce:inf loc="post">3</ce:inf>
+</ce:chem>
+</ce:formula>
+</ce:display>
+</ce:para>
+<ce:para view="all">The subsequent reduction of CaTiO<ce:inf loc="post">3</ce:inf> or CaWO<ce:inf loc="post">4</ce:inf> requires much more negative potentials, approaching those corresponding to the formation of elemental calcium at activities of 10<ce:sup loc="post">−3</ce:sup> and 10<ce:sup loc="post">−6</ce:sup>. Consequently, the current drops dramatically owing to both the consumption/reduction of WO<ce:inf loc="post">3</ce:inf> and TiO<ce:inf loc="post">2</ce:inf> to lower oxides, which necessitates that the cathode potential shifts to more negative values to effect further reduction, and the presence of calcium titanates and tungstenates that serve as mass-transport barriers for product oxide. To match the rate of oxide production within the preform to the rate at which oxide was removed from the preform pores via salt mass transfer, a starting voltage of 1500<ce:hsp sp="0.25"></ce:hsp>mV was applied. After the short reduction time corresponding to the reduction of WO<ce:inf loc="post">3</ce:inf> to W (due to the small volume fraction of WO<ce:inf loc="post">3</ce:inf>), the cathode potential would have polarized to the potentials associated with the reduction of TiO<ce:inf loc="post">2</ce:inf> to Ti<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">5</ce:inf>. The subsequent reduction pathway would be similar to that of a 100% TiO<ce:inf loc="post">2</ce:inf> preform. As the cathode potential was shifting negative with increasing reduction time, the assumed overpotential attributed to both the anode and cathode reactions would subsequently decrease for a fixed applied cell voltage. The applied voltage was thus linearly increased with time at a rate of 0.5<ce:hsp sp="0.25"></ce:hsp>mV<ce:hsp sp="0.25"></ce:hsp>s<ce:sup loc="post">−1</ce:sup> until a final voltage of 3100<ce:hsp sp="0.25"></ce:hsp>mV was attained. This was below the standard state decomposition potential of the electrolyte, however, from <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>, it is evident that some dissolved elemental calcium may form at activities less than unity for potentials less than the standard state potential. Nonetheless, this final voltage was known from experiments on 100% TiO<ce:inf loc="post">2</ce:inf> preforms to give fully reduced, metallic preforms after a 24<ce:hsp sp="0.25"></ce:hsp>h reduction period.</ce:para>
+<ce:para view="all">To validate the predominance diagram and evaluate intermediate phases, a TiO<ce:inf loc="post">2</ce:inf>–WO<ce:inf loc="post">3</ce:inf> preform was reduced at 2000<ce:hsp sp="0.25"></ce:hsp>mV for 18<ce:hsp sp="0.25"></ce:hsp>h. Under these conditions TiO and W are the thermodynamically predicted phases and XRD analysis (<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="fig5"></ce:float-anchor>) indicated the presence of CaTiO<ce:inf loc="post">3</ce:inf>, W, TiO and small traces of CaTi<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">4</ce:inf>. The presence of tungsten metal at this stage of reduction suggested that it remains isolated, and only during the later stages of deoxygenation does alloying occur between the fully reduced Ti and W.</ce:para>
+<ce:para view="all">A backscattered electron micrograph of the reduced material (<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="fig6"></ce:float-anchor>) depicts a uniform distribution of tungsten throughout the alloy and the bulk composition was found to average 9.5<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>1<ce:hsp sp="0.25"></ce:hsp>wt.% W. Residual calcium chloride in the material pores was always analyzed below 1<ce:hsp sp="0.25"></ce:hsp>wt.% and typical values were often at the detection limit for the X-EDS technique. Lower residual levels would logically be obtained after high temperature vacuum distillation, which is used to ensure low volatile content in Kroll sponge. However, the formation of closed pores during the reduction process containing electrolyte and CaO would be problematic since the impurities would not be affected by distillation. Further analysis is needed to ascertain whether this constitutes a severe issue. No oxygen peaks were detected in the X-EDS analysis and the XRD pattern of the bulk material indicated a mixture of α- and β-Ti (<ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+<ce:float-anchor refid="fig7"></ce:float-anchor>). There was no evidence of unreduced tungsten or titanium oxides retained in the final alloy. Compared to mechanically alloyed powder, the distribution of tungsten was superior as there were no agglomerates of fine metallic particles or large tungsten particles that had incompletely dissolved <ce:cross-ref refid="bib1">[1]</ce:cross-ref>.</ce:para>
+<ce:para view="all">The microstructure indicates the formation of a 100% beta solid solution prior to cooling and demonstrates the capability of direct electrochemical reduction to produce homogeneous structures via a non-melt process. The level of porosity inherent in the reduced preform is dramatically less than that of the preform precursor, largely due to the enhanced solid-state sintering of metallic constituents compared to the oxide feedstocks at the reduction temperature. Fortunately, the extent of sintering did not appear to inhibit complete metallization of the preform and a microstructure typical of a slow-cooled, hypoeutectiod composition is clearly evident and is consistent with the binary phase diagram (<ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>
+<ce:float-anchor refid="fig8"></ce:float-anchor>) <ce:cross-ref refid="bib3">[3]</ce:cross-ref>. Subject to a furnace cool (less than 3<ce:hsp sp="0.25"></ce:hsp>K<ce:hsp sp="0.25"></ce:hsp>min<ce:sup loc="post">−1</ce:sup>), the 100% β-(Ti,W) microstructure present at the reduction terminus transformed with pro-eutectoid α first forming at the β grain boundaries. The thickness of the grain boundary alpha was between 1 and 3<ce:hsp sp="0.25"></ce:hsp>μm. <ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref>
+<ce:float-anchor refid="fig9"></ce:float-anchor> focuses on a prior β grain and depicts possible Widmanstätten α lathes at a 0.2–0.8<ce:hsp sp="0.25"></ce:hsp>μm length scale and a finer (∼100<ce:hsp sp="0.25"></ce:hsp>nm) structure arising from the eutectoid decomposition transformation occurring at 1013<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>20<ce:hsp sp="0.25"></ce:hsp>K. At present, this phenomenon is believed to be due to the slow diffusion of tungsten in titanium and is also responsible for the very fine grain sizes observed in the reduced material. From <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>, the average prior β grain size is below 10–20<ce:hsp sp="0.25"></ce:hsp>μm, which may be to the benefit of subsequent thermomechanical processing as there is added flexibility for working within the β regime. This fine-grained, as-reduced structure is of the same size-scale as the precursor powders and may also contribute to improved mechanical properties versus conventional titanium with prior β grain sizes almost an order of magnitude larger.</ce:para>
+<ce:para view="all">According to the Ti–W binary phase diagram compiled by Murray <ce:cross-ref refid="bib3">[3]</ce:cross-ref>, the maximum solubility of tungsten in α-Ti at the eutectoid temperature is between 0.75 and 1.15<ce:hsp sp="0.25"></ce:hsp>wt.%, which is in agreement with the X-EDS spot analyses of α in the vicinity of 1<ce:hsp sp="0.25"></ce:hsp>wt.% W. Analyses of the transformed β grains yielded a composition between 13 and 17<ce:hsp sp="0.25"></ce:hsp>wt.% W, which is significantly lower than the eutectoid composition (27.8<ce:hsp sp="0.25"></ce:hsp>wt.% W) and supports the formation of Widmanstätten α. Using these compositions, the calculated volume fraction of grain boundary alpha was between 30 and 45%. Due to the size of the interaction volume during X-EDS analysis, it was not possible to get a precise measurement of the β composition. However, analysis of the XRD pattern suggested a cubic lattice parameter of approximately 0.325<ce:hsp sp="0.25"></ce:hsp>nm, which corresponds to a β composition near 35<ce:hsp sp="0.25"></ce:hsp>wt.% W from the extrapolation of data compiled by Murray <ce:cross-ref refid="bib3">[3]</ce:cross-ref>. Despite the slow cooling rates, the equilibrium compositions suggested by Murray <ce:cross-ref refid="bib3">[3]</ce:cross-ref> were not attained.</ce:para>
+<ce:para view="all">Although the production of a homogeneous alloy was confirmed within the preform bulk, closer analysis revealed a thin layer (&lt;150<ce:hsp sp="0.25"></ce:hsp>μm) at the sample surface of non-uniform composition and microstructure (<ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref>
+<ce:float-anchor refid="fig10"></ce:float-anchor>). On the surface, both TiC and W were identified from XRD analysis and the former is explained in the subsequent paragraph. The sub-surface region of the sample appeared to exhibit a slightly higher volume fraction of alpha compared to the bulk material, although there was no difference in grain sizes between the two regions. The sub-surface microstructure did not result from the transformation of a 100% β structure, but from a prolonged hold in the α<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>β phase field. The phase diagram given in <ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref> shows that, at the 1173<ce:hsp sp="0.25"></ce:hsp>K reduction temperature, the composition of interest (dashed vertical line) is only just within the single β phase field. Any small variation in composition, such as an increase of alpha stabilisers (oxygen or carbon) or decrease in beta stabilisers (tungsten), at the surface could easily shift the β transus upwards. Oxygen enrichment (analogous to alpha case formation) would be the most obvious reason for this phenomenon. X-EDS analysis for oxygen was inconclusive as the levels concerned were at the detection limit of the technique. Moreover, it is well established that deoxygenation proceeds from the surface inwards <ce:cross-ref refid="bib14">[14]</ce:cross-ref> and hence any enrichment should be observed in the centre of the sample. Carbon is a weak α stabiliser and has some solubility in titanium. As TiC is observed on the surface of the sample it would be reasonable to expect some carbon enrichment of the sub-surface region. Again analysis of carbon via X-EDS was problematic due to the presence of the epoxy resin used to infiltrate and mount the specimen. Alternatively, the loss of tungsten from the preform via dissolution of the WO<ce:inf loc="post">3</ce:inf>, which may exhibit some solubility in CaCl<ce:inf loc="post">2</ce:inf>, may have led to the sub-surface phenomenon. This could explain the stratified tungsten distribution as a function of distance from the sample surface observed within this 150<ce:hsp sp="0.25"></ce:hsp>μm surface region. However, a change in composition was not conclusively determined by X-EDS analysis, which returned a composition ranging from 8 to 11<ce:hsp sp="0.25"></ce:hsp>wt.% W within the subsurface region.</ce:para>
+<ce:para view="all">Nevertheless, soluble tungsten species appeared to have been re-deposited at a later stage during reduction when the cathode potential reached the corresponding deposition potential for the dilute concentration of tungsten present in the electrolyte. Within the bulk, tungsten dissolution is kinetically limited by the decreased mass-transfer associated with the pore network. Whereas, the concentration of ionic tungsten is kept to a low value at the preform surface by convective mass-transfer of the electrolyte, the pores in the centre of the material may quickly become saturated with tungsten and further dissolution is consequently inhibited by the shallow concentration gradient. In the subsurface region, the tungsten lost via dissolution is not recovered, as the dissolved tungsten deposits preferentially on the exterior of the preform.</ce:para>
+<ce:para view="all">The issue of inhomogeneity could be addressed by the use of different composition and/or size oxide feedstock. As TiO<ce:inf loc="post">2</ce:inf> and WO<ce:inf loc="post">3</ce:inf> do not form an oxide solid-solution, the possible solubility of WO<ce:inf loc="post">3</ce:inf> in the electrolyte facilitates its loss. However, the WO<ce:inf loc="post">2</ce:inf>–TiO<ce:inf loc="post">2</ce:inf> binary published by Chang <ce:cross-ref refid="bib15">[15]</ce:cross-ref> shows an extensive (Ti,W)O<ce:inf loc="post">2</ce:inf> solid solution phase, which would promote a uniform W distribution at both the sintering and initial reduction stages. Small particle sizes not only lead to large initial reduction currents, but also present a greater surface area to volume ratio that favours rapid dissolution. Nevertheless, the current feedstock of sub-10<ce:hsp sp="0.25"></ce:hsp>μm powders led to complete deoxidation and oxygen diffusion from the centre of a metallised oxide particle to the electrolyte in the sample pores was not found to be rate-limiting at the conclusion of the reduction process. Thus, the use of larger powder particles might mitigate problems of dissolution and initial pore saturation, although there becomes a critical particle size where the solid state diffusion of oxygen from the particle cores becomes the rate-limiting phenomenon during the later stages of reduction. In such an event, transport of oxygen through the oxygen-stabilised α-Ti matrix would be insufficiently rapid to keep pace with Ca formation that would be thermodynamically predicted on the low-oxygen surface at the cathode. A significant portion of the Ca produced at the cathode may diffuse through the electrolyte and react at the anode with either the off-gas or the anode itself. The products of such undesirable interactions might include both CaC<ce:inf loc="post">2</ce:inf> and C, which may then react with the metal formed at the cathode leading to TiC. The present experimental parameters with a non-optimized reduction schedule for the given preform morphology resulted in such an occurrence, which was attributed to the very negative final cathode potentials during reduction. As mentioned earlier, this was exacerbated by any initial saturation of the preform pores with oxide.</ce:para>
+<ce:para view="all">From a product quality perspective, one may choose to grit blast away the surface layer; however, this adds expense and time to the overall process. Alternatively, the reduction temperature may be raised to increase the likelihood of forming a 100% β microstructure and avoid the formation of primary α. Additional concerns include the vitiating effects on current efficiency that accompany excessive Ca formation, which are due to the increase in the electronic conductivity of the electrolyte in the presence of excessive Ca. Thus, both operating parameters and ceramic processing must aim to avoid this condition, although the former is more difficult than the latter since the oxygen content in equilibrium with titanium at the preform/electrolyte interface is determined by both the melt oxide activity and electrode potential. A precise measurement, and hence control, of this potential is severely constrained by the high temperatures involved and the size of the preform particles, as the reference electrode must be sufficiently close to the sample surface in order to accurately probe its potential and not the potential some distance away from the surface in the melt.</ce:para>
+<ce:para view="all">Given the relative ease of WO<ce:inf loc="post">3</ce:inf> reduction to W, any improvements to the rate of TiO<ce:inf loc="post">2</ce:inf> reduction would accelerate production of Ti–W alloys via this direct electrochemical route. Enhanced salt transport during the initial stages of reduction would be the first priority. Although larger powder particle sizes may address concerns of surface composition uniformity and initial reduction rates, the ability to blend oxide feedstock powders at the 1–10<ce:hsp sp="0.25"></ce:hsp>μm scale must be retained to ensure a homogeneous W distribution. A possible compromise currently under investigation is the use of a two-stage sintering program whereby the sub-10<ce:hsp sp="0.25"></ce:hsp>μm powders are blended and sintered at a high temperature to facilitate oxide grain growth. These agglomerates are then mixed together and formed into the desired preform shape for a second sintering at a lower temperature, thus simultaneously accomplishing both goals of increased particle size and pore size. Present efforts are underway to minimize surface irregularities and increase the production volumes to obtain sufficient material to perform consolidation and thermomechanical processing. Subsequent mechanical testing would compare the material properties from this material against mechanically alloyed material. The as-reduced microstructures portrayed may not necessarily correlate to excellent mechanical properties. However, the present microstructure was not optimized and a different cooling profile and reduction conditions would be employed to achieve a more desirable microstructure.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">The direct electrochemical production of Ti–10W alloys was successfully achieved by controlled voltage electrolysis of TiO<ce:inf loc="post">2</ce:inf>–WO<ce:inf loc="post">3</ce:inf> mixed oxide preform precursors. A nominal composition of 9.5<ce:hsp sp="0.25"></ce:hsp>wt.% was achieved within the sample bulk, although a 150<ce:hsp sp="0.25"></ce:hsp>μm region below the surface exhibited up to 1.5<ce:hsp sp="0.25"></ce:hsp>wt.% deviation from the bulk value and TiC was detected on the sample surface. A nominal grain size less than 20<ce:hsp sp="0.25"></ce:hsp>μm was observed in a microstructure consistent with slow cooling of a hypoeutectoid material from above the β-transus. The volume fraction of pro-eutectoid α was determined to be approximately 35% with the observed composition of the α phase as 99<ce:hsp sp="0.25"></ce:hsp>wt.% Ti and 1<ce:hsp sp="0.25"></ce:hsp>wt.% W.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgements</ce:section-title>
+<ce:para view="all">The authors are grateful to the Defense Advanced Research Projects Agency (DARPA) and the Office of Naval Research for funding and procuring the research contracts (DARPA N68171-01-C-9018 and DARPA N00014-04-1-0759). The authors appreciatively acknowledge support from the EPSRC (#EP/C536312).</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Frary</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Abkowitz</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.M.</ce:given-name>
+<ce:surname>Abkowitz</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.C.</ce:given-name>
+<ce:surname>Dunand</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>344</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>103</sb:first-page>
+<sb:last-page>112</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>F.H.</ce:given-name>
+<ce:surname>Froes</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.F.</ce:given-name>
+<ce:surname>Yolton</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.M.</ce:given-name>
+<ce:surname>Capenos</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.G.H.</ce:given-name>
+<ce:surname>Wells</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.C.</ce:given-name>
+<ce:surname>Williams</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metall. Trans. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>11A</sb:volume-nr>
+</sb:series>
+<sb:date>1980</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>21</sb:first-page>
+<sb:last-page>31</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>J.L.</ce:given-name>
+<ce:surname>Murray</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>Phase Diagrams of Binary Titanium Alloys</sb:maintitle>
+</sb:title>
+<sb:date>1987</sb:date>
+<sb:publisher>
+<sb:name>ASM International</sb:name>
+<sb:location>Metals Park, Ohio</sb:location>
+</sb:publisher>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>211</sb:first-page>
+<sb:last-page>229</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Yamanaka</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Ichihashi</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>ISIJ Intl.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>32</sb:volume-nr>
+</sb:series>
+<sb:date>1992</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>600</sb:first-page>
+<sb:last-page>606</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Choe</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.M.</ce:given-name>
+<ce:surname>Abkowitz</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Abkowitz</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.C.</ce:given-name>
+<ce:surname>Dunand</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>396</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>99</sb:first-page>
+<sb:last-page>106</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Choe</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.M.</ce:given-name>
+<ce:surname>Abkowitz</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Abkowitz</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.C.</ce:given-name>
+<ce:surname>Dunand</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>390</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>62</sb:first-page>
+<sb:last-page>66</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.O.</ce:given-name>
+<ce:surname>Suzuki</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metall. Mater. Trans. B</sb:maintitle>
+</sb:title>
+<sb:volume-nr>34</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>277</sb:first-page>
+<sb:last-page>285</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.Z.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.J.</ce:given-name>
+<ce:surname>Fray</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.W.</ce:given-name>
+<ce:surname>Farthing</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Nature</sb:maintitle>
+</sb:title>
+<sb:volume-nr>407</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>361</sb:first-page>
+<sb:last-page>364</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.J.</ce:given-name>
+<ce:surname>Fray</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.Z.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Technol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>20</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>295</sb:first-page>
+<sb:last-page>300</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>L.L.</ce:given-name>
+<ce:surname>Chang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.G.</ce:given-name>
+<ce:surname>Scroger</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Phillips</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Less-Common Metals</sb:maintitle>
+</sb:title>
+<sb:volume-nr>12</sb:volume-nr>
+</sb:series>
+<sb:date>1967</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>51</sb:first-page>
+<sb:last-page>56</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<ce:other-ref>
+<ce:textref>HSC Chemistry for Windows, Outokumpu Research, Finland (1994).</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Littlewood</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>55</sb:volume-nr>
+</sb:series>
+<sb:date>1962</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>23</sb:first-page>
+<sb:last-page>65</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<ce:other-ref>
+<ce:textref>K. Dring, R. Dashwood, D. Inman, J. Electrochem. Soc. D 184 (2005) 152.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.Z.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.J.</ce:given-name>
+<ce:surname>Fray</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>A.T.</ce:given-name>
+<ce:surname>Tabereaux</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>Light Metals</sb:maintitle>
+</sb:title>
+<sb:date>2004</sb:date>
+<sb:publisher>
+<sb:name>TMS</sb:name>
+</sb:publisher>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>881</sb:first-page>
+<sb:last-page>886</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>L.L.Y.</ce:given-name>
+<ce:surname>Chang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>51</sb:volume-nr>
+</sb:series>
+<sb:date>1968</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>295</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

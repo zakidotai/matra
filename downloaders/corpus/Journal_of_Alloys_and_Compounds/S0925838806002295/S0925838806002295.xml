@@ -1,0 +1,1268 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838806002295</prism:url><dc:identifier>doi:10.1016/j.jallcom.2005.12.112</dc:identifier><eid>1-s2.0-S0925838806002295</eid><prism:doi>10.1016/j.jallcom.2005.12.112</prism:doi><pii>S0925-8388(06)00229-5</pii><dc:title>Synthesis of Ti3SiC2 from powder blend of Ti, Si and TiC </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>426</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>263</prism:startingpage><prism:endingpage>267</prism:endingpage><prism:pagerange>263-267</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2006-12-21</prism:coverdate><prism:coverdisplaydate>21 December 2006</prism:coverdisplaydate><prism:copyright>Copyright © 2006 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Hashimoto, Hitoshi</dc:creator><dc:creator>Sun, Zheng Ming</dc:creator><dc:creator>Inoue, Yosuke</dc:creator><dc:creator>Tada, Shuji</dc:creator><dc:description>
+                  Titanium silicon carbide Ti3SiC2 was synthesized from a powder blend of Ti, Si and TiC at a molar ratio of Ti:Si:TiC=2:2:3. The powder blend was pressed and shaped into a cylinder and then sintered at various temperatures in vacuum. X-ray diffraction analysis was conducted on the cylinders sintered at various temperatures. Results of the XRD analysis revealed that Ti5Si3, the most thermodynamically stable phase in Ti–Si system, was preferentially formed by the reaction between Ti and Si powders followed by the formation of TiSi2 from remaining Ti and Si powders in a relatively low temperature range. These silicides reacted with TiC to form Ti3SiC2 at higher temperatures. The final phases in the cylinders sintered at temperatures over 1729K were Ti3SiC2 and Ti5Si3, which well agrees with those estimated by a Ti–Si–C phase diagram. On the other hand, final phases in disks sintered under pressures of 14MPa or more by using a carbon mold were found to be Ti3SiC2 and TiC, which suggests the equilibrium changes with the pressure.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Ceramics</dcterms:subject><dcterms:subject>Solid-state reactions</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838806002295" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838806002295" rel="scidir"/></coredata><objects><object category="thumbnail" height="14" mimetype="image/gif" multimediatype="GIF image file" ref="si1" size="507" type="ALTIMG" width="136">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002295-si1.gif?httpAccept=%2A%2F%2A</object><object category="standard" height="259" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="33691" type="IMAGE-DOWNSAMPLED" width="376">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002295-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="86" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="1644" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002295-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="207" mimetype="image/gif" multimediatype="GIF image file" ref="gr10" size="7323" type="IMAGE-DOWNSAMPLED" width="359">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002295-gr10.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="72" mimetype="image/gif" multimediatype="GIF image file" ref="gr10" size="1539" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002295-gr10.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="263" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="12147" type="IMAGE-DOWNSAMPLED" width="322">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002295-gr2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="1541" type="IMAGE-THUMBNAIL" width="114">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002295-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="301" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="7237" type="IMAGE-DOWNSAMPLED" width="349">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002295-gr3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="1354" type="IMAGE-THUMBNAIL" width="108">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002295-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="250" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="9796" type="IMAGE-DOWNSAMPLED" width="389">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002295-gr4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="80" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="1762" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002295-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="219" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="7719" type="IMAGE-DOWNSAMPLED" width="377">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002295-gr5.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="73" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="1552" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002295-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="252" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="6627" type="IMAGE-DOWNSAMPLED" width="297">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002295-gr6.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="1611" type="IMAGE-THUMBNAIL" width="110">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002295-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="201" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="6330" type="IMAGE-DOWNSAMPLED" width="351">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002295-gr7.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="72" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="1361" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002295-gr7.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="221" mimetype="image/gif" multimediatype="GIF image file" ref="gr8" size="6099" type="IMAGE-DOWNSAMPLED" width="347">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002295-gr8.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="80" mimetype="image/gif" multimediatype="GIF image file" ref="gr8" size="1338" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002295-gr8.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="217" mimetype="image/gif" multimediatype="GIF image file" ref="gr9" size="5795" type="IMAGE-DOWNSAMPLED" width="343">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002295-gr9.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="79" mimetype="image/gif" multimediatype="GIF image file" ref="gr9" size="1354" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806002295-gr9.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>33751017679</scopus-id><scopus-eid>2-s2.0-33751017679</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/33751017679" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20060327">2006-03-27</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20060327">2006-03-27</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-03-29T07:36:02</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838806002295</xocs:eid>
+<xocs:pii-formatted>S0925-8388(06)00229-5</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838806002295</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2005.12.112</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838806X02645</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.326594-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20061221</xocs:date-search-begin>
+<xocs:year-nav>2006</xocs:year-nav>
+<xocs:indexeddate epoch="1143417600">2006-03-27T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure body mmlmath affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>426</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>426</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 426, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>47</xocs:sort-order>
+<xocs:first-fp>263</xocs:first-fp>
+<xocs:last-lp>267</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>263</xocs:first-page>
+<xocs:last-page>267</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20061221</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>21 December 2006</xocs:cover-date-text>
+<xocs:cover-date-start>2006-12-21</xocs:cover-date-start>
+<xocs:cover-date-year>2006</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Materials Science</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2006 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>SYNTHESISTI3SIC2POWDERBLENDTISITIC</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>HASHIMOTO</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>H</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Result and discussion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>BARSOUM</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>1953</xocs:ref-first-fp>
+<xocs:ref-last-lp>1956</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>JEITSCHKO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1967</xocs:ref-pub-year>
+<xocs:ref-first-fp>329</xocs:ref-first-fp>
+<xocs:ref-last-lp>337</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>GOTO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1987</xocs:ref-pub-year>
+<xocs:ref-first-fp>1195</xocs:ref-first-fp>
+<xocs:ref-last-lp>1201</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>ARUNAJATESAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>667</xocs:ref-first-fp>
+<xocs:ref-last-lp>672</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>PAMPUCH</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1993</xocs:ref-pub-year>
+<xocs:ref-first-fp>93</xocs:ref-first-fp>
+<xocs:ref-last-lp>100</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>LIS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>163</xocs:ref-first-fp>
+<xocs:ref-last-lp>168</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>LIS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>59</xocs:ref-first-fp>
+<xocs:ref-last-lp>64</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>FENG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>925</xocs:ref-first-fp>
+<xocs:ref-last-lp>939</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>KHOPTIAR</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>47</xocs:ref-first-fp>
+<xocs:ref-last-lp>53</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>SUN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>428</xocs:ref-first-fp>
+<xocs:ref-last-lp>431</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11"></xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>RILEY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2006</xocs:ref-pub-year>
+<xocs:ref-first-fp>33</xocs:ref-first-fp>
+<xocs:ref-last-lp>38</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13">
+<xocs:ref-normalized-surname>DOYAMA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1989</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>DATAHANDBOOKINTERMETALLICCOMPOUNDS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>VILLARS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>HANDBOOKTERNARYALLOYPHASEDIAGRAMSCDROMVER10</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15">
+<xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>3321</xocs:ref-first-fp>
+<xocs:ref-last-lp>3328</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib16">
+<xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>2281</xocs:ref-first-fp>
+<xocs:ref-last-lp>2288</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>HASHIMOTOX2006X263</xocs:refkey3>
+<xocs:refkey4lp>HASHIMOTOX2006X263X267</xocs:refkey4lp>
+<xocs:refkey4ai>HASHIMOTOX2006X263XH</xocs:refkey4ai>
+<xocs:refkey5>HASHIMOTOX2006X263X267XH</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(06)00229-5</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838806002295</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838806002295</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2005.12.112</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-08T03:53:20.122664-04:00</xocs:timestamp>
+<xocs:cover-date-start>2006-12-21</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838806002295-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002295/MAIN/application/pdf/cb7d2e1ac6770f6ab96f4239c3c42215/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002295/MAIN/application/pdf/cb7d2e1ac6770f6ab96f4239c3c42215/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>291241</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838806002295-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002295/PREVIEW/image/png/654cb0c7cd40a72929ebc7dcf1394f99/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002295/PREVIEW/image/png/654cb0c7cd40a72929ebc7dcf1394f99/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>69528</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002295-si1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002295/STRIPIN/image/gif/41b019b3960c91cc5eb012f00997d473/si1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002295/STRIPIN/image/gif/41b019b3960c91cc5eb012f00997d473/si1.gif</xocs:ucs-locator>
+<xocs:file-basename>si1</xocs:file-basename>
+<xocs:filename>si1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>507</xocs:filesize>
+<xocs:pixel-height>14</xocs:pixel-height>
+<xocs:pixel-width>136</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002295-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002295/gr1/DOWNSAMPLED/image/jpeg/235d44ba959eea733357995447d41277/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002295/gr1/DOWNSAMPLED/image/jpeg/235d44ba959eea733357995447d41277/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>33691</xocs:filesize>
+<xocs:pixel-height>259</xocs:pixel-height>
+<xocs:pixel-width>376</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002295-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002295/gr1/THUMBNAIL/image/gif/c4c17dc497657131b7ff9c68a8107d72/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002295/gr1/THUMBNAIL/image/gif/c4c17dc497657131b7ff9c68a8107d72/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1644</xocs:filesize>
+<xocs:pixel-height>86</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002295-gr10.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002295/gr10/DOWNSAMPLED/image/gif/a72e6083af12cdf0f0bf12e9d9fab367/gr10.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002295/gr10/DOWNSAMPLED/image/gif/a72e6083af12cdf0f0bf12e9d9fab367/gr10.gif</xocs:ucs-locator>
+<xocs:file-basename>gr10</xocs:file-basename>
+<xocs:filename>gr10.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>7323</xocs:filesize>
+<xocs:pixel-height>207</xocs:pixel-height>
+<xocs:pixel-width>359</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002295-gr10.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002295/gr10/THUMBNAIL/image/gif/2f97fb1657e89184422e51067e6ac6f5/gr10.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002295/gr10/THUMBNAIL/image/gif/2f97fb1657e89184422e51067e6ac6f5/gr10.sml</xocs:ucs-locator>
+<xocs:file-basename>gr10</xocs:file-basename>
+<xocs:filename>gr10.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1539</xocs:filesize>
+<xocs:pixel-height>72</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002295-gr2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002295/gr2/DOWNSAMPLED/image/gif/1e68d100ca4d806167420882f694c576/gr2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002295/gr2/DOWNSAMPLED/image/gif/1e68d100ca4d806167420882f694c576/gr2.gif</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>12147</xocs:filesize>
+<xocs:pixel-height>263</xocs:pixel-height>
+<xocs:pixel-width>322</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002295-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002295/gr2/THUMBNAIL/image/gif/942c0bd8c23d0d1d0e1a3b5f24bc526c/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002295/gr2/THUMBNAIL/image/gif/942c0bd8c23d0d1d0e1a3b5f24bc526c/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1541</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>114</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002295-gr3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002295/gr3/DOWNSAMPLED/image/gif/f398b8d880e986b4a0cd361243fc2c7d/gr3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002295/gr3/DOWNSAMPLED/image/gif/f398b8d880e986b4a0cd361243fc2c7d/gr3.gif</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>7237</xocs:filesize>
+<xocs:pixel-height>301</xocs:pixel-height>
+<xocs:pixel-width>349</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002295-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002295/gr3/THUMBNAIL/image/gif/ec20bd9559e796c7adf427ae178c19e0/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002295/gr3/THUMBNAIL/image/gif/ec20bd9559e796c7adf427ae178c19e0/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1354</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>108</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002295-gr4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002295/gr4/DOWNSAMPLED/image/gif/6b337a617db259072dedfe96fc9caa5d/gr4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002295/gr4/DOWNSAMPLED/image/gif/6b337a617db259072dedfe96fc9caa5d/gr4.gif</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>9796</xocs:filesize>
+<xocs:pixel-height>250</xocs:pixel-height>
+<xocs:pixel-width>389</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002295-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002295/gr4/THUMBNAIL/image/gif/3211ae09f2086a90fccf22ab7ec0e504/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002295/gr4/THUMBNAIL/image/gif/3211ae09f2086a90fccf22ab7ec0e504/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1762</xocs:filesize>
+<xocs:pixel-height>80</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002295-gr5.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002295/gr5/DOWNSAMPLED/image/gif/59f5e3d2ddbbabe091d4d6e778c4bfdc/gr5.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002295/gr5/DOWNSAMPLED/image/gif/59f5e3d2ddbbabe091d4d6e778c4bfdc/gr5.gif</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>7719</xocs:filesize>
+<xocs:pixel-height>219</xocs:pixel-height>
+<xocs:pixel-width>377</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002295-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002295/gr5/THUMBNAIL/image/gif/6d247cba535d5b43271cffe3640cd610/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002295/gr5/THUMBNAIL/image/gif/6d247cba535d5b43271cffe3640cd610/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1552</xocs:filesize>
+<xocs:pixel-height>73</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002295-gr6.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002295/gr6/DOWNSAMPLED/image/gif/a6416a867c044b322278538542dabfe6/gr6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002295/gr6/DOWNSAMPLED/image/gif/a6416a867c044b322278538542dabfe6/gr6.gif</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>6627</xocs:filesize>
+<xocs:pixel-height>252</xocs:pixel-height>
+<xocs:pixel-width>297</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002295-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002295/gr6/THUMBNAIL/image/gif/6361daf73d58d00e36559dc69506ab5d/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002295/gr6/THUMBNAIL/image/gif/6361daf73d58d00e36559dc69506ab5d/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1611</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>110</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002295-gr7.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002295/gr7/DOWNSAMPLED/image/gif/74798b95dc40029549bca08b2d0a320d/gr7.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002295/gr7/DOWNSAMPLED/image/gif/74798b95dc40029549bca08b2d0a320d/gr7.gif</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>6330</xocs:filesize>
+<xocs:pixel-height>201</xocs:pixel-height>
+<xocs:pixel-width>351</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002295-gr7.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002295/gr7/THUMBNAIL/image/gif/063ef4c86200e1dd10f0fba5510a310a/gr7.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002295/gr7/THUMBNAIL/image/gif/063ef4c86200e1dd10f0fba5510a310a/gr7.sml</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1361</xocs:filesize>
+<xocs:pixel-height>72</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002295-gr8.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002295/gr8/DOWNSAMPLED/image/gif/07bdd411a3a01e63d4fa3cca18e66ca1/gr8.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002295/gr8/DOWNSAMPLED/image/gif/07bdd411a3a01e63d4fa3cca18e66ca1/gr8.gif</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>6099</xocs:filesize>
+<xocs:pixel-height>221</xocs:pixel-height>
+<xocs:pixel-width>347</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002295-gr8.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002295/gr8/THUMBNAIL/image/gif/0380926f5e228254d69421853ca9b0fe/gr8.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002295/gr8/THUMBNAIL/image/gif/0380926f5e228254d69421853ca9b0fe/gr8.sml</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1338</xocs:filesize>
+<xocs:pixel-height>80</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002295-gr9.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002295/gr9/DOWNSAMPLED/image/gif/43e208a82f247d2ec73e203c40a26f3a/gr9.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002295/gr9/DOWNSAMPLED/image/gif/43e208a82f247d2ec73e203c40a26f3a/gr9.gif</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>5795</xocs:filesize>
+<xocs:pixel-height>217</xocs:pixel-height>
+<xocs:pixel-width>343</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806002295-gr9.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806002295/gr9/THUMBNAIL/image/gif/51844f55ff654f30b2b3730f5325c0b9/gr9.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806002295/gr9/THUMBNAIL/image/gif/51844f55ff654f30b2b3730f5325c0b9/gr9.sml</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1354</xocs:filesize>
+<xocs:pixel-height>79</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>13715</aid>
+<ce:pii>S0925-8388(06)00229-5</ce:pii>
+<ce:doi>10.1016/j.jallcom.2005.12.112</ce:doi>
+<ce:copyright type="full-transfer" year="2006">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Schematic illustration for sintering experiment of cylindrical powder compact in vacuum by a pulse discharge sintering machine.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Illustrated configuration of holes made on cylindrical powder compact for temperature measurement by infrared thermometer and thermocouple (cross-sectional view).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Relation between reading of infrared thermometer and that of thermocouple.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">X-ray diffraction patterns of powder compact sintered in vacuum at 1307, 1412, 1518, 1570, 1623 and 1729<ce:hsp sp="0.25"></ce:hsp>K.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Variation of relative intensity of each main peak from Ti, Si, TiC, Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>, TiSi<ce:inf loc="post">2</ce:inf> and Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> with sintering temperature.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Composition of starting powder blend plotted on a Ti–Si–C ternary phase diagram at 1500<ce:hsp sp="0.25"></ce:hsp>K.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+<ce:figure id="fig7">
+<ce:label>Fig. 7</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Variation of relative intensity of each main peak from TiC, Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>, TiSi<ce:inf loc="post">2</ce:inf> and Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> with sintering temperature.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr7"></ce:link>
+</ce:figure>
+<ce:figure id="fig8">
+<ce:label>Fig. 8</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Variation of relative intensity of each main peak from TiC, Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>, TiSi<ce:inf loc="post">2</ce:inf> and Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> with sintering pressure.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr8"></ce:link>
+</ce:figure>
+<ce:figure id="fig9">
+<ce:label>Fig. 9</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Variation of volume fraction of Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> in the sintered disc and density of the disc with sintering pressure.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr9"></ce:link>
+</ce:figure>
+<ce:figure id="fig10">
+<ce:label>Fig. 10</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Variation of relative intensity of each main peak from Si, TiC, Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>, TiSi<ce:inf loc="post">2</ce:inf> and Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> with sintering temperature.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr10"></ce:link>
+</ce:figure>
+</ce:floats>
+<ce:title>Synthesis of Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> from powder blend of Ti, Si and TiC</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>Hitoshi</ce:given-name>
+<ce:surname>Hashimoto</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="cor1">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Zheng Ming</ce:given-name>
+<ce:surname>Sun</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Yosuke</ce:given-name>
+<ce:surname>Inoue</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Shuji</ce:given-name>
+<ce:surname>Tada</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation id="aff1">
+<ce:label>a</ce:label>
+<ce:textfn>Material Research Institute for Sustainable Development, National Institute of Advanced Industrial Science and Technology, Shimoshidami, Moriyama-ku, Nagoya 463-8560, Japan</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff2">
+<ce:label>b</ce:label>
+<ce:textfn>Student of Aichi Institute of Technology, Yagusa-cho, Toyota 470-0392, Japan</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>⁎</ce:label>
+<ce:text>Corresponding author.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="11" month="11" year="2005"></ce:date-received>
+<ce:date-accepted day="19" month="12" year="2005"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">Titanium silicon carbide Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> was synthesized from a powder blend of Ti, Si and TiC at a molar ratio of Ti:Si:TiC<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>2:2:3. The powder blend was pressed and shaped into a cylinder and then sintered at various temperatures in vacuum. X-ray diffraction analysis was conducted on the cylinders sintered at various temperatures. Results of the XRD analysis revealed that Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>, the most thermodynamically stable phase in Ti–Si system, was preferentially formed by the reaction between Ti and Si powders followed by the formation of TiSi<ce:inf loc="post">2</ce:inf> from remaining Ti and Si powders in a relatively low temperature range. These silicides reacted with TiC to form Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> at higher temperatures. The final phases in the cylinders sintered at temperatures over 1729<ce:hsp sp="0.25"></ce:hsp>K were Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> and Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>, which well agrees with those estimated by a Ti–Si–C phase diagram. On the other hand, final phases in disks sintered under pressures of 14<ce:hsp sp="0.25"></ce:hsp>MPa or more by using a carbon mold were found to be Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> and TiC, which suggests the equilibrium changes with the pressure.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Ceramics</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Solid-state reactions</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Titanium silicon carbide, Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> shows a relatively high elastic modulus (320<ce:hsp sp="0.25"></ce:hsp>GPa) and oxidation resistance (parabolic rate constant of 2<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>10<ce:sup loc="post">−8</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>kg<ce:sup loc="post">2</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>m<ce:sup loc="post">−4</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>s<ce:sup loc="post">−1</ce:sup> at 1273<ce:hsp sp="0.25"></ce:hsp>K) as a ceramic material, while it shows an electrical conductivity (4.5<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>10<ce:sup loc="post">6</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>Ω<ce:sup loc="post">−1</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>m<ce:sup loc="post">−1</ce:sup>) and a thermal conductivity (43<ce:hsp sp="0.25"></ce:hsp>W<ce:hsp sp="0.25"></ce:hsp>m<ce:sup loc="post">−1</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>K<ce:sup loc="post">−1</ce:sup>) both about two times larger than pure Ti, and an excellent thermal shock resistance (bending strength is not affected by quenching from 1400<ce:hsp sp="0.25"></ce:hsp>°C into water) and the machinability comparable to graphite <ce:cross-ref refid="bib1">[1]</ce:cross-ref>. As these attractive properties arise from its crystal structure itself, the fine control of microstructure is not required, unlike most advanced materials.</ce:para>
+<ce:para view="all">Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> had been synthesized by Jeitschko and Nowotny <ce:cross-ref refid="bib2">[2]</ce:cross-ref> in 1966 for the first time by heating a powder blend of TiH<ce:inf loc="post">2</ce:inf>, Si and graphite up to 2000<ce:hsp sp="0.25"></ce:hsp>°C in a graphite capsule. Since then, Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> has been synthesized by chemical vapor deposition (CVD) <ce:cross-ref refid="bib3">[3]</ce:cross-ref>, arc-melting <ce:cross-ref refid="bib4">[4]</ce:cross-ref> and solid-state reaction of powder blends <ce:cross-refs refid="bib5 bib6 bib7 bib8 bib9">[5–9]</ce:cross-refs>. Goto and Hirai <ce:cross-ref refid="bib3">[3]</ce:cross-ref> successfully synthesized almost pure polycrystalline Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> by CVD. However the size was very small (40<ce:hsp sp="0.25"></ce:hsp>mm in length, 12<ce:hsp sp="0.25"></ce:hsp>mm in width and 0.4<ce:hsp sp="0.25"></ce:hsp>mm in thickness). Only the solid-state reaction of powder blends can offer a practical synthetic method for bulk Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf>. However, this method mostly produces a considerable amount of TiC or Ti–Si binary phases as byproducts. According to Lis et al. <ce:cross-ref refid="bib6">[6]</ce:cross-ref>, the best result was the formation of 82<ce:hsp sp="0.25"></ce:hsp>vol.% of T<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf>, with at least 18<ce:hsp sp="0.25"></ce:hsp>vol.% of TiC, by the solid-state reaction of elemental Ti/Si/C powder blend of stoichiometric composition using self-propagating high-temperature synthesis (SHS) or combination of SHS and hot isostatic pressing (HIP). Barsoum and El-Raghy <ce:cross-ref refid="bib1">[1]</ce:cross-ref> succeeded in synthesizing Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> with purity more than 99<ce:hsp sp="0.25"></ce:hsp>vol.% by hot press or HIP of a Ti/SiC/C powder blend of the stoichiometric composition, which led to a breakthrough in the practical use of this material.</ce:para>
+<ce:para view="all">The authors <ce:cross-ref refid="bib10">[10]</ce:cross-ref> also succeeded in synthesizing Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> with the purity more than 98<ce:hsp sp="0.25"></ce:hsp>vol.% by pulse discharge sintering (PDS) of a powder blend of Ti/Si/TiC. In the solid-state reaction of the elemental Ti/Si/C powder blend, we thought, Ti–Si binary phases and TiC were formed and then Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> was formed by the reaction between these phases. According to the binary phase diagrams <ce:cross-ref refid="bib11">[11]</ce:cross-ref>, TiC has a wide compositional range on Ti-rich side (Ti: 51.2–68<ce:hsp sp="0.25"></ce:hsp>at.%). Therefore, Ti-rich TiC was formed by the reaction between the elemental Ti and C, which caused the shortage of Ti for the formation of Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> and therefore the residue of TiC. So we got an idea that use of a commercial TiC powder having a very narrow compositional range as one of the starting materials instead of C powder can avoid the shortage of Ti for the formation of Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf>. We investigated the composition of a powder blend of Ti/Si/TiC for the formation of pure Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> and found that a nonstoichiometric composition (Ti:Si:TiC<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>2:2:3 in molar ratio) made Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> of 98<ce:hsp sp="0.25"></ce:hsp>vol.% or more.</ce:para>
+<ce:para view="all">In this report, the reaction route and the final phases were investigated in the solid-state reaction of Ti/Si/TiC powder blend with the nonstoichiometric compositions in order to obtain the basis of pure Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> synthesis.</ce:para>
+</ce:section>
+<ce:section role="materials-methods" view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental</ce:section-title>
+<ce:para view="all">Commercially available Ti powder (99.9% pure, 10<ce:hsp sp="0.25"></ce:hsp>μm in particle size), Si powder (99.9%, −10<ce:hsp sp="0.25"></ce:hsp>μm) and TiC powder (99%, 2 or 5<ce:hsp sp="0.25"></ce:hsp>μm) were used in this experiment. A chemical analysis was done on the TiC powder because that TiC has the wide compositional range as mentioned above. The result showed that the TiC powder contained 79.6<ce:hsp sp="0.25"></ce:hsp>wt.% of Ti and 19.6<ce:hsp sp="0.25"></ce:hsp>wt.% of C, corresponding to TiC<ce:inf loc="post">0.99</ce:inf>. These powders were blended at a molar ratio of Ti:Si:TiC<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>2:2:3 using a Turbular mixer for 86.4<ce:hsp sp="0.25"></ce:hsp>ks. A 7-g powder blend was pressed under a pressure of 200<ce:hsp sp="0.25"></ce:hsp>MPa and shaped into a cylinder of 14<ce:hsp sp="0.25"></ce:hsp>mm in diameter and 17<ce:hsp sp="0.25"></ce:hsp>mm in height using a die set and a press machine. A hole of 5<ce:hsp sp="0.25"></ce:hsp>mm in diameter and 7.5<ce:hsp sp="0.25"></ce:hsp>mm in depth was made at the axial center of the cylindrical powder compact for temperature measurement by an infrared thermometer. The powder compact was heated in vacuum using a carbon mold and a pulse discharge sintering machine (Sodick PAS-V) as shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor>. The powder compact was insulated electrically using alumina plates put on both ends of it. The compact was fixed with an upper carbon punch put on it but no load was applied to the upper punch. The load was applied to carbon blocks on the carbon mold to keep electrical contact between electrodes of the sintering machine and the carbon mold. Thus the electric current passed only through the blocks and the mold and heated them. The powder compact was heated from outside by the mold under a very small pressure (The load applied to the powder compact was merely the weight of the upper punch.). The temperature of the powder compact was measured by the infrared thermometer focused on bottom of the hole made on the compact. Before experiment, the thermometer was calibrated for the powder compact because the thermometer had been already adjusted to carbon. The calibration was conducted by using the compact on which another hole for the temperature measurement by a K-type thermocouple was bored at right angle to the hole for the thermometer (see <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor>). The compact was heated in the same way as shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref> and the temperature was measured by the thermometer and thermocouple. The result is shown in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor>. The thermometer indicates lower temperatures than the thermocouple but a straight line can express the relation between two readings. The calibration of thermometer was done in a temperatures range below 1423<ce:hsp sp="0.25"></ce:hsp>K because that a stainless steel sheath of the thermocouple is likely to react with the powder compact at temperatures over 1423<ce:hsp sp="0.25"></ce:hsp>K. Temperatures measured by the thermometer were corrected using the straight line extrapolated to higher temperatures over 1423<ce:hsp sp="0.25"></ce:hsp>K, and the temperatures described in the following part of this paper are the corrected values.</ce:para>
+<ce:para view="all">The powder compact was heated in vacuum at a rate of 0.33<ce:hsp sp="0.25"></ce:hsp>K/s up to 1307, 1412, 1518, 1570, 1623, 1729, 1834 and 1940<ce:hsp sp="0.25"></ce:hsp>K, kept for 900<ce:hsp sp="0.25"></ce:hsp>s and cooled in the sintering machine. For comparison, a 17-g powder blend was sintered under a pressure of 50<ce:hsp sp="0.25"></ce:hsp>MPa at 1373, 1473, 1573, 1623 and 1673<ce:hsp sp="0.25"></ce:hsp>K by using a carbon mold having a 30-mm inner diameter. The temperature was measured by the thermometer focused on the bottom of a hole (5<ce:hsp sp="0.25"></ce:hsp>mm in diameter and 10<ce:hsp sp="0.25"></ce:hsp>mm in depth) made on the carbon mold at its axial center. The heating rate and the period kept at the maximum temperature were the same as the sintering of powder compact. As the sintered disc had reacted with the carbon mold to form TiC near the surface of sintered disc when sintering at temperatures of 1623 and 1673<ce:hsp sp="0.25"></ce:hsp>K in a preparative experiment, thin graphite sheets were put between the powder blend and the carbon mold to prevent the reaction between the disc and mold. The sintered disc reacted with carbon mold was so hard due to TiC formed near the surface that polishing was very difficult. The use of graphite sheets successfully prevented the reaction and the polishing of sintered disc was easy.</ce:para>
+<ce:para view="all">X-ray diffraction analysis was made on polished ends of the sintered compacts and discs by using Philips X’pert MPD with Cu Kα radiation to identify the phases.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Result and discussion</ce:section-title>
+<ce:para view="all">X-ray diffraction patterns of the compacts sintered at 1307, 1412, 1518, 1570, 1623 and 1729<ce:hsp sp="0.25"></ce:hsp>K are shown in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor>. Peaks from the starting powders (Ti, Si and TiC) are seen together with peaks from Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> when sintering at 1307<ce:hsp sp="0.25"></ce:hsp>K. The peaks from Ti and Si disappear at 1412<ce:hsp sp="0.25"></ce:hsp>K and peaks from TiSi<ce:inf loc="post">2</ce:inf> appear. In a temperature range from 1518 to 1623<ce:hsp sp="0.25"></ce:hsp>K, a rapid increase in the intensity of peaks from Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> is seen, while the intensity of peaks from TiC, Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> and TiSi<ce:inf loc="post">2</ce:inf> decreases rapidly. To illustrate the phase change with sintering temperature, relative intensity of each main peak from Ti, Si, TiC, Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>, TiSi<ce:inf loc="post">2</ce:inf> and Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> is plotted against the temperature in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="fig5"></ce:float-anchor>. To analyze the reaction route exactly, the in situ phase analysis during reaction is required by using synchrotron radiation or neutron radiation. However, we can estimate the reaction route roughly from this figure as follows: (1) Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> was formed by the reaction between the elemental Ti and Si and then the formation of TiSi<ce:inf loc="post">2</ce:inf> started. According to Riley et al. <ce:cross-ref refid="bib12">[12]</ce:cross-ref>, the formation of Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> is preceded by the α/β transformation in Ti, which initiates interdiffusion of Ti and Si, in the self-propagating high-temperature synthesis of Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> from a powder blend of Ti and Si. As the α/β transformation occurs at 1138<ce:hsp sp="0.25"></ce:hsp>K <ce:cross-ref refid="bib11">[11]</ce:cross-ref>, it is reasonable that Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> was already formed at 1307<ce:hsp sp="0.25"></ce:hsp>K. (2) The formation of these titanium silicides was terminated until 1412<ce:hsp sp="0.25"></ce:hsp>K because of the complete consumption of the elemental Ti and Si. It should be noted that we blended the elemental Ti and Si powders at an equimolar ratio (Ti:Si:TiC<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>2:2:3). However, TiSi was not formed but Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> and TiSi<ce:inf loc="post">2</ce:inf> were formed. In Ti–Si system, there are five intermetallic compounds, Ti<ce:inf loc="post">3</ce:inf>Si, Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>, Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">4</ce:inf>, TiSi and TiSi<ce:inf loc="post">2</ce:inf> and among them Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> is the most thermodynamically stable phase with the highest formation enthalpy (Δ<ce:italic>H</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>−579<ce:hsp sp="0.25"></ce:hsp>kJ/mol) <ce:cross-ref refid="bib12">[12]</ce:cross-ref>. It is presumed that the most stable phase, Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> was formed primarily by the reaction between Ti and Si. TiSi and TiSi<ce:inf loc="post">2</ce:inf> have almost the same formation enthalpy, 130 and 135<ce:hsp sp="0.25"></ce:hsp>kJ/mol, respectively <ce:cross-ref refid="bib13">[13]</ce:cross-ref>. Therefore, the shortage of the elemental Ti powder in the starting blend caused by the formation of Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> resulted in the preferential formation of Si-rich compound, TiSi<ce:inf loc="post">2</ce:inf>. (3) The formation of Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> by the reaction between these silicides and TiC started at 1518<ce:hsp sp="0.25"></ce:hsp>K and grew rapidly in the range from 1518 to 1623<ce:hsp sp="0.25"></ce:hsp>K, which resulted in the rapid decrease in TiC and the silicides. (4) The formation of Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> was almost terminated until 1729<ce:hsp sp="0.25"></ce:hsp>K and two phases, Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> and Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> remained until 1940<ce:hsp sp="0.25"></ce:hsp>K as the final products.</ce:para>
+<ce:para view="all">The composition of starting powder blend is plotted on a Ti–Si–C ternary phase diagram section at 1500<ce:hsp sp="0.25"></ce:hsp>K <ce:cross-ref refid="bib14">[14]</ce:cross-ref> by symbol “X” in <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="fig6"></ce:float-anchor>. The starting composition lies in a three-phase region, Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf>–TiC–Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>, very close to an immediate two-phase region, Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf>–Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>. Therefore the final products well agree with those estimated by the phase equilibrium diagram.</ce:para>
+<ce:para view="all">On the other hand, the final products in the powder blend sintered under the pressure of 50<ce:hsp sp="0.25"></ce:hsp>MPa by using the carbon mold were Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> and TiC as shown in <ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+<ce:float-anchor refid="fig7"></ce:float-anchor>. The final product TiC could arise from the reaction between the sintered disc and the graphite sheets. So the sintered disc was polished more than 1<ce:hsp sp="0.25"></ce:hsp>mm and XRD pattern was measured again. As the XRD pattern did not change, we believed that the final product TiC did not arise from the reaction between the sintered disc and the graphite sheets. By comparing <ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref> with <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>, the reaction route under 50<ce:hsp sp="0.25"></ce:hsp>MPa seems to be the same as that under 0<ce:hsp sp="0.25"></ce:hsp>MPa. That is, Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> was formed by the reaction between the elemental Ti and Si and then the formation of TiSi<ce:inf loc="post">2</ce:inf> started. Then Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> was formed by the reaction between these silicides and TiC. Therefore, the reaction route was not so affected by the pressure, while the final products depended on the pressure.</ce:para>
+<ce:para view="all">Therefore, the effect of sintering pressure on the products in sintered discs was investigated. The powder blend was sintered at 1673<ce:hsp sp="0.25"></ce:hsp>K for 900<ce:hsp sp="0.25"></ce:hsp>s under a range of pressures from 0 to 60<ce:hsp sp="0.25"></ce:hsp>MPa by using the carbon mold. The variation of relative intensity from each main peak from Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf>, TiC, Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> and TiSi<ce:inf loc="post">2</ce:inf> with sintering pressure is shown in <ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>
+<ce:float-anchor refid="fig8"></ce:float-anchor>. Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf>, TiC, Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> and TiSi<ce:inf loc="post">2</ce:inf> were seen in the disc sintered under 0<ce:hsp sp="0.25"></ce:hsp>MPa, while only Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> and TiC remained under 14<ce:hsp sp="0.25"></ce:hsp>MPa or more. Thus Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> tends to disappear under pressure, while TiC tends to remain. <ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref>
+<ce:float-anchor refid="fig9"></ce:float-anchor> shows the variation of volume fraction of Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> in the sintered disc and density of the disc with sintering pressure. The volume fraction was calculated by the intensity of Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> and TiC XRD peaks using the following formula <ce:cross-ref refid="bib15">[15]</ce:cross-ref>:<ce:display>
+<ce:formula>
+<ce:label>(1)</ce:label>
+<mml:math altimg="si1.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>V</mml:mi>
+<mml:mtext>a</mml:mtext>
+</mml:msub>
+<mml:mo>=</mml:mo>
+<mml:mi>K</mml:mi>
+<mml:mo>/</mml:mo>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>K</mml:mi>
+<mml:mo>+</mml:mo>
+<mml:msub>
+<mml:mi>I</mml:mi>
+<mml:mtext>b</mml:mtext>
+</mml:msub>
+<mml:mo>/</mml:mo>
+<mml:msub>
+<mml:mi>I</mml:mi>
+<mml:mtext>a</mml:mtext>
+</mml:msub>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>where <ce:italic>V</ce:italic>
+<ce:inf loc="post">a</ce:inf> is the fraction of Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf>, <ce:italic>I</ce:italic>
+<ce:inf loc="post">a</ce:inf> and <ce:italic>I</ce:italic>
+<ce:inf loc="post">b</ce:inf> the integrated intensity of Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> (1<ce:hsp sp="0.25"></ce:hsp>0<ce:hsp sp="0.25"></ce:hsp>4) peak and TiC (2<ce:hsp sp="0.25"></ce:hsp>0<ce:hsp sp="0.25"></ce:hsp>0) peak, respectively, and <ce:italic>K</ce:italic> is a constant having values of 1.8 for the calculation of weight fraction and 1.95 for the volume fraction. As this formula is applicable to composites consisting of Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> and TiC only, the volume fraction could not be calculated for the disc sintered under 0<ce:hsp sp="0.25"></ce:hsp>MPa. From the figure, both the density and the volume fraction seem to be almost independent on the sintering pressure in a pressure range over 14<ce:hsp sp="0.25"></ce:hsp>MPa. More detailed investigation on the pressure effect should be done in the future.</ce:para>
+<ce:para view="all">According to Wu et al. <ce:cross-ref refid="bib16">[16]</ce:cross-ref> who investigated the reaction route in the pressureless reactive sintering of a stoichiometric powder blend of Ti/SiC/C by using neutron powder diffraction technique, intermediate phases TiC<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf> and Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>C<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf> (<ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>≤<ce:hsp sp="0.25"></ce:hsp>1) were formed first. As C is soluble in Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> up to about 10<ce:hsp sp="0.25"></ce:hsp>at.% in the ternary equilibrium phase diagram <ce:cross-ref refid="bib14">[14]</ce:cross-ref>, Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>C<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf> is the same as Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> in this case. These phases were consumed in the formation of Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> and TiC<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf> remained. Thus Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> is formed by the reaction between Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> and TiC and the final products tend to be Ti<ce:inf loc="post">5</ce:inf>SiC<ce:inf loc="post">2</ce:inf> and TiC for the stoichiometric powder blend. So we prepared a stoichiometric powder blend of Ti/Si/TiC and sintered in vacuum under 0<ce:hsp sp="0.25"></ce:hsp>MPa. <ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref>
+<ce:float-anchor refid="fig10"></ce:float-anchor> shows the variation of relative intensity of each main peak from Si, TiC, Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>, TiSi<ce:inf loc="post">2</ce:inf> and Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> with sintering temperature. The reaction route estimated from this figure is the same as the nonstoichiometric powder blend. However, the final products are Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> and TiC. The volume fraction of Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> calculated from the intensity of Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> and TiC XRD peaks is 0.97 for 1729<ce:hsp sp="0.25"></ce:hsp>K or more. The stoichiometric powder blend produces Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> with a small amount of TiC as the final products regardless of starting powder combination.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> was synthesized from the powder blend of Ti, Si and TiC at the molar ratio of Ti:Si:TiC<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>2:2:3. From the result of XRD analysis on the compacted powder blend sintered at various temperatures in vacuum, the reaction route was estimated. As a result, Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf> was formed by the reaction between Ti and Si and then the formation of TiSi<ce:inf loc="post">2</ce:inf> started. These titanium silicides reacted with TiC to form Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> in the next stage. The final phases in the powder compacts sintered at temperatures over 1729<ce:hsp sp="0.25"></ce:hsp>K were Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> and Ti<ce:inf loc="post">5</ce:inf>Si<ce:inf loc="post">3</ce:inf>, which well agrees with those estimated by a Ti–Si–C phase diagram. On the other hand, the final phases in the disks sintered under pressures of 14<ce:hsp sp="0.25"></ce:hsp>MPa or more by using a carbon mold were Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> and TiC, which suggests the equilibrium changes with pressure.</ce:para>
+</ce:section>
+</ce:sections>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.W.</ce:given-name>
+<ce:surname>Barsoum</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>El-Raghy</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Am. Ceram. Soc</sb:maintitle>
+</sb:title>
+<sb:volume-nr>79</sb:volume-nr>
+</sb:series>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1953</sb:first-page>
+<sb:last-page>1956</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Jeitschko</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Nowotny</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Monatasch Chem.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>98</sb:volume-nr>
+</sb:series>
+<sb:date>1967</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>329</sb:first-page>
+<sb:last-page>337</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Goto</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Hirai</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Res. Bull.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>22</sb:volume-nr>
+</sb:series>
+<sb:date>1987</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1195</sb:first-page>
+<sb:last-page>1201</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Arunajatesan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.H.</ce:given-name>
+<ce:surname>Carim</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>78</sb:volume-nr>
+</sb:series>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>667</sb:first-page>
+<sb:last-page>672</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Pampuch</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Lis</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Piekarchuk</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Stobierski</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Synth. Process.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>1</sb:volume-nr>
+</sb:series>
+<sb:date>1993</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>93</sb:first-page>
+<sb:last-page>100</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Lis</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Miamoto</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Pampuch</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Tanihata</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Lett.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>22</sb:volume-nr>
+</sb:series>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>163</sb:first-page>
+<sb:last-page>168</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Lis</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Pampuch</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Rudnik</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Wergzyn</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Solid State Ionics</sb:maintitle>
+</sb:title>
+<sb:volume-nr>101–103</sb:volume-nr>
+</sb:series>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>59</sb:first-page>
+<sb:last-page>64</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Feng</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Orling</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.A.</ce:given-name>
+<ce:surname>Munir</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>14</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>925</sb:first-page>
+<sb:last-page>939</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Khoptiar</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Gotman</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Eur. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>23</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>47</sb:first-page>
+<sb:last-page>53</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Z.M.</ce:given-name>
+<ce:surname>Sun</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.F.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Hashimoto</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Abe</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Trans.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>43</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>428</sb:first-page>
+<sb:last-page>431</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<ce:other-ref>
+<ce:textref>ASM's Binary Alloy Phase Diagrams, 2nd ed., Plus Updates on CD-ROM, Ver. 1.0, ASM International, 1996.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.P.</ce:given-name>
+<ce:surname>Riley</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.P.</ce:given-name>
+<ce:surname>Oliver</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.H.</ce:given-name>
+<ce:surname>Kisi</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Intermetallics</sb:maintitle>
+</sb:title>
+<sb:volume-nr>14</sb:volume-nr>
+</sb:series>
+<sb:date>2006</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>33</sb:first-page>
+<sb:last-page>38</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Doyama</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Yabe</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Data Handbook of Intermetallic Compounds</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1989</sb:date>
+<sb:publisher>
+<sb:name>Science Forum</sb:name>
+<sb:location>Tokyo</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+<sb:comment>p. 375</sb:comment>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Villars</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Prince</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Okamoto</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Handbook of Ternary Alloy Phase Diagrams on CD-ROM, Ver. 1.0</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1997</sb:date>
+<sb:publisher>
+<sb:name>ASM International</sb:name>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Z.F.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.M.</ce:given-name>
+<ce:surname>Sun</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Hashimoto</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metall. Mater. Trans.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>33A</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>3321</sb:first-page>
+<sb:last-page>3328</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib16">
+<ce:label>[16]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.H.</ce:given-name>
+<ce:surname>Kisi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.J.</ce:given-name>
+<ce:surname>Kennedy</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.J.</ce:given-name>
+<ce:surname>Studer</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>84</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2281</sb:first-page>
+<sb:last-page>2288</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

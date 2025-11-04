@@ -1,0 +1,947 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838805019146</prism:url><dc:identifier>doi:10.1016/j.jallcom.2005.12.035</dc:identifier><eid>1-s2.0-S0925838805019146</eid><prism:doi>10.1016/j.jallcom.2005.12.035</prism:doi><pii>S0925-8388(05)01914-6</pii><dc:title>Structure and magnetic properties of Gd4(Co,Ti)41 alloys </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>423</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>59</prism:startingpage><prism:endingpage>61</prism:endingpage><prism:pagerange>59-61</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2006-10-26</prism:coverdate><prism:coverdisplaydate>26 October 2006</prism:coverdisplaydate><prism:copyright>Copyright © 2006 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><prism:issuename>E-MRS 2005, Symposium B, Multi-component Alloys and Intermetallic Compounds for Magnetic Applications and Nanotechnology and E-MRS 2005, Symposium D, Magnetoelectronics</prism:issuename><dc:creator>Gjoka, M.</dc:creator><dc:creator>Sarafidis, C.</dc:creator><dc:creator>Niarchos, D.</dc:creator><dc:creator>Kalogirou, O.</dc:creator><dc:description>
+                  Series of intermetallic compounds are usually obtained by the general formula R
+                        m−n
+                     T5m+2n
+                     , i.e., taking m RT5 unit cells and replacing n R atoms by T–T pairs. The combination (m,n)=(7,3) which corresponds to R4T41 has not been reported yet. In this work we have investigated the possibility to synthesize the Gd4Co41−x
+                     Ti
+                        x
+                      compounds by annealing the stoichiometric as-cast samples in the temperature interval of 1133–1438K. The Gd4Co39Ti2 alloy annealed at 1133K crystallizes into the disordered TbCu7-type structure. The saturation magnetization M
+                     s of this sample is 77.3Am2/kg at room temperature and the alloy exhibits uniaxial anisotropy. The Gd4Co39Ti2 alloy annealed at 1438K crystallizes into the disordered Th2Ni17-type hexagonal phase (2:17H) with cell parameters a
+                     =8.350(1) and c
+                     =8.224(1)Å.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Intermetallics</dcterms:subject><dcterms:subject>Permanent magnets</dcterms:subject><dcterms:subject>Powder metallurgy</dcterms:subject><dcterms:subject>X-ray diffraction</dcterms:subject><dcterms:subject>Magnetic measurements</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838805019146" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838805019146" rel="scidir"/></coredata><objects><object category="standard" height="258" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="20934" type="IMAGE-DOWNSAMPLED" width="334">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019146-gr4.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="2473" type="IMAGE-THUMBNAIL" width="121">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019146-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="259" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="15602" type="IMAGE-DOWNSAMPLED" width="329">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019146-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="2098" type="IMAGE-THUMBNAIL" width="119">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019146-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="365" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="27193" type="IMAGE-DOWNSAMPLED" width="276">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019146-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="2029" type="IMAGE-THUMBNAIL" width="70">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019146-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="246" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="25796" type="IMAGE-DOWNSAMPLED" width="326">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019146-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="2723" type="IMAGE-THUMBNAIL" width="124">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805019146-gr2.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>33748862227</scopus-id><scopus-eid>2-s2.0-33748862227</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/33748862227" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20060207">2006-02-07</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20060207">2006-02-07</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-03-29T07:36:02</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838805019146</xocs:eid>
+<xocs:pii-formatted>S0925-8388(05)01914-6</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805019146</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2005.12.035</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838806X0261X</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20220617">2022-06-17T05:56:44.560341Z</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20061026</xocs:date-search-begin>
+<xocs:year-nav>2006</xocs:year-nav>
+<xocs:indexeddate epoch="1139270400">2006-02-07T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confdate confeditor confloc contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings vol vol volfirst volissue webpdf webpdfpagecount figure body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>423</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>423</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 423, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>15</xocs:sort-order>
+<xocs:first-fp>59</xocs:first-fp>
+<xocs:last-lp>61</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>59</xocs:first-page>
+<xocs:last-page>61</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20061026</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>26 October 2006</xocs:cover-date-text>
+<xocs:cover-date-start>2006-10-26</xocs:cover-date-start>
+<xocs:cover-date-year>2006</xocs:cover-date-year>
+<xocs:title-editors-groups>
+<xocs:title-editors-group>
+<ce:title>E-MRS 2005, Symposium B, Multi-component Alloys and Intermetallic Compounds for Magnetic Applications and Nanotechnology and E-MRS 2005, Symposium D, Magnetoelectronics</ce:title>
+<xocs:conference-info>
+<xocs:full-name>The European Materials Research Society (E-MRS) Fall Meeting 2005</xocs:full-name>
+<xocs:venue>Warsaw, Poland</xocs:venue>
+<xocs:conference-date-text>5–9 September 2005</xocs:conference-date-text>
+<xocs:date-range>
+<xocs:start-date>20050905</xocs:start-date>
+<xocs:end-date>20050909</xocs:end-date>
+</xocs:date-range>
+</xocs:conference-info>
+<ce:editors>
+<ce:author-group>
+<ce:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Talik</ce:surname>
+</ce:author>
+</ce:author-group>
+<ce:author-group>
+<ce:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Idzikowski</ce:surname>
+</ce:author>
+</ce:author-group>
+<ce:author-group>
+<ce:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Suski</ce:surname>
+</ce:author>
+</ce:author-group>
+</ce:editors>
+</xocs:title-editors-group>
+</xocs:title-editors-groups>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Contributed papers</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2006 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>STRUCTUREMAGNETICPROPERTIESGD4COTI41ALLOYS</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>GJOKA</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>M</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1"></xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>STADELMAIER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1984</xocs:ref-pub-year>
+<xocs:ref-first-fp>227</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>PSYCHARIS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>62</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>1920</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>12</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>CADOGAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>S3</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>PROCEEDINGS11THINTERNATIONALSYMPOSIUMMAGNETICANISOTROPYCOERCIVITYINRAREEARTHTRANSITIONMETALALLOYS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>IVANOVA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>141</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>GJOKA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>216</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>PROCEEDINGS17THINTERNATIONALWORKSHOPRAREEARTHMAGNETSAPPLICATIONS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>KHAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1973</xocs:ref-pub-year>
+<xocs:ref-first-fp>2502</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>PSYCHARIS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>455</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>WALLACE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1985</xocs:ref-pub-year>
+<xocs:ref-first-fp>127</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>BUSCHOW</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1969</xocs:ref-pub-year>
+<xocs:ref-first-fp>249</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>GJOKAX2006X59</xocs:refkey3>
+<xocs:refkey4lp>GJOKAX2006X59X61</xocs:refkey4lp>
+<xocs:refkey4ai>GJOKAX2006X59XM</xocs:refkey4ai>
+<xocs:refkey5>GJOKAX2006X59X61XM</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:funding-list has-funding-info="1">
+<xocs:funding-addon-generated-timestamp>2022-06-09T18:27:31.181Z</xocs:funding-addon-generated-timestamp>
+<xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+<xocs:funding>
+<xocs:funding-agency-matched-string>European Social Fund</xocs:funding-agency-matched-string>
+<xocs:funding-agency-acronym>ESF</xocs:funding-agency-acronym>
+<xocs:funding-agency>European Social Fund</xocs:funding-agency>
+<xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100004895</xocs:funding-agency-id>
+<xocs:funding-agency-country>http://sws.geonames.org/6695072/</xocs:funding-agency-country>
+</xocs:funding>
+<xocs:funding>
+<xocs:funding-agency-matched-string>Greek Ministry of Education</xocs:funding-agency-matched-string>
+<xocs:funding-agency>Ministry of National Education and Religious Affairs</xocs:funding-agency>
+<xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100006408</xocs:funding-agency-id>
+<xocs:funding-agency-country>http://sws.geonames.org/390903/</xocs:funding-agency-country>
+</xocs:funding>
+<xocs:funding-text>This work was partially supported by the European Social Fund and the Greek Ministry of Education in the frame of “Pythagoras” 2.2.3.st EPEAEK project.</xocs:funding-text>
+</xocs:funding-list>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(05)01914-6</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805019146</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838805019146</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2005.12.035</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-08T03:51:03.417317-04:00</xocs:timestamp>
+<xocs:cover-date-start>2006-10-26</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838805019146-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019146/MAIN/application/pdf/8c46cdcbcfad52bdbc68152a469332e5/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019146/MAIN/application/pdf/8c46cdcbcfad52bdbc68152a469332e5/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>205662</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>3</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838805019146-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019146/PREVIEW/image/png/d9f2fc7209542ee7c1427cb40b552ce4/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019146/PREVIEW/image/png/d9f2fc7209542ee7c1427cb40b552ce4/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>69931</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019146-gr4.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019146/gr4/DOWNSAMPLED/image/jpeg/7e12993822aa6893d293ef1c2068b94b/gr4.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019146/gr4/DOWNSAMPLED/image/jpeg/7e12993822aa6893d293ef1c2068b94b/gr4.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>20934</xocs:filesize>
+<xocs:pixel-height>258</xocs:pixel-height>
+<xocs:pixel-width>334</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019146-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019146/gr4/THUMBNAIL/image/gif/00e906112c3ee6851914cc0685f81e9b/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019146/gr4/THUMBNAIL/image/gif/00e906112c3ee6851914cc0685f81e9b/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2473</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>121</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019146-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019146/gr3/DOWNSAMPLED/image/jpeg/9b3a3e9e4b8b43e4433a4e8187e6c0bd/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019146/gr3/DOWNSAMPLED/image/jpeg/9b3a3e9e4b8b43e4433a4e8187e6c0bd/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>15602</xocs:filesize>
+<xocs:pixel-height>259</xocs:pixel-height>
+<xocs:pixel-width>329</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019146-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019146/gr3/THUMBNAIL/image/gif/7dc4a49697cac62ca72384ff08b2eec2/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019146/gr3/THUMBNAIL/image/gif/7dc4a49697cac62ca72384ff08b2eec2/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2098</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>119</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019146-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019146/gr1/DOWNSAMPLED/image/jpeg/03743e9ed345706c73ba79835f788158/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019146/gr1/DOWNSAMPLED/image/jpeg/03743e9ed345706c73ba79835f788158/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>27193</xocs:filesize>
+<xocs:pixel-height>365</xocs:pixel-height>
+<xocs:pixel-width>276</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019146-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019146/gr1/THUMBNAIL/image/gif/9595a72720eec7c94096480cacd9bd4c/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019146/gr1/THUMBNAIL/image/gif/9595a72720eec7c94096480cacd9bd4c/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2029</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>70</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019146-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019146/gr2/DOWNSAMPLED/image/jpeg/c26d6d3efc3da55418ac5427458ea7fb/gr2.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019146/gr2/DOWNSAMPLED/image/jpeg/c26d6d3efc3da55418ac5427458ea7fb/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>25796</xocs:filesize>
+<xocs:pixel-height>246</xocs:pixel-height>
+<xocs:pixel-width>326</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805019146-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805019146/gr2/THUMBNAIL/image/gif/f1401d66471006d42a8b3d150ba36d64/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805019146/gr2/THUMBNAIL/image/gif/f1401d66471006d42a8b3d150ba36d64/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2723</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>124</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>13492</aid>
+<ce:pii>S0925-8388(05)01914-6</ce:pii>
+<ce:doi>10.1016/j.jallcom.2005.12.035</ce:doi>
+<ce:copyright type="full-transfer" year="2006">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">X-ray diffraction patterns (Cu Kα) of powder samples of Gd<ce:inf loc="post">4</ce:inf>Co<ce:inf loc="post">39</ce:inf>Ti<ce:inf loc="post">2</ce:inf> annealed at different temperatures (*, are the reflections of the Th<ce:inf loc="post">2</ce:inf>Ni<ce:inf loc="post">17</ce:inf>-type structure and +, are the reflections of the TbCu<ce:inf loc="post">7</ce:inf>-type structure).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">X-ray diffraction patterns (Cu Kα) of random and magnetically aligned (with the alignment direction normal to the sample holder) powder samples of Gd<ce:inf loc="post">4</ce:inf>Co<ce:inf loc="post">39</ce:inf>Ti<ce:inf loc="post">2</ce:inf> annealed at 1133<ce:hsp sp="0.25"></ce:hsp>K.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Thermomagnetic curve of Gd<ce:inf loc="post">4</ce:inf>Co<ce:inf loc="post">39</ce:inf>Ti<ce:inf loc="post">2</ce:inf> annealed at 1133<ce:hsp sp="0.25"></ce:hsp>K.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Magnetization curves at 5 and 300<ce:hsp sp="0.25"></ce:hsp>K of magnetically aligned Gd<ce:inf loc="post">4</ce:inf>Co<ce:inf loc="post">39</ce:inf>Ti<ce:inf loc="post">2</ce:inf> annealed at 1133<ce:hsp sp="0.25"></ce:hsp>K with the magnetic field applied parallel and perpendicular to the alignment direction.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+</ce:floats>
+<ce:title>Structure and magnetic properties of Gd<ce:inf loc="post">4</ce:inf>(Co,Ti)<ce:inf loc="post">41</ce:inf> alloys</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Gjoka</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="cor1">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Sarafidis</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Niarchos</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>O.</ce:given-name>
+<ce:surname>Kalogirou</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation id="aff1">
+<ce:label>a</ce:label>
+<ce:textfn>Institute for Materials Science, NCSR “Demokritos”, 153 10 Ag. Paraskevi, Attiki, Greece</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff2">
+<ce:label>b</ce:label>
+<ce:textfn>Department of Physics, Aristotle University of Thessaloniki, 54 124 Thessaloniki, Greece</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>⁎</ce:label>
+<ce:text>Corresponding author. Tel.: +30 210 6503318; fax: +30 210 6519430.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">Series of intermetallic compounds are usually obtained by the general formula R<ce:inf loc="post">
+<ce:italic>m</ce:italic>−<ce:italic>n</ce:italic>
+</ce:inf>T<ce:inf loc="post">5<ce:italic>m</ce:italic>+2<ce:italic>n</ce:italic>
+</ce:inf>, i.e., taking <ce:italic>m</ce:italic> RT<ce:inf loc="post">5</ce:inf> unit cells and replacing <ce:italic>n</ce:italic> R atoms by T–T pairs. The combination (<ce:italic>m</ce:italic>,<ce:italic>n</ce:italic>)<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>(7,3) which corresponds to R<ce:inf loc="post">4</ce:inf>T<ce:inf loc="post">41</ce:inf> has not been reported yet. In this work we have investigated the possibility to synthesize the Gd<ce:inf loc="post">4</ce:inf>Co<ce:inf loc="post">41−<ce:italic>x</ce:italic>
+</ce:inf>Ti<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf> compounds by annealing the stoichiometric as-cast samples in the temperature interval of 1133–1438<ce:hsp sp="0.25"></ce:hsp>K. The Gd<ce:inf loc="post">4</ce:inf>Co<ce:inf loc="post">39</ce:inf>Ti<ce:inf loc="post">2</ce:inf> alloy annealed at 1133<ce:hsp sp="0.25"></ce:hsp>K crystallizes into the disordered TbCu<ce:inf loc="post">7</ce:inf>-type structure. The saturation magnetization <ce:italic>M</ce:italic>
+<ce:inf loc="post">s</ce:inf> of this sample is 77.3<ce:hsp sp="0.25"></ce:hsp>Am<ce:sup loc="post">2</ce:sup>/kg at room temperature and the alloy exhibits uniaxial anisotropy. The Gd<ce:inf loc="post">4</ce:inf>Co<ce:inf loc="post">39</ce:inf>Ti<ce:inf loc="post">2</ce:inf> alloy annealed at 1438<ce:hsp sp="0.25"></ce:hsp>K crystallizes into the disordered Th<ce:inf loc="post">2</ce:inf>Ni<ce:inf loc="post">17</ce:inf>-type hexagonal phase (2:17H) with cell parameters <ce:italic>a</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>8.350(1) and <ce:italic>c</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>8.224(1)<ce:hsp sp="0.25"></ce:hsp>Å.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Intermetallics</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Permanent magnets</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Powder metallurgy</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>X-ray diffraction</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Magnetic measurements</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">The iron-rich regions of the R–Fe–T system (R<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>rare earth, T<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>transition metal) have been intensively studied with the aim to investigate for new magnetic materials with hard magnetic properties even better than those of SmCo<ce:inf loc="post">5</ce:inf>. As early as 1968, Johnson and Smith surveyed the relationships amongst the structures, which can be geometrically derived from CaCu<ce:inf loc="post">5</ce:inf>-type structure (1:5), namely the rhombohedral Th<ce:inf loc="post">2</ce:inf>Zn<ce:inf loc="post">17</ce:inf> (2:17R), the hexagonal Th<ce:inf loc="post">2</ce:inf>Ni<ce:inf loc="post">17</ce:inf> (2:17H) and the tetragonal ThMn<ce:inf loc="post">12</ce:inf> (1:12) <ce:cross-ref refid="bib1">[1]</ce:cross-ref>. These phases are formed by dumb-bells substitution for the R atoms in the CaCu<ce:inf loc="post">5</ce:inf>-type structure where the amount and the arrangement of the dumb-bell sites are different. Following the Stadelmaier scheme <ce:cross-ref refid="bib2">[2]</ce:cross-ref>, i.e., taking <ce:italic>m</ce:italic> RT<ce:inf loc="post">5</ce:inf> unit cells and replacing <ce:italic>n</ce:italic> R atoms by T–T pairs, one can get intermetallic series described by the general formula R<ce:inf loc="post">
+<ce:italic>m</ce:italic>−<ce:italic>n</ce:italic>
+</ce:inf>T<ce:inf loc="post">5<ce:italic>m</ce:italic>+2<ce:italic>n</ce:italic>
+</ce:inf> (where R is a rare earth atom and T is a transition metal). In the well-known table given in <ce:cross-ref refid="bib2">[2]</ce:cross-ref> all possible formulae for different <ce:italic>m</ce:italic> and <ce:italic>n</ce:italic> (<ce:italic>n</ce:italic>/<ce:italic>m</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>&lt;<ce:hsp sp="0.25"></ce:hsp>1/2) are given, expect of some gaps witch are justified as “less likely to occur”. Meanwhile, it has been shown that some of the gaps actually correspond to viable compounds. Thus, Psycharis et al. have proved that the gap (<ce:italic>m</ce:italic>,<ce:italic>n</ce:italic>)<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>(10,4) corresponds to the R<ce:inf loc="post">3</ce:inf>(Fe,Ti)<ce:inf loc="post">29</ce:inf> series <ce:cross-ref refid="bib3">[3]</ce:cross-ref>. Recently, the successful formation of R<ce:inf loc="post">3</ce:inf>(Co,Cr)<ce:inf loc="post">29</ce:inf> compounds (R<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>Gd <ce:cross-ref refid="bib4">[4]</ce:cross-ref> and Sm <ce:cross-ref refid="bib5">[5]</ce:cross-ref>) has been reported, which indicate that the (<ce:italic>m</ce:italic>,<ce:italic>n</ce:italic>)<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>(10,4) pair is available also for the Co-alloys.</ce:para>
+<ce:para view="all">Cadogan have reported a new series, R<ce:inf loc="post">3</ce:inf>(Fe,Si)<ce:inf loc="post">22</ce:inf>, accomplishing the gap (<ce:italic>m</ce:italic>,<ce:italic>n</ce:italic>)<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>(12,3) <ce:cross-ref refid="bib6">[6]</ce:cross-ref>. Ivanova et al. <ce:cross-ref refid="bib7">[7]</ce:cross-ref> have reported the formation of a Tb<ce:inf loc="post">4</ce:inf>(Fe,Si)<ce:inf loc="post">41</ce:inf> compound, which in the Stadelmaier's model corresponds to (<ce:italic>m</ce:italic>,<ce:italic>n</ce:italic>)<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>(7,3). In a previous work we have investigated the alloys with starting nominal composition R<ce:inf loc="post">4</ce:inf>(Fe,Ti)<ce:inf loc="post">41</ce:inf> (R<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>Nd, Er; T<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>Ti, V) <ce:cross-ref refid="bib8">[8]</ce:cross-ref>. In this work we extend the previous study for the Gd<ce:inf loc="post">4</ce:inf>(Co,Ti)<ce:inf loc="post">41</ce:inf> alloys.</ce:para>
+</ce:section>
+<ce:section role="materials-methods" view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental</ce:section-title>
+<ce:para view="all">Alloys with starting composition Gd<ce:inf loc="post">4</ce:inf>Co<ce:inf loc="post">41−<ce:italic>x</ce:italic>
+</ce:inf>Ti<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf> (<ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1.5, 2.0, 2.5) were prepared by arc melting of pure elements (&gt;99.9<ce:hsp sp="0.25"></ce:hsp>wt%), wrapping the ingot in Ta foil and sealing it in evacuated quartz tubes, followed by annealing at <ce:italic>T</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1133–1438<ce:hsp sp="0.25"></ce:hsp>K for 120<ce:hsp sp="0.25"></ce:hsp>h, and then quenching in water. X-ray diffraction measurements (XRD, Cu Kα) were performed on randomly and magnetically aligned power samples to determine the phases present and the easy magnetization direction. The samples where characterized by Rietveld analysis. Thermomagnetic (TMA) curves where recorded above room temperature, with a heating rate of 5<ce:hsp sp="0.25"></ce:hsp>°/min, and applying a magnetic field of 150<ce:hsp sp="0.25"></ce:hsp>Oe. The values of the Curie temperature were derived from d<ce:italic>M</ce:italic>/d<ce:italic>H</ce:italic> versus <ce:italic>T</ce:italic> curves.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussions</ce:section-title>
+<ce:para view="all">First we studied the Gd<ce:inf loc="post">4</ce:inf>Co<ce:inf loc="post">39</ce:inf>Ti<ce:inf loc="post">2</ce:inf> alloys. <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor> shows the XRD patterns of the as-cast sample and the samples annealed at 1438, 1338 and 1233<ce:hsp sp="0.25"></ce:hsp>K. The as-cast sample is a mixture of the 2:17H, 1:12, 1:7 and Co phases. The sample annealed at 1233<ce:hsp sp="0.25"></ce:hsp>K crystallizes into the disordered TbCu<ce:inf loc="post">7</ce:inf> phase. For higher annealing temperatures the main phase is that of Th<ce:inf loc="post">2</ce:inf>Ni<ce:inf loc="post">17</ce:inf>-type structure with hexagonal symmetry and space group <ce:italic>P</ce:italic>6<ce:inf loc="post">3</ce:inf>/<ce:italic>mmc</ce:italic>. A small amount of the 1:12 phases is present in each one of the alloys.</ce:para>
+<ce:para view="all">In <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor>, the X-ray diffraction patterns for the powder specimen of Gd<ce:inf loc="post">4</ce:inf>Co<ce:inf loc="post">39</ce:inf>Ti<ce:inf loc="post">2</ce:inf> (or Gd<ce:inf loc="post">2</ce:inf>Co<ce:inf loc="post">19.5</ce:inf>Ti<ce:inf loc="post">1</ce:inf>) annealed at 1133<ce:hsp sp="0.25"></ce:hsp>K are shown. This sample contains an excess amount of Co compared with the stoichiometric ratio of Gd<ce:inf loc="post">2</ce:inf>Co<ce:inf loc="post">17</ce:inf>. The upper trace is the XRD pattern for the oriented sample and the middle trace for a randomly oriented. The lower trace presents the theoretical pattern of GdCo<ce:inf loc="post">7</ce:inf> (TbCu<ce:inf loc="post">7</ce:inf>-type structure). All the diffraction peaks of the experimental patterns correspond to the peaks of the theoretical pattern including reflection (0<ce:hsp sp="0.25"></ce:hsp>0<ce:hsp sp="0.25"></ce:hsp>2), which is overlapped with the (1<ce:hsp sp="0.25"></ce:hsp>1<ce:hsp sp="0.25"></ce:hsp>1) reflection of metallic Co (indicated by an asterisk on the corresponding peak). However, the agreement factors obtained from the Rietveld refinement, using the model of Khan <ce:cross-ref refid="bib9">[9]</ce:cross-ref> for the TbCu<ce:inf loc="post">7</ce:inf>-type structure, are relatively poor (<ce:italic>R</ce:italic>
+<ce:inf loc="post">p</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>22.4%; <ce:italic>R</ce:italic>
+<ce:inf loc="post">brag</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>25.5%). In order to improve the refinement procedure we introduced one more site for Co, in the lattice of the TbCu<ce:inf loc="post">7</ce:inf>-type structure, i.e., the 6l site as reported by Psycharis et al. <ce:cross-ref refid="bib10">[10]</ce:cross-ref>. Thus, the unit cell parameters became <ce:italic>a</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>4.882(3) and <ce:italic>c</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>4.102(7)<ce:hsp sp="0.25"></ce:hsp>Å and the occupancy factors 0.63, 0.35, 0.38 and 0.1 for the sites Gd(1a), Co(2c), Co(2e) and Co(6l), respectively. Using that model the agreement factors of the refinement became <ce:italic>R</ce:italic>
+<ce:inf loc="post">p</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>8.83%, <ce:italic>R</ce:italic>
+<ce:inf loc="post">wp</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>10.62%, but the <ce:italic>R</ce:italic>
+<ce:inf loc="post">brag</ce:inf> factor remained relatively high, 21.32%. More research is needed to clarify the real structure of this sample. All reflections in the upper trace of <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref> for the oriented sample disappear except the (0<ce:hsp sp="0.25"></ce:hsp>0<ce:hsp sp="0.25"></ce:hsp>l) reflections. This indicates that the sample presents uniaxial anisotropy, contrarily to the stable Gd<ce:inf loc="post">2</ce:inf>Co<ce:inf loc="post">17</ce:inf> compound, which presents planar anisotropy <ce:cross-ref refid="bib11">[11]</ce:cross-ref>.</ce:para>
+<ce:para view="all">It has been reported <ce:cross-ref refid="bib9">[9]</ce:cross-ref> that in the as-cast sample of Gd<ce:inf loc="post">2</ce:inf>Co<ce:inf loc="post">17</ce:inf> the disordered phase GdCo<ce:inf loc="post">7</ce:inf> is formed. However, this TbCu<ce:inf loc="post">7</ce:inf> phase transforms into the hexagonal Th<ce:inf loc="post">2</ce:inf>Ni<ce:inf loc="post">17</ce:inf>-type structure by annealing at higher temperatures and into that of the rombohedral Th<ce:inf loc="post">2</ce:inf>Zn<ce:inf loc="post">17</ce:inf>-type structure by annealing at lower temperatures. The former is stable at high annealing temperature and the latter is stable at lower annealing temperatures. The excess amount of Co in the case of our sample compared with Gd<ce:inf loc="post">2</ce:inf>Co<ce:inf loc="post">17</ce:inf> changes this rule. At higher temperatures, in the interval of 1333–1433<ce:hsp sp="0.25"></ce:hsp>K the Gd<ce:inf loc="post">4</ce:inf>Co<ce:inf loc="post">39</ce:inf>Ti<ce:inf loc="post">2</ce:inf> crystallizes into the hexagonal Th<ce:inf loc="post">2</ce:inf>Ni<ce:inf loc="post">17</ce:inf>-type structure. The cell parameters calculated by the Rietveld method for the latter case are: <ce:italic>a</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>8.350(1) and <ce:italic>c</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>8.224(1)<ce:hsp sp="0.25"></ce:hsp>Å. When the sample is annealed at lower temperatures (1133<ce:hsp sp="0.25"></ce:hsp>K) it crystallizes into the TbCu<ce:inf loc="post">7</ce:inf>-type structure. The Gd<ce:inf loc="post">4</ce:inf>Co<ce:inf loc="post">39.5</ce:inf>Ti<ce:inf loc="post">1.5</ce:inf> alloys annealed at 1133–1233 have the same behavior as the alloys mentioned above (where Ti<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>2), in other words they crystallize into the TbCu<ce:inf loc="post">7</ce:inf>-type structure. The alloys with the Gd<ce:inf loc="post">4</ce:inf>Co<ce:inf loc="post">38.5</ce:inf>Ti<ce:inf loc="post">2.5</ce:inf> composition present a polymorphic system.</ce:para>
+<ce:para view="all">In <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor>, the thermomagnetic curve of Gd<ce:inf loc="post">4</ce:inf>Co<ce:inf loc="post">39</ce:inf>Ti<ce:inf loc="post">2</ce:inf> annealed at 1133<ce:hsp sp="0.25"></ce:hsp>K is presented. The magnetic transition occurs at <ce:italic>T</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1075<ce:hsp sp="0.25"></ce:hsp>K, which is smaller than that reported for Gd<ce:inf loc="post">2</ce:inf>Co<ce:inf loc="post">17</ce:inf> (1210<ce:hsp sp="0.25"></ce:hsp>K) <ce:cross-ref refid="bib12">[12]</ce:cross-ref>. The light increase of the magnetization when temperature increases (see <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>) reflects the well-known fact that the combination of Gd and Co produces an intermetallic compound in which the magnetic moments align antiparallel to each other <ce:cross-ref refid="bib12">[12]</ce:cross-ref>. The same apparent anomaly is reflected also for the anisotropy field, which is higher at room temperature than that at 5<ce:hsp sp="0.25"></ce:hsp>K (2.6<ce:hsp sp="0.25"></ce:hsp>T at 5<ce:hsp sp="0.25"></ce:hsp>K and 3.6<ce:hsp sp="0.25"></ce:hsp>T at 300<ce:hsp sp="0.25"></ce:hsp>K) and in the case of the saturation magnetization, <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor> (77.27 and 67.14<ce:hsp sp="0.25"></ce:hsp>Am<ce:sup loc="post">2</ce:sup>/kg at 300 and 5<ce:hsp sp="0.25"></ce:hsp>K, respectively).</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">The Gd<ce:inf loc="post">4</ce:inf>Co<ce:inf loc="post">41−<ce:italic>x</ce:italic>
+</ce:inf>Ti<ce:inf loc="post">
+<ce:italic>x</ce:italic>
+</ce:inf> (<ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>1.5, 2.0, 2.5) alloys present a polymorphic system depending on the annealing temperature. New phases were not detected for the temperature range they were annealed. For higher annealing temperatures the main phase is that of Th<ce:inf loc="post">2</ce:inf>Ni<ce:inf loc="post">17</ce:inf>-type structure with hexagonal symmetry and space group <ce:italic>P</ce:italic>6<ce:inf loc="post">3</ce:inf>/<ce:italic>mmc</ce:italic>. Samples annealed at lower temperatures crystallize in the disordered TbCu<ce:inf loc="post">7</ce:inf> phases and exhibit uniaxial anisotropy.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgements</ce:section-title>
+<ce:para view="all">This work was partially supported by the European Social Fund and the Greek Ministry of Education in the frame of “Pythagoras” 2.2.3.st EPEAEK project.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<ce:other-ref>
+<ce:textref>Q. Johnson, G.S. Smith, Lawrence Radiation Lab. Rept. UCRL-71094, 1968.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.H.</ce:given-name>
+<ce:surname>Stadelmaier</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Z. Metall.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>75</sb:volume-nr>
+</sb:series>
+<sb:date>1984</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>227</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>V.</ce:given-name>
+<ce:surname>Psycharis</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>O.</ce:given-name>
+<ce:surname>Kalogirou</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Niarchos</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Gjoka</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>234</sb:volume-nr>
+</sb:series>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>62</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.Q.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.L.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Tang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.H.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.M.</ce:given-name>
+<ce:surname>Yang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.M.</ce:given-name>
+<ce:surname>Jin</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Appl. Phys.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>90</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1920</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Liu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Jin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Yang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>358</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>12</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.M.</ce:given-name>
+<ce:surname>Cadogan</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:title>
+<sb:maintitle>Proceedings of the 11th International Symposium on Magnetic Anisotropy and Coercivity in Rare-Earth Transition Metal Alloys</sb:maintitle>
+</sb:title>
+<sb:conference>Sendai</sb:conference>
+<sb:date>2000</sb:date>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>S3</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.V.</ce:given-name>
+<ce:surname>Ivanova</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.M.</ce:given-name>
+<ce:surname>Makarova</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Ye.V.</ce:given-name>
+<ce:surname>Shcherbakova</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Ye.V.</ce:given-name>
+<ce:surname>Belozerov</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>309</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>141</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Gjoka</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Niarchos</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Sarafidis</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>O.</ce:given-name>
+<ce:surname>Kalogirou</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:title>
+<sb:maintitle>Proceedings of the 17th International Workshop on Rare-Earth Magnets and their Applications</sb:maintitle>
+</sb:title>
+<sb:conference>Delaware</sb:conference>
+<sb:date>2002</sb:date>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>216</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Khan</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Crystallogr.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>B29</sb:volume-nr>
+</sb:series>
+<sb:date>1973</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2502</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>V.</ce:given-name>
+<ce:surname>Psycharis</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Gjoka</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Christides</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Niarchos</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>317–318</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>455</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.E.</ce:given-name>
+<ce:surname>Wallace</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Prog. Solid State Chem.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>16</sb:volume-nr>
+</sb:series>
+<sb:date>1985</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>127</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.H.J.</ce:given-name>
+<ce:surname>Buschow</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.S.</ce:given-name>
+<ce:surname>van der Goot</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Less-Common Met.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>17</sb:volume-nr>
+</sb:series>
+<sb:date>1969</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>249</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

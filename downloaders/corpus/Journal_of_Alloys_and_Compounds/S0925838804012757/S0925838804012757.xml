@@ -1,0 +1,1978 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838804012757</prism:url><dc:identifier>doi:10.1016/j.jallcom.2004.09.058</dc:identifier><eid>1-s2.0-S0925838804012757</eid><prism:doi>10.1016/j.jallcom.2004.09.058</prism:doi><pii>S0925-8388(04)01275-7</pii><dc:title>Hydrogen storage performance of Ti–V-based BCC phase alloys with various Fe content </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>393</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>128</prism:startingpage><prism:endingpage>134</prism:endingpage><prism:pagerange>128-134</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2005-05-03</prism:coverdate><prism:coverdisplaydate>3 May 2005</prism:coverdisplaydate><prism:copyright>Copyright © 2004 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Yu, X.B.</dc:creator><dc:creator>Feng, S.L.</dc:creator><dc:creator>Wu, Z.</dc:creator><dc:creator>Xia, B.J.</dc:creator><dc:creator>Xu, N.X.</dc:creator><dc:description>
+                  The effect of Fe content on hydrogen storage characteristics of Ti–10Cr–18Mn–(32−x)V–xFe (x
+                     =0, 2, 3, 4, 5) alloys has been investigated at 353K. The X-ray diffraction (XRD) patterns and scanning electron microscopy (SEM) images of the alloys present BCC and C14 two-phase structures for all of the Fe-containing alloys. With the increasing Fe content, the lattice parameters of the BCC phase decrease, which results in an increase of the hydrogen desorption plateau pressure of the alloys. Among the studied alloys, Ti–10Cr–18Mn–27V–5Fe alloy exhibits the smallest PCT plateau slope and a more suitable plateau pressure (0.1MPa&lt;
+                     P
+                     equ
+                     &lt;1MPa). The maximum and effective capacities of the alloy are 3.32wt.% and 2.26wt.%, respectively, which are higher than other reported Fe-containing BCC phase alloys. In addition, the V/Fe ratio in this alloy is close to that of (VFe) alloy, whose cost is much lower than that of pure V.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Hydrogen storage</dcterms:subject><dcterms:subject>Ti–V-based BCC alloys</dcterms:subject><dcterms:subject>Phase structure</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838804012757" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838804012757" rel="scidir"/></coredata><objects><object category="thumbnail" height="41" mimetype="image/gif" multimediatype="GIF image file" ref="si8" size="623" type="ALTIMG" width="103">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012757-si8.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="35" mimetype="image/gif" multimediatype="GIF image file" ref="si7" size="524" type="ALTIMG" width="111">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012757-si7.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="14" mimetype="image/gif" multimediatype="GIF image file" ref="si6" size="271" type="ALTIMG" width="44">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012757-si6.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="14" mimetype="image/gif" multimediatype="GIF image file" ref="si5" size="265" type="ALTIMG" width="45">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012757-si5.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="14" mimetype="image/gif" multimediatype="GIF image file" ref="si4" size="271" type="ALTIMG" width="44">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012757-si4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="14" mimetype="image/gif" multimediatype="GIF image file" ref="si3" size="265" type="ALTIMG" width="45">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012757-si3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="14" mimetype="image/gif" multimediatype="GIF image file" ref="si2" size="265" type="ALTIMG" width="45">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012757-si2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="14" mimetype="image/gif" multimediatype="GIF image file" ref="si1" size="265" type="ALTIMG" width="45">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012757-si1.gif?httpAccept=%2A%2F%2A</object><object category="standard" height="214" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr9" size="20894" type="IMAGE-DOWNSAMPLED" width="277">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012757-gr9.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr9" size="2999" type="IMAGE-THUMBNAIL" width="121">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012757-gr9.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="212" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr8" size="10046" type="IMAGE-DOWNSAMPLED" width="279">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012757-gr8.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr8" size="1872" type="IMAGE-THUMBNAIL" width="123">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012757-gr8.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="173" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr7" size="18991" type="IMAGE-DOWNSAMPLED" width="480">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012757-gr7.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="45" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="1808" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012757-gr7.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="213" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr6" size="9501" type="IMAGE-DOWNSAMPLED" width="283">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012757-gr6.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="1769" type="IMAGE-THUMBNAIL" width="124">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012757-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="215" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr5" size="14067" type="IMAGE-DOWNSAMPLED" width="279">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012757-gr5.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="2234" type="IMAGE-THUMBNAIL" width="121">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012757-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="203" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="21870" type="IMAGE-DOWNSAMPLED" width="277">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012757-gr4.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="92" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="3149" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012757-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="621" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="138470" type="IMAGE-DOWNSAMPLED" width="548">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012757-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="2167" type="IMAGE-THUMBNAIL" width="82">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012757-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="153" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="20812" type="IMAGE-DOWNSAMPLED" width="480">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012757-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="40" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="1842" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012757-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="209" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr10" size="15038" type="IMAGE-DOWNSAMPLED" width="279">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012757-gr10.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr10" size="2612" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012757-gr10.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="217" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="6496" type="IMAGE-DOWNSAMPLED" width="280">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012757-gr1.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="2111" type="IMAGE-THUMBNAIL" width="121">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012757-gr1.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>16344377119</scopus-id><scopus-eid>2-s2.0-16344377119</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/16344377119" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20041117">2004-11-17</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20041117">2004-11-17</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-04-19T04:56:56</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838804012757</xocs:eid>
+<xocs:pii-formatted>S0925-8388(04)01275-7</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838804012757</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2004.09.058</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.3</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838805X01360</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.346355-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20050503</xocs:date-search-begin>
+<xocs:year-nav>2005</xocs:year-nav>
+<xocs:indexeddate epoch="1100649600">2004-11-17T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>393</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>393</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 393, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>25</xocs:sort-order>
+<xocs:first-fp>128</xocs:first-fp>
+<xocs:last-lp>134</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>128</xocs:first-page>
+<xocs:last-page>134</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20050503</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>3 May 2005</xocs:cover-date-text>
+<xocs:cover-date-start>2005-05-03</xocs:cover-date-start>
+<xocs:cover-date-year>2005</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Metallurgy</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2004 Published by Elsevier B.V.</xocs:copyright-line>
+<xocs:normalized-article-title>HYDROGENSTORAGEPERFORMANCETIVBASEDBCCPHASEALLOYSVARIOUSFECONTENT</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>YU</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>X</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental procedure</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Effect of Fe content on phase formation</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Effect of Fe content on PCT characteristics</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Stability of Fe-containing hydride</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgement</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>40</xocs:ref-first-fp>
+<xocs:ref-last-lp>45</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>SINGH</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>111</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>AU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>53</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>MOURI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>346</xocs:ref-first-fp>
+<xocs:ref-last-lp>350</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>TSUKAHARA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>203</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>OKADA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>511</xocs:ref-first-fp>
+<xocs:ref-last-lp>516</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>AKIBA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>461</xocs:ref-first-fp>
+<xocs:ref-last-lp>470</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>CHO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>304</xocs:ref-first-fp>
+<xocs:ref-last-lp>310</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>CHANYEOL</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>252</xocs:ref-first-fp>
+<xocs:ref-last-lp>257</xocs:ref-last-lp>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>CHO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>244</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>NOMURA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>513</xocs:ref-first-fp>
+<xocs:ref-last-lp>517</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>KURIIWA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>433</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13">
+<xocs:ref-normalized-surname>YU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>272</xocs:ref-first-fp>
+<xocs:ref-last-lp>277</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>UCHIDA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1984</xocs:ref-pub-year>
+<xocs:ref-first-fp>459</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15">
+<xocs:ref-normalized-surname>MAGEE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1981</xocs:ref-pub-year>
+<xocs:ref-first-fp>119</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib16">
+<xocs:ref-normalized-surname>PARK</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1991</xocs:ref-pub-year>
+<xocs:ref-first-fp>245</xocs:ref-first-fp>
+<xocs:ref-last-lp>253</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>YUX2005X128</xocs:refkey3>
+<xocs:refkey4lp>YUX2005X128X134</xocs:refkey4lp>
+<xocs:refkey4ai>YUX2005X128XX</xocs:refkey4ai>
+<xocs:refkey5>YUX2005X128X134XX</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(04)01275-7</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838804012757</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838804012757</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2004.09.058</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-10T20:44:21.621804-04:00</xocs:timestamp>
+<xocs:cover-date-start>2005-05-03</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838804012757-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012757/MAIN/application/pdf/4d0238a048e580f3cd2f1bc1d402fd79/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012757/MAIN/application/pdf/4d0238a048e580f3cd2f1bc1d402fd79/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>360235</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838804012757-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012757/PREVIEW/image/png/30750d867405baae9d31950fc4173dde/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012757/PREVIEW/image/png/30750d867405baae9d31950fc4173dde/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>64787</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012757-si8.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012757/STRIPIN/image/gif/48ac464c764ad656419525881761eabb/si8.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012757/STRIPIN/image/gif/48ac464c764ad656419525881761eabb/si8.gif</xocs:ucs-locator>
+<xocs:file-basename>si8</xocs:file-basename>
+<xocs:filename>si8.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>623</xocs:filesize>
+<xocs:pixel-height>41</xocs:pixel-height>
+<xocs:pixel-width>103</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012757-si7.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012757/STRIPIN/image/gif/b252eeb0a32babd0e50fb4fdb0ebb61a/si7.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012757/STRIPIN/image/gif/b252eeb0a32babd0e50fb4fdb0ebb61a/si7.gif</xocs:ucs-locator>
+<xocs:file-basename>si7</xocs:file-basename>
+<xocs:filename>si7.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>524</xocs:filesize>
+<xocs:pixel-height>35</xocs:pixel-height>
+<xocs:pixel-width>111</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012757-si6.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012757/STRIPIN/image/gif/ba9e2a12137047cdeaded48f12efbcdb/si6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012757/STRIPIN/image/gif/ba9e2a12137047cdeaded48f12efbcdb/si6.gif</xocs:ucs-locator>
+<xocs:file-basename>si6</xocs:file-basename>
+<xocs:filename>si6.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>271</xocs:filesize>
+<xocs:pixel-height>14</xocs:pixel-height>
+<xocs:pixel-width>44</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012757-si5.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012757/STRIPIN/image/gif/679d1a3f7670e131e6ac7640fc17a720/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012757/STRIPIN/image/gif/679d1a3f7670e131e6ac7640fc17a720/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si5</xocs:file-basename>
+<xocs:filename>si5.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>265</xocs:filesize>
+<xocs:pixel-height>14</xocs:pixel-height>
+<xocs:pixel-width>45</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012757-si4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012757/STRIPIN/image/gif/ba9e2a12137047cdeaded48f12efbcdb/si6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012757/STRIPIN/image/gif/ba9e2a12137047cdeaded48f12efbcdb/si6.gif</xocs:ucs-locator>
+<xocs:file-basename>si4</xocs:file-basename>
+<xocs:filename>si4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>271</xocs:filesize>
+<xocs:pixel-height>14</xocs:pixel-height>
+<xocs:pixel-width>44</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012757-si3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012757/STRIPIN/image/gif/679d1a3f7670e131e6ac7640fc17a720/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012757/STRIPIN/image/gif/679d1a3f7670e131e6ac7640fc17a720/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si3</xocs:file-basename>
+<xocs:filename>si3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>265</xocs:filesize>
+<xocs:pixel-height>14</xocs:pixel-height>
+<xocs:pixel-width>45</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012757-si2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012757/STRIPIN/image/gif/679d1a3f7670e131e6ac7640fc17a720/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012757/STRIPIN/image/gif/679d1a3f7670e131e6ac7640fc17a720/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si2</xocs:file-basename>
+<xocs:filename>si2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>265</xocs:filesize>
+<xocs:pixel-height>14</xocs:pixel-height>
+<xocs:pixel-width>45</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012757-si1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012757/STRIPIN/image/gif/679d1a3f7670e131e6ac7640fc17a720/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012757/STRIPIN/image/gif/679d1a3f7670e131e6ac7640fc17a720/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si1</xocs:file-basename>
+<xocs:filename>si1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>265</xocs:filesize>
+<xocs:pixel-height>14</xocs:pixel-height>
+<xocs:pixel-width>45</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012757-gr9.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012757/gr9/DOWNSAMPLED/image/jpeg/d9b86c93ab69bd1cd439b9f72f970455/gr9.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012757/gr9/DOWNSAMPLED/image/jpeg/d9b86c93ab69bd1cd439b9f72f970455/gr9.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>20894</xocs:filesize>
+<xocs:pixel-height>214</xocs:pixel-height>
+<xocs:pixel-width>277</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012757-gr9.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012757/gr9/THUMBNAIL/image/gif/32b6c158ec99811f91d1566c387e8307/gr9.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012757/gr9/THUMBNAIL/image/gif/32b6c158ec99811f91d1566c387e8307/gr9.sml</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2999</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>121</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012757-gr8.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012757/gr8/DOWNSAMPLED/image/jpeg/e1e180574146b22d7482cde0bd0c2f88/gr8.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012757/gr8/DOWNSAMPLED/image/jpeg/e1e180574146b22d7482cde0bd0c2f88/gr8.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>10046</xocs:filesize>
+<xocs:pixel-height>212</xocs:pixel-height>
+<xocs:pixel-width>279</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012757-gr8.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012757/gr8/THUMBNAIL/image/gif/3ebc44e4bb733732132804611ec8b8cd/gr8.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012757/gr8/THUMBNAIL/image/gif/3ebc44e4bb733732132804611ec8b8cd/gr8.sml</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1872</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>123</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012757-gr7.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012757/gr7/DOWNSAMPLED/image/jpeg/c6c6a940079523607533092730d9403b/gr7.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012757/gr7/DOWNSAMPLED/image/jpeg/c6c6a940079523607533092730d9403b/gr7.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>18991</xocs:filesize>
+<xocs:pixel-height>173</xocs:pixel-height>
+<xocs:pixel-width>480</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012757-gr7.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012757/gr7/THUMBNAIL/image/gif/67c9a216b19d4f8142ee934dcf65bd1c/gr7.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012757/gr7/THUMBNAIL/image/gif/67c9a216b19d4f8142ee934dcf65bd1c/gr7.sml</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1808</xocs:filesize>
+<xocs:pixel-height>45</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012757-gr6.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012757/gr6/DOWNSAMPLED/image/jpeg/1ec035cafd9ef7576586ecf22f3e03d0/gr6.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012757/gr6/DOWNSAMPLED/image/jpeg/1ec035cafd9ef7576586ecf22f3e03d0/gr6.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>9501</xocs:filesize>
+<xocs:pixel-height>213</xocs:pixel-height>
+<xocs:pixel-width>283</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012757-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012757/gr6/THUMBNAIL/image/gif/ae044a4ade1042de9d2e084c4c6a3b77/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012757/gr6/THUMBNAIL/image/gif/ae044a4ade1042de9d2e084c4c6a3b77/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1769</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>124</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012757-gr5.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012757/gr5/DOWNSAMPLED/image/jpeg/5f0239ac65dd4ee4f1c5a1986cbd9ada/gr5.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012757/gr5/DOWNSAMPLED/image/jpeg/5f0239ac65dd4ee4f1c5a1986cbd9ada/gr5.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>14067</xocs:filesize>
+<xocs:pixel-height>215</xocs:pixel-height>
+<xocs:pixel-width>279</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012757-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012757/gr5/THUMBNAIL/image/gif/149a47b795cf0ae353eaec8f8d0e3785/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012757/gr5/THUMBNAIL/image/gif/149a47b795cf0ae353eaec8f8d0e3785/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2234</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>121</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012757-gr4.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012757/gr4/DOWNSAMPLED/image/jpeg/702f88a2b0d86c35d2fa632016997808/gr4.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012757/gr4/DOWNSAMPLED/image/jpeg/702f88a2b0d86c35d2fa632016997808/gr4.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>21870</xocs:filesize>
+<xocs:pixel-height>203</xocs:pixel-height>
+<xocs:pixel-width>277</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012757-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012757/gr4/THUMBNAIL/image/gif/fd10717f7900bfd33581095ff2f4c9da/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012757/gr4/THUMBNAIL/image/gif/fd10717f7900bfd33581095ff2f4c9da/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3149</xocs:filesize>
+<xocs:pixel-height>92</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012757-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012757/gr3/DOWNSAMPLED/image/jpeg/b4e60146e2dbb8af8c12bdf18efd7a3a/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012757/gr3/DOWNSAMPLED/image/jpeg/b4e60146e2dbb8af8c12bdf18efd7a3a/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>138470</xocs:filesize>
+<xocs:pixel-height>621</xocs:pixel-height>
+<xocs:pixel-width>548</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012757-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012757/gr3/THUMBNAIL/image/gif/b8e6d91737a1ec1908e267309de09669/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012757/gr3/THUMBNAIL/image/gif/b8e6d91737a1ec1908e267309de09669/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2167</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>82</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012757-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012757/gr2/DOWNSAMPLED/image/jpeg/10109c8a035fb1d2dd6681320c5d523d/gr2.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012757/gr2/DOWNSAMPLED/image/jpeg/10109c8a035fb1d2dd6681320c5d523d/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>20812</xocs:filesize>
+<xocs:pixel-height>153</xocs:pixel-height>
+<xocs:pixel-width>480</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012757-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012757/gr2/THUMBNAIL/image/gif/aade056208e14df96c8bf3b8974e0af4/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012757/gr2/THUMBNAIL/image/gif/aade056208e14df96c8bf3b8974e0af4/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1842</xocs:filesize>
+<xocs:pixel-height>40</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012757-gr10.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012757/gr10/DOWNSAMPLED/image/jpeg/ebb9a1e2ae70ffc5d6802536c54b2ab6/gr10.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012757/gr10/DOWNSAMPLED/image/jpeg/ebb9a1e2ae70ffc5d6802536c54b2ab6/gr10.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr10</xocs:file-basename>
+<xocs:filename>gr10.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>15038</xocs:filesize>
+<xocs:pixel-height>209</xocs:pixel-height>
+<xocs:pixel-width>279</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012757-gr10.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012757/gr10/THUMBNAIL/image/gif/0f7cf579c2cec021921d7ea8771934ac/gr10.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012757/gr10/THUMBNAIL/image/gif/0f7cf579c2cec021921d7ea8771934ac/gr10.sml</xocs:ucs-locator>
+<xocs:file-basename>gr10</xocs:file-basename>
+<xocs:filename>gr10.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2612</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012757-gr1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012757/gr1/DOWNSAMPLED/image/gif/27dda1f7dbfd0a71d4be936169211da4/gr1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012757/gr1/DOWNSAMPLED/image/gif/27dda1f7dbfd0a71d4be936169211da4/gr1.gif</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>6496</xocs:filesize>
+<xocs:pixel-height>217</xocs:pixel-height>
+<xocs:pixel-width>280</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012757-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012757/gr1/THUMBNAIL/image/gif/b3943e09f7ad39c4b560fe71948f2761/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012757/gr1/THUMBNAIL/image/gif/b3943e09f7ad39c4b560fe71948f2761/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2111</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>121</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>11743</aid>
+<ce:pii>S0925-8388(04)01275-7</ce:pii>
+<ce:doi>10.1016/j.jallcom.2004.09.058</ce:doi>
+<ce:copyright type="unknown" year="2004"></ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">X-ray diffraction patterns of Ti–10Cr–18Mn–(32−<ce:italic>x</ce:italic>)V–<ce:italic>x</ce:italic>Fe.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Dependence of lattice parameters upon various <ce:italic>x</ce:italic> for Ti–10Cr–18Mn–(32−<ce:italic>x</ce:italic>)V–<ce:italic>x</ce:italic>Fe alloys. (a) Lattice parameter <ce:italic>a</ce:italic> of BCC phase; (b) lattice parameters <ce:italic>a</ce:italic> and <ce:italic>c</ce:italic> of C14 Laves phase.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Scanning electron micrographs of Ti–10Cr–18Mn–(32−<ce:italic>x</ce:italic>)V–<ce:italic>x</ce:italic>Fe alloys. (a) <ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>0; (b) <ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>2; (c) <ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>3; (d) <ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>4; (e) <ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>5.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">PCT desorption curves of Ti–10Cr–18Mn–(32−<ce:italic>x</ce:italic>)V–<ce:italic>x</ce:italic>Fe alloys at 353<ce:hsp sp="0.25"></ce:hsp>K.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Dependence of maximum and effective hydrogen capacities upon various <ce:italic>x</ce:italic> for Ti–10Cr–18Mn–(32−<ce:italic>x</ce:italic>)V–<ce:italic>x</ce:italic>Fe alloys.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Dependence of plateau pressure upon various <ce:italic>x</ce:italic> for Ti–10Cr–18Mn–(32−<ce:italic>x</ce:italic>)V–<ce:italic>x</ce:italic>Fe alloys.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+<ce:figure id="fig7">
+<ce:label>Fig. 7</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Dependence of FWHM and <ce:italic>c</ce:italic>/<ce:italic>a</ce:italic> value upon various <ce:italic>x</ce:italic> for Ti–10Cr–18Mn–(32−<ce:italic>x</ce:italic>)V–<ce:italic>x</ce:italic>Fe alloys. (a) FWHM of (1<ce:hsp sp="0.25"></ce:hsp>1<ce:hsp sp="0.25"></ce:hsp>0) peaks of BCC phase; (b) <ce:italic>c</ce:italic>/<ce:italic>a</ce:italic> value of C14 Laves phase.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr7"></ce:link>
+</ce:figure>
+<ce:figure id="fig8">
+<ce:label>Fig. 8</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Dependence of plateau slope upon various <ce:italic>x</ce:italic> for Ti–10Cr–18Mn–(32−<ce:italic>x</ce:italic>)V–<ce:italic>x</ce:italic>Fe alloys.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr8"></ce:link>
+</ce:figure>
+<ce:figure id="fig9">
+<ce:label>Fig. 9</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRD patterns of hydrogenated Ti–10Cr–18Mn–27V–5Fe alloy with various hydrogen content.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr9"></ce:link>
+</ce:figure>
+<ce:figure id="fig10">
+<ce:label>Fig. 10</ce:label>
+<ce:caption>
+<ce:simple-para view="all">TG curve of hydrogenated, Ti–10Cr–18Mn–32V and Ti–10Cr–18Mn–27V–5Fe alloys.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr10"></ce:link>
+</ce:figure>
+<ce:table colsep="0" frame="topbot" id="tbl1" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Reported hydrogen storage characteristics of several Ti-based BCC alloys</ce:simple-para>
+</ce:caption>
+<tgroup cols="4">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Alloys</entry>
+<entry align="left" nameend="col3" namest="col2" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Hydrogen capacity (wt.%)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Reference</entry>
+</row>
+<row>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Maximum</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Effective</entry>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">0.16</inf>Zr<inf loc="post">0.05</inf>Cr<inf loc="post">0.22</inf>V<inf loc="post">0.57</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">3.55</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.14</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<cross-ref refid="bib10">[10]</cross-ref>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">(Ti<inf loc="post">0.16</inf>Zr<inf loc="post">0.05</inf>Cr<inf loc="post">0.22</inf>V<inf loc="post">0.57</inf>)<inf loc="post">0.95</inf>Fe<inf loc="post">0.05</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<cross-ref refid="bib8">[8]</cross-ref>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">V<inf loc="post">0.68</inf>Ti<inf loc="post">0.2</inf>Cr<inf loc="post">0.12</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">3.49</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.05</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<cross-ref refid="bib9">[9]</cross-ref>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">V<inf loc="post">0.56</inf>Ti<inf loc="post">0.2</inf>Cr<inf loc="post">0.12</inf>Fe<inf loc="post">0.12</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.75</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.75</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<cross-ref refid="bib9">[9]</cross-ref>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti<inf loc="post">0.4</inf>V<inf loc="post">0.488</inf>Fe<inf loc="post">0.112</inf>Al<inf loc="post">0.35</inf>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">3.5</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.5</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<cross-ref refid="bib11">[11]</cross-ref>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">V–7.4Zr–7.4Ti–7.4Ni</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.6</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<cross-ref refid="bib12">[12]</cross-ref>
+</entry>
+</row>
+</tbody>
+</tgroup>
+<ce:legend>
+<ce:simple-para view="all">The hydrogen absorption–desorption temperature of the presented alloys is under 373<ce:hsp sp="0.25"></ce:hsp>K.</ce:simple-para>
+</ce:legend>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl2" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Crystallographic data for Ti–10Cr–18Mn–(32−<ce:italic>x</ce:italic>)V–<ce:italic>x</ce:italic>Fe alloys</ce:simple-para>
+</ce:caption>
+<tgroup cols="5">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<colspec colname="col5"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti–10Cr–18Mn–(32−<italic>x</italic>)V–<italic>x</italic>Fe</entry>
+<entry align="left" nameend="col3" namest="col2" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">BCC phase</entry>
+<entry align="left" nameend="col5" namest="col4" xmlns="http://www.elsevier.com/xml/common/dtd">Lattice parameters of C14 Laves phase (nm)</entry>
+</row>
+<row>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Lattice parameter <italic>a</italic> (nm)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">FWHM of (1<hsp sp="0.25"></hsp>1<hsp sp="0.25"></hsp>0) peak</entry>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>x</italic> = 0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.30588</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.3851</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>–</italic>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>–</italic>
+</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>x</italic> = 2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.30504</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.3961</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>a</italic> = 0.49188</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>c</italic> = 0.80391</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>x</italic> = 3</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.30386</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.0749</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>a</italic> = 0.49089</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>c</italic> = 0.80534</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>x</italic> = 4</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.30351</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.6646</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>a</italic> = 0.49096</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>c</italic> = 0.80461</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>x</italic> = 5</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.30347</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.3560</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>a</italic> = 0.49168</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>c</italic> = 0.80294</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl3" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Effect of Fe content on the PCT properties of Ti–10Cr–18Mn–(32−<ce:italic>x</ce:italic>)V–<ce:italic>x</ce:italic>Fe alloys</ce:simple-para>
+</ce:caption>
+<tgroup cols="5">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<colspec colname="col5"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti–10Cr–18Mn–(32−<italic>x</italic>)V–<italic>x</italic>Fe</entry>
+<entry align="left" nameend="col3" namest="col2" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Hydrogen storage capacity (wt.%)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Plateau pressure (<italic>P</italic>
+<inf loc="post">equ</inf>, ×10<sup loc="post">5</sup>
+<hsp sp="0.25"></hsp>Pa)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Slope factor (<italic>S</italic>
+<inf loc="post">f</inf>)</entry>
+</row>
+<row>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Maximum</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Effective</entry>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>x</italic> = 0</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">3.98</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.45</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.10</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.04</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>x</italic> = 2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">3.75</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.38</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.45</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.25</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>x</italic> = 3</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.99</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.82</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.6</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.27</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>x</italic> = 4</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">3.18</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.99</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.9</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.67</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>x</italic> = 5</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">3.32</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">2.26</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">4.35</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.28</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl4" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Refined structural parameters for the hydrogenated Ti–10Cr–18Mn–27V–5Fe sample</ce:simple-para>
+</ce:caption>
+<tgroup cols="5">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<colspec colname="col5"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Sample</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Space group</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>a</italic>
+</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>c</italic>
+</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Fraction (%)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" nameend="col5" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">H1</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>BCC</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si1.gif" overflow="scroll">
+<mml:mrow>
+<mml:mi>I</mml:mi>
+<mml:mi>m</mml:mi>
+<mml:mover accent="true">
+<mml:mn>3</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mi>m</mml:mi>
+</mml:mrow>
+</mml:math>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.3027</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">90</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>C14 Laves</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>P</italic>6<inf loc="post">3</inf>/<italic>mmc</italic>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.4906</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.8040</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">10</entry>
+</row>
+<row>
+<entry align="left" nameend="col5" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">H2</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>BCC</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si2.gif" overflow="scroll">
+<mml:mrow>
+<mml:mi>I</mml:mi>
+<mml:mi>m</mml:mi>
+<mml:mover accent="true">
+<mml:mn>3</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mi>m</mml:mi>
+</mml:mrow>
+</mml:math>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.3170</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">44</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>FCC</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si3.gif" overflow="scroll">
+<mml:mrow>
+<mml:mi>I</mml:mi>
+<mml:mi>m</mml:mi>
+<mml:mover accent="true">
+<mml:mn>3</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mi>m</mml:mi>
+</mml:mrow>
+</mml:math>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.4270</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">55</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Zr<inf loc="post">3</inf>V<inf loc="post">3</inf>O</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si4.gif" overflow="scroll">
+<mml:mrow>
+<mml:mi>F</mml:mi>
+<mml:mi>d</mml:mi>
+<mml:mover accent="true">
+<mml:mn>3</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mi>m</mml:mi>
+</mml:mrow>
+</mml:math>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.1475</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+</row>
+<row>
+<entry align="left" nameend="col5" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">H3</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>FCC</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si5.gif" overflow="scroll">
+<mml:mrow>
+<mml:mi>I</mml:mi>
+<mml:mi>m</mml:mi>
+<mml:mover accent="true">
+<mml:mn>3</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mi>m</mml:mi>
+</mml:mrow>
+</mml:math>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">0.4250</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">88</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Zr<inf loc="post">3</inf>V<inf loc="post">3</inf>O</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<mml:math altimg="si6.gif" overflow="scroll">
+<mml:mrow>
+<mml:mi>F</mml:mi>
+<mml:mi>d</mml:mi>
+<mml:mover accent="true">
+<mml:mn>3</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mi>m</mml:mi>
+</mml:mrow>
+</mml:math>
+</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.1475</entry>
+<entry xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">12</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl5" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">TG results for the hydrogen desorption temperature and total desorption content</ce:simple-para>
+</ce:caption>
+<tgroup cols="4">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Alloys</entry>
+<entry align="left" nameend="col3" namest="col2" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Hydrogen desorption temperature (K)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Hydrogen desorption content (wt.%)</entry>
+</row>
+<row>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Beginning</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Terminal</entry>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti–10Cr–18Mn–32V</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">520</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">745</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">3.62</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti–10Cr–18Mn–27V–5Fe</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">460</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">530</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">1.85</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+</ce:floats>
+<ce:title>Hydrogen storage performance of Ti–V-based BCC phase alloys with various Fe content</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>X.B.</ce:given-name>
+<ce:surname>Yu</ce:surname>
+<ce:cross-ref refid="cor1">*</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>S.L.</ce:given-name>
+<ce:surname>Feng</ce:surname>
+</ce:author>
+<ce:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</ce:author>
+<ce:author>
+<ce:given-name>B.J.</ce:given-name>
+<ce:surname>Xia</ce:surname>
+</ce:author>
+<ce:author>
+<ce:given-name>N.X.</ce:given-name>
+<ce:surname>Xu</ce:surname>
+</ce:author>
+<ce:affiliation>
+<ce:textfn>Lab of Energy Science and Technology, Shanghai Institute of Microsystem and Information Technology, Chinese Academy of Sciences, Shanghai 200050, PR China</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>*</ce:label>
+<ce:text>Corresponding author. Tel.: +86 21 62511070 ext. 8803; fax: +86 21 32200534.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="18" month="8" year="2004"></ce:date-received>
+<ce:date-revised day="22" month="9" year="2004"></ce:date-revised>
+<ce:date-accepted day="29" month="9" year="2004"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">The effect of Fe content on hydrogen storage characteristics of Ti–10Cr–18Mn–(32−<ce:italic>x</ce:italic>)V–<ce:italic>x</ce:italic>Fe (<ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>0, 2, 3, 4, 5) alloys has been investigated at 353<ce:hsp sp="0.25"></ce:hsp>K. The X-ray diffraction (XRD) patterns and scanning electron microscopy (SEM) images of the alloys present BCC and C14 two-phase structures for all of the Fe-containing alloys. With the increasing Fe content, the lattice parameters of the BCC phase decrease, which results in an increase of the hydrogen desorption plateau pressure of the alloys. Among the studied alloys, Ti–10Cr–18Mn–27V–5Fe alloy exhibits the smallest PCT plateau slope and a more suitable plateau pressure (0.1<ce:hsp sp="0.25"></ce:hsp>MPa<ce:hsp sp="0.25"></ce:hsp>&lt;<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>P</ce:italic>
+<ce:inf loc="post">equ</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>&lt;1<ce:hsp sp="0.25"></ce:hsp>MPa). The maximum and effective capacities of the alloy are 3.32<ce:hsp sp="0.25"></ce:hsp>wt.% and 2.26<ce:hsp sp="0.25"></ce:hsp>wt.%, respectively, which are higher than other reported Fe-containing BCC phase alloys. In addition, the V/Fe ratio in this alloy is close to that of (VFe) alloy, whose cost is much lower than that of pure V.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Hydrogen storage</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Ti–V-based BCC alloys</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Phase structure</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Suitable means for hydrogen storage are one of the key requirements for hydrogen fuel cell technology and for a possible future hydrogen economy in general. There are three major competing technologies for hydrogen storage: compressed gas cylinders, liquid hydrogen tanks and metal hydrides. Even though considered to be quite simple and inexpensive, the high pressure involved in hydrogen gas cylinders raise safety concern. Compressed hydrogen gas technologies also suffer from low volumetric densities. The liquid hydrogen tank for its part offers much greater storage capacity by weight and volume but there is also safety issues associated with the handling of cryogenic liquids and the problem of evaporation loss. Because of the low pressures involved in metal hydride technologies and the fact that the release of hydrogen takes place via an endothermic process, this method of hydrogen storage is the safest of all. Moreover, the hydrogen released from a metal hydride is of very high purity and therefore, can be used directly to feed a fuel cell. It seems therefore, that metal hydrides are suitable for the practical application for onboard hydrogen storage systems in fuel cell powered vehicles in the future.</ce:para>
+<ce:para view="all">So far, most of the hydrogen storage alloys are developed practically such as LaNi<ce:inf loc="post">5</ce:inf>, TiFe and TiMn<ce:inf loc="post">2</ce:inf>
+<ce:cross-refs refid="bib1 bib2 bib3">[1–3]</ce:cross-refs>. However, the hydrogen storage capacities of these alloys are less than 2<ce:hsp sp="0.25"></ce:hsp>wt.%, which is insufficient for using in fuel cell powered vehicles. In recent years, the study of Ti-based BCC phase alloys has been promoted promptly in several laboratories due to their remarkable hydrogen capacities <ce:cross-refs refid="bib4 bib5 bib6 bib7">[4–7]</ce:cross-refs>. However, the lower hydrogen desorption capacity and higher cost are two critical drawbacks limiting their successful practical applications. In order to resolve the problems, much work has been done on improvement of the hydrogen storage characteristics and decrease of the cost for these alloys. Fe or V–Fe alloy, which have low price compared with that of pure V, was introduced to Ti-based BCC phase alloys in order to reduce the content of pure V in the alloys. Cho et al. <ce:cross-ref refid="bib8">[8]</ce:cross-ref> had investigated the effect of Fe addition on the hydrogen storage property of Ti<ce:inf loc="post">0.16</ce:inf>Zr<ce:inf loc="post">0.05</ce:inf>Cr<ce:inf loc="post">0.22</ce:inf>V<ce:inf loc="post">0.57</ce:inf> alloy. However, the hydrogen absorption capacity of the alloy decreases from initial 3.55<ce:hsp sp="0.25"></ce:hsp>wt.% to about 2.0<ce:hsp sp="0.25"></ce:hsp>wt.% after a small quantity of addition of Fe (5<ce:hsp sp="0.25"></ce:hsp>at.%). Seo et al. also reported that Fe addition to V<ce:inf loc="post">0.68</ce:inf>Ti<ce:inf loc="post">0.2</ce:inf>Cr<ce:inf loc="post">0.12</ce:inf> alloy results in an obvious decrease of hydrogen absorption capacity <ce:cross-ref refid="bib9">[9]</ce:cross-ref>. <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+<ce:float-anchor refid="tbl1"></ce:float-anchor> presents main features of some typical Ti-based BCC phase hydrogen storage alloys. The desorption capacities of these Fe-containing alloys are less than 1<ce:hsp sp="0.25"></ce:hsp>wt.%.</ce:para>
+<ce:para view="all">In our previous study, the Ti–10Cr–18Mn–32V alloy presented higher hydrogen storage capacities, higher reaction rate with hydrogen and flatter hydrogen desorption-desorption plateau <ce:cross-ref refid="bib13">[13]</ce:cross-ref>. However, the plateau pressure of the alloy is less than 0.1<ce:hsp sp="0.25"></ce:hsp>MPa even at 353<ce:hsp sp="0.25"></ce:hsp>K, which is so low that most absorbed hydrogen cannot be released from the hydrides at moderate temperature and pressure.</ce:para>
+<ce:para view="all">In this study, the effect of Fe addition on hydrogen storage characteristics of Ti–10Cr–18Mn–32V alloy has been studied. The atomic radium of Fe is smaller than that of Ti, Mn, Cr and V. Therefore, it was expected that the Fe addition would reduce the lattice parameters and thus increase the plateau pressure of the present alloy. A decrease of the cost of the alloy by Fe addition is another goal.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental procedure</ce:section-title>
+<ce:para view="all">The Ti–10Cr–18Mn–(32−<ce:italic>x</ce:italic>)V–<ce:italic>x</ce:italic>Fe alloy samples were prepared by magnetic levitation melting. A 50<ce:hsp sp="0.25"></ce:hsp>g ingot was turned over and remelted four times to insure its homogeneity. The as-cast ingot was crushed into powders with average particle size under 400<ce:hsp sp="0.25"></ce:hsp>μm (using for activation and PCT measurement) and 30<ce:hsp sp="0.25"></ce:hsp>μm (for XRD measurement), respectively. The crystal structures and lattice parameters were studied by X-ray diffraction (XRD) using Cu Kα radiation. Diffraction profiles were analyzed by the Rietveld refinement program RIETAN-97beta. The microstructures were observed by scanning electron microscopy (SEM).</ce:para>
+<ce:para view="all">Hydrogen absorption and desorption behaviors of hydrogen storage alloys were quantitatively characterized by the pressure–composition–temperature (PCT) curves, which were measured by using a Sieverts-type Gas Reaction Controller (GRC), a product of Advanced Materials Corporation (USA). GRC admits a controlled amount of hydrogen gas into the reaction chamber that holds a specimen and monitors the pressure of the gas while maintaining the temperature of the chamber. The amount of hydrogen absorbed by the specimen is determined by calculating the amount of the remaining gas. The GRC also allows for the study of the reverse process, namely, desorption of hydrogen. All of our hydrogen absorption processes were performed at 293<ce:hsp sp="0.25"></ce:hsp>K. When the absorption process was completed, the temperature of reaction chamber was set to a specified value and the chamber was gradually evacuated below 0.003<ce:hsp sp="0.25"></ce:hsp>MPa for the following desorption process. In this study, the maximum hydrogen capacity is defined as the amount of hydrogen absorbed at an equilibrium pressure of 3<ce:hsp sp="0.25"></ce:hsp>MPa at 293<ce:hsp sp="0.25"></ce:hsp>K and the effective hydrogen capacity is defined as the mount of hydrogen desorbed when the hydrogen pressure is decrease to 0.003<ce:hsp sp="0.25"></ce:hsp>MPa from 3<ce:hsp sp="0.25"></ce:hsp>MPa at 353<ce:hsp sp="0.25"></ce:hsp>K. The hydrogen content of the hydrogenated samples was controlled by introducing various hydrogen pressures into the sample reaction chamber.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:section view="all">
+<ce:label>3.1</ce:label>
+<ce:section-title>Effect of Fe content on phase formation</ce:section-title>
+<ce:para view="all">The XRD patterns (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor>) reveal that Ti–10Cr–18Mn–32V alloy shows single BCC structure, while the alloys with <ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>2, 3, 4 and 5 consist of a mixture of a BCC solid solution and the C14 Laves phase. The content of the C14 Laves phase in the alloys increases with <ce:italic>x</ce:italic> from 2 to 3, but drops from <ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>3 to 5. The calculated lattice parameters of each phase are presented in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor> and <ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>
+<ce:float-anchor refid="tbl2"></ce:float-anchor>. The lattice parameter <ce:italic>a</ce:italic> of the BCC phase decreases with the increasing <ce:italic>x</ce:italic> (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>(a)), which could be attributed to the smaller atomic radius of Fe than that of Ti, Mn, Cr and V. However, for the Laves phase of the alloys, the lattice parameters <ce:italic>a</ce:italic> decreases from <ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>2 to <ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>3, but increases from <ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>3 to <ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>5, and the opposite result is observed for the lattice parameters <ce:italic>c</ce:italic> (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>(b)). It suggests that Fe addition leads to a significant change in the crystalline structure of the alloys and a further analysis about the effect of this on the hydrogen absorption–desorption performance of the alloys will be discussed later.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor> shows the SEM images of Ti–10Cr–18Mn–(32−<ce:italic>x</ce:italic>)V–<ce:italic>x</ce:italic>Fe alloys. Two-phase microstructures are observed for all Fe-containing samples. The content of the C14 Laves phase increases from <ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>2 to <ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>3, but decreases from <ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>3 to <ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>5. This is in good agreement with the results of the XRD analysis.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.2</ce:label>
+<ce:section-title>Effect of Fe content on PCT characteristics</ce:section-title>
+<ce:para view="all">The PCT desorption curves of the Ti–10Cr–18Mn–(32−<ce:italic>x</ce:italic>)V–<ce:italic>x</ce:italic>Fe alloys are shown in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor>. The data showing the effect of the Fe content on the PCT properties are summarized in <ce:cross-ref refid="tbl3">Table 3</ce:cross-ref>
+<ce:float-anchor refid="tbl3"></ce:float-anchor>. The maximum and effective hydrogen capacity both decrease from <ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>0 to <ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>3 but then, increase from <ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>3 to <ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>5 (<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="fig5"></ce:float-anchor>), which is coincident with the change of the BCC phase in the alloys. It should be due to the fact that the BCC phase absorbs more hydrogen than the C14 Laves phase <ce:cross-ref refid="bib13">[13]</ce:cross-ref>. For the Ti–10Cr–18Mn–27V–5Fe alloy, the maximum and the effective capacities of the alloy are 3.32<ce:hsp sp="0.25"></ce:hsp>wt.% and 2.26<ce:hsp sp="0.25"></ce:hsp>wt.%, respectively, which are higher than other those of reported Fe-containing BCC phase alloys. In addition, the V/Fe ratio in this alloy is near that of (VFe) alloy, whose cost is greatly lower compared to that of pure V.</ce:para>
+<ce:para view="all">It is well known that the plateau characteristics of Ti–V-based alloys can be correlated with their lattice parameters <ce:cross-refs refid="bib6 bib8">[6,8]</ce:cross-refs>. However, it is always difficult to determine the plateau pressure and slope factor from the PCT curves. In this study, the plateau pressure (<ce:italic>P</ce:italic>
+<ce:inf loc="post">equ</ce:inf>) and the slope factor (<ce:italic>S</ce:italic>
+<ce:inf loc="post">f</ce:inf>) are defined as follows <ce:cross-ref refid="bib13">[13]</ce:cross-ref>:<ce:display>
+<ce:formula>
+<mml:math altimg="si7.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>P</mml:mi>
+<mml:mrow>
+<mml:mtext>equ</mml:mtext>
+</mml:mrow>
+</mml:msub>
+<mml:mo>=</mml:mo>
+<mml:mfrac>
+<mml:mrow>
+<mml:msub>
+<mml:mi>P</mml:mi>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:mo>+</mml:mo>
+<mml:msub>
+<mml:mi>P</mml:mi>
+<mml:mn>1</mml:mn>
+</mml:msub>
+</mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mfrac>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>
+<ce:display>
+<ce:formula>
+<mml:math altimg="si8.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>S</mml:mi>
+<mml:mtext>f</mml:mtext>
+</mml:msub>
+<mml:mo>=</mml:mo>
+<mml:mtext>ln</mml:mtext>
+<mml:mfenced close=")" open="(">
+<mml:mrow>
+<mml:mfrac>
+<mml:mrow>
+<mml:msub>
+<mml:mi>P</mml:mi>
+<mml:mn>2</mml:mn>
+</mml:msub>
+</mml:mrow>
+<mml:mrow>
+<mml:msub>
+<mml:mi>P</mml:mi>
+<mml:mrow>
+<mml:msub>
+<mml:mn>1</mml:mn>
+<mml:mn>1</mml:mn>
+</mml:msub>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mfrac>
+</mml:mrow>
+</mml:mfenced>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>where <ce:italic>P</ce:italic>
+<ce:inf loc="post">2</ce:inf> and <ce:italic>P</ce:italic>
+<ce:inf loc="post">1</ce:inf> are the pressure indicated by the arrows in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="fig6"></ce:float-anchor> shows that the <ce:italic>P</ce:italic>
+<ce:inf loc="post">equ</ce:inf> increases with increasing Fe content. This can be interpreted in terms of difference of the lattice parameters of the BCC phase in the alloys. With increasing <ce:italic>x</ce:italic>, the lattice parameters of the BCC phase decrease (<ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>) and thus the cell volume and the interstitial hole size decrease, which leads to an increase of the plateau pressure.</ce:para>
+<ce:para view="all">It has been known that, in addition to the chemical energy effect, the strain energies may contribute to determining the plateau slope behavior <ce:cross-ref refid="bib14">[14]</ce:cross-ref>. To estimate the strain energies of each sites in the lattice, the hole radius of various interstitials must be known. However, it is very hard to calculate the hole radius of each site in the lattice as the alloy concentration varies because the compounds investigated in this work are multicomponent alloy systems. Hence, a qualitative estimate of the strain energy has been obtained from the X-ray diffraction results of the alloys as a function of element concentration. The lattice strain can be estimated from the full width half maximum (FWHM) of the X-ray diffraction peaks.</ce:para>
+<ce:para view="all">
+<ce:cross-refs refid="fig7 fig8">Figs. 7 and 8</ce:cross-refs>
+<ce:float-anchor refid="fig7"></ce:float-anchor>
+<ce:float-anchor refid="fig8"></ce:float-anchor> shows the progressive change in the FWHM of (1<ce:hsp sp="0.25"></ce:hsp>1<ce:hsp sp="0.25"></ce:hsp>0) peaks (BCC phase) and <ce:italic>c</ce:italic>/<ce:italic>a</ce:italic> ratio (C14 Laves phase) as a function of <ce:italic>x</ce:italic> for the Ti–10Cr–18Mn–(32−<ce:italic>x</ce:italic>)V–<ce:italic>x</ce:italic>Fe. Because all XRD data were obtained from the same particle size distribution (30<ce:hsp sp="0.25"></ce:hsp>μm), the change in FWHM in <ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref> represents the variation in the lattice strain as a function of <ce:italic>x</ce:italic>. On comparison of <ce:cross-refs refid="fig7 fig8">Figs. 7 and 8</ce:cross-refs>, both the change in the lattice strain and the change in the degree of slope in Ti–10Cr–18Mn–(32−<ce:italic>x</ce:italic>)V–<ce:italic>x</ce:italic>Fe show the same trend with Fe content, increasing from <ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>2 to <ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>3, but decreasing from <ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>3 to <ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>5. A similar relationship can be also obtained in the variation in <ce:italic>c</ce:italic>/<ce:italic>a</ce:italic> versus <ce:italic>x</ce:italic> (<ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>). The <ce:italic>c</ce:italic>/<ce:italic>a</ce:italic> ratio at <ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>3 is 1.641, which is the closest to ideal C14 Laves phase structure in this case. (The ideal <ce:italic>c</ce:italic>/<ce:italic>a</ce:italic> ratio for the C14 structure is 1.663 <ce:cross-ref refid="bib15">[15]</ce:cross-ref>). At <ce:italic>x</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>3, the lattice strain as well as the <ce:italic>c</ce:italic>/<ce:italic>a</ce:italic> ratio of the alloy exhibit a maximum value. This implies that the size difference between the various interstitial sites is maximized. Thus, there is a relative strongly sloping plateau in the PCT curve. The above results indicate that the slope behaviors in the Ti–10Cr–18Mn–(32−<ce:italic>x</ce:italic>)V–<ce:italic>x</ce:italic>Fe system can be closely correlated with the strain energy of interstitial site associated with both the lattice strain and the structure change. Similar results have been shown by Park et al. <ce:cross-ref refid="bib16">[16]</ce:cross-ref> for the Zr–Ti–M–Fe systems (M<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>Mn, Cr and V).</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.3</ce:label>
+<ce:section-title>Stability of Fe-containing hydride</ce:section-title>
+<ce:para view="all">In order to understand what kinds of hydride phases form and how the formation of each phase contributes to the hydrogen absorption property, the XRD diagram of the hydrogenated Ti–10Cr–18Mn–27V–5Fe sample with various hydrogen content was investigated as shown in <ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref>
+<ce:float-anchor refid="fig9"></ce:float-anchor> and <ce:cross-ref refid="tbl4">Table 4</ce:cross-ref>
+<ce:float-anchor refid="tbl4"></ce:float-anchor>. It was found that three kinds of hydrides were formed. Comparable with the as-cast sample, no new peaks appear for the first hydride phase (H1) with 1<ce:hsp sp="0.25"></ce:hsp>wt.% hydrogen, besides broadening and weakening in height of the peaks. It means that a distorted BCC structure is formed. This hydride phase is rather stable, so that the absorbed hydrogen cannot be fully released under the present experimental conditions (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>). The second hydride phase (H2) with 2.5<ce:hsp sp="0.25"></ce:hsp>wt.% hydrogen content contains three phases with BCC, FCC and Zr<ce:inf loc="post">3</ce:inf>V<ce:inf loc="post">3</ce:inf>O structures. This is different from the observations of Fe-free BCC phase alloys, in which only a deformed FCC structure was formed <ce:cross-ref refid="bib13">[13]</ce:cross-ref>. For the third hydride phase (H3) with a saturated hydrogen capacity, two phases appear corresponding to deformed FCC and Zr<ce:inf loc="post">3</ce:inf>V<ce:inf loc="post">3</ce:inf>O structures. Obviously, among the three hydride phases, the second hydride phase (H2) is desirable for obtaining flatter PCT plateau and larger hydrogen capacity.</ce:para>
+<ce:para view="all">The PCT results of <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref> show that more than 1<ce:hsp sp="0.25"></ce:hsp>wt.% hydrogen can not be released from the hydrogenated alloy in the pressure range of 0 to 0.1<ce:hsp sp="0.25"></ce:hsp>MPa when the temperature is below 353<ce:hsp sp="0.25"></ce:hsp>K, which results from the formation of the first hydride phase. In order to understand the residual hydrogen (under 0.1<ce:hsp sp="0.25"></ce:hsp>MPa) captured in the alloy, TG measurements were performed. <ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref>
+<ce:float-anchor refid="fig10"></ce:float-anchor> and <ce:cross-ref refid="tbl5">Table 5</ce:cross-ref>
+<ce:float-anchor refid="tbl5"></ce:float-anchor> present the results for the Ti–10Cr–18Mn–32V and Ti–10Cr–18Mn–27V–5Fe alloy samples, which absorb hydrogen at 293<ce:hsp sp="0.25"></ce:hsp>K under 3<ce:hsp sp="0.25"></ce:hsp>MPa for 1<ce:hsp sp="0.25"></ce:hsp>h and then desorb hydrogen at 353<ce:hsp sp="0.25"></ce:hsp>K under 0.1<ce:hsp sp="0.25"></ce:hsp>MPa for 30<ce:hsp sp="0.25"></ce:hsp>min. Upon heating, an apparent weight loss occurs for the two samples within the same temperature range examined. In the case of Ti–10Cr–18Mn–32V alloy, a sharp weight loss was observed at 520<ce:hsp sp="0.25"></ce:hsp>K. The terminal reaction temperature is about 745<ce:hsp sp="0.25"></ce:hsp>K. In the case of Ti–10Cr–18Mn–27V–5Fe alloy, the beginning and terminal reaction temperatures decrease to 460<ce:hsp sp="0.25"></ce:hsp>K and 530<ce:hsp sp="0.25"></ce:hsp>K, respectively. It implies that Fe addition decrease the stability of the hydrides, resulting in a more easy release.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">The results obtained in this work are summarized as follows.<ce:list>
+<ce:list-item>
+<ce:label>1.</ce:label>
+<ce:para view="all">In the Ti–10Cr–18Mn–(32−<ce:italic>x</ce:italic>)V–<ce:italic>x</ce:italic>Fe alloy system, the BCC phase content and the hydrogen storage capacities both decrease with <ce:italic>x</ce:italic> from 0 to 3, but increase with <ce:italic>x</ce:italic> from 3 to 5.</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>2.</ce:label>
+<ce:para view="all">The PCT plateau pressure of Ti–10Cr–18Mn–(32−<ce:italic>x</ce:italic>)V–<ce:italic>x</ce:italic>Fe alloys increase with increasing Fe content, which results from the decrease of the lattice parameters <ce:italic>a</ce:italic> of the BCC phase.</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>3.</ce:label>
+<ce:para view="all">Three hydride phases are observed in the hydrogenated Ti–10Cr–18Mn–27V–5Fe alloy, differing from the Fe-free Ti–V-based BCC alloys.</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>4.</ce:label>
+<ce:para view="all">The Ti–10Cr–18Mn–27V–5Fe alloy exhibits a smaller slope and a better plateau pressure (0.1<ce:hsp sp="0.25"></ce:hsp>MPa<ce:hsp sp="0.25"></ce:hsp>&lt;<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>P</ce:italic>
+<ce:inf loc="post">equ</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>&lt;1<ce:hsp sp="0.25"></ce:hsp>MPa). The maximum and the effective capacities of the alloy are 3.32<ce:hsp sp="0.25"></ce:hsp>wt.% and 2.26<ce:hsp sp="0.25"></ce:hsp>wt.%, respectively.</ce:para>
+</ce:list-item>
+</ce:list>
+</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgement</ce:section-title>
+<ce:para view="all">This research was supported by Hi-Tech Research and Development Program of China (Grant No. 2003AA515022).</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.M.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.L.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>311</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>40</sb:first-page>
+<sb:last-page>45</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>B.K.</ce:given-name>
+<ce:surname>Singh</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.K.</ce:given-name>
+<ce:surname>Singh</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>O.N.</ce:given-name>
+<ce:surname>Srivastava</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Int. J. Hydro. Energy</sb:maintitle>
+</sb:title>
+<sb:volume-nr>21</sb:volume-nr>
+</sb:series>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>111</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Au</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Pourarian</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.G.</ce:given-name>
+<ce:surname>Sankar</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.E.</ce:given-name>
+<ce:surname>Wallace</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Zang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. B</sb:maintitle>
+</sb:title>
+<sb:volume-nr>B33</sb:volume-nr>
+</sb:series>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>53</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Mouri</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Iba</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>329–331</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>346</sb:first-page>
+<sb:last-page>350</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Tsukahara</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Takahashi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Mishima</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Sakai</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Miyamura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Kuriyama</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.</ce:given-name>
+<ce:surname>Uehara</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>226</sb:volume-nr>
+</sb:series>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>203</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Okada</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Kuriiwa</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Tamura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Takamura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Kamegawa</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>330–332</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>511</sb:first-page>
+<sb:last-page>516</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Akiba</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Iba</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Intermetallics</sb:maintitle>
+</sb:title>
+<sb:volume-nr>6</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>461</sb:first-page>
+<sb:last-page>470</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.W.</ce:given-name>
+<ce:surname>Cho</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Enoki</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Akiba</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>307</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>304</sb:first-page>
+<sb:last-page>310</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:surname>Chan-Yeol</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.H.</ce:given-name>
+<ce:surname>Kim</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.S.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.Y.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>348</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>252</sb:first-page>
+<sb:last-page>257</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.W.</ce:given-name>
+<ce:surname>Cho</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.S.</ce:given-name>
+<ce:surname>Han</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.N.</ce:given-name>
+<ce:surname>Paek</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Akiba</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>289</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>244</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Nomura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Akiba</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>231</sb:volume-nr>
+</sb:series>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>513</sb:first-page>
+<sb:last-page>517</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Kuriiwa</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Tamura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Amemiya</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Fuda</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Kamegawa</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Takamura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Okada</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>293–295</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>433</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>X.B.</ce:given-name>
+<ce:surname>Yu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.J.</ce:given-name>
+<ce:surname>Xia</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.X.</ce:given-name>
+<ce:surname>Xu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>372</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>272</sb:first-page>
+<sb:last-page>277</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Uchida</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Less-Common Met.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>101</sb:volume-nr>
+</sb:series>
+<sb:date>1984</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>459</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.B.</ce:given-name>
+<ce:surname>Magee</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Lju</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.E.</ce:given-name>
+<ce:surname>Lundin</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Less-Common Met.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>78</sb:volume-nr>
+</sb:series>
+<sb:date>1981</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>119</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib16">
+<ce:label>[16]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.M.</ce:given-name>
+<ce:surname>Park</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.Y.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Less-Common Met.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>167</sb:volume-nr>
+</sb:series>
+<sb:date>1991</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>245</sb:first-page>
+<sb:last-page>253</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

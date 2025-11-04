@@ -1,0 +1,788 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838804007017</prism:url><dc:identifier>doi:10.1016/j.jallcom.2004.05.014</dc:identifier><eid>1-s2.0-S0925838804007017</eid><prism:doi>10.1016/j.jallcom.2004.05.014</prism:doi><pii>S0925-8388(04)00701-7</pii><dc:title>Improvement of activation performance of the quenched Ti–V-based BCC phase alloys </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>386</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>258</prism:startingpage><prism:endingpage>260</prism:endingpage><prism:pagerange>258-260</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2005-01-11</prism:coverdate><prism:coverdisplaydate>11 January 2005</prism:coverdisplaydate><prism:copyright>Copyright © 2004 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Yu, X.B.</dc:creator><dc:creator>Wu, Z.</dc:creator><dc:creator>Xia, B.J.</dc:creator><dc:creator>Xu, N.X.</dc:creator><dc:description>
+                  The activation performance of quenched Ti–28V–15Mn–10Cr alloy, surface modified by using ball-milling with 10wt.% LaNi3.55Co0.75Mn0.4Al0.3 alloys was investigated. Compared with the plain Ti–28V–15Mn–10Cr alloy, the activation performance of the composite sample was remarkably improved. It was revealed that there is a layer of LaNi3.55Co0.75Mn0.4Al0.3 nanoparticles with an average grain size about 30nm, covered on the surface of the composite sample. These nanoparticles accelerate the dissociation and absorption of hydrogen and then act as a window for hydrogen to enter the alloy bulk, resulting in an improvement of activation of the alloy.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Ti–V-based alloys</dcterms:subject><dcterms:subject>Hydrogen storage properties</dcterms:subject><dcterms:subject>Ball-milling</dcterms:subject><dcterms:subject>Nanoparticles</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838804007017" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838804007017" rel="scidir"/></coredata><objects><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="2519" type="IMAGE-THUMBNAIL" width="123">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804007017-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="245" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="17969" type="IMAGE-DOWNSAMPLED" width="324">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804007017-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="1915" type="IMAGE-THUMBNAIL" width="118">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804007017-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="212" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="5943" type="IMAGE-DOWNSAMPLED" width="268">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804007017-gr2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="2374" type="IMAGE-THUMBNAIL" width="111">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804007017-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="514" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="61028" type="IMAGE-DOWNSAMPLED" width="612">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804007017-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="1948" type="IMAGE-THUMBNAIL" width="93">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804007017-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="192" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="12487" type="IMAGE-DOWNSAMPLED" width="191">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804007017-gr4.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>10444221939</scopus-id><scopus-eid>2-s2.0-10444221939</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/10444221939" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20040702">2004-07-02</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20040702">2004-07-02</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-04-19T04:56:56</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838804007017</xocs:eid>
+<xocs:pii-formatted>S0925-8388(04)00701-7</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838804007017</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2004.05.014</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.2</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838800X02277</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.228461-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20050111</xocs:date-search-begin>
+<xocs:year-nav>2005</xocs:year-nav>
+<xocs:indexeddate epoch="1088726400">2004-07-02T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>386</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>386</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 386, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>45</xocs:sort-order>
+<xocs:first-fp>258</xocs:first-fp>
+<xocs:last-lp>260</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>258</xocs:first-page>
+<xocs:last-page>260</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20050111</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>11 January 2005</xocs:cover-date-text>
+<xocs:cover-date-start>2005-01-11</xocs:cover-date-start>
+<xocs:cover-date-year>2005</xocs:cover-date-year>
+<xocs:document-type>converted-article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2004 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>IMPROVEMENTACTIVATIONPERFORMANCEQUENCHEDTIVBASEDBCCPHASEALLOYS</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>YU</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>X</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental procedure</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="BIB1">
+<xocs:ref-normalized-surname>AKIBA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>461</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="BIB2">
+<xocs:ref-normalized-surname>OKADA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>511</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="BIB3">
+<xocs:ref-normalized-surname>CHO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>244</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="BIB4">
+<xocs:ref-normalized-surname>YU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>2533</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="BIB5">
+<xocs:ref-normalized-surname>YU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>272</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="BIB6">
+<xocs:ref-normalized-surname>YU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>134</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="BIB7"></xocs:ref-info>
+<xocs:ref-info refid="BIB8">
+<xocs:ref-normalized-surname>ZALUSKA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>217</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="BIB9">
+<xocs:ref-normalized-surname>ORIMO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>2271</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="BIB10">
+<xocs:ref-normalized-surname>ZALUSKI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>245</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>YUX2005X258</xocs:refkey3>
+<xocs:refkey4lp>YUX2005X258X260</xocs:refkey4lp>
+<xocs:refkey4ai>YUX2005X258XX</xocs:refkey4ai>
+<xocs:refkey5>YUX2005X258X260XX</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(04)00701-7</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838804007017</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838804007017</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2004.05.014</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-10T20:42:06.336862-04:00</xocs:timestamp>
+<xocs:cover-date-start>2005-01-11</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838804007017-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804007017/MAIN/application/pdf/88cc48620e424fadbf52eb411ee775d3/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804007017/MAIN/application/pdf/88cc48620e424fadbf52eb411ee775d3/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>142430</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>3</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838804007017-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804007017/PREVIEW/image/png/b90931ce231c3917ae103e994922369b/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804007017/PREVIEW/image/png/b90931ce231c3917ae103e994922369b/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>64224</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804007017-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804007017/gr1/THUMBNAIL/image/gif/88e204e8c06f301e5a610aba8ecf3e61/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804007017/gr1/THUMBNAIL/image/gif/88e204e8c06f301e5a610aba8ecf3e61/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2519</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>123</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804007017-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804007017/gr1/DOWNSAMPLED/image/jpeg/b76735bcd547683f7071d74dcb914694/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804007017/gr1/DOWNSAMPLED/image/jpeg/b76735bcd547683f7071d74dcb914694/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>17969</xocs:filesize>
+<xocs:pixel-height>245</xocs:pixel-height>
+<xocs:pixel-width>324</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804007017-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804007017/gr2/THUMBNAIL/image/gif/35118f110c3d13c41bf049235be54d36/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804007017/gr2/THUMBNAIL/image/gif/35118f110c3d13c41bf049235be54d36/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1915</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>118</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804007017-gr2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804007017/gr2/DOWNSAMPLED/image/gif/6f5de12aafc999026e17a20b349dbd53/gr2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804007017/gr2/DOWNSAMPLED/image/gif/6f5de12aafc999026e17a20b349dbd53/gr2.gif</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>5943</xocs:filesize>
+<xocs:pixel-height>212</xocs:pixel-height>
+<xocs:pixel-width>268</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804007017-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804007017/gr3/THUMBNAIL/image/gif/2542acb5b8af0cd0f32e128ce5c76f2e/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804007017/gr3/THUMBNAIL/image/gif/2542acb5b8af0cd0f32e128ce5c76f2e/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2374</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>111</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804007017-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804007017/gr3/DOWNSAMPLED/image/jpeg/2c09ebfe733f75f003e3402083cd4a82/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804007017/gr3/DOWNSAMPLED/image/jpeg/2c09ebfe733f75f003e3402083cd4a82/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>61028</xocs:filesize>
+<xocs:pixel-height>514</xocs:pixel-height>
+<xocs:pixel-width>612</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804007017-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804007017/gr4/THUMBNAIL/image/gif/569b0a300d4ae446d9a7a2a40dc37a82/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804007017/gr4/THUMBNAIL/image/gif/569b0a300d4ae446d9a7a2a40dc37a82/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1948</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>93</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804007017-gr4.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804007017/gr4/DOWNSAMPLED/image/jpeg/20a28f173338806b3ffdb94d32c8816a/gr4.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804007017/gr4/DOWNSAMPLED/image/jpeg/20a28f173338806b3ffdb94d32c8816a/gr4.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>12487</xocs:filesize>
+<xocs:pixel-height>192</xocs:pixel-height>
+<xocs:pixel-width>191</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<converted-article docsubtype="fla" version="4.5.2" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>11280</aid>
+<ce:pii>S0925-8388(04)00701-7</ce:pii>
+<ce:doi>10.1016/j.jallcom.2004.05.014</ce:doi>
+<ce:copyright type="full-transfer" year="2004">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="FIG1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Initial activation curves of the alloys at 293<ce:hsp sp="0.25"></ce:hsp>K. (a) Quenched Ti–28V–15Mn–10Cr alloy. (b) Ti–28V–15Mn–10Cr + 10<ce:hsp sp="0.25"></ce:hsp>wt.% LaNi<ce:inf loc="post">3.55</ce:inf>Co<ce:inf loc="post">0.75</ce:inf>Mn<ce:inf loc="post">0.4</ce:inf>Al<ce:inf loc="post">0.3</ce:inf> composite sample ball-milled for 30<ce:hsp sp="0.25"></ce:hsp>min.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="FIG2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRD patterns of the composite samples: (a) before ball-milling; (b) after 30<ce:hsp sp="0.25"></ce:hsp>min ball-milling.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="FIG3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Electron micrographs of the composite samples ball-milled for 30<ce:hsp sp="0.25"></ce:hsp>min: (a) SEM image; (b) EDS maps of (a); (c) TEM image.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="FIG4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Schematic diagram of hydrogen absorption for the composite sample.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+</ce:floats>
+<ce:title>Improvement of activation performance of the quenched Ti–V-based BCC phase alloys</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>X.B.</ce:given-name>
+<ce:surname>Yu</ce:surname>
+<ce:cross-ref refid="COR1">
+<ce:sup loc="post">∗</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</ce:author>
+<ce:author>
+<ce:given-name>B.J.</ce:given-name>
+<ce:surname>Xia</ce:surname>
+</ce:author>
+<ce:author>
+<ce:given-name>N.X.</ce:given-name>
+<ce:surname>Xu</ce:surname>
+</ce:author>
+<ce:affiliation>
+<ce:textfn>Shanghai Institute of Microsystem and Information Technology, Chinese Academy of Sciences, Shanghai 200050, PR China</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="COR1">
+<ce:label>*</ce:label>
+<ce:text>Corresponding author. Tel.: +86 21 625 11070x8803; fax: +86 21 322 00534.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="29" month="3" year="2004"></ce:date-received>
+<ce:date-revised day="3" month="5" year="2004"></ce:date-revised>
+<ce:date-accepted day="3" month="5" year="2004"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">The activation performance of quenched Ti–28V–15Mn–10Cr alloy, surface modified by using ball-milling with 10<ce:hsp sp="0.25"></ce:hsp>wt.% LaNi<ce:inf loc="post">3.55</ce:inf>Co<ce:inf loc="post">0.75</ce:inf>Mn<ce:inf loc="post">0.4</ce:inf>Al<ce:inf loc="post">0.3</ce:inf> alloys was investigated. Compared with the plain Ti–28V–15Mn–10Cr alloy, the activation performance of the composite sample was remarkably improved. It was revealed that there is a layer of LaNi<ce:inf loc="post">3.55</ce:inf>Co<ce:inf loc="post">0.75</ce:inf>Mn<ce:inf loc="post">0.4</ce:inf>Al<ce:inf loc="post">0.3</ce:inf> nanoparticles with an average grain size about 30<ce:hsp sp="0.25"></ce:hsp>nm, covered on the surface of the composite sample. These nanoparticles accelerate the dissociation and absorption of hydrogen and then act as a window for hydrogen to enter the alloy bulk, resulting in an improvement of activation of the alloy.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword" xml:lang="en">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Ti–V-based alloys</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Hydrogen storage properties</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Ball-milling</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Nanoparticles</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Hydrogen storage alloys are considered to be promising candidates for use as hydrogen storage tanks for fuel cell automobiles. Until now, apart from AB<ce:inf loc="post">5</ce:inf> and AB<ce:inf loc="post">2</ce:inf> Laves phase alloys, Ti–V-based alloys have been thought to be the third generation of alloys with a large hydrogen capacity <ce:cross-refs refid="BIB1 BIB2 BIB3">[1–3]</ce:cross-refs>. Ti–Mn–Cr–V, which has a body centered cubic structure and a wide solid solution range, is one of the hydrogen absorbing alloys with a high hydrogen storage capacity of more than 3.8<ce:hsp sp="0.25"></ce:hsp>wt.% at room temperature, but the rechargeable hydrogen storage capacity is limited to only about half of that <ce:cross-refs refid="BIB4 BIB5">[4,5]</ce:cross-refs>.</ce:para>
+<ce:para view="all">In our previous works, it was reported that a quenching treatment is effective in improving the PCT plateau characteristics and increasing the hydrogen desorption capacity of the BCC phase Ti–28V–15Mn–10Cr alloy <ce:cross-ref refid="BIB6">[6]</ce:cross-ref>. However, it also makes the activation of the alloy more difficult, resulting from the increasing oxygen and TiO<ce:inf loc="post">2</ce:inf> content formed on the surface of the quenched sample <ce:cross-ref refid="BIB7">[7]</ce:cross-ref>. The fact that hydrogen storage alloys must first be activated implies that hydrogen storage vessel must be designed to withstand the activation conditions (high pressure and high temperature). From a practical application point of view, the cost of the vessel would be lowered, if the activation of the hydrogen storage materials could be carried out under moderate conditions.</ce:para>
+<ce:para view="all">In this paper, it is shown that ball-milling of the quenched Ti–28V–15Mn–10Cr alloy with 10<ce:hsp sp="0.25"></ce:hsp>wt.% LaNi<ce:inf loc="post">3.55</ce:inf>Co<ce:inf loc="post">0.75</ce:inf>Mn<ce:inf loc="post">0.4</ce:inf>Al<ce:inf loc="post">0.3</ce:inf> alloy for a short period results in a considerable improvement of the activation characteristics of the quenched alloy.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental procedure</ce:section-title>
+<ce:para view="all">The Ti–28V–15Mn–10Cr and LaNi<ce:inf loc="post">3.55</ce:inf>Co<ce:inf loc="post">0.75</ce:inf>Mn<ce:inf loc="post">0.4</ce:inf>Al<ce:inf loc="post">0.3</ce:inf> alloy samples were prepared by magnetic levitation melting. Fifty grams ingot was turned over and remelted four times to ensure its homogeneity. Then Ti–28V–15Mn–10Cr alloy was quenched on a water-cooled rotating molybdenum disc with a quenching rate of 20<ce:hsp sp="0.25"></ce:hsp>m<ce:hsp sp="0.25"></ce:hsp>s<ce:sup loc="post">−1</ce:sup>. The prepared alloy powder (Ti–28V–15Mn–10Cr + 10<ce:hsp sp="0.25"></ce:hsp>wt.% LaNi<ce:inf loc="post">3.55</ce:inf>Co<ce:inf loc="post">0.75</ce:inf>Mn<ce:inf loc="post">0.4</ce:inf>Al<ce:inf loc="post">0.3</ce:inf>) was introduced into a stainless steel vial together with stainless steel balls. The weight ratio of the mixed powders to the balls was 1:10. The vial was then tightly sealed. All handlings of the powders were performed in a glove box under a continuously purified Ar atmosphere (oxygen and water content, each below 1<ce:hsp sp="0.25"></ce:hsp>ppm). The sample was ball-milled for 30<ce:hsp sp="0.25"></ce:hsp>min at a rate of 500<ce:hsp sp="0.25"></ce:hsp>rpm.</ce:para>
+<ce:para view="all">The crystal structures and lattice parameters were studied by X-ray diffraction (XRD) using Cu Kα radiation. The microstructures were examined using scanning electron microscopy (SEM) with an energy dispersive X-ray spectrometer (EDS) and transmission electronic microscopy (TEM).</ce:para>
+<ce:para view="all">The hydrogen absorption behavior of the hydrogen storage alloy was quantitatively characterized by the activation curves, which were measured by using a Sieverts-type Gas Reaction Controller (GRC), a product of Advanced Materials Corporation (USA).</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:para view="all">
+<ce:cross-ref refid="FIG1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="FIG1"></ce:float-anchor> shows the first activation curves of the plain Ti–28V–15Mn–10Cr and the composite sample at 293<ce:hsp sp="0.25"></ce:hsp>K. In the case of the Ti–28V–15Mn–10Cr alloy, an incubation time of about 20<ce:hsp sp="0.25"></ce:hsp>min is observed, which is caused by the oxide layer formed on the outmost surface of the alloys <ce:cross-ref refid="BIB7">[7]</ce:cross-ref>. After the incubation time, this sample begins to absorb hydrogen. The time to reach the maximum capacity, i.e. steady hydrogen absorption capacity after activation, is about 110<ce:hsp sp="0.25"></ce:hsp>min. However, no incubation time is observed for the composite sample and the time to reach the maximum capacity is only about 20<ce:hsp sp="0.25"></ce:hsp>min. The above results suggest that the activation of the quenched Ti–28V–15Mn–10Cr alloy is remarkably improved when surface modified by LaNi<ce:inf loc="post">3.55</ce:inf>Co<ce:inf loc="post">0.75</ce:inf>Mn<ce:inf loc="post">0.4</ce:inf>Al<ce:inf loc="post">0.3</ce:inf> alloy powder.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="FIG2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="FIG2"></ce:float-anchor> shows the XRD patterns of Ti–28V–15Mn–10Cr + 10<ce:hsp sp="0.25"></ce:hsp>wt.% LaNi<ce:inf loc="post">3.55</ce:inf>Co<ce:inf loc="post">0.75</ce:inf>Mn<ce:inf loc="post">0.4</ce:inf>Al<ce:inf loc="post">0.3</ce:inf> alloy before and after 30<ce:hsp sp="0.25"></ce:hsp>min ball-milling. In the case of the un-milled sample, it indicates the existence of the phases with a CaCu<ce:inf loc="post">5</ce:inf>-type structure and a BCC structure, corresponding to LaNi<ce:inf loc="post">3.55</ce:inf>Co<ce:inf loc="post">0.75</ce:inf>Mn<ce:inf loc="post">0.4</ce:inf>Al<ce:inf loc="post">0.3</ce:inf> and Ti–28V–15Mn–10Cr alloy, respectively. However, after 30<ce:hsp sp="0.25"></ce:hsp>min ball-milling, the diffraction peaks of the CaCu<ce:inf loc="post">5</ce:inf> phase almost disappear and the diffraction peaks of the BCC phase broaden with a decrease in height of the peaks. This phenomenon results from both the decrease in the particle size and the mechanical strains created within the lattice. The strong weakening of the CaCu<ce:inf loc="post">5</ce:inf> peaks suggests that the LaNi<ce:inf loc="post">3.55</ce:inf>Co<ce:inf loc="post">0.75</ce:inf>Mn<ce:inf loc="post">0.4</ce:inf>Al<ce:inf loc="post">0.3</ce:inf> alloy probably transforms into an amorphous phase or nanocrystalline phase during the ball-milling process <ce:cross-ref refid="BIB8">[8]</ce:cross-ref>.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="FIG3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="FIG3"></ce:float-anchor> shows scanning and transmission electron micrographs of the composite sample. The SEM micrographs (<ce:cross-ref refid="FIG3">Fig. 3a</ce:cross-ref>) and EDS analysis (<ce:cross-ref refid="FIG3">Fig. 3b</ce:cross-ref>) reveal that LaNi<ce:inf loc="post">3.55</ce:inf>Co<ce:inf loc="post">0.75</ce:inf>Mn<ce:inf loc="post">0.4</ce:inf>Al<ce:inf loc="post">0.3</ce:inf> alloy particles are encapsulated uniformly on the surface of the composite sample. This could be due to the fact that the LaNi<ce:inf loc="post">3.55</ce:inf>Co<ce:inf loc="post">0.75</ce:inf>Mn<ce:inf loc="post">0.4</ce:inf>Al<ce:inf loc="post">0.3</ce:inf> alloy is more brittle, and thus easier to be fragmented than the Ti–28V–15Mn–10Cr alloy during ball-milling. The TEM micrograph displays that there is a layer of nanoparticles with an average grain size about 30<ce:hsp sp="0.25"></ce:hsp>nm covering the surface of the bulk alloy particle (<ce:cross-ref refid="FIG3">Fig. 3c</ce:cross-ref>), which further confirms the XRD observations.</ce:para>
+<ce:para view="all">It is well known that one of the main reasons for the difficulty of activation of the quenched Ti–V-based alloys is due to the increasing oxide content on the alloy surface <ce:cross-ref refid="BIB7">[7]</ce:cross-ref>. During the ball-milling, the Ti–28V–15Mn–10Cr alloy is broken into smaller particles, which results in the generation of fresh surfaces. At the same time, the LaNi<ce:inf loc="post">3.55</ce:inf>Co<ce:inf loc="post">0.75</ce:inf>Mn<ce:inf loc="post">0.4</ce:inf>Al<ce:inf loc="post">0.3</ce:inf> nanoparticles are encapsulated on the alloy surface. The nanoscaled LaNi<ce:inf loc="post">3.55</ce:inf>Co<ce:inf loc="post">0.75</ce:inf>Mn<ce:inf loc="post">0.4</ce:inf>Al<ce:inf loc="post">0.3</ce:inf> particles, which have various amounts of dislocations and special defects with high binding energy for hydrogen <ce:cross-refs refid="BIB9 BIB10">[9,10]</ce:cross-refs>, act as a catalyst to improve the hydrogen absorption kinetics of Ti–28V–15Mn–10Cr. On the other hand, the presence of these attached nanoparticles could reduce the formation of a new oxide layer on the fresh surface of the Ti–28V–15Mn–10Cr alloy particles. Therefore, the improvement of the surface activity of the composite sample may be attributed to the catalysis of the LaNi<ce:inf loc="post">3.55</ce:inf>Co<ce:inf loc="post">0.75</ce:inf>Mn<ce:inf loc="post">0.4</ce:inf>Al<ce:inf loc="post">0.3</ce:inf> nanoparticles, which firstly accelerate the dissociation and absorption of hydrogen and then act as a window for hydrogen to enter the Ti–28V–15Mn–10Cr alloy bulk, as shown in the schematic diagram of <ce:cross-ref refid="FIG4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="FIG4"></ce:float-anchor>. As a consequence, the activation of the alloy is improved.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">The activation performance of the quenched Ti–28V–15Mn–10Cr alloy was remarkably improved when it was surface modified by ball-milling with 10<ce:hsp sp="0.25"></ce:hsp>wt.% LaNi<ce:inf loc="post">3.55</ce:inf>Co<ce:inf loc="post">0.75</ce:inf>Mn<ce:inf loc="post">0.4</ce:inf>Al<ce:inf loc="post">0.3</ce:inf> alloy powder. This could be attributed to the formation of LaNi<ce:inf loc="post">3.55</ce:inf>Co<ce:inf loc="post">0.75</ce:inf>Mn<ce:inf loc="post">0.4</ce:inf>Al<ce:inf loc="post">0.3</ce:inf> nanoparticles on the surface of the composite sample, which act as a catalyst to improve the hydrogen absorption kinetics of the quenched Ti–28V–15Mn–10Cr alloy.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgements</ce:section-title>
+<ce:para view="all">This research was supported by the Hi-Tech Research and Development Program of China (Grant no. 2003AA515022).</ce:para>
+</ce:acknowledgment>
+<tail>
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="BIB1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Akiba</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Iba</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Intermetallics</sb:maintitle>
+</sb:title>
+<sb:volume-nr>6</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>461</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="BIB2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Okada</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Kuriiwa</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Tamura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Takamura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Kamegawa</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd</sb:maintitle>
+</sb:title>
+<sb:volume-nr>330-332</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>511</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="BIB3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.W.</ce:given-name>
+<ce:surname>Cho</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.S.</ce:given-name>
+<ce:surname>Han</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.N.</ce:given-name>
+<ce:surname>Park</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Akiba</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd</sb:maintitle>
+</sb:title>
+<sb:volume-nr>298</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>244</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="BIB4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>X.B.</ce:given-name>
+<ce:surname>Yu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.Z.</ce:given-name>
+<ce:surname>Huang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.Z.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.j.</ce:given-name>
+<ce:surname>Xia</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.X.</ce:given-name>
+<ce:surname>Xu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Res</sb:maintitle>
+</sb:title>
+<sb:volume-nr>18</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2533</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="BIB5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>X.B.</ce:given-name>
+<ce:surname>Yu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.J.</ce:given-name>
+<ce:surname>Xia</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.X.</ce:given-name>
+<ce:surname>Xu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd</sb:maintitle>
+</sb:title>
+<sb:volume-nr>372</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>272</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="BIB6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>X.B.</ce:given-name>
+<ce:surname>Yu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.J.</ce:given-name>
+<ce:surname>Xia</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.X.</ce:given-name>
+<ce:surname>Xu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd</sb:maintitle>
+</sb:title>
+<sb:volume-nr>373</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>134</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="BIB7">
+<ce:label>[7]</ce:label>
+<ce:other-ref>
+<ce:textref>X.B. Yu, Z. Wu, B.J. Xia, N.X. Xu, J. Alloys Compd., in press.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="BIB8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Zaluska</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Zaluski</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.O.</ce:given-name>
+<ce:surname>Strom-Olsen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd</sb:maintitle>
+</sb:title>
+<sb:volume-nr>288</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>217</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="BIB9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Orimo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Ikeda</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Fujii</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Fujilawa</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Kitano</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Yamamoto</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Mater</sb:maintitle>
+</sb:title>
+<sb:volume-nr>45</sb:volume-nr>
+</sb:series>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2271</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="BIB10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Zaluski</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Zaluska</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.O.</ce:given-name>
+<ce:surname>Strom-Olsen</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Comp</sb:maintitle>
+</sb:title>
+<sb:volume-nr>217</sb:volume-nr>
+</sb:series>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>245</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</converted-article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

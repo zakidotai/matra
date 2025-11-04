@@ -1,0 +1,932 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838805009916</prism:url><dc:identifier>doi:10.1016/j.jallcom.2004.12.175</dc:identifier><eid>1-s2.0-S0925838805009916</eid><prism:doi>10.1016/j.jallcom.2004.12.175</prism:doi><pii>S0925-8388(05)00991-6</pii><dc:title>Improvement of cyclic durability of BCC structured Ti–Cr–V alloys </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>404</prism:volume><prism:startingpage>417</prism:startingpage><prism:endingpage>420</prism:endingpage><prism:pagerange>417-420</prism:pagerange><dc:format>text/xml</dc:format><prism:coverdate>2005-12-08</prism:coverdate><prism:coverdisplaydate>8 December 2005</prism:coverdisplaydate><prism:copyright>Copyright © 2005 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><prism:issuename>Proceedings of the 9th International Symposium on Metal-Hydrogen Systems, Fundamentals and Applications (MH2004)</prism:issuename><dc:creator>Itoh, H.</dc:creator><dc:creator>Arashima, H.</dc:creator><dc:creator>Kubo, K.</dc:creator><dc:creator>Kabutomori, T.</dc:creator><dc:creator>Ohnishi, K.</dc:creator><dc:description>
+                  Durabilities of Ti–Cr–V alloys were investigated using the cyclic hydrogen absorption–desorption test. The XRD pattern obtained for Ti24Cr36V40 alloy after 100 cycles suggested the production of a highly distorted secondary phase. A temperature swing cyclic test was conducted and it became clear that the degradation of hydrogen transfer was caused by the decrease of total hydrogen content in the alloy. Vanadium content is an important factor in improving durability. High vanadium content prevents rapid degradation in the initial cycles. Floating zone melting is effective also for improving durability and the effect is remarkable for alloys with high vanadium content. Highly homogenized Ti8Cr12V80 alloy made by floating zone melting shows only 1.4% degradation from the initial hydrogen capacity after 500 cycles. As a behavior different from other Ti–Cr–V alloys, the floating zone melted Ti8Cr12V80 alloy shows an increase of the hydrogen absorption plateau pressure with the progression of cycles.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Hydrogen absorbing alloy</dcterms:subject><dcterms:subject>Ti–Cr–V alloy</dcterms:subject><dcterms:subject>BCC solid solution alloy</dcterms:subject><dcterms:subject>Cyclic durability</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838805009916" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838805009916" rel="scidir"/></coredata><objects><object category="thumbnail" height="11" mimetype="image/gif" multimediatype="GIF image file" ref="si3" size="124" type="ALTIMG" width="9">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805009916-si3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="11" mimetype="image/gif" multimediatype="GIF image file" ref="si2" size="124" type="ALTIMG" width="9">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805009916-si2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="8" mimetype="image/gif" multimediatype="GIF image file" ref="si1" size="124" type="ALTIMG" width="11">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805009916-si1.gif?httpAccept=%2A%2F%2A</object><object category="standard" height="287" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="7042" type="IMAGE-DOWNSAMPLED" width="339">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805009916-gr3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="1312" type="IMAGE-THUMBNAIL" width="110">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805009916-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="265" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="5725" type="IMAGE-DOWNSAMPLED" width="339">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805009916-gr2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="1471" type="IMAGE-THUMBNAIL" width="119">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805009916-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="268" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="7433" type="IMAGE-DOWNSAMPLED" width="340">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805009916-gr4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="1556" type="IMAGE-THUMBNAIL" width="118">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805009916-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="353" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="11919" type="IMAGE-DOWNSAMPLED" width="339">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805009916-gr5.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="1680" type="IMAGE-THUMBNAIL" width="89">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805009916-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="265" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="6148" type="IMAGE-DOWNSAMPLED" width="341">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805009916-gr6.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="1543" type="IMAGE-THUMBNAIL" width="120">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805009916-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="354" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="12653" type="IMAGE-DOWNSAMPLED" width="339">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805009916-gr1.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="1754" type="IMAGE-THUMBNAIL" width="89">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805009916-gr1.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>28044438960</scopus-id><scopus-eid>2-s2.0-28044438960</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/28044438960" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20050711">2005-07-11</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20050711">2005-07-11</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-04-17T10:08:11</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838805009916</xocs:eid>
+<xocs:pii-formatted>S0925-8388(05)00991-6</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805009916</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2004.12.175</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838805X02468</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.349087-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20051208</xocs:date-search-begin>
+<xocs:year-nav>2005</xocs:year-nav>
+<xocs:indexeddate epoch="1121040000">2005-07-11T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confdate confeditor confloc contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings suppl vol vol volfirst volissue webpdf webpdfpagecount figure body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>404</xocs:vol-first>
+<xocs:vol-last>406</xocs:vol-last>
+<xocs:volume-list>
+<xocs:volume>404</xocs:volume>
+<xocs:volume>405</xocs:volume>
+<xocs:volume>406</xocs:volume>
+</xocs:volume-list>
+<xocs:suppl>C</xocs:suppl>
+<xocs:vol-iss-suppl-text>Volumes 404–406</xocs:vol-iss-suppl-text>
+<xocs:sort-order>98</xocs:sort-order>
+<xocs:first-fp>417</xocs:first-fp>
+<xocs:last-lp>420</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>417</xocs:first-page>
+<xocs:last-page>420</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20051208</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>8 December 2005</xocs:cover-date-text>
+<xocs:cover-date-start>2005-12-08</xocs:cover-date-start>
+<xocs:cover-date-year>2005</xocs:cover-date-year>
+<xocs:title-editors-groups>
+<xocs:title-editors-group>
+<ce:title>Proceedings of the 9th International Symposium on Metal-Hydrogen Systems, Fundamentals and Applications (MH2004)</ce:title>
+<xocs:conference-info>
+<xocs:full-name>The International Symposium on Metal-Hydrogen Systems, Fundamentals and Applications, MH2004</xocs:full-name>
+<xocs:venue>Cracow, Poland</xocs:venue>
+<xocs:conference-date-text>5–10 September 2004</xocs:conference-date-text>
+<xocs:date-range>
+<xocs:start-date>20040905</xocs:start-date>
+<xocs:end-date>20040910</xocs:end-date>
+</xocs:date-range>
+</xocs:conference-info>
+<ce:editors>
+<ce:author-group>
+<ce:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Figiel</ce:surname>
+</ce:author>
+</ce:author-group>
+<ce:author-group>
+<ce:author>
+<ce:given-name>O.J.</ce:given-name>
+<ce:surname>Zogal</ce:surname>
+</ce:author>
+</ce:author-group>
+<ce:author-group>
+<ce:author>
+<ce:given-name>V.</ce:given-name>
+<ce:surname>Yartys</ce:surname>
+</ce:author>
+</ce:author-group>
+</ce:editors>
+</xocs:title-editors-group>
+</xocs:title-editors-groups>
+<xocs:hub-sec>
+<xocs:hub-sec-title>8. New absorbers, properties, phenomena</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2005 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>IMPROVEMENTCYCLICDURABILITYBCCSTRUCTUREDTICRVALLOYS</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>ITOH</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>H</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental procedure</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Ti<ce:inf loc="post">24</ce:inf>Cr<ce:inf loc="post">36</ce:inf>V<ce:inf loc="post">40</ce:inf> alloy, pressure swing cycle</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Ti<ce:inf loc="post">24</ce:inf>Cr<ce:inf loc="post">36</ce:inf>V<ce:inf loc="post">40</ce:inf> alloy, temperature swing cycle</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Ti<ce:inf loc="post">8</ce:inf>Cr<ce:inf loc="post">12</ce:inf>V<ce:inf loc="post">80</ce:inf> alloy, pressure swing cycle</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>KABUTOMORI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>528</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>AKIBA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>461</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>231</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>OKADA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>67</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>TSUKAHARA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>133</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>KUBO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>452</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>ARASHIMA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>405</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>COHEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1983</xocs:ref-pub-year>
+<xocs:ref-first-fp>17</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>MAELAND</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1964</xocs:ref-pub-year>
+<xocs:ref-first-fp>2197</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>ITOHX2005X417</xocs:refkey3>
+<xocs:refkey4lp>ITOHX2005X417X420</xocs:refkey4lp>
+<xocs:refkey4ai>ITOHX2005X417XH</xocs:refkey4ai>
+<xocs:refkey5>ITOHX2005X417X420XH</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(05)00991-6</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805009916</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838805009916</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2004.12.175</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-10T16:24:48.896207-04:00</xocs:timestamp>
+<xocs:cover-date-start>2005-12-08</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838805009916-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805009916/MAIN/application/pdf/0bdfb87a35fbd7514854e25fb12a268f/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805009916/MAIN/application/pdf/0bdfb87a35fbd7514854e25fb12a268f/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>140468</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838805009916-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805009916/PREVIEW/image/png/2aee3587ab64bad5ec9dd33f19dbf1a7/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805009916/PREVIEW/image/png/2aee3587ab64bad5ec9dd33f19dbf1a7/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>65597</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805009916-si3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805009916/STRIPIN/image/gif/ffe301514f8f0c9cc30ff234c71a9ab1/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805009916/STRIPIN/image/gif/ffe301514f8f0c9cc30ff234c71a9ab1/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si3</xocs:file-basename>
+<xocs:filename>si3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>124</xocs:filesize>
+<xocs:pixel-height>11</xocs:pixel-height>
+<xocs:pixel-width>9</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805009916-si2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805009916/STRIPIN/image/gif/ffe301514f8f0c9cc30ff234c71a9ab1/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805009916/STRIPIN/image/gif/ffe301514f8f0c9cc30ff234c71a9ab1/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si2</xocs:file-basename>
+<xocs:filename>si2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>124</xocs:filesize>
+<xocs:pixel-height>11</xocs:pixel-height>
+<xocs:pixel-width>9</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805009916-si1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805009916/STRIPIN/image/gif/35724f3c7384d3b93d1a565d6bbdea1c/si1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805009916/STRIPIN/image/gif/35724f3c7384d3b93d1a565d6bbdea1c/si1.gif</xocs:ucs-locator>
+<xocs:file-basename>si1</xocs:file-basename>
+<xocs:filename>si1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>124</xocs:filesize>
+<xocs:pixel-height>8</xocs:pixel-height>
+<xocs:pixel-width>11</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805009916-gr3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805009916/gr3/DOWNSAMPLED/image/gif/616f8b0f96d39ec6a258ac789d1cf334/gr3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805009916/gr3/DOWNSAMPLED/image/gif/616f8b0f96d39ec6a258ac789d1cf334/gr3.gif</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>7042</xocs:filesize>
+<xocs:pixel-height>287</xocs:pixel-height>
+<xocs:pixel-width>339</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805009916-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805009916/gr3/THUMBNAIL/image/gif/6acfaa08eae1ee19f7dd12a416c69634/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805009916/gr3/THUMBNAIL/image/gif/6acfaa08eae1ee19f7dd12a416c69634/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1312</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>110</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805009916-gr2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805009916/gr2/DOWNSAMPLED/image/gif/4633a77b403cbd3f6630050076f81240/gr2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805009916/gr2/DOWNSAMPLED/image/gif/4633a77b403cbd3f6630050076f81240/gr2.gif</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>5725</xocs:filesize>
+<xocs:pixel-height>265</xocs:pixel-height>
+<xocs:pixel-width>339</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805009916-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805009916/gr2/THUMBNAIL/image/gif/1a029b87cf4c8d02bade02dce8f88f58/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805009916/gr2/THUMBNAIL/image/gif/1a029b87cf4c8d02bade02dce8f88f58/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1471</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>119</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805009916-gr4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805009916/gr4/DOWNSAMPLED/image/gif/fac52c0499bd482ca76e8370729ee9fe/gr4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805009916/gr4/DOWNSAMPLED/image/gif/fac52c0499bd482ca76e8370729ee9fe/gr4.gif</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>7433</xocs:filesize>
+<xocs:pixel-height>268</xocs:pixel-height>
+<xocs:pixel-width>340</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805009916-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805009916/gr4/THUMBNAIL/image/gif/bb0436ebc6b7e866044c62db06e20219/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805009916/gr4/THUMBNAIL/image/gif/bb0436ebc6b7e866044c62db06e20219/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1556</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>118</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805009916-gr5.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805009916/gr5/DOWNSAMPLED/image/gif/1d87d2c55f7cd359032c56242ea6bc0f/gr5.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805009916/gr5/DOWNSAMPLED/image/gif/1d87d2c55f7cd359032c56242ea6bc0f/gr5.gif</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>11919</xocs:filesize>
+<xocs:pixel-height>353</xocs:pixel-height>
+<xocs:pixel-width>339</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805009916-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805009916/gr5/THUMBNAIL/image/gif/74493d5e998b47d6143c90e634d9768f/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805009916/gr5/THUMBNAIL/image/gif/74493d5e998b47d6143c90e634d9768f/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1680</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>89</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805009916-gr6.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805009916/gr6/DOWNSAMPLED/image/gif/14c391a1a82f8862eff609386680096e/gr6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805009916/gr6/DOWNSAMPLED/image/gif/14c391a1a82f8862eff609386680096e/gr6.gif</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>6148</xocs:filesize>
+<xocs:pixel-height>265</xocs:pixel-height>
+<xocs:pixel-width>341</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805009916-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805009916/gr6/THUMBNAIL/image/gif/34ecfcb1bff82a376b41d0cddb264d9e/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805009916/gr6/THUMBNAIL/image/gif/34ecfcb1bff82a376b41d0cddb264d9e/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1543</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>120</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805009916-gr1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805009916/gr1/DOWNSAMPLED/image/gif/6f47199882028d1d8a1879e0b5db1927/gr1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805009916/gr1/DOWNSAMPLED/image/gif/6f47199882028d1d8a1879e0b5db1927/gr1.gif</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>12653</xocs:filesize>
+<xocs:pixel-height>354</xocs:pixel-height>
+<xocs:pixel-width>339</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805009916-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805009916/gr1/THUMBNAIL/image/gif/b64204d49b27dbc15755d32b77123062/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805009916/gr1/THUMBNAIL/image/gif/b64204d49b27dbc15755d32b77123062/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1754</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>89</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>12770</aid>
+<ce:pii>S0925-8388(05)00991-6</ce:pii>
+<ce:doi>10.1016/j.jallcom.2004.12.175</ce:doi>
+<ce:copyright type="full-transfer" year="2005">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Initial PCIs of Ti<ce:inf loc="post">24</ce:inf>Cr<ce:inf loc="post">36</ce:inf>V<ce:inf loc="post">40</ce:inf> alloys and PCIs after 100 cycles of pressure swing absorption–desorption cycling at 293 K.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Hydrogen transfer changes of Ti<ce:inf loc="post">24</ce:inf>Cr<ce:inf loc="post">36</ce:inf>V<ce:inf loc="post">40</ce:inf> alloys with pressure swing cycling at 293 K.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">X-ray diffraction patterns obtained for Ti<ce:inf loc="post">24</ce:inf>Cr<ce:inf loc="post">36</ce:inf>V<ce:inf loc="post">40</ce:inf> alloys before hydriding and after 100 cycles.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Hydrogen transfer and pressure changes of water quenched Ti<ce:inf loc="post">24</ce:inf>Cr<ce:inf loc="post">36</ce:inf>V<ce:inf loc="post">40</ce:inf> alloy with temperature swing cycling.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Initial PCIs of Ti<ce:inf loc="post">8</ce:inf>Cr<ce:inf loc="post">12</ce:inf>V<ce:inf loc="post">80</ce:inf> alloys and PCIs after 500 cycles of pressure swing absorption–desorption testing at 293 K.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Hydrogen transfer changes of Ti<ce:inf loc="post">8</ce:inf>Cr<ce:inf loc="post">12</ce:inf>V<ce:inf loc="post">80</ce:inf> alloys with pressure swing cycling at 293 K.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+</ce:floats>
+<ce:title>Improvement of cyclic durability of BCC structured Ti–Cr–V alloys</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Itoh</ce:surname>
+<ce:cross-ref refid="cor1">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Arashima</ce:surname>
+</ce:author>
+<ce:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Kubo</ce:surname>
+</ce:author>
+<ce:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Kabutomori</ce:surname>
+</ce:author>
+<ce:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Ohnishi</ce:surname>
+</ce:author>
+<ce:affiliation>
+<ce:textfn>Muroran Research Laboratory, The Japan Steel Works, Ltd., 4 Chatsu-machi, Muroran, Hokkaido 051-8505, Japan</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>⁎</ce:label>
+<ce:text>Corresponding author. Tel.: +81 143 22 9228; fax: +81 143 22 4180.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="4" month="6" year="2004"></ce:date-received>
+<ce:date-revised day="2" month="12" year="2004"></ce:date-revised>
+<ce:date-accepted day="6" month="12" year="2004"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">Durabilities of Ti–Cr–V alloys were investigated using the cyclic hydrogen absorption–desorption test. The XRD pattern obtained for Ti<ce:inf loc="post">24</ce:inf>Cr<ce:inf loc="post">36</ce:inf>V<ce:inf loc="post">40</ce:inf> alloy after 100 cycles suggested the production of a highly distorted secondary phase. A temperature swing cyclic test was conducted and it became clear that the degradation of hydrogen transfer was caused by the decrease of total hydrogen content in the alloy. Vanadium content is an important factor in improving durability. High vanadium content prevents rapid degradation in the initial cycles. Floating zone melting is effective also for improving durability and the effect is remarkable for alloys with high vanadium content. Highly homogenized Ti<ce:inf loc="post">8</ce:inf>Cr<ce:inf loc="post">12</ce:inf>V<ce:inf loc="post">80</ce:inf> alloy made by floating zone melting shows only 1.4% degradation from the initial hydrogen capacity after 500 cycles. As a behavior different from other Ti–Cr–V alloys, the floating zone melted Ti<ce:inf loc="post">8</ce:inf>Cr<ce:inf loc="post">12</ce:inf>V<ce:inf loc="post">80</ce:inf> alloy shows an increase of the hydrogen absorption plateau pressure with the progression of cycles.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Hydrogen absorbing alloy</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Ti–Cr–V alloy</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>BCC solid solution alloy</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Cyclic durability</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section id="sec1" view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Ti–Cr–V is one of the hydrogen absorbing alloys, which have a body-centered cubic (BCC) structure and the components form a series of solid solution alloys. In recent years, study of Ti-based BCC alloys, particularly Ti–Cr–V has been promoted <ce:cross-refs refid="bib1 bib2 bib3 bib4 bib5 bib6">[1–6]</ce:cross-refs>. Most of the hydrogen absorbing alloys developed for practical use have been intermetallic compounds such as LaNi<ce:inf loc="post">5</ce:inf>, TiFe, and TiMn<ce:inf loc="post">1.5</ce:inf>. The Ti–Cr–V alloys show unique properties different from intermetallic compounds. Although such alloys have large initial hydrogen absorbing capacities (over 3.9 wt.%), the rechargeable hydrogen capacities near room temperature are limited to about 2.6 wt.%. These alloys have the possibility of increasing the rechargeable hydrogen capacity, but also show disadvantages such as high hysteresis and poor durability. In particular, the large degradation of rechargeable hydrogen capacity in the early stage of cycling prevents putting this alloy to practical use. In this study, cyclic absorption–desorption tests were performed for Ti–Cr–V alloys and the correlations between degradation in rechargeable hydrogen capacity and composition of the alloy and heat treatment were examined.</ce:para>
+</ce:section>
+<ce:section id="sec2" view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental procedure</ce:section-title>
+<ce:para view="all">Ti–Cr–V alloys were prepared by arc melting under an Ar atmosphere in a water-cooled Cu crucible. The target compositions of arc-melted alloys were Ti<ce:inf loc="post">24</ce:inf>Cr<ce:inf loc="post">36</ce:inf>V<ce:inf loc="post">40</ce:inf> and Ti<ce:inf loc="post">8</ce:inf>Cr<ce:inf loc="post">12</ce:inf>V<ce:inf loc="post">80</ce:inf>. Some ingots obtained were subjected to annealing at 1673 K for 10.8 ks and then water quenching (WQ) or to floating zone (FZ) melting for homogenization. Pressure-composition isotherms (PCI) were measured in a conventional Sieverts’-type apparatus. Following degassing at 373–423 K for 3.6–7.2 ks, initial hydrogenation was carried out holding the temperature at 293 K under hydrogen pressure of 4.5 MPa. The starting conditions for PCI measurement were a state after evacuation at 373 K for 3.6 ks following initial hydrogenation. The apparatus was also used for the cyclic absorption–desorption test. Although a pressure swing absorption–desorption cyclic test was employed as usual, a temperature swing cyclic test was also executed. The pressure swing cyclic test was performed with repetition of pressurization up to 2.5 MPa for absorption and evacuation with a vacuum pump for desorption. The temperature swing cyclic test was performed between 283 and 363 K in the closed system. Furthermore, X-ray powder diffraction (XRD) analysis by using Cu K<mml:math altimg="si1.gif" overflow="scroll">
+<mml:mstyle mathvariant="normal">
+<mml:mi>α</mml:mi>
+</mml:mstyle>
+</mml:math> radiation was carried out after degassing at 293 K for 3.6 ks to determine phases and lattice constants.</ce:para>
+</ce:section>
+<ce:section id="sec3" view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:section id="sec4" view="all">
+<ce:label>3.1</ce:label>
+<ce:section-title>Ti<ce:inf loc="post">24</ce:inf>Cr<ce:inf loc="post">36</ce:inf>V<ce:inf loc="post">40</ce:inf> alloy, pressure swing cycle</ce:section-title>
+<ce:para view="all">The PCIs of Ti<ce:inf loc="post">24</ce:inf>Cr<ce:inf loc="post">36</ce:inf>V<ce:inf loc="post">40</ce:inf> alloys at 293 K are shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor>. Although the PCI had a more sloped plateau for floating zone melting than water quenching following annealing, the hysteresis property of FZ slightly improved. Hydrogen transfer changes during the pressure swing cyclic test up to 100 cycles at 293 K are shown in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor>. The WQ alloy shows considerable degradation of hydrogen transfer in the initial 10 cycles. The FZ alloy shows slower degradation than the WQ alloy and the difference of hydrogen transfer reaches about 0.13 mass% after 100 cycles. The PCIs after 100 cycles are also shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>. The equilibrium hydrogen pressure for absorption decreases with the progression of cycles and hysteresis becomes smaller. The slope of plateau becomes larger after 100 cycles. XRD patterns of Ti<ce:inf loc="post">24</ce:inf>Cr<ce:inf loc="post">36</ce:inf>V<ce:inf loc="post">40</ce:inf>alloys are summarized in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor>. Every peak shifts to a lower 2<mml:math altimg="si2.gif" overflow="scroll">
+<mml:mi>θ</mml:mi>
+</mml:math>angle after hydrogenation due to the residue of hydrogen in the sample. The initial peaks of the FZ alloy are slightly sharper than those of the WQ alloy. After 100 cycles, every peak is broadened asymmetrically. The most intense peak has broadened to a higher 2<mml:math altimg="si3.gif" overflow="scroll">
+<mml:mi>θ</mml:mi>
+</mml:math> angle, while the other two peaks have broadened toward the opposite side. These small peaks shown along with broadening suggest a secondary phase, which cannot absorb or desorb hydrogen reversibly. Arashima et al. <ce:cross-ref refid="bib7">[7]</ce:cross-ref> have reported that floating zone melting improves the homogeneity of Ti–Cr–V alloys and that the rechargeable hydrogen capacity is increased by this process. The initial hydrogen capacity of the WQ and FZ alloys prepared in this study was the same but degradation of hydrogen transfer of the FZ alloy was smaller than that of the WQ alloy. The highly homogenized alloy made by floating zone melting had durability against production of the second phase.</ce:para>
+</ce:section>
+<ce:section id="sec5" view="all">
+<ce:label>3.2</ce:label>
+<ce:section-title>Ti<ce:inf loc="post">24</ce:inf>Cr<ce:inf loc="post">36</ce:inf>V<ce:inf loc="post">40</ce:inf> alloy, temperature swing cycle</ce:section-title>
+<ce:para view="all">Cohen and West <ce:cross-ref refid="bib8">[8]</ce:cross-ref> reported that the degradation of LaNi<ce:inf loc="post">5</ce:inf> was caused by segregation named disproportionation. One of the segregated phases is lanthanum hydride and it fixes the hydrogen. BCC alloys have a large hydrogen solid solution range at low pressure <ce:cross-ref refid="bib1">[1]</ce:cross-ref>. Therefore, the evacuation condition in the pressure swing cyclic test is insufficient for complete hydrogen desorption; the hydrogen transfer change does not directly express the hydrogen content change in the alloy. To make it clear whether the accumulation of hydrogen in the alloy with repeated cycles causes a hydrogen transfer decrease, the temperature swing cyclic test in a closed system was performed. <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor> shows the hydrogen transfer change of the water quenched Ti<ce:inf loc="post">24</ce:inf>Cr<ce:inf loc="post">36</ce:inf>V<ce:inf loc="post">40</ce:inf> alloy and hydrogen pressure of the testing vessel during the temperature swing cyclic test under almost constant pressure. Although the amount of hydrogen transfer is smaller than that of pressure swing cyclic test because of the large hysteresis of the alloy, the tendency of degradation is same as with the pressure swing test. Therefore, the total hydrogen amount in the testing vessel was kept constant during the cyclic tests, the pressure of vessel expresses the hydrogen amount, which is not contained in the alloy. When the vessel is heated, the alloy releases hydrogen and the pressure increases. Desorption pressure in this test shows no change through about 40 cycles and it means that the hydrogen content after desorption is constant. In contrast, absorption pressure in the cooling state increases gradually with the cycles. The tendency of pressure increase with cycles corresponds to the decrease of hydrogen transfer. It becomes clear that the hydrogen absorption–desorption cycle reduces the hydrogen content in the alloy. The X-ray diffraction patterns shown in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref> indicate the existence of a highly distorted secondary phase. It is considered that formation of this distorted phase, which cannot be hydrided, degrades the hydrogen transfer of the BCC alloy with cyclic hydrogen absorption and desorption.</ce:para>
+</ce:section>
+<ce:section id="sec6" view="all">
+<ce:label>3.3</ce:label>
+<ce:section-title>Ti<ce:inf loc="post">8</ce:inf>Cr<ce:inf loc="post">12</ce:inf>V<ce:inf loc="post">80</ce:inf> alloy, pressure swing cycle</ce:section-title>
+<ce:para view="all">Ti–Cr binary alloys form TiCr<ce:inf loc="post">2</ce:inf> Laves phase, which is more stable than the BCC structure at low temperature. Vanadium is known as one of the metals that can dissolve many elements in its own BCC lattice. The Ti<ce:inf loc="post">8</ce:inf>Cr<ce:inf loc="post">12</ce:inf>V<ce:inf loc="post">80</ce:inf> alloy was examined using the cyclic absorption–desorption test based on the consideration that the vanadium content in the Ti–Cr–V alloy will affect the stability of the BCC structure. The ratio of Ti/Cr was kept the same with 40% vanadium alloy. The PCIs of Ti<ce:inf loc="post">8</ce:inf>Cr<ce:inf loc="post">12</ce:inf>V<ce:inf loc="post">80</ce:inf> alloys at 293 K are shown in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="fig5"></ce:float-anchor>. The plateau slope and hysteresis are smaller than the Ti<ce:inf loc="post">24</ce:inf>Cr<ce:inf loc="post">36</ce:inf>V<ce:inf loc="post">40</ce:inf>alloy. As with the Ti<ce:inf loc="post">24</ce:inf>Cr<ce:inf loc="post">36</ce:inf>V<ce:inf loc="post">40</ce:inf> alloy, hysteresis of the FZ alloy was improved compared with the WQ alloy. The hydrogen transfer changes during the pressure swing cyclic test up to 500 cycles at 293 K are shown in <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="fig6"></ce:float-anchor>. Degradation of hydrogen transfer, especially in the initial stages of cycling, is smaller than for the Ti<ce:inf loc="post">24</ce:inf>Cr<ce:inf loc="post">36</ce:inf>V<ce:inf loc="post">40</ce:inf>alloy, but the degradation becomes clear with increasing cycle number. The FZ alloy shows only 1.4% degradation even after 500 cycles, while the WQ alloy shows about 5.4% degradation from the initial state. Vanadium is a metal that has the BCC structure. The lattice structure changes to a body-centered tetragonal (BCT) for monohydride and face-centered cubic (FCC) for dihydride <ce:cross-ref refid="bib9">[9]</ce:cross-ref>. The Ti<ce:inf loc="post">8</ce:inf>Cr<ce:inf loc="post">12</ce:inf>V<ce:inf loc="post">80</ce:inf>alloy has same behavior as vanadium and the XRD pattern shows typical BCT peaks different from the Ti<ce:inf loc="post">24</ce:inf>Cr<ce:inf loc="post">36</ce:inf>V<ce:inf loc="post">40</ce:inf> alloy shown in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>. The transformation to BCT is an important factor for cyclic durability. The PCIs after 500 cycles are also in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref> together. The important behavior is the opposite tendency of absorption plateau pressure change with absorption–desorption cycles between the WQ and FZ alloys. The water quenched sample shows reduction of the absorption plateau pressure with the number of cycles, the same behavior as for the Ti<ce:inf loc="post">24</ce:inf>Cr<ce:inf loc="post">36</ce:inf>V<ce:inf loc="post">40</ce:inf> alloy. The floating zone melted alloy shows an increase in absorption plateau pressure with the number of cycles. It means that the hydrogen absorption requires more energy than that of the initial state. This behavior is explained as follows. Hydrogen absorbing alloys are generally produced by melting, casting, and heat treatment. Heat treatment is insufficient for diminishing the lattice strain completely for BCC alloys. Floating zone melting is not highly effective for the 40% vanadium alloy. Repetition of hydrogen absorption and desorption produces enormous new strain on the lattice and the original strain may be reduced. Hydrogen-induced strain brings about the motion of metal atoms and produces a highly distorted secondary phase. In the case of a V-rich composition, the BCC structure is stabilized and the original lattice strain will be small. Floating zone melting of such alloys produces a highly ordered homogeneous lattice. Repetition of hydrogen absorption and desorption only increases the lattice strain and produces difficulties of hydrogen absorption into the alloy.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section id="sec7" view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusion</ce:section-title>
+<ce:para view="all">Hydrogen transfer degradation was investigated for Ti–Cr–V alloys with the BCC structure. It was found that vanadium content and homogeneity have important roles for cyclic durability. High vanadium content prevents rapid degradation in the initial cycles. Floating zone melting is effective for improving durability and the effect is remarkable for alloys with high vanadium content.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgments</ce:section-title>
+<ce:para view="all">This work was administered through the New Energy and Industrial Technology Development Organization of Japan (NEDO) as a part of Basic Technology Development Project for Hydrogen Safety and Utilization with funding from the Ministry of Economy, Trade and Industry of Japan (METI).</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Kabutomori</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Takeda</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Wakisaka</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Ohnishi</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>231</sb:volume-nr>
+</sb:series>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>528</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Akiba</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Iba</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Intermetallics</sb:maintitle>
+</sb:title>
+<sb:volume-nr>6</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>461</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.J.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.H.</ce:given-name>
+<ce:surname>Kim</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.M.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>297</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>231</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Okada</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Kuriiwa</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Tamura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Takamura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Kamegawa</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Intermetallics</sb:maintitle>
+</sb:title>
+<sb:volume-nr>7</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>67</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Tsukahara</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Takahashi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Mishima</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Isomura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Sakai</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>243</sb:volume-nr>
+</sb:series>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>133</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Kubo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Itoh</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Takahashi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Ebisawa</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Kabutomori</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Nakamura</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Akiba</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>356–357</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>452</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Arashima</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Takahashi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Ebisawa</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Itoh</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Kabutomori</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>356–357</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>405</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.L.</ce:given-name>
+<ce:surname>Cohen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.W.</ce:given-name>
+<ce:surname>West</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Less-common Met.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>95</sb:volume-nr>
+</sb:series>
+<sb:date>1983</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>17</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.J.</ce:given-name>
+<ce:surname>Maeland</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Phys. Chem.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>68</sb:volume-nr>
+</sb:series>
+<sb:date>1964</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2197</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

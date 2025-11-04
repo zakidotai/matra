@@ -1,0 +1,1568 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838804008977</prism:url><dc:identifier>doi:10.1016/j.jallcom.2004.06.083</dc:identifier><eid>1-s2.0-S0925838804008977</eid><prism:doi>10.1016/j.jallcom.2004.06.083</prism:doi><pii>S0925-8388(04)00897-7</pii><dc:title>Effects of mechanical milling on the properties of Mg–10.3% Ti and Mg–5% Al–10.3% Ti metal–metal composite </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>387</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>260</prism:startingpage><prism:endingpage>264</prism:endingpage><prism:pagerange>260-264</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2005-01-25</prism:coverdate><prism:coverdisplaydate>25 January 2005</prism:coverdisplaydate><prism:copyright>Copyright © 2004 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Lu, L.</dc:creator><dc:creator>Lai, M.O.</dc:creator><dc:creator>Froyen, L.</dc:creator><dc:description>
+                  The mechanical properties of Mg–10.3% Ti and Mg–5% Al–10.3% Ti metal–metal composites produced via mechanical milling have been studied in the present paper. Strain to failure was found to have dramatically increased after the milling process. The Hall-Petch constant K for Mg–10.3% Ti composite was found to be 2254MPa/nm−1/2 while a negative value was found for Mg–5% Al–10.3% Ti.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Mechanical milling</dcterms:subject><dcterms:subject>Metal–metal composite</dcterms:subject><dcterms:subject>Nanostructured materials</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838804008977" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838804008977" rel="scidir"/></coredata><objects><object category="thumbnail" height="20" mimetype="image/gif" multimediatype="GIF image file" ref="si9" size="477" type="ALTIMG" width="128">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008977-si9.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="18" mimetype="image/gif" multimediatype="GIF image file" ref="si8" size="261" type="ALTIMG" width="52">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008977-si8.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="18" mimetype="image/gif" multimediatype="GIF image file" ref="si7" size="261" type="ALTIMG" width="52">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008977-si7.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="42" mimetype="image/gif" multimediatype="GIF image file" ref="si6" size="1081" type="ALTIMG" width="222">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008977-si6.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="18" mimetype="image/gif" multimediatype="GIF image file" ref="si5" size="247" type="ALTIMG" width="52">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008977-si5.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="18" mimetype="image/gif" multimediatype="GIF image file" ref="si4" size="281" type="ALTIMG" width="54">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008977-si4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="17" mimetype="image/gif" multimediatype="GIF image file" ref="si3" size="265" type="ALTIMG" width="53">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008977-si3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="14" mimetype="image/gif" multimediatype="GIF image file" ref="si2" size="180" type="ALTIMG" width="31">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008977-si2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="39" mimetype="image/gif" multimediatype="GIF image file" ref="si10" size="534" type="ALTIMG" width="110">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008977-si10.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="35" mimetype="image/gif" multimediatype="GIF image file" ref="si1" size="592" type="ALTIMG" width="117">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008977-si1.gif?httpAccept=%2A%2F%2A</object><object category="standard" height="764" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="20743" type="IMAGE-DOWNSAMPLED" width="255">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008977-gr1.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="162" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="1927" type="IMAGE-THUMBNAIL" width="54">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008977-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="902" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="25938" type="IMAGE-DOWNSAMPLED" width="302">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008977-gr2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="164" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="1972" type="IMAGE-THUMBNAIL" width="55">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008977-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="223" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="7422" type="IMAGE-DOWNSAMPLED" width="316">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008977-gr3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="154" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="4396" type="IMAGE-THUMBNAIL" width="219">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008977-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="224" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="5682" type="IMAGE-DOWNSAMPLED" width="310">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008977-gr4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="159" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="3668" type="IMAGE-THUMBNAIL" width="219">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008977-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="460" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="9799" type="IMAGE-DOWNSAMPLED" width="300">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008977-gr5.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="164" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="2060" type="IMAGE-THUMBNAIL" width="107">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804008977-gr5.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>10844247068</scopus-id><scopus-eid>2-s2.0-10844247068</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/10844247068" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20040820">2004-08-20</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20040820">2004-08-20</xocs:available-online-date>
+<xocs:ew-transaction-id>2011-02-15T22:32:05</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838804008977</xocs:eid>
+<xocs:pii-formatted>S0925-8388(04)00897-7</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838804008977</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2004.06.083</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.3</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838800X02290</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.228461-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20050125</xocs:date-search-begin>
+<xocs:year-nav>2005</xocs:year-nav>
+<xocs:indexeddate epoch="1092960000">2004-08-20T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure body mmlmath affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>387</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>387</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 387, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>48</xocs:sort-order>
+<xocs:first-fp>260</xocs:first-fp>
+<xocs:last-lp>264</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>260</xocs:first-page>
+<xocs:last-page>264</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20050125</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>25 January 2005</xocs:cover-date-text>
+<xocs:cover-date-start>2005-01-25</xocs:cover-date-start>
+<xocs:cover-date-year>2005</xocs:cover-date-year>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2004 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>EFFECTSMECHANICALMILLINGPROPERTIESMG103TIMG5AL103TIMETALMETALCOMPOSITE</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>LU</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>L</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental procedures</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Structural evolution</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Mechanical properties</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>WATANABE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>477</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>KOCH</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>339</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>SURYANARAYANA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>41</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>181</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5"></xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>BENJAMIN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1970</xocs:ref-pub-year>
+<xocs:ref-first-fp>2943</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>SINGER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1980</xocs:ref-pub-year>
+<xocs:ref-first-fp>1895</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>JANGG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1989</xocs:ref-pub-year>
+<xocs:ref-first-fp>25</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>ZENER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1948</xocs:ref-pub-year>
+<xocs:ref-first-fp>15</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>MABUCHI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>2047</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>WATANABE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>209</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>PALUMBO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1990</xocs:ref-pub-year>
+<xocs:ref-first-fp>1347</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13">
+<xocs:ref-normalized-surname>PALUMBO</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1990</xocs:ref-pub-year>
+<xocs:ref-first-fp>2347</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>LUTJERING</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1970</xocs:ref-pub-year>
+<xocs:ref-first-fp>785</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15">
+<xocs:ref-normalized-surname>LEWIS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1963</xocs:ref-pub-year>
+<xocs:ref-first-fp>1207</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib16">
+<xocs:ref-normalized-surname>MARTIN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1980</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>MICROMECHANISMSINPARTICLEHARDENEDALLOYS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib17">
+<xocs:ref-normalized-surname>CHOKSHI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1989</xocs:ref-pub-year>
+<xocs:ref-first-fp>1679</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib18">
+<xocs:ref-normalized-surname>LU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1990</xocs:ref-pub-year>
+<xocs:ref-first-fp>2319</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib19">
+<xocs:ref-normalized-surname>MCMAHON</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1989</xocs:ref-pub-year>
+<xocs:ref-first-fp>447</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib20">
+<xocs:ref-normalized-surname>SURYANARAYANA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1992</xocs:ref-pub-year>
+<xocs:ref-first-fp>2114</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib21">
+<xocs:ref-normalized-surname>GRYAZNOV</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1990</xocs:ref-pub-year>
+<xocs:ref-first-fp>1529</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>LUX2005X260</xocs:refkey3>
+<xocs:refkey4lp>LUX2005X260X264</xocs:refkey4lp>
+<xocs:refkey4ai>LUX2005X260XL</xocs:refkey4ai>
+<xocs:refkey5>LUX2005X260X264XL</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(04)00897-7</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838804008977</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838804008977</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2004.06.083</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2011-02-16T02:47:48.945957-05:00</xocs:timestamp>
+<xocs:cover-date-start>2005-01-25</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838804008977-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008977/MAIN/application/pdf/791c2bf0a63b0119834fa39d398c9185/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008977/MAIN/application/pdf/791c2bf0a63b0119834fa39d398c9185/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>146133</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838804008977-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008977/PREVIEW/image/png/bc62d913de758b5b58f54c286bfa6251/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008977/PREVIEW/image/png/bc62d913de758b5b58f54c286bfa6251/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>59116</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008977-si9.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008977/STRIPIN/image/gif/75df8d6005a38a1ebb36a4cf49c9fadc/si9.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008977/STRIPIN/image/gif/75df8d6005a38a1ebb36a4cf49c9fadc/si9.gif</xocs:ucs-locator>
+<xocs:file-basename>si9</xocs:file-basename>
+<xocs:filename>si9.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>477</xocs:filesize>
+<xocs:pixel-height>20</xocs:pixel-height>
+<xocs:pixel-width>128</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008977-si8.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008977/STRIPIN/image/gif/0295d13b50dfa931f5ba50887421d243/si7.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008977/STRIPIN/image/gif/0295d13b50dfa931f5ba50887421d243/si7.gif</xocs:ucs-locator>
+<xocs:file-basename>si8</xocs:file-basename>
+<xocs:filename>si8.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>261</xocs:filesize>
+<xocs:pixel-height>18</xocs:pixel-height>
+<xocs:pixel-width>52</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008977-si7.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008977/STRIPIN/image/gif/0295d13b50dfa931f5ba50887421d243/si7.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008977/STRIPIN/image/gif/0295d13b50dfa931f5ba50887421d243/si7.gif</xocs:ucs-locator>
+<xocs:file-basename>si7</xocs:file-basename>
+<xocs:filename>si7.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>261</xocs:filesize>
+<xocs:pixel-height>18</xocs:pixel-height>
+<xocs:pixel-width>52</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008977-si6.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008977/STRIPIN/image/gif/64e7a0e679ae379fbf09bac286bf1d00/si6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008977/STRIPIN/image/gif/64e7a0e679ae379fbf09bac286bf1d00/si6.gif</xocs:ucs-locator>
+<xocs:file-basename>si6</xocs:file-basename>
+<xocs:filename>si6.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1081</xocs:filesize>
+<xocs:pixel-height>42</xocs:pixel-height>
+<xocs:pixel-width>222</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008977-si5.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008977/STRIPIN/image/gif/357dcc4f22b737cffc12e3769f221bd3/si5.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008977/STRIPIN/image/gif/357dcc4f22b737cffc12e3769f221bd3/si5.gif</xocs:ucs-locator>
+<xocs:file-basename>si5</xocs:file-basename>
+<xocs:filename>si5.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>247</xocs:filesize>
+<xocs:pixel-height>18</xocs:pixel-height>
+<xocs:pixel-width>52</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008977-si4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008977/STRIPIN/image/gif/ec68db77f983b5d53bb5c1941535a3fd/si4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008977/STRIPIN/image/gif/ec68db77f983b5d53bb5c1941535a3fd/si4.gif</xocs:ucs-locator>
+<xocs:file-basename>si4</xocs:file-basename>
+<xocs:filename>si4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>281</xocs:filesize>
+<xocs:pixel-height>18</xocs:pixel-height>
+<xocs:pixel-width>54</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008977-si3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008977/STRIPIN/image/gif/3c947a0c764cf2e18f3d3c02c3658433/si3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008977/STRIPIN/image/gif/3c947a0c764cf2e18f3d3c02c3658433/si3.gif</xocs:ucs-locator>
+<xocs:file-basename>si3</xocs:file-basename>
+<xocs:filename>si3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>265</xocs:filesize>
+<xocs:pixel-height>17</xocs:pixel-height>
+<xocs:pixel-width>53</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008977-si2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008977/STRIPIN/image/gif/43b025e4d47ca55d65611457bba511ad/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008977/STRIPIN/image/gif/43b025e4d47ca55d65611457bba511ad/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si2</xocs:file-basename>
+<xocs:filename>si2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>180</xocs:filesize>
+<xocs:pixel-height>14</xocs:pixel-height>
+<xocs:pixel-width>31</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008977-si10.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008977/STRIPIN/image/gif/d96300fd4e587c8b1d0b29696dd57ee8/si10.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008977/STRIPIN/image/gif/d96300fd4e587c8b1d0b29696dd57ee8/si10.gif</xocs:ucs-locator>
+<xocs:file-basename>si10</xocs:file-basename>
+<xocs:filename>si10.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>534</xocs:filesize>
+<xocs:pixel-height>39</xocs:pixel-height>
+<xocs:pixel-width>110</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008977-si1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008977/STRIPIN/image/gif/0f2073e4f38b54f2c486efee41ea64e5/si1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008977/STRIPIN/image/gif/0f2073e4f38b54f2c486efee41ea64e5/si1.gif</xocs:ucs-locator>
+<xocs:file-basename>si1</xocs:file-basename>
+<xocs:filename>si1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>592</xocs:filesize>
+<xocs:pixel-height>35</xocs:pixel-height>
+<xocs:pixel-width>117</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008977-gr1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008977/gr1/DOWNSAMPLED/image/gif/fcb6512d4f40708aa0854358008d1ae7/gr1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008977/gr1/DOWNSAMPLED/image/gif/fcb6512d4f40708aa0854358008d1ae7/gr1.gif</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>20743</xocs:filesize>
+<xocs:pixel-height>764</xocs:pixel-height>
+<xocs:pixel-width>255</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008977-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008977/gr1/THUMBNAIL/image/gif/a47f0744f2af0d74373214340f2fff28/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008977/gr1/THUMBNAIL/image/gif/a47f0744f2af0d74373214340f2fff28/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1927</xocs:filesize>
+<xocs:pixel-height>162</xocs:pixel-height>
+<xocs:pixel-width>54</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008977-gr2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008977/gr2/DOWNSAMPLED/image/gif/8fb13353900df6bd6e0b568a1d3a5ea4/gr2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008977/gr2/DOWNSAMPLED/image/gif/8fb13353900df6bd6e0b568a1d3a5ea4/gr2.gif</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>25938</xocs:filesize>
+<xocs:pixel-height>902</xocs:pixel-height>
+<xocs:pixel-width>302</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008977-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008977/gr2/THUMBNAIL/image/gif/094c2d84a7e0ffec9216115afc752ff6/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008977/gr2/THUMBNAIL/image/gif/094c2d84a7e0ffec9216115afc752ff6/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1972</xocs:filesize>
+<xocs:pixel-height>164</xocs:pixel-height>
+<xocs:pixel-width>55</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008977-gr3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008977/gr3/DOWNSAMPLED/image/gif/fbcba1ef760ae16ae5bdde8469230003/gr3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008977/gr3/DOWNSAMPLED/image/gif/fbcba1ef760ae16ae5bdde8469230003/gr3.gif</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>7422</xocs:filesize>
+<xocs:pixel-height>223</xocs:pixel-height>
+<xocs:pixel-width>316</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008977-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008977/gr3/THUMBNAIL/image/gif/f462d22a5794bcd4ef9c9607d2044b5e/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008977/gr3/THUMBNAIL/image/gif/f462d22a5794bcd4ef9c9607d2044b5e/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>4396</xocs:filesize>
+<xocs:pixel-height>154</xocs:pixel-height>
+<xocs:pixel-width>219</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008977-gr4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008977/gr4/DOWNSAMPLED/image/gif/a62a7e2f71e517431ca5404e0eecf899/gr4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008977/gr4/DOWNSAMPLED/image/gif/a62a7e2f71e517431ca5404e0eecf899/gr4.gif</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>5682</xocs:filesize>
+<xocs:pixel-height>224</xocs:pixel-height>
+<xocs:pixel-width>310</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008977-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008977/gr4/THUMBNAIL/image/gif/3e7101588db2bbed01ce787b0635108a/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008977/gr4/THUMBNAIL/image/gif/3e7101588db2bbed01ce787b0635108a/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3668</xocs:filesize>
+<xocs:pixel-height>159</xocs:pixel-height>
+<xocs:pixel-width>219</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008977-gr5.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008977/gr5/DOWNSAMPLED/image/gif/8f039cb48c34232e4c837e235a8cdc6f/gr5.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008977/gr5/DOWNSAMPLED/image/gif/8f039cb48c34232e4c837e235a8cdc6f/gr5.gif</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>9799</xocs:filesize>
+<xocs:pixel-height>460</xocs:pixel-height>
+<xocs:pixel-width>300</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804008977-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804008977/gr5/THUMBNAIL/image/gif/fff66a3aefdc16fe75e5ee7e81568459/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804008977/gr5/THUMBNAIL/image/gif/fff66a3aefdc16fe75e5ee7e81568459/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2060</xocs:filesize>
+<xocs:pixel-height>164</xocs:pixel-height>
+<xocs:pixel-width>107</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>11445</aid>
+<ce:pii>S0925-8388(04)00897-7</ce:pii>
+<ce:doi>10.1016/j.jallcom.2004.06.083</ce:doi>
+<ce:copyright type="full-transfer" year="2004">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">X-ray diffraction spectra of the Mg–Ti and Mg–Al–Ti powder mixtures as a function of the milling time: (a) Mg–Ti; (b) Mg–Al–Ti.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">X-ray diffraction spectra of extruded Mg–Ti and Mg–Al–Ti specimen: (a) Mg–Ti; (b) Mg–Al–Ti.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Evolution of the grain size as a function of the milling time.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Elongation of the Mg–Ti and Mg–Ti–Al samples as function of the milling time.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Strength properties of the Mg–Ti and Mg–Ti–Al samples as function of the milling time.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+</ce:floats>
+<ce:title>Effects of mechanical milling on the properties of Mg–10.3% Ti and Mg–5% Al–10.3% Ti metal–metal composite</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Lu</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="cor1">*</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>M.O.</ce:given-name>
+<ce:surname>Lai</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Froyen</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation id="aff1">
+<ce:label>a</ce:label>
+<ce:textfn>Department of Mechanical and Production Engineering, National University of Singapore, Singapore 119260, Singapore</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff2">
+<ce:label>b</ce:label>
+<ce:textfn>Department of Metallurgy and Materials Engineering, Katholieke Universiteit Leuven, B-3001 Leuven, Belgium</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>*</ce:label>
+<ce:text>Corresponding author. Fax: +65-6779-1459.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="17" month="5" year="2004"></ce:date-received>
+<ce:date-revised day="18" month="6" year="2004"></ce:date-revised>
+<ce:date-accepted day="18" month="6" year="2004"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">The mechanical properties of Mg–10.3% Ti and Mg–5% Al–10.3% Ti metal–metal composites produced via mechanical milling have been studied in the present paper. Strain to failure was found to have dramatically increased after the milling process. The Hall-Petch constant <ce:italic>K</ce:italic> for Mg–10.3% Ti composite was found to be 2254<ce:hsp sp="0.25"></ce:hsp>MPa/nm<ce:sup loc="post">−1/2</ce:sup> while a negative value was found for Mg–5% Al–10.3% Ti.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Mechanical milling</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Metal–metal composite</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Nanostructured materials</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Due to the light weight, high strength-to-weight ratio, high specific stiffness, good elastic modulus and conductivity, as well as high damping capacity, Mg alloys have received much attention in recent research endeavours. However, due to the nature of its hexagonal close-packed structure, ductility of Mg is generally low. Improvement of ductility is therefore necessary to enable Mg alloys being used in structural applications. Alloying elements such as Al addition can be employed to increase their strength. However, if the content of Al is above about 6%, Mg<ce:inf loc="post">17</ce:inf>Al<ce:inf loc="post">12</ce:inf> intermetallic is expected to form, which can lead to decrease in the ductility of the alloys.</ce:para>
+<ce:para view="all">It is known that ductility of Mg alloys is affected by the grain size. High ductility can be obtained when the grain size is typically less than about 10<ce:hsp sp="0.25"></ce:hsp>μm <ce:cross-ref refid="bib1">[1]</ce:cross-ref>. Several methods, such as mechanical alloying alloys, vapour deposition, equal channel angular deformation and recrystallization of amorphous, can be used to produce nanostructured materials. The reduction in grain size through mechanical milling (MM) has so far been most impressive <ce:cross-refs refid="bib2 bib3 bib4">[2–4]</ce:cross-refs>. MM has been used <ce:cross-ref refid="bib5">[5]</ce:cross-ref> to improve the mechanical properties of Mg. The technique, although originally developed for the synthesis of oxide dispersion strengthening materials, has been widely used in synthesizing different kinds of metallic and non-metallic materials <ce:cross-refs refid="bib6 bib7 bib8">[6–8]</ce:cross-refs>.</ce:para>
+<ce:para view="all">MM is a solid-state powder processing technique capable of synthesizing a variety of equilibrium and non-equilibrium phases, such as the crystalline Mg<ce:inf loc="post">2</ce:inf>Ni alloy, the intermetallic Mg<ce:inf loc="post">2</ce:inf>Si phase and amorphous/nanocrystalline Mg<ce:inf loc="post">55</ce:inf>Y<ce:inf loc="post">15</ce:inf>Cu<ce:inf loc="post">30</ce:inf> alloys. The technique is efficient in mixing of matrix and reinforcement particles to establish a homogeneous composite microstructure and hence to obtain optimum properties. In addition to the strengthening of uniformly dispersed fine particles, the resulting fine grain size and increased dislocation density of the metal matrix significantly contributes to the strength and the ductility of the alloys.</ce:para>
+<ce:para view="all">The present study aims at investigating the effects of MM on Mg–10.3% Ti and Mg–5% Al–10.3% Ti metal–metal composites. The effect of milling time on the microstructure and mechanical properties of the composites is examined.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental procedures</ce:section-title>
+<ce:para view="all">Elemental powders of Mg, Al, and Ti of purity of 98, 99.5 and 98% respectively were used in the present study. Two batches of specimens with the composition Mg + 10.3<ce:hsp sp="0.25"></ce:hsp>wt.% Ti and Mg + 5<ce:hsp sp="0.25"></ce:hsp>wt% Al + 10.3<ce:hsp sp="0.25"></ce:hsp>wt.% Ti were prepared. The powder mixtures of each batch were blended in a V-blender at a rotational speed of 45<ce:hsp sp="0.25"></ce:hsp>rpm for 5<ce:hsp sp="0.25"></ce:hsp>h followed by ball milling for 20 and 40<ce:hsp sp="0.25"></ce:hsp>h. Forty hardened steel balls of 15<ce:hsp sp="0.25"></ce:hsp>mm diameter were used in the ball milling process. The weight ratio of ball to powder during milling was 20:1. To prevent the powders from oxidation during processing, the ball milling vials were evacuated and then filled with 99.9% pure argon gas. As process control agent 3<ce:hsp sp="0.25"></ce:hsp>wt.% stearic acid was added to prevent excessive cold welding. Milling was performed at room temperature in a Frisch PM/5 planetary ball mill with a rotational speed of 200<ce:hsp sp="0.25"></ce:hsp>rpm. After the milling process, the powders were cold compacted under an argon atmosphere into green compacts of 35<ce:hsp sp="0.25"></ce:hsp>mm diameter disc of about 35<ce:hsp sp="0.25"></ce:hsp>mm height. The compacts were then sintered in an argon atmosphere at 450<ce:hsp sp="0.25"></ce:hsp>°C for 2<ce:hsp sp="0.25"></ce:hsp>h in a tube furnace. Extrusion of the sintered compacts was carried out with an extrusion ratio of 25:1 at 400<ce:hsp sp="0.25"></ce:hsp>°C. The extruded rods without any post-heat treatment were machined into tensile specimens of 5<ce:hsp sp="0.25"></ce:hsp>mm diameter and 30<ce:hsp sp="0.25"></ce:hsp>mm gauge length in accordance with the ASTM test method E8M-96. Tensile test was carried out on an INSTRON 8500 with a loading rate of 2.8%/s.</ce:para>
+<ce:para view="all">An XRD-6000 Shimadzu X-ray diffractometer was used to monitor the changes in the ball-milled powder as well as the extruded rods. The crystallite size was estimated using Scherrer’s formula based on the broadening of XRD diffraction peaks:<ce:display>
+<ce:formula>
+<ce:label>(1)</ce:label>
+<mml:math altimg="si1.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>B</mml:mi>
+<mml:mtext>s</mml:mtext>
+</mml:msub>
+<mml:mo>=</mml:mo>
+<mml:mn>1.05</mml:mn>
+<mml:mfrac>
+<mml:mi>λ</mml:mi>
+<mml:mrow>
+<mml:mi>d</mml:mi>
+<mml:mi> </mml:mi>
+<mml:mtext>cos</mml:mtext>
+<mml:mi> </mml:mi>
+<mml:mi>θ</mml:mi>
+</mml:mrow>
+</mml:mfrac>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>where <ce:italic>B</ce:italic>
+<ce:inf loc="post">s</ce:inf> is the broadening due to reduction in crystallite size, <ce:italic>λ</ce:italic> the X-ray wavelength, <ce:italic>d</ce:italic> the crystallite size and <ce:italic>θ</ce:italic> the diffraction angle. To avoid the influence of broadening due to the X-ray diffractometer, a standard Si powder was used.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:section view="all">
+<ce:label>3.1</ce:label>
+<ce:section-title>Structural evolution</ce:section-title>
+<ce:para view="all">The X-ray diffraction (XRD) patterns of the Mg–10% Ti and Mg–5% Al–10.3% Ti powder mixtures as a function of the milling time are shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor>(a) and (b). The Ti peaks can still be seen in both systems even after 40<ce:hsp sp="0.25"></ce:hsp>h of milling, indicating the existence of elemental Ti after milling since the solubility of either Ti in Mg or vice versa is almost zero. The width of diffraction peaks of Mg was greatly broadened due to reduction of grain size. For the Mg–5% Al–10.3% Ti system, the (1<ce:hsp sp="0.25"></ce:hsp>1<ce:hsp sp="0.25"></ce:hsp>1) diffraction peaks of Al can also be found even after 40<ce:hsp sp="0.25"></ce:hsp>h of milling indicating the presence of Al in Mg. Based on the binary phase diagram of Mg–Al, the maximum solid solubility of Al in Mg at room temperature is only about 1.3<ce:hsp sp="0.25"></ce:hsp>at.%, and Al<ce:inf loc="post">12</ce:inf>Mg<ce:inf loc="post">17</ce:inf> can be formed when the Al concentration is higher. However, no Al<ce:inf loc="post">12</ce:inf>Mg<ce:inf loc="post">17</ce:inf> can be observed in the ball-milled powder. The absence of Al<ce:inf loc="post">12</ce:inf>Mg<ce:inf loc="post">17</ce:inf> can be due to two reasons. Firstly, Al has not been fully diffused into Mg so that the concentration of Al in Mg is still below 1.3<ce:hsp sp="0.25"></ce:hsp>at.%. Secondly, if the formation of Al<ce:inf loc="post">12</ce:inf>Mg<ce:inf loc="post">17</ce:inf> occurred in the nanosize range and the quantity is low, XRD is unable to detect the presence of Al<ce:inf loc="post">12</ce:inf>Mg<ce:inf loc="post">17</ce:inf>. In addition, TiH<ce:inf loc="post">1.924</ce:inf> can also appear to be present, although its presence cannot be confirmed since strongest (1<ce:hsp sp="0.25"></ce:hsp>1<ce:hsp sp="0.25"></ce:hsp>1) TiH<ce:inf loc="post">1.924</ce:inf> peak almost overlaps with the (1<ce:hsp sp="0.25"></ce:hsp>0<ce:hsp sp="0.25"></ce:hsp>0) Ti peak while the (<mml:math altimg="si2.gif" overflow="scroll">
+<mml:mrow>
+<mml:mover accent="true">
+<mml:mn>4</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mn>2</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+</mml:math>) TiH<ce:inf loc="post">1.924</ce:inf> peak is too weak.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor>(a) and (b) shows the XRD spectra of the extruded specimens. For Mg–10% Ti, the intensities of both Mg and Ti diffraction patterns become stronger, due to recrystallization and grain growth during the sintering and the extrusion process. For the alloy Mg–5% Al–10.3% Ti, the Al<ce:inf loc="post">12</ce:inf>Mg<ce:inf loc="post">17</ce:inf> phase can be detected besides an increase in intensity of the diffraction peaks. This is attributed to the formation and growth of Al<ce:inf loc="post">12</ce:inf>Mg<ce:inf loc="post">17</ce:inf> during sintering and hot extrusion.</ce:para>
+<ce:para view="all">The crystallite size of the ball-milled powders as well as that of the extruded specimens are given in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor>. Reduction of the crystallite size is evident at the beginning of milling. The crystallite size of Mg of Mg–10.3% Ti powder as calculated from Scherrer’s equation shows a rapid decrease to about 49<ce:hsp sp="0.25"></ce:hsp>nm after 20<ce:hsp sp="0.25"></ce:hsp>h milling. Further milling only led to a small reduction of the crystallite size. After 40<ce:hsp sp="0.25"></ce:hsp>h milling, the crystallite size of Mg is about 16<ce:hsp sp="0.25"></ce:hsp>nm (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>). It is noted that the crystallite size of Mg–5% Al–10.3% Ti is slightly smaller than that of Mg–10.3% Ti for the same milling conditions. The size of the latter has already reached 31<ce:hsp sp="0.25"></ce:hsp>nm after 20<ce:hsp sp="0.25"></ce:hsp>h of milling and is about 10<ce:hsp sp="0.25"></ce:hsp>nm after 40<ce:hsp sp="0.25"></ce:hsp>h. The smaller crystallite size of Mg–5% Al–10.3% Ti powder can be associated with the presence of Al which increases the hardness of Mg.</ce:para>
+<ce:para view="all">For the extruded Mg–10.3% Ti specimens, the crystallite sizes increased up to 183 and 129<ce:hsp sp="0.25"></ce:hsp>nm respectively for 20 and 40<ce:hsp sp="0.25"></ce:hsp>h of milling, while for the Mg–5% Al–10.3% Ti specimens, sizes up to 111 and 102<ce:hsp sp="0.25"></ce:hsp>nm for respectively 20 and 40<ce:hsp sp="0.25"></ce:hsp>h were measured. The smaller increase in grain size of the Mg–5% Al–10.3% Ti specimens is can be due to the presence of the extra second phase Al<ce:inf loc="post">12</ce:inf>Mg<ce:inf loc="post">17</ce:inf>, which restricted the grain growth of Mg.</ce:para>
+<ce:para view="all">Although grain growth took place in the processing after milling, the crystallite size of the specimens is still in the nanometer range. The reason is mainly due to the presence of the homogeneously distributed unsoluble Ti particles in the Mg matrix, which inhibited the growth of the Mg grains. When mobile grain boundaries begin to incorporate the fine Ti dispersoids and Al<ce:inf loc="post">12</ce:inf>Mg<ce:inf loc="post">17</ce:inf>, the boundary area between grains changes. The total boundary area arising from the location of a second-phase particle at grain boundaries is less than that which arises if the particle is located elsewhere in the matrix phase <ce:cross-ref refid="bib9">[9]</ce:cross-ref>. If the grain boundary breaks away from the particle, there will be a significant increase in the overall interfacial area in the system arising from the fact that the particle is no longer part of the grain boundary. Hence, dispersed particles have a pinning influence on the migration of the grain boundaries.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.2</ce:label>
+<ce:section-title>Mechanical properties</ce:section-title>
+<ce:para view="all">Tensile test shows an extremely high elongation after milling at room temperature. Such a behaviour has also been observed in other types of Mg alloys having superplasticity behaviour at relatively high temperatures <ce:cross-refs refid="bib1 bib10 bib11">[1,10,11]</ce:cross-refs>. The tensile stress continuously decreases after yielding, which can be attributed to the occurrence of geometrical softening when the angle between the loading direction and the slip direction changes. Palumbo et al. <ce:cross-ref refid="bib12">[12]</ce:cross-ref> have suggested that triple junctions in nanostructured materials have important features: the triple junction volume fraction has a greater grain size dependence than the grain boundary volume fraction. It was found that the increase of the triple junction volume enhances the bulk ductility in polycrystalline materials leading to softening <ce:cross-ref refid="bib13">[13]</ce:cross-ref>.</ce:para>
+<ce:para view="all">The extremely high ductility of the milled specimens is shown in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor> with the highest ductility of 41.7% for the Mg–5% Al–10% Ti specimens after 20<ce:hsp sp="0.25"></ce:hsp>h of milling. When the milling duration is increased to 40<ce:hsp sp="0.25"></ce:hsp>h, the ductility of the specimen decreased to 12.4%, which is still much higher than the value of 2.6% obtained from the specimen without milling.</ce:para>
+<ce:para view="all">Since Mg has a h.c.p. structure with a <ce:italic>c</ce:italic>/<ce:italic>a</ce:italic> ratio of about 1.624, only three slip systems {0<ce:hsp sp="0.25"></ce:hsp>0<ce:hsp sp="0.25"></ce:hsp>0<ce:hsp sp="0.25"></ce:hsp>1}<mml:math altimg="si3.gif" overflow="scroll">
+<mml:mrow>
+<mml:mo>〈</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>2</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mo>〉</mml:mo>
+</mml:mrow>
+</mml:math> are available at room temperature. Due to the low symmetry and few slip systems, twin deformation in Mg becomes the main deformation route. Therefore, the maximum plastic deformation is limited by the ability of twin at the <mml:math altimg="si4.gif" overflow="scroll">
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mn>2</mml:mn>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math> plane along the <mml:math altimg="si5.gif" overflow="scroll">
+<mml:mrow>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mo stretchy="false">]</mml:mo>
+</mml:mrow>
+</mml:math> direction. The magnitude, <ce:italic>S</ce:italic>, due to a twin deformation of a Mg single crystal is given by<ce:display>
+<ce:formula id="eq1">
+<ce:label>(2)</ce:label>
+<mml:math altimg="si6.gif" overflow="scroll">
+<mml:mrow>
+<mml:mi>S</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mfenced close="]" open="[">
+<mml:mrow>
+<mml:msup>
+<mml:mrow>
+<mml:mfenced close=")" open="(">
+<mml:mrow>
+<mml:mfrac>
+<mml:mi>c</mml:mi>
+<mml:mi>a</mml:mi>
+</mml:mfrac>
+</mml:mrow>
+</mml:mfenced>
+</mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:msup>
+<mml:mo>−</mml:mo>
+<mml:mn>3</mml:mn>
+</mml:mrow>
+</mml:mfenced>
+<mml:mfrac>
+<mml:mrow>
+<mml:msqrt>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+<mml:mi>a</mml:mi>
+</mml:mrow>
+</mml:msqrt>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+<mml:mi>c</mml:mi>
+</mml:mrow>
+</mml:mfrac>
+<mml:mo>=</mml:mo>
+<mml:mn>12.9</mml:mn>
+<mml:mo>%</mml:mo>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>If sliding along the grain boundaries is not considered at the initial stage of plastic deformation, the maximum deformation due to twinning according to Eq. <ce:cross-ref refid="eq1">(2)</ce:cross-ref> is less than 12.9%. Since all specimens were extruded with a relatively large extrusion ratio, the Mg crystals were aligned in a preferred orientation, forming a <mml:math altimg="si7.gif" overflow="scroll">
+<mml:mrow>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mo stretchy="false">]</mml:mo>
+</mml:mrow>
+</mml:math> texture which strongly affects the plastic flow behaviour during tensile testing. The angle between the twinning and the fibre direction of the extruded rod is 28.08° so that the maximum deformation of twinning along <mml:math altimg="si8.gif" overflow="scroll">
+<mml:mrow>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mo stretchy="false">]</mml:mo>
+</mml:mrow>
+</mml:math> is 11.3%. With further deformation, twinning is no longer the deformation mechanism since the maximum deformation associated with twinning has been achieved. Further loading can therefore either lead to failure of the structure or to the elastic deformation of the twinned structure if the strength of grain boundaries is high enough. If the twinned structure can withstand further loading, it can further be deformed by grain boundary sliding and rotation.</ce:para>
+<ce:para view="all">Besides the mechanisms discussed above, several investigations have demonstrated that fine and hard particle dispersion can improve the ductility of brittle intermetallics. The mechanism of ductilization can be explained as follows: by introducing small particulates, rapid work-hardening on different active slip planes can be homogenized and slip is transferred to parallel but inactive planes before pile-up formation nucleates a crack <ce:cross-refs refid="bib14 bib15">[14,15]</ce:cross-refs>. In most cases, the ductility of reinforced materials has been shown to decrease, mainly due to poor bonding and interfacial reactions between the ceramic reinforcement and the matrix. It is expected that the bonding between the two metals, Ti and Mg, will be excellent. Depending on the material system, the above mechanism can improve or lower the ductility, as shown by Martin <ce:cross-ref refid="bib16">[16]</ce:cross-ref>. For nanostructured solid, the above mechanism may not substantially contribute to the ductility due to limited number of dislocations existing in the grains.</ce:para>
+<ce:para view="all">Furthermore, as Ti is more ductile than Mg and as it is homogeneously distributed in the Mg matrix, the ductile Ti can more easily accommodate the geometrical changes of Mg during tensile testing without fracture. This can be an important mechanism in the toughening of Mg.</ce:para>
+<ce:para view="all">The room temperature tensile properties of Mg–10.3% Ti and Mg–5% Al–10.3% Ti as a function of milling time are shown in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="fig5"></ce:float-anchor>. For the Mg–Ti system, longer milling times result in an improvement of 0.2% YS and UTS with 72% and 28% respectively after 20<ce:hsp sp="0.25"></ce:hsp>h of milling and 69% and 19% respectively after 40<ce:hsp sp="0.25"></ce:hsp>h of milling. It is known that the yield stress, <ce:italic>σ</ce:italic>
+<ce:inf loc="post">y</ce:inf>, of a nanocrystalline alloy is a function of its grain size, <ce:italic>d</ce:italic>, which can be interpreted in terms of the Hall-Petch relationship <mml:math altimg="si9.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>σ</mml:mi>
+<mml:mtext>y</mml:mtext>
+</mml:msub>
+<mml:mo>=</mml:mo>
+<mml:msub>
+<mml:mi>σ</mml:mi>
+<mml:mn>0</mml:mn>
+</mml:msub>
+<mml:mo>+</mml:mo>
+<mml:mi>K</mml:mi>
+<mml:msup>
+<mml:mi>d</mml:mi>
+<mml:mrow>
+<mml:mo>−</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mo>/</mml:mo>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msup>
+</mml:mrow>
+</mml:math>, where <ce:italic>σ</ce:italic>
+<ce:inf loc="post">0</ce:inf> is the lattice friction stress and <ce:italic>K</ce:italic> is constant. It is obvious that the decrease in grain size can lead to an increase in yield stress. Based on the present measurements, <ce:italic>K</ce:italic> and <ce:italic>σ</ce:italic>
+<ce:inf loc="post">0</ce:inf> have been calculated to be 2254<ce:hsp sp="0.25"></ce:hsp>MPa/nm<ce:sup loc="post">−1/2</ce:sup> and 32<ce:hsp sp="0.25"></ce:hsp>MPa, respectively. It is interesting to note that a high ductility is also obtained after ball milling, particularly after 20<ce:hsp sp="0.25"></ce:hsp>h of milling. From these results, it can be concluded that a milling time of 20<ce:hsp sp="0.25"></ce:hsp>h is an effective improvement of the strength and the ductility of Mg–Ti system. The mechanical properties significantly increase after a short milling time.</ce:para>
+<ce:para view="all">However, for the Mg–5% Al–10.3% Ti alloy, the as-blended and extruded material shows the highest strength: the 0.2% YS and UTS of this material were found to decrease with decreasing grain size, indicating that <ce:italic>K</ce:italic> has a negative value when Al was introduced to the Mg–10.3% Ti system. <ce:italic>K</ce:italic> is estimated to be −1319<ce:hsp sp="0.25"></ce:hsp>MPa/nm<ce:sup loc="post">−1/2</ce:sup> and <ce:italic>σ</ce:italic>
+<ce:inf loc="post">0</ce:inf>, 234<ce:hsp sp="0.25"></ce:hsp>MPa. The change in <ce:italic>K</ce:italic> has been reported by several researchers <ce:cross-refs refid="bib17 bib18 bib19 bib20">[17–20]</ce:cross-refs>. Since the Hall-Petch relation is derived from the concept of dislocation pile ups, pile ups cannot be formed when the grain size is less than a critical value of the dislocation spacing, <ce:italic>l</ce:italic>
+<ce:inf loc="post">c</ce:inf>, in the pile up given by <ce:cross-ref refid="bib21">[21]</ce:cross-ref>
+<ce:display>
+<ce:formula>
+<ce:label>(3)</ce:label>
+<mml:math altimg="si10.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>l</mml:mi>
+<mml:mtext>c</mml:mtext>
+</mml:msub>
+<mml:mo>=</mml:mo>
+<mml:mfrac>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+<mml:mi>G</mml:mi>
+<mml:mi>b</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mi>π</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mo>−</mml:mo>
+<mml:mi>v</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mi>H</mml:mi>
+</mml:mrow>
+</mml:mfrac>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>where <ce:italic>H</ce:italic> is the hardness.</ce:para>
+<ce:para view="all">During solid solution strengthening, the strain energy is induced by the distortion of the parent phase when some of the Mg atoms are replaced by Al atoms. The amount of stored strain energy is dependent on the fraction of Al. When the grain size is very small, the energy induced by the alloying addition as well as Al<ce:inf loc="post">12</ce:inf>Mg<ce:inf loc="post">17</ce:inf> second phase cannot be stored in the Mg parent phase, leading to a relaxation of the internal energy and hence decrease in strength. This explains why the constant, <ce:italic>K</ce:italic>, for Mg–5% Al–10.3% Ti shows a negative value.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">
+<ce:list>
+<ce:list-item>
+<ce:label>1</ce:label>
+<ce:para view="all">Mg-based metal–metal composites reinforced by Ti metal particles have been synthesised via mechanical milling. Ti particles were homogeneously distributed throughout the matrix.</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>2</ce:label>
+<ce:para view="all">For Mg–10.3% Ti specimens, the tensile strength and ductility were found to increase after milling. A milling time of 20<ce:hsp sp="0.25"></ce:hsp>h is most effective for the improvement of strength and ductility.</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>3</ce:label>
+<ce:para view="all">The strength of Mg–5% Al–10.3% Ti specimens decreases after milling. Ductility can be markedly improved, particularly after 20<ce:hsp sp="0.25"></ce:hsp>h of milling. The decrease in strength can be due to strain relaxation when the grain size is very small.</ce:para>
+</ce:list-item>
+</ce:list>
+</ce:para>
+</ce:section>
+</ce:sections>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Watanabe</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Mukai</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scripta Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>40</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>477</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.C.</ce:given-name>
+<ce:surname>Koch</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.D.</ce:given-name>
+<ce:surname>Whittenberg</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Intermetallics</sb:maintitle>
+</sb:title>
+<sb:volume-nr>4</sb:volume-nr>
+</sb:series>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>339</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Suryanarayana</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Int. Mater. Rev.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>40</sb:volume-nr>
+</sb:series>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>41</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.S.</ce:given-name>
+<ce:surname>William</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>217</sb:volume-nr>
+</sb:series>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>181</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<ce:other-ref>
+<ce:textref>J. Schroder, K.U. Kainer, B.L. Mordike, in: T.W. Clyne, P.J. Withers (Eds.), Advances in Structural Materials, Proceedings of the Second International Conference on Advanced Materials and Processes, EURO MAT91, vol. 2, The Institute of Materials, 1991, p. 81.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.S.</ce:given-name>
+<ce:surname>Benjamin</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metall. Trans.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>1</sb:volume-nr>
+</sb:series>
+<sb:date>1970</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2943</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.F.</ce:given-name>
+<ce:surname>Singer</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.C.</ce:given-name>
+<ce:surname>Oliver</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.D.</ce:given-name>
+<ce:surname>Nix</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metall. Trans.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>11A</sb:volume-nr>
+</sb:series>
+<sb:date>1980</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1895</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Jangg</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Slesar</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Besterci</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Durisin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Schroder</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Powder Metall. Int.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>21</sb:volume-nr>
+</sb:series>
+<sb:date>1989</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>25</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Zener</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Trans. Met. Soc. AIME</sb:maintitle>
+</sb:title>
+<sb:volume-nr>175</sb:volume-nr>
+</sb:series>
+<sb:date>1948</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>15</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Mabuchi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Ameyama</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Iwasaki</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Higashi</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>47</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2047</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Watanabe</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Mukai</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Mabuchi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Higashi</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scripta Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>41</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>209</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Palumbo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.J.</ce:given-name>
+<ce:surname>Thorpe</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.T.</ce:given-name>
+<ce:surname>Aust</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scripta Metall. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>24</sb:volume-nr>
+</sb:series>
+<sb:date>1990</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1347</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Palumbo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>U.</ce:given-name>
+<ce:surname>Erb</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.T.</ce:given-name>
+<ce:surname>Aust</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scripta Metall. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>24</sb:volume-nr>
+</sb:series>
+<sb:date>1990</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2347</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Lutjering</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Weissmann</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Metall.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>18</sb:volume-nr>
+</sb:series>
+<sb:date>1970</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>785</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.H.</ce:given-name>
+<ce:surname>Lewis</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.W.</ce:given-name>
+<ce:surname>Martin</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Metall.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>11</sb:volume-nr>
+</sb:series>
+<sb:date>1963</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1207</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib16">
+<ce:label>[16]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.W.</ce:given-name>
+<ce:surname>Martin</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Micromechanisms in Particle-hardened Alloys</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1980</sb:date>
+<sb:publisher>
+<sb:name>Cambridge University Press</sb:name>
+<sb:location>Cambridge, UK</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib17">
+<ce:label>[17]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.H.</ce:given-name>
+<ce:surname>Chokshi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Rosen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Karch</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Gleiter</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scripta Metall.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>23</sb:volume-nr>
+</sb:series>
+<sb:date>1989</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1679</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib18">
+<ce:label>[18]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Lu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.D.</ce:given-name>
+<ce:surname>Wei</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.T.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scripta Metall. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>24</sb:volume-nr>
+</sb:series>
+<sb:date>1990</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2319</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib19">
+<ce:label>[19]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>McMahon</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>U.</ce:given-name>
+<ce:surname>Erb</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Microstruct. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>17</sb:volume-nr>
+</sb:series>
+<sb:date>1989</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>447</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib20">
+<ce:label>[20]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Suryanarayana</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Mukhopadhyay</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.N.</ce:given-name>
+<ce:surname>Patankar</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.H.</ce:given-name>
+<ce:surname>Froes</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Mater. Res.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>7</sb:volume-nr>
+</sb:series>
+<sb:date>1992</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2114</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib21">
+<ce:label>[21]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>V.G.</ce:given-name>
+<ce:surname>Gryaznov</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.A.</ce:given-name>
+<ce:surname>Solov’ev</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.I.</ce:given-name>
+<ce:surname>Trusov</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scripta Metall. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>24</sb:volume-nr>
+</sb:series>
+<sb:date>1990</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1529</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

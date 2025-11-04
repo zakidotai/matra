@@ -1,0 +1,1356 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838805012600</prism:url><dc:identifier>doi:10.1016/j.jallcom.2005.07.051</dc:identifier><eid>1-s2.0-S0925838805012600</eid><prism:doi>10.1016/j.jallcom.2005.07.051</prism:doi><pii>S0925-8388(05)01260-0</pii><dc:title>Influence of Al contents on alpha-case formation of Ti–xAl alloys </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>415</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>93</prism:startingpage><prism:endingpage>98</prism:endingpage><prism:pagerange>93-98</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2006-05-18</prism:coverdate><prism:coverdisplaydate>18 May 2006</prism:coverdisplaydate><prism:copyright>Copyright © 2005 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Sung, Si-Young</dc:creator><dc:creator>Kim, Young-Jig</dc:creator><dc:description>
+                  Alpha-case (α-case) formations between Al2O3 mold and Ti–xAl alloys were investigated for the economic Ti–xAl alloys net-shape forming. The α-case formation reaction was examined in a plasma arc melting furnace. The α-case reactions between mold and Ti–xAl alloys were characterized by optical microscopy and a hardness tester. When the Al concentration of Ti–xAl alloys was more than 30at.%, there were no α-case formation reactions. For the clear examination of the phenomenon, its α-case formation mechanism was elucidated by an electron probe micro-analyzer, transmission electron microscopy, and thermodynamic calculations. The α-case was formed not only by interstitial oxygen elements but also by substitutional metallic elements dissolved from mold materials. Therefore, in the case of more than 30at.% Ti–xAl alloys, there were neither interstitial nor substitutional α-case formations since Ti–xAl alloys have both negligible solubility of oxygen and low activity in molten states.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Titanium aluminides</dcterms:subject><dcterms:subject>Investment casting</dcterms:subject><dcterms:subject>Alpha-case</dcterms:subject><dcterms:subject>Net-shape forming</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838805012600" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838805012600" rel="scidir"/></coredata><objects><object category="thumbnail" height="64" mimetype="image/gif" multimediatype="GIF image file" ref="si4" size="1788" type="ALTIMG" width="340">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012600-si4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="47" mimetype="image/gif" multimediatype="GIF image file" ref="si3" size="1678" type="ALTIMG" width="256">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012600-si3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="50" mimetype="image/gif" multimediatype="GIF image file" ref="si2" size="1531" type="ALTIMG" width="205">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012600-si2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="18" mimetype="image/gif" multimediatype="GIF image file" ref="si1" size="1128" type="ALTIMG" width="373">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012600-si1.gif?httpAccept=%2A%2F%2A</object><object category="standard" height="311" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="30356" type="IMAGE-DOWNSAMPLED" width="316">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012600-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="1367" type="IMAGE-THUMBNAIL" width="95">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012600-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="454" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="129764" type="IMAGE-DOWNSAMPLED" width="489">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012600-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="5094" type="IMAGE-THUMBNAIL" width="101">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012600-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="243" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="46347" type="IMAGE-DOWNSAMPLED" width="337">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012600-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="90" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="3323" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012600-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="433" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr5" size="60928" type="IMAGE-DOWNSAMPLED" width="441">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012600-gr5.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="2476" type="IMAGE-THUMBNAIL" width="95">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012600-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="537" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr6" size="36644" type="IMAGE-DOWNSAMPLED" width="307">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012600-gr6.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="1149" type="IMAGE-THUMBNAIL" width="53">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012600-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="368" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="91209" type="IMAGE-DOWNSAMPLED" width="468">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012600-gr4.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="5019" type="IMAGE-THUMBNAIL" width="119">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805012600-gr4.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>33748165253</scopus-id><scopus-eid>2-s2.0-33748165253</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/33748165253" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20050901">2005-09-01</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20050901">2005-09-01</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-03-29T07:36:02</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838805012600</xocs:eid>
+<xocs:pii-formatted>S0925-8388(05)01260-0</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805012600</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2005.07.051</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838806X02530</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.349087-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20060518</xocs:date-search-begin>
+<xocs:year-nav>2006</xocs:year-nav>
+<xocs:indexeddate epoch="1125532800">2005-09-01T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure body mmlmath affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>415</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>415</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 415, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>18</xocs:sort-order>
+<xocs:first-fp>93</xocs:first-fp>
+<xocs:last-lp>98</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>93</xocs:first-page>
+<xocs:last-page>98</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20060518</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>18 May 2006</xocs:cover-date-text>
+<xocs:cover-date-start>2006-05-18</xocs:cover-date-start>
+<xocs:cover-date-year>2006</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Metallurgy</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2005 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>INFLUENCEALCONTENTSALPHACASEFORMATIONTIXALALLOYS</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>SUNG</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>S</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Manufacturing of Ti–<ce:italic>x</ce:italic>Al alloys</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Evaluation of α-case formation</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>Reference</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1994</xocs:ref-pub-year>
+<xocs:ref-first-fp>30</xocs:ref-first-fp>
+<xocs:ref-last-lp>39</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>DONACHIE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>TITANIUMATECHNICALGUIDE</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>VENNILA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>24</xocs:ref-first-fp>
+<xocs:ref-last-lp>26</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>93</xocs:ref-first-fp>
+<xocs:ref-last-lp>98</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>LEYENS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>TITANIUMTITANIUMALLOYS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>BARTELS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>153</xocs:ref-first-fp>
+<xocs:ref-last-lp>162</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>NODA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>709</xocs:ref-first-fp>
+<xocs:ref-last-lp>713</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>GERLING</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>239</xocs:ref-first-fp>
+<xocs:ref-last-lp>247</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>HSIUNG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>1</xocs:ref-first-fp>
+<xocs:ref-last-lp>10</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>PETZOW</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1978</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>METALLOGRAPHICETCHING</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>CHASE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1985</xocs:ref-pub-year>
+<xocs:ref-first-fp>160</xocs:ref-first-fp>
+<xocs:ref-last-lp>1681</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>JANAFTHERMOCHEMICALTABLES</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>SUZUKI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>587</xocs:ref-first-fp>
+<xocs:ref-last-lp>604</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13">
+<xocs:ref-normalized-surname>WILLIAMS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>TRANSMISSIONELECTRONMICROSCOPY</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>LEPAGE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1991</xocs:ref-pub-year>
+<xocs:ref-first-fp>437</xocs:ref-first-fp>
+<xocs:ref-last-lp>439</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15">
+<xocs:ref-normalized-surname>MAEDA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>276</xocs:ref-first-fp>
+<xocs:ref-last-lp>280</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>SUNGX2006X93</xocs:refkey3>
+<xocs:refkey4lp>SUNGX2006X93X98</xocs:refkey4lp>
+<xocs:refkey4ai>SUNGX2006X93XS</xocs:refkey4ai>
+<xocs:refkey5>SUNGX2006X93X98XS</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(05)01260-0</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805012600</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838805012600</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2005.07.051</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-08T03:45:56.378626-04:00</xocs:timestamp>
+<xocs:cover-date-start>2006-05-18</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838805012600-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012600/MAIN/application/pdf/906e2e8735f4172b05844fffc679437c/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012600/MAIN/application/pdf/906e2e8735f4172b05844fffc679437c/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>413440</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838805012600-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012600/PREVIEW/image/png/707a2d6b81193717b6c102ecc72c354e/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012600/PREVIEW/image/png/707a2d6b81193717b6c102ecc72c354e/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>64372</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012600-si4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012600/STRIPIN/image/gif/e035ab2f3fb1cba3b9a39ab109f37d29/si4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012600/STRIPIN/image/gif/e035ab2f3fb1cba3b9a39ab109f37d29/si4.gif</xocs:ucs-locator>
+<xocs:file-basename>si4</xocs:file-basename>
+<xocs:filename>si4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1788</xocs:filesize>
+<xocs:pixel-height>64</xocs:pixel-height>
+<xocs:pixel-width>340</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012600-si3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012600/STRIPIN/image/gif/427e1a7e47d70ccc17655ca502990908/si3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012600/STRIPIN/image/gif/427e1a7e47d70ccc17655ca502990908/si3.gif</xocs:ucs-locator>
+<xocs:file-basename>si3</xocs:file-basename>
+<xocs:filename>si3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1678</xocs:filesize>
+<xocs:pixel-height>47</xocs:pixel-height>
+<xocs:pixel-width>256</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012600-si2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012600/STRIPIN/image/gif/f0a29a9ace258a42db568df1b5c6a837/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012600/STRIPIN/image/gif/f0a29a9ace258a42db568df1b5c6a837/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si2</xocs:file-basename>
+<xocs:filename>si2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1531</xocs:filesize>
+<xocs:pixel-height>50</xocs:pixel-height>
+<xocs:pixel-width>205</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012600-si1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012600/STRIPIN/image/gif/454c22087e8cb1c9a6489ed8ce77dec8/si1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012600/STRIPIN/image/gif/454c22087e8cb1c9a6489ed8ce77dec8/si1.gif</xocs:ucs-locator>
+<xocs:file-basename>si1</xocs:file-basename>
+<xocs:filename>si1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1128</xocs:filesize>
+<xocs:pixel-height>18</xocs:pixel-height>
+<xocs:pixel-width>373</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012600-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012600/gr1/DOWNSAMPLED/image/jpeg/5cdc7c360dd7e92d9d1b4c19eede7256/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012600/gr1/DOWNSAMPLED/image/jpeg/5cdc7c360dd7e92d9d1b4c19eede7256/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>30356</xocs:filesize>
+<xocs:pixel-height>311</xocs:pixel-height>
+<xocs:pixel-width>316</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012600-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012600/gr1/THUMBNAIL/image/gif/d0a7d9cb2e8f236f6c2ae2b869d6936b/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012600/gr1/THUMBNAIL/image/gif/d0a7d9cb2e8f236f6c2ae2b869d6936b/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1367</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>95</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012600-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012600/gr2/DOWNSAMPLED/image/jpeg/b9f9915ba862728ce5a4fb42d61332dc/gr2.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012600/gr2/DOWNSAMPLED/image/jpeg/b9f9915ba862728ce5a4fb42d61332dc/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>129764</xocs:filesize>
+<xocs:pixel-height>454</xocs:pixel-height>
+<xocs:pixel-width>489</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012600-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012600/gr2/THUMBNAIL/image/gif/b8e1ac0599283cf9a0c725014867f6d6/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012600/gr2/THUMBNAIL/image/gif/b8e1ac0599283cf9a0c725014867f6d6/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>5094</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>101</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012600-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012600/gr3/DOWNSAMPLED/image/jpeg/6fcd9cb749536b7f1cb9732da4e2d60e/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012600/gr3/DOWNSAMPLED/image/jpeg/6fcd9cb749536b7f1cb9732da4e2d60e/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>46347</xocs:filesize>
+<xocs:pixel-height>243</xocs:pixel-height>
+<xocs:pixel-width>337</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012600-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012600/gr3/THUMBNAIL/image/gif/e9654960ce70c23866cdf5a7ba7a970d/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012600/gr3/THUMBNAIL/image/gif/e9654960ce70c23866cdf5a7ba7a970d/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3323</xocs:filesize>
+<xocs:pixel-height>90</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012600-gr5.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012600/gr5/DOWNSAMPLED/image/jpeg/ec75d6e2704e14e6f4fd3d4603429259/gr5.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012600/gr5/DOWNSAMPLED/image/jpeg/ec75d6e2704e14e6f4fd3d4603429259/gr5.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>60928</xocs:filesize>
+<xocs:pixel-height>433</xocs:pixel-height>
+<xocs:pixel-width>441</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012600-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012600/gr5/THUMBNAIL/image/gif/40a0cfcc7f64e0baa6f88c68093aa389/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012600/gr5/THUMBNAIL/image/gif/40a0cfcc7f64e0baa6f88c68093aa389/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2476</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>95</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012600-gr6.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012600/gr6/DOWNSAMPLED/image/jpeg/96fb963d8cf93d578f59fe9631d7080c/gr6.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012600/gr6/DOWNSAMPLED/image/jpeg/96fb963d8cf93d578f59fe9631d7080c/gr6.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>36644</xocs:filesize>
+<xocs:pixel-height>537</xocs:pixel-height>
+<xocs:pixel-width>307</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012600-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012600/gr6/THUMBNAIL/image/gif/b902d6fdedb35b8e2c1233e5e6e6f7f2/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012600/gr6/THUMBNAIL/image/gif/b902d6fdedb35b8e2c1233e5e6e6f7f2/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1149</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>53</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012600-gr4.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012600/gr4/DOWNSAMPLED/image/jpeg/838e0129ff45cc3e41275a92bbfec483/gr4.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012600/gr4/DOWNSAMPLED/image/jpeg/838e0129ff45cc3e41275a92bbfec483/gr4.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>91209</xocs:filesize>
+<xocs:pixel-height>368</xocs:pixel-height>
+<xocs:pixel-width>468</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805012600-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805012600/gr4/THUMBNAIL/image/gif/7ff0250bc8f33da481e39bb7f4cf6a6f/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805012600/gr4/THUMBNAIL/image/gif/7ff0250bc8f33da481e39bb7f4cf6a6f/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>5019</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>119</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>13002</aid>
+<ce:pii>S0925-8388(05)01260-0</ce:pii>
+<ce:doi>10.1016/j.jallcom.2005.07.051</ce:doi>
+<ce:copyright type="full-transfer" year="2005">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Schematic diagram of drop casting procedure with a plasma arc melting furnace.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Photographs of metal–mold interfacial region of as-cast: (a) cp Ti, (b) Ti–10Al, (c) Ti–30Al, (d) Ti–40Al, (e) Ti–47Al, and (f) Ti–55<ce:hsp sp="0.25"></ce:hsp>at.% Al alloys poured into Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> mold.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Hardness profiles on the interfacial region of as-cast Ti–<ce:italic>x</ce:italic>Al alloys poured into Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> mold.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Comparison of elemental mapping images of O, Al, and Si in Ti castings into Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> mold and BEI image by EPMA.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Results of analytical transmission electron microscopy. (a) Cross-sectional bright field TEM image of the α-case region, (b) ring and spot patterns on the TEM image without C2 aperture, and (c) spot pattern on the TEM image was HCP phase in the [2ii0] beam direction.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Convergent beam electron diffraction analysis with primitive unit cell volume method. (a) The measured primitive unit cell volume, 61.08<ce:hsp sp="0.25"></ce:hsp>ang<ce:sup loc="post">3</ce:sup> (CL<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>521.4<ce:hsp sp="0.25"></ce:hsp>mm, <ce:italic>D</ce:italic>
+<ce:inf loc="post">1</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>D</ce:italic>
+<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>6.5<ce:hsp sp="0.25"></ce:hsp>mm, ANG<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>60°, CRAD<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>23<ce:hsp sp="0.25"></ce:hsp>mm, <ce:italic>λ</ce:italic>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>0.0251<ce:hsp sp="0.25"></ce:hsp>Å), and (b) EDS spot analysis result.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+</ce:floats>
+<ce:title>Influence of Al contents on alpha-case formation of Ti–<ce:italic>x</ce:italic>Al alloys</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>Si-Young</ce:given-name>
+<ce:surname>Sung</ce:surname>
+<ce:cross-ref refid="cor1">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>Young-Jig</ce:given-name>
+<ce:surname>Kim</ce:surname>
+</ce:author>
+<ce:affiliation>
+<ce:textfn>Department of Advanced Materials Engineering, Sungkyunkwan University, 300 Chunchun-dong, Jangan-gu, Suwon, Gyeonggi-do 440-746, South Korea</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>⁎</ce:label>
+<ce:text>Corresponding author. Tel.: +82 31 290 7380; fax: +82 31 290 7662.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="29" month="6" year="2005"></ce:date-received>
+<ce:date-revised day="22" month="7" year="2005"></ce:date-revised>
+<ce:date-accepted day="26" month="7" year="2005"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">Alpha-case (α-case) formations between Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> mold and Ti–<ce:italic>x</ce:italic>Al alloys were investigated for the economic Ti–<ce:italic>x</ce:italic>Al alloys net-shape forming. The α-case formation reaction was examined in a plasma arc melting furnace. The α-case reactions between mold and Ti–<ce:italic>x</ce:italic>Al alloys were characterized by optical microscopy and a hardness tester. When the Al concentration of Ti–<ce:italic>x</ce:italic>Al alloys was more than 30<ce:hsp sp="0.25"></ce:hsp>at.%, there were no α-case formation reactions. For the clear examination of the phenomenon, its α-case formation mechanism was elucidated by an electron probe micro-analyzer, transmission electron microscopy, and thermodynamic calculations. The α-case was formed not only by interstitial oxygen elements but also by substitutional metallic elements dissolved from mold materials. Therefore, in the case of more than 30<ce:hsp sp="0.25"></ce:hsp>at.% Ti–<ce:italic>x</ce:italic>Al alloys, there were neither interstitial nor substitutional α-case formations since Ti–<ce:italic>x</ce:italic>Al alloys have both negligible solubility of oxygen and low activity in molten states.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Titanium aluminides</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Investment casting</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Alpha-case</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Net-shape forming</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Ti<ce:inf loc="post">3</ce:inf>Al and TiAl are of great importance ranging from sports equipment to the power generation and chemical processing industries, automotive, and aerospace engineering <ce:cross-refs refid="bib1 bib2">[1,2]</ce:cross-refs>. A large number of researchers have been trying Ti–<ce:italic>x</ce:italic>Al alloys in an attempt to combine most of their advantages, such as high specific yield strength, good structural stability, and excellent resistance against oxidation and corrosion <ce:cross-refs refid="bib3 bib4">[3,4]</ce:cross-refs>. However, the practical utilization of Ti–<ce:italic>x</ce:italic>Al alloys have been limited since their forming processes are much more laborious than one may think, which is mainly due to the fact that because in solid solution Ti combines with carbon, nitrogen, and especially oxygen, Ti–<ce:italic>x</ce:italic>Al alloys are constrained to be melted in inert environments or in a vacuum <ce:cross-ref refid="bib5">[5]</ce:cross-ref>. In the early days, the development of Ti–<ce:italic>x</ce:italic>Al alloys had been focused mainly on the defense system technologies, thus their performance was a more crucial factor than the cost. However, the cost problem cannot be overlooked any more, especially in the field of automotive engineering. For the intended applications, Ti–<ce:italic>x</ce:italic>Al alloys forming processes should incorporate forging, powder metallurgy (PM), and casting. In the case of forging, it is difficult to apply the hot forging process to Ti–<ce:italic>x</ce:italic>Al alloys due to their inherent poor deformability and extremely high machining losses <ce:cross-refs refid="bib6 bib7">[6,7]</ce:cross-refs>. Besides, PM process has been limited by the freedom of size and shape, and soundness <ce:cross-refs refid="bib8 bib9">[8,9]</ce:cross-refs>. In Ti–<ce:italic>x</ce:italic>Al alloys casting, the unacceptable surface reaction layer called ‘alpha-case (α-case)’ occurs due to the high reactivity of Ti–<ce:italic>x</ce:italic>Al alloys in molten states <ce:cross-ref refid="bib5">[5]</ce:cross-ref>. This α-case on the Ti–<ce:italic>x</ce:italic>Al alloys castings must be removed by chemical milling since the α-case makes it difficult to machine them and can lead to crack initiation and propagation. Furthermore, the chemical milling process causes environmental pollution, the lowering of dimensional accuracy and a high cost problem. In order to avoid the α-case problem, expensive ceramics, such as CaO, ZrO<ce:inf loc="post">2</ce:inf>, and Y<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> have been adopted as mold materials since the standard free energy changes of the formation of their oxides are more negative than TiO<ce:inf loc="post">2</ce:inf>. Regardless of thermodynamic approaches, the α-case formation reaction still remains to be eliminated in the chemical milling processes. Therefore, the exact α-case formation mechanism must be examined for practical applications of Ti–<ce:italic>x</ce:italic>Al alloys.</ce:para>
+<ce:para view="all">In this study, to examine the effects of Al contents on the α-case formation, we varied Al contents from 0 to 55<ce:hsp sp="0.25"></ce:hsp>at.%. Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> was selected for the mold material because the standard free energy changes of the formation of the oxide are more negative than TiO<ce:inf loc="post">2</ce:inf>. In addition, Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> features suitable strength, permeability, and collapse-ability, which can ensure dimensional accuracy of castings.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental</ce:section-title>
+<ce:section view="all">
+<ce:label>2.1</ce:label>
+<ce:section-title>Manufacturing of Ti–<ce:italic>x</ce:italic>Al alloys</ce:section-title>
+<ce:para view="all">In order to prevent any contamination from refractory crucibles, Ti–<ce:italic>x</ce:italic>Al alloys were prepared using a non-consumable tungsten electrode plasma-arc melting (PAM) furnace equipped with a water-cooled copper crucible. Ti–<ce:italic>x</ce:italic>Al alloys compositions were pure Ti, Ti–10Al, Ti–30Al, Ti–40Al, Ti–47Al, and Ti–55<ce:hsp sp="0.25"></ce:hsp>at.% Al. The atmosphere in the PAM was controlled in the range 1.33<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>10<ce:sup loc="post">−1</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>Pa by a rotary pump. In order to minimize the evaporation loss of Al in the Ti–<ce:italic>x</ce:italic>Al alloys, high purity argon was backfilled to the pressure of 4.9<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>10<ce:sup loc="post">3</ce:sup>
+<ce:hsp sp="0.25"></ce:hsp>Pa. To ensure the homogeneity of Ti–<ce:italic>x</ce:italic>Al alloys, the melting process was repeated five times.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2.2</ce:label>
+<ce:section-title>Evaluation of α-case formation</ce:section-title>
+<ce:para view="all">The wax patterns for the examination of α-case reactions were made by pouring molten wax into a simple cylindrical silicon rubber mold (Ø 15<ce:hsp sp="0.25"></ce:hsp>mm<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>60<ce:hsp sp="0.25"></ce:hsp>mm). Subsequently, the patterns were inspected and dressed to eliminate any possible imperfection or contamination, and coated with Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> slurry. The Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> shell molds were dried at a controlled temperature (298<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>1<ce:hsp sp="0.25"></ce:hsp>K) and a relative humidity (40<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>1%) for 4<ce:hsp sp="0.25"></ce:hsp>h. Dipping, stuccoing, and drying procedures were repeated three times. After the primary layer coating, the patterns were coated with the back-up layers by the chamotte. To prevent shell cracks, the dewaxing process of the shell mold was carried out at around 423<ce:hsp sp="0.25"></ce:hsp>K and 0.5<ce:hsp sp="0.25"></ce:hsp>MPa in a steam autoclave. Finally, the shell molds were cured at 1223<ce:hsp sp="0.25"></ce:hsp>K for 2<ce:hsp sp="0.25"></ce:hsp>h.</ce:para>
+<ce:para view="all">The α-case formation reaction was examined in the PAM furnace with drop casting procedure as shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor>. After the drop casting, Ti castings were taken off the molds, sectioned, ground, polished, and etched using a Keller solution <ce:cross-ref refid="bib10">[10]</ce:cross-ref>. The microstructure in the α-case region of the castings was observed by Olympus PME3 microscopy, and its hardness was measured using a Mitutoyo MVK-H2 microvickers hardness tester with 100<ce:hsp sp="0.25"></ce:hsp>g load and 50<ce:hsp sp="0.25"></ce:hsp>μm intervals. For a closer examination of the α-case formation, the analysis of the elements distribution at the α-case region was performed by SHIMADZU EPMA 1600, and the phase structures of the reaction products were identified by JEOL JEM-3011 TEM.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:para view="all">
+<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor> shows the surface microstructures of the Ti–<ce:italic>x</ce:italic>Al alloys investment castings with different Al concentrations poured into Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> mold. When the Al concentrations of Ti–<ce:italic>x</ce:italic>Al alloys were below 30<ce:hsp sp="0.25"></ce:hsp>at.%, there were distinct α-case reaction layers on the interface. On the other hand, in the case of more than 30<ce:hsp sp="0.25"></ce:hsp>at.%, no α-case reaction occurred. These optical microstructure results of Ti–<ce:italic>x</ce:italic>Al alloys were in good accordance with the hardness profiles shown in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor>. In the Ti–<ce:italic>x</ce:italic>Al alloys casting, the α-case is generally known to be developed by the interstitials, such as carbon, nitrogen, and especially oxygen dissolved from mold materials. When the molten Ti (around 2000<ce:hsp sp="0.25"></ce:hsp>K) is poured into the Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> investment mold, and if the α-case results between Ti and the interstitial oxygen, the reaction can be described as follows:<ce:display>
+<ce:formula>
+<ce:label>(1)</ce:label>
+<mml:math altimg="si1.gif" overflow="scroll">
+<mml:mrow>
+<mml:mtext>Ti</mml:mtext>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>l</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>+</mml:mo>
+<mml:msub>
+<mml:mtext>O</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>g</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>=</mml:mo>
+<mml:mtext>Ti</mml:mtext>
+<mml:msub>
+<mml:mtext>O</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>s</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>,</mml:mo>
+<mml:mi> </mml:mi>
+<mml:mi mathvariant="normal">Δ</mml:mi>
+<mml:msub>
+<mml:mi>G</mml:mi>
+<mml:mrow>
+<mml:mtext>Ti</mml:mtext>
+<mml:msub>
+<mml:mtext>O</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+</mml:mrow>
+</mml:msub>
+<mml:mo>°</mml:mo>
+<mml:mo>=</mml:mo>
+<mml:mo>−</mml:mo>
+<mml:mn>585.830</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mtext>kJ</mml:mtext>
+<mml:mo>/</mml:mo>
+<mml:mtext>mol</mml:mtext>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>
+<ce:display>
+<ce:formula>
+<ce:label>(2)</ce:label>
+<mml:math altimg="si2.gif" overflow="scroll">
+<mml:mrow>
+<mml:mstyle scriptlevel="1">
+<mml:mfrac>
+<mml:mn>4</mml:mn>
+<mml:mn>3</mml:mn>
+</mml:mfrac>
+</mml:mstyle>
+<mml:mtext>Al</mml:mtext>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>l</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>+</mml:mo>
+<mml:msub>
+<mml:mtext>O</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>g</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>=</mml:mo>
+<mml:mstyle scriptlevel="1">
+<mml:mfrac>
+<mml:mn>2</mml:mn>
+<mml:mn>3</mml:mn>
+</mml:mfrac>
+</mml:mstyle>
+<mml:mtext>A</mml:mtext>
+<mml:msub>
+<mml:mtext>l</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:msub>
+<mml:mtext>O</mml:mtext>
+<mml:mn>3</mml:mn>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>s</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>,</mml:mo>
+<mml:mi> </mml:mi>
+<mml:mi mathvariant="normal">Δ</mml:mi>
+<mml:msub>
+<mml:mi>G</mml:mi>
+<mml:mrow>
+<mml:mtext>A</mml:mtext>
+<mml:msub>
+<mml:mtext>l</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:msub>
+<mml:mtext>O</mml:mtext>
+<mml:mn>3</mml:mn>
+</mml:msub>
+</mml:mrow>
+</mml:msub>
+<mml:mo>°</mml:mo>
+<mml:mo>=</mml:mo>
+<mml:mo>−</mml:mo>
+<mml:mn>1028.367</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mtext>kJ</mml:mtext>
+<mml:mo>/</mml:mo>
+<mml:mtext>mol</mml:mtext>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>
+<ce:display>
+<ce:formula id="eq1">
+<ce:label>(3)</ce:label>
+<mml:math altimg="si3.gif" overflow="scroll">
+<mml:mrow>
+<mml:mtext>Ti</mml:mtext>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>l</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>+</mml:mo>
+<mml:mstyle scriptlevel="1">
+<mml:mfrac>
+<mml:mn>2</mml:mn>
+<mml:mn>3</mml:mn>
+</mml:mfrac>
+</mml:mstyle>
+<mml:mtext>A</mml:mtext>
+<mml:msub>
+<mml:mtext>l</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:msub>
+<mml:mtext>O</mml:mtext>
+<mml:mn>3</mml:mn>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>s</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>=</mml:mo>
+<mml:mtext>Ti</mml:mtext>
+<mml:msub>
+<mml:mtext>O</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>s</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>+</mml:mo>
+<mml:mstyle scriptlevel="1">
+<mml:mfrac>
+<mml:mn>4</mml:mn>
+<mml:mn>3</mml:mn>
+</mml:mfrac>
+</mml:mstyle>
+<mml:mtext>Al</mml:mtext>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>l</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>,</mml:mo>
+<mml:mi> </mml:mi>
+<mml:mi mathvariant="normal">Δ</mml:mi>
+<mml:mi>G</mml:mi>
+<mml:mo>°</mml:mo>
+<mml:mo>=</mml:mo>
+<mml:mo>+</mml:mo>
+<mml:mn>99.748</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mtext>kJ</mml:mtext>
+<mml:mo>/</mml:mo>
+<mml:mtext>mol </mml:mtext>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>The calculations above utilized the joint army–navy–air force (JANAF) thermochemical tables <ce:cross-ref refid="bib11">[11]</ce:cross-ref>. According to Eq. <ce:cross-ref refid="eq1">(3)</ce:cross-ref>, the formation of the α-case by interstitial oxygen cannot occur spontaneously. Therefore, the reason why the α-case reactions were generated below 30<ce:hsp sp="0.25"></ce:hsp>at.% Al concentration of Ti–<ce:italic>x</ce:italic>Al alloys cannot be explained by the conventional α-case formation mechanism.</ce:para>
+<ce:para view="all">For the clear examination of the α-case formation mechanism, the distribution of the elements on the α-case region of pure Ti castings and its chemical composition were investigated by EPMA elemental mapping as shown in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor>. In the α-case region, the oxygen element was uniformly distributed. Also, the Si element originating from the colloidal silica binder was scarcely detected on the surface. However, despite the pure Ti, a concentrated Al contamination layer about 30<ce:hsp sp="0.25"></ce:hsp>μm thick was detected on the interface. Until recently, the effect of substitutional metallic element dissolved from mold materials have been considered to be negligibly small <ce:cross-ref refid="bib12">[12]</ce:cross-ref>. However, <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref> indicates that the effect of metallic elements cannot be overlooked any longer.</ce:para>
+<ce:para view="all">The phase identification of the detected Al element will surely be the very core of α-case formation mechanism. Accordingly, the phases of the detected Al on the interface were examined by transmission electron microscopy (TEM). In order to observe α-case region precisely, the Ti castings specimen was ground from inside to the surface until about 30<ce:hsp sp="0.25"></ce:hsp>μm and final thinning was carried out using ion milling. <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>(a)<ce:float-anchor refid="fig5"></ce:float-anchor> is the cross-sectional bright field TEM image of the α-case region. To examine the kind of phases which were composed in the α-case region, C2 aperture was temporarily removed. <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>(b) shows ring and spot patterns on the TEM image without C2 aperture. The definite contrast of the continuous ring pattern could not be found on the TEM image since the ring pattern was extremely small size polycrystalline TiO<ce:inf loc="post">2</ce:inf> phase. In the case of spot patterns in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>(c), the contrast could be distinguished on the TEM image. And the indexed pattern was hexagonal close-packed (HCP) phase in the [2ii0] beam direction as shown <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>(c). The convergent beam electron diffraction (CBED) analysis was carried out for the verification of the phase of spot patterns by the primitive cell volume method. Primitive cell volume is characteristic material constant. So, the phase of interest can be easily identified by comparing the measured primitive cell volume of an unknown phase using CBED pattern with the known values of the possible phases <ce:cross-refs refid="bib13 bib14">[13,14]</ce:cross-refs>. This method is accurate (error range &lt;10%) for the phase identification. In the CBED pattern where zero order Laue zone (ZOLZ) disk and high order Laue zone (HOLZ) ring are present, by measuring the distance of ZOLZ disk from the transmitted beam to the diffracted beam (<ce:italic>D</ce:italic>
+<ce:inf loc="post">1</ce:inf>, <ce:italic>D</ce:italic>
+<ce:inf loc="post">2</ce:inf>), an internal angle (ANG) between <ce:italic>D</ce:italic>
+<ce:inf loc="post">1</ce:inf> and <ce:italic>D</ce:italic>
+<ce:inf loc="post">2</ce:inf>, and HOLZ ring's radius (CRAD), the primitive cell volume of unknown phase can be easily determined using Eq. <ce:cross-ref refid="eq2">(4)</ce:cross-ref>. Camera length (CL) was calibrated with an Au standard sample at 200<ce:hsp sp="0.25"></ce:hsp>keV.<ce:display>
+<ce:formula id="eq2">
+<ce:label>(4)</ce:label>
+<mml:math altimg="si4.gif" overflow="scroll">
+<mml:mrow>
+<mml:mtext>Cell</mml:mtext>
+<mml:mi>   </mml:mi>
+<mml:mtext>volume</mml:mtext>
+<mml:mo>=</mml:mo>
+<mml:mfrac>
+<mml:mrow>
+<mml:mtext>C</mml:mtext>
+<mml:msup>
+<mml:mtext>L</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msup>
+<mml:msup>
+<mml:mi>λ</mml:mi>
+<mml:mn>3</mml:mn>
+</mml:msup>
+</mml:mrow>
+<mml:mrow>
+<mml:msub>
+<mml:mi>D</mml:mi>
+<mml:mn>1</mml:mn>
+</mml:msub>
+<mml:msub>
+<mml:mi>D</mml:mi>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:mi> </mml:mi>
+<mml:mi>sin</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>ANG</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mo>−</mml:mo>
+<mml:mi>cos</mml:mi>
+<mml:mo>{</mml:mo>
+<mml:msup>
+<mml:mrow>
+<mml:mi>tan</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mo>−</mml:mo>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+</mml:msup>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>CRAD</mml:mtext>
+<mml:mo>/</mml:mo>
+<mml:mtext>CL</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>}</mml:mo>
+<mml:mo stretchy="false">]</mml:mo>
+</mml:mrow>
+</mml:mfrac>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>
+<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>(a)<ce:float-anchor refid="fig6"></ce:float-anchor> shows the CBED pattern of the HCP phase. There are two possible HCP phases of Ti and Ti<ce:inf loc="post">3</ce:inf>Al. The measured primitive cell volume (61.08<ce:hsp sp="0.25"></ce:hsp>ang<ce:sup loc="post">3</ce:sup>, CL<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>521.4<ce:hsp sp="0.25"></ce:hsp>mm, <ce:italic>D</ce:italic>
+<ce:inf loc="post">1</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>D</ce:italic>
+<ce:inf loc="post">2</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>6.5<ce:hsp sp="0.25"></ce:hsp>mm, ANG<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>60°, CRAD<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>23<ce:hsp sp="0.25"></ce:hsp>mm) from CBED pattern corresponded to the theoretic value of Ti<ce:inf loc="post">3</ce:inf>Al (66.60<ce:hsp sp="0.25"></ce:hsp>ang<ce:sup loc="post">3</ce:sup>). This phase identification was in accordance with EDS spot analysis as shown in <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>(b). The phase of the detected Al from EPMA mapping was Ti<ce:inf loc="post">3</ce:inf>Al phase. From the results of the microstructure, hardness profile, EPMA mapping, and TEM, it can be concluded that the α-case is not wholly TiO<ce:inf loc="post">2</ce:inf>, but TiO<ce:inf loc="post">2</ce:inf> and Ti<ce:inf loc="post">3</ce:inf>Al between Ti and Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> mold. We suggest, therefore, that the α-case is formed not only by interstitial oxygen element but also by substitutional metallic elements dissolved from mold materials.</ce:para>
+<ce:para view="all">Accordingly, the reason why no α-case reactions were generated in Ti–<ce:italic>x</ce:italic>Al alloys of more than 30<ce:hsp sp="0.25"></ce:hsp>at.% Al can be explained by our newly established α-case formation mechanism as below. First, more than 30<ce:hsp sp="0.25"></ce:hsp>at.% Ti–<ce:italic>x</ce:italic>Al alloys have lower melting points and negligibly low solubility. Thus, Ti–<ce:italic>x</ce:italic>Al alloys hardly form the interstitial α-case reaction since the incorporation of oxygen atoms into the Ti–<ce:italic>x</ce:italic>Al alloys castings are minimized. Secondly, the activity of molten Ti–<ce:italic>x</ce:italic>Al alloys of over 30<ce:hsp sp="0.25"></ce:hsp>at.% was reduced significantly to nearly one-tenth of that of molten pure Ti <ce:cross-ref refid="bib15">[15]</ce:cross-ref>. Moreover, the Ti–<ce:italic>x</ce:italic>Al alloys themselves were substitutional α-case reaction products. In the same manner, Ti–<ce:italic>x</ce:italic>Al alloys of more than 30<ce:hsp sp="0.25"></ce:hsp>at.% Al rarely form the substitutional α-case reaction.</ce:para>
+<ce:para view="all">Therefore, by the newly established α-case formation mechanism as above, it can be confirmed that the investment casting process is an economic net-shape technology for Ti–<ce:italic>x</ce:italic>Al alloys of more than 30<ce:hsp sp="0.25"></ce:hsp>at.% Al with an economic Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> mold. Moreover, the clear and economic investment casting of below 30<ce:hsp sp="0.25"></ce:hsp>at.% Al concentration Ti–<ce:italic>x</ce:italic>Al alloys can be possible with α-case free mold materials based on Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>. In our study, α-case free mold materials were verified in the bases of ZrSiO<ce:inf loc="post">4</ce:inf>, ZrO<ce:inf loc="post">2</ce:inf>, and MgO as well as in Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> base. Their detailed compositions and manufacturing processes will be further publicized in no distant future.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusion</ce:section-title>
+<ce:para view="all">The reason why the α-case reactions were generated below 30<ce:hsp sp="0.25"></ce:hsp>at.% Al concentration of Ti–<ce:italic>x</ce:italic>Al alloys, and reversely why in the case of more than 30<ce:hsp sp="0.25"></ce:hsp>at.% Al concentration there were no α-case reactions cannot be explained by the conventional α-case formation mechanism. However, by combining the information derived from the microstructure, hardness profile, EPMA mapping, and TEM, we suggest that the α-case is formed not only by interstitial oxygen element but also by substitutional metallic elements dissolved from mold materials. Accordingly, the investment casting can be a net-shape forming for Ti–<ce:italic>x</ce:italic>Al alloys of more than 30<ce:hsp sp="0.25"></ce:hsp>at.% Al with an economic Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> mold since there are neither interstitial nor substitutional α-case formations. Our newly established α-case formation mechanism will surely lead to a variety of significant applications of the α-case free Ti–<ce:italic>x</ce:italic>Al alloys casting.</ce:para>
+</ce:section>
+</ce:sections>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>Reference</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.W.</ce:given-name>
+<ce:surname>Kim</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>JOM</sb:maintitle>
+</sb:title>
+<sb:volume-nr>48</sb:volume-nr>
+</sb:series>
+<sb:date>1994</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>30</sb:first-page>
+<sb:last-page>39</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.J.</ce:given-name>
+<ce:surname>Donachie</ce:surname>
+<ce:suffix>Jr.</ce:suffix>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Titanium a Technical Guide</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:edition>second ed.</sb:edition>
+<sb:date>2000</sb:date>
+<sb:publisher>
+<sb:name>ASM International</sb:name>
+<sb:location>Ohio</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.S.</ce:given-name>
+<ce:surname>Vennila</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.E.</ce:given-name>
+<ce:surname>Porchelvi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.M.F.</ce:given-name>
+<ce:surname>Joy</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.K.J.</ce:given-name>
+<ce:surname>Arun</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.V.</ce:given-name>
+<ce:surname>Jaya</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>392</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>24</sb:first-page>
+<sb:last-page>26</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.N.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Yang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>364</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>93</sb:first-page>
+<sb:last-page>98</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Leyens</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Peters</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Titanium and Titanium Alloys</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>2003</sb:date>
+<sb:publisher>
+<sb:name>Wiley-VCH</sb:name>
+<sb:location>Weinheim</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Bartels</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Kestler</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Clemens</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>329–331</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>153</sb:first-page>
+<sb:last-page>162</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Noda</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Intermetallics</sb:maintitle>
+</sb:title>
+<sb:volume-nr>6</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>709</sb:first-page>
+<sb:last-page>713</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Gerling</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Leitgeb</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.P.</ce:given-name>
+<ce:surname>Schimansky</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>252</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>239</sb:first-page>
+<sb:last-page>247</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>L.M.</ce:given-name>
+<ce:surname>Hsiung</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.G.</ce:given-name>
+<ce:surname>Nieh</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>364</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1</sb:first-page>
+<sb:last-page>10</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Petzow</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Metallographic Etching</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1978</sb:date>
+<sb:publisher>
+<sb:name>ASM</sb:name>
+<sb:location>Ohio</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.W.</ce:given-name>
+<ce:surname>Chase</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.A.</ce:given-name>
+<ce:surname>Davies</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.J.</ce:given-name>
+<ce:surname>Downey</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.J.</ce:given-name>
+<ce:surname>Frurip</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.A.</ce:given-name>
+<ce:surname>McDonald</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.N.</ce:given-name>
+<ce:surname>Syverud</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>D.R.</ce:given-name>
+<ce:surname>Lide</ce:surname>
+<ce:suffix>Jr.</ce:suffix>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>JANAF Thermochemical tables</sb:maintitle>
+</sb:title>
+<sb:date>1985</sb:date>
+<sb:publisher>
+<sb:name>American Chemical Society and American Institute of Physics for the National Bureau of Standards</sb:name>
+<sb:location>New York</sb:location>
+</sb:publisher>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>160</sb:first-page>
+<sb:last-page>1681</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Suzuki</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metall. Mater. Int.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>7</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>587</sb:first-page>
+<sb:last-page>604</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.B.</ce:given-name>
+<ce:surname>Williams</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.B.</ce:given-name>
+<ce:surname>Carter</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Transmission Electron Microscopy</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1996</sb:date>
+<sb:publisher>
+<sb:name>Plenum Press</sb:name>
+<sb:location>New York</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Le Page</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.A.</ce:given-name>
+<ce:surname>Downham</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Electron Microsc. Tech.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>18</sb:volume-nr>
+</sb:series>
+<sb:date>1991</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>437</sb:first-page>
+<sb:last-page>439</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Maeda</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Kiwake</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Shibuya</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Ikeda</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>239</sb:volume-nr>
+</sb:series>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>276</sb:first-page>
+<sb:last-page>280</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

@@ -1,0 +1,2305 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838804012150</prism:url><dc:identifier>doi:10.1016/j.jallcom.2004.08.086</dc:identifier><eid>1-s2.0-S0925838804012150</eid><prism:doi>10.1016/j.jallcom.2004.08.086</prism:doi><pii>S0925-8388(04)01215-0</pii><dc:title>Characterisation of corrosion products formed on PVD in situ mechanically worked Mg–Ti alloys </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>392</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>127</prism:startingpage><prism:endingpage>141</prism:endingpage><prism:pagerange>127-141</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2005-04-19</prism:coverdate><prism:coverdisplaydate>19 April 2005</prism:coverdisplaydate><prism:copyright>Copyright © 2004 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Mitchell, T.</dc:creator><dc:creator>Diplas, S.</dc:creator><dc:creator>Tsakiropoulos, P.</dc:creator><dc:description>
+                  Mg–Ti alloys with up to 46wt.% Ti in solid solution, produced by PVD processing with in situ mechanical working, were subjected to immersion tests in 3wt.% NaCl solutions. The corrosion resistance of the alloys, assessed with gravimetric tests, was inferior to that of PVD pure Mg. Corrosive attack was favoured at the sites of mechanical working owing to the different microstructure and the higher Mg concentration at these areas. The corrosive attack resulted in exfoliation of the alloys. The corrosion product contained a mixture of MgO, TiO2 and some Mg(OH)2 at the outermost surface. Although Ti participation in the corrosion products was enhanced, its beneficial affect was overshadowed by the defective nature of the deposits. The surface chemistry of the alloys was studied using the Auger parameter.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Corrosion products</dcterms:subject><dcterms:subject>PVD</dcterms:subject><dcterms:subject>Mg–Ti alloys</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838804012150" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838804012150" rel="scidir"/></coredata><objects><object category="thumbnail" height="15" mimetype="image/gif" multimediatype="GIF image file" ref="si10" size="369" type="ALTIMG" width="68">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-si10.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="15" mimetype="image/gif" multimediatype="GIF image file" ref="si9" size="369" type="ALTIMG" width="68">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-si9.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si8" size="1626" type="ALTIMG" width="724">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-si8.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si7" size="1536" type="ALTIMG" width="723">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-si7.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si6" size="664" type="ALTIMG" width="151">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-si6.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="49" mimetype="image/gif" multimediatype="GIF image file" ref="si5" size="2561" type="ALTIMG" width="724">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-si5.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="47" mimetype="image/gif" multimediatype="GIF image file" ref="si4" size="2494" type="ALTIMG" width="724">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-si4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si3" size="1042" type="ALTIMG" width="724">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-si3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="18" mimetype="image/gif" multimediatype="GIF image file" ref="si2" size="1151" type="ALTIMG" width="725">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-si2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="18" mimetype="image/gif" multimediatype="GIF image file" ref="si1" size="1153" type="ALTIMG" width="725">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-si1.gif?httpAccept=%2A%2F%2A</object><object category="standard" height="614" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr6" size="180908" type="IMAGE-DOWNSAMPLED" width="565">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-gr6.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="2978" type="IMAGE-THUMBNAIL" width="86">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="717" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="102195" type="IMAGE-DOWNSAMPLED" width="492">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="1834" type="IMAGE-THUMBNAIL" width="64">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="336" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="59157" type="IMAGE-DOWNSAMPLED" width="540">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="78" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="3074" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="562" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr12" size="48476" type="IMAGE-DOWNSAMPLED" width="376">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-gr12.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr12" size="1024" type="IMAGE-THUMBNAIL" width="62">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-gr12.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="233" mimetype="image/gif" multimediatype="GIF image file" ref="gr8" size="4204" type="IMAGE-DOWNSAMPLED" width="376">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-gr8.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="77" mimetype="image/gif" multimediatype="GIF image file" ref="gr8" size="1044" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-gr8.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="202" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="6005" type="IMAGE-DOWNSAMPLED" width="376">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-gr7.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="67" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="1291" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-gr7.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="950" mimetype="image/gif" multimediatype="GIF image file" ref="gr10" size="34920" type="IMAGE-DOWNSAMPLED" width="691">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-gr10.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr10" size="1014" type="IMAGE-THUMBNAIL" width="68">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-gr10.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="641" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr5" size="182466" type="IMAGE-DOWNSAMPLED" width="593">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-gr5.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="2651" type="IMAGE-THUMBNAIL" width="86">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="471" mimetype="image/gif" multimediatype="GIF image file" ref="gr9" size="14996" type="IMAGE-DOWNSAMPLED" width="497">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-gr9.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr9" size="1371" type="IMAGE-THUMBNAIL" width="98">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-gr9.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="488" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="141095" type="IMAGE-DOWNSAMPLED" width="605">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-gr4.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="3273" type="IMAGE-THUMBNAIL" width="116">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="646" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="85084" type="IMAGE-DOWNSAMPLED" width="541">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="1725" type="IMAGE-THUMBNAIL" width="78">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="829" mimetype="image/gif" multimediatype="GIF image file" ref="gr14" size="28640" type="IMAGE-DOWNSAMPLED" width="537">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-gr14.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr14" size="1087" type="IMAGE-THUMBNAIL" width="60">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-gr14.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="665" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr13" size="98376" type="IMAGE-DOWNSAMPLED" width="667">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-gr13.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr13" size="1678" type="IMAGE-THUMBNAIL" width="94">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-gr13.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="929" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr11" size="98663" type="IMAGE-DOWNSAMPLED" width="534">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-gr11.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="92" mimetype="image/gif" multimediatype="GIF image file" ref="gr11" size="1028" type="IMAGE-THUMBNAIL" width="53">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838804012150-gr11.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>15544376439</scopus-id><scopus-eid>2-s2.0-15544376439</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/15544376439" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20041111">2004-11-11</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20041111">2004-11-11</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-04-19T04:56:56</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838804012150</xocs:eid>
+<xocs:pii-formatted>S0925-8388(04)01215-0</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838804012150</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2004.08.086</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838805X01359</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.346355-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20050419</xocs:date-search-begin>
+<xocs:year-nav>2005</xocs:year-nav>
+<xocs:indexeddate epoch="1100131200">2004-11-11T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast footnotes primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>392</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>392</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 392, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>25</xocs:sort-order>
+<xocs:first-fp>127</xocs:first-fp>
+<xocs:last-lp>141</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>127</xocs:first-page>
+<xocs:last-page>141</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20050419</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>19 April 2005</xocs:cover-date-text>
+<xocs:cover-date-start>2005-04-19</xocs:cover-date-start>
+<xocs:cover-date-year>2005</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Metallurgy</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2004 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>CHARACTERISATIONCORROSIONPRODUCTSFORMEDPVDINSITUMECHANICALLYWORKEDMGTIALLOYS</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>MITCHELL</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>T</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Bulk characterisation</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Surface characterisation</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Discussion</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Bulk studies</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Surface studies</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4.3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Characterisation of the corroded surfaces via Auger parameter analysis</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>5</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>BAGNALL</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>299</xocs:ref-first-fp>
+<xocs:ref-last-lp>312</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>PROCEEDINGSTHIRDINTERNATIONALMGCONFERENCE</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>DODD</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>271</xocs:ref-first-fp>
+<xocs:ref-last-lp>284</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>PROCEEDINGSTHIRDINTERNATIONALMGCONFERENCE</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>DIPLAS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>689</xocs:ref-first-fp>
+<xocs:ref-last-lp>698</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>DIPLAS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>699</xocs:ref-first-fp>
+<xocs:ref-last-lp>711</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>DIPLAS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>1359</xocs:ref-first-fp>
+<xocs:ref-last-lp>1372</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>DIPLAS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>1373</xocs:ref-first-fp>
+<xocs:ref-last-lp>1378</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>BALDWIN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>937</xocs:ref-first-fp>
+<xocs:ref-last-lp>943</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>BALDWIN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>727</xocs:ref-first-fp>
+<xocs:ref-last-lp>737</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>PROCEEDINGSTHIRDINTERNATIONALMGCONFERENCE</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>BALIGA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>627</xocs:ref-first-fp>
+<xocs:ref-last-lp>636</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>PROCEEDINGSTHIRDINTERNATIONALMGCONFERENCE</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>BALIGA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1991</xocs:ref-pub-year>
+<xocs:ref-first-fp>1029</xocs:ref-first-fp>
+<xocs:ref-last-lp>1032</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11"></xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>BRIGGS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1992</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>PRACTICALSURFACEANALYSISVOL1</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13">
+<xocs:ref-normalized-surname>WAGNER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1979</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>HANDBOOKXRAYPHOTOELECTRONSPECTROSCOPY</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>BALIGA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1989</xocs:ref-pub-year>
+<xocs:ref-first-fp>231</xocs:ref-first-fp>
+<xocs:ref-last-lp>250</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15">
+<xocs:ref-normalized-surname>POURBAIX</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1966</xocs:ref-pub-year>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+<xocs:ref-normalized-srctitle>ATLASELECTROCHEMICALEQUILIBRIAINAQUEOUSSOLUTIONS</xocs:ref-normalized-srctitle>
+</xocs:ref-info>
+<xocs:ref-info refid="bib16">
+<xocs:ref-normalized-surname>WAGNER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1975</xocs:ref-pub-year>
+<xocs:ref-first-fp>291</xocs:ref-first-fp>
+<xocs:ref-last-lp>306</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib17">
+<xocs:ref-normalized-surname>GAARENSTROOM</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1977</xocs:ref-pub-year>
+<xocs:ref-first-fp>500</xocs:ref-first-fp>
+<xocs:ref-last-lp>508</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib18">
+<xocs:ref-normalized-surname>EVANS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1992</xocs:ref-pub-year>
+<xocs:ref-first-fp>1513</xocs:ref-first-fp>
+<xocs:ref-last-lp>1519</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib19">
+<xocs:ref-normalized-surname>DIPLAS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>937</xocs:ref-first-fp>
+<xocs:ref-last-lp>946</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib20">
+<xocs:ref-normalized-surname>MORETTI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>95</xocs:ref-first-fp>
+<xocs:ref-last-lp>144</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>MITCHELLX2005X127</xocs:refkey3>
+<xocs:refkey4lp>MITCHELLX2005X127X141</xocs:refkey4lp>
+<xocs:refkey4ai>MITCHELLX2005X127XT</xocs:refkey4ai>
+<xocs:refkey5>MITCHELLX2005X127X141XT</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(04)01215-0</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838804012150</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838804012150</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2004.08.086</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-10T20:44:05.459738-04:00</xocs:timestamp>
+<xocs:cover-date-start>2005-04-19</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/MAIN/application/pdf/39b184429bdc0d83997ed1b641604521/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/MAIN/application/pdf/39b184429bdc0d83997ed1b641604521/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>1421257</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>15</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/PREVIEW/image/png/40da3f4e45e1110203ef2d6d2cd5a14b/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/PREVIEW/image/png/40da3f4e45e1110203ef2d6d2cd5a14b/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>61405</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-si10.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/STRIPIN/image/gif/6d92faab0dcc320b679b659aca005543/si10.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/STRIPIN/image/gif/6d92faab0dcc320b679b659aca005543/si10.gif</xocs:ucs-locator>
+<xocs:file-basename>si10</xocs:file-basename>
+<xocs:filename>si10.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>369</xocs:filesize>
+<xocs:pixel-height>15</xocs:pixel-height>
+<xocs:pixel-width>68</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-si9.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/STRIPIN/image/gif/6d92faab0dcc320b679b659aca005543/si10.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/STRIPIN/image/gif/6d92faab0dcc320b679b659aca005543/si10.gif</xocs:ucs-locator>
+<xocs:file-basename>si9</xocs:file-basename>
+<xocs:filename>si9.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>369</xocs:filesize>
+<xocs:pixel-height>15</xocs:pixel-height>
+<xocs:pixel-width>68</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-si8.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/STRIPIN/image/gif/bdbd311dc0ac060712d2489e42af5c7b/si8.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/STRIPIN/image/gif/bdbd311dc0ac060712d2489e42af5c7b/si8.gif</xocs:ucs-locator>
+<xocs:file-basename>si8</xocs:file-basename>
+<xocs:filename>si8.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1626</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>724</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-si7.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/STRIPIN/image/gif/92ea2d0181a69ae8d97e47d38d430d3d/si7.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/STRIPIN/image/gif/92ea2d0181a69ae8d97e47d38d430d3d/si7.gif</xocs:ucs-locator>
+<xocs:file-basename>si7</xocs:file-basename>
+<xocs:filename>si7.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1536</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>723</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-si6.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/STRIPIN/image/gif/cd8648e715ecdb85e2fca9e60302b911/si6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/STRIPIN/image/gif/cd8648e715ecdb85e2fca9e60302b911/si6.gif</xocs:ucs-locator>
+<xocs:file-basename>si6</xocs:file-basename>
+<xocs:filename>si6.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>664</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>151</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-si5.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/STRIPIN/image/gif/73e34a116db2790f81adfca19f73afa6/si5.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/STRIPIN/image/gif/73e34a116db2790f81adfca19f73afa6/si5.gif</xocs:ucs-locator>
+<xocs:file-basename>si5</xocs:file-basename>
+<xocs:filename>si5.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>2561</xocs:filesize>
+<xocs:pixel-height>49</xocs:pixel-height>
+<xocs:pixel-width>724</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-si4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/STRIPIN/image/gif/c276c16c1d98de59fdb2b8a924322532/si4.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/STRIPIN/image/gif/c276c16c1d98de59fdb2b8a924322532/si4.gif</xocs:ucs-locator>
+<xocs:file-basename>si4</xocs:file-basename>
+<xocs:filename>si4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>2494</xocs:filesize>
+<xocs:pixel-height>47</xocs:pixel-height>
+<xocs:pixel-width>724</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-si3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/STRIPIN/image/gif/5d14fa5e4bb9f0c72cc2c977055244c4/si3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/STRIPIN/image/gif/5d14fa5e4bb9f0c72cc2c977055244c4/si3.gif</xocs:ucs-locator>
+<xocs:file-basename>si3</xocs:file-basename>
+<xocs:filename>si3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1042</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>724</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-si2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/STRIPIN/image/gif/1231bd93dde6e1812a153e32cf6f55a4/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/STRIPIN/image/gif/1231bd93dde6e1812a153e32cf6f55a4/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si2</xocs:file-basename>
+<xocs:filename>si2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1151</xocs:filesize>
+<xocs:pixel-height>18</xocs:pixel-height>
+<xocs:pixel-width>725</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-si1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/STRIPIN/image/gif/cf8cfba7360563d40acfd71dd40dd6b1/si1.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/STRIPIN/image/gif/cf8cfba7360563d40acfd71dd40dd6b1/si1.gif</xocs:ucs-locator>
+<xocs:file-basename>si1</xocs:file-basename>
+<xocs:filename>si1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1153</xocs:filesize>
+<xocs:pixel-height>18</xocs:pixel-height>
+<xocs:pixel-width>725</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-gr6.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/gr6/DOWNSAMPLED/image/jpeg/4c6a873f1ae7aa737451580df6585475/gr6.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/gr6/DOWNSAMPLED/image/jpeg/4c6a873f1ae7aa737451580df6585475/gr6.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>180908</xocs:filesize>
+<xocs:pixel-height>614</xocs:pixel-height>
+<xocs:pixel-width>565</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/gr6/THUMBNAIL/image/gif/b0eef041414e547f073d03ff61e25796/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/gr6/THUMBNAIL/image/gif/b0eef041414e547f073d03ff61e25796/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2978</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>86</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/gr3/DOWNSAMPLED/image/jpeg/a07fbad9991fd0e131db4cc2a1012d34/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/gr3/DOWNSAMPLED/image/jpeg/a07fbad9991fd0e131db4cc2a1012d34/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>102195</xocs:filesize>
+<xocs:pixel-height>717</xocs:pixel-height>
+<xocs:pixel-width>492</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/gr3/THUMBNAIL/image/gif/360dbc5e0ad6e7c03e21ba3b2effa183/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/gr3/THUMBNAIL/image/gif/360dbc5e0ad6e7c03e21ba3b2effa183/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1834</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>64</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/gr2/DOWNSAMPLED/image/jpeg/ac4c646a90fb16cd9b8cb7299c9dcd4b/gr2.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/gr2/DOWNSAMPLED/image/jpeg/ac4c646a90fb16cd9b8cb7299c9dcd4b/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>59157</xocs:filesize>
+<xocs:pixel-height>336</xocs:pixel-height>
+<xocs:pixel-width>540</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/gr2/THUMBNAIL/image/gif/c7604f9d9752cba9c9036bb81c63150a/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/gr2/THUMBNAIL/image/gif/c7604f9d9752cba9c9036bb81c63150a/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3074</xocs:filesize>
+<xocs:pixel-height>78</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-gr12.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/gr12/DOWNSAMPLED/image/jpeg/1ca869351916667e6329a6da046b0cf7/gr12.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/gr12/DOWNSAMPLED/image/jpeg/1ca869351916667e6329a6da046b0cf7/gr12.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr12</xocs:file-basename>
+<xocs:filename>gr12.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>48476</xocs:filesize>
+<xocs:pixel-height>562</xocs:pixel-height>
+<xocs:pixel-width>376</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-gr12.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/gr12/THUMBNAIL/image/gif/6a006ab904ec35b6ddedc5c125fc78bb/gr12.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/gr12/THUMBNAIL/image/gif/6a006ab904ec35b6ddedc5c125fc78bb/gr12.sml</xocs:ucs-locator>
+<xocs:file-basename>gr12</xocs:file-basename>
+<xocs:filename>gr12.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1024</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>62</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-gr8.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/gr8/DOWNSAMPLED/image/gif/d5f7b807b074eb3a9c30533dcbc6d868/gr8.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/gr8/DOWNSAMPLED/image/gif/d5f7b807b074eb3a9c30533dcbc6d868/gr8.gif</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>4204</xocs:filesize>
+<xocs:pixel-height>233</xocs:pixel-height>
+<xocs:pixel-width>376</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-gr8.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/gr8/THUMBNAIL/image/gif/402d2c0fa940bb0d948cf22aa15d824a/gr8.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/gr8/THUMBNAIL/image/gif/402d2c0fa940bb0d948cf22aa15d824a/gr8.sml</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1044</xocs:filesize>
+<xocs:pixel-height>77</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-gr7.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/gr7/DOWNSAMPLED/image/gif/bf4ac1464d510c54e34ebe0a86c5f937/gr7.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/gr7/DOWNSAMPLED/image/gif/bf4ac1464d510c54e34ebe0a86c5f937/gr7.gif</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>6005</xocs:filesize>
+<xocs:pixel-height>202</xocs:pixel-height>
+<xocs:pixel-width>376</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-gr7.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/gr7/THUMBNAIL/image/gif/1a5d47aaf79579e3090885a1283e063f/gr7.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/gr7/THUMBNAIL/image/gif/1a5d47aaf79579e3090885a1283e063f/gr7.sml</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1291</xocs:filesize>
+<xocs:pixel-height>67</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-gr10.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/gr10/DOWNSAMPLED/image/gif/46b1a6a77d6087f93b0732a955beb3d0/gr10.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/gr10/DOWNSAMPLED/image/gif/46b1a6a77d6087f93b0732a955beb3d0/gr10.gif</xocs:ucs-locator>
+<xocs:file-basename>gr10</xocs:file-basename>
+<xocs:filename>gr10.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>34920</xocs:filesize>
+<xocs:pixel-height>950</xocs:pixel-height>
+<xocs:pixel-width>691</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-gr10.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/gr10/THUMBNAIL/image/gif/7d354abca4c84a3bfad7b41ff3939504/gr10.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/gr10/THUMBNAIL/image/gif/7d354abca4c84a3bfad7b41ff3939504/gr10.sml</xocs:ucs-locator>
+<xocs:file-basename>gr10</xocs:file-basename>
+<xocs:filename>gr10.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1014</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>68</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-gr5.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/gr5/DOWNSAMPLED/image/jpeg/be36eab21f02b622c0a22dd7368f27f6/gr5.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/gr5/DOWNSAMPLED/image/jpeg/be36eab21f02b622c0a22dd7368f27f6/gr5.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>182466</xocs:filesize>
+<xocs:pixel-height>641</xocs:pixel-height>
+<xocs:pixel-width>593</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/gr5/THUMBNAIL/image/gif/cfc59b8e0ff3f70937614650af4d572d/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/gr5/THUMBNAIL/image/gif/cfc59b8e0ff3f70937614650af4d572d/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2651</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>86</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-gr9.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/gr9/DOWNSAMPLED/image/gif/2d50fe5d1f16b5ca8566fa2a9e5918bd/gr9.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/gr9/DOWNSAMPLED/image/gif/2d50fe5d1f16b5ca8566fa2a9e5918bd/gr9.gif</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>14996</xocs:filesize>
+<xocs:pixel-height>471</xocs:pixel-height>
+<xocs:pixel-width>497</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-gr9.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/gr9/THUMBNAIL/image/gif/bc9b9eab325cbe408eccfec990aa3c78/gr9.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/gr9/THUMBNAIL/image/gif/bc9b9eab325cbe408eccfec990aa3c78/gr9.sml</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1371</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>98</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-gr4.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/gr4/DOWNSAMPLED/image/jpeg/41bf51513fce7e9dc08f4047d6c291e8/gr4.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/gr4/DOWNSAMPLED/image/jpeg/41bf51513fce7e9dc08f4047d6c291e8/gr4.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>141095</xocs:filesize>
+<xocs:pixel-height>488</xocs:pixel-height>
+<xocs:pixel-width>605</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/gr4/THUMBNAIL/image/gif/ba8a24df3aabb51a1a47ab4208fa4335/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/gr4/THUMBNAIL/image/gif/ba8a24df3aabb51a1a47ab4208fa4335/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3273</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>116</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/gr1/DOWNSAMPLED/image/jpeg/d39bb5d075a0d24cf28a6a6154549a31/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/gr1/DOWNSAMPLED/image/jpeg/d39bb5d075a0d24cf28a6a6154549a31/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>85084</xocs:filesize>
+<xocs:pixel-height>646</xocs:pixel-height>
+<xocs:pixel-width>541</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/gr1/THUMBNAIL/image/gif/ba55786015d7bc94c86c1f33b2f73356/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/gr1/THUMBNAIL/image/gif/ba55786015d7bc94c86c1f33b2f73356/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1725</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>78</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-gr14.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/gr14/DOWNSAMPLED/image/gif/8883e1156e8204d3895270bb35849472/gr14.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/gr14/DOWNSAMPLED/image/gif/8883e1156e8204d3895270bb35849472/gr14.gif</xocs:ucs-locator>
+<xocs:file-basename>gr14</xocs:file-basename>
+<xocs:filename>gr14.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>28640</xocs:filesize>
+<xocs:pixel-height>829</xocs:pixel-height>
+<xocs:pixel-width>537</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-gr14.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/gr14/THUMBNAIL/image/gif/8c06db657eb95a27c55f024bdd5f415f/gr14.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/gr14/THUMBNAIL/image/gif/8c06db657eb95a27c55f024bdd5f415f/gr14.sml</xocs:ucs-locator>
+<xocs:file-basename>gr14</xocs:file-basename>
+<xocs:filename>gr14.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1087</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>60</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-gr13.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/gr13/DOWNSAMPLED/image/jpeg/88b8001d54e09bb46edd95a55c66402a/gr13.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/gr13/DOWNSAMPLED/image/jpeg/88b8001d54e09bb46edd95a55c66402a/gr13.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr13</xocs:file-basename>
+<xocs:filename>gr13.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>98376</xocs:filesize>
+<xocs:pixel-height>665</xocs:pixel-height>
+<xocs:pixel-width>667</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-gr13.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/gr13/THUMBNAIL/image/gif/ddfaefc89d1410b58f1de733327a88cd/gr13.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/gr13/THUMBNAIL/image/gif/ddfaefc89d1410b58f1de733327a88cd/gr13.sml</xocs:ucs-locator>
+<xocs:file-basename>gr13</xocs:file-basename>
+<xocs:filename>gr13.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1678</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>94</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-gr11.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/gr11/DOWNSAMPLED/image/jpeg/e5302c6fe48477f2efc9ecb1d3781bbc/gr11.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/gr11/DOWNSAMPLED/image/jpeg/e5302c6fe48477f2efc9ecb1d3781bbc/gr11.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr11</xocs:file-basename>
+<xocs:filename>gr11.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>98663</xocs:filesize>
+<xocs:pixel-height>929</xocs:pixel-height>
+<xocs:pixel-width>534</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838804012150-gr11.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838804012150/gr11/THUMBNAIL/image/gif/9d1f00796423622659771e4b15e7f03d/gr11.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838804012150/gr11/THUMBNAIL/image/gif/9d1f00796423622659771e4b15e7f03d/gr11.sml</xocs:ucs-locator>
+<xocs:file-basename>gr11</xocs:file-basename>
+<xocs:filename>gr11.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1028</xocs:filesize>
+<xocs:pixel-height>92</xocs:pixel-height>
+<xocs:pixel-width>53</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>11699</aid>
+<ce:pii>S0925-8388(04)01215-0</ce:pii>
+<ce:doi>10.1016/j.jallcom.2004.08.086</ce:doi>
+<ce:copyright type="full-transfer" year="2004">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Planar (a) and cross-sectional ((b) and (c)) backscattered electron images of PVD Mg–Ti alloys after 7 days immersion in 3<ce:hsp sp="0.25"></ce:hsp>wt.% NaCl.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">(a) Backscattered electron images of exfoliated corrosion products from the Mg–8<ce:hsp sp="0.25"></ce:hsp>wt.% Ti alloy. (b) A larger fragment already splitting into smaller fragments by exfoliation along the flail lines. The uncorroded areas in the fragments can be seen in (a).</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">TEM micrographs of Mg–8<ce:hsp sp="0.25"></ce:hsp>wt.% Ti alloy after immersion for 7 days in 3<ce:hsp sp="0.25"></ce:hsp>wt.% NaCl: (a) preferential attack of certain areas; (b) interface between the corrosion product and the alloy.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">EDX maps of the Mg–8<ce:hsp sp="0.25"></ce:hsp>wt.% Ti alloy after 7 days immersion in 3<ce:hsp sp="0.25"></ce:hsp>wt.% NaCl. The analysis region was taken across the alloy/corrosion product interface. Contamination by silicon was attributed to specimen preparation.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">EELS of the Mg–8<ce:hsp sp="0.25"></ce:hsp>wt.% Ti alloy after 7 days immersion in 3<ce:hsp sp="0.25"></ce:hsp>wt.% NaCl. The analysis area includes a corrosion product/alloy interface.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">EELS of the Mg–46<ce:hsp sp="0.25"></ce:hsp>wt.% Ti alloy after 7 days immersion in 3<ce:hsp sp="0.25"></ce:hsp>wt.% NaCl. The corrosion product is almost homogeneous with a slight variation in Ti and has a needle-like morphology, as seen in the bright field image.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+<ce:figure id="fig7">
+<ce:label>Fig. 7</ce:label>
+<ce:caption>
+<ce:simple-para view="all">X-ray diffractogram of the Mg–8<ce:hsp sp="0.25"></ce:hsp>wt.% Ti alloy after immersion in 3<ce:hsp sp="0.25"></ce:hsp>wt.% NaCl for 7 days: (1) MgO; (2) Mg; (3) Mg(OH)<ce:inf loc="post">2</ce:inf>; (4) Mg; (5) Mg; (6) Mg; (7) Mg(OH)<ce:inf loc="post">2</ce:inf>; (8) Mg; (9) Mg(OH)<ce:inf loc="post">2</ce:inf>; (10) Mg; (11) Mg; (12) Mg(OH)<ce:inf loc="post">2</ce:inf>.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr7"></ce:link>
+</ce:figure>
+<ce:figure id="fig8">
+<ce:label>Fig. 8</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Variation of the pH of the 3<ce:hsp sp="0.25"></ce:hsp>wt.% NaCl solution during immersion tests of Mg–Ti alloys. The data for the Mg–46<ce:hsp sp="0.25"></ce:hsp>wt.% Ti is representative of all alloys with Ti content above 8<ce:hsp sp="0.25"></ce:hsp>wt.%.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr8"></ce:link>
+</ce:figure>
+<ce:figure id="fig9">
+<ce:label>Fig. 9</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Montage of XPS survey spectra of the Mg–40<ce:hsp sp="0.25"></ce:hsp>wt.% alloy after immersion in 3<ce:hsp sp="0.25"></ce:hsp>wt.% NaCl for 5<ce:hsp sp="0.25"></ce:hsp>min. Spectra representative of all alloys with Ti content above 8<ce:hsp sp="0.25"></ce:hsp>wt.%.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr9"></ce:link>
+</ce:figure>
+<ce:figure id="fig10">
+<ce:label>Fig. 10</ce:label>
+<ce:caption>
+<ce:simple-para view="all">(a) Montage of Mg KLL spectra of the Mg–8<ce:hsp sp="0.25"></ce:hsp>wt.% Ti alloy after Ar<ce:sup loc="post">+</ce:sup> sputtering (10<ce:hsp sp="0.25"></ce:hsp>min for each stage). (b) Montage of Mg KLL spectra of the Mg–26<ce:hsp sp="0.25"></ce:hsp>wt.% Ti alloy after Ar<ce:sup loc="post">+</ce:sup> sputtering (1<ce:hsp sp="0.25"></ce:hsp>min for each stage). (c) Montage of Mg KLL spectra of the Mg–46<ce:hsp sp="0.25"></ce:hsp>wt.% Ti alloy after Ar<ce:sup loc="post">+</ce:sup> sputtering (1<ce:hsp sp="0.25"></ce:hsp>min for each stage). Samples were studied after 5<ce:hsp sp="0.25"></ce:hsp>min immersion in 3<ce:hsp sp="0.25"></ce:hsp>wt.% NaCl.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr10"></ce:link>
+</ce:figure>
+<ce:figure id="fig11">
+<ce:label>Fig. 11</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Montage of Ti 2p spectra of the Mg–40<ce:hsp sp="0.25"></ce:hsp>wt.% Ti alloy corroded for 5<ce:hsp sp="0.25"></ce:hsp>min in 3<ce:hsp sp="0.25"></ce:hsp>wt.% NaCl. Spectra collected during Ar<ce:sup loc="post">+</ce:sup> sputtering with etching time (a) 1<ce:hsp sp="0.25"></ce:hsp>min and (b) 10<ce:hsp sp="0.25"></ce:hsp>min per stage.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr11"></ce:link>
+</ce:figure>
+<ce:figure id="fig12">
+<ce:label>Fig. 12</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Montage of O 1s spectra of the Mg–40<ce:hsp sp="0.25"></ce:hsp>wt.% Ti alloy corroded for 5<ce:hsp sp="0.25"></ce:hsp>min in 3<ce:hsp sp="0.25"></ce:hsp>wt.% NaCl. Spectra collected during Ar<ce:sup loc="post">+</ce:sup> sputtering with etching time 1<ce:hsp sp="0.25"></ce:hsp>min per stage.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr12"></ce:link>
+</ce:figure>
+<ce:figure id="fig13">
+<ce:label>Fig. 13</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Montage of Ti LMM spectra of the Mg–46<ce:hsp sp="0.25"></ce:hsp>wt.% Ti alloy corroded for 5<ce:hsp sp="0.25"></ce:hsp>min in 3<ce:hsp sp="0.25"></ce:hsp>wt.% NaCl. Spectra collected during Ar<ce:sup loc="post">+</ce:sup> sputtering with etching time 10<ce:hsp sp="0.25"></ce:hsp>min.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr13"></ce:link>
+</ce:figure>
+<ce:figure id="fig14">
+<ce:label>Fig. 14</ce:label>
+<ce:caption>
+<ce:simple-para view="all">(a) Mg KLL–1s Wagner plot showing lines of the final and initial state AP with slopes +1 and +3, respectively. The positions of Mg in the corrosion products of the Mg–46<ce:hsp sp="0.25"></ce:hsp>wt.% Ti alloy, as well as in MgO (literature value) and in Mg metal (both literature value and value from this study) are also shown. Figure representative of all alloys studied. (b) Ti LMM–2p Wagner plot showing lines of the final and initial state AP with slopes +1 and +3, respectively. The positions of Ti in the corrosion products of the Mg–46<ce:hsp sp="0.25"></ce:hsp>wt.% Ti alloy, as well as in TiO<ce:inf loc="post">2</ce:inf> (literature value), in TiC and in Ti metal (literature values) are also shown. Figure representative of all alloys with Ti content above 8<ce:hsp sp="0.25"></ce:hsp>wt.%.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr14"></ce:link>
+</ce:figure>
+<ce:table colsep="0" frame="topbot" id="tbl1" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Corrosion rates of PVD Mg–Ti alloys in 3<ce:hsp sp="0.25"></ce:hsp>wt.% NaCl</ce:simple-para>
+</ce:caption>
+<tgroup cols="4">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" nameend="col2" namest="col1" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Material</entry>
+<entry align="left" nameend="col4" namest="col3" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Corrosion rate (mg/dm<sup loc="post">2</sup>/day)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" nameend="col2" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Pure Mg</entry>
+<entry align="left" nameend="col4" namest="col3" xmlns="http://www.elsevier.com/xml/common/dtd">34.7</entry>
+</row>
+<row>
+<entry align="left" nameend="col4" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<vsp sp="0.5"></vsp>
+</entry>
+</row>
+<row>
+<entry align="left" nameend="col4" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Alloys</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Mg–8<hsp sp="0.25"></hsp>wt.% Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Mg–4.2<hsp sp="0.25"></hsp>at.% Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">42.2 (flailed<cross-ref refid="tbl1fn1">
+<sup loc="post">a</sup>
+</cross-ref>)</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">51.3 (not flailed<cross-ref refid="tbl1fn2">
+<sup loc="post">b</sup>
+</cross-ref>)</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Mg–31<hsp sp="0.25"></hsp>wt.% Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Mg–18.6<hsp sp="0.25"></hsp>at.% Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">N/A<cross-ref refid="tbl1fn3">
+<sup loc="post">c</sup>
+</cross-ref>
+</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">148.6 (not flailed<cross-ref refid="tbl1fn2">
+<sup loc="post">b</sup>
+</cross-ref>)</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Mg–40<hsp sp="0.25"></hsp>wt.% Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Mg–25.3<hsp sp="0.25"></hsp>at.% Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">48.7 (flailed<cross-ref refid="tbl1fn1">
+<sup loc="post">a</sup>
+</cross-ref>)</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">N/A</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>Mg–46<hsp sp="0.25"></hsp>wt.% Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Mg–30.2<hsp sp="0.25"></hsp>at.% Ti</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">74.8 (flailed<cross-ref refid="tbl1fn1">
+<sup loc="post">a</sup>
+</cross-ref>)</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">N/A</entry>
+</row>
+</tbody>
+</tgroup>
+<ce:table-footnote id="tbl1fn1">
+<ce:label>a</ce:label>
+<ce:note-para>This work.</ce:note-para>
+</ce:table-footnote>
+<ce:table-footnote id="tbl1fn2">
+<ce:label>b</ce:label>
+<ce:note-para>From Baliga et al. <ce:cross-ref refid="bib9">[9]</ce:cross-ref>.</ce:note-para>
+</ce:table-footnote>
+<ce:table-footnote id="tbl1fn3">
+<ce:label>c</ce:label>
+<ce:note-para>N/A: not available.</ce:note-para>
+</ce:table-footnote>
+</ce:table>
+<ce:table colsep="0" frame="topbot" id="tbl2" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Experimental parameters used on the VG Scientific Sigma Probe for the XPS analysis of the as-deposited and corroded alloys</ce:simple-para>
+</ce:caption>
+<tgroup cols="6">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<colspec colname="col5"></colspec>
+<colspec colname="col6"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Peaks</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Step size (eV)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Dwell time (ms)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">No. of scans</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Energy range BE (eV)</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Pass energy CAE (eV)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Survey</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">200</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">2</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0–1350</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">100</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">C 1s</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">200</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">10</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">275–295</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">50</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">O 1s</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">200</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">10</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">525–545</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">50</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Mg 1s</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">200</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">10</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1295–1320</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">50</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Mg 2p</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">200</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">10</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">40–60</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">50</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti 2p</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">200</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">20</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">445–475</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">50</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Mg KLL</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">200</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">7</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1166–1191</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">100</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Ti LMM</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">200</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">386–426</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">100</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Cl 2p</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">200</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">10</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">195–220</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">50</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Na 1s</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0.2</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">200</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">10</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">1065–1090</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">50</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+</ce:floats>
+<ce:title>Characterisation of corrosion products formed on PVD in situ mechanically worked Mg–Ti alloys</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Mitchell</ce:surname>
+<ce:cross-ref refid="fn1">
+<ce:sup loc="post">1</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Diplas</ce:surname>
+<ce:cross-ref refid="fn2">
+<ce:sup loc="post">2</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Tsakiropoulos</ce:surname>
+<ce:cross-ref refid="cor1">*</ce:cross-ref>
+</ce:author>
+<ce:affiliation>
+<ce:textfn>School of Engineering, University of Surrey, Guildford GU2 7XH, Surrey, UK</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>*</ce:label>
+<ce:text>Corresponding author. Tel.: +44 1483 300800; fax: +44 1483 306039.</ce:text>
+</ce:correspondence>
+<ce:footnote id="fn1">
+<ce:label>1</ce:label>
+<ce:note-para>Present address: TWI Ltd, Granta Park, Great Abington, Cambridge, UK.</ce:note-para>
+</ce:footnote>
+<ce:footnote id="fn2">
+<ce:label>2</ce:label>
+<ce:note-para>Present address: Centre for Materials Science and Nanotechnology, University of Oslo, Gaustadalleen 21, NO-0349 Oslo, Norway.</ce:note-para>
+</ce:footnote>
+</ce:author-group>
+<ce:date-received day="13" month="7" year="2004"></ce:date-received>
+<ce:date-accepted day="3" month="8" year="2004"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">Mg–Ti alloys with up to 46<ce:hsp sp="0.25"></ce:hsp>wt.% Ti in solid solution, produced by PVD processing with in situ mechanical working, were subjected to immersion tests in 3<ce:hsp sp="0.25"></ce:hsp>wt.% NaCl solutions. The corrosion resistance of the alloys, assessed with gravimetric tests, was inferior to that of PVD pure Mg. Corrosive attack was favoured at the sites of mechanical working owing to the different microstructure and the higher Mg concentration at these areas. The corrosive attack resulted in exfoliation of the alloys. The corrosion product contained a mixture of MgO, TiO<ce:inf loc="post">2</ce:inf> and some Mg(OH)<ce:inf loc="post">2</ce:inf> at the outermost surface. Although Ti participation in the corrosion products was enhanced, its beneficial affect was overshadowed by the defective nature of the deposits. The surface chemistry of the alloys was studied using the Auger parameter.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Corrosion products</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>PVD</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Mg–Ti alloys</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">In the last decades, research on new materials has addressed the development of new Mg alloys. One of the aims of this research has been to increase the corrosion resistance of the new PVD Mg alloys in saline environments. Processing by non-equilibrium methods has been considered for the development of new alloys and some Mg–TM systems have been produced by PVD processing and evaluated for their corrosion properties <ce:cross-refs refid="bib1 bib2 bib3 bib4 bib5 bib6">[1–6]</ce:cross-refs>.</ce:para>
+<ce:para view="all">Baldwin et al. <ce:cross-refs refid="bib7 bib8">[7,8]</ce:cross-refs> studied the corrosion behaviour of PVD Mg–Cr, Mg–Mn and Mg–Ti alloys. In addition to the standard gravimetric tests, open circuit potentials were measured, which gave information about changes in electrochemical activity. The lowest corrosion rate (0.3 mdd) was recorded for a Mg–44<ce:hsp sp="0.25"></ce:hsp>wt.% Ti alloy. Open circuit potentials (OCP) of the alloys showed that the addition of more noble elements such as Mn, Cr and Ti raised the OCP, i.e., the alloys become less electrochemically active. The results are significant in that the alloys produced should be less susceptible to galvanic corrosion than pure Mg. The explanation given for the increased corrosion resistance of the Mg–44Ti alloy, as compared to pure Mg, was that probably the Ti formed a protective surface film which acted in a similar manner to Cr in Fe–Cr systems, in that a network of metal–oxygen–metal linkages was formed on the alloy surface thereby suppressing the dissolution of the more active underlying Mg-rich matrix. These results and the fact that TiO<ce:inf loc="post">2</ce:inf> is insoluble in aqueous solutions and is stable over a wide pH range suggested that further research would be required to establish whether Ti is a suitable alloying element for improving the corrosion resistance of new Mg alloys.</ce:para>
+<ce:para view="all">Preliminary research on PVD Mg–Ti alloys by Baliga et al. <ce:cross-ref refid="bib9">[9]</ce:cross-ref> used ion beam techniques to analyse the surface film formed on extended Mg(Ti) solid solutions of Mg–Ti alloys during corrosion. The results indicated the possibility of TiO<ce:inf loc="post">2</ce:inf> forming on the surface of the alloys during processing. It was suggested that the corrosion resistance of PVD Mg–Ti alloys could be attributed to the formation of Ti spinels <ce:cross-ref refid="bib10">[10]</ce:cross-ref> during corrosion. However, no direct evidence was provided to support this.</ce:para>
+<ce:para view="all">This study has concentrated on the characterisation of corroded extended Mg(Ti) solid solutions of PVD Mg–Ti alloys that were subjected to in situ mechanical working (flailing). The in situ mechanical working aimed to reduce the porosity and destroy the columnar structure of the alloys, thus improving their corrosion performance. The alloys were studied after immersion in 3<ce:hsp sp="0.25"></ce:hsp>wt.% NaCl solution. The microstructure of the as-deposited in situ mechanically worked alloys has been described elsewhere <ce:cross-ref refid="bib11">[11]</ce:cross-ref>. To our knowledge, this is the first time that a study of the corrosion product formation on in situ mechanically worked PVD Mg–Ti alloys is reported.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental</ce:section-title>
+<ce:para view="all">The corrosion behaviour of the alloys given in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+<ce:float-anchor refid="tbl1"></ce:float-anchor> was assessed using total immersion corrosion tests in 3<ce:hsp sp="0.25"></ce:hsp>wt.% NaCl solution for 7 days. The corrosion products formed on the alloys were characterised by electron microscopy and X-ray photoelectron spectroscopy (XPS).</ce:para>
+<ce:para view="all">Cross thickness sections of the corroded samples were mounted in resin and polished to a 1<ce:hsp sp="0.25"></ce:hsp>μm diamond finish prior to study under a Hitachi 3200N SEM operated at 10–20<ce:hsp sp="0.25"></ce:hsp>kV. Link Isis software was used to acquire multi-element X-ray maps in energy dispersive mode.</ce:para>
+<ce:para view="all">Transmission electron microscopy (TEM) was used to study the corrosion products. The corroded samples were sandwiched together with silicon wafers to make a stable sample, and then they were glued to either copper or nickel grids and polished to 30–40<ce:hsp sp="0.25"></ce:hsp>μm thickness. The samples were subsequently ion beam milled to electron transparency using a Gatan dual ion mill 600 or a Gatan precision ion polishing system (PIPS). Ion beam milling was performed using a rotating stage and liquid nitrogen cooling to avoid over heating. The ion guns were set at an accelerating voltage of 5<ce:hsp sp="0.25"></ce:hsp>kV and the gun current was 1<ce:hsp sp="0.25"></ce:hsp>mA. The milling angle was set at 15° for the dual ion mill and at 4–6° for the PIPS system. TEM specimens of the exfoliated material were prepared by crushing dried corrosion products and then dispersing them in acetone. The dispersed corrosion products were dropped by a pipette onto carbon covered copper grids and were allowed to dry. TEM studies were performed on Phillips EM-400T and CM200 transmission electron microscopes operated at an accelerating voltage of 120 and 200<ce:hsp sp="0.25"></ce:hsp>kV, respectively.</ce:para>
+<ce:para view="all">PEELS elemental maps were obtained using a Philips CM200/STEM equipped with a Gatan imaging filter. The background subtraction was achieved using a three-window technique. Three energy filtered images were acquired, two pre-edge and one post-edge. An extrapolated background was calculated and subtracted from the ionisation edge image of the element of interest. The jump ratio method was used, where the ionisation edge image intensity was divided by the pre-edge image intensity.</ce:para>
+<ce:para view="all">The corrosion products were also analysed by X-ray diffraction (XRD) using a Phillips X-ray diffractometer with Cu radiation at a voltage of 40<ce:hsp sp="0.25"></ce:hsp>V and a current of 4<ce:hsp sp="0.25"></ce:hsp>mA with a step size of 0.02° in the range 20–120°. The samples were rinsed in distilled water and air-dried prior to XRD studies. The peak positions were compared with standard values obtained from the JCPDS data files. The pH changes of the corroding solution were measured at 293<ce:hsp sp="0.25"></ce:hsp>K using a Jenson 3020 pH meter. Standard buffer solutions of pH<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>7 and pH<ce:hsp sp="0.25"></ce:hsp>=<ce:hsp sp="0.25"></ce:hsp>10 were used to calibrate the pH electrode.</ce:para>
+<ce:para view="all">Surface analysis of samples immersed in 3<ce:hsp sp="0.25"></ce:hsp>wt.% NaCl solution for 5<ce:hsp sp="0.25"></ce:hsp>min was performed on a VG Scientific Sigma probe X-ray photoelectron spectrometer using an Al X-ray source (1486.6<ce:hsp sp="0.25"></ce:hsp>eV). The corroded samples were rinsed with deionised water and air-dried. For data acquisition and subsequent data processing, a computer running Sigma's Eclipse software Version 3.1 controlled the spectrometer. The spectra were obtained at a take off angle of 60° with respect to the surface of the sample. The peaks were fitted using Shirley background subtraction techniques and a suitable combination of fixed parameters. The spectral acquisition parameters are shown in <ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>
+<ce:float-anchor refid="tbl2"></ce:float-anchor>. Depth profiling was carried out in situ using Ar<ce:sup loc="post">+</ce:sup> ion etching with an accelerating voltage of 3<ce:hsp sp="0.25"></ce:hsp>kV and a target current of 8<ce:hsp sp="0.25"></ce:hsp>μA. The etching time for each stage was either 1 or 10<ce:hsp sp="0.25"></ce:hsp>min.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results</ce:section-title>
+<ce:section view="all">
+<ce:label>3.1</ce:label>
+<ce:section-title>Bulk characterisation</ce:section-title>
+<ce:para view="all">The corrosion rates of all the PVD Mg–Ti alloys, which were determined from gravimetric corrosion rate measurements, exceeded the corrosion rate of PVD pure Mg (<ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>). The general trend was an increase of the corrosion rate as the alloying level of Ti in Mg was increased.</ce:para>
+<ce:para view="all">After immersion in 3<ce:hsp sp="0.25"></ce:hsp>wt.% NaCl the samples were rinsed in distilled water and inhibisol and then air-dried. Typical SEM images of the corroded samples in planar and cross-section orientation are shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor>. The corrosion product was layered and did not adhere to the substrate, thus becoming susceptible to exfoliation. In <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>b and c the corrosive attack is concentrated around cracks and the sites of flailing. This type of attack caused exfoliation, thus exposing new uncorroded material. It is suggested that this is the most likely cause of the high corrosion rates of the in situ mechanically worked alloys in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>.</ce:para>
+<ce:para view="all">Exfoliated corrosion products analysed by SEM are shown in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor>. <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>a shows the uncorroded alloy fractured along a flailed region. The corrosive attack can be seen on the edges of the sample and the surface. <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>b shows the cross-section of the alloy, which is covered by corrosion product. The flailed regions, which are beginning to separate, are also visible. <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref> is representative of all the alloys studied.</ce:para>
+<ce:para view="all">TEM images of cross-sectional corroded samples are shown in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor>, which is representative of all alloys in this study. The results indicate that both sharp and diffuse interfaces between corroded and non-corroded regions were present. The pattern of corrosion products in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>a suggests that the corrosive attack had followed certain grain boundaries and branched out leaving some areas uncorroded. In <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>b the corrosion product/alloy interface is less diffuse and a grain boundary can be seen.</ce:para>
+<ce:para view="all">EDX and EELS analyses of the areas shown in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref> as well as of the pure corrosion products are shown in <ce:cross-refs refid="fig4 fig5 fig6">Figs. 4–6</ce:cross-refs>
+<ce:float-anchor refid="fig4"></ce:float-anchor>
+<ce:float-anchor refid="fig5"></ce:float-anchor>
+<ce:float-anchor refid="fig6"></ce:float-anchor>. The EDX elemental maps (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>) show the distribution of elements at the corrosion product/alloy interface and an enrichment of Ti at the corrosion product/alloy interface. The depletion of Mg concentration in the corrosion product compared to the alloy, as shown in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>, could be due to diffraction contrast in the image and/or MgO fluorescing. The corrosion product is also seen to be following grain boundaries or cracks in the uncorroded alloy (see the oxygen map in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>).</ce:para>
+<ce:para view="all">The EELS data for the Mg–8<ce:hsp sp="0.25"></ce:hsp>wt.% Ti alloy in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref> shows the zero loss images and the Mg, Ti and O jump ratios at the corrosion product/alloy interface. It can be seen that there is a titanium-rich layer at the outermost edge of the uncorroded alloy. <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref> shows the EELS data only for the corrosion product region.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+<ce:float-anchor refid="fig7"></ce:float-anchor> shows the XRD diffractogram of the Mg–8<ce:hsp sp="0.25"></ce:hsp>wt.% Ti alloy after immersion in 3<ce:hsp sp="0.25"></ce:hsp>wt.% NaCl for 7 days. The main peaks belong to Mg, MgO, and Mg(OH)<ce:inf loc="post">2</ce:inf> and are in agreement with previous work on Mg alloys. <ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>
+<ce:float-anchor refid="fig8"></ce:float-anchor> shows the change in the pH of the 3<ce:hsp sp="0.25"></ce:hsp>wt.% NaCl solution during immersion of the Mg–8<ce:hsp sp="0.25"></ce:hsp>wt.% Ti and Mg–46<ce:hsp sp="0.25"></ce:hsp>wt.% Ti alloys over a period of 7 days. The pH of the corroding solution of the alloy with the lowest Ti content increased faster (at almost an order of magnitude) compared to the alloy with the highest Ti content.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.2</ce:label>
+<ce:section-title>Surface characterisation</ce:section-title>
+<ce:para view="all">The results of the XPS analyses of the surfaces of the Mg–Ti alloys after 5<ce:hsp sp="0.25"></ce:hsp>min immersion in 3<ce:hsp sp="0.25"></ce:hsp>wt.% NaCl are shown in <ce:cross-refs refid="fig9 fig10 fig11 fig12 fig13">Figs. 9–13</ce:cross-refs>
+<ce:float-anchor refid="fig9"></ce:float-anchor>
+<ce:float-anchor refid="fig10"></ce:float-anchor>
+<ce:float-anchor refid="fig11"></ce:float-anchor>
+<ce:float-anchor refid="fig12"></ce:float-anchor>
+<ce:float-anchor refid="fig13"></ce:float-anchor>. These figures are representative of all alloys studied. <ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref> shows a montage of survey spectra taken from the Mg–46<ce:hsp sp="0.25"></ce:hsp>wt.% Ti alloy during depth profiling with Ar ion stuttering. The Ti 2p post-peak background slopes show an enrichment of the corrosion products in Ti. Montages of the acquired high resolution peaks from depth-profiled samples are shown in <ce:cross-refs refid="fig10 fig11 fig12 fig13">Figs. 10–13</ce:cross-refs>. <ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref> shows representative high resolution Mg KLL spectra with the metallic and oxide components. In <ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref>b and c the metallic component is visible even in the spectra taken from the outermost surface whilst in <ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref>a the Mg KLL peak consists only of the oxide component even after 60<ce:hsp sp="0.25"></ce:hsp>min etching. The spectra illustrate that the oxide layer formed on the surfaces of the alloys with Ti content above 8<ce:hsp sp="0.25"></ce:hsp>wt.% (<ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref>b and c) was thinner than the oxide formed on the Mg–8<ce:hsp sp="0.25"></ce:hsp>wt.% Ti alloy (<ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref>a). <ce:cross-ref refid="fig11">Fig. 11</ce:cross-ref> shows that Ti in the corrosion scale was present in the TiO<ce:inf loc="post">2</ce:inf> form. The measured peak positions 453<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>0.2<ce:hsp sp="0.25"></ce:hsp>eV for Ti (<ce:cross-ref refid="fig11">Fig. 11</ce:cross-ref>b) and 458.4<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>0.2<ce:hsp sp="0.25"></ce:hsp>eV for Ti oxide (<ce:cross-ref refid="fig11">Fig. 11</ce:cross-ref>a and b) are in very good agreement with the literature values given for Ti (453.89<ce:hsp sp="0.25"></ce:hsp>eV) and TiO<ce:inf loc="post">2</ce:inf> (458.7<ce:hsp sp="0.25"></ce:hsp>eV) <ce:cross-ref refid="bib12">[12]</ce:cross-ref>. Moreover, the Ti 2p<ce:inf loc="post">3/2</ce:inf>–2p<ce:inf loc="post">1/2</ce:inf> energy separation in the Ti oxide (<ce:cross-ref refid="fig11">Fig. 11</ce:cross-ref>a) was 5.7<ce:hsp sp="0.25"></ce:hsp>±<ce:hsp sp="0.25"></ce:hsp>0.3<ce:hsp sp="0.25"></ce:hsp>eV, which is also in good agreement with the literature value of 5.54<ce:hsp sp="0.25"></ce:hsp>eV <ce:cross-ref refid="bib13">[13]</ce:cross-ref>. <ce:cross-ref refid="fig12">Fig. 12</ce:cross-ref> shows a representative montage of O 1s spectra of the Mg–40<ce:hsp sp="0.25"></ce:hsp>wt.% Ti alloy where the intensity of the hydroxide component decreases whilst the intensity of the oxide increases with depth, in agreement with previous works <ce:cross-refs refid="bib3 bib4 bib5 bib14">[3–5,14]</ce:cross-refs>. <ce:cross-ref refid="fig13">Fig. 13</ce:cross-ref> shows a montage of the Ti LMM peak of the Mg–46<ce:hsp sp="0.25"></ce:hsp>wt.% Ti alloy during depth profile (10<ce:hsp sp="0.25"></ce:hsp>min sputtering for each stage). The figure shows the changes in the intensity of the metallic and oxide components with depth. Although not shown, the C 1s peak indicated presence of carbonates at the outermost surface thus suggesting hydromagnesite formation in agreement with previous studies <ce:cross-ref refid="bib14">[14]</ce:cross-ref>.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Discussion</ce:section-title>
+<ce:section view="all">
+<ce:label>4.1</ce:label>
+<ce:section-title>Bulk studies</ce:section-title>
+<ce:para view="all">The data in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref> would indicate that the corrosion rate of the PVD Mg–Ti alloys in 3<ce:hsp sp="0.25"></ce:hsp>wt.% NaCl increased with Ti addition. The data would also suggest that flailing had a marginal effect on the corrosion resistance of Mg–8<ce:hsp sp="0.25"></ce:hsp>wt.% Ti and perhaps had a significant effect on the corrosion resistance of alloys with more than 31<ce:hsp sp="0.25"></ce:hsp>wt.% Ti.</ce:para>
+<ce:para view="all">In pure water, the corrosion rate of Mg is low, as the air formed MgO hydrolyses to form a passivating layer of Mg(OH)<ce:inf loc="post">2</ce:inf>
+<ce:cross-ref refid="bib15">[15]</ce:cross-ref>. In chlorine-containing solutions the corrosion is rapid, due to the solubility of Mg<ce:sup loc="post">2+</ce:sup> in the corroding solution, which causes the pH of the corroding solution to rise. Once the pH has risen above the value for a saturated Mg(OH)<ce:inf loc="post">2</ce:inf> solution in the Pourbaix diagram, formation of Mg(OH)<ce:inf loc="post">2</ce:inf> on the surface can occur.</ce:para>
+<ce:para view="all">The corrosion of Mg is also governed by galvanic and micro-galvanic phenomena. Magnesium has a very low electrode potential (−2.73<ce:hsp sp="0.25"></ce:hsp>V for Mg<ce:inf loc="post">(aq)</ce:inf>
+<ce:sup loc="post">2+</ce:sup>) and it would be expected to be consumed preferentially when in contact with a more noble element such as Ti (−0.37<ce:hsp sp="0.25"></ce:hsp>V for Ti<ce:inf loc="post">(aq)</ce:inf>
+<ce:sup loc="post">2+</ce:sup>). In our case, the Ti was in solid solution with Mg and therefore micro-galvanic effects should not be expected to take place. However, the chemical inhomogeneity of the alloys in the form of bands with different Ti content <ce:cross-ref refid="bib11">[11]</ce:cross-ref> may give rise to galvanic and micro-galvanic effects.</ce:para>
+<ce:para view="all">The corrosive attack followed cracks into the alloy, and then branched out along the flailed areas causing the exfoliation of the alloy in layers (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>c). The high corrosion rates measured for the PVD Mg–Ti alloys in this study could be attributed to preferential attack and subsequent exfoliation of the corrosion products. The preferential attack is associated with the microstructure in the flailed regions, which was Mg-rich, heavily worked and contained small equiaxed grains and high dislocation densities <ce:cross-ref refid="bib11">[11]</ce:cross-ref>. The Mg-rich regions are expected to have more negative electrode potential than the adjacent regions, which are richer in Ti and therefore should corrode preferentially. A heavily worked region also offers energetically favourable sites for corrosion. Moreover, the presence of a large number of small equiaxed grains is associated with an increased total grain boundary area and therefore facilitates corrosive attack at the grain boundaries. Preferential attack of the flailed regions could also be attributed to Ti precipitates forming in the flailed areas causing micro-galvanic corrosion along these sites. However, precipitation of Ti in the flailed areas has not been confirmed by TEM <ce:cross-ref refid="bib11">[11]</ce:cross-ref>. Moreover, the flailed areas were depleted in Ti (i.e., they were Mg-rich) thus making Ti precipitation in these areas less probable. The most likely explanation is that the flailed areas are more susceptible to corrosion than the bulk of the alloy because of compositional and microstructural effects.</ce:para>
+<ce:para view="all">Despite the fact that the gravimetric tests suggested inferior corrosion behaviour of the Mg–Ti alloys compared to pure Mg (<ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>), <ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref> shows that during immersion tests the increase of the pH of the solution of the alloy with the highest Ti content was delayed compared to the alloy with the lowest Ti content. The pH increases as a result of Mg dissolution and subsequent Mg(OH)<ce:inf loc="post">2</ce:inf> formation. The solution of the Mg–8<ce:hsp sp="0.25"></ce:hsp>wt.% Ti alloy reached a pH value close to the saturation level of the Mg(OH)<ce:inf loc="post">2</ce:inf> solution (∼10.6) in a few minutes, whilst the solution of the Mg–46<ce:hsp sp="0.25"></ce:hsp>wt.% Ti alloy never reached the saturation level even after 7 days immersion.</ce:para>
+<ce:para view="all">As shown by the TEM studies, the metal/corrosion product interface was enriched in Ti oxide. In a corrosion process involving outward diffusion of cations one would expect the Ti-rich products at the metal/corrosion product interface not to play a particularly protective role towards a further advance of the corrosion process, since if they did then the thickness of the corrosion products formed above the Ti-rich interfacial regions would probably be very small. Evidence for inwards corrosion is given in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref> where penetration of corrosion beyond the oxide/metal interface is demonstrated by the oxygen elemental map. Thus, the relatively good compositional homogeneity of the corrosion products as well as the general form of the corroded alloys (see <ce:cross-refs refid="fig1 fig3">Figs. 1 and 3</ce:cross-refs>) would favour an inward corrosion process. However, despite the heavy attack at sites of compositional banding and mechanical working, the alloys seemed to maintain their pre-corrosion features (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>). It is possible that the corrosion process near the alloy/corrosion product interface was inhibited by the Ti-rich bands. This inhibition could be attributed to the more noble nature of the Mg(Ti) solid solution in the corrosion process as well as to the thermodynamic stability of Ti oxide in the corrosive environment <ce:cross-ref refid="bib15">[15]</ce:cross-ref>. Furthermore, the fact that the interfacial regions were also depleted in Mg makes the formation of a mixed spinel type oxide unlikely.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>4.2</ce:label>
+<ce:section-title>Surface studies</ce:section-title>
+<ce:para view="all">
+<ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref> demonstrates that the corrosion products formed on the surfaces of the alloys with Ti content above 8<ce:hsp sp="0.25"></ce:hsp>wt.% (<ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref>b and c) had smaller thickness than the corrosion products formed on the surface of the Mg–8<ce:hsp sp="0.25"></ce:hsp>wt.% Ti alloy (<ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref>a), under the same corrosion (5<ce:hsp sp="0.25"></ce:hsp>min immersion in NaCl) and analysis conditions. This is supported by the pH variation shown in <ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>. Titanium in the corrosion products was in the form of TiO<ce:inf loc="post">2</ce:inf>. The open circuit potential measurements for the PVD Mg–Ti alloys, using a standard calomel electrode, had values between −1.4 and −1.2<ce:hsp sp="0.25"></ce:hsp>V <ce:cross-ref refid="bib7">[7]</ce:cross-ref>. For this potential range the theoretical domain for Ti passivation lays above a pH range of 6–7, for passivation assumed to occur by anhydrous TiO<ce:inf loc="post">2</ce:inf> oxide (rutile) <ce:cross-ref refid="bib15">[15]</ce:cross-ref>. For passivation assumed to occur by hydrated oxide (TiO<ce:inf loc="post">2</ce:inf>·H<ce:inf loc="post">2</ce:inf>O) the passivation domain extends above a pH range 7–8.5 <ce:cross-ref refid="bib15">[15]</ce:cross-ref>. This explains the deviation of the pH change between the two alloys for pH values above ∼7, as shown in <ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>. Above this value the surfaces of Mg–Ti alloys are probably passivated by TiO<ce:inf loc="post">2</ce:inf>. However, the defective nature of the deposits and the lack of homogeneity overshadow possible beneficial effects due to surface passivation via TiO<ce:inf loc="post">2</ce:inf> formation.</ce:para>
+<ce:para view="all">The variation of the oxide and metallic components shown in <ce:cross-refs refid="fig10 fig11 fig13">Figs. 10, 11 and 13</ce:cross-refs> would suggest a diffuse interface between the corrosion product and the alloy. A diffusive interface is also suggested by the TEM studies (<ce:cross-refs refid="fig3 fig4 fig5">Figs. 3–5</ce:cross-refs>) and it may be attributed to the fact that corrosion advances between the columnar grains of the alloys as well as the existence of metal oxide at the grain boundaries of the as-deposited alloys. Graded metal/oxide interfaces have been reported in previous studies on corroded PVD Mg–TM alloys <ce:cross-refs refid="bib4 bib6">[4,6]</ce:cross-refs>.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>4.3</ce:label>
+<ce:section-title>Characterisation of the corroded surfaces via Auger parameter analysis</ce:section-title>
+<ce:para view="all">The main strength of XPS is the identification of chemical states via shifts of the energies of the photoelectron and Auger peaks in the XPS spectrum. Changes in the core level binding energy may be interpreted as changes in the atomic core potential between two different environments. However, the accuracy of the measured energy values can be affected seriously by sample charging and energy referencing problems. Moreover, the binding energy shifts include both initial and final state contributions. The above difficulties can be overcome by using the final state Auger parameter (AP) <ce:cross-refs refid="bib16 bib17">[16,17]</ce:cross-refs>. In order to estimate initial state effects the concept of the initial state AP <ce:cross-ref refid="bib18">[18]</ce:cross-ref> can be used. The two parameters are given by Eqs. <ce:cross-refs refid="eq1 eq2">(1) and (2)</ce:cross-refs>:<ce:display>
+<ce:formula id="eq1">
+<ce:label>(1)</ce:label>
+<mml:math altimg="si1.gif" overflow="scroll">
+<mml:mrow>
+<mml:mi>α</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mtext>B</mml:mtext>
+<mml:msub>
+<mml:mtext>E</mml:mtext>
+<mml:mrow>
+<mml:mtext>photoelectron</mml:mtext>
+</mml:mrow>
+</mml:msub>
+<mml:mo>+</mml:mo>
+<mml:mtext>K</mml:mtext>
+<mml:msub>
+<mml:mtext>E</mml:mtext>
+<mml:mrow>
+<mml:mtext>Auger</mml:mtext>
+<mml:mi> </mml:mi>
+<mml:mtext>electron</mml:mtext>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>
+<ce:display>
+<ce:formula id="eq2">
+<ce:label>(2)</ce:label>
+<mml:math altimg="si2.gif" overflow="scroll">
+<mml:mrow>
+<mml:mi>β</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mtext>K</mml:mtext>
+<mml:msub>
+<mml:mtext>E</mml:mtext>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>i</mml:mi>
+<mml:mi>j</mml:mi>
+<mml:mi>j</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:msub>
+<mml:mo>+</mml:mo>
+<mml:mtext>B</mml:mtext>
+<mml:msub>
+<mml:mtext>E</mml:mtext>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>i</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:msub>
+<mml:mo>+</mml:mo>
+<mml:mn>2</mml:mn>
+<mml:mtext>B</mml:mtext>
+<mml:msub>
+<mml:mtext>E</mml:mtext>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>j</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>Eq. <ce:cross-ref refid="eq1">(1)</ce:cross-ref> shows that the final state AP <ce:italic>α</ce:italic> is obtained by adding the binding energy (BE) level of the photoelectron peak to the kinetic energy (KE) level of the equivalent Auger transition. In the definition of the initial state AP <ce:italic>β</ce:italic>, KE<ce:inf loc="post">(<ce:italic>ijj</ce:italic>)</ce:inf> is the kinetic energy of the Auger electron, whose emission involves the <ce:italic>i</ce:italic> and the <ce:italic>j</ce:italic> core levels, whilst BE<ce:inf loc="post">(<ce:italic>i</ce:italic>)</ce:inf> and BE<ce:inf loc="post">(<ce:italic>j</ce:italic>)</ce:inf> are the binding energies of the <ce:italic>i</ce:italic> and <ce:italic>j</ce:italic> levels, respectively.</ce:para>
+<ce:para view="all">The Auger parameter analysis requires the use of core sharp and well-localised transitions usually of the 1s–KLL or 2p–LMM type <ce:cross-ref refid="bib19">[19]</ce:cross-ref>. For the calculation of the Mg final state AP the Mg 1s and Mg KLL photoelectron and Auger peaks were used, respectively. However, a core–core–core Auger peak was not used for the calculation of the Ti final state AP. The Ti L<ce:inf loc="post">3</ce:inf>M<ce:inf loc="post">23</ce:inf>M<ce:inf loc="post">45</ce:inf> Auger peak used in this work (<ce:cross-ref refid="fig13">Fig. 13</ce:cross-ref>) involves the valence band and complicates the analysis. However, the L<ce:inf loc="post">3</ce:inf>M<ce:inf loc="post">23</ce:inf>M<ce:inf loc="post">45</ce:inf> is the strongest of the Ti LMM peaks. The position of this peak is mostly reported in the literature. Thus, we used this peak for comparison purposes. <ce:cross-ref refid="fig14">Fig. 14</ce:cross-ref>
+<ce:float-anchor refid="fig14"></ce:float-anchor>a confirms the chemical state of Mg in the corrosion products of the Mg–Ti alloys, since it shows that MgO dominates in the oxide scale below the outermost surface (the oxide after 10 and 20<ce:hsp sp="0.25"></ce:hsp>min etching has the same final state AP with MgO).</ce:para>
+<ce:para view="all">Eq. <ce:cross-ref refid="eq3">(3)</ce:cross-ref> also expresses initial state effects <ce:cross-ref refid="bib20">[20]</ce:cross-ref>:<ce:display>
+<ce:formula id="eq3">
+<ce:label>(3)</ce:label>
+<mml:math altimg="si3.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>E</mml:mi>
+<mml:mtext>k</mml:mtext>
+</mml:msub>
+<mml:mo>=</mml:mo>
+<mml:mtext>const</mml:mtext>
+<mml:mtext>.</mml:mtext>
+<mml:mo>+</mml:mo>
+<mml:mn>2</mml:mn>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>V</mml:mi>
+<mml:mtext>M</mml:mtext>
+</mml:msub>
+<mml:mo>+</mml:mo>
+<mml:mi>k</mml:mi>
+<mml:mi>q</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>−</mml:mo>
+<mml:mn>3</mml:mn>
+<mml:msub>
+<mml:mi>E</mml:mi>
+<mml:mtext>b</mml:mtext>
+</mml:msub>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>where <ce:italic>E</ce:italic>
+<ce:inf loc="post">k</ce:inf> and <ce:italic>E</ce:italic>
+<ce:inf loc="post">b</ce:inf> are the kinetic and binding energies, respectively, <ce:italic>V</ce:italic>
+<ce:inf loc="post">M</ce:inf> is the local Madelung potential, <ce:italic>k</ce:italic> the change of the core potential when a valence electron is removed and <ce:italic>q</ce:italic> a negative quantity representing the ground-state valence charge. Eq. <ce:cross-ref refid="eq3">(3)</ce:cross-ref> is an alternative expression of the initial state AP defined by Eq. <ce:cross-ref refid="eq2">(2)</ce:cross-ref>.</ce:para>
+<ce:para view="all">Following Moretti <ce:cross-ref refid="bib20">[20]</ce:cross-ref>, we can use Eqs. <ce:cross-refs refid="eq2 eq3">(2) and (3)</ce:cross-refs> to calculate the difference in the intercepts with the <ce:italic>y</ce:italic>-axis (see <ce:cross-ref refid="fig14">Fig. 14</ce:cross-ref>a and b) between the metal (Mg) and the oxide (MgO) state:<ce:display>
+<ce:formula id="eq4">
+<ce:label>(4)</ce:label>
+<mml:math altimg="si4.gif" overflow="scroll">
+<mml:mrow>
+<mml:mstyle mathvariant="normal">
+<mml:mi>Δ</mml:mi>
+</mml:mstyle>
+<mml:msub>
+<mml:mi>E</mml:mi>
+<mml:mtext>k</mml:mtext>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>MgO</mml:mtext>
+<mml:mo>–</mml:mo>
+<mml:mtext>Mg</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>=</mml:mo>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:msub>
+<mml:mi>E</mml:mi>
+<mml:mtext>k</mml:mtext>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>MgO</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>+</mml:mo>
+<mml:mn>3</mml:mn>
+<mml:msub>
+<mml:mi>E</mml:mi>
+<mml:mtext>b</mml:mtext>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>MgO</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo stretchy="false">]</mml:mo>
+<mml:mo>−</mml:mo>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:msub>
+<mml:mi>E</mml:mi>
+<mml:mtext>k</mml:mtext>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>Mg</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>+</mml:mo>
+<mml:mn>3</mml:mn>
+<mml:msub>
+<mml:mi>E</mml:mi>
+<mml:mtext>b</mml:mtext>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>Mg</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo stretchy="false">]</mml:mo>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>The Madelung potential and the ground-state charge can be incorporated by combining Eqs. <ce:cross-refs refid="eq3 eq4">(3) and (4</ce:cross-refs>):<ce:display>
+<ce:formula id="eq5">
+<ce:label>(5)</ce:label>
+<mml:math altimg="si5.gif" overflow="scroll">
+<mml:mrow>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:msub>
+<mml:mi>V</mml:mi>
+<mml:mtext>M</mml:mtext>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>MgO</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>−</mml:mo>
+<mml:msub>
+<mml:mi>V</mml:mi>
+<mml:mtext>M</mml:mtext>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>Mg</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo stretchy="false">]</mml:mo>
+<mml:mo>+</mml:mo>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mi>k</mml:mi>
+<mml:mi>q</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>MgO</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>−</mml:mo>
+<mml:msub>
+<mml:mi>k</mml:mi>
+<mml:mn>0</mml:mn>
+</mml:msub>
+<mml:msub>
+<mml:mi>q</mml:mi>
+<mml:mn>0</mml:mn>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>Mg</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo stretchy="false">]</mml:mo>
+<mml:mo>=</mml:mo>
+<mml:mstyle scriptlevel="1">
+<mml:mfrac>
+<mml:mn>1</mml:mn>
+<mml:mn>2</mml:mn>
+</mml:mfrac>
+</mml:mstyle>
+<mml:mstyle mathvariant="normal">
+<mml:mi>Δ</mml:mi>
+</mml:mstyle>
+<mml:msub>
+<mml:mi>E</mml:mi>
+<mml:mtext>k</mml:mtext>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>MgO</mml:mtext>
+<mml:mo>–</mml:mo>
+<mml:mtext>Mg</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>In the case of cations |<ce:italic>q</ce:italic>|<ce:hsp sp="0.25"></ce:hsp>&lt;<ce:hsp sp="0.25"></ce:hsp>|<ce:italic>q</ce:italic>
+<ce:inf loc="post">0</ce:inf>|, where <ce:italic>q</ce:italic> and <ce:italic>q</ce:italic>
+<ce:inf loc="post">0</ce:inf> are the valence charges of the Mg ion and metal, respectively, <ce:italic>V</ce:italic>
+<ce:inf loc="post">M</ce:inf> is always a negative quantity, <mml:math altimg="si6.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>V</mml:mi>
+<mml:mtext>M</mml:mtext>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>MgO</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>≫</mml:mo>
+<mml:msub>
+<mml:mi>V</mml:mi>
+<mml:mtext>M</mml:mtext>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>Mg</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math> and the term [<ce:italic>kq</ce:italic>(MgO)<ce:hsp sp="0.25"></ce:hsp>−<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>k</ce:italic>
+<ce:inf loc="post">0</ce:inf>
+<ce:italic>q</ce:italic>
+<ce:inf loc="post">0</ce:inf>(Mg)] is always positive <ce:cross-ref refid="bib20">[20]</ce:cross-ref>. Therefore, for negative Δ<ce:italic>E</ce:italic>
+<ce:inf loc="post">k</ce:inf>(MgO–Mg) values (also negative differences in the initial state AP between metal and oxide), such as in the case of Mg and MgO (<ce:cross-ref refid="fig14">Fig. 14</ce:cross-ref>a), we must have<ce:display>
+<ce:formula>
+<ce:label>(6)</ce:label>
+<mml:math altimg="si7.gif" overflow="scroll">
+<mml:mrow>
+<mml:mo>|</mml:mo>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:msub>
+<mml:mi>V</mml:mi>
+<mml:mtext>M</mml:mtext>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>MgO</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>−</mml:mo>
+<mml:msub>
+<mml:mi>V</mml:mi>
+<mml:mtext>M</mml:mtext>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>Mg</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo stretchy="false">]</mml:mo>
+<mml:mo>|</mml:mo>
+<mml:mo>&gt;</mml:mo>
+<mml:mo>|</mml:mo>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mi>k</mml:mi>
+<mml:mi>q</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>MgO</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>−</mml:mo>
+<mml:msub>
+<mml:mi>k</mml:mi>
+<mml:mn>0</mml:mn>
+</mml:msub>
+<mml:msub>
+<mml:mi>q</mml:mi>
+<mml:mn>0</mml:mn>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>Mg</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo stretchy="false">]</mml:mo>
+<mml:mo>|</mml:mo>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>Relations (5) and (6) show that the more negative the shift Δ<ce:italic>E</ce:italic>
+<ce:inf loc="post">k</ce:inf>(MgO–Mg), the more negative the <ce:italic>V</ce:italic>
+<ce:inf loc="post">M</ce:inf> becomes. Thus, in terms of initial state effects the position of MgO on the graph is largely determined by the negative Madelung potential for Mg in MgO.</ce:para>
+<ce:para view="all">The position of Mg in the alloy corrosion products in <ce:cross-ref refid="fig14">Fig. 14</ce:cross-ref>a is such that Δ<ce:italic>E</ce:italic>
+<ce:inf loc="post">k</ce:inf>(MgO–Mg)<ce:hsp sp="0.25"></ce:hsp>≈<ce:hsp sp="0.25"></ce:hsp>0 especially for the outermost oxide. In this case Eq. <ce:cross-ref refid="eq5">(5)</ce:cross-ref> takes the form<ce:display>
+<ce:formula id="eq6">
+<ce:label>(7)</ce:label>
+<mml:math altimg="si8.gif" overflow="scroll">
+<mml:mrow>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:msub>
+<mml:mi>V</mml:mi>
+<mml:mtext>M</mml:mtext>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>MgO</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>−</mml:mo>
+<mml:msub>
+<mml:mi>V</mml:mi>
+<mml:mtext>M</mml:mtext>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>Mg</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo stretchy="false">]</mml:mo>
+<mml:mo>=</mml:mo>
+<mml:mo>−</mml:mo>
+<mml:mi>k</mml:mi>
+<mml:mi>q</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>MgO</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>+</mml:mo>
+<mml:msub>
+<mml:mi>k</mml:mi>
+<mml:mn>0</mml:mn>
+</mml:msub>
+<mml:msub>
+<mml:mi>q</mml:mi>
+<mml:mn>0</mml:mn>
+</mml:msub>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mtext>Mg</mml:mtext>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>Eq. <ce:cross-ref refid="eq6">(7)</ce:cross-ref> indicates that the more ionic the character of the bond is <mml:math altimg="si9.gif" overflow="scroll">
+<mml:mrow>
+<mml:mo>|</mml:mo>
+<mml:mi>q</mml:mi>
+<mml:mo>|</mml:mo>
+<mml:mo>≪</mml:mo>
+<mml:mo>|</mml:mo>
+<mml:msub>
+<mml:mi>q</mml:mi>
+<mml:mn>0</mml:mn>
+</mml:msub>
+<mml:mo>|</mml:mo>
+</mml:mrow>
+</mml:math>, the more negative the local Madelung potential becomes. This could suggest that Mg atoms, in the alloy corrosion products and especially in the outermost surface, participate in less ionic chemical bonds compared to the bonds in MgO. This could possibly be attributed to the domination of Mg hydroxide in the outermost layers. <ce:cross-ref refid="fig14">Fig. 14</ce:cross-ref>a confirms that the chemical state of the Mg below the outermost surface is the same with Mg in MgO. The initial AP also suggests that the chemical bond in the oxide is probably less ionic compared to pure MgO. However, the last statement should be treated with caution. Although the final state AP is independent of energy referencing problems, the initial state AP shows some energy dependence due to the triple weighing of the binding energy values.</ce:para>
+<ce:para view="all">In <ce:cross-ref refid="fig14">Fig. 14</ce:cross-ref>b the initial state AP of Ti in the oxides is higher than the pure Ti one. Since Δ<ce:italic>E</ce:italic>
+<ce:inf loc="post">k</ce:inf>(TiO<ce:inf loc="post">2</ce:inf>–Ti)<ce:hsp sp="0.25"></ce:hsp>&gt;<ce:hsp sp="0.25"></ce:hsp>0 the term [<ce:italic>kq</ce:italic>(TiO<ce:inf loc="post">2</ce:inf>)<ce:hsp sp="0.25"></ce:hsp>−<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>k</ce:italic>
+<ce:inf loc="post">0</ce:inf>
+<ce:italic>q</ce:italic>
+<ce:inf loc="post">0</ce:inf>(Ti)] must be very positive, i.e., <mml:math altimg="si10.gif" overflow="scroll">
+<mml:mrow>
+<mml:mo>|</mml:mo>
+<mml:mi>q</mml:mi>
+<mml:mo>|</mml:mo>
+<mml:mo>≪</mml:mo>
+<mml:mo>|</mml:mo>
+<mml:msub>
+<mml:mi>q</mml:mi>
+<mml:mn>0</mml:mn>
+</mml:msub>
+<mml:mo>|</mml:mo>
+</mml:mrow>
+</mml:math>. This is interpreted as an indication of a chemical bond of increased ionisity <ce:cross-ref refid="bib20">[20]</ce:cross-ref>.</ce:para>
+<ce:para view="all">The Ti final state AP of the outermost surface has the same values as TiO<ce:inf loc="post">2</ce:inf>. However, it acquires different values below the outermost surface. Furthermore, the initial state AP seems to acquire different values for TiO<ce:inf loc="post">2</ce:inf> and also for the Ti on the surfaces revealed after several sputtering stages. The main reason for this is the difficulty to estimate precisely the energy of the oxide component of the Ti LMM peak. The fact that the LMM Auger transition involves the valence band also complicates the interpretation in terms of the AP relation to relaxation or screening effects. It should be also noted that the estimation of the LMM value for the oxide compound relies upon deconvolution of the broad LMM peak (see <ce:cross-ref refid="fig13">Fig. 13</ce:cross-ref>), which was less accurate as the oxide component decreased in intensity.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section view="all">
+<ce:label>5</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">The corrosion of PVD in situ mechanically worked Mg–Ti alloys with 8<ce:hsp sp="0.25"></ce:hsp>wt.%<ce:hsp sp="0.25"></ce:hsp>&lt;<ce:hsp sp="0.25"></ce:hsp>Ti<ce:hsp sp="0.25"></ce:hsp>&lt;<ce:hsp sp="0.25"></ce:hsp>46<ce:hsp sp="0.25"></ce:hsp>wt.% was inferior to that of PVD pure Mg. The increased corrosion has been attributed to preferential attack along compositional banding, the sites of mechanical working and to the exfoliation of the alloys. The corrosion product contained a mixture of MgO, TiO<ce:inf loc="post">2</ce:inf> and some Mg(OH)<ce:inf loc="post">2</ce:inf> at the outermost surface. It would appear that in situ mechanical working is not beneficial to the corrosion behaviour of PVD Mg alloys, since it has a local effect and leads to the formation of narrow regions of worked microstructure surrounded by large regions with the typical PVD microstructure. The presence of defects in the inhomogeneous microstructure of the alloys overshadowed possible beneficial effects such as surface passivation due to Ti presence. The surface chemistry of the corroded alloys can be studied using the Auger parameter.</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgments</ce:section-title>
+<ce:para view="all">We wish to thank Mr. Steve Greeves for assistance with XPS, Dr. R. Brydson for his help with EELS and Mr. R. Gardiner and Dr. S. Dodd for assistance with the processing of the alloys. Financial support to one of us (TM) by the EPSRC is gratefully acknowledged.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.E.</ce:given-name>
+<ce:surname>Bagnall</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.G.</ce:given-name>
+<ce:surname>Partridge</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.W.</ce:given-name>
+<ce:surname>Steeds</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.B.</ce:given-name>
+<ce:surname>Dodd</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.W.</ce:given-name>
+<ce:surname>Gardiner</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>G.W.</ce:given-name>
+<ce:surname>Lorimar</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>Proceedings of the Third International Mg Conference</sb:maintitle>
+</sb:title>
+<sb:conference>Institute of Materials, London</sb:conference>
+<sb:date>1997</sb:date>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>299</sb:first-page>
+<sb:last-page>312</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.B.</ce:given-name>
+<ce:surname>Dodd</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.W.</ce:given-name>
+<ce:surname>Gardiner</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>G.W.</ce:given-name>
+<ce:surname>Lorimer</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>Proceedings of the Third International Mg Conference</sb:maintitle>
+</sb:title>
+<sb:conference>Institute of Materials, London</sb:conference>
+<sb:date>1997</sb:date>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>271</sb:first-page>
+<sb:last-page>284</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Diplas</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Tsakiropoulos</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.M.D.</ce:given-name>
+<ce:surname>Brydson</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Tech.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>14</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>689</sb:first-page>
+<sb:last-page>698</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Diplas</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Tsakiropoulos</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.M.D.</ce:given-name>
+<ce:surname>Brydson</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Tech.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>14</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>699</sb:first-page>
+<sb:last-page>711</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Diplas</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Tsakiropoulos</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.M.D.</ce:given-name>
+<ce:surname>Brydson</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Tech.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>15</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1359</sb:first-page>
+<sb:last-page>1372</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Diplas</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Tsakiropoulos</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.M.D.</ce:given-name>
+<ce:surname>Brydson</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Tech.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>15</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1373</sb:first-page>
+<sb:last-page>1378</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.R.</ce:given-name>
+<ce:surname>Baldwin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.J.</ce:given-name>
+<ce:surname>Bray</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.G.</ce:given-name>
+<ce:surname>Howard</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.W.</ce:given-name>
+<ce:surname>Gardiner</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Tech.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>12</sb:volume-nr>
+</sb:series>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>937</sb:first-page>
+<sb:last-page>943</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.R.</ce:given-name>
+<ce:surname>Baldwin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.B.</ce:given-name>
+<ce:surname>Dodd</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.W.</ce:given-name>
+<ce:surname>Gardiner</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>G.W.</ce:given-name>
+<ce:surname>Lorimer</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>Proceedings of the Third International Mg Conference</sb:maintitle>
+</sb:title>
+<sb:conference>Institute of Materials, London</sb:conference>
+<sb:date>1997</sb:date>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>727</sb:first-page>
+<sb:last-page>737</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.B.</ce:given-name>
+<ce:surname>Baliga</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Tsakiropoulos</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.B.</ce:given-name>
+<ce:surname>Dodd</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.W.</ce:given-name>
+<ce:surname>Gardiner</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>G.W.</ce:given-name>
+<ce:surname>Lorimer</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>Proceedings of the Third International Mg Conference</sb:maintitle>
+</sb:title>
+<sb:conference>Institute of Materials, London</sb:conference>
+<sb:date>1997</sb:date>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>627</sb:first-page>
+<sb:last-page>636</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.B.</ce:given-name>
+<ce:surname>Baliga</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Tsakiropoulos</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>134</sb:volume-nr>
+</sb:series>
+<sb:date>1991</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1029</sb:first-page>
+<sb:last-page>1032</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<ce:other-ref>
+<ce:textref>T. Mitchell, S. Diplas, P. Tsakiropoulos, Philos. Mag. A (2004), submitted.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Briggs</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.P.</ce:given-name>
+<ce:surname>Sear</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Practical Surface Analysis, vol. 1</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:edition>2nd ed.</sb:edition>
+<sb:date>1992</sb:date>
+<sb:publisher>
+<sb:name>Wiley</sb:name>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.D.</ce:given-name>
+<ce:surname>Wagner</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.M.</ce:given-name>
+<ce:surname>Riggs</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.E.</ce:given-name>
+<ce:surname>Davis</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.F.</ce:given-name>
+<ce:surname>Moulder</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.E.</ce:given-name>
+<ce:surname>Muilenberg</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Handbook of X-ray Photoelectron Spectroscopy</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1979</sb:date>
+<sb:publisher>
+<sb:name>Perkin-Elmer Corporation, Physical Electronics</sb:name>
+<sb:location>Eden Prairie, Minnesota</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.B.</ce:given-name>
+<ce:surname>Baliga</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Tsakiropoulos</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.F.</ce:given-name>
+<ce:surname>Watts</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Int. J. Rapid Solid</sb:maintitle>
+</sb:title>
+<sb:volume-nr>4</sb:volume-nr>
+</sb:series>
+<sb:date>1989</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>231</sb:first-page>
+<sb:last-page>250</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Pourbaix</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Atlas of Electrochemical Equilibria in Aqueous Solutions</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:date>1966</sb:date>
+<sb:publisher>
+<sb:name>Pergamon Press</sb:name>
+<sb:location>London</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib16">
+<ce:label>[16]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>C.D.</ce:given-name>
+<ce:surname>Wagner</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Faraday Discuss. Chem. Soc.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>60</sb:volume-nr>
+</sb:series>
+<sb:date>1975</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>291</sb:first-page>
+<sb:last-page>306</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib17">
+<ce:label>[17]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.W.</ce:given-name>
+<ce:surname>Gaarenstroom</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.J.</ce:given-name>
+<ce:surname>Winograd</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Chem. Phys.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>67</sb:volume-nr>
+</sb:series>
+<sb:date>1977</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>500</sb:first-page>
+<sb:last-page>508</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib18">
+<ce:label>[18]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.A.</ce:given-name>
+<ce:surname>Evans</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.D.</ce:given-name>
+<ce:surname>Laine</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Weightman</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.A.D.</ce:given-name>
+<ce:surname>Matthew</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.A.</ce:given-name>
+<ce:surname>Woolf</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.I.</ce:given-name>
+<ce:surname>Westwood</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.H.</ce:given-name>
+<ce:surname>Williams</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Phys. Rev. B</sb:maintitle>
+</sb:title>
+<sb:volume-nr>46</sb:volume-nr>
+</sb:series>
+<sb:date>1992</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1513</sb:first-page>
+<sb:last-page>1519</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib19">
+<ce:label>[19]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Diplas</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Shao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.A.</ce:given-name>
+<ce:surname>Morton</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Tsakiropoulos</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.F.</ce:given-name>
+<ce:surname>Watts</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Intermetallics</sb:maintitle>
+</sb:title>
+<sb:volume-nr>7</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>937</sb:first-page>
+<sb:last-page>946</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib20">
+<ce:label>[20]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.L.</ce:given-name>
+<ce:surname>Moretti</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Electron. Spectrosc. Relat. Phenom.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>95</sb:volume-nr>
+</sb:series>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>95</sb:first-page>
+<sb:last-page>144</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

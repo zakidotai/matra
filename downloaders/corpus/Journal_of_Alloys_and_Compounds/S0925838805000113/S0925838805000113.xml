@@ -1,0 +1,1752 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838805000113</prism:url><dc:identifier>doi:10.1016/j.jallcom.2004.12.039</dc:identifier><eid>1-s2.0-S0925838805000113</eid><prism:doi>10.1016/j.jallcom.2004.12.039</prism:doi><pii>S0925-8388(05)00011-3</pii><dc:title>Development of Al–Ti–C grain refiners and study of their grain refining efficiency on Al and Al–7Si alloy </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>396</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>143</prism:startingpage><prism:endingpage>150</prism:endingpage><prism:pagerange>143-150</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2005-06-21</prism:coverdate><prism:coverdisplaydate>21 June 2005</prism:coverdisplaydate><prism:copyright>Copyright © 2005 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Vinod Kumar, G.S.</dc:creator><dc:creator>Murty, B.S.</dc:creator><dc:creator>Chakraborty, M.</dc:creator><dc:description>
+                  Al–5Ti–0.8C and Al–5Ti–1.2C master alloys have been successfully prepared by reaction of K2TiF6 salt and graphite powder with molten Al. While the Al–5Ti–0.8C consists of some TiAl3 particles in addition to TiC particles in the Al matrix, the Al–5Ti–1.2C master alloy revealed the presence of only TiC particles. The grain refining efficiency of these two master alloys has been compared with that of the conventional Al–5Ti–1B master alloy on Al and Al–7Si alloy at different addition levels. Al–5Ti–1.2C master alloy was found to be the most efficient grain refiner for Al amongst the grain refiners studied. Even in case of Al–7Si alloy, the Al–5Ti–0.8C and Al–5Ti–1.2C master alloys performed better than conventional Al–5Ti–1B master alloy. However, the Al–5Ti–1.2C master alloy shows poor response to grain refinement in Al–7Si alloy at higher addition levels than the Al–5Ti–0.8C master alloy, indicating poisoning.
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Castings</dcterms:subject><dcterms:subject>Scanning electron microscopy</dcterms:subject><dcterms:subject>X-ray diffraction</dcterms:subject><dcterms:subject>Al–Ti–C</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838805000113" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838805000113" rel="scidir"/></coredata><objects><object category="standard" height="706" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="138845" type="IMAGE-DOWNSAMPLED" width="588">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805000113-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="2439" type="IMAGE-THUMBNAIL" width="78">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805000113-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="581" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="110730" type="IMAGE-DOWNSAMPLED" width="355">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805000113-gr4.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="2003" type="IMAGE-THUMBNAIL" width="57">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805000113-gr4.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="262" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="6425" type="IMAGE-DOWNSAMPLED" width="276">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805000113-gr2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="1449" type="IMAGE-THUMBNAIL" width="98">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805000113-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="393" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="89771" type="IMAGE-DOWNSAMPLED" width="355">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805000113-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="3029" type="IMAGE-THUMBNAIL" width="84">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805000113-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="557" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr8" size="109502" type="IMAGE-DOWNSAMPLED" width="355">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805000113-gr8.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr8" size="2207" type="IMAGE-THUMBNAIL" width="59">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805000113-gr8.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="852" mimetype="image/gif" multimediatype="GIF image file" ref="gr9" size="22125" type="IMAGE-DOWNSAMPLED" width="334">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805000113-gr9.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="92" mimetype="image/gif" multimediatype="GIF image file" ref="gr9" size="901" type="IMAGE-THUMBNAIL" width="36">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805000113-gr9.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="557" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr7" size="108837" type="IMAGE-DOWNSAMPLED" width="355">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805000113-gr7.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="2156" type="IMAGE-THUMBNAIL" width="59">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805000113-gr7.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="560" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr6" size="108464" type="IMAGE-DOWNSAMPLED" width="355">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805000113-gr6.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="2077" type="IMAGE-THUMBNAIL" width="59">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805000113-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="824" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="20185" type="IMAGE-DOWNSAMPLED" width="317">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805000113-gr5.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="94" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="888" type="IMAGE-THUMBNAIL" width="36">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805000113-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="577" mimetype="image/gif" multimediatype="GIF image file" ref="gr10" size="13882" type="IMAGE-DOWNSAMPLED" width="363">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805000113-gr10.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="92" mimetype="image/gif" multimediatype="GIF image file" ref="gr10" size="1056" type="IMAGE-THUMBNAIL" width="58">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838805000113-gr10.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>18844380485</scopus-id><scopus-eid>2-s2.0-18844380485</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/18844380485" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20050203">2005-02-03</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20050203">2005-02-03</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-04-19T04:56:56</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838805000113</xocs:eid>
+<xocs:pii-formatted>S0925-8388(05)00011-3</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805000113</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2004.12.039</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838805X02389</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.346355-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20050621</xocs:date-search-begin>
+<xocs:year-nav>2005</xocs:year-nav>
+<xocs:indexeddate epoch="1107388800">2005-02-03T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>396</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>396</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 396, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>29</xocs:sort-order>
+<xocs:first-fp>143</xocs:first-fp>
+<xocs:last-lp>150</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>143</xocs:first-page>
+<xocs:last-page>150</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20050621</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>21 June 2005</xocs:cover-date-text>
+<xocs:cover-date-start>2005-06-21</xocs:cover-date-start>
+<xocs:cover-date-year>2005</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Metallurgy</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2005 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>DEVELOPMENTALTICGRAINREFINERSSTUDYGRAINREFININGEFFICIENCYALAL7SIALLOY</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>VINODKUMAR</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>G</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental details</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Grain refinement of Al</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3.2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Grain refinement of Al–7Si</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>CIBULA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1949</xocs:ref-pub-year>
+<xocs:ref-first-fp>321</xocs:ref-first-fp>
+<xocs:ref-last-lp>360</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>MCCARTNEY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1989</xocs:ref-pub-year>
+<xocs:ref-first-fp>247</xocs:ref-first-fp>
+<xocs:ref-last-lp>260</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>MURTY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>3</xocs:ref-first-fp>
+<xocs:ref-last-lp>29</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>BANERJI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1986</xocs:ref-pub-year>
+<xocs:ref-first-fp>2127</xocs:ref-first-fp>
+<xocs:ref-last-lp>2137</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>FINE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1994</xocs:ref-pub-year>
+<xocs:ref-first-fp>282</xocs:ref-first-fp>
+<xocs:ref-last-lp>285</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6">
+<xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>3234</xocs:ref-first-fp>
+<xocs:ref-last-lp>3238</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>BANERJI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1985</xocs:ref-pub-year>
+<xocs:ref-first-fp>2065</xocs:ref-first-fp>
+<xocs:ref-last-lp>2068</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>BANERJI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1989</xocs:ref-pub-year>
+<xocs:ref-first-fp>564</xocs:ref-first-fp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>JARFORS</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1999</xocs:ref-pub-year>
+<xocs:ref-first-fp>481</xocs:ref-first-fp>
+<xocs:ref-last-lp>494</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>699</xocs:ref-first-fp>
+<xocs:ref-last-lp>703</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>L9</xocs:ref-first-fp>
+<xocs:ref-last-lp>L12</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>XIANGFA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>70</xocs:ref-first-fp>
+<xocs:ref-last-lp>79</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13">
+<xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>1727</xocs:ref-first-fp>
+<xocs:ref-last-lp>1733</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>645</xocs:ref-first-fp>
+<xocs:ref-last-lp>650</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15">
+<xocs:ref-normalized-surname>VANDYOUSSEFI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>1121</xocs:ref-first-fp>
+<xocs:ref-last-lp>1128</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib16">
+<xocs:ref-normalized-surname>KENNEDY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>32</xocs:ref-first-fp>
+<xocs:ref-last-lp>38</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib17">
+<xocs:ref-normalized-surname>TRONCHE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2002</xocs:ref-pub-year>
+<xocs:ref-first-fp>1072</xocs:ref-first-fp>
+<xocs:ref-last-lp>1078</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib18">
+<xocs:ref-normalized-surname>MOHANTY</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>3749</xocs:ref-first-fp>
+<xocs:ref-last-lp>3760</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib19">
+<xocs:ref-normalized-surname>LOPEZ</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>316</xocs:ref-first-fp>
+<xocs:ref-last-lp>325</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib20">
+<xocs:ref-normalized-surname>MAYES</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1994</xocs:ref-pub-year>
+<xocs:ref-first-fp>283</xocs:ref-first-fp>
+<xocs:ref-last-lp>290</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib21">
+<xocs:ref-normalized-surname>MITRA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>405</xocs:ref-first-fp>
+<xocs:ref-last-lp>434</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib22">
+<xocs:ref-normalized-surname>CISSE</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1972</xocs:ref-pub-year>
+<xocs:ref-first-fp>777</xocs:ref-first-fp>
+<xocs:ref-last-lp>781</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>VINODKUMARX2005X143</xocs:refkey3>
+<xocs:refkey4lp>VINODKUMARX2005X143X150</xocs:refkey4lp>
+<xocs:refkey4ai>VINODKUMARX2005X143XG</xocs:refkey4ai>
+<xocs:refkey5>VINODKUMARX2005X143X150XG</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(05)00011-3</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838805000113</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838805000113</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2004.12.039</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-10T20:45:00.007921-04:00</xocs:timestamp>
+<xocs:cover-date-start>2005-06-21</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838805000113-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805000113/MAIN/application/pdf/a6f558e66c0efd76fb2f8c9388b591cc/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805000113/MAIN/application/pdf/a6f558e66c0efd76fb2f8c9388b591cc/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>889658</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>8</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838805000113-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805000113/PREVIEW/image/png/51a96c341c54453d80721a3e9aabfa9b/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805000113/PREVIEW/image/png/51a96c341c54453d80721a3e9aabfa9b/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>63823</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805000113-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805000113/gr1/DOWNSAMPLED/image/jpeg/14bb9cb60707e1f0493db5f59ae99ec0/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805000113/gr1/DOWNSAMPLED/image/jpeg/14bb9cb60707e1f0493db5f59ae99ec0/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>138845</xocs:filesize>
+<xocs:pixel-height>706</xocs:pixel-height>
+<xocs:pixel-width>588</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805000113-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805000113/gr1/THUMBNAIL/image/gif/daf3aae51e63cabac8664802643e42e8/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805000113/gr1/THUMBNAIL/image/gif/daf3aae51e63cabac8664802643e42e8/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2439</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>78</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805000113-gr4.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805000113/gr4/DOWNSAMPLED/image/jpeg/7ed40616aca3f8925b4f9701de2dd3a2/gr4.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805000113/gr4/DOWNSAMPLED/image/jpeg/7ed40616aca3f8925b4f9701de2dd3a2/gr4.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>110730</xocs:filesize>
+<xocs:pixel-height>581</xocs:pixel-height>
+<xocs:pixel-width>355</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805000113-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805000113/gr4/THUMBNAIL/image/gif/6a3064725a3f9612e4e59c783b8219a1/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805000113/gr4/THUMBNAIL/image/gif/6a3064725a3f9612e4e59c783b8219a1/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2003</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>57</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805000113-gr2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805000113/gr2/DOWNSAMPLED/image/gif/f437c767fceef62160c2b5434f6f74ec/gr2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805000113/gr2/DOWNSAMPLED/image/gif/f437c767fceef62160c2b5434f6f74ec/gr2.gif</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>6425</xocs:filesize>
+<xocs:pixel-height>262</xocs:pixel-height>
+<xocs:pixel-width>276</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805000113-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805000113/gr2/THUMBNAIL/image/gif/d48c362dc892ee79c71625665a2708b9/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805000113/gr2/THUMBNAIL/image/gif/d48c362dc892ee79c71625665a2708b9/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1449</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>98</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805000113-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805000113/gr3/DOWNSAMPLED/image/jpeg/e406a168f607611289048376d6d42de4/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805000113/gr3/DOWNSAMPLED/image/jpeg/e406a168f607611289048376d6d42de4/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>89771</xocs:filesize>
+<xocs:pixel-height>393</xocs:pixel-height>
+<xocs:pixel-width>355</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805000113-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805000113/gr3/THUMBNAIL/image/gif/62e90373873a00bfa3c648e27c17c0b3/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805000113/gr3/THUMBNAIL/image/gif/62e90373873a00bfa3c648e27c17c0b3/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3029</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>84</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805000113-gr8.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805000113/gr8/DOWNSAMPLED/image/jpeg/ade4eff310249b238dde08aab6476550/gr8.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805000113/gr8/DOWNSAMPLED/image/jpeg/ade4eff310249b238dde08aab6476550/gr8.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>109502</xocs:filesize>
+<xocs:pixel-height>557</xocs:pixel-height>
+<xocs:pixel-width>355</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805000113-gr8.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805000113/gr8/THUMBNAIL/image/gif/5ad5b1ed53fed7d2eeabeb4023f67a32/gr8.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805000113/gr8/THUMBNAIL/image/gif/5ad5b1ed53fed7d2eeabeb4023f67a32/gr8.sml</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2207</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>59</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805000113-gr9.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805000113/gr9/DOWNSAMPLED/image/gif/bf06a24cf9bf9ff7931d8003ce6a0721/gr9.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805000113/gr9/DOWNSAMPLED/image/gif/bf06a24cf9bf9ff7931d8003ce6a0721/gr9.gif</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>22125</xocs:filesize>
+<xocs:pixel-height>852</xocs:pixel-height>
+<xocs:pixel-width>334</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805000113-gr9.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805000113/gr9/THUMBNAIL/image/gif/6bbd3b8390cb951e5d25e75eb403a63e/gr9.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805000113/gr9/THUMBNAIL/image/gif/6bbd3b8390cb951e5d25e75eb403a63e/gr9.sml</xocs:ucs-locator>
+<xocs:file-basename>gr9</xocs:file-basename>
+<xocs:filename>gr9.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>901</xocs:filesize>
+<xocs:pixel-height>92</xocs:pixel-height>
+<xocs:pixel-width>36</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805000113-gr7.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805000113/gr7/DOWNSAMPLED/image/jpeg/37e272fe485b7902d385e81aadb77787/gr7.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805000113/gr7/DOWNSAMPLED/image/jpeg/37e272fe485b7902d385e81aadb77787/gr7.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>108837</xocs:filesize>
+<xocs:pixel-height>557</xocs:pixel-height>
+<xocs:pixel-width>355</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805000113-gr7.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805000113/gr7/THUMBNAIL/image/gif/f702285d3147aaa171fa3cb9e3fa6131/gr7.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805000113/gr7/THUMBNAIL/image/gif/f702285d3147aaa171fa3cb9e3fa6131/gr7.sml</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2156</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>59</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805000113-gr6.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805000113/gr6/DOWNSAMPLED/image/jpeg/f9446685332496c02ba4cc088b264dfc/gr6.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805000113/gr6/DOWNSAMPLED/image/jpeg/f9446685332496c02ba4cc088b264dfc/gr6.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>108464</xocs:filesize>
+<xocs:pixel-height>560</xocs:pixel-height>
+<xocs:pixel-width>355</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805000113-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805000113/gr6/THUMBNAIL/image/gif/679da411149613ccc30f350953772807/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805000113/gr6/THUMBNAIL/image/gif/679da411149613ccc30f350953772807/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2077</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>59</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805000113-gr5.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805000113/gr5/DOWNSAMPLED/image/gif/b1aceca579dd689fb91840bc634ee7c4/gr5.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805000113/gr5/DOWNSAMPLED/image/gif/b1aceca579dd689fb91840bc634ee7c4/gr5.gif</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>20185</xocs:filesize>
+<xocs:pixel-height>824</xocs:pixel-height>
+<xocs:pixel-width>317</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805000113-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805000113/gr5/THUMBNAIL/image/gif/6570acb0e6d2b4bf32732ae82f9af2e5/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805000113/gr5/THUMBNAIL/image/gif/6570acb0e6d2b4bf32732ae82f9af2e5/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>888</xocs:filesize>
+<xocs:pixel-height>94</xocs:pixel-height>
+<xocs:pixel-width>36</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805000113-gr10.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805000113/gr10/DOWNSAMPLED/image/gif/74a05334f70ef68367bf496fc9911533/gr10.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805000113/gr10/DOWNSAMPLED/image/gif/74a05334f70ef68367bf496fc9911533/gr10.gif</xocs:ucs-locator>
+<xocs:file-basename>gr10</xocs:file-basename>
+<xocs:filename>gr10.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>13882</xocs:filesize>
+<xocs:pixel-height>577</xocs:pixel-height>
+<xocs:pixel-width>363</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838805000113-gr10.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838805000113/gr10/THUMBNAIL/image/gif/b337cd1978f18c5bd03d211e41c838ce/gr10.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838805000113/gr10/THUMBNAIL/image/gif/b337cd1978f18c5bd03d211e41c838ce/gr10.sml</xocs:ucs-locator>
+<xocs:file-basename>gr10</xocs:file-basename>
+<xocs:filename>gr10.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1056</xocs:filesize>
+<xocs:pixel-height>92</xocs:pixel-height>
+<xocs:pixel-width>58</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>11950</aid>
+<ce:pii>S0925-8388(05)00011-3</ce:pii>
+<ce:doi>10.1016/j.jallcom.2004.12.039</ce:doi>
+<ce:copyright type="full-transfer" year="2005">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">SEM photomicrograph of (a) Al–5Ti–0.8C master alloy containing TiAl<ce:inf loc="post">3</ce:inf> and TiC particles in Al matrix, (b) Al–5Ti–1.2C master alloy containing only TiC particles in Al matrix, (c) and (d) TiC particles at higher magnification and (e) EDX spectrum of a TiC particle.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">XRD patterns of Al–5Ti–0.8C and Al–5Ti–1.2C master alloys and those of extracted TiC particles.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Photomacrographs of Al grain refined using Al–5Ti–0.8C master alloy at (a) 0.2% and (b) 1% addition levels.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Photomacrographs of Al grain refined using (a) 0.2% of Al–5Ti–1.2C, (b) 0.2% and (c) 1% of Al–5Ti–1B master alloy.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Grain size of Al grain refined using Al–5Ti–0.8C, Al–5Ti–1.2C and Al–5Ti–1B master alloys at (a) 0.2%, (b) 0.5% and (c) 1.0% addition levels.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Photomacrographs of Al–7Si grain refined using Al–5Ti–0.8C master alloy at (a) 0.2%, (b) 0.5% and (c) 1.0% addition levels.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+<ce:figure id="fig7">
+<ce:label>Fig. 7</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Photomacrographs of Al–7Si grain refined using Al–5Ti–1.2C master alloy at (a) 0.2%, (b) 0.5% and (c) 1.0% addition levels.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr7"></ce:link>
+</ce:figure>
+<ce:figure id="fig8">
+<ce:label>Fig. 8</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Photomacrographs of Al–7Si grain refined using Al–5Ti–1B master alloy at (a) 0.2%, (b) 0.5% and (c) 1.0% addition levels.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr8"></ce:link>
+</ce:figure>
+<ce:figure id="fig9">
+<ce:label>Fig. 9</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Grain size of Al–7Si grain refined using Al–5Ti–0.8C, Al–5Ti–1.2C and Al–5Ti–1B master alloys at (a) 0.2%, (b) 0.5% and (c) 1.0% addition levels.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr9"></ce:link>
+</ce:figure>
+<ce:figure id="fig10">
+<ce:label>Fig. 10</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Poisoning and fading effect of Al–5Ti–0.8C, Al–5Ti–1.2C and Al–5Ti–1B master alloys in Al and Al–7Si alloy. (a) Fading in Al, (b) poisoning<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>fading in Al–7Si alloy on long holding.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr10"></ce:link>
+</ce:figure>
+<ce:table colsep="0" frame="topbot" id="tbl1" rowsep="0" xmlns="http://www.elsevier.com/xml/common/cals/dtd">
+<ce:label>Table 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Poisoning and fading effect in Al and Al–7Si alloy</ce:simple-para>
+</ce:caption>
+<tgroup cols="9">
+<colspec colname="col1"></colspec>
+<colspec colname="col2"></colspec>
+<colspec colname="col3"></colspec>
+<colspec colname="col4"></colspec>
+<colspec colname="col5"></colspec>
+<colspec colname="col6"></colspec>
+<colspec colname="col7"></colspec>
+<colspec colname="col8"></colspec>
+<colspec colname="col9"></colspec>
+<thead valign="top">
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">Master alloy addition level</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>D</italic>
+<inf loc="post">120-Al</inf>
+<hsp sp="0.25"></hsp>−<hsp sp="0.25"></hsp>
+<italic>D</italic>
+<inf loc="post">2-Al</inf> (fading in Al)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>D</italic>
+<inf loc="post">2-AlSi</inf>
+<hsp sp="0.25"></hsp>−<hsp sp="0.25"></hsp>
+<italic>D</italic>
+<inf loc="post">2-Al</inf> (poisoning with Si on short holding)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>D</italic>
+<inf loc="post">120-AlSi</inf>
+<hsp sp="0.25"></hsp>−<hsp sp="0.25"></hsp>
+<italic>D</italic>
+<inf loc="post">120-Al</inf> (poisoning with Si on long holding)</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<italic>D</italic>
+<inf loc="post">120-AlSi</inf>
+<hsp sp="0.25"></hsp>−<hsp sp="0.25"></hsp>
+<italic>D</italic>
+<inf loc="post">2-AlSi</inf> (poisoning<hsp sp="0.25"></hsp>+<hsp sp="0.25"></hsp>fading with Si on long holding)</entry>
+<entry align="left" nameend="col7" namest="col6" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">{(<italic>D</italic>
+<inf loc="post">120</inf>
+<hsp sp="0.25"></hsp>−<hsp sp="0.25"></hsp>
+<italic>D</italic>
+<inf loc="post">120S</inf>)/(<italic>D</italic>
+<inf loc="post">120</inf>
+<hsp sp="0.25"></hsp>−<hsp sp="0.25"></hsp>
+<italic>D</italic>
+<inf loc="post">2</inf>)}<hsp sp="0.25"></hsp>×<hsp sp="0.25"></hsp>100 (% recovery on stirring) (settling contribution to fading)</entry>
+<entry align="left" nameend="col9" namest="col8" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">{(<italic>D</italic>
+<inf loc="post">120S</inf>
+<hsp sp="0.25"></hsp>−<hsp sp="0.25"></hsp>
+<italic>D</italic>
+<inf loc="post">2</inf>)/(<italic>D</italic>
+<inf loc="post">120</inf>
+<hsp sp="0.25"></hsp>−<hsp sp="0.25"></hsp>
+<italic>D</italic>
+<inf loc="post">2</inf>)}<hsp sp="0.25"></hsp>×<hsp sp="0.25"></hsp>100 (dissolution contribution to fading)</entry>
+</row>
+<row>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd"></entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Al–Si</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Al</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Al–Si</entry>
+<entry align="left" rowsep="1" xmlns="http://www.elsevier.com/xml/common/dtd">Al</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" nameend="col9" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Al–5Ti–0.8C</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>0.2%</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">37</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">2</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">40</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">75</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">97</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">54</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">3</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">46</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>0.5%</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">16</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">55</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">66</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">97</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">31</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">3</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">69</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>1.0%</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">15</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">2</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">38</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">55</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">97</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">20</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">3</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">80</entry>
+</row>
+<row>
+<entry align="left" nameend="col9" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<vsp sp="0.5"></vsp>
+</entry>
+</row>
+<row>
+<entry align="left" nameend="col9" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Al–5Ti–1.2C</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>0.2%</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">62</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">115</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">58</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">80</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">100</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">20</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>0.5%</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">2</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">75</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">113</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">40</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">50</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">100</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">50</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>1.0%</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">2</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">103</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">156</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">55</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">72</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">100</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">28</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0</entry>
+</row>
+<row>
+<entry align="left" nameend="col9" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">
+<vsp sp="0.5"></vsp>
+</entry>
+</row>
+<row>
+<entry align="left" nameend="col9" namest="col1" xmlns="http://www.elsevier.com/xml/common/dtd">Al–5Ti–1B</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>0.2%</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">25</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">170</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">225</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">80</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">100</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">60</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">13</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">40</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>0.5%</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">18</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">69</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">115</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">64</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">179</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">55</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">45</entry>
+</row>
+<row>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">
+<hsp sp="1.0"></hsp>1.0%</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">10</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">56</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">110</entry>
+<entry align="left" xmlns="http://www.elsevier.com/xml/common/dtd">64</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">179</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">50</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">0</entry>
+<entry align="char" char="." xmlns="http://www.elsevier.com/xml/common/dtd">50</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>
+</ce:floats>
+<ce:title>Development of Al–Ti–C grain refiners and study of their grain refining efficiency on Al and Al–7Si alloy</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>G.S.</ce:given-name>
+<ce:surname>Vinod Kumar</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>B.S.</ce:given-name>
+<ce:surname>Murty</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="cor1">*</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Chakraborty</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation id="aff1">
+<ce:label>a</ce:label>
+<ce:textfn>Department of Metallurgical and Materials Engineering, Indian Institute of Technology, Kharagpur 721 302, India</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff2">
+<ce:label>b</ce:label>
+<ce:textfn>Department of Metallurgical and Materials Engineering, Indian Institute of Technology Madras, Chennai 600 036, India</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>*</ce:label>
+<ce:text>Corresponding author. +91 44 2257 8589; fax: +91 44 2257 0509.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="16" month="11" year="2004"></ce:date-received>
+<ce:date-accepted day="7" month="12" year="2004"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">Al–5Ti–0.8C and Al–5Ti–1.2C master alloys have been successfully prepared by reaction of K<ce:inf loc="post">2</ce:inf>TiF<ce:inf loc="post">6</ce:inf> salt and graphite powder with molten Al. While the Al–5Ti–0.8C consists of some TiAl<ce:inf loc="post">3</ce:inf> particles in addition to TiC particles in the Al matrix, the Al–5Ti–1.2C master alloy revealed the presence of only TiC particles. The grain refining efficiency of these two master alloys has been compared with that of the conventional Al–5Ti–1B master alloy on Al and Al–7Si alloy at different addition levels. Al–5Ti–1.2C master alloy was found to be the most efficient grain refiner for Al amongst the grain refiners studied. Even in case of Al–7Si alloy, the Al–5Ti–0.8C and Al–5Ti–1.2C master alloys performed better than conventional Al–5Ti–1B master alloy. However, the Al–5Ti–1.2C master alloy shows poor response to grain refinement in Al–7Si alloy at higher addition levels than the Al–5Ti–0.8C master alloy, indicating poisoning.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Castings</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Scanning electron microscopy</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>X-ray diffraction</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Al–Ti–C</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">The discovery of carbide–boride theory by Cibula <ce:cross-ref refid="bib1">[1]</ce:cross-ref> resulted in the development of Al–Ti–B master alloys as grain refiners for Al and its alloys. These master alloys contain TiAl<ce:inf loc="post">3</ce:inf> and TiB<ce:inf loc="post">2</ce:inf> particles, which act as a heterogeneous nucleation sites for Al during solidification <ce:cross-refs refid="bib2 bib3">[2,3]</ce:cross-refs>. Unfortunately, agglomeration of insoluble TiB<ce:inf loc="post">2</ce:inf> particles has resulted in quality problems, particularly in areas like foil and electrical applications <ce:cross-ref refid="bib2">[2]</ce:cross-ref>. Another important draw back of Al–Ti–B master alloys is their fading and poisoning behavior in some Al alloys <ce:cross-refs refid="bib2 bib3">[2,3]</ce:cross-refs>. These limitations of Al–Ti–B master alloy have led to the development of Al–Ti–C master alloys <ce:cross-refs refid="bib4 bib5 bib6 bib7 bib8 bib9 bib10 bib11 bib12">[4–12]</ce:cross-refs>. In contrast to Al–Ti–B master alloys, very little success was achieved in promoting TiC as a potential grain refiner, primarily because of great difficulties encountered in alloying an Al–Ti melt with carbon. Another reason is the formation of Al<ce:inf loc="post">4</ce:inf>C<ce:inf loc="post">3</ce:inf> and Ti<ce:inf loc="post">3</ce:inf>AlC<ce:inf loc="post">5</ce:inf> under certain conditions, which decrease the grain refining potency of Al–Ti–C master alloy <ce:cross-ref refid="bib4">[4]</ce:cross-ref>.</ce:para>
+<ce:para view="all">Al–Ti–C master alloys have been prepared so far by melting the elemental blends <ce:cross-refs refid="bib5 bib6">[5,6]</ce:cross-refs>, reaction of carbon with Al–Ti master alloy <ce:cross-refs refid="bib4 bib7 bib8 bib9">[4,7–9]</ce:cross-refs>, self propagating high temperature synthesis <ce:cross-refs refid="bib10 bib11">[10,11]</ce:cross-refs> and reaction of molten Al with K<ce:inf loc="post">2</ce:inf>TiF<ce:inf loc="post">6</ce:inf> and graphite powder <ce:cross-refs refid="bib12 bib13">[12,13]</ce:cross-refs>. However, there has been no report so far on the formation of TiC alone in the matrix of Al by the melt route. All the investigations involving Al melt so far revealed the formation of TiAl<ce:inf loc="post">3</ce:inf> along with TiC. Yang et al. <ce:cross-ref refid="bib14">[14]</ce:cross-ref>, while preparing Al–TiC composites by powder metallurgy route observed that TiAl<ce:inf loc="post">3</ce:inf> can be completely eliminated if the Ti:C ratio is 1:1.3.</ce:para>
+<ce:para view="all">There have also been reports that TiC is not stable in Al <ce:cross-refs refid="bib15 bib16 bib17">[15–17]</ce:cross-refs> and Al–Si melts <ce:cross-refs refid="bib18 bib19">[18,19]</ce:cross-refs>. Mohanty and Gruzleski <ce:cross-ref refid="bib18">[18]</ce:cross-ref> observed that TiC particles completely decompose within 30<ce:hsp sp="0.25"></ce:hsp>min of holding in Al–Si alloy melt. It is important to note that the existing literature on Al–Ti–C master alloys indicates that they are either inferior to <ce:cross-ref refid="bib20">[20]</ce:cross-ref> or as good as <ce:cross-refs refid="bib4 bib12">[4,12]</ce:cross-refs> conventional Al–5Ti–1B master alloy in terms of their grain refining efficiency. Thus, the present study attempts to synthesize Al–Ti–C master alloys that primarily contain TiC and no or insignificant amount of TiAl<ce:inf loc="post">3</ce:inf> particles and compare their grain refining efficiency with conventional Al–5Ti–1B master alloy in case of Al and Al–7Si alloy.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental details</ce:section-title>
+<ce:para view="all">Al–5Ti–0.8C and Al–5Ti–1.2C were prepared in the laboratory by the reaction of K<ce:inf loc="post">2</ce:inf>TiF<ce:inf loc="post">6</ce:inf> (titanium source) and graphite power (carbon source) with molten Al (99.7% purity) at 1200<ce:hsp sp="0.25"></ce:hsp>°C for 60<ce:hsp sp="0.25"></ce:hsp>min. The Ti content of the master alloys was analyzed to be 4.8 and 4.9% and carbon to be 0.8 and 1.2%, respectively. The master alloys so obtained were characterized by X-ray diffraction (XRD), scanning electron microscopy (SEM) and energy dispersive X-ray (EDX) microanalysis. From the bulk master alloy, TiC and TiAl<ce:inf loc="post">3</ce:inf> particles has been extracted using 10% NaOH solution for XRD characterization. For grain refinement studies, Al and Al–7Si alloys have been melted (700<ce:hsp sp="0.25"></ce:hsp>g) in a pit type resistance furnace under a cover flux at 720<ce:hsp sp="0.25"></ce:hsp>°C. After degassing with hexachloroethane, the melt was grain refined with different addition levels of the master alloys. Parts of the melt were poured at regular intervals (0, 2, 5, 30, 60, 120 and 120S<ce:hsp sp="0.25"></ce:hsp>min) into a cylindrical graphite mold (25<ce:hsp sp="0.25"></ce:hsp>mm diameter and 100<ce:hsp sp="0.25"></ce:hsp>mm height), surrounded by fire clay brick in order to achieve slow cooling conditions. The sample designated as 0<ce:hsp sp="0.25"></ce:hsp>min refers to that part of the melt, which was cast before the addition of the grain refiner. The sample designated as 120S<ce:hsp sp="0.25"></ce:hsp>min refers to melt which remained in the crucible after 120<ce:hsp sp="0.25"></ce:hsp>min holding, stirred and poured. The grain refined samples were characterized by macroscopy after etching the samples with Poultan's reagent and grain size analysis was carried out by the linear intercept method using an image analyzer.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:para view="all">The SEM photomicrograph (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor>a) of Al–5Ti–0.8C master alloy shows the presence of fine particles of 0.5–1<ce:hsp sp="0.25"></ce:hsp>μm size along with plate like particles in the Al matrix. The EDX microanalysis suggests that the fine particles are TiC, while the plate like particles are TiAl<ce:inf loc="post">3</ce:inf>. In the case of Al–5Ti–1.2C no TiAl<ce:inf loc="post">3</ce:inf> particles could be detected (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>b). A thorough microstructural study showed that the number of TiC particles is less in Al–5Ti–0.8C master alloy when compared to Al–5Ti–1.2C. At higher magnification (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>c and d) the photomicrographs show the morphology of TiC particles, which are mostly faceted and blocky in nature. The EDX spectrum obtained from the fine particles (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>e) shows the presence of Al, Ti and C peaks. The Al peak observed in the spectrum is possibly the contribution of the matrix Al due to the fineness of the TiC particles. The XRD pattern (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor>) of the bulk and extracted particles confirms the presence of fcc TiC in the master alloys. The absence of TiAl<ce:inf loc="post">3</ce:inf> peaks in the extracted particles of Al–5Ti–1.2C master alloy confirms the result of microscopy. The composition of the alloys has been confirmed from both wet chemical analysis and also from the weight fraction of the extracted TiC particles in the master alloys. The existence of TiAl<ce:inf loc="post">3</ce:inf> particles in the Al–5Ti–0.8C can be understood from the fact that the ratio of the weight fraction of Ti and C in TiC is 4:1 and hence 0.8% C needs about 3.2% Ti to form TiC. The excess Ti available in the master alloy reacts with Al and forms TiAl<ce:inf loc="post">3</ce:inf>. In case of Al–5Ti–1.2C, the Ti:C ratio is very close to 4:1 and hence no excess Ti is available for the formation of TiAl<ce:inf loc="post">3</ce:inf>. Thus, the present study could successfully suppress the formation of TiAl<ce:inf loc="post">3</ce:inf> and could demonstrate the formation of single phase TiC in Al matrix in Al–5Ti–1.2C master alloy.</ce:para>
+<ce:section view="all">
+<ce:label>3.1</ce:label>
+<ce:section-title>Grain refinement of Al</ce:section-title>
+<ce:para view="all">The photomacrographs of Al grain refined with 0.2 and 1% of Al–5Ti–0.8C master alloy are shown in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor>a and b, respectively. Even at lower addition level of 0.2%, the master alloy showed good grain refinement on both short and longer holding time with a conversion from coarse columnar grain structure to fine equiaxed one as shown in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>a. However, some fading is observed on long holding for 120<ce:hsp sp="0.25"></ce:hsp>min, which has been recovered after stirring (120S<ce:hsp sp="0.25"></ce:hsp>min sample of <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>a). With increasing addition level to 1% further improvement in grain refinement is visible from <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>b. In addition, no significant fading was observed on long holding with 1% addition of the master alloy.</ce:para>
+<ce:para view="all">Al grain refined with 0.2% addition level of Al–5Ti–1.2C master alloy exhibits fine equiaxed grain structure within 2<ce:hsp sp="0.25"></ce:hsp>min holding (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor>a). The grain structure remained fine equiaxed upto 120<ce:hsp sp="0.25"></ce:hsp>min of holding. At higher addition levels the grain structure was finer at all holding times, which could be attributed to the addition of higher amount of TiC particles. No significant fading of grain structure has been observed on longer holding. The results of Al grain refined with different addition levels of Al–5Ti–1.2C master alloys are compared with the commercial Al–5Ti–1B master alloy at same addition level. Though Al–5Ti–1B is an efficient grain refiner for pure Al at 0.2% addition level (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>b), the fineness in the grain size obtained in the case of Al–5Ti–1.2C is better than Al–5Ti–1B master alloy at this addition level. Fading of grain structure on longer holding is more prominent in the case of Al–5Ti–1B master alloy at this addition level. Higher addition level of Al–5Ti–1B master alloy of about 1% (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>c) could overcome the fading effect and fine equiaxed grain structure was obtained even after long holding up to 120<ce:hsp sp="0.25"></ce:hsp>min.</ce:para>
+<ce:para view="all">The grain size analysis of Al grain refined with Al–5Ti–0.8C, Al–5Ti–1.2C and Al–5Ti–1B master alloys are shown in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="fig5"></ce:float-anchor>a–c, respectively. The grain size analysis confirmed the results of macroscopy. At all addition levels and at all holding times, the Al–5Ti–1.2C master alloy has shown better grain refining efficiency than the other two master alloys. The extent of fading is insignificant for this grain refiner in comparison to the other two. The results also indicate that Al–5Ti–1B master alloy has better grain refining efficiency than that of Al–5Ti–0.8C at all addition levels.</ce:para>
+<ce:para view="all">These results clearly indicate that TiC is a better nucleant for α-Al than TiB<ce:inf loc="post">2</ce:inf> and TiAl<ce:inf loc="post">3</ce:inf>. This could be due to the fact that TiC has fcc structure, while the other two particles are non-cubic. Thus, there is tendency for larger number of facets of the TiC particles to act as nucleating sites for Al than the other two particles. The results also show that Al-5Ti-1B has a better grain refining efficiency towards Al than Al–5Ti–0.8C. This could be due to larger fraction of particles available in the former master alloy. From the stoichiometry of TiB<ce:inf loc="post">2</ce:inf> it is known that 1% of B requires 2.2% of Ti for its formation and this will lead to 3.2<ce:hsp sp="0.25"></ce:hsp>wt.% of TiB<ce:inf loc="post">2</ce:inf> in the master alloy. The remaining 2.8% of Ti in the master alloy will react with Al and results in the formation of 7.6% of TiAl<ce:inf loc="post">3</ce:inf>. Thus, the Al–5Ti–1B master alloy will have 10.8<ce:hsp sp="0.25"></ce:hsp>wt.% of nucleating particles. In contrast, in the Al–5Ti–0.8C master alloy, the C will react with 3.2% of Ti (according to its stoichiometry) and will yield 4<ce:hsp sp="0.25"></ce:hsp>wt.% of TiC particles. The residual Ti will react with Al and will yield 4.9% of TiAl<ce:inf loc="post">3</ce:inf>. Thus, the Al–5Ti–0.8C master alloy would consist of 8.9% of nucleating particles in comparison to the 10.8% in case of Al–5Ti–1B. Hence, the poorer grain refining efficiency of the former alloy can be attributed to its lower fraction of nucleating particles.</ce:para>
+<ce:para view="all">The present results also indicate more pronounced fading in case of Al–5Ti–1B master alloy in comparison to Al–5Ti–1.2C. The density of TiC, TiB<ce:inf loc="post">2</ce:inf> and TiAl<ce:inf loc="post">3</ce:inf> are 4.9, 4.2 and 3.1<ce:hsp sp="0.25"></ce:hsp>g/cc, respectively. Microstructural characterization has shown that TiB<ce:inf loc="post">2</ce:inf> and TiC have more or less similar particle size (∼1<ce:hsp sp="0.25"></ce:hsp>μm), while TiAl<ce:inf loc="post">3</ce:inf> is large in size (∼20<ce:hsp sp="0.25"></ce:hsp>μm). Based on the particle size and densities, it is expected that TiC particles settle faster than TiB<ce:inf loc="post">2</ce:inf>. Though the particle size of TiAl<ce:inf loc="post">3</ce:inf> is larger, the studies in the present author's laboratory showed that TiAl<ce:inf loc="post">3</ce:inf> particle do not settle significantly up to 120<ce:hsp sp="0.25"></ce:hsp>min of holding, due to their lower density. However, dissolution of TiAl<ce:inf loc="post">3</ce:inf> in Al melt on long holding has been reported earlier <ce:cross-ref refid="bib3">[3]</ce:cross-ref>, which could cause fading, at least partially, in Al–5Ti–1B master alloy. Earlier studies have indicated that TiC is more metallic than TiB<ce:inf loc="post">2</ce:inf>, which is more covalent in nature <ce:cross-refs refid="bib21 bib22">[21,22]</ce:cross-refs>. Hence it is expected that TiC has lower surface energy than TiB<ce:inf loc="post">2</ce:inf>. As a result, the tendency of agglomeration is expected to be less pronounced for TiC as compared to TiB<ce:inf loc="post">2</ce:inf> particles. Thus the fading observed in Al–5Ti–1B master alloy could be attributed to the possible settling of TiB<ce:inf loc="post">2</ce:inf> due to agglomeration and dissolution of TiAl<ce:inf loc="post">3</ce:inf> on long holding.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3.2</ce:label>
+<ce:section-title>Grain refinement of Al–7Si</ce:section-title>
+<ce:para view="all">
+<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="fig6"></ce:float-anchor>a–c shows the photomacrographs of Al–7Si alloy grain refined with 0.2, 0.5 and 1% addition of Al–5Ti–0.8C master alloy, respectively. It is clear from <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>a that within 2<ce:hsp sp="0.25"></ce:hsp>min holding after the addition of grain refiner (Al–5Ti–0.8C) fine equiaxed grain structure was obtained. Slight fading of grain structure was observed after 120<ce:hsp sp="0.25"></ce:hsp>min, which is recovered on stirring (120S<ce:hsp sp="0.25"></ce:hsp>min sample). Increased addition level of grain refiner up to 0.5% does not result in any significant improvement in grain refinement (<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>b). Further increase in the addition level of grain refiner to 1% has shown some improvement in grain refining efficiency as shown in <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>c. At all addition levels, the 120S<ce:hsp sp="0.25"></ce:hsp>min samples show finer grain structure. For the same addition level (0.2 and 0.5%), the grain refining efficiency of Al–5Ti–1.2C master alloy (<ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+<ce:float-anchor refid="fig7"></ce:float-anchor>a and b) is better than that of Al–5Ti–0.8C master alloy. Some fading of grain structure was observed on longer holding. Interestingly, no recovery from fading has been observed in the case of Al–5Ti–1.2C master alloy whereas significant recovery was observed in Al–5Ti–0.8C master alloy after stirring (120S<ce:hsp sp="0.25"></ce:hsp>min sample). Further addition level of 1.0% Al–5Ti–1.2C grain refiner in Al–7Si alloy exhibits poor grain refinement (<ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>c) when compared to the lower addition levels, which is different from the results of Al–5Ti–0.8C (<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>c).</ce:para>
+<ce:para view="all">Al–7Si grain refined using Al–5Ti–1B at 0.2% addition level (<ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>
+<ce:float-anchor refid="fig8"></ce:float-anchor>a) exhibits poor grain refinement at all holding time when compared to Al–5Ti–0.8C and Al–5Ti–1.2C master alloys. An increase in the addition level to 0.5 and 1.0% shows an improvement in grain refinement (<ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>b). However slight fading is evident on longer holding even at these addition levels. Stirring after long holding has resulted in an improvement in grain refinement (120S<ce:hsp sp="0.25"></ce:hsp>min) in case of Al–5Ti–1B master alloy at all addition levels, in contrast to Al–5Ti–1.2C, which has not shown any improvement on stirring after long holding. Addition of 1.0% Al–5Ti–1B master alloy shows better grain refinement than Al–5Ti–0.8C and Al–5Ti–1.2C master alloy at the same addition level. From the grain size analysis (<ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref>
+<ce:float-anchor refid="fig9"></ce:float-anchor>a–c) it is clear that the grain size obtained at 0.2 and 0.5% addition level of Al–5Ti–1.2C is finer when compared to Al–5Ti–0.8C and Al–5Ti–1B master alloys (<ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref>a and b). An increase in grain size of Al–7Si is observed when 1% of Al–5Ti–1.2C master alloy was added, while similar addition of Al–5Ti–0.8C and Al–5Ti–1B master alloys caused a further decrease in the grain size. Thus, at 1% addition level, Al–5Ti–1B master alloy resulted in the lowest grain size of Al–7Si among the three master alloys studied.</ce:para>
+<ce:para view="all">In order to understand the phenomena of fading and poisoning of Al–Ti–C master alloys the existing grain size analysis results have been used to evaluate certain key parameters, which have been shown in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+<ce:float-anchor refid="tbl1"></ce:float-anchor> and <ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref>
+<ce:float-anchor refid="fig10"></ce:float-anchor>a and b. The first among these is the grain size difference of Al between 120 and 2<ce:hsp sp="0.25"></ce:hsp>min holding. This would define the extent of fading in Al with the addition of different grain refiners. <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref> and <ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref>a show clearly that Al–5Ti–1.2C master alloy exhibits minimum fading in Al at all addition levels when compared to Al–5Ti–0.8C and Al–5Ti–1B master alloys. However, the extent of fading in the grain size of Al decreases with increase in addition level in case of Al–5Ti–0.8C and Al–5Ti–1B master alloys. This could be attributed to the decrease in the agglomeration tendency of TiC and TiB<ce:inf loc="post">2</ce:inf> particles with increasing amount of Ti dissolved in the melt.</ce:para>
+<ce:para view="all">The other parameter is the extent of poisoning with Si at short holding time. This can be expressed from the difference between the grain size of Al–Si alloy and Al after 2<ce:hsp sp="0.25"></ce:hsp>min of holding. Based on this parameter it is clear from <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref> Al–5Ti–0.8C gives the best performance in comparison to the other two alloys. This indicates that Si poisons TiC and TiB<ce:inf loc="post">2</ce:inf> more than TiAl<ce:inf loc="post">3</ce:inf>. The increase in the poisoning effect with increase in the addition level Al–5Ti–1.2C master alloy could be attributed to the increased addition of TiC particles. In contrast, in case of Al–5Ti–1B master alloy the increased addition level provides more number of TiAl<ce:inf loc="post">3</ce:inf> particles, which can act as potent nucleating sites for Al. Hence the extent of poisoning decreases with increase in addition level. The extent of poisoning at long holding as shown in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref> also follows almost similar trend as that at short holding. The extent of poisoning and fading in Al–7Si alloy grain refined with Al–5Ti–1.2C master alloy is lower in comparison to the other two master alloys at lower addition level (<ce:cross-ref refid="tbl1">Table 1</ce:cross-ref> and <ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref>b). However at the higher addition level of 1.0% the extent of poisoning and fading with the Al–5Ti–1.2C master alloy increases and comes very close to that of other two master alloys.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="tbl1">Table 1</ce:cross-ref> also gives the % recovery of grain size on stirring for Al and Al–7Si with different grain refiners. The % recovery as defined by {(<ce:italic>D</ce:italic>
+<ce:inf loc="post">120</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>−<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>D</ce:italic>
+<ce:inf loc="post">120S</ce:inf>)/(<ce:italic>D</ce:italic>
+<ce:inf loc="post">120</ce:inf>
+<ce:hsp sp="0.25"></ce:hsp>−<ce:hsp sp="0.25"></ce:hsp>
+<ce:italic>D</ce:italic>
+<ce:inf loc="post">2</ce:inf>)}<ce:hsp sp="0.25"></ce:hsp>×<ce:hsp sp="0.25"></ce:hsp>100 basically gives the contribution of settling towards fading. In case of Al, though the table shows about 100% recovery for Al–5Ti–1.2C master alloy it should be remembered that the extent of fading itself is very small in this case and hence the question of recovery is meaningless. As TiC particles do not dissolve in the Al melt, the contribution of dissolution towards fading is almost zero in this case as shown in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>. In the case of Al–5Ti–0.8C and Al–5Ti–1B master alloys the settling contribution to fading arises from the TiC and TiB<ce:inf loc="post">2</ce:inf> particles, while the dissolution is due to the TiAl<ce:inf loc="post">3</ce:inf> particles.</ce:para>
+<ce:para view="all">In case of Al–7Si alloy, when Al–5Ti–1.2C master alloy used as the grain refiner the % recovery on stirring is lower than the other two alloys as the extent of settling of TiC particles is lower. In contrast, in case of Al–5Ti–0.8C and Al–5Ti–1B master alloy all the particles tend to settle down giving rise to almost 100% recovery. In presence of Si the dissolution tendency of TiAl<ce:inf loc="post">3</ce:inf> particles appears to decrease and hence all the TiAl<ce:inf loc="post">3</ce:inf> settle down on long holding along with TiC and TiB<ce:inf loc="post">2</ce:inf> particles. The Al–5Ti–1B alloy shows a peculiar behavior in case of Al–7Si alloy in the sense that its % recovery is higher than 100%. This could be attributed to very early settling (within 2<ce:hsp sp="0.25"></ce:hsp>min of holding) of the TiAl<ce:inf loc="post">3</ce:inf> and TiB<ce:inf loc="post">2</ce:inf> particles leading to large grain size at 2<ce:hsp sp="0.25"></ce:hsp>min holding time in comparison to 120S<ce:hsp sp="0.25"></ce:hsp>min holding. All those particles settled within 2<ce:hsp sp="0.25"></ce:hsp>min of holding become active on stirring after 120<ce:hsp sp="0.25"></ce:hsp>min of holding. In other words the number of active nucleating sites is higher in 120S<ce:hsp sp="0.25"></ce:hsp>min holding sample than in 2<ce:hsp sp="0.25"></ce:hsp>min one. This leads to finer grain size in 120S<ce:hsp sp="0.25"></ce:hsp>min sample in comparison to 2<ce:hsp sp="0.25"></ce:hsp>min sample in case of Al–5Ti–1B master alloy. This clearly demonstrates that TiB<ce:inf loc="post">2</ce:inf> settles much faster than TiC.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusions</ce:section-title>
+<ce:para view="all">
+<ce:list>
+<ce:list-item>
+<ce:label>1.</ce:label>
+<ce:para view="all">Al–5Ti–0.8C and Al–5Ti–1.2C master alloys have been prepared successfully by the reaction of molten Al with K<ce:inf loc="post">2</ce:inf>TiF<ce:inf loc="post">6</ce:inf> and graphite, and the formation of TiAl<ce:inf loc="post">3</ce:inf> could be completely suppressed in case of the later alloy.</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>2.</ce:label>
+<ce:para view="all">Al–5Ti–1.2C master alloy is more efficient grain refiner for Al than Al–5Ti–0.8C and Al–5Ti–1B master alloys both at shorter and longer holding times even at low addition levels of 0.2%.</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>3.</ce:label>
+<ce:para view="all">Al–7Si alloy can be effectively grain refined using Al–5Ti–0.8C and Al–5Ti–1.2C even at 0.2% addition level. The extent of poisoning of TiC with Si appears to increase at higher addition levels.</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>4.</ce:label>
+<ce:para view="all">TiB<ce:inf loc="post">2</ce:inf> appears to settle much faster than TiC, which can be attributed to its greater tendency for agglomeration.</ce:para>
+</ce:list-item>
+</ce:list>
+</ce:para>
+</ce:section>
+</ce:sections>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>References</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Cibula</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Inst. Met.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>76</sb:volume-nr>
+</sb:series>
+<sb:date>1949/1950</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>321</sb:first-page>
+<sb:last-page>360</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.G.</ce:given-name>
+<ce:surname>McCartney</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Int. Mater. Rev.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>34</sb:volume-nr>
+</sb:series>
+<sb:date>1989</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>247</sb:first-page>
+<sb:last-page>260</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>B.S.</ce:given-name>
+<ce:surname>Murty</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.A.</ce:given-name>
+<ce:surname>Kori</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Chakraborty</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Int. Mater. Rev.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>47</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>3</sb:first-page>
+<sb:last-page>29</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Banerji</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Reif</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metall. Trans. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>17</sb:volume-nr>
+</sb:series>
+<sb:date>1986</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2127</sb:first-page>
+<sb:last-page>2137</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.E.</ce:given-name>
+<ce:surname>Fine</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Mitra</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.R.</ce:given-name>
+<ce:surname>Weertman</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Z. Metallkunde.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>84</sb:volume-nr>
+</sb:series>
+<sb:date>1994</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>282</sb:first-page>
+<sb:last-page>285</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>X.N.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.C.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.J.</ce:given-name>
+<ce:surname>He</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Lett.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>57</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>3234</sb:first-page>
+<sb:last-page>3238</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Banerji</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Reif</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metall. Trans. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>16</sb:volume-nr>
+</sb:series>
+<sb:date>1985</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>2065</sb:first-page>
+<sb:last-page>2068</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Banerji</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Reif</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metall. Trans. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>20</sb:volume-nr>
+</sb:series>
+<sb:date>1989</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>564</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.E.W.</ce:given-name>
+<ce:surname>Jarfors</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Technol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>15</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>481</sb:first-page>
+<sb:last-page>494</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.G.</ce:given-name>
+<ce:surname>Kandalova</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.I.</ce:given-name>
+<ce:surname>Nikitin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.G.</ce:given-name>
+<ce:surname>Makarenko</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.R.</ce:given-name>
+<ce:surname>Luts</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scripta Metall.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>49</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>699</sb:first-page>
+<sb:last-page>703</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.Y.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Q.C.</ce:given-name>
+<ce:surname>Jiang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.L.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>F.</ce:given-name>
+<ce:surname>Zhao</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloys Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>366</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>L9</sb:first-page>
+<sb:last-page>L12</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Xiangfa</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.</ce:given-name>
+<ce:surname>Zhenqing</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.</ce:given-name>
+<ce:surname>Zuogui</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Xiufang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>322</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>70</sb:first-page>
+<sb:last-page>79</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>B.Q.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.S.</ce:given-name>
+<ce:surname>Fang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.O.</ce:given-name>
+<ce:surname>Lai</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.T.</ce:given-name>
+<ce:surname>Ma</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.G.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metall. Mater. Trans. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>34</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1727</sb:first-page>
+<sb:last-page>1733</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Yang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Design</sb:maintitle>
+</sb:title>
+<sb:volume-nr>22</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>645</sb:first-page>
+<sb:last-page>650</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Vandyoussefi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Worth</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.L.</ce:given-name>
+<ce:surname>Greer</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Technol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>16</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1121</sb:first-page>
+<sb:last-page>1128</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib16">
+<ce:label>[16]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.R.</ce:given-name>
+<ce:surname>Kennedy</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.P.</ce:given-name>
+<ce:surname>Weston</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.J.</ce:given-name>
+<ce:surname>Jones</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>316</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>32</sb:first-page>
+<sb:last-page>38</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib17">
+<ce:label>[17]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Tronche</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Vandyoussefi</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.L.</ce:given-name>
+<ce:surname>Greer</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Technol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>18</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1072</sb:first-page>
+<sb:last-page>1078</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib18">
+<ce:label>[18]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>P.S.</ce:given-name>
+<ce:surname>Mohanty</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.E.</ce:given-name>
+<ce:surname>Gruzleski</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Metall.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>44</sb:volume-nr>
+</sb:series>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>3749</sb:first-page>
+<sb:last-page>3760</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib19">
+<ce:label>[19]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>V.H.</ce:given-name>
+<ce:surname>Lopez</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Scoles</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.R.</ce:given-name>
+<ce:surname>Kennedy</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>356</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>316</sb:first-page>
+<sb:last-page>325</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib20">
+<ce:label>[20]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Mayes</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.G.</ce:given-name>
+<ce:surname>McCartney</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.J.</ce:given-name>
+<ce:surname>Tatlock</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>188</sb:volume-nr>
+</sb:series>
+<sb:date>1994</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>283</sb:first-page>
+<sb:last-page>290</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib21">
+<ce:label>[21]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Mitra</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.R.</ce:given-name>
+<ce:surname>Mahajan</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Bull. Mater. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>18</sb:volume-nr>
+</sb:series>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>405</sb:first-page>
+<sb:last-page>434</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib22">
+<ce:label>[22]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Cisse</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.F.</ce:given-name>
+<ce:surname>Bolling</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.W.</ce:given-name>
+<ce:surname>Keer</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Cryst. Growth</sb:maintitle>
+</sb:title>
+<sb:volume-nr>13/14</sb:volume-nr>
+</sb:series>
+<sb:date>1972</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>777</sb:first-page>
+<sb:last-page>781</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>

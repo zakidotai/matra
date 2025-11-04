@@ -1,0 +1,2629 @@
+<html><body><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838806000685</prism:url><dc:identifier>doi:10.1016/j.jallcom.2006.01.045</dc:identifier><eid>1-s2.0-S0925838806000685</eid><prism:doi>10.1016/j.jallcom.2006.01.045</prism:doi><pii>S0925-8388(06)00068-5</pii><dc:title>Microstructural characterization of Nd2O3 in in situ synthesized multiple-reinforced (TiB+TiC+Nd2O3)/Ti composites </dc:title><prism:publicationname>Journal of Alloys and Compounds</prism:publicationname><prism:aggregationtype>Journal</prism:aggregationtype><pubtype>fla</pubtype><prism:issn>09258388</prism:issn><prism:volume>425</prism:volume><prism:issueidentifier>1-2</prism:issueidentifier><prism:startingpage>379</prism:startingpage><prism:endingpage>383</prism:endingpage><prism:pagerange>379-383</prism:pagerange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverdate>2006-11-30</prism:coverdate><prism:coverdisplaydate>30 November 2006</prism:coverdisplaydate><prism:copyright>Copyright © 2006 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Yang, Z.F.</dc:creator><dc:creator>Lu, W.J.</dc:creator><dc:creator>Qin, J.N.</dc:creator><dc:creator>Gu, J.J.</dc:creator><dc:creator>Zhang, D.</dc:creator><dc:creator>Liu, J.L.</dc:creator><dc:description>
+                  In this work, the microstructures of Nd2O3 reinforcements in in situ synthesized (TiB+TiC+Nd2O3)/Ti composites were examined by back-scattered scanning electron microscopy (SEM) and transmission electron microscopy (TEM). The interfacial bonding microstructure and orientation relationship between Nd2O3 and α-Ti was observed utilizing transmission electron microscopy (TEM) and high-resolution transmission electron microscopy (HREM). The orientation relationship of Nd2O3 and α-Ti can be described as: 
+                        
+                           
+                              
+                                 [
+                                 1
+                                  
+                                 1
+                                  
+                                 0
+                                 ]
+                              
+                              
+                                 N
+                                 
+                                    d
+                                    2
+                                 
+                                 
+                                    O
+                                    3
+                                 
+                              
+                           
+                           /
+                           /
+                           
+                              
+                                 [
+                                 
+                                    1
+                                    ¯
+                                 
+                                  
+                                 2
+                                  
+                                 
+                                    1
+                                    ¯
+                                 
+                                  
+                                 
+                                    3
+                                    ¯
+                                 
+                                 ]
+                              
+                              
+                                 Ti
+                              
+                           
+                        
+                     ; 
+                        
+                           
+                              
+                                 (
+                                 1
+                                  
+                                 
+                                    1
+                                    ¯
+                                 
+                                  
+                                 1
+                                 )
+                              
+                              
+                                 N
+                                 
+                                    d
+                                    2
+                                 
+                                 
+                                    O
+                                    3
+                                 
+                              
+                           
+                           /
+                           /
+                           
+                              
+                                 (
+                                 1
+                                  
+                                 
+                                    1
+                                    ¯
+                                 
+                                  
+                                 0
+                                  
+                                 
+                                    1
+                                    ¯
+                                 
+                                 )
+                              
+                              
+                                 Ti
+                              
+                           
+                        
+                     ; 
+                        
+                           
+                              
+                                 (
+                                 0
+                                  
+                                 0
+                                  
+                                 1
+                                 )
+                              
+                              
+                                 N
+                                 
+                                    d
+                                    2
+                                 
+                                 
+                                    O
+                                    3
+                                 
+                              
+                           
+                           /
+                           /
+                           
+                              
+                                 (
+                                 2
+                                  
+                                 
+                                    1
+                                    ¯
+                                 
+                                  
+                                 
+                                    1
+                                    ¯
+                                 
+                                  
+                                 0
+                                 )
+                              
+                              
+                                 Ti
+                              
+                           
+                        
+                      and 
+                        
+                           
+                              
+                                 [
+                                 0
+                                  
+                                 0
+                                  
+                                 1
+                                 ]
+                              
+                              
+                                 N
+                                 
+                                    d
+                                    2
+                                 
+                                 
+                                    O
+                                    3
+                                 
+                              
+                           
+                           /
+                           /
+                           
+                              
+                                 [
+                                 
+                                    1
+                                    ¯
+                                 
+                                  
+                                 1
+                                  
+                                 0
+                                  
+                                 1
+                                 ]
+                              
+                              
+                                 Ti
+                              
+                           
+                        
+                     ; 
+                        
+                           
+                              
+                                 (
+                                 1
+                                  
+                                 0
+                                  
+                                 0
+                                 )
+                              
+                              
+                                 N
+                                 
+                                    d
+                                    2
+                                 
+                                 
+                                    O
+                                    3
+                                 
+                              
+                           
+                           \
+                           \
+                           
+                              
+                                 (
+                                 
+                                    2
+                                    ¯
+                                 
+                                  
+                                 1
+                                  
+                                 1
+                                  
+                                 
+                                    3
+                                    ¯
+                                 
+                                 )
+                              
+                              
+                                 Ti
+                              
+                           
+                        
+                     .
+               </dc:description><openaccess>0</openaccess><openaccessarticle>false</openaccessarticle><openaccesstype></openaccesstype><openarchivearticle>false</openarchivearticle><openaccesssponsorname></openaccesssponsorname><openaccesssponsortype></openaccesssponsortype><openaccessuserlicense></openaccessuserlicense><dcterms:subject>Metal</dcterms:subject><dcterms:subject>Scanning and transmission electron microscopy</dcterms:subject><dcterms:subject>Orientation relationship</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838806000685" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838806000685" rel="scidir"/></coredata><objects><object category="thumbnail" height="19" mimetype="image/gif" multimediatype="GIF image file" ref="si9" size="684" type="ALTIMG" width="159">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000685-si9.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="19" mimetype="image/gif" multimediatype="GIF image file" ref="si8" size="1258" type="ALTIMG" width="348">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000685-si8.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="19" mimetype="image/gif" multimediatype="GIF image file" ref="si7" size="695" type="ALTIMG" width="159">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000685-si7.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="16" mimetype="image/gif" multimediatype="GIF image file" ref="si6" size="276" type="ALTIMG" width="51">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000685-si6.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="19" mimetype="image/gif" multimediatype="GIF image file" ref="si5" size="670" type="ALTIMG" width="156">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000685-si5.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="19" mimetype="image/gif" multimediatype="GIF image file" ref="si4" size="661" type="ALTIMG" width="155">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000685-si4.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="19" mimetype="image/gif" multimediatype="GIF image file" ref="si3" size="675" type="ALTIMG" width="156">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000685-si3.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="19" mimetype="image/gif" multimediatype="GIF image file" ref="si2" size="570" type="ALTIMG" width="155">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000685-si2.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="19" mimetype="image/gif" multimediatype="GIF image file" ref="si17" size="658" type="ALTIMG" width="156">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000685-si17.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="19" mimetype="image/gif" multimediatype="GIF image file" ref="si16" size="661" type="ALTIMG" width="155">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000685-si16.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="19" mimetype="image/gif" multimediatype="GIF image file" ref="si15" size="675" type="ALTIMG" width="156">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000685-si15.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="19" mimetype="image/gif" multimediatype="GIF image file" ref="si14" size="570" type="ALTIMG" width="155">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000685-si14.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="19" mimetype="image/gif" multimediatype="GIF image file" ref="si13" size="639" type="ALTIMG" width="154">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000685-si13.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="17" mimetype="image/gif" multimediatype="GIF image file" ref="si12" size="325" type="ALTIMG" width="64">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000685-si12.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="17" mimetype="image/gif" multimediatype="GIF image file" ref="si11" size="387" type="ALTIMG" width="76">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000685-si11.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="19" mimetype="image/gif" multimediatype="GIF image file" ref="si10" size="593" type="ALTIMG" width="159">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000685-si10.gif?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="19" mimetype="image/gif" multimediatype="GIF image file" ref="si1" size="639" type="ALTIMG" width="154">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000685-si1.gif?httpAccept=%2A%2F%2A</object><object category="standard" height="231" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr8" size="55381" type="IMAGE-DOWNSAMPLED" width="471">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000685-gr8.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="61" mimetype="image/gif" multimediatype="GIF image file" ref="gr8" size="3440" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000685-gr8.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="376" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr6" size="77651" type="IMAGE-DOWNSAMPLED" width="376">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000685-gr6.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr6" size="3090" type="IMAGE-THUMBNAIL" width="93">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000685-gr6.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="294" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr1" size="52875" type="IMAGE-DOWNSAMPLED" width="367">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000685-gr1.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr1" size="3632" type="IMAGE-THUMBNAIL" width="116">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000685-gr1.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="181" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr7" size="22126" type="IMAGE-DOWNSAMPLED" width="564">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000685-gr7.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="40" mimetype="image/gif" multimediatype="GIF image file" ref="gr7" size="902" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000685-gr7.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="459" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr3" size="116997" type="IMAGE-DOWNSAMPLED" width="469">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000685-gr3.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr3" size="3241" type="IMAGE-THUMBNAIL" width="95">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000685-gr3.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="151" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr2" size="29747" type="IMAGE-DOWNSAMPLED" width="508">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000685-gr2.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="37" mimetype="image/gif" multimediatype="GIF image file" ref="gr2" size="1703" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000685-gr2.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="182" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr5" size="25449" type="IMAGE-DOWNSAMPLED" width="563">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000685-gr5.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="40" mimetype="image/gif" multimediatype="GIF image file" ref="gr5" size="1021" type="IMAGE-THUMBNAIL" width="125">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000685-gr5.sml?httpAccept=%2A%2F%2A</object><object category="standard" height="438" mimetype="image/jpeg" multimediatype="JPEG image file" ref="gr4" size="78385" type="IMAGE-DOWNSAMPLED" width="470">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000685-gr4.jpg?httpAccept=%2A%2F%2A</object><object category="thumbnail" height="93" mimetype="image/gif" multimediatype="GIF image file" ref="gr4" size="2735" type="IMAGE-THUMBNAIL" width="100">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838806000685-gr4.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>33750600776</scopus-id><scopus-eid>2-s2.0-33750600776</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/33750600776" rel="abstract"/><originaltext><xocs:doc xsi:schemalocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<xocs:content-family>serial</xocs:content-family>
+<xocs:content-type>JL</xocs:content-type>
+<xocs:cid>271609</xocs:cid>
+<xocs:ssids>
+<xocs:ssid type="alllist">291210</xocs:ssid>
+<xocs:ssid type="subj">291778</xocs:ssid>
+<xocs:ssid type="content">31</xocs:ssid>
+</xocs:ssids>
+<xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+<xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+<xocs:orig-load-date yyyymmdd="20060228">2006-02-28</xocs:orig-load-date>
+<xocs:available-online-date yyyymmdd="20060228">2006-02-28</xocs:available-online-date>
+<xocs:ew-transaction-id>2010-03-29T07:36:02</xocs:ew-transaction-id>
+<xocs:eid>1-s2.0-S0925838806000685</xocs:eid>
+<xocs:pii-formatted>S0925-8388(06)00068-5</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838806000685</xocs:pii-unformatted>
+<xocs:doi>10.1016/j.jallcom.2006.01.045</xocs:doi>
+<xocs:item-stage>S300</xocs:item-stage>
+<xocs:item-version-number>S300.1</xocs:item-version-number>
+<xocs:item-weight>FULL-TEXT</xocs:item-weight>
+<xocs:hub-eid>1-s2.0-S0925838806X02633</xocs:hub-eid>
+<xocs:timestamp yyyymmdd="20150515">2015-05-15T03:12:41.326594-04:00</xocs:timestamp>
+<xocs:dco>0</xocs:dco>
+<xocs:tomb>0</xocs:tomb>
+<xocs:date-search-begin>20061130</xocs:date-search-begin>
+<xocs:year-nav>2006</xocs:year-nav>
+<xocs:indexeddate epoch="1141084800">2006-02-28T00:00:00Z</xocs:indexeddate>
+<xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav absattachment articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+<xocs:issns>
+<xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+<xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+</xocs:issns>
+<xocs:crossmark is-crossmark="0"></xocs:crossmark>
+<xocs:vol-first>425</xocs:vol-first>
+<xocs:volume-list>
+<xocs:volume>425</xocs:volume>
+</xocs:volume-list>
+<xocs:iss-first>1</xocs:iss-first>
+<xocs:iss-last>2</xocs:iss-last>
+<xocs:issue-list>
+<xocs:issue>1</xocs:issue>
+<xocs:issue>2</xocs:issue>
+</xocs:issue-list>
+<xocs:vol-iss-suppl-text>Volume 425, Issues 1–2</xocs:vol-iss-suppl-text>
+<xocs:sort-order>69</xocs:sort-order>
+<xocs:first-fp>379</xocs:first-fp>
+<xocs:last-lp>383</xocs:last-lp>
+<xocs:pages>
+<xocs:first-page>379</xocs:first-page>
+<xocs:last-page>383</xocs:last-page>
+</xocs:pages>
+<xocs:cover-date-orig>
+<xocs:start-date>20061130</xocs:start-date>
+</xocs:cover-date-orig>
+<xocs:cover-date-text>30 November 2006</xocs:cover-date-text>
+<xocs:cover-date-start>2006-11-30</xocs:cover-date-start>
+<xocs:cover-date-year>2006</xocs:cover-date-year>
+<xocs:hub-sec>
+<xocs:hub-sec-title>Materials Science</xocs:hub-sec-title>
+</xocs:hub-sec>
+<xocs:document-type>article</xocs:document-type>
+<xocs:document-subtype>fla</xocs:document-subtype>
+<xocs:copyright-line>Copyright © 2006 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+<xocs:normalized-article-title>MICROSTRUCTURALCHARACTERIZATIONND2O3ININSITUSYNTHESIZEDMULTIPLEREINFORCEDTIBTICND2O3TICOMPOSITES</xocs:normalized-article-title>
+<xocs:normalized-first-auth-surname>YANG</xocs:normalized-first-auth-surname>
+<xocs:normalized-first-auth-initial>Z</xocs:normalized-first-auth-initial>
+<xocs:item-toc>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>1</xocs:item-toc-label>
+<xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>2</xocs:item-toc-label>
+<xocs:item-toc-section-title>Experimental procedure</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>3</xocs:item-toc-label>
+<xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:sections">
+<xocs:item-toc-label>4</xocs:item-toc-label>
+<xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:acknowledgment">
+<xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+<xocs:item-toc-entry ref-elem="ce:bibliography">
+<xocs:item-toc-section-title>Reference</xocs:item-toc-section-title>
+</xocs:item-toc-entry>
+</xocs:item-toc>
+<xocs:references>
+<xocs:ref-info refid="bib1">
+<xocs:ref-normalized-surname>GENG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>176</xocs:ref-first-fp>
+<xocs:ref-last-lp>182</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib2">
+<xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1995</xocs:ref-pub-year>
+<xocs:ref-first-fp>547</xocs:ref-first-fp>
+<xocs:ref-last-lp>551</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib3">
+<xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1998</xocs:ref-pub-year>
+<xocs:ref-first-fp>285</xocs:ref-first-fp>
+<xocs:ref-last-lp>290</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib4">
+<xocs:ref-normalized-surname>GENG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>4054</xocs:ref-first-fp>
+<xocs:ref-last-lp>4057</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib5">
+<xocs:ref-normalized-surname>XU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>216</xocs:ref-first-fp>
+<xocs:ref-last-lp>221</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib6"></xocs:ref-info>
+<xocs:ref-info refid="bib7">
+<xocs:ref-normalized-surname>LICHERI</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>185</xocs:ref-first-fp>
+<xocs:ref-last-lp>197</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib8">
+<xocs:ref-normalized-surname>OH</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2004</xocs:ref-pub-year>
+<xocs:ref-first-fp>525</xocs:ref-first-fp>
+<xocs:ref-last-lp>534</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib9">
+<xocs:ref-normalized-surname>OHNSON</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2003</xocs:ref-pub-year>
+<xocs:ref-first-fp>1869</xocs:ref-first-fp>
+<xocs:ref-last-lp>1877</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib10">
+<xocs:ref-normalized-surname>WANJARA</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>415</xocs:ref-first-fp>
+<xocs:ref-last-lp>422</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib11">
+<xocs:ref-normalized-surname>ABKOWITZ</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1993</xocs:ref-pub-year>
+<xocs:ref-first-fp>32</xocs:ref-first-fp>
+<xocs:ref-last-lp>36</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib12">
+<xocs:ref-normalized-surname>TSANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1997</xocs:ref-pub-year>
+<xocs:ref-first-fp>1359</xocs:ref-first-fp>
+<xocs:ref-last-lp>1365</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib13">
+<xocs:ref-normalized-surname>RANGARAJAN</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1996</xocs:ref-pub-year>
+<xocs:ref-first-fp>239</xocs:ref-first-fp>
+<xocs:ref-last-lp>245</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib14">
+<xocs:ref-normalized-surname>LU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>142</xocs:ref-first-fp>
+<xocs:ref-last-lp>150</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib15">
+<xocs:ref-normalized-surname>TJONG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2000</xocs:ref-pub-year>
+<xocs:ref-first-fp>49</xocs:ref-first-fp>
+<xocs:ref-last-lp>53</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib16">
+<xocs:ref-normalized-surname>KONITZER</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>1989</xocs:ref-pub-year>
+<xocs:ref-first-fp>397</xocs:ref-first-fp>
+<xocs:ref-last-lp>406</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib17">
+<xocs:ref-normalized-surname>LU</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2001</xocs:ref-pub-year>
+<xocs:ref-first-fp>1069</xocs:ref-first-fp>
+<xocs:ref-last-lp>1075</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+</xocs:ref-info>
+<xocs:ref-info refid="bib18">
+<xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+<xocs:ref-pub-year>2005</xocs:ref-pub-year>
+<xocs:ref-first-fp>282</xocs:ref-first-fp>
+<xocs:ref-last-lp>284</xocs:ref-last-lp>
+<xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+</xocs:ref-info>
+</xocs:references>
+<xocs:refkeys>
+<xocs:refkey3>YANGX2006X379</xocs:refkey3>
+<xocs:refkey4lp>YANGX2006X379X383</xocs:refkey4lp>
+<xocs:refkey4ai>YANGX2006X379XZ</xocs:refkey4ai>
+<xocs:refkey5>YANGX2006X379X383XZ</xocs:refkey5>
+</xocs:refkeys>
+<xocs:open-access>
+<xocs:oa-article-status is-open-access="0" is-open-archive="0"></xocs:oa-article-status>
+</xocs:open-access>
+<xocs:attachment-metadata-doc>
+<xocs:attachment-set-type>item</xocs:attachment-set-type>
+<xocs:pii-formatted>S0925-8388(06)00068-5</xocs:pii-formatted>
+<xocs:pii-unformatted>S0925838806000685</xocs:pii-unformatted>
+<xocs:eid>1-s2.0-S0925838806000685</xocs:eid>
+<xocs:doi>10.1016/j.jallcom.2006.01.045</xocs:doi>
+<xocs:cid>271609</xocs:cid>
+<xocs:timestamp>2010-10-08T03:52:30.902398-04:00</xocs:timestamp>
+<xocs:cover-date-start>2006-11-30</xocs:cover-date-start>
+<xocs:attachments>
+<xocs:web-pdf>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-main.pdf</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/MAIN/application/pdf/aa47b837e2468ab1971e9c412ee7ef87/main.pdf</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/MAIN/application/pdf/aa47b837e2468ab1971e9c412ee7ef87/main.pdf</xocs:ucs-locator>
+<xocs:filename>main.pdf</xocs:filename>
+<xocs:extension>pdf</xocs:extension>
+<xocs:pdf-optimized>true</xocs:pdf-optimized>
+<xocs:filesize>1125702</xocs:filesize>
+<xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+<xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+<xocs:web-pdf-images>
+<xocs:web-pdf-image>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-main_1.png</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/PREVIEW/image/png/b35efb21ef85cc388abaf86c8f84f3b1/main_1.png</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/PREVIEW/image/png/b35efb21ef85cc388abaf86c8f84f3b1/main_1.png</xocs:ucs-locator>
+<xocs:filename>main_1.png</xocs:filename>
+<xocs:extension>png</xocs:extension>
+<xocs:filesize>63683</xocs:filesize>
+<xocs:pixel-height>849</xocs:pixel-height>
+<xocs:pixel-width>656</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+<xocs:pdf-page-num>1</xocs:pdf-page-num>
+</xocs:web-pdf-image>
+</xocs:web-pdf-images>
+</xocs:web-pdf>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-si9.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/STRIPIN/image/gif/b2b60057b6e1243566942541670c7b8e/si9.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/STRIPIN/image/gif/b2b60057b6e1243566942541670c7b8e/si9.gif</xocs:ucs-locator>
+<xocs:file-basename>si9</xocs:file-basename>
+<xocs:filename>si9.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>684</xocs:filesize>
+<xocs:pixel-height>19</xocs:pixel-height>
+<xocs:pixel-width>159</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-si8.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/STRIPIN/image/gif/e68006f2bdfaae54a23cae92de953617/si8.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/STRIPIN/image/gif/e68006f2bdfaae54a23cae92de953617/si8.gif</xocs:ucs-locator>
+<xocs:file-basename>si8</xocs:file-basename>
+<xocs:filename>si8.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>1258</xocs:filesize>
+<xocs:pixel-height>19</xocs:pixel-height>
+<xocs:pixel-width>348</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-si7.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/STRIPIN/image/gif/35e82911b1df64057cf88006b44fb9b7/si7.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/STRIPIN/image/gif/35e82911b1df64057cf88006b44fb9b7/si7.gif</xocs:ucs-locator>
+<xocs:file-basename>si7</xocs:file-basename>
+<xocs:filename>si7.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>695</xocs:filesize>
+<xocs:pixel-height>19</xocs:pixel-height>
+<xocs:pixel-width>159</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-si6.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/STRIPIN/image/gif/d09f5d05c6ed99391cc38e5a9eb87468/si6.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/STRIPIN/image/gif/d09f5d05c6ed99391cc38e5a9eb87468/si6.gif</xocs:ucs-locator>
+<xocs:file-basename>si6</xocs:file-basename>
+<xocs:filename>si6.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>276</xocs:filesize>
+<xocs:pixel-height>16</xocs:pixel-height>
+<xocs:pixel-width>51</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-si5.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/STRIPIN/image/gif/c04bafc489d74a7aa74c7c96461819db/si5.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/STRIPIN/image/gif/c04bafc489d74a7aa74c7c96461819db/si5.gif</xocs:ucs-locator>
+<xocs:file-basename>si5</xocs:file-basename>
+<xocs:abstract-attachment>true</xocs:abstract-attachment>
+<xocs:filename>si5.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>670</xocs:filesize>
+<xocs:pixel-height>19</xocs:pixel-height>
+<xocs:pixel-width>156</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-si4.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/STRIPIN/image/gif/7fdf28f829e26b756dfcc10c732b7e87/si16.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/STRIPIN/image/gif/7fdf28f829e26b756dfcc10c732b7e87/si16.gif</xocs:ucs-locator>
+<xocs:file-basename>si4</xocs:file-basename>
+<xocs:abstract-attachment>true</xocs:abstract-attachment>
+<xocs:filename>si4.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>661</xocs:filesize>
+<xocs:pixel-height>19</xocs:pixel-height>
+<xocs:pixel-width>155</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-si3.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/STRIPIN/image/gif/fa709243f910cbbaac10d561036a815d/si3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/STRIPIN/image/gif/fa709243f910cbbaac10d561036a815d/si3.gif</xocs:ucs-locator>
+<xocs:file-basename>si3</xocs:file-basename>
+<xocs:abstract-attachment>true</xocs:abstract-attachment>
+<xocs:filename>si3.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>675</xocs:filesize>
+<xocs:pixel-height>19</xocs:pixel-height>
+<xocs:pixel-width>156</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-si2.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/STRIPIN/image/gif/13e46732363247e70fa37c4e94d12192/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/STRIPIN/image/gif/13e46732363247e70fa37c4e94d12192/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si2</xocs:file-basename>
+<xocs:abstract-attachment>true</xocs:abstract-attachment>
+<xocs:filename>si2.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>570</xocs:filesize>
+<xocs:pixel-height>19</xocs:pixel-height>
+<xocs:pixel-width>155</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-si17.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/STRIPIN/image/gif/250033de40784cdcd986f186468db281/si17.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/STRIPIN/image/gif/250033de40784cdcd986f186468db281/si17.gif</xocs:ucs-locator>
+<xocs:file-basename>si17</xocs:file-basename>
+<xocs:filename>si17.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>658</xocs:filesize>
+<xocs:pixel-height>19</xocs:pixel-height>
+<xocs:pixel-width>156</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-si16.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/STRIPIN/image/gif/7fdf28f829e26b756dfcc10c732b7e87/si16.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/STRIPIN/image/gif/7fdf28f829e26b756dfcc10c732b7e87/si16.gif</xocs:ucs-locator>
+<xocs:file-basename>si16</xocs:file-basename>
+<xocs:filename>si16.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>661</xocs:filesize>
+<xocs:pixel-height>19</xocs:pixel-height>
+<xocs:pixel-width>155</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-si15.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/STRIPIN/image/gif/fa709243f910cbbaac10d561036a815d/si3.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/STRIPIN/image/gif/fa709243f910cbbaac10d561036a815d/si3.gif</xocs:ucs-locator>
+<xocs:file-basename>si15</xocs:file-basename>
+<xocs:filename>si15.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>675</xocs:filesize>
+<xocs:pixel-height>19</xocs:pixel-height>
+<xocs:pixel-width>156</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-si14.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/STRIPIN/image/gif/13e46732363247e70fa37c4e94d12192/si2.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/STRIPIN/image/gif/13e46732363247e70fa37c4e94d12192/si2.gif</xocs:ucs-locator>
+<xocs:file-basename>si14</xocs:file-basename>
+<xocs:filename>si14.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>570</xocs:filesize>
+<xocs:pixel-height>19</xocs:pixel-height>
+<xocs:pixel-width>155</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-si13.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/STRIPIN/image/gif/9468d3014be7552a3c8e54c8cb25c3b2/si13.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/STRIPIN/image/gif/9468d3014be7552a3c8e54c8cb25c3b2/si13.gif</xocs:ucs-locator>
+<xocs:file-basename>si13</xocs:file-basename>
+<xocs:filename>si13.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>639</xocs:filesize>
+<xocs:pixel-height>19</xocs:pixel-height>
+<xocs:pixel-width>154</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-si12.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/STRIPIN/image/gif/4318e28c160d4413061e900a387c9822/si12.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/STRIPIN/image/gif/4318e28c160d4413061e900a387c9822/si12.gif</xocs:ucs-locator>
+<xocs:file-basename>si12</xocs:file-basename>
+<xocs:filename>si12.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>325</xocs:filesize>
+<xocs:pixel-height>17</xocs:pixel-height>
+<xocs:pixel-width>64</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-si11.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/STRIPIN/image/gif/c8f5a11d96b4fa158c3c8a89192afb63/si11.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/STRIPIN/image/gif/c8f5a11d96b4fa158c3c8a89192afb63/si11.gif</xocs:ucs-locator>
+<xocs:file-basename>si11</xocs:file-basename>
+<xocs:filename>si11.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>387</xocs:filesize>
+<xocs:pixel-height>17</xocs:pixel-height>
+<xocs:pixel-width>76</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-si10.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/STRIPIN/image/gif/13a9ead5c046e6e7c173d676e0119a75/si10.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/STRIPIN/image/gif/13a9ead5c046e6e7c173d676e0119a75/si10.gif</xocs:ucs-locator>
+<xocs:file-basename>si10</xocs:file-basename>
+<xocs:filename>si10.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>593</xocs:filesize>
+<xocs:pixel-height>19</xocs:pixel-height>
+<xocs:pixel-width>159</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-si1.gif</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/STRIPIN/image/gif/9468d3014be7552a3c8e54c8cb25c3b2/si13.gif</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/STRIPIN/image/gif/9468d3014be7552a3c8e54c8cb25c3b2/si13.gif</xocs:ucs-locator>
+<xocs:file-basename>si1</xocs:file-basename>
+<xocs:abstract-attachment>true</xocs:abstract-attachment>
+<xocs:filename>si1.gif</xocs:filename>
+<xocs:extension>gif</xocs:extension>
+<xocs:filesize>639</xocs:filesize>
+<xocs:pixel-height>19</xocs:pixel-height>
+<xocs:pixel-width>154</xocs:pixel-width>
+<xocs:attachment-type>ALTIMG</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-gr8.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/gr8/DOWNSAMPLED/image/jpeg/3dcaf1f3ef3d88ff96eb08de765ab502/gr8.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/gr8/DOWNSAMPLED/image/jpeg/3dcaf1f3ef3d88ff96eb08de765ab502/gr8.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>55381</xocs:filesize>
+<xocs:pixel-height>231</xocs:pixel-height>
+<xocs:pixel-width>471</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-gr8.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/gr8/THUMBNAIL/image/gif/1f83fe4b30418e560def61e6540414e4/gr8.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/gr8/THUMBNAIL/image/gif/1f83fe4b30418e560def61e6540414e4/gr8.sml</xocs:ucs-locator>
+<xocs:file-basename>gr8</xocs:file-basename>
+<xocs:filename>gr8.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3440</xocs:filesize>
+<xocs:pixel-height>61</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-gr6.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/gr6/DOWNSAMPLED/image/jpeg/b31e4db8155fb65a5b716f02caf36001/gr6.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/gr6/DOWNSAMPLED/image/jpeg/b31e4db8155fb65a5b716f02caf36001/gr6.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>77651</xocs:filesize>
+<xocs:pixel-height>376</xocs:pixel-height>
+<xocs:pixel-width>376</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-gr6.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/gr6/THUMBNAIL/image/gif/75a2d79fd6e07813c17c7f582f5b5e67/gr6.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/gr6/THUMBNAIL/image/gif/75a2d79fd6e07813c17c7f582f5b5e67/gr6.sml</xocs:ucs-locator>
+<xocs:file-basename>gr6</xocs:file-basename>
+<xocs:filename>gr6.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3090</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>93</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-gr1.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/gr1/DOWNSAMPLED/image/jpeg/ac811a7735484ee4f4ed4b3378b7544b/gr1.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/gr1/DOWNSAMPLED/image/jpeg/ac811a7735484ee4f4ed4b3378b7544b/gr1.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>52875</xocs:filesize>
+<xocs:pixel-height>294</xocs:pixel-height>
+<xocs:pixel-width>367</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-gr1.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/gr1/THUMBNAIL/image/gif/a72854fd0767a403f07793d935dab6b4/gr1.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/gr1/THUMBNAIL/image/gif/a72854fd0767a403f07793d935dab6b4/gr1.sml</xocs:ucs-locator>
+<xocs:file-basename>gr1</xocs:file-basename>
+<xocs:filename>gr1.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3632</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>116</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-gr7.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/gr7/DOWNSAMPLED/image/jpeg/9b5b87952ca9627c396802393bf03b58/gr7.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/gr7/DOWNSAMPLED/image/jpeg/9b5b87952ca9627c396802393bf03b58/gr7.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>22126</xocs:filesize>
+<xocs:pixel-height>181</xocs:pixel-height>
+<xocs:pixel-width>564</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-gr7.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/gr7/THUMBNAIL/image/gif/effa6a18a9d25d9bcf8b33ce57bbfc2c/gr7.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/gr7/THUMBNAIL/image/gif/effa6a18a9d25d9bcf8b33ce57bbfc2c/gr7.sml</xocs:ucs-locator>
+<xocs:file-basename>gr7</xocs:file-basename>
+<xocs:filename>gr7.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>902</xocs:filesize>
+<xocs:pixel-height>40</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-gr3.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/gr3/DOWNSAMPLED/image/jpeg/c9f452bdaa97f62f3bdbd2e9fecf7e25/gr3.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/gr3/DOWNSAMPLED/image/jpeg/c9f452bdaa97f62f3bdbd2e9fecf7e25/gr3.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>116997</xocs:filesize>
+<xocs:pixel-height>459</xocs:pixel-height>
+<xocs:pixel-width>469</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-gr3.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/gr3/THUMBNAIL/image/gif/3308374a2e0b1fe96b78c336a3313113/gr3.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/gr3/THUMBNAIL/image/gif/3308374a2e0b1fe96b78c336a3313113/gr3.sml</xocs:ucs-locator>
+<xocs:file-basename>gr3</xocs:file-basename>
+<xocs:filename>gr3.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>3241</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>95</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-gr2.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/gr2/DOWNSAMPLED/image/jpeg/9f8c2eb1ff1154fd47144dba0b3c8b9a/gr2.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/gr2/DOWNSAMPLED/image/jpeg/9f8c2eb1ff1154fd47144dba0b3c8b9a/gr2.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>29747</xocs:filesize>
+<xocs:pixel-height>151</xocs:pixel-height>
+<xocs:pixel-width>508</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-gr2.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/gr2/THUMBNAIL/image/gif/58bdba0729f46b7a28d675dded720d5d/gr2.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/gr2/THUMBNAIL/image/gif/58bdba0729f46b7a28d675dded720d5d/gr2.sml</xocs:ucs-locator>
+<xocs:file-basename>gr2</xocs:file-basename>
+<xocs:filename>gr2.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1703</xocs:filesize>
+<xocs:pixel-height>37</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-gr5.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/gr5/DOWNSAMPLED/image/jpeg/6847f82bd8e7812d57ec46d0f41d97b6/gr5.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/gr5/DOWNSAMPLED/image/jpeg/6847f82bd8e7812d57ec46d0f41d97b6/gr5.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>25449</xocs:filesize>
+<xocs:pixel-height>182</xocs:pixel-height>
+<xocs:pixel-width>563</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-gr5.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/gr5/THUMBNAIL/image/gif/4c902d51867c346a115b3a4103d66a91/gr5.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/gr5/THUMBNAIL/image/gif/4c902d51867c346a115b3a4103d66a91/gr5.sml</xocs:ucs-locator>
+<xocs:file-basename>gr5</xocs:file-basename>
+<xocs:filename>gr5.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>1021</xocs:filesize>
+<xocs:pixel-height>40</xocs:pixel-height>
+<xocs:pixel-width>125</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-gr4.jpg</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/gr4/DOWNSAMPLED/image/jpeg/0d4ac253fa1c0829da30cc7abf47db88/gr4.jpg</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/gr4/DOWNSAMPLED/image/jpeg/0d4ac253fa1c0829da30cc7abf47db88/gr4.jpg</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.jpg</xocs:filename>
+<xocs:extension>jpg</xocs:extension>
+<xocs:filesize>78385</xocs:filesize>
+<xocs:pixel-height>438</xocs:pixel-height>
+<xocs:pixel-width>470</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+</xocs:attachment>
+<xocs:attachment>
+<xocs:attachment-eid>1-s2.0-S0925838806000685-gr4.sml</xocs:attachment-eid>
+<xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925838806000685/gr4/THUMBNAIL/image/gif/16718e6c7999ec2ae45c039f4660c563/gr4.sml</xocs:ucs-locator>
+<xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838806000685/gr4/THUMBNAIL/image/gif/16718e6c7999ec2ae45c039f4660c563/gr4.sml</xocs:ucs-locator>
+<xocs:file-basename>gr4</xocs:file-basename>
+<xocs:filename>gr4.sml</xocs:filename>
+<xocs:extension>sml</xocs:extension>
+<xocs:filesize>2735</xocs:filesize>
+<xocs:pixel-height>93</xocs:pixel-height>
+<xocs:pixel-width>100</xocs:pixel-width>
+<xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+</xocs:attachment>
+</xocs:attachments>
+</xocs:attachment-metadata-doc>
+</xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+<article docsubtype="fla" version="5.0" xml:lang="en" xmlns="http://www.elsevier.com/xml/ja/dtd">
+<item-info>
+<jid>JALCOM</jid>
+<aid>13610</aid>
+<ce:pii>S0925-8388(06)00068-5</ce:pii>
+<ce:doi>10.1016/j.jallcom.2006.01.045</ce:doi>
+<ce:copyright type="full-transfer" year="2006">Elsevier B.V.</ce:copyright>
+</item-info>
+<ce:floats>
+<ce:figure id="fig1">
+<ce:label>Fig. 1</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Backscattered SEM image of (TiB<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>TiC<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>)/Ti composites.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr1"></ce:link>
+</ce:figure>
+<ce:figure id="fig2">
+<ce:label>Fig. 2</ce:label>
+<ce:caption>
+<ce:simple-para view="all">TEM pictures of Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> reinforcements.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr2"></ce:link>
+</ce:figure>
+<ce:figure id="fig3">
+<ce:label>Fig. 3</ce:label>
+<ce:caption>
+<ce:simple-para view="all">(a) TEM (bright field) image of Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> and surface scanning images of (b) Nd, (c) O and (d) Ti.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr3"></ce:link>
+</ce:figure>
+<ce:figure id="fig4">
+<ce:label>Fig. 4</ce:label>
+<ce:caption>
+<ce:simple-para view="all">(a) TEM (bright field) picture of Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> particle and the selected area diffraction (SAD) patterns of (b) Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, (c) Ti and (d) Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>–Ti interface.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr4"></ce:link>
+</ce:figure>
+<ce:figure id="fig5">
+<ce:label>Fig. 5</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Simulation SAD patterns of (a) Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, (b) α-Ti and (c) Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>–α-Ti interface.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr5"></ce:link>
+</ce:figure>
+<ce:figure id="fig6">
+<ce:label>Fig. 6</ce:label>
+<ce:caption>
+<ce:simple-para view="all">HREM image of the Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>–Ti interface and its corresponding SAD patterns.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr6"></ce:link>
+</ce:figure>
+<ce:figure id="fig7">
+<ce:label>Fig. 7</ce:label>
+<ce:caption>
+<ce:simple-para view="all">
+<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref> Simulation SAD patterns of (a) Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, (b) α-Ti and (c) Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>–α-Ti interface.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr7"></ce:link>
+</ce:figure>
+<ce:figure id="fig8">
+<ce:label>Fig. 8</ce:label>
+<ce:caption>
+<ce:simple-para view="all">Magnified and optimized HREM images of (a) place A and (b) place B.</ce:simple-para>
+</ce:caption>
+<ce:link locator="gr8"></ce:link>
+</ce:figure>
+</ce:floats>
+<ce:title>Microstructural characterization of Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> in in situ synthesized multiple-reinforced (TiB<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>TiC<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>)/Ti composites</ce:title>
+<ce:author-group>
+<ce:author>
+<ce:given-name>Z.F.</ce:given-name>
+<ce:surname>Yang</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>W.J.</ce:given-name>
+<ce:surname>Lu</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>J.N.</ce:given-name>
+<ce:surname>Qin</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>J.J.</ce:given-name>
+<ce:surname>Gu</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+<ce:cross-ref refid="aff1">
+<ce:sup loc="post">a</ce:sup>
+</ce:cross-ref>
+<ce:cross-ref refid="cor1">
+<ce:sup loc="post">⁎</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:author>
+<ce:given-name>J.L.</ce:given-name>
+<ce:surname>Liu</ce:surname>
+<ce:cross-ref refid="aff2">
+<ce:sup loc="post">b</ce:sup>
+</ce:cross-ref>
+</ce:author>
+<ce:affiliation id="aff1">
+<ce:label>a</ce:label>
+<ce:textfn>State Key Lab of Metal Matrix Composites, Shanghai Jiao Tong University, 1954 Huashan Road, Shanghai 200030, PR China</ce:textfn>
+</ce:affiliation>
+<ce:affiliation id="aff2">
+<ce:label>b</ce:label>
+<ce:textfn>Baosteel Research Institute, Baoshan Iron and Steel Co. Ltd., Shanghai 201900, PR China</ce:textfn>
+</ce:affiliation>
+<ce:correspondence id="cor1">
+<ce:label>⁎</ce:label>
+<ce:text>Corresponding author. Tel.: +86 2162933106; fax: +86 2162822012.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="16" month="11" year="2005"></ce:date-received>
+<ce:date-revised day="15" month="1" year="2006"></ce:date-revised>
+<ce:date-accepted day="17" month="1" year="2006"></ce:date-accepted>
+<ce:abstract class="author"><ce:abstract-sec>
+<ce:simple-para view="all">In this work, the microstructures of Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> reinforcements in in situ synthesized (TiB<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>TiC<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>)/Ti composites were examined by back-scattered scanning electron microscopy (SEM) and transmission electron microscopy (TEM). The interfacial bonding microstructure and orientation relationship between Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> and α-Ti was observed utilizing transmission electron microscopy (TEM) and high-resolution transmission electron microscopy (HREM). The orientation relationship of Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> and α-Ti can be described as: <mml:math altimg="si1.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mo stretchy="false">]</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>N</mml:mtext>
+<mml:msub>
+<mml:mtext>d</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:msub>
+<mml:mtext>O</mml:mtext>
+<mml:mn>3</mml:mn>
+</mml:msub>
+</mml:mrow>
+</mml:msub>
+<mml:mo>/</mml:mo>
+<mml:mo>/</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mn>2</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>3</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mo stretchy="false">]</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>Ti</mml:mtext>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:math>; <mml:math altimg="si2.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>N</mml:mtext>
+<mml:msub>
+<mml:mtext>d</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:msub>
+<mml:mtext>O</mml:mtext>
+<mml:mn>3</mml:mn>
+</mml:msub>
+</mml:mrow>
+</mml:msub>
+<mml:mo>/</mml:mo>
+<mml:mo>/</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>Ti</mml:mtext>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:math>; <mml:math altimg="si3.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mn>0</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>N</mml:mtext>
+<mml:msub>
+<mml:mtext>d</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:msub>
+<mml:mtext>O</mml:mtext>
+<mml:mn>3</mml:mn>
+</mml:msub>
+</mml:mrow>
+</mml:msub>
+<mml:mo>/</mml:mo>
+<mml:mo>/</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mn>2</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>Ti</mml:mtext>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:math> and <mml:math altimg="si4.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mn>0</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mo stretchy="false">]</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>N</mml:mtext>
+<mml:msub>
+<mml:mtext>d</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:msub>
+<mml:mtext>O</mml:mtext>
+<mml:mn>3</mml:mn>
+</mml:msub>
+</mml:mrow>
+</mml:msub>
+<mml:mo>/</mml:mo>
+<mml:mo>/</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mo stretchy="false">]</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>Ti</mml:mtext>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:math>; <mml:math altimg="si5.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>N</mml:mtext>
+<mml:msub>
+<mml:mtext>d</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:msub>
+<mml:mtext>O</mml:mtext>
+<mml:mn>3</mml:mn>
+</mml:msub>
+</mml:mrow>
+</mml:msub>
+<mml:mo>\</mml:mo>
+<mml:mo>\</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mover accent="true">
+<mml:mn>2</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>3</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>Ti</mml:mtext>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:math>.</ce:simple-para>
+</ce:abstract-sec></ce:abstract>
+<ce:keywords class="keyword">
+<ce:section-title>Keywords</ce:section-title>
+<ce:keyword>
+<ce:text>Metal</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Scanning and transmission electron microscopy</ce:text>
+</ce:keyword>
+<ce:keyword>
+<ce:text>Orientation relationship</ce:text>
+</ce:keyword>
+</ce:keywords>
+<ce:sections>
+<ce:section view="all">
+<ce:label>1</ce:label>
+<ce:section-title>Introduction</ce:section-title>
+<ce:para view="all">Addition of rare earth elements in titanium alloys and titanium matrix composites (TMCs) has attracted much attention for increasing their strength and serve temperature <ce:cross-refs refid="bib1 bib2 bib3 bib4 bib5 bib6">[1–6]</ce:cross-refs>. Addition of rare earth elements has two main functions: one is to refine the matrix alloy and to increase its thermal-stability and oxygen resistance; the other is to decrease the oxygen content in the matrix resulting in formation of rare earth oxides (Re<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>) which are hard and thermal-stable ceramic particles and can function as reinforcements.</ce:para>
+<ce:para view="all">The features of reinforcements as well as the interfacial bonding characteristics play an important role in the composites. Extensive research works have been carried out on TiB, TiC, Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, SiC, Re<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> reinforcements and so on. In order to get good interfacial bonding, in situ technologies have been developed for synthesizing these reinforcements <ce:cross-refs refid="bib7 bib8 bib9 bib10 bib11 bib12 bib13 bib14 bib15">[7–15]</ce:cross-refs>. In situ synthesized reinforcements not only have clean reinforcement-matrix interface but also have certain orientation relationships between reinforcement and matrix or between various reinforcements <ce:cross-refs refid="bib16 bib17 bib18">[16–18]</ce:cross-refs>, such as TiB–Ti, TiB–Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, TiB–Y<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> and so on. When adding rare earth elements in synthesizing composites, rare earth oxides were in situ formed by nucleation and growth from parent matrix alloy during solidification, the interfacial contamination can be avoided, which helps to increase the mechanical properties.</ce:para>
+<ce:para view="all">In the previous work, the (TiB<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>TiC<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>)/Ti composites were successfully in situ synthesized utilizing the reaction between Ti, C, Nd and B<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> through homogeneously melting in a non-consumable vacuum arc-remelting furnace <ce:cross-ref refid="bib6">[6]</ce:cross-ref>. In this work, the microstructure of Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> was examined and the interfacial bonding and orientation relationship between Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> and α-Ti was studied.</ce:para>
+</ce:section>
+<ce:section role="materials-methods" view="all">
+<ce:label>2</ce:label>
+<ce:section-title>Experimental procedure</ce:section-title>
+<ce:para view="all">In synthesizing (TiB<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>TiC<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>)/Ti composites, the raw materials were grade II sponge titanium, C powder (99.8%, average particle size, 5–7<ce:hsp sp="0.25"></ce:hsp>μm), Nd metal (&gt;99%) and B<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> (&gt;99%). The weight percentage of reactants and theoretical volume percentage of products were listed in Ref. <ce:cross-ref refid="bib6">[6]</ce:cross-ref>. Stoichiometric amounts of sponge titanium, B<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, C and Nd were blended and melted in a non-consumable vacuum arc-remelting furnace. Considering the oxygen in the matrix, only 80% of calculated amount of B<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> was added. The ingots were melted at least three times in order to ensure the chemical homogeneity of the composites.</ce:para>
+<ce:para view="all">JEOL JXA-8100 electron probe microanalyzer was used to examine the microstructures of Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> reinforcements. Samples for TEM and HREM experiments were prepared as follows: firstly, the samples were cut from the casting ingot. Secondly, the samples were thinned to 100<ce:hsp sp="0.25"></ce:hsp>μm by polishing with SiC paper. Thirdly, the samples were punched to discs with a diameter of 3.0<ce:hsp sp="0.25"></ce:hsp>mm. Then the disc samples were dimple ground to 20<ce:hsp sp="0.25"></ce:hsp>μm in thickness. Finally, the disc samples were further thinned by argon ion milling (Gatan) with an incident angle of 6° until perforation occurred. TEM analysis was performed on a JEM 2010 transmission electron microscope operated at 200<ce:hsp sp="0.25"></ce:hsp>kV. HREM observations were carried out on JEM 2100F transmission electron microscope operated at 200<ce:hsp sp="0.25"></ce:hsp>KV.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>3</ce:label>
+<ce:section-title>Results and discussion</ce:section-title>
+<ce:para view="all">
+<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+<ce:float-anchor refid="fig1"></ce:float-anchor> shows the backscattered SEM image of (TiB<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>TiC<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>)/Ti composites. There are three kinds of reinforcements: TiB whisker, TiC near equiaxed particle and Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> spherical particle. Since the atomic weight of Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> is much bigger than those of TiC and TiB, Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> reinforcements exhibit white in the backscattered image. It can be observed that Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> reinforcements exhibit spherical shape with micron-size (marked as Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>-A) and nanometer size (marked as Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>-B).</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+<ce:float-anchor refid="fig2"></ce:float-anchor> shows the TEM bright field picture of Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> reinforcements in the (TiB<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>TiC<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>)/Ti composites. It was found that the nano-sized Na<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> particles were dispersed inside the titanium grain and some micron-sized Na<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> particles arrayed along the grain boundary. The elemental surface scanning by energy spectrometer was used to confirm the phase of the particle. The results were shown in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+<ce:float-anchor refid="fig3"></ce:float-anchor>. In the elemental surface scanning image, the color turns from black to white with the element content increasing. Since the atomic number of oxygen is too small, it's difficult for oxygen element to be detected resulting in the whole dark in the <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>(c). The particle sizes are different in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>(b) and (d), which is caused by the spherical shape of Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> particle in space.</ce:para>
+<ce:para view="all">Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> particles were in situ formed during solidification <ce:cross-refs refid="bib4 bib6">[4,6]</ce:cross-refs>. The different sizes of Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> particles attribute to the various formation stages. When cooling, some Nd atoms were solid soluted in β-Ti since Nd atom has a solid solubility of 2% atomic percentage in β-Ti phase. The rest Nd atoms reacted with O atoms leading to formation of primary micron-sized Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> particles. Since the diffusion of oxygen along the grain boundary is much easier than inside the grain, the micron-sized Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> particles arrayed along the grain finally. When further cooling, the solid soluted Nd atoms became precipitate from the β-Ti phase and reacted with O atoms resulting in the formation of nano-sized Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> particles.</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+<ce:float-anchor refid="fig4"></ce:float-anchor> (a) shows the bright field TEM image of Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> particle in the (TiB<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>TiC<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>)/Ti composites. <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>(b)–(d) show the selected area diffraction (SAD) patterns of Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> along [1<ce:hsp sp="0.25"></ce:hsp>1<ce:hsp sp="0.25"></ce:hsp>0] zone axis, α-Ti along <mml:math altimg="si6.gif" overflow="scroll">
+<mml:mrow>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mn>2</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>3</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mo stretchy="false">]</mml:mo>
+</mml:mrow>
+</mml:math> zone axis and Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>–Ti interface, respectively. The SAD patterns reveal the following orientation relationship between Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> and α-Ti:<ce:display>
+<ce:formula>
+<mml:math altimg="si7.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mo stretchy="false">]</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>N</mml:mtext>
+<mml:msub>
+<mml:mtext>d</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:msub>
+<mml:mtext>O</mml:mtext>
+<mml:mn>3</mml:mn>
+</mml:msub>
+</mml:mrow>
+</mml:msub>
+<mml:mo>/</mml:mo>
+<mml:mo>/</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mn>2</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>3</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mo stretchy="false">]</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>Ti</mml:mtext>
+</mml:mrow>
+</mml:msub>
+<mml:mo>;</mml:mo>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>
+<mml:math altimg="si8.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mn>1</mml:mn>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>N</mml:mtext>
+<mml:msub>
+<mml:mtext>d</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:msub>
+<mml:mtext>O</mml:mtext>
+<mml:mn>3</mml:mn>
+</mml:msub>
+</mml:mrow>
+</mml:msub>
+<mml:mo>/</mml:mo>
+<mml:mo>/</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>Ti</mml:mtext>
+</mml:mrow>
+</mml:msub>
+<mml:mi>   </mml:mi>
+<mml:mtext>and</mml:mtext>
+<mml:mi>   </mml:mi>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mn>0</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>N</mml:mtext>
+<mml:msub>
+<mml:mtext>d</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:msub>
+<mml:mtext>O</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+</mml:mrow>
+</mml:msub>
+<mml:mo>/</mml:mo>
+<mml:mo>/</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mn>2</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>Ti</mml:mtext>
+</mml:mrow>
+</mml:msub>
+<mml:mo>.</mml:mo>
+</mml:mrow>
+</mml:math>The orientation relationship was in good agreement with the simulation results (shown in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+<ce:float-anchor refid="fig5"></ce:float-anchor>).</ce:para>
+<ce:para view="all">
+<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+<ce:float-anchor refid="fig6"></ce:float-anchor> shows the high-resolution transmission microscopy (HREM) image of Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>–Ti interface with corresponding SAD patterns. From the HREM image, it can be found that the interface between Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> and Ti is very clean and there's no interfacial reaction product. The SAD patterns reveal another set of orientation relationship between Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> and Ti:<ce:display>
+<ce:formula>
+<mml:math altimg="si9.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mn>0</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mo stretchy="false">]</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>N</mml:mtext>
+<mml:msub>
+<mml:mtext>d</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:msub>
+<mml:mtext>O</mml:mtext>
+<mml:mn>3</mml:mn>
+</mml:msub>
+</mml:mrow>
+</mml:msub>
+<mml:mo>/</mml:mo>
+<mml:mo>/</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mo stretchy="false">]</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>Ti</mml:mtext>
+</mml:mrow>
+</mml:msub>
+<mml:mo>;</mml:mo>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>
+<ce:display>
+<ce:formula>
+<mml:math altimg="si10.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>N</mml:mtext>
+<mml:msub>
+<mml:mtext>d</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:msub>
+<mml:mtext>O</mml:mtext>
+<mml:mn>3</mml:mn>
+</mml:msub>
+</mml:mrow>
+</mml:msub>
+<mml:mo>/</mml:mo>
+<mml:mo>/</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mover accent="true">
+<mml:mn>2</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>3</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>Ti</mml:mtext>
+</mml:mrow>
+</mml:msub>
+<mml:mo>.</mml:mo>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>The parallel planes <mml:math altimg="si11.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>N</mml:mtext>
+<mml:msub>
+<mml:mtext>d</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:msub>
+<mml:mtext>O</mml:mtext>
+<mml:mn>3</mml:mn>
+</mml:msub>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:math> and <mml:math altimg="si12.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mover accent="true">
+<mml:mn>2</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>3</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>Ti</mml:mtext>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:math> could be directly observed from the HREM image. The orientation relationship is also in good agreement with the simulation results (shown in <ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+<ce:float-anchor refid="fig7"></ce:float-anchor>).</ce:para>
+<ce:para view="all">The magnified and optimized HREM images of place A and place B in <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref> were shown in <ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>
+<ce:float-anchor refid="fig8"></ce:float-anchor>. The internal delicate crystal structures of α-Ti and Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> can be observed from <ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>(a) and (b), respectively. Dislocations were both found in both the Ti matrix and the Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> particle. The appearance of dislocations may attribute to the mismatching of thermal expansion coefficient between Ti and Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>. When cooling, the mismatching of thermal expansion coefficient between Ti and Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> can cause internal stress in both Ti matrix and the Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> particle, which leads to the occurring of dislocations in the crystal.</ce:para>
+</ce:section>
+<ce:section view="all">
+<ce:label>4</ce:label>
+<ce:section-title>Conclusion</ce:section-title>
+<ce:para view="all">
+<ce:list>
+<ce:list-item>
+<ce:label>(1)</ce:label>
+<ce:para view="all">The Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> reinforcements in the in situ synthesized (TiB<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>TiC<ce:hsp sp="0.25"></ce:hsp>+<ce:hsp sp="0.25"></ce:hsp>Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>)/Ti composites exhibit spherical shape with both micron-size and nano-size. The interface between Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> and Ti matrix is very clean and there's no reaction product.</ce:para>
+</ce:list-item>
+<ce:list-item>
+<ce:label>(2)</ce:label>
+<ce:para view="all">The following orientation relationships between Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> and α-Ti are determined from observed images as follows: <mml:math altimg="si13.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mo stretchy="false">]</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>N</mml:mtext>
+<mml:msub>
+<mml:mtext>d</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:msub>
+<mml:mtext>O</mml:mtext>
+<mml:mn>3</mml:mn>
+</mml:msub>
+</mml:mrow>
+</mml:msub>
+<mml:mo>/</mml:mo>
+<mml:mo>/</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mn>2</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>3</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mo stretchy="false">]</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>Ti</mml:mtext>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:math>, <mml:math altimg="si14.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>N</mml:mtext>
+<mml:msub>
+<mml:mtext>d</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:msub>
+<mml:mtext>O</mml:mtext>
+<mml:mn>3</mml:mn>
+</mml:msub>
+</mml:mrow>
+</mml:msub>
+<mml:mo>/</mml:mo>
+<mml:mo>/</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>Ti</mml:mtext>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:math>, <mml:math altimg="si15.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mn>0</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>N</mml:mtext>
+<mml:msub>
+<mml:mtext>d</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:msub>
+<mml:mtext>O</mml:mtext>
+<mml:mn>3</mml:mn>
+</mml:msub>
+</mml:mrow>
+</mml:msub>
+<mml:mo>/</mml:mo>
+<mml:mo>/</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mn>2</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>Ti</mml:mtext>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:math> and <mml:math altimg="si16.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mn>0</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mo stretchy="false">]</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>N</mml:mtext>
+<mml:msub>
+<mml:mtext>d</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:msub>
+<mml:mtext>O</mml:mtext>
+<mml:mn>3</mml:mn>
+</mml:msub>
+</mml:mrow>
+</mml:msub>
+<mml:mo>/</mml:mo>
+<mml:mo>/</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mover accent="true">
+<mml:mn>1</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mo stretchy="false">]</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>Ti</mml:mtext>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:math>, <mml:math altimg="si17.gif" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>0</mml:mn>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>N</mml:mtext>
+<mml:msub>
+<mml:mtext>d</mml:mtext>
+<mml:mn>2</mml:mn>
+</mml:msub>
+<mml:msub>
+<mml:mtext>O</mml:mtext>
+<mml:mn>3</mml:mn>
+</mml:msub>
+</mml:mrow>
+</mml:msub>
+<mml:mo>/</mml:mo>
+<mml:mo>/</mml:mo>
+<mml:msub>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mover accent="true">
+<mml:mn>2</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mn>1</mml:mn>
+<mml:mi> </mml:mi>
+<mml:mover accent="true">
+<mml:mn>3</mml:mn>
+<mml:mo>¯</mml:mo>
+</mml:mover>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mtext>Ti</mml:mtext>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:math>.</ce:para>
+</ce:list-item>
+</ce:list>
+</ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment>
+<ce:section-title>Acknowledgments</ce:section-title>
+<ce:para view="all">We would like to acknowledge a financial support provided by a Foundation for the Author of National Excellent Doctoral Dissertation of PR China under Grant No. 200332, Major Fundamental Research Project of Shanghai Science and Technology Committee under Grant Nos. 04DZ14002, 04QMX1412, 0452nm045, Aeronautics Foundation of China under Grant No. 03G57007 and ItoYama Foundation.</ce:para>
+</ce:acknowledgment>
+<tail view="all">
+<ce:bibliography view="all">
+<ce:section-title>Reference</ce:section-title>
+<ce:bibliography-sec>
+<ce:bib-reference id="bib1">
+<ce:label>[1]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Geng</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.J.</ce:given-name>
+<ce:surname>Lu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>360</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>176</sb:first-page>
+<sb:last-page>182</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib2">
+<ce:label>[2]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>G.P.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.Y.</ce:given-name>
+<ce:surname>Liu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.Q.</ce:given-name>
+<ce:surname>Hu</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scripta Metall. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>33</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>4</sb:issue-nr>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>547</sb:first-page>
+<sb:last-page>551</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib3">
+<ce:label>[3]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.Y.</ce:given-name>
+<ce:surname>Liu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.P.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Q.J.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.X.</ce:given-name>
+<ce:surname>Guan</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Rare Earths</sb:maintitle>
+</sb:title>
+<sb:volume-nr>16</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>4</sb:issue-nr>
+<sb:date>1998</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>285</sb:first-page>
+<sb:last-page>290</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib4">
+<ce:label>[4]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Geng</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.J.</ce:given-name>
+<ce:surname>Lu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.F.</ce:given-name>
+<ce:surname>Yang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Lett.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>57</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>4054</sb:first-page>
+<sb:last-page>4057</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib5">
+<ce:label>[5]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Xu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.J.</ce:given-name>
+<ce:surname>Lu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.F.</ce:given-name>
+<ce:surname>Yang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.N.</ce:given-name>
+<ce:surname>Qin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloy Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>400</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>216</sb:first-page>
+<sb:last-page>221</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib6">
+<ce:label>[6]</ce:label>
+<ce:other-ref>
+<ce:textref>Z.F. Yang, W.J. Lu, D. Xu, J.N. Qin, D. Zhang, J. Alloy Compd., in press.</ce:textref>
+</ce:other-ref>
+</ce:bib-reference>
+<ce:bib-reference id="bib7">
+<ce:label>[7]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Licheri</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Orru</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.C.</ce:given-name>
+<ce:surname>Cao</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>367</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>185</sb:first-page>
+<sb:last-page>197</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib8">
+<ce:label>[8]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>J.C.</ce:given-name>
+<ce:surname>Oh</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.S.</ce:given-name>
+<ce:surname>Yun</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metall. Mater. Trans. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>35</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>2</sb:issue-nr>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>525</sb:first-page>
+<sb:last-page>534</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib9">
+<ce:label>[9]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>A.J.W.</ce:given-name>
+<ce:surname>Ohnson</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.S.</ce:given-name>
+<ce:surname>Kumar</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.L.</ce:given-name>
+<ce:surname>Briant</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Metall. Mater. Trans. A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>34</sb:volume-nr>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1869</sb:first-page>
+<sb:last-page>1877</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib10">
+<ce:label>[10]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>P.</ce:given-name>
+<ce:surname>Wanjara</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Yue</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.A.L.</ce:given-name>
+<ce:surname>Dre</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Root</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Donaberger</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Key Eng. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>27–131</sb:volume-nr>
+</sb:series>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>415</sb:first-page>
+<sb:last-page>422</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib11">
+<ce:label>[11]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Abkowitz</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.M.</ce:given-name>
+<ce:surname>Abkowitz</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Ind. Heating</sb:maintitle>
+</sb:title>
+<sb:volume-nr>60</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>9</sb:issue-nr>
+<sb:date>1993</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>32</sb:first-page>
+<sb:last-page>36</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib12">
+<ce:label>[12]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>H.T.</ce:given-name>
+<ce:surname>Tsang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.G.</ce:given-name>
+<ce:surname>Chao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.Y.</ce:given-name>
+<ce:surname>Ma</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scripta Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>37</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>9</sb:issue-nr>
+<sb:date>1997</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1359</sb:first-page>
+<sb:last-page>1365</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib13">
+<ce:label>[13]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Rangarajan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.B.</ce:given-name>
+<ce:surname>Aswath</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.O.</ce:given-name>
+<ce:surname>Soboyejo</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scripta Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>35</sb:volume-nr>
+</sb:series>
+<sb:date>1996</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>239</sb:first-page>
+<sb:last-page>245</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib14">
+<ce:label>[14]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.J.</ce:given-name>
+<ce:surname>Lu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.N.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.J.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Sakata</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Mori</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng A</sb:maintitle>
+</sb:title>
+<sb:volume-nr>311</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>142</sb:first-page>
+<sb:last-page>150</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib15">
+<ce:label>[15]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>S.C.</ce:given-name>
+<ce:surname>Tjong</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Z.Y.</ce:given-name>
+<ce:surname>Ma</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Mater. Sci. Eng.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>R29</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>49</sb:first-page>
+<sb:last-page>53</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib16">
+<ce:label>[16]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.G.</ce:given-name>
+<ce:surname>Konitzer</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.H.</ce:given-name>
+<ce:surname>Loretto</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Acta Metall. Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>37</sb:volume-nr>
+</sb:series>
+<sb:date>1989</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>397</sb:first-page>
+<sb:last-page>406</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib17">
+<ce:label>[17]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>W.J.</ce:given-name>
+<ce:surname>Lu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.N.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.J.</ce:given-name>
+<ce:surname>Wu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.</ce:given-name>
+<ce:surname>Sakata</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.</ce:given-name>
+<ce:surname>Mori</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Scripta Mater.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>44</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>7</sb:issue-nr>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1069</sb:first-page>
+<sb:last-page>1075</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib18">
+<ce:label>[18]</ce:label>
+<sb:reference>
+<sb:contribution langtype="en">
+<sb:authors>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Geng</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.X.</ce:given-name>
+<ce:surname>Qin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.J.</ce:given-name>
+<ce:surname>Lu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Ji</ce:surname>
+</sb:author>
+</sb:authors>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Alloy Compd.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>392</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>282</sb:first-page>
+<sb:last-page>284</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>
+</xocs:serial-item></xocs:doc></originaltext></full-text-retrieval-response></body></html>
