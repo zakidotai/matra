@@ -107,7 +107,7 @@ def build_database_tool(
             ])
             
             if not piis:
-                logger.warning(f"No articles found in {journal}")
+                logger.warning(f"No articles (PII subdirs) found in {journal} at {journal_path}")
                 continue
             
             xml_paths = [
@@ -119,7 +119,7 @@ def build_database_tool(
             xml_paths = [p for p in xml_paths if os.path.exists(p)]
             
             if not xml_paths:
-                logger.warning(f"No XML files found in {journal}")
+                logger.warning(f"No XML files found in {journal} (expected <PII>/<PII>.xml under {journal_path})")
                 continue
             
             # Extract metadata in parallel
@@ -145,11 +145,17 @@ def build_database_tool(
             continue
     
     if len(dfbig) == 0:
+        err_log = os.path.join(corpus_dir, "download_errors.txt")
+        hint = f" Check {err_log}" if os.path.exists(err_log) else ""
+        logger.warning("No articles (PII subdirs with XML) found in corpus; writing empty database CSV so workflow can continue.%s", hint)
+        os.makedirs(os.path.dirname(output_csv) if os.path.dirname(output_csv) else '.', exist_ok=True)
+        empty_df = pd.DataFrame(columns=['title', 'abstracts', 'doi', 'pii', 'journal'])
+        empty_df.to_csv(output_csv, index=False)
         return {
-            "success": False,
-            "output_csv": None,
+            "success": True,
+            "output_csv": output_csv,
             "total_articles": 0,
-            "error": "No articles found in corpus directory"
+            "error": "No articles found in corpus directory (empty CSV written)"
         }
     
     # Save database

@@ -63,8 +63,14 @@ def crossref_search_single(
     
     while keep_paging:
         try:
+            time.sleep(1.2)  # Polite rate limit: ~1 req/s to avoid 429 from CrossRef
             url = base_url + query + "&rows=" + str(max_rows) + "&cursor=" + cursor
             r = requests.get(url, headers=headers, timeout=100, params=params)
+            if r.status_code == 429:
+                wait = 5
+                logger.warning(f"CrossRef 429 Too Many Requests; waiting {wait}s then retrying")
+                time.sleep(wait)
+                r = requests.get(url, headers=headers, timeout=100, params=params)
             r.raise_for_status()
             
             data = r.json()
@@ -134,12 +140,37 @@ def crossref_search_tool(
     """
     os.makedirs(output_dir, exist_ok=True)
     
-    # Prepare all search combinations
+    # Validate and prepare all search combinations
     search_tasks = []
+    
+    # Validate date_ranges format
+    if not date_ranges:
+        logger.error("date_ranges cannot be empty")
+        return {
+            "success": False,
+            "csv_files": [],
+            "total_results": 0,
+            "error": "date_ranges cannot be empty"
+        }
+    
+    # Convert date_ranges to proper format if needed
+    validated_date_ranges = []
+    for date_range in date_ranges:
+        if isinstance(date_range, (list, tuple)) and len(date_range) == 2:
+            validated_date_ranges.append(tuple(date_range))
+        else:
+            logger.error(f"Invalid date_range format: {date_range}. Expected tuple/list of 2 elements.")
+            return {
+                "success": False,
+                "csv_files": [],
+                "total_results": 0,
+                "error": f"Invalid date_range format: {date_range}"
+            }
+    
     for query in queries:
         exact_query = f'"{query}"'
         for journal_issn in journal_issns:
-            for start_date, end_date in date_ranges:
+            for start_date, end_date in validated_date_ranges:
                 search_tasks.append((
                     exact_query, start_date, end_date, journal_issn,
                     email, max_rows, base_url

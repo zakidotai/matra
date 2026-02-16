@@ -46,29 +46,53 @@ def combine_and_deduplicate_tool(
             continue
         
         try:
-            # Read CSV, handling different index column names
+            # Read CSV
             tempdf = pd.read_csv(csv_path)
             
-            # Handle DOI as index or column
-            if 'DOI' in tempdf.columns:
-                tempdf = tempdf.set_index('DOI')
-            elif tempdf.index.name == 'DOI' or 'Unnamed: 0' in tempdf.columns:
-                # Reset index if DOI is the index
-                if tempdf.index.name == 'DOI':
-                    tempdf = tempdf.reset_index()
+            # Ensure DOI is a column, not an index
+            if tempdf.index.name == 'DOI':
+                # If DOI is the index, reset it to make it a column
+                tempdf = tempdf.reset_index()
+            elif 'DOI' not in tempdf.columns or (tempdf['DOI'].isna().all() if 'DOI' in tempdf.columns else True):
+                # Check if there's an 'Unnamed: 0' or 'index' column that might be DOI
+                if 'index' in tempdf.columns:
+                    # Check if index column contains DOIs (starts with '10.')
+                    if tempdf['index'].dtype == 'object':
+                        # Check if values look like DOIs
+                        sample_values = tempdf['index'].dropna().head(10)
+                        if len(sample_values) > 0 and sample_values.astype(str).str.startswith('10.').any():
+                            # If DOI column is missing or all NaN, use index column
+                            if 'DOI' not in tempdf.columns or (tempdf['DOI'].isna().all() if 'DOI' in tempdf.columns else True):
+                                tempdf['DOI'] = tempdf['index']
+                            tempdf = tempdf.drop(columns=['index'])
                 elif 'Unnamed: 0' in tempdf.columns:
-                    # Check if Unnamed: 0 contains DOIs
+                    # Check if it looks like DOIs
                     if tempdf['Unnamed: 0'].dtype == 'object':
-                        tempdf = tempdf.rename(columns={'Unnamed: 0': 'DOI'})
-                        tempdf = tempdf.set_index('DOI')
+                        sample_values = tempdf['Unnamed: 0'].dropna().head(10)
+                        if len(sample_values) > 0 and sample_values.astype(str).str.startswith('10.').any():
+                            if 'DOI' not in tempdf.columns or (tempdf['DOI'].isna().all() if 'DOI' in tempdf.columns else True):
+                                tempdf = tempdf.rename(columns={'Unnamed: 0': 'DOI'})
+            
+            # Ensure DOI column exists and is valid
+            if 'DOI' not in tempdf.columns:
+                logger.error(f"DOI column not found in {csv_path}")
+                continue
+            
+            # Remove rows with NaN or empty DOIs
+            tempdf = tempdf[tempdf['DOI'].notna() & (tempdf['DOI'] != '')]
+            
+            if len(tempdf) == 0:
+                logger.warning(f"No valid DOIs found in {csv_path}")
+                continue
             
             # Ensure required columns exist
             required_cols = ['Query', 'PII', 'Title', 'Journal']
             for col in required_cols:
                 if col not in tempdf.columns:
-                    tempdf[col] = 'None'
+                    tempdf[col] = None
             
-            masterdf = pd.concat([masterdf, tempdf], ignore_index=False)
+            # Keep DOI as a column (don't set as index)
+            masterdf = pd.concat([masterdf, tempdf], ignore_index=True)
             loaded_count += 1
             logger.info(f"Loaded {len(tempdf)} records from {csv_path}")
         except Exception as e:
@@ -84,19 +108,32 @@ def combine_and_deduplicate_tool(
             "error": "No valid data found in CSV files"
         }
     
-    # Remove duplicates based on DOI
+    # Ensure DOI column exists
+    if 'DOI' not in masterdf.columns:
+        return {
+            "success": False,
+            "output_path": None,
+            "total_count": 0,
+            "unique_count": 0,
+            "error": "DOI column not found after processing"
+        }
+    
+    # Remove duplicates based on DOI (keep first occurrence)
     total_count = len(masterdf)
     masterdf = masterdf.drop_duplicates(subset=['DOI'], keep='first')
     unique_count = len(masterdf)
     
-    # Reset index to make DOI a column
-    masterdf = masterdf.reset_index()
-    if 'DOI' not in masterdf.columns and masterdf.index.name == 'DOI':
-        masterdf = masterdf.reset_index()
+    # Ensure DOI column is properly formatted (no NaN values)
+    masterdf = masterdf[masterdf['DOI'].notna() & (masterdf['DOI'] != '')]
     
-    # Ensure DOI column exists
-    if 'DOI' not in masterdf.columns:
-        logger.warning("DOI column not found after processing")
+    if len(masterdf) == 0:
+        return {
+            "success": False,
+            "output_path": None,
+            "total_count": total_count,
+            "unique_count": 0,
+            "error": "No valid DOIs remaining after deduplication"
+        }
     
     # Save consolidated CSV
     os.makedirs(os.path.dirname(output_path) if os.path.dirname(output_path) else '.', exist_ok=True)
