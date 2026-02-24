@@ -187,9 +187,8 @@ def download_article_xml(
         # example for pii : <prism:url>https://api.elsevier.com/content/article/pii/S0272884225027476</prism:url>
         # pii is last part of the url
         pii_element = soup.find('prism:url')
-        pii = pii_element.text.split('/')[-1]
         
-        if pii_element is None:
+        if pii_element is None or not pii_element.text:
             return {
                 "success": False,
                 "pii": None,
@@ -197,7 +196,11 @@ def download_article_xml(
                 "error": "PII not found in XML"
             }
         
-        pii = pii_element.text
+        # Extract just the PII (last part of URL), not the full URL
+        pii_url = pii_element.text.strip()
+        pii = pii_url.split('/')[-1] if '/' in pii_url else pii_url
+        
+        # Use only the PII part for file paths, not the full URL
         pii_path = os.path.join(output_dir, str(pii))
         xml_path = os.path.join(pii_path, f"{pii}.xml")
         

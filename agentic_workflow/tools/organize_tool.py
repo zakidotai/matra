@@ -66,9 +66,19 @@ def organize_xmls_tool(
     
     logger.info(f"Organizing XMLs from {corpus_dir} to {combined_dir}")
     
+    # Sanitize journal names to match how download_tool creates directories
+    # download_tool uses: jdir = '_'.join(journal_name.split())
+    def sanitize_journal_name(journal_name):
+        """Convert journal name to directory name format (spaces to underscores)"""
+        if pd.isna(journal_name):
+            return "Unknown"
+        return '_'.join(str(journal_name).split())
+    
     # Create source and destination paths
-    df['source'] = corpus_dir + '/' + df['journal'] + '/' + df['pii']
-    df['destination'] = combined_dir + '/' + df['pii']
+    # Use sanitized journal names to match directory structure created by download_tool
+    df['journal_dir'] = df['journal'].apply(sanitize_journal_name)
+    df['source'] = df.apply(lambda row: os.path.join(corpus_dir, row['journal_dir'], row['pii']), axis=1)
+    df['destination'] = df.apply(lambda row: os.path.join(combined_dir, row['pii']), axis=1)
     
     total_count = len(df)
     moved_count = 0
@@ -78,12 +88,27 @@ def organize_xmls_tool(
         try:
             source = df['source'].iloc[i]
             dest = df['destination'].iloc[i]
+            pii = df['pii'].iloc[i]
             
-            if os.path.exists(source):
-                shutil.move(source, dest)
-                moved_count += 1
-            else:
+            # Check if source directory exists
+            if not os.path.exists(source):
                 errors.append(f"Source not found: {source}")
+                continue
+            
+            # Check if XML file exists inside the directory
+            xml_file = os.path.join(source, f"{pii}.xml")
+            if not os.path.exists(xml_file):
+                errors.append(f"XML file not found in {source}: {xml_file}")
+                continue
+            
+            # Move the directory
+            if os.path.exists(dest):
+                # Destination already exists, skip or handle conflict
+                errors.append(f"Destination already exists: {dest}")
+                continue
+            
+            shutil.move(source, dest)
+            moved_count += 1
         except Exception as e:
             errors.append(f"Error moving {df['source'].iloc[i]}: {str(e)}")
     

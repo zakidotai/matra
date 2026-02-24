@@ -7,6 +7,7 @@ import logging
 import os
 import sys
 import pandas as pd
+import numpy as np
 from typing import List, Tuple
 from pathlib import Path
 
@@ -28,6 +29,7 @@ except ImportError:
 try:
     from .config import Config
     from .workflow import Workflow
+    from .ui.auth import check_authentication, render_login_page
 except ImportError:
     # Add parent directory to path for direct script execution (e.g., when run via streamlit)
     # __file__ is always defined when Streamlit runs the script
@@ -40,14 +42,16 @@ except ImportError:
         sys.path.insert(0, parent_dir)
     from agentic_workflow.config import Config
     from agentic_workflow.workflow import Workflow
+    from agentic_workflow.ui.auth import check_authentication, render_login_page
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 st.set_page_config(
-    page_title="MatRA",
-    page_icon="📚",
-    layout="wide"
+    page_title="MatRA - Materials Discovery Platform",
+    page_icon="🔬",
+    layout="wide",
+    initial_sidebar_state="expanded"
 )
 
 
@@ -94,6 +98,80 @@ def filter_stop_words(queries: List[str]) -> List[str]:
     return filtered_queries
 
 
+def _track_user_activity(username: str, activity_type: str, details: dict = None):
+    """Track user activity for usage history"""
+    if 'user_history' not in st.session_state:
+        st.session_state['user_history'] = []
+    
+    import datetime
+    activity = {
+        'timestamp': datetime.datetime.now().isoformat(),
+        'username': username,
+        'activity_type': activity_type,
+        'details': details or {}
+    }
+    st.session_state['user_history'].append(activity)
+    
+    # Keep only last 100 activities per session
+    if len(st.session_state['user_history']) > 100:
+        st.session_state['user_history'] = st.session_state['user_history'][-100:]
+
+
+def _load_user_history(username: str) -> list:
+    """Load persistent user history from file"""
+    import json
+    from pathlib import Path
+    
+    history_file = Path(__file__).parent / "static" / "assets" / "user_history.json"
+    
+    if not history_file.exists():
+        return []
+    
+    try:
+        with open(history_file, 'r') as f:
+            all_history = json.load(f)
+            # Return history for this user (last 50 entries)
+            user_history = [h for h in all_history if h.get('username') == username]
+            return sorted(user_history, key=lambda x: x.get('timestamp', ''), reverse=True)[:50]
+    except Exception:
+        return []
+
+
+def _save_user_history(username: str, activity: dict):
+    """Save user activity to persistent history file"""
+    import json
+    import datetime
+    from pathlib import Path
+    
+    history_file = Path(__file__).parent / "static" / "assets" / "user_history.json"
+    
+    # Load existing history
+    all_history = []
+    if history_file.exists():
+        try:
+            with open(history_file, 'r') as f:
+                all_history = json.load(f)
+        except Exception:
+            all_history = []
+    
+    # Add new activity
+    activity['username'] = username
+    if 'timestamp' not in activity:
+        activity['timestamp'] = datetime.datetime.now().isoformat()
+    
+    all_history.append(activity)
+    
+    # Keep only last 1000 activities across all users
+    all_history = sorted(all_history, key=lambda x: x.get('timestamp', ''), reverse=True)[:1000]
+    
+    # Save back
+    try:
+        with open(history_file, 'w') as f:
+            json.dump(all_history, f, indent=2)
+    except Exception:
+        pass  # Silently fail if can't write
+
+
 def get_workflow_database_path(result: dict, config, query_name: str) -> str:
     """Get database CSV path from workflow result (tool_results or steps) if present, else derive from query_name."""
     if not result:
@@ -116,8 +194,28 @@ def get_workflow_database_path(result: dict, config, query_name: str) -> str:
 
 
 def main():
-    st.title("MatRA")
-    st.markdown("Materials Research Agent")
+    # Authentication gate
+    authenticated_user = check_authentication()
+    
+    if not authenticated_user:
+        render_login_page()
+        st.stop()
+    
+    # Simple header with user info (no theme injection)
+    user = st.session_state.get('authenticated_user')
+    display_name = st.session_state.get('user_display_name', user)
+    
+    col1, col2 = st.columns([4, 1])
+    with col1:
+        st.title("MatRA - Materials Research Agent")
+    with col2:
+        st.markdown(f"**User:** {display_name}")
+        if st.button("🚪 Logout", key="logout_button"):
+            from agentic_workflow.ui.auth import logout_user
+            logout_user()
+    
+    # Track user activity
+    _track_user_activity(authenticated_user, "page_view")
     
     # Sidebar for configuration
     with st.sidebar:
@@ -277,7 +375,7 @@ def main():
         )
     
     # Main content area
-    tab1, tab2, tab3, tab4, tab5 = st.tabs(["Input", "Progress", "Results", "Database Search", "ML Analysis"])
+    tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs(["Input", "Progress", "Results", "Database Search", "ML Analysis", "Usage History"])
     
     with tab1:
         st.header("Search Parameters")
@@ -651,12 +749,31 @@ def main():
                             )
                         
                         st.session_state['workflow_result'] = result
+                        # Track workflow completion
+                        import datetime
+                        # Prepare workflow details (exclude sensitive info like email/API keys)
+                        workflow_details = {
+                            'query_name': inputs.get('query_name', 'default'),
+                            'num_queries': len(queries_to_use),
+                            'queries': queries_to_use[:10],  # Store first 10 queries (truncate if too many)
+                            'journal_issns': inputs.get('journal_issns', [])[:20],  # Store first 20 ISSNs
+                            'num_journals': len(inputs.get('journal_issns', [])),
+                            'date_ranges': inputs.get('date_ranges', []),
+                            'success': result.get('success', False)
+                        }
+                        _track_user_activity(authenticated_user, "workflow_completed", workflow_details)
+                        _save_user_history(authenticated_user, {
+                            'timestamp': datetime.datetime.now().isoformat(),
+                            'activity_type': 'workflow_completed',
+                            'details': workflow_details
+                        })
                     except Exception as e:
                         st.error(f"Workflow error: {str(e)}")
                         st.session_state['workflow_result'] = {
                             'success': False,
                             'error': str(e)
                         }
+                        _track_user_activity(authenticated_user, "workflow_error", {'error': str(e)})
             
             result = st.session_state.get('workflow_result', {})
             
@@ -910,6 +1027,10 @@ def main():
                         help="Search for keywords in title or abstract fields",
                         placeholder="e.g., silicon carbide"
                     )
+                
+                # Track database search (after search_query is defined)
+                if search_query:
+                    _track_user_activity(authenticated_user, "database_search", {'query': search_query})
                 with col2:
                     journal_filter = st.multiselect(
                         "Filter by journal",
@@ -1384,6 +1505,21 @@ def main():
                 with col2:
                     st.metric("Output Directory", ml_output_dir)
                 
+                # Track ML workflow completion
+                _track_user_activity(authenticated_user, "ml_workflow_completed", {
+                    'target_column': target_column,
+                    'success': result.get('success', False)
+                })
+                import datetime
+                _save_user_history(authenticated_user, {
+                    'timestamp': datetime.datetime.now().isoformat(),
+                    'activity_type': 'ml_workflow_completed',
+                    'details': {
+                        'target_column': target_column,
+                        'success': result.get('success', False)
+                    }
+                })
+                
                 # Metrics
                 st.subheader("Model Performance Metrics")
                 
@@ -1503,6 +1639,127 @@ def main():
                 st.error("❌ ML Workflow failed")
                 if 'error' in result:
                     st.error(f"Error: {result['error']}")
+        
+        with tab6:
+            st.header("📊 Usage History")
+            st.markdown("View your portal usage history and activity")
+            
+            # Load persistent history
+            persistent_history = _load_user_history(authenticated_user)
+            session_history = st.session_state.get('user_history', [])
+            
+            # Combine and sort by timestamp
+            all_history = persistent_history + [
+                h for h in session_history 
+                if h.get('username') == authenticated_user
+            ]
+            all_history = sorted(all_history, key=lambda x: x.get('timestamp', ''), reverse=True)
+            
+            if all_history:
+                st.info(f"Showing {len(all_history)} recent activities")
+                
+                # Group by activity type
+                activity_types = {}
+                for activity in all_history:
+                    act_type = activity.get('activity_type', 'unknown')
+                    if act_type not in activity_types:
+                        activity_types[act_type] = []
+                    activity_types[act_type].append(activity)
+                
+                # Display summary
+                st.subheader("Activity Summary")
+                col1, col2, col3, col4 = st.columns(4)
+                with col1:
+                    st.metric("Total Activities", len(all_history))
+                with col2:
+                    st.metric("Workflows", len(activity_types.get('workflow_completed', [])))
+                with col3:
+                    st.metric("ML Workflows", len(activity_types.get('ml_workflow_completed', [])))
+                with col4:
+                    st.metric("Database Searches", len(activity_types.get('database_search', [])))
+                
+                st.markdown("---")
+                st.subheader("Recent Activity")
+                
+                # Display recent activities
+                for activity in all_history[:20]:  # Show last 20
+                    timestamp = activity.get('timestamp', '')
+                    act_type = activity.get('activity_type', 'unknown')
+                    details = activity.get('details', {})
+                    
+                    # Format timestamp
+                    try:
+                        from datetime import datetime
+                        dt = datetime.fromisoformat(timestamp.replace('Z', '+00:00'))
+                        time_str = dt.strftime("%Y-%m-%d %H:%M:%S")
+                    except:
+                        time_str = timestamp
+                    
+                    # Format activity description
+                    if act_type == 'workflow_completed':
+                        query_name = details.get('query_name', 'N/A')
+                        num_queries = details.get('num_queries', 0)
+                        desc = f"Workflow: {query_name} ({num_queries} queries)"
+                        status = "✅" if details.get('success', False) else "❌"
+                        
+                        # Show detailed information in expander
+                        with st.expander(f"{status} {time_str} - {desc}", expanded=False):
+                            # Queries
+                            queries = details.get('queries', [])
+                            if queries:
+                                st.markdown("**Queries:**")
+                                for i, q in enumerate(queries, 1):
+                                    st.text(f"  {i}. {q}")
+                                if details.get('num_queries', 0) > len(queries):
+                                    st.caption(f"... and {details.get('num_queries', 0) - len(queries)} more queries")
+                            
+                            # Journal ISSNs
+                            journal_issns = details.get('journal_issns', [])
+                            num_journals = details.get('num_journals', 0)
+                            if journal_issns or num_journals > 0:
+                                st.markdown(f"**Journals:** {num_journals} journal(s)")
+                                if journal_issns:
+                                    st.text(", ".join(journal_issns[:10]))
+                                    if len(journal_issns) > 10:
+                                        st.caption(f"... and {len(journal_issns) - 10} more ISSNs")
+                            
+                            # Date ranges
+                            date_ranges = details.get('date_ranges', [])
+                            if date_ranges:
+                                st.markdown("**Date Range:**")
+                                for date_range in date_ranges:
+                                    if isinstance(date_range, (list, tuple)) and len(date_range) == 2:
+                                        st.text(f"  {date_range[0]} to {date_range[1]}")
+                                    else:
+                                        st.text(f"  {date_range}")
+                            
+                            # Success status
+                            if details.get('success', False):
+                                st.success("✓ Workflow completed successfully")
+                            else:
+                                st.error("✗ Workflow failed")
+                        
+                        # Skip the simple display for workflow_completed (already shown in expander)
+                        continue
+                    elif act_type == 'ml_workflow_completed':
+                        desc = f"ML Workflow completed: {details.get('target_column', 'N/A')}"
+                        status = "✅" if details.get('success', False) else "❌"
+                    elif act_type == 'database_search':
+                        desc = f"Database search: '{details.get('query', 'N/A')}'"
+                        status = "🔍"
+                    elif act_type == 'page_view':
+                        desc = "Page viewed"
+                        status = "👁️"
+                    elif act_type == 'workflow_error':
+                        desc = f"Workflow error: {details.get('error', 'Unknown')}"
+                        status = "⚠️"
+                    else:
+                        desc = f"Activity: {act_type}"
+                        status = "📝"
+                    
+                    st.markdown(f"**{status} {time_str}** - {desc}")
+            else:
+                st.info("No usage history available yet. Your activities will be tracked here.")
 
 
 if __name__ == "__main__":
