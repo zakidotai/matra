@@ -8,6 +8,6 @@ streamlit
 matplotlib
 shap
 streamlit-nightly
-torch==2.6.0
+torch
 uqpy
 
