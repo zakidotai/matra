@@ -4,6 +4,7 @@ Tool for downloading article XMLs from DOIs
 
 import os
 import random
+import time
 import logging
 import pandas as pd
 import requests
@@ -28,7 +29,8 @@ def get_master_db_path(output_dir: str) -> str:
 
 def load_downloaded_dois(output_dir: str) -> Set[str]:
     """
-    Load set of already downloaded DOIs from master database
+    Load set of successfully downloaded DOIs from master database.
+    Only returns DOIs where Downloaded == True.
     
     Args:
         output_dir: Base output directory
@@ -54,10 +56,14 @@ def load_downloaded_dois(output_dir: str) -> Set[str]:
                     doi_str = doi_str[len(prefix):]
             return doi_str.strip()
         
+        # Only consider DOIs that were actually downloaded successfully
+        if 'Downloaded' in df.columns:
+            df = df[df['Downloaded'] == True]
+        
         dois = set(df['DOI'].astype(str).apply(normalize_doi))
         dois.discard('nan')  # Remove any NaN values
         dois.discard('')  # Remove empty strings
-        logger.info(f"Loaded {len(dois)} DOIs from master database at {master_db_path}")
+        logger.info(f"Loaded {len(dois)} successfully downloaded DOIs from master database at {master_db_path}")
         return dois
     except Exception as e:
         logger.warning(f"Error loading master database: {e}")
@@ -66,7 +72,7 @@ def load_downloaded_dois(output_dir: str) -> Set[str]:
 
 def update_master_db(output_dir: str, downloaded_dois: List[str], journal_names: List[str] = None):
     """
-    Update master database with newly downloaded DOIs
+    Update master database with newly downloaded DOIs (marks them as Downloaded=True)
     
     Args:
         output_dir: Base output directory
@@ -78,10 +84,7 @@ def update_master_db(output_dir: str, downloaded_dois: List[str], journal_names:
     
     master_db_path = get_master_db_path(output_dir)
     
-    # Load existing database
-    existing_dois = load_downloaded_dois(output_dir)
-    
-    # Normalize DOI function (same as in load_downloaded_dois)
+    # Normalize DOI function
     def normalize_doi(doi_str):
         doi_str = str(doi_str).lower().strip()
         for prefix in ['https://doi.org/', 'http://doi.org/', 'doi:', 'doi.org/']:
@@ -89,33 +92,53 @@ def update_master_db(output_dir: str, downloaded_dois: List[str], journal_names:
                 doi_str = doi_str[len(prefix):]
         return doi_str.strip()
     
-    # Prepare new entries
-    new_entries = []
-    for i, doi in enumerate(downloaded_dois):
-        doi_normalized = normalize_doi(doi)
-        if doi_normalized and doi_normalized != 'nan' and doi_normalized != '' and doi_normalized not in existing_dois:
-            entry = {'DOI': doi}  # Store original DOI format
-            if journal_names and i < len(journal_names):
-                entry['Journal'] = journal_names[i]
-            new_entries.append(entry)
-            existing_dois.add(doi_normalized)
-    
-    if not new_entries:
-        logger.info("No new DOIs to add to master database")
-        return
-    
     # Load existing database or create new
     if os.path.exists(master_db_path):
         try:
             df_existing = pd.read_csv(master_db_path)
         except:
-            df_existing = pd.DataFrame(columns=['DOI', 'Journal'])
+            df_existing = pd.DataFrame(columns=['DOI', 'Journal', 'Downloaded'])
     else:
-        df_existing = pd.DataFrame(columns=['DOI', 'Journal'])
+        df_existing = pd.DataFrame(columns=['DOI', 'Journal', 'Downloaded'])
+    
+    # Ensure Downloaded column exists (backward compatibility with old master DBs)
+    if 'Downloaded' not in df_existing.columns:
+        df_existing['Downloaded'] = True  # Assume old entries were downloaded
+    
+    # Get existing normalized DOIs
+    if 'DOI' in df_existing.columns and len(df_existing) > 0:
+        existing_normalized = set(df_existing['DOI'].astype(str).apply(normalize_doi))
+    else:
+        existing_normalized = set()
+    
+    # For DOIs already in DB, update their Downloaded flag to True
+    dois_to_update = set()
+    new_entries = []
+    for i, doi in enumerate(downloaded_dois):
+        doi_normalized = normalize_doi(doi)
+        if not doi_normalized or doi_normalized == 'nan' or doi_normalized == '':
+            continue
+        if doi_normalized in existing_normalized:
+            dois_to_update.add(doi_normalized)
+        else:
+            entry = {'DOI': doi, 'Downloaded': True}
+            if journal_names and i < len(journal_names):
+                entry['Journal'] = journal_names[i]
+            new_entries.append(entry)
+            existing_normalized.add(doi_normalized)
+    
+    # Update existing entries to Downloaded=True
+    if dois_to_update and len(df_existing) > 0:
+        df_existing['_norm'] = df_existing['DOI'].astype(str).apply(normalize_doi)
+        df_existing.loc[df_existing['_norm'].isin(dois_to_update), 'Downloaded'] = True
+        df_existing = df_existing.drop(columns=['_norm'])
     
     # Add new entries
-    df_new = pd.DataFrame(new_entries)
-    df_combined = pd.concat([df_existing, df_new], ignore_index=True)
+    if new_entries:
+        df_new = pd.DataFrame(new_entries)
+        df_combined = pd.concat([df_existing, df_new], ignore_index=True)
+    else:
+        df_combined = df_existing
     
     # Remove duplicates (keep first occurrence)
     df_combined = df_combined.drop_duplicates(subset=['DOI'], keep='first')
@@ -123,7 +146,8 @@ def update_master_db(output_dir: str, downloaded_dois: List[str], journal_names:
     # Save
     os.makedirs(output_dir, exist_ok=True)
     df_combined.to_csv(master_db_path, index=False)
-    logger.info(f"Updated master database with {len(new_entries)} new DOIs. Total: {len(df_combined)} DOIs")
+    updated_count = len(dois_to_update) + len(new_entries)
+    logger.info(f"Updated master database: {len(new_entries)} new + {len(dois_to_update)} marked downloaded. Total: {len(df_combined)} DOIs")
 
 
 def download_article_xml(
@@ -159,7 +183,11 @@ def download_article_xml(
         response.raise_for_status()
         
         soup = BeautifulSoup(response.content, 'xml')
-        pii_element = soup.find('xocs:pii-unformatted')
+
+        # example for pii : <prism:url>https://api.elsevier.com/content/article/pii/S0272884225027476</prism:url>
+        # pii is last part of the url
+        pii_element = soup.find('prism:url')
+        pii = pii_element.text.split('/')[-1]
         
         if pii_element is None:
             return {
@@ -215,18 +243,23 @@ def download_wrapper(args: tuple) -> dict:
     result = download_article_xml(doi, journal, output_base, api_keys, elsevier_api_base)
     result['idx'] = idx
     result['doi'] = doi
+    
+    # Rate-limit: sleep 1 + random(0,1) seconds to avoid 429 Too Many Requests
+    time.sleep(1 + random.random())
+    
     return result
 
 
-def add_dois_to_master_db(output_dir: str, dois: List[str], source: str = "consolidated_csv"):
+def add_dois_to_master_db(output_dir: str, dois: List[str], source: str = "consolidated_csv", downloaded: bool = False):
     """
-    Add DOIs to master database (marking them as seen, even if not downloaded)
-    This helps track all DOIs that have been processed, not just successfully downloaded ones
+    Add DOIs to master database with a Downloaded flag.
+    DOIs added here with downloaded=False will NOT be skipped on future runs.
     
     Args:
         output_dir: Base output directory
         dois: List of DOIs to add
         source: Source of the DOIs (e.g., "consolidated_csv")
+        downloaded: Whether these DOIs were successfully downloaded
     """
     if not dois:
         return
@@ -238,9 +271,13 @@ def add_dois_to_master_db(output_dir: str, dois: List[str], source: str = "conso
         try:
             df_existing = pd.read_csv(master_db_path)
         except:
-            df_existing = pd.DataFrame(columns=['DOI', 'Journal', 'Source'])
+            df_existing = pd.DataFrame(columns=['DOI', 'Journal', 'Source', 'Downloaded'])
     else:
-        df_existing = pd.DataFrame(columns=['DOI', 'Journal', 'Source'])
+        df_existing = pd.DataFrame(columns=['DOI', 'Journal', 'Source', 'Downloaded'])
+    
+    # Ensure Downloaded column exists (backward compatibility)
+    if 'Downloaded' not in df_existing.columns:
+        df_existing['Downloaded'] = True  # Assume old entries were downloaded
     
     # Normalize DOI function
     def normalize_doi(doi_str):
@@ -256,7 +293,7 @@ def add_dois_to_master_db(output_dir: str, dois: List[str], source: str = "conso
     else:
         existing_normalized = set()
     
-    # Add new DOIs
+    # Add new DOIs (only ones not already in master DB)
     new_entries = []
     for doi in dois:
         doi_normalized = normalize_doi(doi)
@@ -264,7 +301,8 @@ def add_dois_to_master_db(output_dir: str, dois: List[str], source: str = "conso
             new_entries.append({
                 'DOI': doi,  # Store original format
                 'Journal': 'Unknown',
-                'Source': source
+                'Source': source,
+                'Downloaded': downloaded
             })
             existing_normalized.add(doi_normalized)
     
@@ -274,7 +312,7 @@ def add_dois_to_master_db(output_dir: str, dois: List[str], source: str = "conso
         df_combined = df_combined.drop_duplicates(subset=['DOI'], keep='first')
         os.makedirs(output_dir, exist_ok=True)
         df_combined.to_csv(master_db_path, index=False)
-        logger.info(f"Added {len(new_entries)} DOIs from {source} to master database. Total: {len(df_combined)} DOIs")
+        logger.info(f"Added {len(new_entries)} DOIs from {source} to master database (downloaded={downloaded}). Total: {len(df_combined)} DOIs")
 
 
 def download_articles_tool(
@@ -419,10 +457,6 @@ def download_articles_tool(
     total = len(df)
     if total == 0:
         logger.info("All articles already downloaded. Nothing to download.")
-        # Still add all DOIs from CSV to master DB for tracking (handles duplicates)
-        all_dois_in_csv = df_original['DOI'].astype(str).tolist()
-        add_dois_to_master_db(output_dir, all_dois_in_csv, source="consolidated_csv")
-        logger.info(f"Added {len(all_dois_in_csv)} DOIs from consolidated CSV to master database for tracking")
         return {
             "success": True,
             "total": initial_count,
@@ -458,12 +492,11 @@ def download_articles_tool(
         # Use the same output_dir we used for loading
         update_master_db(output_dir, successful_dois, successful_journals)
     
-    # Also add all DOIs from the consolidated CSV to master DB (AFTER filtering/downloading)
-    # This tracks what we've seen in consolidated CSVs, even if download failed
-    # This prevents re-processing the same DOIs in future runs with same queries
-    all_dois_in_csv = df_original['DOI'].astype(str).tolist()
-    add_dois_to_master_db(output_dir, all_dois_in_csv, source="consolidated_csv")
-    logger.info(f"Added {len(all_dois_in_csv)} DOIs from consolidated CSV to master database for tracking")
+    # Track failed DOIs in master DB with Downloaded=False so they are retried next run
+    failed_dois = [r['doi'] for r in results if not r['success']]
+    if failed_dois:
+        add_dois_to_master_db(output_dir, failed_dois, source="consolidated_csv", downloaded=False)
+        logger.info(f"Tracked {len(failed_dois)} failed DOIs in master database (Downloaded=False, will retry next run)")
     
     # Log errors
     errors = [r for r in results if not r['success']]

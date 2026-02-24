@@ -112,8 +112,29 @@ Examples:
         help='Elsevier API keys (comma-separated) or path to file with one key per line'
     )
     parser.add_argument(
+        '--llm-provider',
+        choices=['none', 'local', 'olmo', 'openai'],
+        help='LLM provider (none, local, olmo, openai). Overrides LLM_PROVIDER env var.'
+    )
+    parser.add_argument(
         '--vllm-url',
         help='URL for vllm server (default: http://localhost:8000)'
+    )
+    parser.add_argument(
+        '--openai-api-key',
+        help='OpenAI API key (overrides OPENAI_API_KEY env var)'
+    )
+    parser.add_argument(
+        '--openai-base-url',
+        help='OpenAI base URL (default: https://api.openai.com/v1)'
+    )
+    parser.add_argument(
+        '--openai-model',
+        help='OpenAI model for tool calls (default: gpt-4o)'
+    )
+    parser.add_argument(
+        '--openai-query-model',
+        help='OpenAI model for query generation (default: gpt-4o-mini)'
     )
     parser.add_argument(
         '--output-dir',
@@ -158,8 +179,18 @@ Examples:
         config.email = args.email
     if args.api_keys:
         config.api_keys = parse_api_keys(args.api_keys)
+    if args.llm_provider:
+        config.llm_provider = args.llm_provider
     if args.vllm_url:
         config.vllm_url = args.vllm_url
+    if args.openai_api_key:
+        config.openai_api_key = args.openai_api_key
+    if args.openai_base_url:
+        config.openai_base_url = args.openai_base_url
+    if args.openai_model:
+        config.openai_model = args.openai_model
+    if args.openai_query_model:
+        config.openai_query_model = args.openai_query_model
     if args.output_dir:
         config.output_dir = args.output_dir
     if args.n_workers_search:

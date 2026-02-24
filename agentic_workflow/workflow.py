@@ -10,7 +10,7 @@ from .agent import Agent
 from .config import Config
 
 # Import tools to register them
-from .tools import crossref_tool, deduplication_tool, download_tool, database_tool, organize_tool
+from .tools import crossref_tool, deduplication_tool, download_tool, database_tool, organize_tool, ml_tool
 
 logger = logging.getLogger(__name__)
 
@@ -20,7 +20,11 @@ class Workflow:
     
     def __init__(self, config: Config):
         self.config = config
-        self.agent = Agent(config)
+        # Only initialize agent if LLM provider is not "none"
+        if config.llm_provider != "none":
+            self.agent = Agent(config)
+        else:
+            self.agent = None
     
     def run(
         self,
@@ -80,6 +84,15 @@ Use the provided API keys: {', '.join(self.config.api_keys[:2])} (showing first 
         logger.info(f"Date ranges: {date_ranges}")
         
         # Execute workflow using agent
+        if self.agent is None:
+            logger.error("Agent is None. Cannot execute workflow with agent. Use run_direct() instead.")
+            return {
+                "success": False,
+                "summary": "Agent not initialized",
+                "tool_results": [],
+                "errors": ["Agent is None. LLM provider may be set to 'none'."]
+            }
+        
         result = self.agent.execute_workflow(user_input)
         
         return result
@@ -204,7 +217,60 @@ Use the provided API keys: {', '.join(self.config.api_keys[:2])} (showing first 
             "total_dois": dedup_result.get("unique_count", 0),
             "downloaded": download_result.get("successful", 0),
             "database_articles": database_result.get("total_articles", 0),
+            "new_articles": database_result.get("new_articles", 0),
             "organized": organize_result.get("moved_count", 0)
         }
         
         return results
+    
+    def run_ml_workflow_direct(
+        self,
+        data_path: str,
+        output_dir: Optional[str] = None,
+        target_column: str = "Density",
+        test_size: float = 0.2,
+        random_state: int = 94,
+        n_trials: int = 100,
+        n_samples_uncertainty: int = 300,
+        hyperparams: Optional[dict] = None,
+        target_min: Optional[float] = None,
+        target_max: Optional[float] = None,
+    ) -> dict:
+        """
+        Run ML workflow directly without agent (standalone execution)
+        
+        Args:
+            data_path: Path to CSV data file
+            output_dir: Directory for saving models and outputs (defaults to config.output_dir/ml_output)
+            target_column: Name of target column (default: "Density")
+            test_size: Train/test split ratio (default: 0.2)
+            random_state: Random seed for reproducibility (default: 94)
+            n_trials: Number of Optuna trials (default: 100)
+            n_samples_uncertainty: Number of samples for uncertainty estimation (default: 300)
+            target_min: Optional minimum target value to include (set after inspecting histogram)
+            target_max: Optional maximum target value to include (set after inspecting histogram)
+            
+        Returns:
+            Dictionary with ML workflow results
+        """
+        from .tools.ml_tool import ml_property_prediction_tool
+        
+        # Set default output directory if not provided
+        if output_dir is None:
+            output_dir = os.path.join(self.config.output_dir, "ml_output")
+        
+        # Execute ML workflow (property prediction supports any target column including Density)
+        result = ml_property_prediction_tool(
+            data_path=data_path,
+            output_dir=output_dir,
+            target_column=target_column,
+            test_size=test_size,
+            random_state=random_state,
+            n_trials=n_trials,
+            n_samples_uncertainty=n_samples_uncertainty,
+            hyperparams=hyperparams,
+            target_min=target_min,
+            target_max=target_max,
+        )
+        
+        return result

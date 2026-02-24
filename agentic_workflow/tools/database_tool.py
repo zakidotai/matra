@@ -144,11 +144,40 @@ def build_database_tool(
             logger.error(f"Error processing journal {journal}: {e}")
             continue
     
+    # Merge with ALL existing corpus_*.csv database files in the output directory
+    # so the final database accumulates articles across all query runs
+    new_articles = len(dfbig)
+    output_parent = os.path.dirname(output_csv) if os.path.dirname(output_csv) else '.'
+    os.makedirs(output_parent, exist_ok=True)
+    
+    import glob
+    existing_csvs = glob.glob(os.path.join(output_parent, 'corpus_*.csv'))
+    existing_frames = []
+    for csv_path in existing_csvs:
+        try:
+            ef = pd.read_csv(csv_path)
+            if len(ef) > 0:
+                existing_frames.append(ef)
+                logger.info(f"Loaded {len(ef)} articles from existing database: {os.path.basename(csv_path)}")
+        except Exception as e:
+            logger.warning(f"Could not read {csv_path}, skipping: {e}")
+    
+    if existing_frames:
+        existing_df = pd.concat(existing_frames, ignore_index=True)
+        logger.info(f"Merging {new_articles} new articles with {len(existing_df)} existing articles from {len(existing_frames)} database file(s)")
+        dfbig = pd.concat([existing_df, dfbig], ignore_index=True)
+        # Deduplicate by PII (primary key), keeping the latest entry
+        if 'pii' in dfbig.columns:
+            before_dedup = len(dfbig)
+            dfbig = dfbig.drop_duplicates(subset=['pii'], keep='last')
+            dupes_removed = before_dedup - len(dfbig)
+            if dupes_removed > 0:
+                logger.info(f"Removed {dupes_removed} duplicate articles (by PII)")
+    
     if len(dfbig) == 0:
         err_log = os.path.join(corpus_dir, "download_errors.txt")
         hint = f" Check {err_log}" if os.path.exists(err_log) else ""
         logger.warning("No articles (PII subdirs with XML) found in corpus; writing empty database CSV so workflow can continue.%s", hint)
-        os.makedirs(os.path.dirname(output_csv) if os.path.dirname(output_csv) else '.', exist_ok=True)
         empty_df = pd.DataFrame(columns=['title', 'abstracts', 'doi', 'pii', 'journal'])
         empty_df.to_csv(output_csv, index=False)
         return {
@@ -160,16 +189,16 @@ def build_database_tool(
     
     # Save database
     dfbig.reset_index(drop=True, inplace=True)
-    os.makedirs(os.path.dirname(output_csv) if os.path.dirname(output_csv) else '.', exist_ok=True)
     dfbig.to_csv(output_csv, index=False)
     
-    logger.info(f"Built database with {len(dfbig)} articles")
+    logger.info(f"Built database with {len(dfbig)} total articles ({new_articles} new)")
     logger.info(f"Saved to {output_csv}")
     
     return {
         "success": True,
         "output_csv": output_csv,
         "total_articles": len(dfbig),
+        "new_articles": new_articles,
         "error": None
     }
 
