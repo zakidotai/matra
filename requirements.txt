@@ -1,4 +1,5 @@
 # Core data processing
+pkg_resources
 pandas>=1.5.0
 numpy>=1.23.0
 
